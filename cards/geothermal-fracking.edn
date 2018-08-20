@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "04017"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "geothermal-fracking"
+ :side :corp
+ :subtype [:expansion]
+ :text "Place 2 agenda counters on Geothermal Fracking when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 7[credit] and take 1 bad publicity."
+ :title "Geothermal Fracking"
+ :type :agenda
+ :uniqueness false}

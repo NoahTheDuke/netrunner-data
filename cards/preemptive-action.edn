@@ -1,0 +1,12 @@
+{:code "11080"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "preemptive-action"
+ :influence-value 0
+ :side :corp
+ :subtype [:terminal]
+ :text "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it."
+ :title "Preemptive Action"
+ :type :operation
+ :uniqueness false}

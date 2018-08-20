@@ -1,0 +1,13 @@
+{:code "12013"
+ :cost 4
+ :deck-limit 3
+ :faction :jinteki
+ :id "kakugo"
+ :influence-value 3
+ :side :corp
+ :strength 1
+ :subtype [:barrier :ap]
+ :text "When the Runner passes Kakugo, do 1 net damage.\n[subroutine] End the run."
+ :title "Kakugo"
+ :type :ice
+ :uniqueness false}

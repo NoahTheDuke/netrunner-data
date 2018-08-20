@@ -1,0 +1,13 @@
+{:code "08078"
+ :cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "contract-killer"
+ :influence-value 4
+ :side :corp
+ :subtype [:hostile]
+ :text "Contract Killer can be advanced.\nIf there are at least 2 advancement tokens on Contract Killer, it gains: \"[click], [trash]: Trash a <strong>connection</strong> or do 2 meat damage.\""
+ :title "Contract Killer"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

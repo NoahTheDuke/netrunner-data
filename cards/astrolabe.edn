@@ -1,0 +1,12 @@
+{:code "06079"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "astrolabe"
+ :influence-value 2
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nDraw 1 card whenever the Corp creates a server.\nLimit 1 <strong>console</strong> per player."
+ :title "Astrolabe"
+ :type :hardware
+ :uniqueness true}

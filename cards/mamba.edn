@@ -1,0 +1,13 @@
+{:code "06065"
+ :cost 6
+ :deck-limit 3
+ :faction :jinteki
+ :id "mamba"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :psi :ap]
+ :text "<strong>Hosted power counter:</strong> Do 1 net damage. Use this ability only during a run.\n[subroutine] Do 1 net damage.\n[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 power counter on Mamba."
+ :title "Mamba"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "21003"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "zamba"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player."
+ :title "Zamba"
+ :type :hardware
+ :uniqueness true}

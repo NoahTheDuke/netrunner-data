@@ -1,0 +1,13 @@
+{:code "21080"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "rashida-jaheem"
+ :influence-value 0
+ :side :corp
+ :subtype [:character]
+ :text "When your turn begins, you may trash Rashida Jaheem to gain 3[credit] and draw 3 cards."
+ :title "Rashida Jaheem"
+ :trash-cost 1
+ :type :asset
+ :uniqueness true}

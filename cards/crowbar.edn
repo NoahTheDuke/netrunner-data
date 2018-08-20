@@ -1,0 +1,14 @@
+{:code "08046"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "crowbar"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :decoder :cloud]
+ :text "If you have at least 2[link], the memory cost of Crowbar is 0, even if it is not installed.\nCrowbar has +1 strength for each installed <strong>icebreaker</strong>.\n[trash]: Break up to 3 <strong>code gate</strong> subroutines."
+ :title "Crowbar"
+ :type :program
+ :uniqueness false}

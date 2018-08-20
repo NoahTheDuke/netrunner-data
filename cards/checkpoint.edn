@@ -1,0 +1,13 @@
+{:code "07017"
+ :cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "checkpoint"
+ :influence-value 2
+ :side :corp
+ :strength 7
+ :subtype [:code gate :tracer :illicit]
+ :text "When you rez Checkpoint, take 1 bad publicity.\n[subroutine] <trace>Trace 5</trace> If successful, do 3 meat damage when this run is successful."
+ :title "Checkpoint"
+ :type :ice
+ :uniqueness false}

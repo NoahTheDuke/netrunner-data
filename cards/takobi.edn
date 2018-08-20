@@ -1,0 +1,13 @@
+{:code "21026"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "takobi"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "Whenever you break all subroutines on a piece of ice during a single encounter, you may place 1 power counter on Takobi.\n<strong>2 hosted power counters</strong>: Choose a non-<strong>AI icebreaker</strong>. That <strong>icebreaker</strong> has +3 strength until the end of the current encounter."
+ :title "Takobi"
+ :type :program
+ :uniqueness true}

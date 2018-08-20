@@ -1,0 +1,130 @@
+[{:code "12001"
+  :flavor "\"Hitting them when they are weakest sometimes means acting before you want to.\" -Alice Merchant"
+  :card-id "pushing-the-envelope"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_1.png"
+  :position 1
+  :quantity 3}
+ {:code "12002"
+  :card-id "maw"
+  :illustrator "Martin de Diego Sádaba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_2.png"
+  :position 2
+  :quantity 3}
+ {:code "12003"
+  :flavor "The Archivist tracks all the clans and their members, and official dealings clans have with the various corps. Half law clerk and half historian, he wields a tremendous amount of power doing a job no one else wants, but none can do without."
+  :card-id "the-archivist"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_3.png"
+  :position 3
+  :quantity 3}
+ {:code "12004"
+  :flavor "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat."
+  :card-id "exploit"
+  :illustrator "Nasrul Hakim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_4.png"
+  :position 4
+  :quantity 3}
+ {:code "12005"
+  :flavor "\"So, yeah, I just reverse engineered a tracer, and then built it back up with some new lines of code. Pretty stellar.\" -Los"
+  :card-id "spot-the-prey"
+  :illustrator "Camille Kuo"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_5.png"
+  :position 5
+  :quantity 3}
+ {:code "12006"
+  :flavor "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\""
+  :card-id "bio-modeled-network"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_6.png"
+  :position 6
+  :quantity 3}
+ {:code "12007"
+  :flavor "\"To beat cautious sysops, you've got to get creative. Commandeering Network systems is like using their own strengths against them.\" -Kabonesa Wu"
+  :card-id "network-exchange"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_7.png"
+  :position 7
+  :quantity 3}
+ {:code "12008"
+  :card-id "mad-dash"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_8.png"
+  :position 8
+  :quantity 3}
+ {:code "12009"
+  :flavor "\"The newest electronic-warfare rollout from NEXT Design has us sysops drooling.\" -Mason Bellamy"
+  :card-id "next-wave-2"
+  :illustrator "Shawn Ye Zhongyi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_9.png"
+  :position 9
+  :quantity 3}
+ {:code "12010"
+  :flavor "\"Dismantle. Dissect. Is there really a difference?\""
+  :card-id "zed-2-0"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_10.png"
+  :position 10
+  :quantity 3}
+ {:code "12011"
+  :card-id "defense-construct"
+  :illustrator "Pavel Kolomeyets"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_11.png"
+  :position 11
+  :quantity 3}
+ {:code "12012"
+  :card-id "synth-dna-modification"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_12.png"
+  :position 12
+  :quantity 3}
+ {:code "12013"
+  :flavor "\"The ultimate aim of martial arts is not having to use them.\" - Miyamoto Musashi"
+  :card-id "kakugo"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_13.png"
+  :position 13
+  :quantity 3}
+ {:code "12014"
+  :card-id "net-analytics"
+  :illustrator "Mariusz Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_14.png"
+  :position 14
+  :quantity 3}
+ {:code "12015"
+  :flavor "\"'What does BRE stand for?' Have you seen its Net presence?\" -Bernice Mai"
+  :card-id "sync-bre"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_15.png"
+  :position 15
+  :quantity 3}
+ {:code "12016"
+  :card-id "jemison-astronautics-sacrifice-audacity-success"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_16.png"
+  :position 16
+  :quantity 3}
+ {:code "12017"
+  :card-id "quarantine-system"
+  :illustrator "Kathryn Steele"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_17.png"
+  :position 17
+  :quantity 3}
+ {:code "12018"
+  :card-id "oberth-protocol"
+  :illustrator "Pavel Kolomeyets"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_18.png"
+  :position 18
+  :quantity 3}
+ {:code "12019"
+  :flavor "Senate staffers and clerks of the MCA can be seen thronging Khondi Plaza during break times."
+  :card-id "khondi-plaza"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_19.png"
+  :position 19
+  :quantity 3}
+ {:code "12020"
+  :card-id "signal-jamming"
+  :illustrator "JuanManuel Tumburus"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_20.png"
+  :position 20
+  :quantity 3}]

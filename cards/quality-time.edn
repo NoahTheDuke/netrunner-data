@@ -1,0 +1,12 @@
+{:code "02087"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "quality-time"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "Draw 5 cards."
+ :title "Quality Time"
+ :type :event
+ :uniqueness false}

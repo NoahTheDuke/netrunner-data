@@ -1,0 +1,13 @@
+{:code "02111"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ruhr-valley"
+ :influence-value 3
+ :side :corp
+ :subtype [:region]
+ :text "As an additional cost to make a run on this server, the Runner must spend [click].\nLimit 1 <strong>region</strong> per server."
+ :title "Ruhr Valley"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

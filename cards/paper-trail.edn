@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "13053"
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "paper-trail"
+ :influence-value 0
+ :side :corp
+ :subtype [:security]
+ :text "When you score Paper Trail, <trace>Trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources."
+ :title "Paper Trail"
+ :type :agenda
+ :uniqueness false}

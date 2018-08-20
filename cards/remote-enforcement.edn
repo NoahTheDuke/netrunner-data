@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "21091"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "remote-enforcement"
+ :side :corp
+ :subtype [:security]
+ :text "When you score Remote Enforcement, you may search R&D for a piece of ice, install it protecting a remote server (paying its install cost), and rez it, ignoring its rez cost, then shuffle R&D."
+ :title "Remote Enforcement"
+ :type :agenda
+ :uniqueness false}

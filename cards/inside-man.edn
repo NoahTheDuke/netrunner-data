@@ -1,0 +1,12 @@
+{:code "02068"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "inside-man"
+ :influence-value 0
+ :side :runner
+ :subtype [:connection]
+ :text "2[recurring-credit]\nUse these credits to install hardware."
+ :title "Inside Man"
+ :type :resource
+ :uniqueness false}

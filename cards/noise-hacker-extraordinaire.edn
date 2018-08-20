@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "01001"
+ :deck-limit 1
+ :faction :anarch
+ :id "noise-hacker-extraordinaire"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "Whenever you install a <strong>virus</strong> program, the Corp trashes the top card of R&D."
+ :title "Noise: Hacker Extraordinaire"
+ :type :identity
+ :uniqueness false}

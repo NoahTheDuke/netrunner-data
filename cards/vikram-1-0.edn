@@ -1,0 +1,13 @@
+{:code "10012"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "vikram-1-0"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry :bioroid :tracer :ap]
+ :text "The Runner can spend [click] to break any subroutine on Vikram 1.0.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage."
+ :title "Vikram 1.0"
+ :type :ice
+ :uniqueness false}

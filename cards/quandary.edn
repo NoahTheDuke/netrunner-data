@@ -1,0 +1,13 @@
+{:code "04120"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "quandary"
+ :influence-value 0
+ :side :corp
+ :strength 0
+ :subtype [:code gate]
+ :text "[subroutine] End the run."
+ :title "Quandary"
+ :type :ice
+ :uniqueness false}

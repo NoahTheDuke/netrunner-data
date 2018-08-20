@@ -1,0 +1,13 @@
+{:code "12114"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "sand-storm"
+ :influence-value 3
+ :side :corp
+ :strength 5
+ :subtype [:trap :deflector]
+ :text "[subroutine] Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm."
+ :title "Sand Storm"
+ :type :ice
+ :uniqueness false}

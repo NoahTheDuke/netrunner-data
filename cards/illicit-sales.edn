@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "13043"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "illicit-sales"
+ :side :corp
+ :subtype [:expansion]
+ :text "When you score Illicit Sales, you may take 1 bad publicity. Gain 3[credit] for each bad publicity that you have."
+ :title "Illicit Sales"
+ :type :agenda
+ :uniqueness false}

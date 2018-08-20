@@ -1,0 +1,12 @@
+{:code "03014"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "successful-demonstration"
+ :influence-value 1
+ :side :corp
+ :subtype [:transaction]
+ :text "Play only if the Runner made an unsuccessful run during his or her last turn.\nGain 7[credit]."
+ :title "Successful Demonstration"
+ :type :operation
+ :uniqueness false}

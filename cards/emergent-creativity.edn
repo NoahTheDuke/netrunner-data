@@ -1,0 +1,12 @@
+{:code "21028"
+ :cost 2
+ :deck-limit 3
+ :faction :adam
+ :id "emergent-creativity"
+ :influence-value 5
+ :side :runner
+ :subtype [:double]
+ :text "As an additional cost to play this event, spend [click].\nTrash any number of programs or pieces of hardware from your grip. Search your stack for a program or piece of hardware and install it, lowering its install cost by the total install cost of the trashed cards. Shuffle your stack."
+ :title "Emergent Creativity"
+ :type :event
+ :uniqueness false}

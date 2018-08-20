@@ -1,0 +1,13 @@
+{:code "01005"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "cyberfeeder"
+ :influence-value 1
+ :replaced-by "20006"
+ :side :runner
+ :subtype [:chip]
+ :text "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong> or for installing <strong>virus</strong> programs."
+ :title "Cyberfeeder"
+ :type :hardware
+ :uniqueness false}

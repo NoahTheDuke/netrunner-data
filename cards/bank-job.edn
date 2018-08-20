@@ -1,0 +1,13 @@
+{:code "20033"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "bank-job"
+ :influence-value 2
+ :replaced-by "01029"
+ :side :runner
+ :subtype [:job]
+ :text "Place 8[credit] from the bank on Bank Job when it is installed. When there are no credits left on Bank Job, trash it.\nWhenever you make a successful run on a remote server, instead of accessing cards you may take any number of credits from Bank Job."
+ :title "Bank Job"
+ :type :resource
+ :uniqueness false}

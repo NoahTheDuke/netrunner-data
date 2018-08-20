@@ -1,0 +1,12 @@
+{:code "05031"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "calling-in-favors"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "Gain 1[credit] for each installed <strong>connection</strong> resource."
+ :title "Calling in Favors"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "10066"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "personality-profiles"
+ :side :corp
+ :subtype [:security]
+ :text "Whenever the Runner searches his or her stack or installs a card from his or her heap, he or she must trash a card from his or her grip at random."
+ :title "Personality Profiles"
+ :type :agenda
+ :uniqueness false}

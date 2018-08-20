@@ -1,0 +1,13 @@
+{:code "08040"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "breaker-bay-grid"
+ :influence-value 0
+ :side :corp
+ :subtype [:region]
+ :text "The rez cost of cards in this server is lowered by 5.\nLimit 1 <strong>region</strong> per server."
+ :title "Breaker Bay Grid"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "06059"
+ :cost 7
+ :deck-limit 1
+ :faction :neutral-runner
+ :id "hades-shard"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual :source]
+ :text "Whenever you make a successful run on Archives, instead of accessing cards, you may install Hades Shard from your grip, ignoring all costs.\n[trash]: Access all cards in Archives.\nLimit 1 per deck."
+ :title "Hades Shard"
+ :type :resource
+ :uniqueness true}

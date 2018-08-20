@@ -1,0 +1,13 @@
+{:code "20056"
+ :cost 5
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "sure-gamble"
+ :influence-value 0
+ :replaced-by "01050"
+ :side :runner
+ :subtype []
+ :text "Gain 9[credit]."
+ :title "Sure Gamble"
+ :type :event
+ :uniqueness false}

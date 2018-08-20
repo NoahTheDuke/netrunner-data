@@ -1,0 +1,12 @@
+{:code "11041"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "obelus"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player."
+ :title "Obelus"
+ :type :hardware
+ :uniqueness true}

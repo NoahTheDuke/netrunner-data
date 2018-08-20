@@ -1,0 +1,13 @@
+{:code "13020"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "dhegdheer"
+ :influence-value 2
+ :memory-cost 0
+ :side :runner
+ :subtype [:daemon]
+ :text "Dhegdheer can host a single program.\nLower the install cost of programs you install on Dhegdheer by 1.\nThe memory cost of the hosted program does not count against your memory limit.\n<errata>Errata from FAQ 4.0</errata>"
+ :title "Dhegdheer"
+ :type :program
+ :uniqueness false}

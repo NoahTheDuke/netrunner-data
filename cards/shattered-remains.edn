@@ -1,0 +1,13 @@
+{:code "06050"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "shattered-remains"
+ :influence-value 0
+ :side :corp
+ :subtype [:ambush]
+ :text "Shattered Remains can be advanced.\nIf you pay 1[credit] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains."
+ :title "Shattered Remains"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "20038"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "diesel"
+ :influence-value 2
+ :replaced-by "01034"
+ :side :runner
+ :subtype []
+ :text "Draw 3 cards."
+ :title "Diesel"
+ :type :event
+ :uniqueness false}

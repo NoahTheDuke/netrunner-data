@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "05030"
+ :deck-limit 1
+ :faction :criminal
+ :id "silhouette-stealth-operative"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :subtype [:natural]
+ :text "The first time you make a successful run on HQ each turn, you may expose 1 card."
+ :title "Silhouette: Stealth Operative"
+ :type :identity
+ :uniqueness false}

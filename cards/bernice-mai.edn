@@ -1,0 +1,14 @@
+{:code "20123"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "bernice-mai"
+ :influence-value 2
+ :replaced-by "02097"
+ :side :corp
+ :subtype [:sysop]
+ :text "Whenever there is a successful run on this server, <trace>trace 5</trace> if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai."
+ :title "Bernice Mai"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

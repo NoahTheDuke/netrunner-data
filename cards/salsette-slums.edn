@@ -1,0 +1,12 @@
+{:code "10059"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "salsette-slums"
+ :influence-value 2
+ :side :runner
+ :subtype [:location :seedy]
+ :text "Once per turn, you may pay the trash cost of a card you access that is not in Archives to remove that card from the game.\n<errata>Errata from FAQ 4.1</errata>"
+ :title "Salsette Slums"
+ :type :resource
+ :uniqueness false}

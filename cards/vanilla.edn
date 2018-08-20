@@ -1,0 +1,13 @@
+{:code "10095"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "vanilla"
+ :influence-value 0
+ :side :corp
+ :strength 0
+ :subtype [:barrier]
+ :text "[subroutine] End the run."
+ :title "Vanilla"
+ :type :ice
+ :uniqueness false}

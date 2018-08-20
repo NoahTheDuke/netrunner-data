@@ -1,0 +1,14 @@
+{:code "05046"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "passport"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder]
+ :text "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\nPassport cannot be used on ice protecting a remote server."
+ :title "Passport"
+ :type :program
+ :uniqueness false}

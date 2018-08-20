@@ -1,0 +1,12 @@
+{:code "22042"
+ :deck-limit 1
+ :faction :nbn
+ :id "acme-consulting-the-truth-you-need"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:subsidiary]
+ :text "The Runner is considered to have 1 additional tag (even if they have 0) during encounters with the outermost piece of ice protecting any server."
+ :title "Acme Consulting: The Truth You Need"
+ :type :identity
+ :uniqueness false}

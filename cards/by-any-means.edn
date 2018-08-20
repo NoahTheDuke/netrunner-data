@@ -1,0 +1,12 @@
+{:code "21001"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "by-any-means"
+ :influence-value 5
+ :side :runner
+ :subtype [:priority :sabotage]
+ :text "Play only as your first [click].\nUntil the turn ends, whenever you access a card not in Archives, trash it at no cost (even if it cannot normally be trashed) and suffer 1 meat damage."
+ :title "By Any Means"
+ :type :event
+ :uniqueness false}

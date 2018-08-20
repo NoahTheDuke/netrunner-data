@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "21038"
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "ssl-endorsement"
+ :influence-value 0
+ :side :corp
+ :subtype [:initiative]
+ :text "When SSL Endorsement is scored or stolen, place 9[credit] from the bank on it.\nWhen the Corp's turn begins, he or she may take 3[credit] from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area."
+ :title "SSL Endorsement"
+ :type :agenda
+ :uniqueness false}

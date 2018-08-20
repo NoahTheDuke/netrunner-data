@@ -1,0 +1,13 @@
+{:code "04015"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "jackson-howard"
+ :influence-value 1
+ :side :corp
+ :subtype [:executive]
+ :text "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives to R&D."
+ :title "Jackson Howard"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

@@ -1,0 +1,14 @@
+{:code "21108"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "engolo"
+ :influence-value 4
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder]
+ :text "When you encounter a piece of ice, you may pay 2[credit] to have it gain <strong>code gate</strong> until the end of the encounter. Use this ability only once per turn.\n1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +4 strength."
+ :title "Engolo"
+ :type :program
+ :uniqueness false}

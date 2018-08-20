@@ -1,0 +1,12 @@
+{:code "10046"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "akshara-sareen"
+ :influence-value 0
+ :side :runner
+ :subtype [:connection]
+ :text "Each player has 1 additional [click] to spend during his or her turn."
+ :title "Akshara Sareen"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "07030"
+ :deck-limit 1
+ :faction :anarch
+ :id "valencia-estevez-the-angel-of-cayambe"
+ :influence-limit 15
+ :minimum-deck-size 50
+ :side :runner
+ :subtype [:natural]
+ :text "The Corp starts the game with 1 bad publicity."
+ :title "Valencia Estevez: The Angel of Cayambe"
+ :type :identity
+ :uniqueness false}

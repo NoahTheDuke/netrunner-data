@@ -1,0 +1,13 @@
+{:code "01021"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "inside-job"
+ :influence-value 3
+ :replaced-by "20023"
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. Bypass the first piece of ice encountered during this run."
+ :title "Inside Job"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "01065"
+ :cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "corporate-troubleshooter"
+ :influence-value 1
+ :side :corp
+ :subtype [:connection]
+ :text "X[credit], [trash]: Choose a piece of rezzed ice protecting this server. That ice has +X strength until the end of the turn."
+ :title "Corporate Troubleshooter"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

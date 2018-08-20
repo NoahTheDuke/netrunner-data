@@ -1,0 +1,12 @@
+{:code "10052"
+ :cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "clones-are-not-people"
+ :influence-value 3
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen you score an agenda, add \"Clones are not People\" to your score area as an agenda worth 1 agenda point."
+ :title "\"Clones are not People\""
+ :type :operation
+ :uniqueness false}

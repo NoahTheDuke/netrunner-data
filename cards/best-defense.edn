@@ -1,0 +1,12 @@
+{:code "11079"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "best-defense"
+ :influence-value 0
+ :side :corp
+ :subtype [:gray ops]
+ :text "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has."
+ :title "Best Defense"
+ :type :operation
+ :uniqueness false}

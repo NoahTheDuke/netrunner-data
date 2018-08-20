@@ -1,0 +1,13 @@
+{:code "08073"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "allele-repression"
+ :influence-value 3
+ :side :corp
+ :subtype []
+ :text "Allele Repression can be advanced.\n[trash]: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression."
+ :title "Allele Repression"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

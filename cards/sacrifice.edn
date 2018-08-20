@@ -1,0 +1,12 @@
+{:code "12039"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "sacrifice"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "As an additional cost to play this operation, forfeit an agenda.\nRemove 1 bad publicity per agenda point that the forfeited agenda was worth. Gain 1[credit] for each bad publicity removed."
+ :title "Sacrifice"
+ :type :operation
+ :uniqueness false}

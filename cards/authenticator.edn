@@ -1,0 +1,13 @@
+{:code "12055"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "authenticator"
+ :influence-value 1
+ :side :corp
+ :strength 4
+ :subtype [:code gate]
+ :text "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it.\n[subroutine] The Corp gains 2[credit].\n[subroutine]End the run."
+ :title "Authenticator"
+ :type :ice
+ :uniqueness false}

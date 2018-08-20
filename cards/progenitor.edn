@@ -1,0 +1,13 @@
+{:code "07043"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "progenitor"
+ :influence-value 2
+ :memory-cost 0
+ :side :runner
+ :subtype [:daemon]
+ :text "You may host a single <strong>virus</strong> program on Progenitor.\nThe memory cost of the hosted program does not count against your memory limit.\nWhenever virus counters are purged, instead of removing all virus counters from the hosted card, remove all but 1 virus counter from the hosted card.\n<errata>Errata from FAQ 4.0</errata>"
+ :title "Progenitor"
+ :type :program
+ :uniqueness false}

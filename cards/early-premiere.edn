@@ -1,0 +1,13 @@
+{:code "08095"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "early-premiere"
+ :influence-value 3
+ :side :corp
+ :subtype []
+ :text "When your turn begins, you may pay 1[credit]. If you do, place 1 advancement token on a card that can be advanced in a server."
+ :title "Early Premiere"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

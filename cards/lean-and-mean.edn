@@ -1,0 +1,12 @@
+{:code "12086"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "lean-and-mean"
+ :influence-value 1
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. If you have 3 or fewer programs installed, all <strong>icebreakers</strong> have +2 strength during this run."
+ :title "Lean and Mean"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "21031"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "jinja-city-grid"
+ :influence-value 2
+ :side :corp
+ :subtype [:region]
+ :text "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, lowering the install cost by 4[credit].\nLimit 1 <strong>region</strong> per server."
+ :title "Jinja City Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "08009"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "symmetrical-visage"
+ :influence-value 0
+ :side :runner
+ :subtype [:genetics]
+ :text "The first time you spend [click] to draw 1 card (not through a card ability) each turn, gain 1[credit]."
+ :title "Symmetrical Visage"
+ :type :resource
+ :uniqueness true}

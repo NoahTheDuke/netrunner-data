@@ -1,0 +1,13 @@
+{:code "02057"
+ :cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "woodcutter"
+ :influence-value 3
+ :side :corp
+ :strength 2
+ :subtype [:sentry :ap]
+ :text "Woodcutter can be advanced only while rezzed and gains \"[subroutine] Do 1 net damage.\" for each advancement token on it."
+ :title "Woodcutter"
+ :type :ice
+ :uniqueness false}

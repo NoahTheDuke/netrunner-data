@@ -1,0 +1,13 @@
+{:code "08089"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "enforcer-1-0"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry :bioroid :destroyer :ap]
+ :text "As an additional cost to rez Enforcer 1.0, the Corp must forfeit an agenda.\nThe Runner can spend [click] to break any subroutine on Enforcer 1.0.\n[subroutine] Trash 1 program.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 <strong>console</strong>.\n[subroutine] Trash all <strong>virtual</strong> resources."
+ :title "Enforcer 1.0"
+ :type :ice
+ :uniqueness false}

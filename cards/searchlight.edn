@@ -1,0 +1,13 @@
+{:code "07019"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "searchlight"
+ :influence-value 1
+ :side :corp
+ :strength 3
+ :subtype [:sentry :tracer :observer]
+ :text "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag."
+ :title "Searchlight"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "21036"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "economic-warfare"
+ :influence-value 2
+ :side :corp
+ :subtype [:gray ops]
+ :text "Play only if the Runner made a successful run during his or her last turn.\nThe Runner loses 4[credit], if able."
+ :title "Economic Warfare"
+ :type :operation
+ :uniqueness false}

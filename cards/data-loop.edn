@@ -1,0 +1,13 @@
+{:code "12095"
+ :cost 7
+ :deck-limit 3
+ :faction :nbn
+ :id "data-loop"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "When the Runner encounters Data Loop, he or she must add 2 cards from his or her grip to the top of the stack.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run."
+ :title "Data Loop"
+ :type :ice
+ :uniqueness false}

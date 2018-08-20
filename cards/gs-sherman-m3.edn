@@ -1,0 +1,14 @@
+{:code "09050"
+ :cost 3
+ :deck-limit 3
+ :faction :sunny-lebeau
+ :id "gs-sherman-m3"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter :cloud]
+ :text "If you have at least 2[link], the memory cost of GS Sherman M3 is 0, even if it is not installed.\n2[credit]: Break any number of <strong>barrier</strong> subroutines.\n2[credit]: +3 strength."
+ :title "GS Sherman M3"
+ :type :program
+ :uniqueness false}

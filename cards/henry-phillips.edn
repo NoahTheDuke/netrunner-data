@@ -1,0 +1,13 @@
+{:code "12056"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "henry-phillips"
+ :influence-value 1
+ :side :corp
+ :subtype [:sysop]
+ :text "Whenever the Runner breaks a subroutine during a run on this server, gain 2[credit] if he or she is tagged."
+ :title "Henry Phillips"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness true}

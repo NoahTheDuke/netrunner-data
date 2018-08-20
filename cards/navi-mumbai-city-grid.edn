@@ -1,0 +1,13 @@
+{:code "10110"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "navi-mumbai-city-grid"
+ :influence-value 2
+ :side :corp
+ :subtype [:region]
+ :text "During a run on this server, the Runner cannot use paid abilities on non-<strong>icebreaker</strong> cards.\nLimit 1 <strong>region</strong> per server."
+ :title "Navi Mumbai City Grid"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

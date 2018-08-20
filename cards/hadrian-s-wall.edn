@@ -1,0 +1,14 @@
+{:code "01102"
+ :cost 10
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "hadrian-s-wall"
+ :influence-value 3
+ :replaced-by "20086"
+ :side :corp
+ :strength 7
+ :subtype [:barrier]
+ :text "Hadrian's Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Hadrian's Wall"
+ :type :ice
+ :uniqueness false}

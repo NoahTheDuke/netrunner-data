@@ -1,0 +1,12 @@
+{:code "10094"
+ :cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "consulting-visit"
+ :influence-value 3
+ :side :corp
+ :subtype [:alliance :double]
+ :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [weyland-consortium] cards in your deck.\nAs an additional cost to play this operation, spend [click].\nSearch R&D for an operation and play it (paying all costs). Shuffle R&D."
+ :title "Consulting Visit"
+ :type :operation
+ :uniqueness false}

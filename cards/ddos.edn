@@ -1,0 +1,12 @@
+{:code "08103"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "ddos"
+ :influence-value 3
+ :side :runner
+ :subtype [:virtual]
+ :text "[trash]: The Corp cannot rez the outermost piece of ice during a run on any server this turn."
+ :title "DDoS"
+ :type :resource
+ :uniqueness false}

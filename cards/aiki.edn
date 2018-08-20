@@ -1,0 +1,13 @@
+{:code "11032"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "aiki"
+ :influence-value 2
+ :side :corp
+ :strength 3
+ :subtype [:code gate :psi :ap]
+ :text "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner draws 2 cards.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage."
+ :title "Aiki"
+ :type :ice
+ :uniqueness false}

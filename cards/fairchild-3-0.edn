@@ -1,0 +1,13 @@
+{:code "11049"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "fairchild-3-0"
+ :influence-value 3
+ :side :corp
+ :strength 5
+ :subtype [:code gate :bioroid :ap]
+ :text "The Runner can spend [click][click][click] to break up to 3 subroutines on Fairchild 3.0.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage or end the run."
+ :title "Fairchild 3.0"
+ :type :ice
+ :uniqueness false}

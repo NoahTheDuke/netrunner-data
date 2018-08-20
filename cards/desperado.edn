@@ -1,0 +1,12 @@
+{:code "01024"
+ :cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "desperado"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nGain 1[credit] whenever you make a successful run.\nLimit 1 <strong>console</strong> per player."
+ :title "Desperado"
+ :type :hardware
+ :uniqueness true}

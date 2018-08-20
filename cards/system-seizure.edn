@@ -1,0 +1,12 @@
+{:code "12026"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "system-seizure"
+ :influence-value 1
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first <strong>icebreaker</strong> whose strength you increase each turn does not return to its base strength until the end of the run."
+ :title "System Seizure"
+ :type :event
+ :uniqueness false}

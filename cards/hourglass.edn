@@ -1,0 +1,13 @@
+{:code "02071"
+ :cost 5
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "hourglass"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:code gate]
+ :text "[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able."
+ :title "Hourglass"
+ :type :ice
+ :uniqueness false}

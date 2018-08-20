@@ -1,0 +1,14 @@
+{:code "12087"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "maven"
+ :influence-value 3
+ :memory-cost 2
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :ai]
+ :text "Maven has +1 strength for each installed program.\n2[credit]: Break ice subroutine."
+ :title "Maven"
+ :type :program
+ :uniqueness false}

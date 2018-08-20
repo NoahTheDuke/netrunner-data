@@ -1,0 +1,12 @@
+{:code "08044"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "chrome-parlor"
+ :influence-value 1
+ :side :runner
+ :subtype [:location]
+ :text "Prevent all meat damage and brain damage from installing <strong>cybernetics</strong>."
+ :title "Chrome Parlor"
+ :type :resource
+ :uniqueness false}

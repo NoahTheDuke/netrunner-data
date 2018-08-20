@@ -1,0 +1,13 @@
+{:code "10050"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "bio-ethics-association"
+ :influence-value 2
+ :side :corp
+ :subtype [:political]
+ :text "When your turn begins, do 1 net damage if there is no ice protecting this server."
+ :title "Bio-Ethics Association"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

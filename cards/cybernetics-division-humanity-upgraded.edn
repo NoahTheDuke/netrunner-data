@@ -1,0 +1,12 @@
+{:code "08050"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "cybernetics-division-humanity-upgraded"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :corp
+ :subtype [:division]
+ :text "Each player's maximum hand size is reduced by 1."
+ :title "Cybernetics Division: Humanity Upgraded"
+ :type :identity
+ :uniqueness false}

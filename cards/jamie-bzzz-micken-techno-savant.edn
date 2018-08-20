@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "00009"
+ :deck-limit 1
+ :faction :shaper
+ :id "jamie-bzzz-micken-techno-savant"
+ :influence-limit nil
+ :minimum-deck-size 30
+ :side :runner
+ :subtype [:natural]
+ :text "Draft format only.\nIf you have more [shaper] cards installed than any other faction, when you install a card the first time each turn, draw 1 card."
+ :title "Jamie \"Bzzz\" Micken: Techno Savant"
+ :type :identity
+ :uniqueness false}

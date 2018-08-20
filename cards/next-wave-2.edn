@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "12009"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "next-wave-2"
+ :side :corp
+ :subtype [:next]
+ :text "If there is a rezzed piece of <strong>NEXT</strong> ice when you score NEXT Wave 2, you may do 1 brain damage."
+ :title "NEXT Wave 2"
+ :type :agenda
+ :uniqueness false}

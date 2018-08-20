@@ -1,0 +1,14 @@
+{:code "04082"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "hemorrhage"
+ :influence-value 4
+ :memory-cost 1
+ :replaced-by "20012"
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever you make a successful run, place 1 virus counter on Hemorrhage.\n[click], <strong>2 hosted virus counters:</strong> The Corp trashes 1 card from HQ."
+ :title "Hemorrhage"
+ :type :program
+ :uniqueness false}

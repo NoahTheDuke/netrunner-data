@@ -1,0 +1,114 @@
+[{:code "06001"
+  :card-id "domestic-sleepers"
+  :illustrator "Adrian Dadich"
+  :position 1
+  :quantity 3}
+ {:code "06002"
+  :flavor "The networking capabilities of the NEXT suite of ice are unparalleled."
+  :card-id "next-silver"
+  :illustrator "Ed Mattinian"
+  :position 2
+  :quantity 3}
+ {:code "06003"
+  :flavor "\"Chi resonance mapping has created a whole new field of network security. It is unassailable perfection.\" -Akitaro Watanabe"
+  :card-id "lotus-field"
+  :illustrator "Adam S. Doyle"
+  :position 3
+  :quantity 3}
+ {:code "06004"
+  :card-id "mutate"
+  :illustrator "Hannah Christenson"
+  :position 4
+  :quantity 3}
+ {:code "06005"
+  :flavor "Only the News You Need."
+  :card-id "near-earth-hub-broadcast-center"
+  :illustrator "Emilio Rodriguez"
+  :position 5
+  :quantity 3}
+ {:code "06006"
+  :flavor "Works better than a PAD hooked up to a tinfoil umbrella and coffee can."
+  :card-id "primary-transmission-dish"
+  :illustrator "Lucas Durham"
+  :position 6
+  :quantity 3}
+ {:code "06007"
+  :flavor "Halfway upstalk, Midway is a destination unto itself with its microgravity hotels and fine dining options."
+  :card-id "midway-station-grid"
+  :illustrator "Emilio Rodriguez"
+  :position 7
+  :quantity 3}
+ {:code "06008"
+  :flavor "They said it couldn't be built. That it was a fantasy. That Jack Weyland was a fool, and he had bought the fools in Washington too. But year after year the buckyweave grew, and 'they' stopped talking."
+  :card-id "the-root"
+  :illustrator "Alex Kim"
+  :position 8
+  :quantity 3}
+ {:code "06009"
+  :flavor "Taurus promised strength, but gave only rage."
+  :card-id "taurus"
+  :illustrator "Shawn Ye Zhongyi"
+  :position 9
+  :quantity 3}
+ {:code "06010"
+  :flavor
+  "On the first day She breathed data into the void, and it hung suspended like jewelled stars. On the second day She spoke order into the data, and it flowed from rivulets into streams and from streams into mighty rivers. On the third day She gave independence to the order, and it ebbed and flowed according to its own accord. -The Cant of Helios"
+  :card-id "mother-goddess"
+  :illustrator "Liiga Smilshkalne"
+  :position 10
+  :quantity 3}
+ {:code "06011"
+  :flavor "He who bears the shield of honor."
+  :card-id "galahad"
+  :illustrator "Andreas Zafiratos"
+  :position 11
+  :quantity 3}
+ {:code "06012"
+  :flavor "Known as malware 0-394-41525-6 to sysops, runners just refer to it as \"bad times.\""
+  :card-id "bad-times"
+  :illustrator "Adam S. Doyle"
+  :position 12
+  :quantity 3}
+ {:code "06013"
+  :card-id "cyber-threat"
+  :illustrator "Matt Zeilinger"
+  :position 13
+  :quantity 3}
+ {:code "06014"
+  :card-id "lamprey"
+  :illustrator "Smirtouille"
+  :position 14
+  :quantity 3}
+ {:code "06015"
+  :flavor "His eyes were beginning to blur, as he duplicated the credentials for what seemed like the fiftieth time. Perhaps a genetic refit would have been easier."
+  :card-id "paper-tripping"
+  :illustrator "Gong Studios"
+  :position 15
+  :quantity 3}
+ {:code "06016"
+  :flavor "\"Public network kiosks, vending machines-there's all sorts of poorly-secured power sources in the city. Tap in to one of these and you've got plenty of juice when you need it. A little advance warning when the power grid starts misbehaving, too.\" -Gabriel Santiago"
+  :card-id "power-tap"
+  :illustrator "Ralph Beisner"
+  :position 16
+  :quantity 3}
+ {:code "06017"
+  :card-id "nasir-meidan-cyber-explorer"
+  :illustrator "Matt Zeilinger"
+  :position 17
+  :quantity 3}
+ {:code "06018"
+  :card-id "social-engineering"
+  :illustrator "Ralph Beisner"
+  :position 18
+  :quantity 3}
+ {:code "06019"
+  :flavor "\"I once saw someone running a seven-tier nested daemon tree. Not for any good reason, just to see if he could. Well, of course the root daemon crashed and he lost everything. I wonder what he's up to now?\" -Kate \"Mac\" McCaffrey"
+  :card-id "leprechaun"
+  :illustrator "Liiga Smilshkalne"
+  :position 19
+  :quantity 3}
+ {:code "06020"
+  :card-id "eden-shard"
+  :illustrator "Seage"
+  :position 20
+  :quantity 3}]

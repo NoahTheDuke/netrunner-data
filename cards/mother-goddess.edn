@@ -1,0 +1,13 @@
+{:code "06010"
+ :cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "mother-goddess"
+ :influence-value 0
+ :side :corp
+ :strength 4
+ :subtype [:mythic]
+ :text "Mother Goddess gains the subtypes of all other rezzed ice.\n[subroutine] End the run."
+ :title "Mother Goddess"
+ :type :ice
+ :uniqueness true}

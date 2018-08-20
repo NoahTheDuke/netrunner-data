@@ -1,0 +1,14 @@
+{:code "04043"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "knight"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 7
+ :subtype [:icebreaker :ai :caïssa]
+ :text "2[credit]: Break subroutine on host ice.\n[click]: Host Knight on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Knight can be hosted only on ice that is not installed directly before or after the current piece of ice hosting Knight."
+ :title "Knight"
+ :type :program
+ :uniqueness false}

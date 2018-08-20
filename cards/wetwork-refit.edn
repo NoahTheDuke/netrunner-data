@@ -1,0 +1,12 @@
+{:code "11071"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "wetwork-refit"
+ :influence-value 2
+ :side :corp
+ :subtype [:condition]
+ :text "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\""
+ :title "Wetwork Refit"
+ :type :operation
+ :uniqueness false}

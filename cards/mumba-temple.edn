@@ -1,0 +1,13 @@
+{:code "10018"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "mumba-temple"
+ :influence-value 2
+ :side :corp
+ :subtype [:alliance :facility]
+ :text "This card costs 0 influence if you have 15 or fewer ice in your deck.\n2[recurring-credit]\nUse these credits to rez cards."
+ :title "Mumba Temple"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

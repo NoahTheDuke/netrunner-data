@@ -1,0 +1,13 @@
+{:code "06011"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "galahad"
+ :influence-value 1
+ :side :corp
+ :strength 1
+ :subtype [:barrier :grail]
+ :text "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] End the run."
+ :title "Galahad"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "21081"
+ :deck-limit 1
+ :faction :anarch
+ :id "freedom-khumalo-crypto-anarchist"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:cyborg]
+ :text "Once per turn, you may remove X virus counters from your installed cards to trash a card that you access at no cost (even if it cannot normally be trashed). X is that card's rez or play cost."
+ :title "Freedom Khumalo: Crypto-Anarchist"
+ :type :identity
+ :uniqueness false}

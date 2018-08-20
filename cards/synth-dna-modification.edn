@@ -1,0 +1,13 @@
+{:code "12012"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "synth-dna-modification"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "The first time a subroutine on a piece of <strong>AP</strong> ice is broken each turn, do 1 net damage."
+ :title "Synth DNA Modification"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

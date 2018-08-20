@@ -1,0 +1,13 @@
+{:code "04020"
+ :cost 5
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "grim"
+ :influence-value 0
+ :side :corp
+ :strength 5
+ :subtype [:sentry :destroyer :illicit]
+ :text "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program."
+ :title "Grim"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "20072"
+ :cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "biotic-labor"
+ :influence-value 4
+ :replaced-by "01059"
+ :side :corp
+ :subtype []
+ :text "Gain [click][click]."
+ :title "Biotic Labor"
+ :type :operation
+ :uniqueness false}

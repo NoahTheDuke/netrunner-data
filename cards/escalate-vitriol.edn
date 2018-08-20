@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "12073"
+ :deck-limit 3
+ :faction :nbn
+ :id "escalate-vitriol"
+ :side :corp
+ :subtype [:initiative]
+ :text "[click]: Gain 1[credit] for each tag the Runner has. Use this ability only once per turn."
+ :title "Escalate Vitriol"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "20132"
+ :cost 5
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "hedge-fund"
+ :influence-value 0
+ :replaced-by "01110"
+ :side :corp
+ :subtype [:transaction]
+ :text "Gain 9[credit]."
+ :title "Hedge Fund"
+ :type :operation
+ :uniqueness false}

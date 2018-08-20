@@ -1,0 +1,12 @@
+{:code "07033"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "itinerant-protesters"
+ :influence-value 2
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's maximum hand size is reduced by 1 for each bad publicity he or she has."
+ :title "Itinerant Protesters"
+ :type :event
+ :uniqueness false}

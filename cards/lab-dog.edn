@@ -1,0 +1,13 @@
+{:code "08052"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "lab-dog"
+ :influence-value 2
+ :side :corp
+ :strength 0
+ :subtype [:trap]
+ :text "[subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog."
+ :title "Lab Dog"
+ :type :ice
+ :uniqueness false}

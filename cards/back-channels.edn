@@ -1,0 +1,12 @@
+{:code "08099"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "back-channels"
+ :influence-value 1
+ :side :corp
+ :subtype [:transaction]
+ :text "Trash a card installed in a server and gain 3[credit] for each advancement token on that card."
+ :title "Back Channels"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "03052"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "dirty-laundry"
+ :influence-value 0
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. After the run is completed, gain 5[credit] if it was successful."
+ :title "Dirty Laundry"
+ :type :event
+ :uniqueness false}

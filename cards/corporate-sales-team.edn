@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "10037"
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "corporate-sales-team"
+ :influence-value 0
+ :side :corp
+ :subtype [:expansion]
+ :text "When you score Corporate Sales Team, place 10[credit] on it.\nWhen each player's turn begins, take 1[credit] from Corporate Sales Team."
+ :title "Corporate Sales Team"
+ :type :agenda
+ :uniqueness false}

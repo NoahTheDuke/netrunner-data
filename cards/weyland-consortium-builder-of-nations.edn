@@ -1,0 +1,12 @@
+{:code "11038"
+ :deck-limit 1
+ :faction :weyland-consortium
+ :id "weyland-consortium-builder-of-nations"
+ :influence-limit 12
+ :minimum-deck-size 40
+ :side :corp
+ :subtype [:megacorp]
+ :text "The first time an encounter with a piece of ice with at least 1 advancement token ends each turn, do 1 meat damage.\n<errata>Errata from FAQ 3.1.1</errata>"
+ :title "Weyland Consortium: Builder of Nations"
+ :type :identity
+ :uniqueness false}

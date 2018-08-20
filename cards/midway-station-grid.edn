@@ -1,0 +1,13 @@
+{:code "06007"
+ :cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "midway-station-grid"
+ :influence-value 4
+ :side :corp
+ :subtype [:beanstalk :region]
+ :text "The Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine during a run on this server.\nLimit 1 <strong>region</strong> per server."
+ :title "Midway Station Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

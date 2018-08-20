@@ -1,0 +1,13 @@
+{:code "06074"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "origami"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "Your maximum hand size is increased by 1 for each copy of Origami installed."
+ :title "Origami"
+ :type :program
+ :uniqueness false}

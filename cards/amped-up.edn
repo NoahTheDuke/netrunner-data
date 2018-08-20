@@ -1,0 +1,12 @@
+{:code "07031"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "amped-up"
+ :influence-value 3
+ :side :runner
+ :subtype []
+ :text "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented)."
+ :title "Amped Up"
+ :type :event
+ :uniqueness false}

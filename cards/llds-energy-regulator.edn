@@ -1,0 +1,13 @@
+{:code "06039"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "llds-energy-regulator"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "3[credit] or [trash]: Prevent an installed piece of hardware from being trashed."
+ :title "LLDS Energy Regulator"
+ :type :program
+ :uniqueness false}

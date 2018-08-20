@@ -1,0 +1,12 @@
+{:code "13014"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "deep-data-mining"
+ :influence-value 4
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4."
+ :title "Deep Data Mining"
+ :type :event
+ :uniqueness false}

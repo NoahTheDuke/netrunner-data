@@ -1,0 +1,13 @@
+{:code "05045"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "grappling-hook"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "[trash]: Break all but 1 subroutine on a piece of ice."
+ :title "Grappling Hook"
+ :type :program
+ :uniqueness false}

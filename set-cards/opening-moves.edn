@@ -1,0 +1,115 @@
+[{:code "04001"
+  :flavor "\"Bioroid intrusion isn't impossible, despite the bluster of Haas-Bioroid. But it is dangerous.\" -Noise"
+  :card-id "frame-job"
+  :illustrator "Gong Studios"
+  :position 1
+  :quantity 3}
+ {:code "04002"
+  :card-id "pawn"
+  :illustrator "Liiga Smilshkalne"
+  :position 2
+  :quantity 3}
+ {:code "04003"
+  :card-id "rook"
+  :illustrator "Gong Studios"
+  :position 3
+  :quantity 3}
+ {:code "04004"
+  :card-id "hostage"
+  :illustrator "Matt Zeilinger"
+  :position 4
+  :quantity 3}
+ {:code "04005"
+  :flavor "Simple in principle, a drip virus drains fractions of currency from their accounts into yours."
+  :card-id "gorman-drip-v1"
+  :illustrator "Shawn Ye Zhongyi"
+  :position 5
+  :quantity 3}
+ {:code "04006"
+  :flavor "\"I originally designed it for someone else, but it was so useful I decided to keep it for myself.\" -Kate \"Mac\" McCaffrey"
+  :card-id "lockpick"
+  :illustrator "Gong Studios"
+  :position 6
+  :quantity 3}
+ {:code "04007"
+  :flavor "\"What if this ice wants to be free?\" -Rielle \"Kit\" Peddler"
+  :card-id "false-echo"
+  :illustrator "Anna Ignatieva"
+  :position 7
+  :quantity 3}
+ {:code "04008"
+  :flavor "Normal people-sane people-do not embark on a life of cybercrime. Who can say what motivates the deranged mind? An imagined slight, personal failings blamed on external forces, or the ever-popular lust for money? -Michael Muhama, Musings on Cybercrime"
+  :card-id "motivation"
+  :illustrator "JuanManuel Tumburus"
+  :position 8
+  :quantity 3}
+ {:code "04009"
+  :flavor "\"I've been logging online with babes all day. Don't worry, the connections are clean. I guarantee it.\""
+  :card-id "john-masanori"
+  :illustrator "Zefanya Langkan Maega"
+  :position 9
+  :quantity 3}
+ {:code "04010"
+  :flavor "Who wants to start a war?"
+  :card-id "project-ares"
+  :illustrator "Emilio Rodriguez"
+  :position 10
+  :quantity 3}
+ {:code "04011"
+  :flavor "NEXT Design's ice provides the discerning business with a suite of ice that creates a daunting security presence for intruders."
+  :card-id "next-bronze"
+  :illustrator "Ed Mattinian"
+  :position 11
+  :quantity 3}
+ {:code "04012"
+  :flavor "When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody wanted one."
+  :card-id "celebrity-gift"
+  :illustrator "Matt Zeilinger"
+  :position 12
+  :quantity 3}
+ {:code "04013"
+  :flavor "Himitsu-Bako is a simple ice barrier that appears as a digital puzzle box. What makes it special is the ease with which it can be uninstalled and installed in a different server, throwing up barriers in unexpected places and giving any intruder a curious feeling of déjà vu."
+  :card-id "himitsu-bako"
+  :illustrator "Andrew Mar"
+  :position 13
+  :quantity 3}
+ {:code "04014"
+  :flavor "\"The thing about journalism is there's always a better story around the corner. Soon, they smelled blood elsewhere, and the world forgot about me. But I didn't forget.\" -The Professor"
+  :card-id "character-assassination"
+  :illustrator "Mike Nesbitt"
+  :position 14
+  :quantity 3}
+ {:code "04015"
+  :flavor "\"It is my job to ensure our creations are the perfect companions and edutainment for tomorrow's consumers.\""
+  :card-id "jackson-howard"
+  :illustrator "JuanManuel Tumburus"
+  :position 15
+  :quantity 3}
+ {:code "04016"
+  :card-id "invasion-of-privacy"
+  :illustrator "Del Borovic"
+  :position 16
+  :quantity 3}
+ {:code "04017"
+  :flavor "Pumping water into deep sea thermal vents produced huge amounts of energy. A profitable side effect."
+  :card-id "geothermal-fracking"
+  :illustrator "Mike Nesbitt"
+  :position 17
+  :quantity 3}
+ {:code "04018"
+  :card-id "swarm"
+  :illustrator "Ed Mattinian"
+  :position 18
+  :quantity 3}
+ {:code "04019"
+  :flavor "Your free trial expired. Upgrade to the full version?"
+  :card-id "cyberdex-trial"
+  :illustrator "J. Zhang"
+  :position 19
+  :quantity 3}
+ {:code "04020"
+  :flavor "\"The Grim of legend was one of many so-called 'black dog' myths common to Gaelic and English-speaking communities. What's fascinating is that it has propagated to the network, where it lives on as a program that, or so the story goes, hunts for the unwary.\" -The Professor"
+  :card-id "grim"
+  :illustrator "Liiga Smilshkalne"
+  :position 20
+  :quantity 3}]

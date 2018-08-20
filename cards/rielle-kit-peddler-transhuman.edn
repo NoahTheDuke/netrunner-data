@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "03028"
+ :deck-limit 1
+ :faction :shaper
+ :id "rielle-kit-peddler-transhuman"
+ :influence-limit 10
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:cyborg]
+ :text "The first piece of ice you encounter each turn gains <strong>code gate</strong> until the end of the run."
+ :title "Rielle \"Kit\" Peddler: Transhuman"
+ :type :identity
+ :uniqueness false}

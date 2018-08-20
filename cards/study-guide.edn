@@ -1,0 +1,14 @@
+{:code "08028"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "study-guide"
+ :influence-value 4
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :decoder]
+ :text "Study Guide has +1 strength for each power counter on it.\n1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: Place 1 power counter on Study Guide."
+ :title "Study Guide"
+ :type :program
+ :uniqueness false}

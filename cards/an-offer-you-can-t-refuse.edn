@@ -1,0 +1,12 @@
+{:code "08091"
+ :cost 4
+ :deck-limit 3
+ :faction :jinteki
+ :id "an-offer-you-can-t-refuse"
+ :influence-value 3
+ :side :corp
+ :subtype []
+ :text "Choose a central server. The runner may initiate a run on that server during which he or she cannot jack out. Otherwise, add An Offer You Can't Refuse to your score area as an agenda worth 1 agenda point."
+ :title "An Offer You Can't Refuse"
+ :type :operation
+ :uniqueness false}

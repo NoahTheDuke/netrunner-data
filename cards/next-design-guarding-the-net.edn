@@ -1,0 +1,12 @@
+{:code "03003"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "next-design-guarding-the-net"
+ :influence-limit 12
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ."
+ :title "NEXT Design: Guarding the Net"
+ :type :identity
+ :uniqueness false}

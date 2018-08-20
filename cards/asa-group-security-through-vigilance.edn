@@ -1,0 +1,12 @@
+{:code "21009"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "asa-group-security-through-vigilance"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The first time you install a card each turn, you may install an additional non-agenda card from HQ in or protecting that server (paying all costs)."
+ :title "Asa Group: Security Through Vigilance"
+ :type :identity
+ :uniqueness false}

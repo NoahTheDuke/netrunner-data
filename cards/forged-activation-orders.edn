@@ -1,0 +1,13 @@
+{:code "20022"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "forged-activation-orders"
+ :influence-value 2
+ :replaced-by "01020"
+ :side :runner
+ :subtype [:sabotage]
+ :text "Choose an unrezzed piece of ice. The Corp must either rez that ice or trash it."
+ :title "Forged Activation Orders"
+ :type :event
+ :uniqueness false}

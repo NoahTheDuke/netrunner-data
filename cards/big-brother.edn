@@ -1,0 +1,12 @@
+{:code "02035"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "big-brother"
+ :influence-value 1
+ :side :corp
+ :subtype [:gray ops]
+ :text "Play only if the Runner is tagged.\nGive the Runner 2 tags."
+ :title "Big Brother"
+ :type :operation
+ :uniqueness false}

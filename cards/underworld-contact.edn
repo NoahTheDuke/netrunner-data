@@ -1,0 +1,13 @@
+{:code "20060"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "underworld-contact"
+ :influence-value 0
+ :replaced-by "02069"
+ :side :runner
+ :subtype [:connection]
+ :text "When your turn begins, gain 1[credit] if you have at least 2[link]."
+ :title "Underworld Contact"
+ :type :resource
+ :uniqueness false}

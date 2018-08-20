@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "22008"
+ :deck-limit 1
+ :faction :criminal
+ :id "liza-talking-thunder-prominent-legislator"
+ :influence-limit 15
+ :minimum-deck-size 50
+ :side :runner
+ :subtype [:g-mod]
+ :text "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag."
+ :title "Liza Talking Thunder: Prominent Legislator"
+ :type :identity
+ :uniqueness false}

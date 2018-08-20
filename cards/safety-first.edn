@@ -1,0 +1,12 @@
+{:code "09044"
+ :cost 0
+ :deck-limit 3
+ :faction :adam
+ :id "safety-first"
+ :influence-value 3
+ :side :runner
+ :subtype [:directive :virtual]
+ :text "Your maximum hand size is reduced by 2.\nWhen your turn ends, draw 1 card if you do not have cards in your grip equal to or greater than your maximum hand size."
+ :title "Safety First"
+ :type :resource
+ :uniqueness true}

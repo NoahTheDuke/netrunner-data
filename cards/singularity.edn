@@ -1,0 +1,13 @@
+{:code "04101"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "singularity"
+ :influence-value 3
+ :replaced-by "20004"
+ :side :runner
+ :subtype [:double :run]
+ :text "As an additional cost to play this event, spend [click].\nMake a run on a remote server. If successful, instead of accessing cards, trash all cards in the server at no cost (even if they cannot normally be trashed)."
+ :title "Singularity"
+ :type :event
+ :uniqueness false}

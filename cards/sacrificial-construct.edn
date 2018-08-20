@@ -1,0 +1,13 @@
+{:code "20054"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "sacrificial-construct"
+ :influence-value 1
+ :replaced-by "01048"
+ :side :runner
+ :subtype [:remote]
+ :text "[trash]: Prevent an installed program or an installed piece of hardware from being trashed."
+ :title "Sacrificial Construct"
+ :type :resource
+ :uniqueness false}

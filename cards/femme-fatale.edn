@@ -1,0 +1,15 @@
+{:code "20029"
+ :cost 9
+ :deck-limit 3
+ :faction :criminal
+ :id "femme-fatale"
+ :influence-value 1
+ :memory-cost 1
+ :replaced-by "01026"
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\nWhen you install Femme Fatale, choose an installed piece of ice. When you encounter that ice, you may pay 1[credit] per subroutine on that ice to bypass it."
+ :title "Femme Fatale"
+ :type :program
+ :uniqueness false}

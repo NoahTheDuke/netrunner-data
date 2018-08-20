@@ -1,0 +1,12 @@
+{:code "09002"
+ :deck-limit 1
+ :faction :nbn
+ :id "new-angeles-sol-your-news"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Whenever an agenda is scored or stolen, you may play 1 <strong>current</strong> from HQ or Archives (paying its play cost)."
+ :title "New Angeles Sol: Your News"
+ :type :identity
+ :uniqueness false}

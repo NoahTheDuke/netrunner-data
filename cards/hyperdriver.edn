@@ -1,0 +1,13 @@
+{:code "08070"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "hyperdriver"
+ :influence-value 3
+ :memory-cost 3
+ :side :runner
+ :subtype []
+ :text "When your turn begins, you may remove Hyperdriver from the game and gain [click][click][click]."
+ :title "Hyperdriver"
+ :type :program
+ :uniqueness false}

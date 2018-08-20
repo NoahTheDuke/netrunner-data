@@ -1,0 +1,12 @@
+{:code "04104"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "silencer"
+ :influence-value 3
+ :side :runner
+ :subtype [:chip :stealth]
+ :text "1[recurring-credit]\nUse this credit to pay for using <strong>killers</strong>."
+ :title "Silencer"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "02017"
+ :cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "tmi"
+ :influence-value 1
+ :side :corp
+ :strength 5
+ :subtype [:barrier]
+ :text "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[subroutine] End the run."
+ :title "TMI"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "01111"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "enigma"
+ :influence-value 0
+ :replaced-by "20129"
+ :side :corp
+ :strength 2
+ :subtype [:code gate]
+ :text "[subroutine] The Runner loses [click], if able.\n[subroutine] End the run."
+ :title "Enigma"
+ :type :ice
+ :uniqueness false}

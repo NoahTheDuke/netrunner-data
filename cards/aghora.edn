@@ -1,0 +1,14 @@
+{:code "10097"
+ :cost 5
+ :deck-limit 3
+ :faction :anarch
+ :id "aghora"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :ai :deva]
+ :text "1[credit]: Break ice subroutine on a piece of ice that has a rez cost of 5 or greater.\n1[credit]: +1 strength.\n2[credit]: Swap Aghora with a <strong>deva</strong> program from your grip."
+ :title "Aghora"
+ :type :program
+ :uniqueness true}

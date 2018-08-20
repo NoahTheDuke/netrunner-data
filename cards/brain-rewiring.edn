@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "13029"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "brain-rewiring"
+ :side :corp
+ :subtype [:security]
+ :text "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card."
+ :title "Brain Rewiring"
+ :type :agenda
+ :uniqueness false}

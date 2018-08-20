@@ -1,0 +1,12 @@
+{:code "21021"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "acacia"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia."
+ :title "Acacia"
+ :type :hardware
+ :uniqueness false}

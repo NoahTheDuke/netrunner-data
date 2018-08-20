@@ -1,0 +1,13 @@
+{:code "02110"
+ :cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "eli-1-0"
+ :influence-value 1
+ :side :corp
+ :strength 4
+ :subtype [:barrier :bioroid]
+ :text "The Runner may spend [click] to break any subroutine on Eli 1.0.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Eli 1.0"
+ :type :ice
+ :uniqueness false}

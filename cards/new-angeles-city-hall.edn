@@ -1,0 +1,12 @@
+{:code "02109"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "new-angeles-city-hall"
+ :influence-value 0
+ :side :runner
+ :subtype [:location :government]
+ :text "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda."
+ :title "New Angeles City Hall"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:code "11085"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "misdirection"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "[click], [click], X[credit]: Remove X tags."
+ :title "Misdirection"
+ :type :program
+ :uniqueness false}

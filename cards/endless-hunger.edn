@@ -1,0 +1,14 @@
+{:code "09033"
+ :cost 0
+ :deck-limit 3
+ :faction :apex
+ :id "endless-hunger"
+ :influence-value 2
+ :memory-cost 4
+ :side :runner
+ :strength 11
+ :subtype [:icebreaker]
+ :text "<strong>Trash an installed card:</strong> Break \"[subroutine] End the run.\" subroutine."
+ :title "Endless Hunger"
+ :type :program
+ :uniqueness false}

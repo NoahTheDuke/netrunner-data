@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "08032"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "research-grant"
+ :side :corp
+ :subtype [:research]
+ :text "When you score Research Grant, you may score another copy of Research Grant that is installed."
+ :title "Research Grant"
+ :type :agenda
+ :uniqueness false}

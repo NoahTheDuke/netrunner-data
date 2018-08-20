@@ -1,0 +1,12 @@
+{:code "11050"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ark-lockdown"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "Name a card. Remove all copies of that card in the heap from the game."
+ :title "Ark Lockdown"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "01096"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "security-subcontract"
+ :influence-value 1
+ :side :corp
+ :subtype [:transaction]
+ :text "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit]."
+ :title "Security Subcontract"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

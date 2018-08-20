@@ -1,0 +1,13 @@
+{:code "11033"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "enforcing-loyalty"
+ :influence-value 1
+ :side :corp
+ :subtype [:double :gray ops]
+ :text "As an additional cost to play this operation, spend [click].\n<trace>Trace 3</trace> If successful, trash an installed card that does not match the faction of the Runner's identity."
+ :title "Enforcing Loyalty"
+ :trash-cost 1
+ :type :operation
+ :uniqueness false}

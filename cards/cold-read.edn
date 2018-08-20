@@ -1,0 +1,12 @@
+{:code "11083"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "cold-read"
+ :influence-value 1
+ :side :runner
+ :subtype [:run :stealth]
+ :text "Make a run, and place 4[credit] on this card, which you may use only during this run. When this run ends, trash 1 program (cannot be prevented) used during this run."
+ :title "Cold Read"
+ :type :event
+ :uniqueness false}

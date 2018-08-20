@@ -1,0 +1,12 @@
+{:code "12046"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "adjusted-matrix"
+ :influence-value 2
+ :side :runner
+ :subtype [:mod]
+ :text "Install Adjusted Matrix on an <strong>icebreaker</strong>. Host <strong>icebreaker</strong> gains <strong>AI</strong> and \"You may spend [click] to break any subroutine on a piece of ice currently being encountered.\"\n<errata>Errata from FAQ 4.1</errata>"
+ :title "Adjusted Matrix"
+ :type :hardware
+ :uniqueness false}

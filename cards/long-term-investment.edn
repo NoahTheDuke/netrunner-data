@@ -1,0 +1,13 @@
+{:code "13055"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "long-term-investment"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "When your turn begins, place 2[credit] on Long-Term Investment. If there are at least 8[credit] on Long-Term Investment, it gains \"[click]: Take any number of credits from Long-Term Investment.\""
+ :title "Long-Term Investment"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

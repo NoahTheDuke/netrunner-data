@@ -1,0 +1,12 @@
+{:code "08106"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "bookmark"
+ :influence-value 2
+ :side :runner
+ :subtype []
+ :text "[click]: Host up to 3 cards from your grip facedown on Bookmark (you may look at these cards at any time).\n[click] or [trash]: Add all cards on Bookmark to your grip."
+ :title "Bookmark"
+ :type :hardware
+ :uniqueness false}

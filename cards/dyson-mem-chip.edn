@@ -1,0 +1,13 @@
+{:code "20057"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "dyson-mem-chip"
+ :influence-value 0
+ :replaced-by "02028"
+ :side :runner
+ :subtype [:chip :link]
+ :text "+1[mu], +1[link]"
+ :title "Dyson Mem Chip"
+ :type :hardware
+ :uniqueness false}

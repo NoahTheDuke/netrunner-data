@@ -1,0 +1,14 @@
+{:code "13007"
+ :cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "lustig"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +5 strength.\n[trash]: Bypass a piece of <strong>sentry</strong> ice currently being encountered, even if it has strength greater than Lustig."
+ :title "Lustig"
+ :type :program
+ :uniqueness false}

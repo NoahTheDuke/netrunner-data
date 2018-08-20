@@ -1,0 +1,13 @@
+{:code "08037"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "gutenberg"
+ :influence-value 3
+ :side :corp
+ :strength 3
+ :subtype [:sentry :tracer]
+ :text "Gutenberg has +3 strength while protecting R&D.\n[subroutine] <trace>Trace 7</trace> If successful, give the Runner 1 tag."
+ :title "Gutenberg"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "03033"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "freelance-coding-contract"
+ :influence-value 1
+ :side :runner
+ :subtype [:job]
+ :text "Trash up to 5 programs from your grip. Gain 2[credit] for each program trashed."
+ :title "Freelance Coding Contract"
+ :type :event
+ :uniqueness false}

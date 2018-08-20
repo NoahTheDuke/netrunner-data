@@ -1,0 +1,14 @@
+{:code "22012"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "tycoon"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "Whenever an encounter with a piece of ice in which you used Tycoon to break a subroutine ends, the Corp gains 2[credit].\n1[credit]: break up to 2 <strong>barrier</strong> subroutines.\n2[credit]: +3 strength."
+ :title "Tycoon"
+ :type :program
+ :uniqueness false}

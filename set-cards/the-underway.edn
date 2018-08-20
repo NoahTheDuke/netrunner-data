@@ -1,0 +1,132 @@
+[{:code "08061"
+  :flavor "The server was quiet that night. I closed my eyes, the low-hum of the datastream lulling me into a trance. When I opened them, the construct stood before me in the shape of a man, clad in light of many colors. His stature was impressive, and his saccharine voice wormed its way into my very soul."
+  :card-id "faust"
+  :illustrator "Marko Fiedler"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_61.png"
+  :position 61
+  :quantity 3}
+ {:code "08062"
+  :flavor "\"Whaddya buyin'?\""
+  :card-id "street-peddler"
+  :illustrator "JuanManuel Tumburus"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_62.png"
+  :position 62
+  :quantity 3}
+ {:code "08063"
+  :flavor "\"Everything has a price.\""
+  :card-id "armand-geist-walker-tech-lord"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_63.png"
+  :position 63
+  :quantity 3}
+ {:code "08064"
+  :card-id "drive-by"
+  :illustrator "Mitchell Malloy"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_64.png"
+  :position 64
+  :quantity 3}
+ {:code "08065"
+  :flavor "Using the exact same rig as a million other people is just another form of security through anonymity."
+  :card-id "forger"
+  :illustrator "Lili Ibrahim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_65.png"
+  :position 65
+  :quantity 3}
+ {:code "08066"
+  :card-id "shiv"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_66.png"
+  :position 66
+  :quantity 3}
+ {:code "08067"
+  :flavor "Muertos has no fear of the law. Muertos is the law."
+  :card-id "gang-sign"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_67.png"
+  :position 67
+  :quantity 3}
+ {:code "08068"
+  :flavor "La Señora de las Sombras giveth and taketh away."
+  :card-id "muertos-gang-member"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_68.png"
+  :position 68
+  :quantity 3}
+ {:code "08069"
+  :card-id "chameleon"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_69.png"
+  :position 69
+  :quantity 3}
+ {:code "08070"
+  :flavor "\"It doesn't actually bend time. It just feels like it. That's relativity.\" -Hayley Kaplan"
+  :card-id "hyperdriver"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_70.png"
+  :position 70
+  :quantity 3}
+ {:code "08071"
+  :flavor "\"Isn't this wrong?\"\n\"Not legally. They didn't read the fine print.\""
+  :card-id "test-ground"
+  :illustrator "Sam Lamont"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_71.png"
+  :position 71
+  :quantity 3}
+ {:code "08072"
+  :card-id "defective-brainchips"
+  :illustrator "Sara K. Diesel"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_72.png"
+  :position 72
+  :quantity 3}
+ {:code "08073"
+  :card-id "allele-repression"
+  :illustrator "JB Casacop"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_73.png"
+  :position 73
+  :quantity 3}
+ {:code "08074"
+  :card-id "marcus-batty"
+  :illustrator "Frederic Pinson"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_74.png"
+  :position 74
+  :quantity 3}
+ {:code "08075"
+  :flavor "\"Is your neighbor secretly a violent criminal? The answer to this chilling question and more, right after the break.\" -Shannon Claire, SSN 5"
+  :card-id "expose"
+  :illustrator "Sara K. Diesel"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_75.png"
+  :position 75
+  :quantity 3}
+ {:code "08076"
+  :flavor "Pa-pa-pa-chinko!"
+  :card-id "pachinko"
+  :illustrator "Donald Crank"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_76.png"
+  :position 76
+  :quantity 3}
+ {:code "08077"
+  :card-id "underway-renovation"
+  :illustrator "Alex Kim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_77.png"
+  :position 77
+  :quantity 3}
+ {:code "08078"
+  :flavor "\"You want no questions asked, hire someone else. I have two: who and how much?\""
+  :card-id "contract-killer"
+  :illustrator "Clark Huggins"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_78.png"
+  :position 78
+  :quantity 3}
+ {:code "08079"
+  :flavor "\"Let me tell you a secret. There's no such thing as impenetrable ice. It has to allow access, or else why is the server on the Network in the first place? But that doesn't mean they have to make it easy.\" -g00ru"
+  :card-id "spiderweb"
+  :illustrator "Laura Wilson"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_79.png"
+  :position 79
+  :quantity 3}
+ {:code "08080"
+  :card-id "underway-grid"
+  :illustrator "Alex Kim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN26_80.png"
+  :position 80
+  :quantity 3}]

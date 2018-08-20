@@ -1,0 +1,13 @@
+{:code "03043"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "chakana"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever you make a successful run on R&D, place 1 virus counter on Chakana.\nIf there are at least 3 virus counters on Chakana, the advancement requirement of all agendas is increased by 1."
+ :title "Chakana"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "04088"
+ :cost 7
+ :deck-limit 3
+ :faction :shaper
+ :id "omega"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :ai]
+ :text "1[credit]: Break ice subroutine.\n1[credit]: +1 strength.\nUse Omega only on the innermost piece of ice protecting a server."
+ :title "Omega"
+ :type :program
+ :uniqueness false}

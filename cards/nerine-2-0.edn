@@ -1,0 +1,13 @@
+{:code "12030"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "nerine-2-0"
+ :influence-value 3
+ :side :corp
+ :strength 4
+ :subtype [:code gate :bioroid :ap]
+ :text "The Runner can spend [click][click] to break up to 2 subroutines on Nerine 2.0.\n[subroutine] Do 1 brain damage. The Corp may draw 1 card.\n[subroutine] Do 1 brain damage. The Corp may draw 1 card.\n<errata>Errata from FAQ 4.0</errata>"
+ :title "Nerine 2.0"
+ :type :ice
+ :uniqueness false}

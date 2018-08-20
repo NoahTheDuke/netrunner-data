@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "06085"
+ :deck-limit 3
+ :faction :nbn
+ :id "license-acquisition"
+ :side :corp
+ :subtype [:expansion]
+ :text "When you score License Acquisition, install and rez an asset or upgrade from Archives or HQ, ignoring all costs."
+ :title "License Acquisition"
+ :type :agenda
+ :uniqueness false}

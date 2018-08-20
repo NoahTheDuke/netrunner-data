@@ -1,0 +1,14 @@
+{:code "21104"
+ :cost 7
+ :deck-limit 3
+ :faction :criminal
+ :id "amina"
+ :influence-value 4
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :decoder]
+ :text "2[credit]: Break up to 3 <strong>code gate</strong> subroutines.\n2[credit]: +3 strength.\nThe first time each turn an encounter ends in which you used Amina to break all subroutines on a piece of ice, the Corp loses 1[credit]."
+ :title "Amina"
+ :type :program
+ :uniqueness false}

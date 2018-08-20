@@ -1,0 +1,12 @@
+{:code "06055"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "box-e"
+ :influence-value 1
+ :side :runner
+ :subtype [:console]
+ :text "+2[mu]\nYour maximum hand size is increased by 2.\nLimit 1 <strong>console</strong> per player."
+ :title "Box-E"
+ :type :hardware
+ :uniqueness true}

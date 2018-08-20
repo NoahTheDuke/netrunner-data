@@ -1,0 +1,13 @@
+{:code "11014"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "georgia-emelyov"
+ :influence-value 2
+ :side :corp
+ :subtype [:sysop]
+ :text "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage.\n2[credit]: Move Georgia Emelyov to another server."
+ :title "Georgia Emelyov"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

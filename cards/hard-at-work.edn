@@ -1,0 +1,12 @@
+{:code "04023"
+ :cost 5
+ :deck-limit 3
+ :faction :anarch
+ :id "hard-at-work"
+ :influence-value 2
+ :side :runner
+ :subtype []
+ :text "When your turn begins, gain 2[credit] and lose [click]."
+ :title "Hard at Work"
+ :type :resource
+ :uniqueness false}

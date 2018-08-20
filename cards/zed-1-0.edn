@@ -1,0 +1,13 @@
+{:code "03020"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "zed-1-0"
+ :influence-value 2
+ :side :corp
+ :strength 1
+ :subtype [:sentry :bioroid :ap]
+ :text "The Runner can spend [click] to break any subroutine on Zed 1.0.\n[subroutine] If the Runner has spent at least 1[click] to break a subroutine during this run, do 1 brain damage.\n[subroutine] If the Runner has spent at least 1[click] to break a subroutine during this run, do 1 brain damage."
+ :title "Zed 1.0"
+ :type :ice
+ :uniqueness false}

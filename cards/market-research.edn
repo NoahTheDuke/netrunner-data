@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "04095"
+ :deck-limit 3
+ :faction :nbn
+ :id "market-research"
+ :side :corp
+ :subtype [:research]
+ :text "If the Runner is tagged when you score Market Research, place 1 agenda counter on it.\nMarket Research is worth 1 additional agenda point while it has an agenda counter on it."
+ :title "Market Research"
+ :type :agenda
+ :uniqueness false}

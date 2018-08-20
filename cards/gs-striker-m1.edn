@@ -1,0 +1,14 @@
+{:code "09048"
+ :cost 4
+ :deck-limit 3
+ :faction :sunny-lebeau
+ :id "gs-striker-m1"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :decoder :cloud]
+ :text "If you have at least 2[link], the memory cost of GS Striker M1 is 0, even if it is not installed.\n2[credit]: Break any number of <strong>code gate</strong> subroutines.\n2[credit]: +3 strength."
+ :title "GS Striker M1"
+ :type :program
+ :uniqueness false}

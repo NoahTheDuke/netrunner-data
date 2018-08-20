@@ -1,0 +1,12 @@
+{:code "11048"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "first-responders"
+ :influence-value 0
+ :side :runner
+ :subtype [:connection]
+ :text "2[credit]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn."
+ :title "First Responders"
+ :type :resource
+ :uniqueness false}

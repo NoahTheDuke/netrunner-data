@@ -1,0 +1,13 @@
+{:code "06082"
+ :cost 5
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "sagittarius"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :tracer :destroyer]
+ :text "[subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program."
+ :title "Sagittarius"
+ :type :ice
+ :uniqueness false}

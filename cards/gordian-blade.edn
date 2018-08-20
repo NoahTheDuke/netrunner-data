@@ -1,0 +1,15 @@
+{:code "01043"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "gordian-blade"
+ :influence-value 3
+ :memory-cost 1
+ :replaced-by "20049"
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder]
+ :text "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for the remainder of this run."
+ :title "Gordian Blade"
+ :type :program
+ :uniqueness false}

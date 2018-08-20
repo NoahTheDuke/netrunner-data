@@ -1,0 +1,13 @@
+{:code "10070"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "aryabhata-tech"
+ :influence-value 2
+ :side :corp
+ :subtype [:ritzy]
+ :text "Whenever there is a successful trace, gain 1[credit] and the Runner loses 1[credit]."
+ :title "Aryabhata Tech"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

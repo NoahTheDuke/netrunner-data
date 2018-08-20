@@ -1,0 +1,13 @@
+{:code "04071"
+ :cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "fenris"
+ :influence-value 2
+ :side :corp
+ :strength 2
+ :subtype [:sentry :ap :illicit]
+ :text "When you rez Fenris, take 1 bad publicity.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run."
+ :title "Fenris"
+ :type :ice
+ :uniqueness false}

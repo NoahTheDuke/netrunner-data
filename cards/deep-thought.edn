@@ -1,0 +1,13 @@
+{:code "02108"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "deep-thought"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever you make a successful run on R&D, place 1 virus counter on Deep Thought.\nIf there are at least 3 virus counters on Deep Thought, it gains \"When your turn begins, you may look at the top card of R&D.\""
+ :title "Deep Thought"
+ :type :program
+ :uniqueness false}

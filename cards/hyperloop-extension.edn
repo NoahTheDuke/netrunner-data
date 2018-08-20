@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "22027"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "hyperloop-extension"
+ :side :corp
+ :subtype [:expansion]
+ :text "When Hyperloop Extension is scored or stolen, the Corp gains 3[credit]."
+ :title "Hyperloop Extension"
+ :type :agenda
+ :uniqueness false}

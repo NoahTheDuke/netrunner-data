@@ -1,0 +1,13 @@
+{:code "07014"
+ :cost 9
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "nebula"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry :destroyer]
+ :text "Nebula can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Trash 1 program."
+ :title "Nebula"
+ :type :ice
+ :uniqueness false}

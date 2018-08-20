@@ -1,0 +1,12 @@
+{:code "21105"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "diversion-of-funds"
+ :influence-value 5
+ :side :runner
+ :subtype [:double :run :sabotage]
+ :text "As an additional cost to play this event, spend [click].\nMake a run on HQ. If successful, instead of accessing cards, you may force the corp to lose up to 5[credit], then you may gain 1[credit] for each credit lost."
+ :title "Diversion of Funds"
+ :type :event
+ :uniqueness false}

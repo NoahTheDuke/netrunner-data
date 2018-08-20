@@ -1,0 +1,13 @@
+{:code "12098"
+ :cost 9
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "tithonium"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:barrier :destroyer]
+ :text "You may forfeit an agenda to rez Tithonium instead of paying its rez cost.\nTithonium cannot host cards.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 resource and end the run."
+ :title "Tithonium"
+ :type :ice
+ :uniqueness false}

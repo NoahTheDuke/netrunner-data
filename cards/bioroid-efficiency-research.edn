@@ -1,0 +1,12 @@
+{:code "03013"
+ :cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "bioroid-efficiency-research"
+ :influence-value 2
+ :side :corp
+ :subtype [:condition]
+ :text "Rez a piece of <strong>bioroid</strong> ice, ignoring all costs, and install Bioroid Efficiency Research on that ice as a hosted condition counter with the text \"Trash Bioroid Efficiency Research and derez host ice if all of its subroutines are broken during a single encounter.\""
+ :title "Bioroid Efficiency Research"
+ :type :operation
+ :uniqueness false}

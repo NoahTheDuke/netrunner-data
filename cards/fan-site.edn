@@ -1,0 +1,12 @@
+{:code "08085"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "fan-site"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever the Corp scores an agenda, add Fan Site to your score area as an agenda worth 0 agenda points."
+ :title "Fan Site"
+ :type :resource
+ :uniqueness false}

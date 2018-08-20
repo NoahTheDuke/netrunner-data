@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "06087"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "superior-cyberwalls"
+ :side :corp
+ :subtype [:security]
+ :text "All <strong>barrier</strong> ice have +1 strength.\nWhen you score Superior Cyberwalls, gain 1[credit] for each rezzed <strong>barrier</strong>."
+ :title "Superior Cyberwalls"
+ :type :agenda
+ :uniqueness false}

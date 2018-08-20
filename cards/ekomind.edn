@@ -1,0 +1,12 @@
+{:code "06093"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "ekomind"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "Your memory limit is equal to the number of cards in your grip.\nLimit 1 <strong>console</strong> per player."
+ :title "Ekomind"
+ :type :hardware
+ :uniqueness true}

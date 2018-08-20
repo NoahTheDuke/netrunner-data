@@ -1,0 +1,12 @@
+{:code "01054"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "haas-bioroid-engineering-the-future"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:megacorp]
+ :text "The first time you install a card each turn, gain 1[credit]."
+ :title "Haas-Bioroid: Engineering the Future"
+ :type :identity
+ :uniqueness false}

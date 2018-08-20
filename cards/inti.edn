@@ -1,0 +1,14 @@
+{:code "03048"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "inti"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +1 strength for the remainder of this run."
+ :title "Inti"
+ :type :program
+ :uniqueness false}

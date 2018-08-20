@@ -1,0 +1,13 @@
+{:code "13046"
+ :cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "mr-stone"
+ :influence-value 4
+ :side :corp
+ :subtype [:executive]
+ :text "Whenever the Runner takes 1 or more tags, do 1 meat damage."
+ :title "Mr. Stone"
+ :trash-cost 2
+ :type :asset
+ :uniqueness true}

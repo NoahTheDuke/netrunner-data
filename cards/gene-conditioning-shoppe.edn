@@ -1,0 +1,12 @@
+{:code "08006"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "gene-conditioning-shoppe"
+ :influence-value 1
+ :side :runner
+ :subtype [:location]
+ :text "<strong>Genetics</strong> also trigger the second time each turn their trigger condition is met."
+ :title "Gene Conditioning Shoppe"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "20016"
+ :cost 6
+ :deck-limit 3
+ :faction :anarch
+ :id "liberated-account"
+ :influence-value 2
+ :replaced-by "02022"
+ :side :runner
+ :subtype []
+ :text "Place 16[credit] from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.\n[click]: Take 4[credit] from Liberated Account."
+ :title "Liberated Account"
+ :type :resource
+ :uniqueness false}

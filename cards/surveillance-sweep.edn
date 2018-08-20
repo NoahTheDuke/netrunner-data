@@ -1,0 +1,12 @@
+{:code "09023"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "surveillance-sweep"
+ :influence-value 3
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner must spend credits first for each trace attempt during a run."
+ :title "Surveillance Sweep"
+ :type :operation
+ :uniqueness false}

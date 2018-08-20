@@ -1,0 +1,14 @@
+{:code "11068"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "blackstone"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break <strong>barrier</strong> subroutine.\n3[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card."
+ :title "Blackstone"
+ :type :program
+ :uniqueness false}

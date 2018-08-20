@@ -1,0 +1,12 @@
+{:code "08101"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "power-to-the-people"
+ :influence-value 2
+ :side :runner
+ :subtype [:priority]
+ :text "Play only as your first [click].\nThe first time you access an agenda this turn, gain 7[credit]."
+ :title "Power to the People"
+ :type :event
+ :uniqueness false}

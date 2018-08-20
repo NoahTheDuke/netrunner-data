@@ -1,0 +1,13 @@
+{:base-link 1
+ :code "21025"
+ :deck-limit 1
+ :faction :shaper
+ :id "kabonesa-wu-netspace-thrillseeker"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "[click]: Search your stack for a non-<strong>virus</strong> program and install it, lowering its install cost by 1[credit], then shuffle your stack. If that program is still installed when your turn ends, remove it from the game."
+ :title "Kabonesa Wu: Netspace Thrillseeker"
+ :type :identity
+ :uniqueness false}

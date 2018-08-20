@@ -1,0 +1,13 @@
+{:code "06104"
+ :cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "markus-1-0"
+ :influence-value 1
+ :side :corp
+ :strength 3
+ :subtype [:barrier :bioroid]
+ :text "The Runner may spend [click] to break any subroutine on Markus 1.0.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] End the run."
+ :title "Markus 1.0"
+ :type :ice
+ :uniqueness false}

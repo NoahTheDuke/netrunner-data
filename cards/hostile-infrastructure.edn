@@ -1,0 +1,13 @@
+{:code "06083"
+ :cost 5
+ :deck-limit 3
+ :faction :jinteki
+ :id "hostile-infrastructure"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage."
+ :title "Hostile Infrastructure"
+ :trash-cost 5
+ :type :asset
+ :uniqueness false}

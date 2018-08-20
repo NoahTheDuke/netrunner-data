@@ -1,0 +1,13 @@
+{:code "06111"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "excalibur"
+ :influence-value 0
+ :side :corp
+ :strength 3
+ :subtype [:mythic :grail]
+ :text "[subroutine] The Runner cannot make another run this turn."
+ :title "Excalibur"
+ :type :ice
+ :uniqueness true}

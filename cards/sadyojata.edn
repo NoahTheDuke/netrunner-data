@@ -1,0 +1,14 @@
+{:code "10044"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "sadyojata"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :ai :deva]
+ :text "1[credit]: Break ice subroutine on a piece of ice with 3 or more subtypes.\n1[credit]: +1 strength.\n2[credit]: Swap Sadyojata with a <strong>deva</strong> program from your grip."
+ :title "Sadyojata"
+ :type :program
+ :uniqueness true}

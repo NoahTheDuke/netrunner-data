@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "06071"
+ :deck-limit 1
+ :faction :neutral-corp
+ :id "hades-fragment"
+ :influence-value 0
+ :side :corp
+ :subtype [:source]
+ :text "When your turn begins, you may add 1 card from Archives to the bottom of R&D.\nLimit 1 per deck."
+ :title "Hades Fragment"
+ :type :agenda
+ :uniqueness true}

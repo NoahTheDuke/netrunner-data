@@ -1,0 +1,13 @@
+{:code "21092"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "kamali-1-0"
+ :influence-value 4
+ :side :corp
+ :strength 3
+ :subtype [:sentry :bioroid :destroyer :ap]
+ :text "The Runner can spend [click] to break any subroutine on Kamali 1.0.\n[subroutine] Do 1 brain damage unless the Runner trashes an installed resource.\n[subroutine] Do 1 brain damage unless the Runner trashes an installed piece of hardware.\n[subroutine] Do 1 brain damage unless the Runner trashes an installed program.\n"
+ :title "Kamali 1.0"
+ :type :ice
+ :uniqueness false}

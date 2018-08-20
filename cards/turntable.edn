@@ -1,0 +1,12 @@
+{:code "08043"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "turntable"
+ :influence-value 2
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nWhenever you steal an agenda, you may swap that agenda with an agenda in the Corp's score area.\nLimit 1 <strong>console</strong> per player."
+ :title "Turntable"
+ :type :hardware
+ :uniqueness true}

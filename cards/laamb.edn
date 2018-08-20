@@ -1,0 +1,14 @@
+{:code "21086"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "laamb"
+ :influence-value 2
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :fracter]
+ :text "When you encounter a piece of ice, you may pay 2[credit] to have it gain <strong>barrier</strong> until the end of the encounter. Use this ability only once per turn.\n2[credit]: break any number of <strong>barrier</strong> subroutines.\n3[credit]: +6 strength."
+ :title "Laamb"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "02114"
+ :deck-limit 1
+ :faction :nbn
+ :id "nbn-the-world-is-yours"
+ :influence-limit 12
+ :minimum-deck-size 40
+ :side :corp
+ :subtype [:megacorp]
+ :text "Your maximum hand size is increased by 1."
+ :title "NBN: The World is Yours*"
+ :type :identity
+ :uniqueness false}

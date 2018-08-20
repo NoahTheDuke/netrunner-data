@@ -1,0 +1,12 @@
+{:code "11100"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "enforced-curfew"
+ :influence-value 0
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's maximum hand size is reduced by 1."
+ :title "Enforced Curfew"
+ :type :operation
+ :uniqueness false}

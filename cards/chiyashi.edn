@@ -1,0 +1,13 @@
+{:code "11112"
+ :cost 12
+ :deck-limit 3
+ :faction :jinteki
+ :id "chiyashi"
+ :influence-value 2
+ :side :corp
+ :strength 8
+ :subtype [:barrier :ap]
+ :text "Whenever the Runner breaks a subroutine on Chiyashi while there is an <strong>AI</strong> installed, trash the top 2 cards of the Runner's stack.\n[subroutine] Do 2 net damage.\n[subroutine] Do 2 net damage.\n[subroutine] End the run."
+ :title "Chiyashi"
+ :type :ice
+ :uniqueness false}

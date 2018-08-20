@@ -1,0 +1,12 @@
+{:code "03050"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "borrowed-satellite"
+ :influence-value 2
+ :side :runner
+ :subtype [:link]
+ :text "+1[link]\nYour maximum hand size is increased by 1."
+ :title "Borrowed Satellite"
+ :type :resource
+ :uniqueness false}

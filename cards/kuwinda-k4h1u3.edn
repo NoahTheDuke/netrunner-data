@@ -1,0 +1,13 @@
+{:code "21049"
+ :cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "kuwinda-k4h1u3"
+ :influence-value 4
+ :side :corp
+ :subtype [:bioroid]
+ :text "When your turn begins, you may <trace>trace X</trace> If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3."
+ :title "Kuwinda K4H1U3"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

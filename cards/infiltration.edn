@@ -1,0 +1,13 @@
+{:code "20055"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "infiltration"
+ :influence-value 0
+ :replaced-by "01049"
+ :side :runner
+ :subtype []
+ :text "Gain 2[credit] or expose 1 card."
+ :title "Infiltration"
+ :type :event
+ :uniqueness false}

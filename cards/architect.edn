@@ -1,0 +1,13 @@
+{:code "06061"
+ :cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "architect"
+ :influence-value 2
+ :side :corp
+ :strength 3
+ :subtype [:sentry]
+ :text "Architect cannot be trashed while installed.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs)."
+ :title "Architect"
+ :type :ice
+ :uniqueness false}

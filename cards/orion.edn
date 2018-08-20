@@ -1,0 +1,13 @@
+{:code "07015"
+ :cost 15
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "orion"
+ :influence-value 3
+ :side :corp
+ :strength 8
+ :subtype [:sentry :code gate :barrier]
+ :text "Orion can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Trash 1 program.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.\n[subroutine] End the run."
+ :title "Orion"
+ :type :ice
+ :uniqueness true}

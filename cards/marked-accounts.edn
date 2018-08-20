@@ -1,0 +1,13 @@
+{:code "02055"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "marked-accounts"
+ :influence-value 1
+ :side :corp
+ :subtype [:transaction]
+ :text "When your turn begins, take 1[credit] from Marked Accounts, if able.\n[click]: Place 3[credit] from the bank on Marked Accounts."
+ :title "Marked Accounts"
+ :trash-cost 5
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 6
+ :agenda-points 2
+ :code "02011"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "mandatory-upgrades"
+ :side :corp
+ :subtype [:initiative]
+ :text "You have 1 additional [click] to spend each turn."
+ :title "Mandatory Upgrades"
+ :type :agenda
+ :uniqueness false}

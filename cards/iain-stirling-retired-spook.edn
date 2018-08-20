@@ -1,0 +1,13 @@
+{:base-link 1
+ :code "05028"
+ :deck-limit 1
+ :faction :criminal
+ :id "iain-stirling-retired-spook"
+ :influence-limit 10
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "When your turn begins, gain 2[credit] if the Corp has more scored agenda points than you."
+ :title "Iain Stirling: Retired Spook"
+ :type :identity
+ :uniqueness false}

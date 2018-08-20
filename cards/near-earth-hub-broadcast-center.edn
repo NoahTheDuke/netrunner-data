@@ -1,0 +1,12 @@
+{:code "06005"
+ :deck-limit 1
+ :faction :nbn
+ :id "near-earth-hub-broadcast-center"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The first time you create a server each turn, draw 1 card."
+ :title "Near-Earth Hub: Broadcast Center"
+ :type :identity
+ :uniqueness false}

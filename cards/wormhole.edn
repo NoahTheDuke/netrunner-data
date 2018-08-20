@@ -1,0 +1,13 @@
+{:code "07013"
+ :cost 9
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "wormhole"
+ :influence-value 2
+ :side :corp
+ :strength 7
+ :subtype [:code gate]
+ :text "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice."
+ :title "Wormhole"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:code "01042"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "battering-ram"
+ :influence-value 2
+ :memory-cost 2
+ :replaced-by "20048"
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :fracter]
+ :text "2[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n1[credit]: +1 strength for the remainder of this run."
+ :title "Battering Ram"
+ :type :program
+ :uniqueness false}

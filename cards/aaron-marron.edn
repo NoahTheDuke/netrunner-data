@@ -1,0 +1,12 @@
+{:code "11106"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "aaron-marron"
+ :influence-value 2
+ :side :runner
+ :subtype [:connection]
+ :text "Whenever an agenda is scored or stolen, place 2 power counters on Aaron Marrón.\n<strong>Hosted power counter:</strong> Remove 1 tag and draw 1 card."
+ :title "Aaron Marrón"
+ :type :resource
+ :uniqueness true}

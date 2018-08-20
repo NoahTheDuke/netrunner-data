@@ -1,0 +1,12 @@
+{:code "08031"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "beach-party"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "When your turn begins, lose [click].\nYour maximum hand size is increased by 5."
+ :title "Beach Party"
+ :type :resource
+ :uniqueness false}

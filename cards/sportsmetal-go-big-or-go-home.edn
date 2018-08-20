@@ -1,0 +1,12 @@
+{:code "22026"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "sportsmetal-go-big-or-go-home"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:subsidiary]
+ :text "Whenever an agenda is scored or stolen, gain 2[credit] or draw 2 cards."
+ :title "Sportsmetal: Go Big or Go Home"
+ :type :identity
+ :uniqueness false}

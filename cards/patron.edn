@@ -1,0 +1,12 @@
+{:code "10063"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "patron"
+ :influence-value 3
+ :side :runner
+ :subtype [:connection]
+ :text "When your turn begins, you may choose a server.\nThe first time you make a successful run on that server this turn, instead of accessing cards, draw 2 cards."
+ :title "Patron"
+ :type :resource
+ :uniqueness false}

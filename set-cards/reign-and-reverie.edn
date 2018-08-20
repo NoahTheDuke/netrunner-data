@@ -1,0 +1,387 @@
+[{:code "22001"
+  :flavor "\"Damn, I'm good.\""
+  :card-id "nathaniel-gnat-hall-one-of-a-kind"
+  :illustrator "M. Zeilinger and A. Christensen"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_1.png"
+  :position 1
+  :quantity 1}
+ {:code "22002"
+  :flavor "All roads lead to Rome."
+  :card-id "divide-and-conquer"
+  :illustrator "Adam Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_2.png"
+  :position 2
+  :quantity 3}
+ {:code "22003"
+  :flavor "\"Worth it.\""
+  :card-id "guinea-pig"
+  :illustrator "Reiko Murakami"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_3.png"
+  :position 3
+  :quantity 3}
+ {:code "22004"
+  :card-id "patchwork"
+  :illustrator "Simon Boxer"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_4.png"
+  :position 4
+  :quantity 3}
+ {:code "22005"
+  :card-id "hijacked-router"
+  :illustrator "Angga Satriohadi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_5.png"
+  :position 5
+  :quantity 3}
+ {:code "22006"
+  :flavor "... clack... clack... clack..."
+  :card-id "cradle"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_6.png"
+  :position 6
+  :quantity 3}
+ {:code "22007"
+  :flavor "Another man's treasure."
+  :card-id "district-99"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_7.png"
+  :position 7
+  :quantity 3}
+ {:code "22008"
+  :flavor "\"You think you're the first to come after me?\""
+  :card-id "liza-talking-thunder-prominent-legislator"
+  :illustrator "M. Zeilinger androtated A. Christensen"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_8.png"
+  :position 8
+  :quantity 1}
+ {:code "22009"
+  :flavor "\"We have you surrounded! For real, this time.\""
+  :card-id "hot-pursuit"
+  :illustrator "Adam Schumpert"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_9.png"
+  :position 9
+  :quantity 3}
+ {:code "22010"
+  :card-id "paragon"
+  :illustrator "Martin Diego Sádaba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_10.png"
+  :position 10
+  :quantity 3}
+ {:code "22011"
+  :flavor "\"With the rise of crypto, banking has become much more complicated. Financial crime has not only kept pace, but exploded exponentially.\"\n-After the Flash: A History of the War-That-Wasn't"
+  :card-id "bankroll"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_11.png"
+  :position 11
+  :quantity 3}
+ {:code "22012"
+  :flavor "\"Any piece of ice is really just a paywall.\"\n-Liza Talking Thunder"
+  :card-id "tycoon"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_12.png"
+  :position 12
+  :quantity 3}
+ {:code "22013"
+  :flavor "A classy alibi."
+  :card-id "thunder-art-gallery"
+  :illustrator "Marko Fiedler"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_13.png"
+  :position 13
+  :quantity 3}
+ {:code "22014"
+  :flavor "\"If I can't kill it, I know how can.\""
+  :card-id "miss-bones"
+  :illustrator "Marko Fiedler"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_14.png"
+  :position 14
+  :quantity 3}
+ {:code "22015"
+  :card-id "akiko-nisei-head-case"
+  :illustrator "M. Zeilinger and A. Christensen"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_15.png"
+  :position 15
+  :quantity 1}
+ {:code "22016"
+  :card-id "insight"
+  :illustrator "Adam Schumpert"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_16.png"
+  :position 16
+  :quantity 3}
+ {:code "22017"
+  :card-id "mind-s-eye"
+  :illustrator "JB Casacop"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_17.png"
+  :position 17
+  :quantity 3}
+ {:code "22018"
+  :flavor "\"What are you making?\"\n\"What aren't I making?\""
+  :card-id "mache"
+  :illustrator "Martin Diego Sádaba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_18.png"
+  :position 18
+  :quantity 3}
+ {:code "22019"
+  :flavor "\"Running is all methaphor, all symbols and plumbing into the depths of the psyche. Sometimes that means tentacles.\" -Akiko Nisei"
+  :card-id "ika"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_19.png"
+  :position 19
+  :quantity 3}
+ {:code "22020"
+  :flavor "The journey is its own reward."
+  :card-id "kyuban"
+  :illustrator "Marius Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_20.png"
+  :position 20
+  :quantity 3}
+ {:code "22021"
+  :flavor "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko's tears away. \"What did you see?\"\n\"I...\" Akiko hesitated. \"Everything.\""
+  :card-id "psych-mike"
+  :illustrator "Zefanya Langkan Maega"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_21.png"
+  :position 21
+  :quantity 3}
+ {:code "22022"
+  :flavor "\"When we're together, I feel like I can do anything!\""
+  :card-id "algernon"
+  :illustrator "Lili Ibrahim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_22.png"
+  :position 22
+  :quantity 3}
+ {:code "22023"
+  :card-id "reboot"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_23.png"
+  :position 23
+  :quantity 3}
+ {:code "22024"
+  :flavor "\"So, Miriam, head anything good lately?\""
+  :card-id "office-supplies"
+  :illustrator "James Cory Webster"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_24.png"
+  :position 24
+  :quantity 3}
+ {:code "22025"
+  :card-id "dj-fenris"
+  :illustrator "Matthew Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_25.png"
+  :position 25
+  :quantity 1}
+ {:code "22026"
+  :flavor "Want It More."
+  :card-id "sportsmetal-go-big-or-go-home"
+  :illustrator "Viniciusde S Menezes"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_26.png"
+  :position 26
+  :quantity 1}
+ {:code "22027"
+  :flavor "\"Our analysis shows significant support from both the public and private sectors.\""
+  :card-id "hyperloop-extension"
+  :illustrator "Angga Satriohadi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_27.png"
+  :position 27
+  :quantity 3}
+ {:code "22028"
+  :flavor "You don't cross it - it crosses you."
+  :card-id "meridian"
+  :illustrator "Adam Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_28.png"
+  :position 28
+  :quantity 3}
+ {:code "22029"
+  :flavor "Banana who?"
+  :card-id "gatekeeper"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_29.png"
+  :position 29
+  :quantity 3}
+ {:code "22030"
+  :flavor "If that doesn't work, try reversing the polarity."
+  :card-id "divert-power"
+  :illustrator "Marius Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_30.png"
+  :position 30
+  :quantity 3}
+ {:code "22031"
+  :flavor "\"Oh, my! He's on fire!\""
+  :card-id "fast-break"
+  :illustrator "James Cory Webster"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_31.png"
+  :position 31
+  :quantity 3}
+ {:code "22032"
+  :flavor "Coach Walden's pep talks were renowned for improving in direct proportion to the amount by which his team was losing."
+  :card-id "game-changer"
+  :illustrator "Matthew Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_32.png"
+  :position 32
+  :quantity 3}
+ {:code "22033"
+  :flavor "The world changed. Concession prices did not."
+  :card-id "giordano-memorial-field"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_33.png"
+  :position 33
+  :quantity 3}
+ {:code "22034"
+  :card-id "saraswati-mnemonics-endless-exploration"
+  :illustrator "Ben Zweifel"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_34.png"
+  :position 34
+  :quantity 1}
+ {:code "22035"
+  :flavor "\"Jumon, all too Jumon...\""
+  :card-id "jumon"
+  :illustrator "Mariusz Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_35.png"
+  :position 35
+  :quantity 3}
+ {:code "22036"
+  :flavor "\"Supersedure is all part of our scheduled maintenance.\""
+  :card-id "api-s-keeper-isobel"
+  :illustrator "Aurore Folny"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_36.png"
+  :position 36
+  :quantity 3}
+ {:code "22037"
+  :card-id "neurostasis"
+  :illustrator "Galen Dara"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_37.png"
+  :position 37
+  :quantity 3}
+ {:code "22038"
+  :flavor "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all\" -How Not to Get Fragged"
+  :card-id "otoroshi"
+  :illustrator "Adam Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_38.png"
+  :position 38
+  :quantity 3}
+ {:code "22039"
+  :flavor "Step right up!"
+  :card-id "thimblerig"
+  :illustrator "Adam Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_39.png"
+  :position 39
+  :quantity 3}
+ {:code "22040"
+  :card-id "hangeki"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_40.png"
+  :position 40
+  :quantity 3}
+ {:code "22041"
+  :card-id "daruma"
+  :illustrator "JB Casacop"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_41.png"
+  :position 41
+  :quantity 3}
+ {:code "22042"
+  :card-id "acme-consulting-the-truth-you-need"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_42.png"
+  :position 42
+  :quantity 1}
+ {:code "22043"
+  :flavor "Only half as annoying as the real thing."
+  :card-id "fly-on-the-wall"
+  :illustrator "Martin Diego Sadaba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_43.png"
+  :position 43
+  :quantity 3}
+ {:code "22044"
+  :flavor "\"What's so special about the Special Investigations Unit?\"\n\"Their budget, for starters.\""
+  :card-id "siu"
+  :illustrator "Clark Huggins"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_44.png"
+  :position 44
+  :quantity 3}
+ {:code "22045"
+  :flavor "\"I lost the staring contest. And all seven rematches.\" -Kabonesa Wu"
+  :card-id "peeping-tom"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_45.png"
+  :position 45
+  :quantity 3}
+ {:code "22046"
+  :card-id "hydra"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_46.png"
+  :position 46
+  :quantity 3}
+ {:code "22047"
+  :flavor "\"No, the audio is fine. It just never seems to turn off.\""
+  :card-id "eavesdrop"
+  :illustrator "Steve Hamilton"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_47.png"
+  :position 47
+  :quantity 3}
+ {:code "22048"
+  :flavor "\"Good news, ma'am. The compliance training was completed with little resistance.\""
+  :card-id "attitude-adjustment"
+  :illustrator "Priscilla Kim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_48.png"
+  :position 48
+  :quantity 3}
+ {:code "22049"
+  :flavor "\"Cheers, Philbert.\""
+  :card-id "arella-salvatore"
+  :illustrator "Matthew Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_49.png"
+  :position 49
+  :quantity 3}
+ {:code "22050"
+  :flavor "We do things our way"
+  :card-id "the-outfit-family-owned-and-operated"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_50.png"
+  :position 50
+  :quantity 1}
+ {:code "22051"
+  :card-id "broad-daylight"
+  :illustrator "Steve Hamilton"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_51.png"
+  :position 51
+  :quantity 3}
+ {:code "22052"
+  :card-id "drudge-work"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_52.png"
+  :position 52
+  :quantity 3}
+ {:code "22053"
+  :card-id "blockchain"
+  :illustrator "Marius Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_53.png"
+  :position 53
+  :quantity 3}
+ {:code "22054"
+  :flavor "A place of decay and death, a plane out of phase, a place of monsters."
+  :card-id "formicary"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_54.png"
+  :position 54
+  :quantity 3}
+ {:code "22055"
+  :flavor "\"It looks like a mistake but I'm pretty sure they leave the gaps on purpose.\" -Gnat"
+  :card-id "building-blocks"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_55.png"
+  :position 55
+  :quantity 3}
+ {:code "22056"
+  :flavor "\"This is blackmail!\"\n\"No, this extortion.\""
+  :card-id "too-big-to-fail"
+  :illustrator "Timur Shevtsov"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_56.png"
+  :position 56
+  :quantity 3}
+ {:code "22057"
+  :card-id "under-the-bus"
+  :illustrator "Timur Shevtsov"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_57.png"
+  :position 57
+  :quantity 3}
+ {:code "22058"
+  :card-id "lady-liberty"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_58.png"
+  :position 58
+  :quantity 1}]

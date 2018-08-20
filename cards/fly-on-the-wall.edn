@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "22043"
+ :deck-limit 3
+ :faction :nbn
+ :id "fly-on-the-wall"
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score Fly on the Wall, give the Runner 1 tag."
+ :title "Fly on the Wall"
+ :type :agenda
+ :uniqueness false}

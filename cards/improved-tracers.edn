@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "09005"
+ :deck-limit 3
+ :faction :nbn
+ :id "improved-tracers"
+ :side :corp
+ :subtype [:security]
+ :text "All <strong>tracer</strong> ice have +1 strength.\nThe base trace strength of each subroutine is increased by 1."
+ :title "Improved Tracers"
+ :type :agenda
+ :uniqueness false}

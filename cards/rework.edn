@@ -1,0 +1,12 @@
+{:code "02093"
+ :cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "rework"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "Shuffle 1 card from HQ into R&D."
+ :title "Rework"
+ :type :operation
+ :uniqueness false}

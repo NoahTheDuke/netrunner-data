@@ -1,0 +1,12 @@
+{:code "22057"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "under-the-bus"
+ :influence-value 3
+ :side :corp
+ :subtype [:gray ops :illicit]
+ :text "Play only if the Runner accessed at least 1 card during his or her last turn.\nTrash 1 <strong>connection</strong> resource and take 1 bad publicity."
+ :title "Under the Bus"
+ :type :operation
+ :uniqueness false}

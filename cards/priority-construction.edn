@@ -1,0 +1,12 @@
+{:code "12118"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "priority-construction"
+ :influence-value 1
+ :side :corp
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nInstall a piece of ice from HQ protecting a remote server (ignoring all costs). Place 3 advancement tokens on that ice."
+ :title "Priority Construction"
+ :type :operation
+ :uniqueness false}

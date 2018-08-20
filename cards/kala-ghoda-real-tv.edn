@@ -1,0 +1,13 @@
+{:code "10015"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "kala-ghoda-real-tv"
+ :influence-value 1
+ :side :corp
+ :subtype [:cast]
+ :text "When your turn begins, you may look at the top card of the Runner's stack.\n[trash]: The Runner trashes the top card of his or her stack."
+ :title "Kala Ghoda Real TV"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

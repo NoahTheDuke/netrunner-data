@@ -1,0 +1,12 @@
+{:code "02103"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "data-leak-reversal"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual :sabotage]
+ :text "Install only if you made a successful run on a central server this turn.\nIf you are tagged, Data Leak Reversal gains \"[click]: The Corp trashes the top card of R&D.\""
+ :title "Data Leak Reversal"
+ :type :resource
+ :uniqueness false}

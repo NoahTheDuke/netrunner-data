@@ -1,0 +1,12 @@
+{:code "04102"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "queen-s-gambit"
+ :influence-value 3
+ :side :runner
+ :subtype [:double]
+ :text "As an additional cost to play this event, spend [click].\nPlace up to 3 advancement tokens on an unrezzed card in a remote server. Gain 2[credit] for each advancement token placed. You cannot access that card this turn."
+ :title "Queen's Gambit"
+ :type :event
+ :uniqueness false}

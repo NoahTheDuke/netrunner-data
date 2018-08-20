@@ -1,0 +1,13 @@
+{:code "08060"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "quicksand"
+ :influence-value 0
+ :side :corp
+ :strength 0
+ :subtype [:barrier]
+ :text "When the Runner encounters Quicksand, place 1 power counter on Quicksand.\nQuicksand has +1 strength for each power counter on it.\n[subroutine] End the run."
+ :title "Quicksand"
+ :type :ice
+ :uniqueness false}

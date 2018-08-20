@@ -1,0 +1,14 @@
+{:code "02094"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "whirlpool"
+ :influence-value 2
+ :replaced-by "20103"
+ :side :corp
+ :strength 1
+ :subtype [:trap]
+ :text "[subroutine] The Runner cannot jack out for the remainder of this run. Trash Whirlpool."
+ :title "Whirlpool"
+ :type :ice
+ :uniqueness false}

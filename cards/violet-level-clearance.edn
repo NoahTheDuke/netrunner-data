@@ -1,0 +1,13 @@
+{:code "11111"
+ :cost 5
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "violet-level-clearance"
+ :influence-value 3
+ :side :corp
+ :subtype [:terminal :transaction]
+ :text "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards."
+ :title "Violet Level Clearance"
+ :trash-cost 1
+ :type :operation
+ :uniqueness false}

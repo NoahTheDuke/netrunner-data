@@ -1,0 +1,373 @@
+[{:code "13001"
+  :card-id "steve-cambridge-master-grifter"
+  :illustrator "Adam Schumpert"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 1
+  :quantity 1}
+ {:code "13002"
+  :flavor "\"Bypassing a system's defenses by cutting physical wires is what I like to call old school.\" - Steve Cambridge"
+  :card-id "brute-force-hack"
+  :illustrator "Jason Juta"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_2.png"
+  :position 2
+  :quantity 3}
+ {:code "13003"
+  :flavor "Targeted attacks make system breaches so much easier, especially if you can spoof an authorized user."
+  :card-id "spear-phishing"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_3.png"
+  :position 3
+  :quantity 3}
+ {:code "13004"
+  :flavor "Flooding the system with synchronized request messages makes it unresponsive to legitimate requests."
+  :card-id "syn-attack"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_4.png"
+  :position 4
+  :quantity 3}
+ {:code "13005"
+  :card-id "polyhistor"
+  :illustrator "BalanceSheet"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_5.png"
+  :position 5
+  :quantity 3}
+ {:code "13006"
+  :flavor "\"Technology breeds crime.\""
+  :card-id "abagnale"
+  :illustrator "BalanceSheet"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_6.png"
+  :position 6
+  :quantity 3}
+ {:code "13007"
+  :flavor "\"Never boast. Just let your importance be quietly obvious.\""
+  :card-id "lustig"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_7.png"
+  :position 7
+  :quantity 3}
+ {:code "13008"
+  :flavor "\"It's a matter of 'acquiring' the right credentials.\""
+  :card-id "demara"
+  :illustrator "Mariusz Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_8.png"
+  :position 8
+  :quantity 3}
+ {:code "13009"
+  :card-id "mammon"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_9.png"
+  :position 9
+  :quantity 3}
+ {:code "13010"
+  :flavor "Know your mark, their weaknesses and strengths--both will show how to best bypass their defenses."
+  :card-id "charlatan"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_10.png"
+  :position 10
+  :quantity 3}
+ {:code "13011"
+  :flavor "You remember when Maxi was making book for Chacon. He's moved up in the world and gained the veneer of respectability. But as an executive the people he works for now, are far more vicious, bloodthirsty, and crooked."
+  :card-id "maxwell-james"
+  :illustrator "Marius Bota"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_11.png"
+  :position 11
+  :quantity 3}
+ {:code "13012"
+  :card-id "ayla-bios-rahim-simulant-specialist"
+  :illustrator "Adam Schumpert"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_12.png"
+  :position 12
+  :quantity 1}
+ {:code "13013"
+  :flavor "Each AI had been tasked with finding a solution to the same problem but with different variables."
+  :card-id "careful-planning"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_13.png"
+  :position 13
+  :quantity 3}
+ {:code "13014"
+  :flavor "Extracting data from complex systems is what running is all about."
+  :card-id "deep-data-mining"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_14.png"
+  :position 14
+  :quantity 3}
+ {:code "13015"
+  :flavor "It is not literally made of diamonds, but it is worth several times its weight in them."
+  :card-id "llds-memory-diamond"
+  :illustrator "Wenjuinn Png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_15.png"
+  :position 15
+  :quantity 3}
+ {:code "13016"
+  :flavor "\"It is more than just a 'pretty nanite plant'. It's a complex synthetic intelligent distributed network, and a VERY pretty nanite plant.\" - Bios"
+  :card-id "ubax"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_16.png"
+  :position 16
+  :quantity 3}
+ {:code "13017"
+  :flavor "Μεγάλο μέρος της μάθησης δεν διδάσκει την κατανόηση"
+  :card-id "adept"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_17.png"
+  :position 17
+  :quantity 3}
+ {:code "13018"
+  :flavor "Δεν υπἁρχει τίποτα μόνιμο, εκτός από την αλλαγή."
+  :card-id "savant"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_18.png"
+  :position 18
+  :quantity 3}
+ {:code "13019"
+  :card-id "egret"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_19.png"
+  :position 19
+  :quantity 3}
+ {:code "13020"
+  :card-id "dhegdheer"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_20.png"
+  :position 20
+  :quantity 3}
+ {:code "13021"
+  :flavor "Innovation. Iteration. Education."
+  :card-id "levy-advanced-research-lab"
+  :illustrator "Pavel Kolomeyets"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_21.png"
+  :position 21
+  :quantity 3}
+ {:code "13022"
+  :flavor "One of the wealthiest and most powerful areas of New Angeles, Laguna Velasco is also known as the Government District."
+  :card-id "laguna-velasco-district"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_22.png"
+  :position 22
+  :quantity 3}
+ {:code "13023"
+  :flavor "Restructuring labor resources."
+  :card-id "process-automation"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_23.png"
+  :position 23
+  :quantity 3}
+ {:code "13024"
+  :card-id "officer-frank"
+  :illustrator "Monztre"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_24.png"
+  :position 24
+  :quantity 3}
+ {:code "13025"
+  :flavor "Although he rarely teaches classes these days, his lectures are always well attended."
+  :card-id "dean-lister"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_25.png"
+  :position 25
+  :quantity 3}
+ {:code "13026"
+  :flavor "She left behind an encrypted trail leading to some random employee for a rival corp. She knew lazy sysops would work just hard enough to figure it out and wouldn't bother looking any deeper."
+  :card-id "biometric-spoofing"
+  :illustrator "Jarreau Wimberly"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_26.png"
+  :position 26
+  :quantity 3}
+ {:code "13027"
+  :flavor "A despicable web of outcasts and infamy, no government or corporation could effectively shut it down. If only because so many of their sysops, executives, and covert agents made use of it."
+  :card-id "the-shadow-net"
+  :illustrator "Donald Crank"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_27.png"
+  :position 27
+  :quantity 3}
+ {:code "13028"
+  :flavor "Interweaving the Past and the Future."
+  :card-id "seidr-laboratories-destiny-defined"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_28.png"
+  :position 28
+  :quantity 1}
+ {:code "13029"
+  :flavor "The black level clearance sub-sub-basement of Haas-Bioroid is a magical place."
+  :card-id "brain-rewiring"
+  :illustrator "Martin de Diego Sádaba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_29.png"
+  :position 29
+  :quantity 3}
+ {:code "13030"
+  :card-id "elective-upgrade"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_30.png"
+  :position 30
+  :quantity 3}
+ {:code "13031"
+  :card-id "successful-field-test"
+  :illustrator "Clark Huggins"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_31.png"
+  :position 31
+  :quantity 3}
+ {:code "13032"
+  :card-id "estelle-moon"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_32.png"
+  :position 32
+  :quantity 3}
+ {:code "13033"
+  :card-id "marilyn-campaign"
+  :illustrator "Tim Durning"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_33.png"
+  :position 33
+  :quantity 3}
+ {:code "13034"
+  :flavor "\"A new game means new rules...\""
+  :card-id "eli-2-0"
+  :illustrator "Anastasia Ovchinnikova"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_34.png"
+  :position 34
+  :quantity 3}
+ {:code "13035"
+  :flavor "\"Strictly speaking, it isn't illegal to use an interrogation simulator as the blueprint for ICE.\" - Mason Bellamy"
+  :card-id "executive-functioning"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_35.png"
+  :position 35
+  :quantity 3}
+ {:code "13036"
+  :card-id "holmegaard"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_36.png"
+  :position 36
+  :quantity 3}
+ {:code "13037"
+  :flavor "\"The Warp and Weft were hypnotic...but they didn't really seem to do anything to keep me out. But I never seemed to find anything interesting either.\" - Reaver"
+  :card-id "tapestry"
+  :illustrator "Hannah Christenson"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_37.png"
+  :position 37
+  :quantity 3}
+ {:code "13038"
+  :flavor "\"If there were hidden partitions on the server, I'd know; I'm the head of this department!\""
+  :card-id "ultraviolet-clearance"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_38.png"
+  :position 38
+  :quantity 3}
+ {:code "13039"
+  :flavor "Even knowing this floor existed was cause for termination..."
+  :card-id "black-level-clearance"
+  :illustrator "Antonio De Luca"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_39.png"
+  :position 39
+  :quantity 3}
+ {:code "13040"
+  :flavor "\"They say he is an ex-runner. I don't know if it is true, but he is chromed to the gills and seems to know all the runners' tricks.\""
+  :card-id "mason-bellamy"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_40.png"
+  :position 40
+  :quantity 3}
+ {:code "13041"
+  :flavor "Might makes right."
+  :card-id "skorpios-defense-systems-persuasive-power"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_41.png"
+  :position 41
+  :quantity 1}
+ {:code "13042"
+  :card-id "armored-servers"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_42.png"
+  :position 42
+  :quantity 3}
+ {:code "13043"
+  :flavor "\"Anything, to anyone...for the right price.\""
+  :card-id "illicit-sales"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_43.png"
+  :position 43
+  :quantity 3}
+ {:code "13044"
+  :card-id "graft"
+  :illustrator "Del Borovic"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_44.png"
+  :position 44
+  :quantity 3}
+ {:code "13045"
+  :card-id "illegal-arms-factory"
+  :illustrator "Jason Juta"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_45.png"
+  :position 45
+  :quantity 3}
+ {:code "13046"
+  :flavor "\"VP of Retirements and Pensions? So is that HR or Accounting?\"\n\"Both.\""
+  :card-id "mr-stone"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_46.png"
+  :position 46
+  :quantity 3}
+ {:code "13047"
+  :card-id "bloodletter"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_47.png"
+  :position 47
+  :quantity 3}
+ {:code "13048"
+  :card-id "colossus"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_48.png"
+  :position 48
+  :quantity 3}
+ {:code "13049"
+  :card-id "hailstorm"
+  :illustrator "Ethan Patrick Harris"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_49.png"
+  :position 49
+  :quantity 3}
+ {:code "13050"
+  :card-id "hortum"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_50.png"
+  :position 50
+  :quantity 3}
+ {:code "13051"
+  :card-id "hunter-seeker"
+  :illustrator "Michał Miłkowski"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_51.png"
+  :position 51
+  :quantity 3}
+ {:code "13052"
+  :card-id "k-p-lynn"
+  :illustrator "Anastasia Ovchinnikova"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_52.png"
+  :position 52
+  :quantity 3}
+ {:code "13053"
+  :card-id "paper-trail"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_53.png"
+  :position 53
+  :quantity 3}
+ {:code "13054"
+  :card-id "honeyfarm"
+  :illustrator "Pavel Kolomeyets"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_54.png"
+  :position 54
+  :quantity 3}
+ {:code "13055"
+  :card-id "long-term-investment"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_55.png"
+  :position 55
+  :quantity 3}
+ {:code "13056"
+  :card-id "weir"
+  :illustrator "Shawn Ye Zhongyi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_56.png"
+  :position 56
+  :quantity 3}
+ {:code "13057"
+  :card-id "ipo"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_57.png"
+  :position 57
+  :quantity 3}]

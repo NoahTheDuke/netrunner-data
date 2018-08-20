@@ -1,0 +1,15 @@
+{:code "02006"
+ :cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "peacock"
+ :influence-value 2
+ :memory-cost 1
+ :replaced-by "20030"
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder]
+ :text "2[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +3 strength."
+ :title "Peacock"
+ :type :program
+ :uniqueness false}

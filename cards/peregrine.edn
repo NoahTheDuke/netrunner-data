@@ -1,0 +1,14 @@
+{:code "11044"
+ :cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "peregrine"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder]
+ :text "1[credit]: Break <strong>code gate</strong> subroutine.\n3[credit]: +3 strength.\n2[credit], <strong>return Peregrine to your grip</strong>: Derez a <strong>code gate</strong>. Use this ability only after using Peregrine to break all the subroutines on that <strong>code gate</strong> during a single encounter."
+ :title "Peregrine"
+ :type :program
+ :uniqueness false}

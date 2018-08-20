@@ -1,0 +1,14 @@
+{:code "04047"
+ :cost 9
+ :deck-limit 3
+ :faction :shaper
+ :id "torch"
+ :influence-value 4
+ :memory-cost 1
+ :side :runner
+ :strength 4
+ :subtype [:icebreaker :decoder]
+ :text "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength."
+ :title "Torch"
+ :type :program
+ :uniqueness false}

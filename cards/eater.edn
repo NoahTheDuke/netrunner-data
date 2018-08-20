@@ -1,0 +1,14 @@
+{:code "07040"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "eater"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :ai]
+ :text "1[credit]: Break ice subroutine. You cannot access more than 0 cards for the remainder of this run.\n1[credit]: +1 strength."
+ :title "Eater"
+ :type :program
+ :uniqueness false}

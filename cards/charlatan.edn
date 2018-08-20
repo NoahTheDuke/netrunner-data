@@ -1,0 +1,12 @@
+{:code "13010"
+ :cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "charlatan"
+ :influence-value 4
+ :side :runner
+ :subtype [:virtual]
+ :text "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice to bypass it."
+ :title "Charlatan"
+ :type :resource
+ :uniqueness false}

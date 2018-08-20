@@ -1,0 +1,12 @@
+{:code "13038"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ultraviolet-clearance"
+ :influence-value 4
+ :side :corp
+ :subtype [:transaction :triple]
+ :text "As an additional cost to play this operation, spend [click][click].\nGain 10[credit] and draw 4 cards. Install 1 card (paying all costs)."
+ :title "Ultraviolet Clearance"
+ :type :operation
+ :uniqueness false}

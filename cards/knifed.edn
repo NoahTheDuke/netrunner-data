@@ -1,0 +1,12 @@
+{:code "07038"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "knifed"
+ :influence-value 3
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run. The first time you break all subroutines on a <strong>barrier</strong> during this run, trash that <strong>barrier</strong>."
+ :title "Knifed"
+ :type :event
+ :uniqueness false}

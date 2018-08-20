@@ -1,0 +1,13 @@
+{:code "01098"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "beanstalk-royalties"
+ :influence-value 1
+ :replaced-by "20090"
+ :side :corp
+ :subtype [:transaction]
+ :text "Gain 3[credit]."
+ :title "Beanstalk Royalties"
+ :type :operation
+ :uniqueness false}

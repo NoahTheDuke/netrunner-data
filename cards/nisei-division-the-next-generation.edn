@@ -1,0 +1,12 @@
+{:code "05002"
+ :deck-limit 1
+ :faction :jinteki
+ :id "nisei-division-the-next-generation"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Whenever you and the Runner reveal secretly spent credits, gain 1[credit]."
+ :title "Nisei Division: The Next Generation"
+ :type :identity
+ :uniqueness false}

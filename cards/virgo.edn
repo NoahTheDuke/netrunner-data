@@ -1,0 +1,13 @@
+{:code "06109"
+ :cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "virgo"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry :tracer]
+ :text "[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag."
+ :title "Virgo"
+ :type :ice
+ :uniqueness false}

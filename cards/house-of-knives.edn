@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "05004"
+ :deck-limit 3
+ :faction :jinteki
+ :id "house-of-knives"
+ :side :corp
+ :subtype [:security]
+ :text "Place 3 agenda counters on House of Knives when you score it.\n<strong>Hosted agenda counter:</strong> Do 1 net damage. Use this ability only during a run and only once per run."
+ :title "House of Knives"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "20032"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "sneakdoor-beta"
+ :influence-value 3
+ :memory-cost 2
+ :replaced-by "01028"
+ :side :runner
+ :subtype []
+ :text "[click]: Make a run on Archives. If successful, instead treat it as a successful run on HQ."
+ :title "Sneakdoor Beta"
+ :type :program
+ :uniqueness false}

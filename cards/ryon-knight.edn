@@ -1,0 +1,13 @@
+{:code "08054"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ryon-knight"
+ :influence-value 2
+ :side :corp
+ :subtype [:sysop]
+ :text "[trash]: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks."
+ :title "Ryon Knight"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

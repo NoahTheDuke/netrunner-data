@@ -1,0 +1,12 @@
+{:code "21040"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "distract-the-masses"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "The Runner gains 2[credit]. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it."
+ :title "Distract the Masses"
+ :type :operation
+ :uniqueness false}

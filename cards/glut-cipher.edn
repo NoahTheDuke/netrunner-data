@@ -1,0 +1,12 @@
+{:code "21061"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "glut-cipher"
+ :influence-value 4
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run on Archives. If successful, instead of accessing cards, force the Corp to choose 5 cards from Archives and add them to HQ, if able, then trash that many cards from HQ at random."
+ :title "Glut Cipher"
+ :type :event
+ :uniqueness false}

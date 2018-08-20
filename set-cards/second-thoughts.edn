@@ -1,0 +1,115 @@
+[{:code "04021"
+  :card-id "bishop"
+  :illustrator "Adam S. Doyle"
+  :position 21
+  :quantity 3}
+ {:code "04022"
+  :flavor "Installing 1001 programs puts you in the hacker hall of fame, or would if such an institution actually existed."
+  :card-id "scheherazade"
+  :illustrator "Tim Durning"
+  :position 22
+  :quantity 3}
+ {:code "04023"
+  :flavor "Noise decided to go back to school. He applied for research grants at fifteen of the most prestigious universities. Then he hacked in and approved his applications. Breakfast time."
+  :card-id "hard-at-work"
+  :illustrator "Matt Zeilinger"
+  :position 23
+  :quantity 3}
+ {:code "04024"
+  :flavor "Just like in the real world, sometimes it is best to send in the clone to do the dirty work."
+  :card-id "recon"
+  :illustrator "Irys Ching"
+  :position 24
+  :quantity 3}
+ {:code "04025"
+  :flavor "The copycat function should be used with extreme caution, or you might end up on the wrong side of cyberspace."
+  :card-id "copycat"
+  :illustrator "Gong Studios"
+  :position 25
+  :quantity 3}
+ {:code "04026"
+  :flavor "It's efficient as all hell, for certain very large values of \"efficient\". The whale avatar is either a nice touch or a tragic misapplication of programmer man-hour, depending on who you ask. -BT's Guide to Icebreaking"
+  :card-id "leviathan"
+  :illustrator "Teuku Muharra"
+  :position 26
+  :quantity 3}
+ {:code "04027"
+  :flavor "\"I've got a surprise for you.\""
+  :card-id "eureka"
+  :illustrator "Del Borovic"
+  :position 27
+  :quantity 3}
+ {:code "04028"
+  :flavor "\"Why is data deleted? Maybe they don't want it to be found. Or maybe it's just useless. The useless data is the kind you want.\" -The Professor"
+  :card-id "record-reconstructor"
+  :illustrator "Lucas Durham"
+  :position 28
+  :quantity 3}
+ {:code "04029"
+  :flavor "A VoicePAD is a personal access device with most of its functions ripped out. Just about all it's good for is making voice-calls and managing your contacts. The only reason to even have one is for its anonymity, which for a certain kind of person is all the reason one needs."
+  :card-id "prepaid-voicepad"
+  :illustrator "Mike Nesbitt"
+  :position 29
+  :quantity 3}
+ {:code "04030"
+  :card-id "wotan"
+  :illustrator "Christina Davis"
+  :position 30
+  :quantity 3}
+ {:code "04031"
+  :card-id "hellion-alpha-test"
+  :illustrator "Isuardi Therianto"
+  :position 31
+  :quantity 3}
+ {:code "04032"
+  :flavor "\"They call it 'retirement'. I call it 'euthanasia'.\" -Ken \"Express\" Tenma"
+  :card-id "clone-retirement"
+  :illustrator "Gong Studios"
+  :position 32
+  :quantity 3}
+ {:code "04033"
+  :flavor "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail."
+  :card-id "swordsman"
+  :illustrator "Adam S. Doyle"
+  :position 33
+  :quantity 3}
+ {:code "04034"
+  :flavor "He signed for it, hand shaking in anticipation."
+  :card-id "shipment-from-sansan"
+  :illustrator "Agri Karuniawan"
+  :position 34
+  :quantity 3}
+ {:code "04035"
+  :card-id "muckraker"
+  :illustrator "Ed Mattinian"
+  :position 35
+  :quantity 3}
+ {:code "04036"
+  :flavor "\"I use bioroids because I can wipe their memories or just blow their brains out when the job is done. No witnesses means no witnesses.\""
+  :card-id "the-cleaners"
+  :illustrator "Gong Studios"
+  :position 36
+  :quantity 3}
+ {:code "04037"
+  :flavor "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\""
+  :card-id "elizabeth-mills"
+  :illustrator "Del Borovic"
+  :position 37
+  :quantity 3}
+ {:code "04038"
+  :card-id "off-the-grid"
+  :illustrator "Zefanya Langkan Maega"
+  :position 38
+  :quantity 3}
+ {:code "04039"
+  :flavor "It was surprisingly easy to make creds…if you didn't care about how you made them."
+  :card-id "profiteering"
+  :illustrator "JuanManuel Tumburus"
+  :position 39
+  :quantity 3}
+ {:code "04040"
+  :flavor "There are many names for those in the Administration Department. But if you like your job, you just refer to them as \"sir\" and \"ma'am\"."
+  :card-id "restructure"
+  :illustrator "Isuardi Therianto"
+  :position 40
+  :quantity 3}]

@@ -1,0 +1,12 @@
+{:code "12083"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "leave-no-trace"
+ :influence-value 3
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. When the run ends, derez all ice that was rezzed during this run."
+ :title "Leave No Trace"
+ :type :event
+ :uniqueness false}

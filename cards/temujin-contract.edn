@@ -1,0 +1,12 @@
+{:code "11026"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "temujin-contract"
+ :influence-value 2
+ :side :runner
+ :subtype [:job]
+ :text "Choose a server and place 20[credit] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.\nWhenever you make a successful run on the chosen server, take 4[credit] from Temüjin Contract."
+ :title "Temüjin Contract"
+ :type :resource
+ :uniqueness true}

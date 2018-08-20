@@ -1,0 +1,12 @@
+{:code "22055"
+ :cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "building-blocks"
+ :influence-value 4
+ :side :corp
+ :subtype []
+ :text "Reveal a <strong>barrier</strong> from HQ. Install and rez it, ignoring all costs."
+ :title "Building Blocks"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "06099"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "cerberus-lady-h1"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :fracter]
+ :text "Place 4 power counters on Cerberus \"Lady\" H1 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n1[credit]: +1 strength."
+ :title "Cerberus \"Lady\" H1"
+ :type :program
+ :uniqueness false}

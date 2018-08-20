@@ -1,0 +1,13 @@
+{:code "02075"
+ :cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "net-police"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "X[recurring-credit]\nUse these credits during traces. X is the number of links the Runner has."
+ :title "Net Police"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

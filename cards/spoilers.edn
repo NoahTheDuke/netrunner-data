@@ -1,0 +1,12 @@
+{:code "08082"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "spoilers"
+ :influence-value 3
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever the Corp scores an agenda, he or she trashes the top card of R&D."
+ :title "Spoilers"
+ :type :resource
+ :uniqueness false}

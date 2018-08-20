@@ -1,0 +1,13 @@
+{:code "10073"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "indian-union-stock-exchange"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1[credit]."
+ :title "Indian Union Stock Exchange"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

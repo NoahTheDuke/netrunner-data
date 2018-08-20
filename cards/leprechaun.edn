@@ -1,0 +1,13 @@
+{:code "06019"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "leprechaun"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:daemon]
+ :text "Leprechaun can host up to 2 programs. The memory costs of hosted programs do not count against your memory limit."
+ :title "Leprechaun"
+ :type :program
+ :uniqueness false}

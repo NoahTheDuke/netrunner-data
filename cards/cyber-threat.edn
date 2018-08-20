@@ -1,0 +1,12 @@
+{:code "06013"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "cyber-threat"
+ :influence-value 3
+ :side :runner
+ :subtype [:priority]
+ :text "Play only as your first [click].\nChoose a server. The Corp can rez a piece of ice protecting this server. If he or she does not, make a run on that server, during which the Corp cannot rez ice."
+ :title "Cyber Threat"
+ :type :event
+ :uniqueness false}

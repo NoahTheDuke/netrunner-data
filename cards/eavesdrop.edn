@@ -1,0 +1,12 @@
+{:code "22047"
+ :cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "eavesdrop"
+ :influence-value 2
+ :side :corp
+ :subtype [:gray ops :condition]
+ :text "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, <trace>trace 3</trace> If successful, give the Runner 1 tag.\""
+ :title "Eavesdrop"
+ :type :operation
+ :uniqueness false}

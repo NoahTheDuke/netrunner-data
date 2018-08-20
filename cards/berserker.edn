@@ -1,0 +1,14 @@
+{:code "12041"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "berserker"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :fracter]
+ :text "Whenever you encounter a <strong>barrier</strong>, Berserker has +1 strength for each subroutine on that <strong>barrier</strong>.\n2[credit]: Break up to 2 <strong>barrier</strong> subroutines."
+ :title "Berserker"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "20026"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "hq-interface"
+ :influence-value 2
+ :replaced-by "02085"
+ :side :runner
+ :subtype []
+ :text "Whenever you access cards from HQ, access 1 additional card from HQ."
+ :title "HQ Interface"
+ :type :hardware
+ :uniqueness false}

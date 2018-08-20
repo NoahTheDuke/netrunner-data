@@ -1,0 +1,12 @@
+{:code "13027"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "the-shadow-net"
+ :influence-value 0
+ :side :runner
+ :subtype [:virtual]
+ :text "[click]<strong>, forfeit an agenda:</strong> Play an event from your heap, ignoring all costs."
+ :title "The Shadow Net"
+ :type :resource
+ :uniqueness true}

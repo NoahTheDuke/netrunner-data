@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "11099"
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "show-of-force"
+ :influence-value 0
+ :side :corp
+ :subtype [:security]
+ :text "When you score Show of Force, do 2 meat damage."
+ :title "Show of Force"
+ :type :agenda
+ :uniqueness false}

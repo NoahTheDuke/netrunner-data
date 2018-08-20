@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "20062"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "project-ares"
+ :replaced-by "04010"
+ :side :corp
+ :subtype [:security]
+ :text "When you score Project Ares, the Runner trashes 1 of his or her installed cards for each advancement token on Project Ares over 4. If the Runner trashes at least 1 card, take 1 bad publicity."
+ :title "Project Ares"
+ :type :agenda
+ :uniqueness false}

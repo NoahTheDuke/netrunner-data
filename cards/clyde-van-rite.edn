@@ -1,0 +1,13 @@
+{:code "12037"
+ :cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "clyde-van-rite"
+ :influence-value 2
+ :side :corp
+ :subtype [:executive]
+ :text "When your turn begins, the Runner must pay 1[credit] or trash the top card of the stack."
+ :title "Clyde Van Rite"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

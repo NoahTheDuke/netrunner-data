@@ -1,0 +1,12 @@
+{:code "11090"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "friends-in-high-places"
+ :influence-value 1
+ :side :corp
+ :subtype [:terminal]
+ :text "After you resolve this operation, end your action phase.\nInstall up to 2 cards from Archives (paying all install costs)."
+ :title "Friends in High Places"
+ :type :operation
+ :uniqueness false}

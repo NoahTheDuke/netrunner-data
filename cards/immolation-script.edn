@@ -1,0 +1,12 @@
+{:code "08041"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "immolation-script"
+ :influence-value 3
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on Archives. If successful, instead of accessing a piece of ice in Archives, trash a rezzed copy of that ice."
+ :title "Immolation Script"
+ :type :event
+ :uniqueness false}

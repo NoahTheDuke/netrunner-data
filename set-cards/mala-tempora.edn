@@ -1,0 +1,116 @@
+[{:code "04041"
+  :flavor "\"Analyzing the board won't help. Your mistake was thinking we're playing the same game.\""
+  :card-id "reina-roja-freedom-fighter"
+  :illustrator "Matt Zeilinger"
+  :position 41
+  :quantity 3}
+ {:code "04042"
+  :card-id "deep-red"
+  :illustrator "Christina Davis"
+  :position 42
+  :quantity 3}
+ {:code "04043"
+  :flavor "'Maneuver warfare' is a doctrine that advocates keeping an enemy off-balance. It works just as well in cyberspace as in reality."
+  :card-id "knight"
+  :illustrator "Christina Davis"
+  :position 43
+  :quantity 3}
+ {:code "04044"
+  :card-id "running-interference"
+  :illustrator "Liiga Smilshkalne"
+  :position 44
+  :quantity 3}
+ {:code "04045"
+  :flavor "Knowing is half the battle. The easy half, anyway."
+  :card-id "expert-schedule-analyzer"
+  :illustrator "Anna Ignatieva"
+  :position 45
+  :quantity 3}
+ {:code "04046"
+  :flavor "With modern secretaries, incoming data can be filtered, sorted, tagged, and even sold without the intervention of a human user. In fact, given the zettabytes of data that might flood into a rig on a successful run, a human user could be considered useless ornamentation."
+  :card-id "grifter"
+  :illustrator "Ed Mattinian"
+  :position 46
+  :quantity 3}
+ {:code "04047"
+  :flavor
+  "The core of the grid. A blinding sphere of light, teeming with energy, crackling with flame. Beyond were only twinkling bits of data in a field of darkness. No hacker dared approach the core, except one. He came back with a flare of code, a torch that burned with the fire of the core itself. The dark places of cyberspace were dark no more, and the legend of g00ru was born."
+  :card-id "torch"
+  :illustrator "Mike Nesbitt"
+  :position 47
+  :quantity 3}
+ {:code "04048"
+  :flavor "Looks can be deceiving."
+  :card-id "woman-in-the-red-dress"
+  :illustrator "Bruno Balixa"
+  :position 48
+  :quantity 3}
+ {:code "04049"
+  :flavor "\"Flint? He's a burnout. A useless, alcoholic waste of Department time and money.\" -Louis Blaine, NAPD Detective.\n\"One of the best detectives on my PI list.\" -Richard Harrison, NAPD Captain."
+  :card-id "raymond-flint"
+  :illustrator "Matt Zeilinger"
+  :position 49
+  :quantity 3}
+ {:code "04050"
+  :flavor "Even with a virtual ball, it is considered rude not to yell \"Fore!\""
+  :card-id "isabel-mcguire"
+  :illustrator "Matt Zeilinger"
+  :position 50
+  :quantity 3}
+ {:code "04051"
+  :flavor "I'm not here to play games. The game is over."
+  :card-id "hudson-1-0"
+  :illustrator "Wen Xiaodong"
+  :position 51
+  :quantity 3}
+ {:code "04052"
+  :flavor "\"I'm getting a reading that is…off the charts. No, it crashed the charts. That counts as off, right?\""
+  :card-id "accelerated-diagnostics"
+  :illustrator "Gong Studios"
+  :position 52
+  :quantity 3}
+ {:code "04053"
+  :card-id "unorthodox-predictions"
+  :illustrator "Bruno Balixa"
+  :position 53
+  :quantity 3}
+ {:code "04054"
+  :flavor "As beautiful as it is dangerous. And it's plenty dangerous."
+  :card-id "sundew"
+  :illustrator "Anna Ignatieva"
+  :position 54
+  :quantity 3}
+ {:code "04055"
+  :flavor "Who watches the watcher? Probably another camera."
+  :card-id "city-surveillance"
+  :illustrator "Gong Studios"
+  :position 55
+  :quantity 3}
+ {:code "04056"
+  :card-id "snoop"
+  :illustrator "Andreas Zafiratos"
+  :position 56
+  :quantity 3}
+ {:code "04057"
+  :flavor "Say it really fast."
+  :card-id "ireress"
+  :illustrator "Chris Newman"
+  :position 57
+  :quantity 3}
+ {:code "04058"
+  :card-id "power-shutdown"
+  :illustrator "Gong Studios"
+  :position 58
+  :quantity 3}
+ {:code "04059"
+  :flavor "It folds under pressure."
+  :card-id "paper-wall"
+  :illustrator "Ed Mattinian"
+  :position 59
+  :quantity 3}
+ {:code "04060"
+  :flavor "\"They're the only labor cheaper than clones.\""
+  :card-id "interns"
+  :illustrator "Akiko F. Minowa"
+  :position 60
+  :quantity 3}]

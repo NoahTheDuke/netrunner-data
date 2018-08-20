@@ -1,0 +1,12 @@
+{:code "10013"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "heritage-committee"
+ :influence-value 2
+ :side :corp
+ :subtype [:alliance]
+ :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [jinteki] cards in your deck.\nDraw 3 cards. Add 1 card from HQ to the top of R&D."
+ :title "Heritage Committee"
+ :type :operation
+ :uniqueness false}

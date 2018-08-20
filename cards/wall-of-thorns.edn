@@ -1,0 +1,14 @@
+{:code "01078"
+ :cost 8
+ :deck-limit 3
+ :faction :jinteki
+ :id "wall-of-thorns"
+ :influence-value 1
+ :replaced-by "20102"
+ :side :corp
+ :strength 5
+ :subtype [:barrier :ap]
+ :text "[subroutine] Do 2 net damage.\n[subroutine] End the run."
+ :title "Wall of Thorns"
+ :type :ice
+ :uniqueness false}

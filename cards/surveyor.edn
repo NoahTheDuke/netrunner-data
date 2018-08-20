@@ -1,0 +1,13 @@
+{:code "21118"
+ :cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "surveyor"
+ :influence-value 2
+ :side :corp
+ :strength 0
+ :subtype [:sentry :tracer]
+ :text "X is twice the number of ice protecting this server.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 2 tags.\n[subroutine]<trace>Trace X</trace> If successful, end the run."
+ :title "Surveyor"
+ :type :ice
+ :uniqueness false}

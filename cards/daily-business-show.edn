@@ -1,0 +1,13 @@
+{:code "06086"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "daily-business-show"
+ :influence-value 1
+ :side :corp
+ :subtype [:cast]
+ :text "The first time you draw a card each turn, draw 1 additional card. Add 1 of the drawn cards to the bottom of R&D."
+ :title "Daily Business Show"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

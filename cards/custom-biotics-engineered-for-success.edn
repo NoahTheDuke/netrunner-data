@@ -1,0 +1,12 @@
+{:code "03002"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "custom-biotics-engineered-for-success"
+ :influence-limit 22
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "You cannot include Jinteki cards in this deck."
+ :title "Custom Biotics: Engineered for Success"
+ :type :identity
+ :uniqueness false}

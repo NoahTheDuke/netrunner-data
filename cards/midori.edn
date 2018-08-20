@@ -1,0 +1,13 @@
+{:code "02113"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "midori"
+ :influence-value 3
+ :side :corp
+ :subtype [:sysop]
+ :text "Once per run, when the Runner approaches a piece of ice protecting this server, you may swap that ice with a piece of ice from HQ. The new ice is installed unrezzed."
+ :title "Midori"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

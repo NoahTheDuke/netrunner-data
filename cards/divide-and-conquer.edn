@@ -1,0 +1,12 @@
+{:code "22002"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "divide-and-conquer"
+ :influence-value 4
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card from R&D."
+ :title "Divide and Conquer"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "11063"
+ :cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "the-gauntlet"
+ :influence-value 1
+ :side :runner
+ :subtype [:console]
+ :text "+2[mu]\nWhenever you access cards from HQ during a run, access 1 additional card for each piece of ice protecting HQ that you broke all subroutines on during this run.\nLimit 1 <strong>console</strong> per player."
+ :title "The Gauntlet"
+ :type :hardware
+ :uniqueness true}

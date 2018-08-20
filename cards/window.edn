@@ -1,0 +1,12 @@
+{:code "05040"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "window"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "[click]: Draw 1 card from the bottom of your stack."
+ :title "Window"
+ :type :hardware
+ :uniqueness false}

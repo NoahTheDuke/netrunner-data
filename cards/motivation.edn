@@ -1,0 +1,12 @@
+{:code "04008"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "motivation"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "When your turn begins, you may look at the top card of your stack."
+ :title "Motivation"
+ :type :resource
+ :uniqueness false}

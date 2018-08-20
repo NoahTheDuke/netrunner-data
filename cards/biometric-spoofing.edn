@@ -1,0 +1,12 @@
+{:code "13026"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "biometric-spoofing"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "[trash]: Prevent 2 damage."
+ :title "Biometric Spoofing"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "02016"
+ :deck-limit 3
+ :faction :nbn
+ :id "restructured-datapool"
+ :side :corp
+ :subtype [:initiative]
+ :text "[click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag."
+ :title "Restructured Datapool"
+ :type :agenda
+ :uniqueness false}

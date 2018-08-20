@@ -1,0 +1,13 @@
+{:code "08107"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "davinci"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "Whenever you make a successful run, place 1 power counter on DaVinci.\n[trash]: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost."
+ :title "DaVinci"
+ :type :program
+ :uniqueness false}

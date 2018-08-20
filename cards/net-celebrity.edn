@@ -1,0 +1,12 @@
+{:code "06038"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "net-celebrity"
+ :influence-value 1
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n1[recurring-credit]\nUse this credit during a run."
+ :title "Net Celebrity"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "06045"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "the-news-now-hour"
+ :influence-value 3
+ :side :corp
+ :subtype [:cast]
+ :text "The Runner cannot play <strong>current</strong> events."
+ :title "The News Now Hour"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "22049"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "arella-salvatore"
+ :influence-value 3
+ :side :corp
+ :subtype [:sysop]
+ :text "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it."
+ :title "Arella Salvatore"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness true}

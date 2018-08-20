@@ -1,0 +1,12 @@
+{:code "02031"
+ :deck-limit 1
+ :faction :jinteki
+ :id "jinteki-replicating-perfection"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:megacorp]
+ :text "The Runner cannot run on remote servers. Ignore this ability until the end of the turn whenever the Runner runs on a central server."
+ :title "Jinteki: Replicating Perfection"
+ :type :identity
+ :uniqueness false}

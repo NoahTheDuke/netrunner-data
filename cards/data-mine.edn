@@ -1,0 +1,13 @@
+{:code "01076"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "data-mine"
+ :influence-value 2
+ :side :corp
+ :strength 2
+ :subtype [:trap :ap]
+ :text "[subroutine] Do 1 net damage. Trash Data Mine."
+ :title "Data Mine"
+ :type :ice
+ :uniqueness false}

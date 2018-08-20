@@ -1,0 +1,12 @@
+{:code "21023"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "credit-kiting"
+ :influence-value 3
+ :side :runner
+ :subtype []
+ :text "Play only if you made a successful run on a central server this turn.\nInstall a card from your grip, lowering its install cost by 8[credit], and take 1 tag."
+ :title "Credit Kiting"
+ :type :event
+ :uniqueness false}

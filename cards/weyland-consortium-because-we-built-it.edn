@@ -1,0 +1,12 @@
+{:code "02076"
+ :deck-limit 1
+ :faction :weyland-consortium
+ :id "weyland-consortium-because-we-built-it"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:megacorp]
+ :text "1[recurring-credit]\nUse this credit to advance ice."
+ :title "Weyland Consortium: Because We Built It"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "07029"
+ :deck-limit 1
+ :faction :anarch
+ :id "maxx-maximum-punk-rock"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "When your turn begins, trash the top 2 cards of your stack. Draw 1 card."
+ :title "MaxX: Maximum Punk Rock"
+ :type :identity
+ :uniqueness false}

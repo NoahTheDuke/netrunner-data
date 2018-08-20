@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "09026"
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "global-food-initiative"
+ :influence-value 1
+ :side :corp
+ :subtype [:initiative]
+ :text "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area."
+ :title "Global Food Initiative"
+ :type :agenda
+ :uniqueness false}

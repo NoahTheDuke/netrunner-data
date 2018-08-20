@@ -1,0 +1,13 @@
+{:base-link 1
+ :code "08063"
+ :deck-limit 1
+ :faction :criminal
+ :id "armand-geist-walker-tech-lord"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "Whenever you use a [trash] ability, draw 1 card."
+ :title "Armand \"Geist\" Walker: Tech Lord"
+ :type :identity
+ :uniqueness false}

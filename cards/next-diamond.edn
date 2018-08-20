@@ -1,0 +1,13 @@
+{:code "21112"
+ :cost 10
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "next-diamond"
+ :influence-value 4
+ :side :corp
+ :strength 6
+ :subtype [:sentry :next :destroyer :ap]
+ :text "The rez cost of NEXT Diamond is lowered by 1 for each other rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 installed Runner card."
+ :title "NEXT Diamond"
+ :type :ice
+ :uniqueness false}

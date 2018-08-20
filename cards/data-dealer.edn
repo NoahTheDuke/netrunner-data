@@ -1,0 +1,12 @@
+{:code "01031"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "data-dealer"
+ :influence-value 2
+ :side :runner
+ :subtype [:connection :seedy]
+ :text "<strong>Forfeit an agenda,</strong> [click]: Gain 9[credit]."
+ :title "Data Dealer"
+ :type :resource
+ :uniqueness false}

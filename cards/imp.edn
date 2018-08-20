@@ -1,0 +1,14 @@
+{:code "02003"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "imp"
+ :influence-value 3
+ :memory-cost 1
+ :replaced-by "20011"
+ :side :runner
+ :subtype [:virus]
+ :text "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you access at no cost (even if it cannot normally be trashed)."
+ :title "Imp"
+ :type :program
+ :uniqueness false}

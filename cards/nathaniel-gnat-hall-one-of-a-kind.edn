@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "22001"
+ :deck-limit 1
+ :faction :anarch
+ :id "nathaniel-gnat-hall-one-of-a-kind"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :subtype [:natural]
+ :text "When your turn begins, gain 1[credit] if you have 2 or fewer cards in your grip."
+ :title "Nathaniel \"Gnat\" Hall: One-of-a-Kind"
+ :type :identity
+ :uniqueness false}

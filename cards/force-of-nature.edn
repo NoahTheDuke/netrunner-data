@@ -1,0 +1,15 @@
+{:code "20010"
+ :cost 5
+ :deck-limit 3
+ :faction :anarch
+ :id "force-of-nature"
+ :influence-value 1
+ :memory-cost 1
+ :replaced-by "02062"
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :decoder]
+ :text "2[credit]: Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength."
+ :title "Force of Nature"
+ :type :program
+ :uniqueness false}

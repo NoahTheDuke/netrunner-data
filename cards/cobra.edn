@@ -1,0 +1,13 @@
+{:code "10074"
+ :cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "cobra"
+ :influence-value 0
+ :side :corp
+ :strength 1
+ :subtype [:sentry :destroyer :ap]
+ :text "[subroutine] Trash 1 program.\n[subroutine] Do 2 net damage."
+ :title "Cobra"
+ :type :ice
+ :uniqueness false}

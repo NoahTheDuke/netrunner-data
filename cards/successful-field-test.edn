@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "13031"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "successful-field-test"
+ :side :corp
+ :subtype [:research]
+ :text "When you score Successful Field Test, install any number of cards from HQ, ignoring all costs."
+ :title "Successful Field Test"
+ :type :agenda
+ :uniqueness false}

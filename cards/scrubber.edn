@@ -1,0 +1,13 @@
+{:code "20017"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "scrubber"
+ :influence-value 1
+ :replaced-by "02063"
+ :side :runner
+ :subtype [:connection :seedy]
+ :text "2[recurring-credit]\nUse these credits to trash cards."
+ :title "Scrubber"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "06118"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "bribery"
+ :influence-value 2
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. During this run, the Corp must pay X[credit] as an additional cost to rez the first unrezzed piece of ice approached."
+ :title "Bribery"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "10104"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "lateral-growth"
+ :influence-value 2
+ :side :corp
+ :subtype [:transaction]
+ :text "Gain 4[credit]. You may install 1 card (paying the install cost)."
+ :title "Lateral Growth"
+ :type :operation
+ :uniqueness false}

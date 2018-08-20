@@ -1,0 +1,13 @@
+{:code "05020"
+ :cost 9
+ :deck-limit 3
+ :faction :jinteki
+ :id "susanoo-no-mikoto"
+ :influence-value 3
+ :side :corp
+ :strength 7
+ :subtype [:sentry :deflector]
+ :text "[subroutine] If not already running on Archives, the Runner is now running on Archives instead of passing Susanoo-no-Mikoto. The Runner cannot jack out until after he or she encounters a piece of ice."
+ :title "Susanoo-no-Mikoto"
+ :type :ice
+ :uniqueness true}

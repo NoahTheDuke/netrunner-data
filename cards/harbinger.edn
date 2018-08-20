@@ -1,0 +1,13 @@
+{:code "09034"
+ :cost 0
+ :deck-limit 3
+ :faction :apex
+ :id "harbinger"
+ :influence-value 1
+ :memory-cost 0
+ :side :runner
+ :subtype []
+ :text "When Harbinger is trashed, install it facedown instead of adding it to your heap."
+ :title "Harbinger"
+ :type :program
+ :uniqueness false}

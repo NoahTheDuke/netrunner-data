@@ -1,0 +1,12 @@
+{:code "08008"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "traffic-jam"
+ :influence-value 0
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe advancement requirement of each agenda is increased by 1 for each copy of that agenda in the Corp's score area."
+ :title "Traffic Jam"
+ :type :event
+ :uniqueness false}

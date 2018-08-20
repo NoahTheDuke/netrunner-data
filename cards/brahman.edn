@@ -1,0 +1,14 @@
+{:code "10062"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "brahman"
+ :influence-value 3
+ :memory-cost 2
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :ai]
+ :text "1[credit]: Break up to 2 ice subroutines.\n2[credit]: +1 strength.\nWhenever an encounter with a piece of ice in which you used Brahman to break a subroutine ends, add 1 installed non-<strong>virus</strong> program to the top of your stack."
+ :title "Brahman"
+ :type :program
+ :uniqueness false}

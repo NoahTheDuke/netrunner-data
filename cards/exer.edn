@@ -1,0 +1,13 @@
+{:code "21041"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "exer"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever you access cards from R&D, access 1 additional card.\nTrash eXer if the Corp purges virus counters."
+ :title "eXer"
+ :type :program
+ :uniqueness false}

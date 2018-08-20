@@ -1,0 +1,12 @@
+{:code "03035"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "levy-ar-lab-access"
+ :influence-value 3
+ :side :runner
+ :subtype []
+ :text "Shuffle your grip and heap into your stack. Draw 5 cards. Remove Levy AR Lab Access from the game instead of trashing it."
+ :title "Levy AR Lab Access"
+ :type :event
+ :uniqueness false}

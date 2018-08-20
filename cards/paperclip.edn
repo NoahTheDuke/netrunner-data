@@ -1,0 +1,14 @@
+{:code "11024"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "paperclip"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "Whenever you encounter a <strong>barrier</strong>, you may install Paperclip from your heap (paying its install cost).\nX[credit]: +X strength. Break up to X <strong>barrier</strong> subroutines, if able."
+ :title "Paperclip"
+ :type :program
+ :uniqueness false}

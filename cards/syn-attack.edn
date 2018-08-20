@@ -1,0 +1,12 @@
+{:code "13004"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "syn-attack"
+ :influence-value 3
+ :side :runner
+ :subtype [:double]
+ :text "As an additional cost to play this event, spend [click].\nThe Corp must either discard 2 cards or draw 4 cards."
+ :title "SYN Attack"
+ :type :event
+ :uniqueness false}

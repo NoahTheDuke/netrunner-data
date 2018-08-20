@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "12025"
+ :deck-limit 1
+ :faction :criminal
+ :id "los-data-hijacker"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "The first time the Corp rezzes a piece of ice each turn, gain 2[credit]."
+ :title "Los: Data Hijacker"
+ :type :identity
+ :uniqueness false}

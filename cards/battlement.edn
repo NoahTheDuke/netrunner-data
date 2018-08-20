@@ -1,0 +1,13 @@
+{:code "12057"
+ :cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "battlement"
+ :influence-value 4
+ :side :corp
+ :strength 2
+ :subtype [:barrier]
+ :text "[subroutine]End the run.\n[subroutine]End the run."
+ :title "Battlement"
+ :type :ice
+ :uniqueness false}

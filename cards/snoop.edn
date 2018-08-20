@@ -1,0 +1,13 @@
+{:code "04056"
+ :cost 6
+ :deck-limit 3
+ :faction :nbn
+ :id "snoop"
+ :influence-value 2
+ :side :corp
+ :strength 6
+ :subtype [:sentry :tracer]
+ :text "When the Runner encounters Snoop, reveal all cards in the Runner's grip.\n<strong>Hosted power counter:</strong> Reveal all cards in the Runner's grip. Trash 1 of those cards.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Snoop."
+ :title "Snoop"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "05025"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "rainbow"
+ :influence-value 0
+ :side :corp
+ :strength 4
+ :subtype [:sentry :code gate :barrier]
+ :text "[subroutine] End the run."
+ :title "Rainbow"
+ :type :ice
+ :uniqueness false}

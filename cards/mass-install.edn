@@ -1,0 +1,12 @@
+{:code "05051"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "mass-install"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "Install up to 3 programs from your grip (paying the install costs)."
+ :title "Mass Install"
+ :type :event
+ :uniqueness false}

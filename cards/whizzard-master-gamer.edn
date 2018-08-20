@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "02001"
+ :deck-limit 1
+ :faction :anarch
+ :id "whizzard-master-gamer"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "3[recurring-credit]\nUse these credits to trash cards."
+ :title "Whizzard: Master Gamer"
+ :type :identity
+ :uniqueness false}

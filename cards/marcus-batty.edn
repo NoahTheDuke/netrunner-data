@@ -1,0 +1,13 @@
+{:code "08074"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "marcus-batty"
+ :influence-value 3
+ :side :corp
+ :subtype [:sysop :psi]
+ :text "[trash]: You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, resolve 1 subroutine on a rezzed piece of ice protecting this server. Use this ability only during a run on this server."
+ :title "Marcus Batty"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness true}

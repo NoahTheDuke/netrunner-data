@@ -1,0 +1,13 @@
+{:code "04114"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "caprice-nisei"
+ :influence-value 4
+ :side :corp
+ :subtype [:clone :psi]
+ :text "Whenever the Runner passes all of the ice protecting this server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, end the run."
+ :title "Caprice Nisei"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness true}

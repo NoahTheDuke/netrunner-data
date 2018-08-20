@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "11043"
+ :deck-limit 1
+ :faction :anarch
+ :id "omar-keung-conspiracy-theorist"
+ :influence-limit 12
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "[click]: Make a run on Archives. If successful, instead treat it as a successful run on another central server. Use this ability only once per turn."
+ :title "Omar Keung: Conspiracy Theorist"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "03036"
+ :cost 18
+ :deck-limit 3
+ :faction :shaper
+ :id "monolith"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+3[mu]\nWhen you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4[credit].\n<strong>Trash a program from your grip:</strong> Prevent 1 brain or net damage.\nLimit 1 <strong>console</strong> per player."
+ :title "Monolith"
+ :type :hardware
+ :uniqueness true}

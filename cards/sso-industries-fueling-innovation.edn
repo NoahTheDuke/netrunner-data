@@ -1,0 +1,12 @@
+{:code "21077"
+ :deck-limit 1
+ :faction :weyland-consortium
+ :id "sso-industries-fueling-innovation"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "When your turn ends, you may choose a piece of ice with no advancement tokens on it. If you do, place 1 advancement token on that piece of ice for each agenda point on all installed faceup agendas."
+ :title "SSO Industries: Fueling Innovation"
+ :type :identity
+ :uniqueness false}

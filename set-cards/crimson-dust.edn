@@ -1,0 +1,130 @@
+[{:code "12101"
+  :card-id "mining-accident"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_101.png"
+  :position 101
+  :quantity 3}
+ {:code "12102"
+  :card-id "respirocytes"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_102.png"
+  :position 102
+  :quantity 3}
+ {:code "12103"
+  :flavor "Vanadis, a Martian arms manufacturer, was among the first sites targeted from orbit during the war."
+  :card-id "salvaged-vanadis-armory"
+  :illustrator "Michał Miłkowski"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_103.png"
+  :position 103
+  :quantity 3}
+ {:code "12104"
+  :card-id "aumakua"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_104.png"
+  :position 104
+  :quantity 3}
+ {:code "12105"
+  :flavor "The electric pulses ripped through the Net, backtracking Los's location. When they hit his defenses, they spent themselves against the slope."
+  :card-id "caldera"
+  :illustrator "Yog Joshi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_105.png"
+  :position 105
+  :quantity 3}
+ {:code "12106"
+  :card-id "diana-s-hunt"
+  :illustrator "Ethan Patrick Harris"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_106.png"
+  :position 106
+  :quantity 3}
+ {:code "12107"
+  :flavor "\"I wield the power cosmic - a galactic force that can reshape the Net!\" -S'onge Galaxy"
+  :card-id "reshape"
+  :illustrator "Alexander Tooth"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_107.png"
+  :position 107
+  :quantity 3}
+ {:code "12108"
+  :flavor "\"Aptly named.\" -g00ru"
+  :card-id "dummy-box"
+  :illustrator "A. Jones"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_108.png"
+  :position 108
+  :quantity 3}
+ {:code "12109"
+  :flavor "He was suddenly very motivated to pass on confidential information."
+  :card-id "corporate-defector"
+  :illustrator "Caroline Gariba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_109.png"
+  :position 109
+  :quantity 3}
+ {:code "12110"
+  :flavor "\"Sure, we also use human labor - they are more easily replaced.\" -Emil Merk"
+  :card-id "cfc-excavation-contract"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_110.png"
+  :position 110
+  :quantity 3}
+ {:code "12111"
+  :card-id "mca-austerity-policy"
+  :illustrator "Pavel Kolomeyets"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_111.png"
+  :position 111
+  :quantity 3}
+ {:code "12112"
+  :card-id "restore"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_112.png"
+  :position 112
+  :quantity 3}
+ {:code "12113"
+  :card-id "breached-dome"
+  :illustrator "Nasrul Hakim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_113.png"
+  :position 113
+  :quantity 3}
+ {:code "12114"
+  :flavor "By the time the data storm passed, the landscape was transformed, and she was hopelessly lost."
+  :card-id "sand-storm"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_114.png"
+  :position 114
+  :quantity 3}
+ {:code "12115"
+  :flavor "Only NBN's sec teams were outfitted with systems that could read data flows and see into the Net."
+  :card-id "ar-enhanced-security"
+  :illustrator "Martin de Diego Sádaba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_115.png"
+  :position 115
+  :quantity 3}
+ {:code "12116"
+  :card-id "rolling-brownout"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_116.png"
+  :position 116
+  :quantity 3}
+ {:code "12117"
+  :card-id "threat-level-alpha"
+  :illustrator "Kate Laird"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_117.png"
+  :position 117
+  :quantity 3}
+ {:code "12118"
+  :card-id "priority-construction"
+  :illustrator "Pavel Kolomeyets"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_118.png"
+  :position 118
+  :quantity 3}
+ {:code "12119"
+  :flavor "\"I embedded recursive data loops into the go-no-go subroutines of every piece of ice.\" -Anson Rose"
+  :card-id "fractal-threat-matrix"
+  :illustrator "Caroline Gariba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_119.png"
+  :position 119
+  :quantity 3}
+ {:code "12120"
+  :flavor "A ghost image of it could be made out in the static of his BMI. He hoped never to run across the real thing again."
+  :card-id "conundrum"
+  :illustrator "Ethan Patrick Harris"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_120.png"
+  :position 120
+  :quantity 3}]

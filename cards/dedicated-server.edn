@@ -1,0 +1,13 @@
+{:code "02072"
+ :cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "dedicated-server"
+ :influence-value 2
+ :side :corp
+ :subtype [:facility]
+ :text "2[recurring-credit]\nUse these credits to rez ice."
+ :title "Dedicated Server"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

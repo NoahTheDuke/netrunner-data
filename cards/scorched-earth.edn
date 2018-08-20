@@ -1,0 +1,12 @@
+{:code "01099"
+ :cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "scorched-earth"
+ :influence-value 4
+ :side :corp
+ :subtype [:black ops]
+ :text "Play only if the Runner is tagged.\nDo 4 meat damage."
+ :title "Scorched Earth"
+ :type :operation
+ :uniqueness false}

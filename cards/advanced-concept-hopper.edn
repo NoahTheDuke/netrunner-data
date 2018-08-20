@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "10011"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "advanced-concept-hopper"
+ :side :corp
+ :subtype [:research]
+ :text "The first time the Runner initiates  a run each turn, you may draw 1 card or gain 1[credit]."
+ :title "Advanced Concept Hopper"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "21085"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "slipstream"
+ :influence-value 2
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever you pass a rezzed piece of ice, you may trash Slipstream. If you do, choose a piece of ice protecting a central server in the same position as the passed ice. You are now approaching that ice."
+ :title "Slipstream"
+ :type :resource
+ :uniqueness false}

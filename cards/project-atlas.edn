@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :code "02018"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "project-atlas"
+ :replaced-by "20079"
+ :side :corp
+ :subtype [:research]
+ :text "When you score Project Atlas, place 1 agenda counter on it for each advancement token on it over 3.\n<strong>Hosted agenda counter:</strong> Search R&D for 1 card, reveal it, and add it to HQ. Shuffle R&D."
+ :title "Project Atlas"
+ :type :agenda
+ :uniqueness false}

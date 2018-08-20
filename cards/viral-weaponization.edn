@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "21094"
+ :deck-limit 3
+ :faction :jinteki
+ :id "viral-weaponization"
+ :side :corp
+ :subtype [:research :security]
+ :text "When the turn on which you scored Viral Weaponization ends, do 1 net damage for each card in the grip."
+ :title "Viral Weaponization"
+ :type :agenda
+ :uniqueness false}

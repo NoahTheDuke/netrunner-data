@@ -1,0 +1,14 @@
+{:code "11006"
+ :cost 6
+ :deck-limit 3
+ :faction :shaper
+ :id "dai-v"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :ai]
+ :text "2[credit]: Break all subroutines. Use this ability only by spending credits from <strong>stealth</strong> cards.\n1[credit]: +1 strength."
+ :title "Dai V"
+ :type :program
+ :uniqueness false}

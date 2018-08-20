@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "00007"
+ :deck-limit 1
+ :faction :anarch
+ :id "wyvern-chemically-enhanced"
+ :influence-limit nil
+ :minimum-deck-size 30
+ :side :runner
+ :subtype [:g-mod]
+ :text "Draft format only.\nIf you have more [anarch] cards installed than any other faction, whenever you trash a Corp card, shuffle the top card of your heap into your stack."
+ :title "Wyvern: Chemically Enhanced"
+ :type :identity
+ :uniqueness false}

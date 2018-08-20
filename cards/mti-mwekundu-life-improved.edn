@@ -1,0 +1,12 @@
+{:code "21114"
+ :deck-limit 1
+ :faction :jinteki
+ :id "mti-mwekundu-life-improved"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Once per turn, when the Runner approaches a server, you may install a piece of ice protecting that server in the innermost position, ignoring all costs. The Runner is now approaching that ice."
+ :title "Mti Mwekundu: Life Improved"
+ :type :identity
+ :uniqueness false}

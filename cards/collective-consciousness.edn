@@ -1,0 +1,13 @@
+{:code "06116"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "collective-consciousness"
+ :influence-value 2
+ :memory-cost 2
+ :side :runner
+ :subtype []
+ :text "Draw 1 card whenever the Corp rezzes a piece of ice."
+ :title "Collective Consciousness"
+ :type :program
+ :uniqueness false}

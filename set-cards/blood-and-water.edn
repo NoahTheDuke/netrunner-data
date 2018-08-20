@@ -1,0 +1,130 @@
+[{:code "12061"
+  :flavor "Jarogniew's agent provocateur."
+  :card-id "alice-merchant-clan-agitator"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_61.png"
+  :position 61
+  :quantity 3}
+ {:code "12062"
+  :card-id "jarogniew-mercs"
+  :illustrator "Aurore Folny"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_62.png"
+  :position 62
+  :quantity 3}
+ {:code "12063"
+  :card-id "maui"
+  :illustrator "Matt Bradbury"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_63.png"
+  :position 63
+  :quantity 3}
+ {:code "12064"
+  :flavor "Everything you need in case of an emergency."
+  :card-id "bug-out-bag"
+  :illustrator "Del Borovic"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_64.png"
+  :position 64
+  :quantity 3}
+ {:code "12065"
+  :flavor "\"I don't bother asking why anymore—he never says—but if I had to guess, it's because he's embezzling and using my runs to disguise it. Not that I care. His credit spends as well as the next guy's\" -Moth"
+  :card-id "keros-mcintyre"
+  :illustrator "Jan-Wah Li"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_65.png"
+  :position 65
+  :quantity 3}
+ {:code "12066"
+  :flavor "\"Taking risks is what makes it fun!\" -Kabonesa Wu"
+  :card-id "daredevil"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_66.png"
+  :position 66
+  :quantity 3}
+ {:code "12067"
+  :card-id "mass-driver"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_67.png"
+  :position 67
+  :quantity 3}
+ {:code "12068"
+  :card-id "warroid-tracker"
+  :illustrator "Micah Epstein"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_68.png"
+  :position 68
+  :quantity 3}
+ {:code "12069"
+  :card-id "loki"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_69.png"
+  :position 69
+  :quantity 3}
+ {:code "12070"
+  :flavor "\"Proper application of stress can create the most profound changes.\" - Tennin Institute Intern Brief"
+  :card-id "obokata-protocol"
+  :illustrator "Jan-Wah Li"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_70.png"
+  :position 70
+  :quantity 3}
+ {:code "12071"
+  :card-id "miraju"
+  :illustrator "Alexander Tooth"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_71.png"
+  :position 71
+  :quantity 3}
+ {:code "12072"
+  :card-id "shipment-from-tennin"
+  :illustrator "Jan-Wah Li"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_72.png"
+  :position 72
+  :quantity 3}
+ {:code "12073"
+  :flavor "\"Of course words hurt.\" -Bex Gleeson"
+  :card-id "escalate-vitriol"
+  :illustrator "Timur Shevtsov"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_73.png"
+  :position 73
+  :quantity 3}
+ {:code "12074"
+  :card-id "reeducation"
+  :illustrator "Wenjuinn Png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_74.png"
+  :position 74
+  :quantity 3}
+ {:code "12075"
+  :flavor "\"It's all about M.E. Monetizing Everything.\" -Eryn Nielle"
+  :card-id "traffic-analyzer"
+  :illustrator "Tim Durning"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_75.png"
+  :position 75
+  :quantity 3}
+ {:code "12076"
+  :flavor "\"I've got a rock!\" - Charles \"Mad Dog\" Brun, Comet Jockey"
+  :card-id "meteor-mining"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_76.png"
+  :position 76
+  :quantity 3}
+ {:code "12077"
+  :card-id "standoff"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_77.png"
+  :position 77
+  :quantity 3}
+ {:code "12078"
+  :flavor "The difference between surviving and thriving is successful terraforming."
+  :card-id "success"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_78.png"
+  :position 78
+  :quantity 3}
+ {:code "12079"
+  :flavor "\"Whampoa is the largest and meanest Earth-based mining concern on Mars. They put bodies and waste in the ground as fast as they pull minerals out.\" - Alice Merchant"
+  :card-id "whampoa-reclamation"
+  :illustrator "James Ives"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_79.png"
+  :position 79
+  :quantity 3}
+ {:code "12080"
+  :card-id "mass-commercialization"
+  :illustrator "Mark Molnar"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN46_80.png"
+  :position 80
+  :quantity 3}]

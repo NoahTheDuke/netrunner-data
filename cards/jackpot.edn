@@ -1,0 +1,12 @@
+{:code "21090"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "jackpot"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "When your turn begins, you may place 1[credit] on Jackpot!.\nWhenever an agenda is added to your score area, you may take any number of credits from Jackpot!. If you do, trash Jackpot!."
+ :title "Jackpot!"
+ :type :resource
+ :uniqueness false}

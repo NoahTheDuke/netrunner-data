@@ -1,0 +1,13 @@
+{:code "02012"
+ :cost 15
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "janus-1-0"
+ :influence-value 3
+ :side :corp
+ :strength 8
+ :subtype [:sentry :bioroid :ap]
+ :text "The Runner may spend [click] to break any subroutine on Janus 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage."
+ :title "Janus 1.0"
+ :type :ice
+ :uniqueness false}

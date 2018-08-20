@@ -1,0 +1,13 @@
+{:code "10021"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "diwan"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "When Diwan is installed, choose a server. As an additional cost to install a card in or protecting that server, the Corp must pay 1[credit].\nTrash Diwan if the Corp purges virus counters."
+ :title "Diwan"
+ :type :program
+ :uniqueness false}

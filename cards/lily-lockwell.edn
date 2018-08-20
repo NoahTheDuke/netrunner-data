@@ -1,0 +1,13 @@
+{:code "09008"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "lily-lockwell"
+ :influence-value 4
+ :side :corp
+ :subtype [:character]
+ :text "When you rez Lily Lockwell, draw 3 cards.\n[click], <strong>remove 1 tag:</strong> Search R&D for an operation, reveal it, and shuffle the rest of R&D. Add the operation to the top of R&D."
+ :title "Lily Lockwell"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

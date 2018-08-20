@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "21033"
+ :deck-limit 3
+ :faction :jinteki
+ :id "bacterial-programming"
+ :side :corp
+ :subtype [:research]
+ :text "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order."
+ :title "Bacterial Programming"
+ :type :agenda
+ :uniqueness false}

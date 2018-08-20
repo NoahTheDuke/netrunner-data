@@ -1,0 +1,12 @@
+{:code "05032"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "early-bird"
+ :influence-value 2
+ :side :runner
+ :subtype [:priority :run]
+ :text "Play only as your first click.\nMake a run and gain [click]."
+ :title "Early Bird"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "21030"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "nightdancer"
+ :influence-value 3
+ :side :corp
+ :strength 4
+ :subtype [:code gate]
+ :text "[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn."
+ :title "Nightdancer"
+ :type :ice
+ :uniqueness false}

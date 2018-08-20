@@ -1,0 +1,13 @@
+{:code "06066"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "reversed-accounts"
+ :influence-value 1
+ :side :corp
+ :subtype [:hostile]
+ :text "Reversed Accounts can be advanced.\n[click], [trash]: The Runner loses 4[credit] for each advancement token on Reversed Accounts."
+ :title "Reversed Accounts"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

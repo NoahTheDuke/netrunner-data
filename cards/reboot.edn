@@ -1,0 +1,12 @@
+{:code "22023"
+ :cost 1
+ :deck-limit 3
+ :faction :apex
+ :id "reboot"
+ :influence-value 5
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on Archives. If successful, instead of accessing cards, install up to 5 cards from your heap facedown. Remove Reboot from the game instead of trashing it."
+ :title "Reboot"
+ :type :event
+ :uniqueness false}

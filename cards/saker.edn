@@ -1,0 +1,14 @@
+{:code "11064"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "saker"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +2 strength.\n2[credit], <strong>return Saker to your grip</strong>: Derez a <strong>barrier</strong>. Use this ability only after using Saker to break all the subroutines on that <strong>barrier</strong> during a single encounter."
+ :title "Saker"
+ :type :program
+ :uniqueness false}

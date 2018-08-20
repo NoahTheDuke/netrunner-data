@@ -1,0 +1,13 @@
+{:code "21039"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "ngo-front"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "NGO Front can be advanced.\n[trash],<strong>1 hosted advancement token</strong>: Gain 5[credit].\n[trash],<strong>2 hosted advancement tokens</strong>: Gain 8[credit]."
+ :title "NGO Front"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

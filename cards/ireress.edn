@@ -1,0 +1,13 @@
+{:code "04057"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "ireress"
+ :influence-value 1
+ :side :corp
+ :strength 2
+ :subtype [:code gate]
+ :text "Ireress gains \"[subroutine] The Runner loses 1[credit]\" for each bad publicity you have."
+ :title "Ireress"
+ :type :ice
+ :uniqueness false}

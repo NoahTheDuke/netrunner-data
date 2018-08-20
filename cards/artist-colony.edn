@@ -1,0 +1,12 @@
+{:code "10009"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "artist-colony"
+ :influence-value 3
+ :side :runner
+ :subtype [:location]
+ :text "<strong>Forfeit an agenda:</strong> Search your stack for a card and install it (paying the install cost). Shuffle your stack."
+ :title "Artist Colony"
+ :type :resource
+ :uniqueness false}

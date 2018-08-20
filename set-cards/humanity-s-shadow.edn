@@ -1,0 +1,118 @@
+[{:code "02081"
+  :flavor "You must yell \"surge\" to get the full effect."
+  :card-id "surge"
+  :illustrator "Andrew Mar"
+  :position 81
+  :quantity 3}
+ {:code "02082"
+  :flavor "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge"
+  :card-id "xanadu"
+  :illustrator "Andrew Mar"
+  :position 82
+  :quantity 3}
+ {:code "02083"
+  :flavor "\"I run with the best.\""
+  :card-id "andromeda-dispossessed-ristie"
+  :illustrator "Matt Zeilinger"
+  :position 83
+  :quantity 3}
+ {:code "02084"
+  :flavor "She preferred to do business in a club. Something about the lights and dancers clouded the judgment of the corporate simpletons she met there."
+  :card-id "networking"
+  :illustrator "Gong Studios"
+  :position 84
+  :quantity 3}
+ {:code "02085"
+  :flavor "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments."
+  :card-id "hq-interface"
+  :illustrator "Robert Chew"
+  :position 85
+  :quantity 3}
+ {:code "02086"
+  :card-id "pheromones"
+  :illustrator "Ed Mattinian"
+  :position 86
+  :quantity 3}
+ {:code "02087"
+  :flavor "She at her P.A.D. I at my rig. Low lights. Smooth jazz. Love blooms."
+  :card-id "quality-time"
+  :illustrator "Erfan Fajar"
+  :position 87
+  :quantity 3}
+ {:code "02088"
+  :flavor "Do you really need another one?"
+  :card-id "replicator"
+  :illustrator "Mike Nesbitt"
+  :position 88
+  :quantity 3}
+ {:code "02089"
+  :flavor "\"The itsy bitsy spider went up the data spout…\"\n-Chaos Theory"
+  :card-id "creeper"
+  :illustrator "JuanManuel Tumburus"
+  :position 89
+  :quantity 3}
+ {:code "02090"
+  :flavor "Early permutations of the kraken proved to be insatiable, ice-devouring marauders. Not much has changed."
+  :card-id "kraken"
+  :illustrator "Liiga Smilshkalne"
+  :position 90
+  :quantity 3}
+ {:code "02091"
+  :flavor "\"You aren't the only type of runner in New Angeles.\""
+  :card-id "kati-jones"
+  :illustrator "Matt Zeilinger"
+  :position 91
+  :quantity 3}
+ {:code "02092"
+  :card-id "eve-campaign"
+  :illustrator "Sara K. Diesel"
+  :position 92
+  :quantity 3}
+ {:code "02093"
+  :flavor "Also known as \"development hell.\""
+  :card-id "rework"
+  :illustrator "Adam S. Doyle"
+  :position 93
+  :quantity 3}
+ {:code "02094"
+  :flavor "\"This ice sucks.\" -g00ru"
+  :card-id "whirlpool"
+  :illustrator "Adam S. Doyle"
+  :position 94
+  :quantity 3}
+ {:code "02095"
+  :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
+  :card-id "hokusai-grid"
+  :illustrator "Emilio Rodriguez"
+  :position 95
+  :quantity 3}
+ {:code "02096"
+  :flavor "Sniff."
+  :card-id "data-hound"
+  :illustrator "Adam S. Doyle"
+  :position 96
+  :quantity 3}
+ {:code "02097"
+  :flavor "Keeping tabs on the world, one screen at a time."
+  :card-id "bernice-mai"
+  :illustrator "Erfan Fajar"
+  :position 97
+  :quantity 3}
+ {:code "02098"
+  :flavor "You're not in Kansas anymore."
+  :card-id "salvage"
+  :illustrator "Ed Mattinian"
+  :position 98
+  :quantity 3}
+ {:code "02099"
+  :flavor "\"A job done once is a job done right.\""
+  :card-id "simone-diego"
+  :illustrator "Matt Zeilinger"
+  :position 99
+  :quantity 3}
+ {:code "02100"
+  :flavor "\"It's kind of like an anagram.\" -designer Phoenix"
+  :card-id "foxfire"
+  :illustrator "Jen Zee"
+  :position 100
+  :quantity 3}]

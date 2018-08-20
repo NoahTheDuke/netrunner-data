@@ -1,0 +1,12 @@
+{:code "10064"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "sports-hopper"
+ :influence-value 0
+ :side :runner
+ :subtype [:vehicle]
+ :text " +1[link]\n[trash]: Draw 3 cards."
+ :title "Sports Hopper"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "08112"
+ :deck-limit 3
+ :faction :jinteki
+ :id "ancestral-imager"
+ :side :corp
+ :subtype [:security]
+ :text "Whenever the Runner jacks out, do 1 net damage."
+ :title "Ancestral Imager"
+ :type :agenda
+ :uniqueness false}

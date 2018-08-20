@@ -1,0 +1,12 @@
+{:code "07051"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "stim-dealer"
+ :influence-value 3
+ :side :runner
+ :subtype [:connection]
+ :text "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click]."
+ :title "Stim Dealer"
+ :type :resource
+ :uniqueness false}

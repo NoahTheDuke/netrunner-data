@@ -1,0 +1,13 @@
+{:code "13035"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "executive-functioning"
+ :influence-value 3
+ :side :corp
+ :strength 1
+ :subtype [:code gate :ap :tracer]
+ :text "[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n<errata>Errata from FAQ 4.0</errata>"
+ :title "Executive Functioning"
+ :type :ice
+ :uniqueness false}

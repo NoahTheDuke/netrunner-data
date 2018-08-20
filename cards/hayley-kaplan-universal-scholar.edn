@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "08025"
+ :deck-limit 1
+ :faction :shaper
+ :id "hayley-kaplan-universal-scholar"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "The first time you install a card each turn, you may install another card of the same type from your grip (paying its install cost)."
+ :title "Hayley Kaplan: Universal Scholar"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "08064"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "drive-by"
+ :influence-value 2
+ :side :runner
+ :subtype [:double]
+ :text "As an additional cost to play this event, spend [click].\nExpose 1 card installed in a remote server. Trash that card at no cost if it is an asset or upgrade."
+ :title "Drive By"
+ :type :event
+ :uniqueness false}

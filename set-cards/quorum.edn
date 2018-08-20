@@ -1,0 +1,131 @@
+[{:code "11101"
+  :card-id "sifr"
+  :illustrator "Yog Joshi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_101.png"
+  :position 101
+  :quantity 3}
+ {:code "11102"
+  :flavor "Open yourself to the universe."
+  :card-id "sunya"
+  :illustrator "Lale Ann"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_102.png"
+  :position 102
+  :quantity 3}
+ {:code "11103"
+  :flavor "\"A little birdie told me...\" -Khan"
+  :card-id "recon-drone"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_103.png"
+  :position 103
+  :quantity 3}
+ {:code "11104"
+  :card-id "tapwrm"
+  :illustrator "Donald Crank"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_104.png"
+  :position 104
+  :quantity 3}
+ {:code "11105"
+  :flavor "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan"
+  :card-id "tracker"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_105.png"
+  :position 105
+  :quantity 3}
+ {:code "11106"
+  :flavor "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\""
+  :card-id "aaron-marron"
+  :illustrator "Aurore Folny"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_106.png"
+  :position 106
+  :quantity 3}
+ {:code "11107"
+  :card-id "encore"
+  :illustrator "Aurore Folny"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_107.png"
+  :position 107
+  :quantity 3}
+ {:code "11108"
+  :flavor "Faster than the eye can follow."
+  :card-id "fawkes"
+  :illustrator "Shawn Ye Zhongyi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_108.png"
+  :position 108
+  :quantity 3}
+ {:code "11109"
+  :card-id "peace-in-our-time"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_109.png"
+  :position 109
+  :quantity 3}
+ {:code "11110"
+  :card-id "sensor-net-activation"
+  :illustrator "Samuel Leung"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_110.png"
+  :position 110
+  :quantity 3}
+ {:code "11111"
+  :flavor "It required a hexadecimal code along with biometrics, delivered by way of BMI."
+  :card-id "violet-level-clearance"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_111.png"
+  :position 111
+  :quantity 3}
+ {:code "11112"
+  :flavor "\"Ice is not meant to kill; just slow or cripple the Runner. Killing is my job.\" - Tori Hanzō"
+  :card-id "chiyashi"
+  :illustrator "Yog Joshi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_112.png"
+  :position 112
+  :quantity 3}
+ {:code "11113"
+  :card-id "psychokinesis"
+  :illustrator "Dmitry Burmak"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_113.png"
+  :position 113
+  :quantity 3}
+ {:code "11114"
+  :card-id "net-quarantine"
+  :illustrator "Yog Joshi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_114.png"
+  :position 114
+  :quantity 3}
+ {:code "11115"
+  :card-id "herald"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_115.png"
+  :position 115
+  :quantity 3}
+ {:code "11116"
+  :flavor "The truth hurts."
+  :card-id "veritas"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_116.png"
+  :position 116
+  :quantity 3}
+ {:code "11117"
+  :flavor "\"My job? I provide legal exculpation and sign everything. It pays very well.\""
+  :card-id "bryan-stinson"
+  :illustrator "Priscilla Kim"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_117.png"
+  :position 117
+  :quantity 3}
+ {:code "11118"
+  :card-id "nasx"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_118.png"
+  :position 118
+  :quantity 3}
+ {:code "11119"
+  :flavor "One way to get rid of a virus is to get a nastier virus."
+  :card-id "macrophage"
+  :illustrator "Mariusz Siergiejew"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_119.png"
+  :position 119
+  :quantity 3}
+ {:code "11120"
+  :flavor "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\""
+  :card-id "tribunal"
+  :illustrator "Odera Igbokwe"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_120.png"
+  :position 120
+  :quantity 3}]

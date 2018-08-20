@@ -1,0 +1,13 @@
+{:code "11095"
+ :cost 7
+ :deck-limit 3
+ :faction :nbn
+ :id "thoth"
+ :influence-value 3
+ :side :corp
+ :strength 6
+ :subtype [:sentry :tracer]
+ :text "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has."
+ :title "Thoth"
+ :type :ice
+ :uniqueness true}

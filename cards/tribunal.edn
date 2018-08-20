@@ -1,0 +1,13 @@
+{:code "11120"
+ :cost 7
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "tribunal"
+ :influence-value 0
+ :side :corp
+ :strength 3
+ :subtype [:sentry]
+ :text "[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards."
+ :title "Tribunal"
+ :type :ice
+ :uniqueness false}

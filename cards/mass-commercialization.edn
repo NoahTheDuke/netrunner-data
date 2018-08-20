@@ -1,0 +1,12 @@
+{:code "12080"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "mass-commercialization"
+ :influence-value 0
+ :side :corp
+ :subtype [:transaction]
+ :text "Gain 2[credit] for each card with at least 1 advancement token on it."
+ :title "Mass Commercialization"
+ :type :operation
+ :uniqueness false}

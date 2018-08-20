@@ -1,0 +1,14 @@
+{:code "01061"
+ :cost 8
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "heimdall-1-0"
+ :influence-value 2
+ :replaced-by "20066"
+ :side :corp
+ :strength 6
+ :subtype [:barrier :bioroid :ap]
+ :text "The Runner can spend [click] to break any subroutine on Heimdall 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Heimdall 1.0"
+ :type :ice
+ :uniqueness false}

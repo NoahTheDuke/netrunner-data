@@ -1,0 +1,12 @@
+{:code "05027"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "fast-track"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D."
+ :title "Fast Track"
+ :type :operation
+ :uniqueness false}

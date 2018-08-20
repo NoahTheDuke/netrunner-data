@@ -1,0 +1,12 @@
+{:code "12023"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "counter-surveillance"
+ :influence-value 3
+ :side :runner
+ :subtype [:clan]
+ :text "[click], [trash]: Make a run. If successful, instead of accessing, pay X[credit] to access up to X cards from this server, if able. X is the number of tags you have."
+ :title "Counter Surveillance"
+ :type :resource
+ :uniqueness false}

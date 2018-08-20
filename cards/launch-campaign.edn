@@ -1,0 +1,13 @@
+{:code "09027"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "launch-campaign"
+ :influence-value 0
+ :side :corp
+ :subtype [:advertisement]
+ :text "Place 6[credit] from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.\nWhen your turn begins, take 2[credit] from Launch Campaign."
+ :title "Launch Campaign"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

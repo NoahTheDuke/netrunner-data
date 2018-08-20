@@ -1,0 +1,13 @@
+{:code "07026"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "dedicated-technician-team"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "2[recurring-credit]\nUse these credits to install ice protecting this server."
+ :title "Dedicated Technician Team"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

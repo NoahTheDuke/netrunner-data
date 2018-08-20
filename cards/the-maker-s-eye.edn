@@ -1,0 +1,13 @@
+{:code "20043"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "the-maker-s-eye"
+ :influence-value 2
+ :replaced-by "01036"
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on R&D. If successful, access 2 additional cards from R&D."
+ :title "The Maker's Eye"
+ :type :event
+ :uniqueness false}

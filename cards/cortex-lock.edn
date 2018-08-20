@@ -1,0 +1,13 @@
+{:code "08014"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "cortex-lock"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :ap]
+ :text "[subroutine] Do 1 net damage for each unused MU the Runner has."
+ :title "Cortex Lock"
+ :type :ice
+ :uniqueness false}

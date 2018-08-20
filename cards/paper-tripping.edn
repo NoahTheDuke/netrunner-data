@@ -1,0 +1,12 @@
+{:code "06015"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "paper-tripping"
+ :influence-value 2
+ :side :runner
+ :subtype [:priority]
+ :text "Play only as your first [click].\nRemove all tags."
+ :title "Paper Tripping"
+ :type :event
+ :uniqueness false}

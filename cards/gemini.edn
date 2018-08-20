@@ -1,0 +1,13 @@
+{:code "06084"
+ :cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "gemini"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry :tracer :ap]
+ :text "[subroutine] <trace>Trace 2</trace> If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage."
+ :title "Gemini"
+ :type :ice
+ :uniqueness false}

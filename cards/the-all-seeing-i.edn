@@ -1,0 +1,12 @@
+{:code "09022"
+ :cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "the-all-seeing-i"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "Play only if the Runner is tagged.\nTrash all resources. The Runner can remove 1 bad publicity to prevent this."
+ :title "The All-Seeing I"
+ :type :operation
+ :uniqueness false}

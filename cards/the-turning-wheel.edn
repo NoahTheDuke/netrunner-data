@@ -1,0 +1,12 @@
+{:code "10085"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "the-turning-wheel"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever a run on HQ or R&D ends, place 1 power counter on The Turning Wheel if you stole no agendas during the run.\n<strong>2 hosted power counters:</strong> For the remainder of this run, access 1 additional card from HQ or R&D."
+ :title "The Turning Wheel"
+ :type :resource
+ :uniqueness true}

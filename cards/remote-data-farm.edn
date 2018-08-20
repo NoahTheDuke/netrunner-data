@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "10033"
+ :deck-limit 3
+ :faction :nbn
+ :id "remote-data-farm"
+ :side :corp
+ :subtype [:expansion]
+ :text "Your maximum hand size is increased by 2."
+ :title "Remote Data Farm"
+ :type :agenda
+ :uniqueness false}

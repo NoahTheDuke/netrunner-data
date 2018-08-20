@@ -1,0 +1,13 @@
+{:code "22037"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "neurostasis"
+ :influence-value 2
+ :side :corp
+ :subtype [:ambush]
+ :text "Neurostasis can be advanced.\nIf you pay 3[credit] when the Runner accesses Neurostasis, choose 1 installed Runner card for each advancement token on Neurostasis. The Runner must shuffle the chosen cards into the stack."
+ :title "Neurostasis"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

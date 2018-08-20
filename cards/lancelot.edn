@@ -1,0 +1,13 @@
+{:code "06051"
+ :cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "lancelot"
+ :influence-value 1
+ :side :corp
+ :strength 2
+ :subtype [:sentry :grail :destroyer]
+ :text "When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Trash 1 program."
+ :title "Lancelot"
+ :type :ice
+ :uniqueness false}

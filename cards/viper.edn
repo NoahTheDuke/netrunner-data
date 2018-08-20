@@ -1,0 +1,13 @@
+{:code "02052"
+ :cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "viper"
+ :influence-value 1
+ :side :corp
+ :strength 4
+ :subtype [:code gate :tracer]
+ :text "[subroutine] <trace>Trace 3</trace> If successful, the Runner loses [click], if able.\n[subroutine] <trace>Trace 3</trace> If successful, end the run."
+ :title "Viper"
+ :type :ice
+ :uniqueness false}

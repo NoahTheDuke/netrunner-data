@@ -1,0 +1,12 @@
+{:advancement-requirement 6
+ :agenda-points 2
+ :code "22035"
+ :deck-limit 3
+ :faction :jinteki
+ :id "jumon"
+ :side :corp
+ :subtype [:research]
+ :text "When your turn ends, place 2 advancement tokens on a card installed in a server."
+ :title "Jumon"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "06037"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "cache"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Place 3 virus counters on Cache when it is installed.\n<strong>Hosted virus counter:</strong> Gain 1[credit]."
+ :title "Cache"
+ :type :program
+ :uniqueness false}

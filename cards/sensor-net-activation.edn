@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "11110"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "sensor-net-activation"
+ :side :corp
+ :subtype [:security]
+ :text "Place 1 agenda counter on Sensor Net Activation when you score it.\n<strong>Hosted agenda counter:</strong> Rez a <strong>bioroid</strong>, ignoring all costs. When the turn ends, derez that <strong>bioroid</strong>."
+ :title "Sensor Net Activation"
+ :type :agenda
+ :uniqueness false}

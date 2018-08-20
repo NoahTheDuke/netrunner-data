@@ -1,0 +1,12 @@
+{:code "10077"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "the-noble-path"
+ :influence-value 2
+ :side :runner
+ :subtype [:run]
+ :text "Trash your grip. Make a run. Prevent all damage during this run."
+ :title "The Noble Path"
+ :type :event
+ :uniqueness false}

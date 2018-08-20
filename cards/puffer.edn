@@ -1,0 +1,14 @@
+{:code "21004"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "puffer"
+ :influence-value 4
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\n[click]: Place 1 power counter on Puffer or remove 1 power counter from Puffer.\nPuffer's strength and memory cost are increased by 1 for each power counter on it."
+ :title "Puffer"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "08004"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "spike"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :fracter :cloud]
+ :text "If you have at least 2[link], the memory cost of Spike is 0, even if it is not installed.\nSpike has +1 strength for each installed <strong>icebreaker</strong>.\n[trash]: Break up to 3 <strong>barrier</strong> subroutines."
+ :title "Spike"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "04089"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "blackmail"
+ :influence-value 0
+ :side :runner
+ :subtype [:run]
+ :text "Play only if the Corp has at least 1 bad publicity.\nMake a run. The Corp cannot rez ice for the duration of this run."
+ :title "Blackmail"
+ :type :event
+ :uniqueness false}

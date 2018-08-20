@@ -1,0 +1,13 @@
+{:code "21052"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "code-replicator"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "When the Runner passes a rezzed piece of ice protecting this server, you may trash Code Replicator to force the Runner to approach that piece of ice again."
+ :title "Code Replicator"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

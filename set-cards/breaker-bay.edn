@@ -1,0 +1,134 @@
+[{:code "08021"
+  :card-id "hacktivist-meeting"
+  :illustrator "John Ariosa"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_21.png"
+  :position 21
+  :quantity 3}
+ {:code "08022"
+  :flavor "Usually crashing with friends means sleeping on the couch. This time, it meant sleeping on a server farm."
+  :card-id "off-campus-apartment"
+  :illustrator "Shawn Ye Zhongyi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_22.png"
+  :position 22
+  :quantity 3}
+ {:code "08023"
+  :flavor "\"You can help Jinteki shape the future. Your future.\""
+  :card-id "career-fair"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_23.png"
+  :position 23
+  :quantity 3}
+ {:code "08024"
+  :card-id "dorm-computer"
+  :illustrator "Lucas Durham"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_24.png"
+  :position 24
+  :quantity 3}
+ {:code "08025"
+  :card-id "hayley-kaplan-universal-scholar"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_25.png"
+  :position 25
+  :quantity 3}
+ {:code "08026"
+  :card-id "game-day"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_26.png"
+  :position 26
+  :quantity 3}
+ {:code "08027"
+  :card-id "comet"
+  :illustrator "Del Borovic"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_27.png"
+  :position 27
+  :quantity 3}
+ {:code "08028"
+  :flavor "\"Once you download the lecture source files, this program does a statistical analysis and distills the most important concepts.\" -Hayley Kaplan"
+  :card-id "study-guide"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_28.png"
+  :position 28
+  :quantity 3}
+ {:code "08029"
+  :card-id "london-library"
+  :illustrator "James Ives"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_29.png"
+  :position 29
+  :quantity 3}
+ {:code "08030"
+  :flavor "\"There are whole generations of people who never move out of a megalopolis center. You should see the look on their face the first time they see the stars.\" -Professor Darren Fin, Astronomy"
+  :card-id "tyson-observatory"
+  :illustrator "Greg Semkow"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_30.png"
+  :position 30
+  :quantity 3}
+ {:code "08031"
+  :flavor "\"So much to do. So little time.\""
+  :card-id "beach-party"
+  :illustrator "Antonio De Luca"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_31.png"
+  :position 31
+  :quantity 3}
+ {:code "08032"
+  :flavor "\"My research could make your corporation billions. And save lives, of course.\""
+  :card-id "research-grant"
+  :illustrator "Rebecca Sorge"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_32.png"
+  :position 32
+  :quantity 3}
+ {:code "08033"
+  :flavor "Alan Turing laid the foundation for artificial intelligence by suggesting that you could teach a computer to be human."
+  :card-id "turing"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_33.png"
+  :position 33
+  :quantity 3}
+ {:code "08034"
+  :flavor "Crick and his colleagues ushered in modern genetics by mapping the structure of DNA."
+  :card-id "crick"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_34.png"
+  :position 34
+  :quantity 3}
+ {:code "08035"
+  :flavor "\"My script can perform the Kobayashi algorithm in .12 seconds.\""
+  :card-id "recruiting-trip"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_35.png"
+  :position 35
+  :quantity 3}
+ {:code "08036"
+  :flavor "Officially, there is no blacklist. That would be illegal. Unofficially, there is a list, and being on it can ruin a career."
+  :card-id "blacklist"
+  :illustrator "Matthew Szydlik"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_36.png"
+  :position 36
+  :quantity 3}
+ {:code "08037"
+  :flavor "Johannes Gutenberg ignited the first Information Revolution by inventing the movable-type printing press."
+  :card-id "gutenberg"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_37.png"
+  :position 37
+  :quantity 3}
+ {:code "08038"
+  :flavor "The cost of an education is sometimes felt sharpest in the stomach."
+  :card-id "student-loans"
+  :illustrator "Mushk Rizvi"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_38.png"
+  :position 38
+  :quantity 3}
+ {:code "08039"
+  :flavor "Meru Mati pushed the limits of physics by engineering the first buckyweave structure, a thousand-foot long wall."
+  :card-id "meru-mati"
+  :illustrator "Michał Miłkowski"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_39.png"
+  :position 39
+  :quantity 3}
+ {:code "08040"
+  :flavor "After the Big One, real estate value changed sharply. Some found that they had become owners of beachfront property. Others were underwater."
+  :card-id "breaker-bay-grid"
+  :illustrator "Sander Mosk"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN24_40.png"
+  :position 40
+  :quantity 3}]

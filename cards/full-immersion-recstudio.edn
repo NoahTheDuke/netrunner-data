@@ -1,0 +1,13 @@
+{:code "10108"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "full-immersion-recstudio"
+ :influence-value 4
+ :side :corp
+ :subtype [:facility]
+ :text "Full Immersion RecStudio can host up to 2 assets and/or agendas.\nThe trash cost of Full Immersion RecStudio is increased by 3 for each card hosted on it."
+ :title "Full Immersion RecStudio"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

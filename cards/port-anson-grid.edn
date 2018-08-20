@@ -1,0 +1,13 @@
+{:code "06044"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "port-anson-grid"
+ :influence-value 2
+ :side :corp
+ :subtype [:region]
+ :text "The Runner cannot jack out while running on this server unless he or she trashes 1 installed program.\nLimit 1 <strong>region</strong> per server."
+ :title "Port Anson Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

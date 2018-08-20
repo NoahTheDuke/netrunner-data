@@ -1,0 +1,14 @@
+{:code "12082"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "god-of-war"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :ai :virus]
+ :text "When your turn begins, you may take 1 tag to place 2 virus counters on God of War.\n<strong>Hosted virus counter</strong>: Break ice subroutine.\n2[credit]: +1 strength."
+ :title "God of War"
+ :type :program
+ :uniqueness false}

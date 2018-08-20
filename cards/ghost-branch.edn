@@ -1,0 +1,14 @@
+{:code "20112"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "ghost-branch"
+ :influence-value 1
+ :replaced-by "01087"
+ :side :corp
+ :subtype [:ambush :facility]
+ :text "Ghost Branch can be advanced.\nWhen the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch."
+ :title "Ghost Branch"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

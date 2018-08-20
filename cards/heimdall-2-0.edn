@@ -1,0 +1,13 @@
+{:code "03015"
+ :cost 11
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "heimdall-2-0"
+ :influence-value 3
+ :side :corp
+ :strength 7
+ :subtype [:barrier :bioroid :ap]
+ :text "The Runner can spend [click][click] to break up to 2 subroutines on Heimdall 2.0.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run."
+ :title "Heimdall 2.0"
+ :type :ice
+ :uniqueness false}

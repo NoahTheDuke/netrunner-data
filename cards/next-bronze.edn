@@ -1,0 +1,13 @@
+{:code "04011"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "next-bronze"
+ :influence-value 2
+ :side :corp
+ :strength 0
+ :subtype [:code gate :next]
+ :text "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run."
+ :title "NEXT Bronze"
+ :type :ice
+ :uniqueness false}

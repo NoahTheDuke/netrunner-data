@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "10035"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "new-construction"
+ :side :corp
+ :subtype [:public]
+ :text "Install New Construction faceup.\nWhenever you advance New Construction, you may install a card from HQ in a new server (and rez that card ignoring all costs if there are 5 or more advancement tokens on New Construction). "
+ :title "New Construction"
+ :type :agenda
+ :uniqueness false}

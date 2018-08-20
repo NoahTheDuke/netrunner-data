@@ -1,0 +1,13 @@
+{:code "04045"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "expert-schedule-analyzer"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "[click]: Make a run on HQ. If successful, instead of accessing cards, you may reveal all cards in HQ."
+ :title "Expert Schedule Analyzer"
+ :type :program
+ :uniqueness false}

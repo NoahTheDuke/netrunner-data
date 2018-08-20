@@ -1,0 +1,12 @@
+{:code "06031"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "lag-time"
+ :influence-value 0
+ :side :corp
+ :subtype [:current]
+ :text "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAll <strong>ice</strong> have +1 strength."
+ :title "Lag Time"
+ :type :operation
+ :uniqueness false}

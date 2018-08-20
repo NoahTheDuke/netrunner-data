@@ -1,0 +1,14 @@
+{:code "04026"
+ :cost 6
+ :deck-limit 3
+ :faction :criminal
+ :id "leviathan"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :decoder]
+ :text "3[credit]: Break up to 3 <strong>code gate</strong> subroutines.\n3[credit]: +5 strength."
+ :title "Leviathan"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "13048"
+ :cost 6
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "colossus"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :destroyer]
+ :text "Colossus can be advanced and has +1 strength for each advancement token on it.\nIf Colossus has 3 or more advancement tokens on it, resolve the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] Give the Runner 1 tag. (Give the Runner 2 tags.)\n[subroutine] Trash 1 program. (Trash 1 program and 1 resource.)"
+ :title "Colossus"
+ :type :ice
+ :uniqueness false}

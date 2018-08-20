@@ -1,0 +1,12 @@
+{:code "04058"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "power-shutdown"
+ :influence-value 2
+ :side :corp
+ :subtype [:gray ops]
+ :text "Play only if the Runner made a run during his or her last turn.\nTrash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less. X is equal to or less than the highest install cost among all installed programs and pieces of hardware.\n<errata>Errata from FAQ 4.0</errata>"
+ :title "Power Shutdown"
+ :type :operation
+ :uniqueness false}

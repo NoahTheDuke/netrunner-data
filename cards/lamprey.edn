@@ -1,0 +1,13 @@
+{:code "06014"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "lamprey"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever you make a successful run on HQ, the Corp loses 1[credit].\nTrash Lamprey if the Corp purges virus counters."
+ :title "Lamprey"
+ :type :program
+ :uniqueness false}

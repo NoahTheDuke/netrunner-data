@@ -1,0 +1,12 @@
+{:code "04097"
+ :deck-limit 1
+ :faction :weyland-consortium
+ :id "grndl-power-unleashed"
+ :influence-limit 10
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "You start the game with 10[credit] and 1 bad publicity."
+ :title "GRNDL: Power Unleashed"
+ :type :identity
+ :uniqueness false}

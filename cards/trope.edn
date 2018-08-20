@@ -1,0 +1,13 @@
+{:code "08081"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "trope"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "When your turn begins, place 1 power counter on Trope.\n[click], <strong>remove Trope from the game:</strong> Shuffle 1 card from your heap into your stack for each power counter on Trope."
+ :title "Trope"
+ :type :program
+ :uniqueness false}

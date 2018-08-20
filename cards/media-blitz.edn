@@ -1,0 +1,12 @@
+{:code "09021"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "media-blitz"
+ :influence-value 3
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nChoose an agenda in the Runner's score area. Media Blitz gains the text of that agenda."
+ :title "Media Blitz"
+ :type :operation
+ :uniqueness false}

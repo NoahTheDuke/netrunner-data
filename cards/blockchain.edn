@@ -1,0 +1,13 @@
+{:code "22053"
+ :cost 7
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "blockchain"
+ :influence-value 4
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "Blockchain gains \"[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\" before all its other subroutines for every 2 faceup <strong>transaction</strong> operations in Archives.\n[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\n[subroutine] End the run."
+ :title "Blockchain"
+ :type :ice
+ :uniqueness false}

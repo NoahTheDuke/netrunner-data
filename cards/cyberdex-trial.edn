@@ -1,0 +1,12 @@
+{:code "04019"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "cyberdex-trial"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "Purge virus counters."
+ :title "Cyberdex Trial"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:code "01011"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "mimic"
+ :influence-value 1
+ :memory-cost 1
+ :replaced-by "20013"
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine."
+ :title "Mimic"
+ :type :program
+ :uniqueness false}

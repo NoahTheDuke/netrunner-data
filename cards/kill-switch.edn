@@ -1,0 +1,12 @@
+{:code "21070"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "kill-switch"
+ :influence-value 5
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhenever an agenda is accessed or scored, <trace>trace 3</trace> If successful, do 1 brain damage."
+ :title "Kill Switch"
+ :type :operation
+ :uniqueness false}

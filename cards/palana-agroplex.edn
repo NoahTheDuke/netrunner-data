@@ -1,0 +1,13 @@
+{:code "10031"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "palana-agroplex"
+ :influence-value 2
+ :side :corp
+ :subtype [:facility]
+ :text "When your turn begins, each player draws 1 card. "
+ :title "Pālanā Agroplex"
+ :trash-cost 5
+ :type :asset
+ :uniqueness false}

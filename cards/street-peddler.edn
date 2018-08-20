@@ -1,0 +1,12 @@
+{:code "08062"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "street-peddler"
+ :influence-value 1
+ :side :runner
+ :subtype [:connection :seedy]
+ :text "When you install Street Peddler, host the top 3 cards of your stack facedown on Street Peddler (you may look at these cards at any time).\n[trash]: Install 1 card hosted on Street Peddler, lowering its install cost by 1."
+ :title "Street Peddler"
+ :type :resource
+ :uniqueness false}

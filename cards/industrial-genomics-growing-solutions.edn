@@ -1,0 +1,12 @@
+{:code "06105"
+ :deck-limit 1
+ :faction :jinteki
+ :id "industrial-genomics-growing-solutions"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The trash cost of each card is increased by 1 for each facedown card in Archives."
+ :title "Industrial Genomics: Growing Solutions"
+ :type :identity
+ :uniqueness false}

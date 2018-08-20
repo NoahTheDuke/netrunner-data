@@ -1,0 +1,13 @@
+{:code "08020"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "tech-startup"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "When your turn begins, you may trash Tech Startup. If you do, search R&D for an asset, reveal it, and install it. Shuffle R&D."
+ :title "Tech Startup"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

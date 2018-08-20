@@ -1,0 +1,13 @@
+{:code "10111"
+ :cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "zealous-judge"
+ :influence-value 2
+ :side :corp
+ :subtype [:character]
+ :text "Zealous Judge can only be rezzed if the Runner is tagged.\n[click], 1[credit]: Give the Runner 1 tag."
+ :title "Zealous Judge"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

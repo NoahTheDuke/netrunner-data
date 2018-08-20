@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "12074"
+ :deck-limit 3
+ :faction :nbn
+ :id "reeducation"
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score Reeducation, add any number of cards from HQ to the bottom of R&D and draw that many cards. The Runner randomly adds the same number of cards from his or her grip to the bottom of the stack, if able."
+ :title "Reeducation"
+ :type :agenda
+ :uniqueness false}

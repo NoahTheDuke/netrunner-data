@@ -1,0 +1,14 @@
+{:code "20127"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "melange-mining-corp"
+ :influence-value 0
+ :replaced-by "01108"
+ :side :corp
+ :subtype []
+ :text "[click], [click], [click]: Gain 7[credit]."
+ :title "Melange Mining Corp."
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "13030"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "elective-upgrade"
+ :side :corp
+ :subtype [:initiative]
+ :text "Place 2 agenda counters on Elective Upgrade when you score it.\n[click], <strong>hosted agenda counter</strong>: Gain [click][click]. Use this ability only once per turn."
+ :title "Elective Upgrade"
+ :type :agenda
+ :uniqueness false}

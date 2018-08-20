@@ -1,0 +1,13 @@
+{:code "12068"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "warroid-tracker"
+ :influence-value 2
+ :side :corp
+ :subtype [:bioroid]
+ :text "Whenever the Runner trashes 1 or more cards in or protecting this server (including Warroid Tracker), <trace>Trace 4</trace> If successful, the Runner must trash 2 of his or her installed cards."
+ :title "Warroid Tracker"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

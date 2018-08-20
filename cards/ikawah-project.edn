@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "21010"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ikawah-project"
+ :side :corp
+ :subtype [:security]
+ :text "As an additional cost to steal Ikawah Project, the Runner must spend [click] and 2[credit]."
+ :title "Ikawah Project"
+ :type :agenda
+ :uniqueness false}

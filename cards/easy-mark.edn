@@ -1,0 +1,13 @@
+{:code "20020"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "easy-mark"
+ :influence-value 1
+ :replaced-by "01019"
+ :side :runner
+ :subtype [:job]
+ :text "Gain 3[credit]."
+ :title "Easy Mark"
+ :type :event
+ :uniqueness false}

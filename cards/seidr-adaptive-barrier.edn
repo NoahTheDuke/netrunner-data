@@ -1,0 +1,13 @@
+{:code "12029"
+ :cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "seidr-adaptive-barrier"
+ :influence-value 1
+ :side :corp
+ :strength 2
+ :subtype [:barrier]
+ :text "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.\n[subroutine] End the run."
+ :title "Seidr Adaptive Barrier"
+ :type :ice
+ :uniqueness false}

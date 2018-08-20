@@ -1,0 +1,13 @@
+{:code "13032"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "estelle-moon"
+ :influence-value 2
+ :side :corp
+ :subtype [:executive]
+ :text "Whenever you install a card in a server, place 1 power counter on Estelle Moon.\n[trash]: Draw 1 card and gain 2[credit] for each power counter on Estelle Moon."
+ :title "Estelle Moon"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

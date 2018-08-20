@@ -1,0 +1,15 @@
+{:code "20014"
+ :cost 8
+ :deck-limit 3
+ :faction :anarch
+ :id "morning-star"
+ :influence-value 4
+ :memory-cost 2
+ :replaced-by "02004"
+ :side :runner
+ :strength 5
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break any number of <strong>barrier</strong> subroutines."
+ :title "Morning Star"
+ :type :program
+ :uniqueness false}

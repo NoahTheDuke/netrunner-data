@@ -1,0 +1,12 @@
+{:advancement-requirement 2
+ :agenda-points 0
+ :code "06001"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "domestic-sleepers"
+ :side :corp
+ :subtype []
+ :text "[click],[click],[click]: Place 1 agenda counter on Domestic Sleepers.\nDomestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it."
+ :title "Domestic Sleepers"
+ :type :agenda
+ :uniqueness false}

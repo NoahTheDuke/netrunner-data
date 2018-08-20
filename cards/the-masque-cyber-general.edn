@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "00006"
+ :deck-limit 1
+ :faction :neutral-runner
+ :id "the-masque-cyber-general"
+ :influence-limit nil
+ :minimum-deck-size 30
+ :side :runner
+ :subtype [:natural]
+ :text "Draft format only."
+ :title "The Masque: Cyber General"
+ :type :identity
+ :uniqueness false}

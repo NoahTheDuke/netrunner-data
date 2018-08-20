@@ -1,0 +1,13 @@
+{:base-link 1
+ :code "03030"
+ :deck-limit 1
+ :faction :shaper
+ :id "exile-streethawk"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "Whenever you install a program from your heap, draw 1 card."
+ :title "Exile: Streethawk"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "02029"
+ :cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "encryption-protocol"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "The trash cost of all installed cards is increased by 1."
+ :title "Encryption Protocol"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "06052"
+ :deck-limit 1
+ :faction :anarch
+ :id "quetzal-free-spirit"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:g-mod]
+ :text "Once per turn, break 1 <strong>barrier</strong> subroutine."
+ :title "Quetzal: Free Spirit"
+ :type :identity
+ :uniqueness false}

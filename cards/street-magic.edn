@@ -1,0 +1,12 @@
+{:code "10003"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "street-magic"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual]
+ :text "Unbroken subroutines resolve in the order of your choice."
+ :title "Street Magic"
+ :type :resource
+ :uniqueness false}

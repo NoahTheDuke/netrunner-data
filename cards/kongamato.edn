@@ -1,0 +1,12 @@
+{:code "21027"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "kongamato"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual]
+ :text "[trash]: Break the first subroutine on the encountered piece of ice."
+ :title "Kongamato"
+ :type :resource
+ :uniqueness false}

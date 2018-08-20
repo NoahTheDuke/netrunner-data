@@ -1,0 +1,112 @@
+[{:code "02041"
+  :card-id "nerve-agent"
+  :illustrator "Ed Mattinian"
+  :position 41
+  :quantity 3}
+ {:code "02042"
+  :flavor "\"My enhancements are guaranteed for life, and well worth the risk.\""
+  :card-id "joshua-b"
+  :illustrator "Jen Zee"
+  :position 42
+  :quantity 3}
+ {:code "02043"
+  :flavor "\"Think of it as a virtual shock collar for punishing corporate pets.\" -Andromeda"
+  :card-id "emergency-shutdown"
+  :illustrator "Adam S. Doyle"
+  :position 43
+  :quantity 3}
+ {:code "02044"
+  :flavor "Light and form-fitting, its like bulletproof skin."
+  :card-id "muresh-bodysuit"
+  :illustrator "Gong Studios"
+  :position 44
+  :quantity 3}
+ {:code "02045"
+  :flavor "\"A snitch is a girl's best friend.\" -Andromeda"
+  :card-id "snitch"
+  :illustrator "Mashuri"
+  :position 45
+  :quantity 3}
+ {:code "02046"
+  :flavor "\"Have you met Dinosaurus?\""
+  :card-id "chaos-theory-wunderkind"
+  :illustrator "Matt Zeilinger"
+  :position 46
+  :quantity 3}
+ {:code "02047"
+  :card-id "test-run"
+  :illustrator "Eko Puteh"
+  :position 47
+  :quantity 3}
+ {:code "02048"
+  :card-id "dinosaurus"
+  :illustrator "Matt Zeilinger"
+  :position 48
+  :quantity 3}
+ {:code "02049"
+  :card-id "personal-workshop"
+  :illustrator "Fabien Jacques"
+  :position 49
+  :quantity 3}
+ {:code "02050"
+  :flavor "\"I'm just thankful that the brain damage is reversible. With the support of the city of New Angeles, I hope to be on my feet and back to practicing my art very soon.\" -Kate \"Mac\" McCaffrey"
+  :card-id "public-sympathy"
+  :illustrator "Mauricio Herrera"
+  :position 50
+  :quantity 3}
+ {:code "02051"
+  :card-id "project-vitruvius"
+  :illustrator "Emilio Rodriguez"
+  :position 51
+  :quantity 3}
+ {:code "02052"
+  :flavor "Dont Tread On Me"
+  :card-id "viper"
+  :illustrator "Bruno Balixa"
+  :position 52
+  :quantity 3}
+ {:code "02053"
+  :card-id "edge-of-world"
+  :illustrator "Ed Mattinian"
+  :position 53
+  :quantity 3}
+ {:code "02054"
+  :flavor "\"You haven't run until you've seen the cybersun drift down behind the Great City, the space around you rippling with colors you can't imagine.\" -Kate \"Mac\" McCaffrey"
+  :card-id "sunset"
+  :illustrator "Adam S. Doyle"
+  :position 54
+  :quantity 3}
+ {:code "02055"
+  :card-id "marked-accounts"
+  :illustrator "Mauricio Herrera"
+  :position 55
+  :quantity 3}
+ {:code "02056"
+  :flavor "\"Try to close it. Go on. See what it does.\" -Chaos Theory"
+  :card-id "pop-up-window"
+  :illustrator "Christina Davis"
+  :position 56
+  :quantity 3}
+ {:code "02057"
+  :flavor "Chop chop."
+  :card-id "woodcutter"
+  :illustrator "Mike Nesbitt"
+  :position 57
+  :quantity 3}
+ {:code "02058"
+  :flavor "The Division of Fringe Applications' revenue increased 37% year-over-year after corporate discovered that most of their projects made really fun toys."
+  :card-id "commercialization"
+  :illustrator "Matt Zeilinger"
+  :position 58
+  :quantity 3}
+ {:code "02059"
+  :card-id "private-contracts"
+  :illustrator "Mauricio Herrera"
+  :position 59
+  :quantity 3}
+ {:code "02060"
+  :flavor "Three heads. One big headache."
+  :card-id "chimera"
+  :illustrator "Isuardi Therianto"
+  :position 60
+  :quantity 3}]

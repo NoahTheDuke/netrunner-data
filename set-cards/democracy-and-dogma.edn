@@ -1,0 +1,128 @@
+[{:code "10039"
+  :card-id "political-graffiti"
+  :illustrator "Chris Newman"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_39.png"
+  :position 39
+  :quantity 3}
+ {:code "10040"
+  :flavor "\"Credits spend anywhere in the worlds, but there are other forms of currency.\""
+  :card-id "nero-severn-information-broker"
+  :illustrator "Adam Schumpert"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_40.png"
+  :position 40
+  :quantity 3}
+ {:code "10041"
+  :flavor "\"I'm on a need-to-know basis. I need to know everything.\" -Nero Severn"
+  :card-id "reflection"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_41.png"
+  :position 41
+  :quantity 3}
+ {:code "10042"
+  :card-id "spy-camera"
+  :illustrator "Lucas Durham"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_42.png"
+  :position 42
+  :quantity 6}
+ {:code "10043"
+  :flavor "Leverage, secrets, access, and influence are currency as valuable as credits. But credits work, too."
+  :card-id "political-operative"
+  :illustrator "Caroline Gariba"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_43.png"
+  :position 43
+  :quantity 3}
+ {:code "10044"
+  :flavor "The Creator."
+  :card-id "sadyojata"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_44.png"
+  :position 44
+  :quantity 3}
+ {:code "10045"
+  :card-id "freedom-through-equality"
+  :illustrator "Dane Cozens"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_45.png"
+  :position 45
+  :quantity 3}
+ {:code "10046"
+  :flavor "\"Our shared humanity is our greatest strength. And as we share more broadly, our strength grows, not dwindles.\""
+  :card-id "akshara-sareen"
+  :illustrator "Anna Edwards"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_46.png"
+  :position 46
+  :quantity 3}
+ {:code "10047"
+  :flavor "\"Bureaucracy and red tape have been weaponized.\" -Fake-ir"
+  :card-id "councilman"
+  :illustrator "Timur Shevtsov"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_47.png"
+  :position 47
+  :quantity 3}
+ {:code "10048"
+  :card-id "voting-machine-initiative"
+  :illustrator "Marko Fiedler"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_48.png"
+  :position 48
+  :quantity 3}
+ {:code "10049"
+  :flavor "\"Our research says the public views clones as more human than bioroids. Historically, this has been a liability. Let's make it a strength.\""
+  :card-id "clone-suffrage-movement"
+  :illustrator "Patricia Smith"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_49.png"
+  :position 49
+  :quantity 3}
+ {:code "10050"
+  :flavor "\"There's no conflict of interest here. These are complex issues with highly technical minutiae. It's only natural that the experts should lay down the guidelines.\""
+  :card-id "bio-ethics-association"
+  :illustrator "Natalie Bernard"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_50.png"
+  :position 50
+  :quantity 3}
+ {:code "10051"
+  :flavor "\"Politics is a dirty business. But so is business.\" -Krishnan Sareen"
+  :card-id "political-dealings"
+  :illustrator "VIKO"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_51.png"
+  :position 51
+  :quantity 3}
+ {:code "10052"
+  :card-id "clones-are-not-people"
+  :illustrator "Lars Bundvad"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_52.png"
+  :position 52
+  :quantity 3}
+ {:code "10053"
+  :flavor "Being a Mumbad sensie star means a glamorous life, though it is lived in constant fear of blackmail-or worse-from orgcrime."
+  :card-id "sensie-actors-union"
+  :illustrator "Crystal Ben"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_53.png"
+  :position 53
+  :quantity 3}
+ {:code "10054"
+  :flavor "\"Money is speech and I am listening intently.\" -Krishnan Sareen"
+  :card-id "commercial-bankers-group"
+  :illustrator "Timur Shevtsov"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_54.png"
+  :position 54
+  :quantity 3}
+ {:code "10055"
+  :flavor "Mumbad's public city corporation is tightly connected to all the other corporations."
+  :card-id "mumbad-city-hall"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_55.png"
+  :position 55
+  :quantity 3}
+ {:code "10056"
+  :flavor "Efficiency means profiting from things everyone was doing anyway."
+  :card-id "bailiff"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_56.png"
+  :position 56
+  :quantity 3}
+ {:code "10057"
+  :flavor "The political centre of Mumbad."
+  :card-id "surat-city-grid"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN32_57.png"
+  :position 57
+  :quantity 3}]

@@ -1,0 +1,12 @@
+{:code "10002"
+ :cost 1
+ :deck-limit 6
+ :faction :anarch
+ :id "ramujan-reliant-550-bmi"
+ :influence-value 1
+ :side :runner
+ :subtype [:consumer-grade]
+ :text "[trash]: Prevent up to X net or brain damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is the number of copies of Ramujan-reliant 550 BMI installed (including the one just trashed).\nLimit 6 per deck."
+ :title "Ramujan-reliant 550 BMI"
+ :type :hardware
+ :uniqueness false}

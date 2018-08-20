@@ -1,0 +1,14 @@
+{:code "20088"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "ice-wall"
+ :influence-value 1
+ :replaced-by "01103"
+ :side :corp
+ :strength 1
+ :subtype [:barrier]
+ :text "Ice Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run."
+ :title "Ice Wall"
+ :type :ice
+ :uniqueness false}

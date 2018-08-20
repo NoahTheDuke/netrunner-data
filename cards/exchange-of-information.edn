@@ -1,0 +1,12 @@
+{:code "10092"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "exchange-of-information"
+ :influence-value 2
+ :side :corp
+ :subtype [:gray ops]
+ :text "Play only if the Runner is tagged.\nSwap an agenda in your score area with an agenda in the Runner's score area."
+ :title "Exchange of Information"
+ :type :operation
+ :uniqueness false}

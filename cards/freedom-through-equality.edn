@@ -1,0 +1,12 @@
+{:code "10045"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "freedom-through-equality"
+ :influence-value 0
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhen you steal an agenda, add \"Freedom Through Equality\" to your score area as an agenda worth 1 agenda point."
+ :title "\"Freedom Through Equality\""
+ :type :event
+ :uniqueness false}

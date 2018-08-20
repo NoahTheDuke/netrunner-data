@@ -1,0 +1,12 @@
+{:code "08002"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "paige-piper"
+ :influence-value 2
+ :side :runner
+ :subtype [:connection]
+ :text "The first time you install a card each turn (including Paige Piper), you may search your stack for any number of copies of that card and add them to your heap. Shuffle your stack."
+ :title "Paige Piper"
+ :type :resource
+ :uniqueness true}

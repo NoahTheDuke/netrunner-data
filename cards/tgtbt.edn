@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "04075"
+ :deck-limit 3
+ :faction :nbn
+ :id "tgtbt"
+ :replaced-by "20111"
+ :side :corp
+ :subtype [:ambush]
+ :text "If TGTBT is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses TGTBT, give the Runner 1 tag."
+ :title "TGTBT"
+ :type :agenda
+ :uniqueness false}

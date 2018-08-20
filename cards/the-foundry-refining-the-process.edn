@@ -1,0 +1,12 @@
+{:code "06021"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "the-foundry-refining-the-process"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The first time you rez a piece of ice each turn, you may search R&D for another copy of that ice, reveal it, and add it to HQ. Shuffle R&D."
+ :title "The Foundry: Refining the Process"
+ :type :identity
+ :uniqueness false}

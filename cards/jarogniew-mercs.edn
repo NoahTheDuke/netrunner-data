@@ -1,0 +1,13 @@
+{:code "12062"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "jarogniew-mercs"
+ :influence-value 2
+ :side :runner
+ :subtype [:clan :connection]
+ :text
+ "When you install Jarogniew Mercs, take 1 tag. Place 3 power counters on Jarogniew Mercs, and 1 additional power counter for each tag you have. When there are no power counters left on Jarogniew Mercs, trash it.\nThe Corp cannot trash Jarogniew Mercs while there is another resource installed.\n<strong>Hosted power counter:</strong> Prevent 1 meat damage."
+ :title "Jarogniew Mercs"
+ :type :resource
+ :uniqueness true}

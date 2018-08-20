@@ -1,0 +1,12 @@
+{:code "07021"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "patch"
+ :influence-value 2
+ :side :corp
+ :subtype [:condition]
+ :text "Install Patch on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +2 strength.\""
+ :title "Patch"
+ :type :operation
+ :uniqueness false}

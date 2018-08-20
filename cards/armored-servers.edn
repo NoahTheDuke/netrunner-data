@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "13042"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "armored-servers"
+ :side :corp
+ :subtype [:security]
+ :text "Place 1 agenda counter on Armored Servers when you score it.\n<strong>Hosted agenda counter</strong>: For the remainder of this run, the Runner must trash a card from his or her grip as an additional cost to jack out or break a subroutine. Use this ability only during a run."
+ :title "Armored Servers"
+ :type :agenda
+ :uniqueness false}

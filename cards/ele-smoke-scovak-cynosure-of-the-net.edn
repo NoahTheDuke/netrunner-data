@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "11066"
+ :deck-limit 1
+ :faction :shaper
+ :id "ele-smoke-scovak-cynosure-of-the-net"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :subtype [:g-mod :stealth]
+ :text "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong>."
+ :title "Ele \"Smoke\" Scovak: Cynosure of the Net"
+ :type :identity
+ :uniqueness false}

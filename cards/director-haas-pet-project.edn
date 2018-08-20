@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "03004"
+ :deck-limit 1
+ :faction :haas-bioroid
+ :id "director-haas-pet-project"
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score Director Haas' Pet Project, you may create a new remote server by installing up to 3 cards from HQ and/or Archives in that server and/or protecting that server (one at a time), ignoring all install costs.\nLimit 1 Director Haas' Pet Project per deck."
+ :title "Director Haas' Pet Project"
+ :type :agenda
+ :uniqueness true}

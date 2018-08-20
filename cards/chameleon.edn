@@ -1,0 +1,14 @@
+{:code "08069"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "chameleon"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker]
+ :text "When you install Chameleon, name <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>.\nAdd Chameleon to your grip when your turn ends.\n1[credit]: Break a subroutine of the named subtype."
+ :title "Chameleon"
+ :type :program
+ :uniqueness false}

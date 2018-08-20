@@ -1,0 +1,13 @@
+{:code "01009"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "djinn"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:daemon]
+ :text "Djinn can host up to 3[mu] of non-<strong>icebreaker</strong> programs.\nThe memory costs of hosted programs do not count against your memory limit.\n[click], 1[credit]: Search your stack for a <strong>virus</strong> program, reveal it, and add it to your grip. Shuffle your stack."
+ :title "Djinn"
+ :type :program
+ :uniqueness false}

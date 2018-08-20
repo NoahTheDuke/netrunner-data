@@ -1,0 +1,14 @@
+{:code "06096"
+ :cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "cerberus-rex-h2"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :decoder]
+ :text "Place 4 power counters on Cerberus \"Rex\" H2 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength."
+ :title "Cerberus \"Rex\" H2"
+ :type :program
+ :uniqueness false}

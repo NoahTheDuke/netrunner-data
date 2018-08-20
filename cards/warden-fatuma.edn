@@ -1,0 +1,13 @@
+{:code "21093"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "warden-fatuma"
+ :influence-value 2
+ :side :corp
+ :subtype [:character]
+ :text "Each piece of rezzed <strong>bioroid</strong> ice gains \"[subroutine] The Runner loses [click], if able.\" before all of its other subroutines."
+ :title "Warden Fatuma"
+ :trash-cost 5
+ :type :asset
+ :uniqueness true}

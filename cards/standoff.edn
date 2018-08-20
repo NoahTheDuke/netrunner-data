@@ -1,0 +1,12 @@
+{:advancement-requirement 2
+ :agenda-points 0
+ :code "12077"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "standoff"
+ :side :corp
+ :subtype []
+ :text "When you score Standoff, each player, starting with the Runner, trashes 1 of his or her installed cards until 1 player declines to trash a card. If the Runner declines, draw 1 card and gain 5[credit].\n<errata>Errata from FAQ 4.1</errata>"
+ :title "Standoff"
+ :type :agenda
+ :uniqueness false}

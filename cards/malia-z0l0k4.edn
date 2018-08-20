@@ -1,0 +1,13 @@
+{:code "21069"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "malia-z0l0k4"
+ :influence-value 1
+ :side :corp
+ :subtype [:bioroid]
+ :text "When you rez Malia Z0L0K4, choose an installed non-<strong>virtual</strong> resource. The text box of that resource is blank."
+ :title "Malia Z0L0K4"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

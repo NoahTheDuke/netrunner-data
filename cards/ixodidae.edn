@@ -1,0 +1,13 @@
+{:code "06114"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "ixodidae"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever the Corp loses at least 1[credit], gain 1[credit].\nTrash Ixodidae if the Corp purges virus counters."
+ :title "Ixodidae"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "20116"
+ :cost 8
+ :deck-limit 3
+ :faction :nbn
+ :id "tollbooth"
+ :influence-value 2
+ :replaced-by "01090"
+ :side :corp
+ :strength 5
+ :subtype [:code gate]
+ :text "When the Runner encounters Tollbooth, he or she must pay 3[credit], if able. If the Runner cannot pay 3[credit], end the run.\n[subroutine] End the run."
+ :title "Tollbooth"
+ :type :ice
+ :uniqueness false}

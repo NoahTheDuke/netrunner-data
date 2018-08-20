@@ -1,0 +1,14 @@
+{:code "13009"
+ :cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "mammon"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :ai]
+ :text "<strong>Hosted power counter</strong>: Break ice subroutine.\n2[credit]: +2 strength.\nWhen your turn begins, you may pay X[credit] to place X power counters on Mammon.\nWhen your turn ends, remove all hosted power counters."
+ :title "Mammon"
+ :type :program
+ :uniqueness false}

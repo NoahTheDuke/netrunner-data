@@ -1,0 +1,13 @@
+{:code "12010"
+ :cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "zed-2-0"
+ :influence-value 3
+ :side :corp
+ :strength 4
+ :subtype [:sentry :bioroid :ap :destroyer]
+ :text "The Runner can spend [click][click] to break up to 2 subroutines on Zed 2.0.\n[subroutine] Trash 1 hardware.\n[subroutine] Trash 1 hardware.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 2 brain damage."
+ :title "Zed 2.0"
+ :type :ice
+ :uniqueness false}

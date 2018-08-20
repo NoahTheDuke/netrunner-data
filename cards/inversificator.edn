@@ -1,0 +1,14 @@
+{:code "12048"
+ :cost 6
+ :deck-limit 3
+ :faction :shaper
+ :id "inversificator"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder]
+ :text "The first time you pass a piece of ice each turn in which you used Inversificator to break all subroutines, you may swap that ice with another piece of ice.\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength."
+ :title "Inversificator"
+ :type :program
+ :uniqueness false}

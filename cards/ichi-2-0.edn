@@ -1,0 +1,13 @@
+{:code "03017"
+ :cost 8
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ichi-2-0"
+ :influence-value 3
+ :side :corp
+ :strength 5
+ :subtype [:sentry :bioroid :destroyer :tracer]
+ :text "The Runner can spend [click][click] to break up to 2 subroutines on Ichi 2.0.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag and do 1 brain damage."
+ :title "Ichi 2.0"
+ :type :ice
+ :uniqueness false}

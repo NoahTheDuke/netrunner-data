@@ -1,0 +1,12 @@
+{:code "12001"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "pushing-the-envelope"
+ :influence-value 2
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run."
+ :title "Pushing the Envelope"
+ :type :event
+ :uniqueness false}

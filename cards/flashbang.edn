@@ -1,0 +1,14 @@
+{:code "12085"
+ :cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "flashbang"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :killer]
+ :text "6[credit]: Derez a sentry currently being encountered.\n1[credit]: +1 strength."
+ :title "Flashbang"
+ :type :program
+ :uniqueness false}

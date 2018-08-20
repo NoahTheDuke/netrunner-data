@@ -1,0 +1,13 @@
+{:code "09025"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "rutherford-grid"
+ :influence-value 2
+ :side :corp
+ :subtype [:region]
+ :text "The base trace strength of each trace during a run on this server is increased by 2.\nLimit 1 <strong>region</strong> per server."
+ :title "Rutherford Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "11011"
+ :cost 7
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "sherlock-2-0"
+ :influence-value 3
+ :side :corp
+ :strength 6
+ :subtype [:sentry :bioroid :tracer]
+ :text "The Runner can spend [click][click] to break up to 2 subroutines on Sherlock 2.0.\n[subroutine]<trace>Trace 4</trace> If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine]<trace>Trace 4</trace> If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine]Give the Runner 1 tag."
+ :title "Sherlock 2.0"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "12078"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "success"
+ :influence-value 2
+ :side :corp
+ :subtype [:triple]
+ :text "As an additional cost to play this operation, forfeit an agenda and spend [click][click].\nAdvance a card X times. X equals the advancement requirement of the agenda just forfeited."
+ :title "Success"
+ :type :operation
+ :uniqueness false}

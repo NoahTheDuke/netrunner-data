@@ -1,0 +1,13 @@
+{:code "04035"
+ :cost 5
+ :deck-limit 3
+ :faction :nbn
+ :id "muckraker"
+ :influence-value 3
+ :side :corp
+ :strength 3
+ :subtype [:sentry :tracer :illicit]
+ :text "When you rez Muckraker, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged."
+ :title "Muckraker"
+ :type :ice
+ :uniqueness false}

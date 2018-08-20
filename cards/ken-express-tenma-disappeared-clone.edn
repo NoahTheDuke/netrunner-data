@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "05029"
+ :deck-limit 1
+ :faction :criminal
+ :id "ken-express-tenma-disappeared-clone"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:clone]
+ :text "The first time you play a <strong>run</strong> event each turn, gain 1[credit]."
+ :title "Ken \"Express\" Tenma: Disappeared Clone"
+ :type :identity
+ :uniqueness false}

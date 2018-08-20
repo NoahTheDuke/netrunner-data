@@ -1,0 +1,13 @@
+{:code "20041"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "notoriety"
+ :influence-value 1
+ :replaced-by "02026"
+ :side :runner
+ :subtype []
+ :text "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAdd Notoriety to your score area as an agenda worth 1 agenda point."
+ :title "Notoriety"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "12116"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "rolling-brownout"
+ :influence-value 1
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe play cost of each operation and event is increased by 1.\nThe first time the Runner plays an event each turn, gain 1[credit]."
+ :title "Rolling Brownout"
+ :type :operation
+ :uniqueness false}

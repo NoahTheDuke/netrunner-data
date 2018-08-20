@@ -1,0 +1,12 @@
+{:code "22018"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "mache"
+ :influence-value 3
+ :side :runner
+ :subtype []
+ :text "The first time you trash an accessed card each turn, you may place power counters on Mâché equal to that card's trash cost.\n3 <strong>hosted power counters</strong>: Draw 1 card."
+ :title "Mâché"
+ :type :hardware
+ :uniqueness false}

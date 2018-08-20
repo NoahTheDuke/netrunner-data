@@ -1,0 +1,13 @@
+{:code "11091"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "manta-grid"
+ :influence-value 2
+ :side :corp
+ :subtype [:region]
+ :text "If the Runner has fewer than 6[credit] or no unspent clicks when a successful run on this server ends, you have 1 additional [click] to spend your next turn.\nLimit 1 <strong>region</strong> per server."
+ :title "Manta Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness true}

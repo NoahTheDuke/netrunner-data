@@ -1,0 +1,13 @@
+{:code "21050"
+ :cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "next-sapphire"
+ :influence-value 3
+ :side :corp
+ :strength 2
+ :subtype [:code gate :next]
+ :text "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Draw up to X cards.\n[subroutine] Add up to X cards from Archives to HQ.\n[subroutine] Shuffle up to X cards from HQ into R&D."
+ :title "NEXT Sapphire"
+ :type :ice
+ :uniqueness false}

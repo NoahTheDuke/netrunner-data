@@ -1,0 +1,13 @@
+{:code "11104"
+ :cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "tapwrm"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters."
+ :title "Tapwrm"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "05007"
+ :deck-limit 3
+ :faction :jinteki
+ :id "the-future-perfect"
+ :side :corp
+ :subtype [:initiative :psi]
+ :text "When the Runner accesses The Future Perfect, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, prevent The Future Perfect from being stolen. Ignore this ability if the Runner accesses The Future Perfect while it is installed."
+ :title "The Future Perfect"
+ :type :agenda
+ :uniqueness false}

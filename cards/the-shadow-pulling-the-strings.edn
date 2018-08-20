@@ -1,0 +1,12 @@
+{:code "00005"
+ :deck-limit 1
+ :faction :neutral-corp
+ :id "the-shadow-pulling-the-strings"
+ :influence-limit nil
+ :minimum-deck-size 30
+ :side :corp
+ :subtype [:megacorp]
+ :text "Draft format only.\nYou can use agendas from all factions in this deck."
+ :title "The Shadow: Pulling the Strings"
+ :type :identity
+ :uniqueness false}

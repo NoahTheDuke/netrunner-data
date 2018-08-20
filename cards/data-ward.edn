@@ -1,0 +1,13 @@
+{:code "11075"
+ :cost 6
+ :deck-limit 3
+ :faction :nbn
+ :id "data-ward"
+ :influence-value 3
+ :side :corp
+ :strength 8
+ :subtype [:barrier]
+ :text "When the Runner encounters Data Ward, he or she must pay 3[credit] or take 1 tag.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged."
+ :title "Data Ward"
+ :type :ice
+ :uniqueness false}

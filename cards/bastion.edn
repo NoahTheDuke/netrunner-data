@@ -1,0 +1,13 @@
+{:code "03026"
+ :cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "bastion"
+ :influence-value 0
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "[subroutine] End the run."
+ :title "Bastion"
+ :type :ice
+ :uniqueness false}

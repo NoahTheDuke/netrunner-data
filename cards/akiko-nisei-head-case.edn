@@ -1,0 +1,13 @@
+{:base-link 1
+ :code "22015"
+ :deck-limit 1
+ :faction :shaper
+ :id "akiko-nisei-head-case"
+ :influence-limit 12
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:clone]
+ :text "Whenever you access cards from R&D, you and the Corp secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card from R&D."
+ :title "Akiko Nisei: Head Case"
+ :type :identity
+ :uniqueness false}

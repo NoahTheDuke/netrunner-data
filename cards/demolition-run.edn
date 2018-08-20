@@ -1,0 +1,13 @@
+{:code "01003"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "demolition-run"
+ :influence-value 2
+ :replaced-by "20002"
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run on HQ or R&D. You may trash, at no cost, any cards you access (even if the cards cannot normally be trashed)."
+ :title "Demolition Run"
+ :type :event
+ :uniqueness false}

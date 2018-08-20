@@ -1,0 +1,14 @@
+{:code "01112"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "hunter"
+ :influence-value 0
+ :replaced-by "20130"
+ :side :corp
+ :strength 4
+ :subtype [:sentry :tracer :observer]
+ :text "[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag."
+ :title "Hunter"
+ :type :ice
+ :uniqueness false}

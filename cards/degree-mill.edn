@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "21055"
+ :deck-limit 3
+ :faction :nbn
+ :id "degree-mill"
+ :side :corp
+ :subtype [:initiative]
+ :text "As an additional cost to steal Degree Mill, the Runner must shuffle 2 installed Runner cards into the stack."
+ :title "Degree Mill"
+ :type :agenda
+ :uniqueness false}

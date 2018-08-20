@@ -1,0 +1,134 @@
+[{:code "08101"
+  :flavor "As the sun sank towards the horizon, the glittering lights of the expo remained dark. But the shanty city bloomed to life."
+  :card-id "power-to-the-people"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_101.png"
+  :position 101
+  :quantity 3}
+ {:code "08102"
+  :flavor "Cowabunga, dude!"
+  :card-id "surfer"
+  :illustrator "Victor Garcia"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_102.png"
+  :position 102
+  :quantity 3}
+ {:code "08103"
+  :flavor "\"First, you get a horde of zombies. Then you do whatever you want, 'cuz you have a horde of zombies.\" -Ji \"Noise\" Reilly"
+  :card-id "ddos"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_103.png"
+  :position 103
+  :quantity 3}
+ {:code "08104"
+  :card-id "laramy-fisk-savvy-investor"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_104.png"
+  :position 104
+  :quantity 3}
+ {:code "08105"
+  :flavor "\"The secret to investing is networking.\" -Laramy Fisk"
+  :card-id "fisk-investment-seminar"
+  :illustrator "Bruno Balixa"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_105.png"
+  :position 105
+  :quantity 3}
+ {:code "08106"
+  :card-id "bookmark"
+  :illustrator "Bruno Balixa"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_106.png"
+  :position 106
+  :quantity 3}
+ {:code "08107"
+  :flavor "\"Our life is made by the death of others.\" -Leonardo Da Vinci"
+  :card-id "davinci"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_107.png"
+  :position 107
+  :quantity 3}
+ {:code "08108"
+  :flavor "Almost a zettabyte of data flows each minute through one of the many net pavilions scattered around the expo."
+  :card-id "wireless-net-pavilion"
+  :illustrator "BalanceSheet"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_108.png"
+  :position 108
+  :quantity 3}
+ {:code "08109"
+  :flavor "The Cybernetics Court has seven floors of attractions. The plasteel used to construct it was even more expensive than the thousands of cybernetic implants displayed inside."
+  :card-id "cybernetics-court"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_109.png"
+  :position 109
+  :quantity 3}
+ {:code "08110"
+  :flavor "The SanSan Outlaws have a close relationship with Haas-Bioroid's sports engineering division, SHIFT."
+  :card-id "team-sponsorship"
+  :illustrator "Mike Nesbitt"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_110.png"
+  :position 110
+  :quantity 3}
+ {:code "08111"
+  :card-id "chronos-protocol-selective-mind-mapping"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_111.png"
+  :position 111
+  :quantity 3}
+ {:code "08112"
+  :flavor "The more people submit their DNA and family history to the program, the more accurate it becomes."
+  :card-id "ancestral-imager"
+  :illustrator "Alexandr Elichev"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_112.png"
+  :position 112
+  :quantity 3}
+ {:code "08113"
+  :flavor "The Genetics Pavilion was designed by renowned architect Meru Mati II. It was built without the aid of bioroids, instead relying on human and clone labor."
+  :card-id "genetics-pavilion"
+  :illustrator "Greg Semkow"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_113.png"
+  :position 113
+  :quantity 3}
+ {:code "08114"
+  :flavor "There are over 20,000 brands represented in Franchise City, all of them owned by fewer than 100 corps."
+  :card-id "franchise-city"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_114.png"
+  :position 114
+  :quantity 3}
+ {:code "08115"
+  :card-id "product-placement"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_115.png"
+  :position 115
+  :quantity 3}
+ {:code "08116"
+  :flavor "The holosculpture depicts the three inhabited worlds. The square can hold almost 1% of their total population."
+  :card-id "worlds-plaza"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_116.png"
+  :position 116
+  :quantity 3}
+ {:code "08117"
+  :card-id "public-support"
+  :illustrator "Wenjuinn Png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_117.png"
+  :position 117
+  :quantity 3}
+ {:code "08118"
+  :flavor "\"Hello, and welcome to the Universe of Tomorrow! You could live for five-hundred years and not see all of the attractions I can tell you about.\""
+  :card-id "tour-guide"
+  :illustrator "Ismael Bergara"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_118.png"
+  :position 118
+  :quantity 3}
+ {:code "08119"
+  :flavor "The expo was built in the East California desert: a temporary city constructed for the advancement of humanity."
+  :card-id "expo-grid"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_119.png"
+  :position 119
+  :quantity 3}
+ {:code "08120"
+  :card-id "the-future-is-now"
+  :illustrator "Tim Durning"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_120.png"
+  :position 120
+  :quantity 3}]

@@ -1,0 +1,12 @@
+{:code "21062"
+ :cost 5
+ :deck-limit 3
+ :faction :anarch
+ :id "knobkierie"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+3[mu]\nUse the MU on Knobkierie only for <strong>virus</strong> programs.\nThe first time you make a successful run each turn, you may place 1 virus counter on an installed <strong>virus</strong> program.\nLimit 1 <strong>console</strong> per player."
+ :title "Knobkierie"
+ :type :hardware
+ :uniqueness true}

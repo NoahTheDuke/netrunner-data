@@ -1,0 +1,12 @@
+{:code "04069"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "starlight-crusade-funding"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "When your turn begins, lose [click].\nIgnore any additional costs on each <strong>double</strong> event you play."
+ :title "Starlight Crusade Funding"
+ :type :resource
+ :uniqueness false}

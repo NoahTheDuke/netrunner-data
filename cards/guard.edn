@@ -1,0 +1,13 @@
+{:code "05024"
+ :cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "guard"
+ :influence-value 0
+ :side :corp
+ :strength 2
+ :subtype [:sentry]
+ :text "Guard cannot be bypassed.\n[subroutine] End the run."
+ :title "Guard"
+ :type :ice
+ :uniqueness false}

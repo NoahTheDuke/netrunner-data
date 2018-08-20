@@ -1,0 +1,14 @@
+{:code "01008"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "datasucker"
+ :influence-value 1
+ :memory-cost 1
+ :replaced-by "20009"
+ :side :runner
+ :subtype [:virus]
+ :text "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter:</strong> Rezzed piece of ice currently being encountered has -1 strength until the end of the encounter."
+ :title "Datasucker"
+ :type :program
+ :uniqueness false}

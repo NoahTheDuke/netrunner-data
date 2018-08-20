@@ -1,0 +1,12 @@
+{:code "21103"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "hippo"
+ :influence-value 5
+ :side :runner
+ :subtype []
+ :text "The first time you break all subroutines on the outermost piece of ice during a run each turn, you may remove Hippo from the game to trash that piece of ice."
+ :title "Hippo"
+ :type :hardware
+ :uniqueness true}

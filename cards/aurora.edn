@@ -1,0 +1,15 @@
+{:code "20027"
+ :cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "aurora"
+ :influence-value 1
+ :memory-cost 1
+ :replaced-by "01025"
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "2[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +3 strength."
+ :title "Aurora"
+ :type :program
+ :uniqueness false}

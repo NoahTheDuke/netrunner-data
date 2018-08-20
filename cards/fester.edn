@@ -1,0 +1,12 @@
+{:code "06075"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "fester"
+ :influence-value 1
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever the Corp purges virus counters, he or she loses 2[credit], if able."
+ :title "Fester"
+ :type :resource
+ :uniqueness false}

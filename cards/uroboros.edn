@@ -1,0 +1,13 @@
+{:code "02074"
+ :cost 6
+ :deck-limit 3
+ :faction :nbn
+ :id "uroboros"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :tracer]
+ :text "[subroutine] <trace>Trace 4</trace> If successful, the Runner cannot make another run this turn.\n[subroutine] <trace>Trace 4</trace> If successful, end the run."
+ :title "Uroboros"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "13040"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "mason-bellamy"
+ :influence-value 3
+ :side :corp
+ :subtype [:sysop]
+ :text "Whenever an encounter with a piece of ice protecting this server ends in which the Runner broke at least one subroutine, he or she loses [click], if able."
+ :title "Mason Bellamy"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

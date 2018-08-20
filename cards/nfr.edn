@@ -1,0 +1,14 @@
+{:code "11023"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "nfr"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "When an encounter in which you used Nfr to break all subroutines on that piece of ice ends, place 1 power counter on Nfr.\nNfr has +1 strength for each power counter on it.\n1[credit]: Break <strong>barrier</strong> subroutine."
+ :title "Nfr"
+ :type :program
+ :uniqueness false}

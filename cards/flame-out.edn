@@ -1,0 +1,12 @@
+{:code "21109"
+ :cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "flame-out"
+ :influence-value 3
+ :side :runner
+ :subtype [:mod]
+ :text "Flame-out can host a single program.\nWhen you install Flame-out, place 9[credit] on it. Use these credits to pay for using hosted program.\nWhen a turn ends in which you used credits on Flame-out, trash hosted program."
+ :title "Flame-out"
+ :type :hardware
+ :uniqueness true}

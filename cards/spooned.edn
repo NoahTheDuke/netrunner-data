@@ -1,0 +1,12 @@
+{:code "07039"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "spooned"
+ :influence-value 3
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run. The first time you break all subroutines on a <strong>code gate</strong> during this run, trash that <strong>code gate</strong>."
+ :title "Spooned"
+ :type :event
+ :uniqueness false}

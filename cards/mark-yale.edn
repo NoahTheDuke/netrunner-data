@@ -1,0 +1,13 @@
+{:code "07009"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "mark-yale"
+ :influence-value 1
+ :side :corp
+ :subtype [:executive]
+ :text "Whenever you spend an agenda counter, gain 1[credit].\n[trash] or <strong>any agenda counter:</strong> Gain 2[credit]."
+ :title "Mark Yale"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

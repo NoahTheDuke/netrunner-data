@@ -1,0 +1,14 @@
+{:code "04067"
+ :cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "sharpshooter"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker]
+ :text "[trash]: Break any number of <strong>destroyer</strong> subroutines.\n1[credit]: +2 strength."
+ :title "Sharpshooter"
+ :type :program
+ :uniqueness false}

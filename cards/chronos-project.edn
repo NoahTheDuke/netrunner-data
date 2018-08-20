@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "06049"
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "chronos-project"
+ :influence-value 0
+ :side :corp
+ :subtype [:research]
+ :text "When you score Chronos Project, the Runner removes all cards in his or her heap from the game."
+ :title "Chronos Project"
+ :type :agenda
+ :uniqueness false}

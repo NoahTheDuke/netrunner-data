@@ -1,0 +1,14 @@
+{:code "12042"
+ :cost 5
+ :deck-limit 3
+ :faction :anarch
+ :id "persephone"
+ :influence-value 3
+ :memory-cost 2
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :killer]
+ :text "2[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhenever you pass a <strong>sentry</strong>, you may trash the top card of the stack to trash one card from the top of R&D for each subroutine on that <strong>sentry</strong> that resolved."
+ :title "Persephone"
+ :type :program
+ :uniqueness false}

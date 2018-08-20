@@ -1,0 +1,13 @@
+{:code "05018"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "pup"
+ :influence-value 1
+ :side :corp
+ :strength 0
+ :subtype [:sentry :ap]
+ :text "[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit]."
+ :title "Pup"
+ :type :ice
+ :uniqueness false}

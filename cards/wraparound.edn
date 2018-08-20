@@ -1,0 +1,14 @@
+{:code "20117"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "wraparound"
+ :influence-value 1
+ :replaced-by "04096"
+ :side :corp
+ :strength 0
+ :subtype [:barrier]
+ :text "If there is no installed <strong>fracter</strong>, Wraparound has +7 strength.\n[subroutine] End the run."
+ :title "Wraparound"
+ :type :ice
+ :uniqueness false}

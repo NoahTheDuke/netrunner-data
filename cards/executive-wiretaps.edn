@@ -1,0 +1,12 @@
+{:code "04084"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "executive-wiretaps"
+ :influence-value 3
+ :side :runner
+ :subtype [:double]
+ :text "As an additional cost to play this event, spend [click].\nReveal all cards in HQ."
+ :title "Executive Wiretaps"
+ :type :event
+ :uniqueness false}

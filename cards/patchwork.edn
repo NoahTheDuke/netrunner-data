@@ -1,0 +1,12 @@
+{:code "22004"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "patchwork"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nOnce per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2.\nLimit 1 <strong>console</strong> per player."
+ :title "Patchwork"
+ :type :hardware
+ :uniqueness false}

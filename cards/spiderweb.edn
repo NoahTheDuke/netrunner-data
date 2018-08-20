@@ -1,0 +1,13 @@
+{:code "08079"
+ :cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "spiderweb"
+ :influence-value 2
+ :side :corp
+ :strength 2
+ :subtype [:barrier]
+ :text "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Spiderweb"
+ :type :ice
+ :uniqueness false}

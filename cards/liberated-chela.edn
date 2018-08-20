@@ -1,0 +1,12 @@
+{:code "10081"
+ :cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "liberated-chela"
+ :influence-value 2
+ :side :runner
+ :subtype [:connection]
+ :text "[click],[click],[click],[click],[click], <strong>forfeit an agenda:</strong> Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game."
+ :title "Liberated Chela"
+ :type :resource
+ :uniqueness false}

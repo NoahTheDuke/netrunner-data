@@ -1,0 +1,13 @@
+{:code "05023"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "plan-b"
+ :influence-value 0
+ :side :corp
+ :subtype [:ambush]
+ :text "Plan B can be advanced.\nIf the Runner accesses Plan B, you may reveal and score an agenda from HQ with an advancement requirement equal to or less than the number of advancement tokens on Plan B."
+ :title "Plan B"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "03027"
+ :cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "datapike"
+ :influence-value 0
+ :side :corp
+ :strength 2
+ :subtype [:code gate]
+ :text "[subroutine] The Runner must pay 2[credit], if able. If the Runner cannot pay 2[credit], end the run.\n[subroutine] End the run."
+ :title "Datapike"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:code "03040"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "atman"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :ai]
+ :text "When you install Atman, you may pay X[credit] to place X power counters on Atman.\nAtman has +1 strength for each power counter on it.\n1[credit]: Break ice subroutine on a piece of ice that has strength equal to Atman's strength."
+ :title "Atman"
+ :type :program
+ :uniqueness false}

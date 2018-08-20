@@ -1,0 +1,12 @@
+{:code "10078"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "emptied-mind"
+ :influence-value 3
+ :side :runner
+ :subtype []
+ :text "When your turn begins, gain [click] if you have no cards in your grip."
+ :title "Emptied Mind"
+ :type :resource
+ :uniqueness true}

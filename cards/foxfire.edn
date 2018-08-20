@@ -1,0 +1,12 @@
+{:code "02100"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "foxfire"
+ :influence-value 0
+ :side :corp
+ :subtype []
+ :text "<trace>Trace 7</trace> If successful, trash 1 <strong>virtual</strong> resource or 1 <strong>link</strong>."
+ :title "Foxfire"
+ :type :operation
+ :uniqueness false}

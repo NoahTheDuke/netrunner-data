@@ -1,0 +1,12 @@
+{:advancement-requirement 2
+ :agenda-points 1
+ :code "04032"
+ :deck-limit 3
+ :faction :jinteki
+ :id "clone-retirement"
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score Clone Retirement, you may remove 1 bad publicity.\nWhen the Runner steals Clone Retirement, the Corp takes 1 bad publicity."
+ :title "Clone Retirement"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "12032"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "bloom"
+ :influence-value 2
+ :side :corp
+ :strength 3
+ :subtype [:code gate :observer]
+ :text "[subroutine] You may install a piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs."
+ :title "Bloom"
+ :type :ice
+ :uniqueness false}

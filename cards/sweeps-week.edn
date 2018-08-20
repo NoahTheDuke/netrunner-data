@@ -1,0 +1,12 @@
+{:code "04076"
+ :cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "sweeps-week"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "Gain 1[credit] for each card in the Runner's grip."
+ :title "Sweeps Week"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "02053"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "edge-of-world"
+ :influence-value 2
+ :side :corp
+ :subtype [:ambush]
+ :text "If Edge of World is installed and you pay 3[credit] when the Runner accesses it, do 1 brain damage for each piece of ice protecting this server."
+ :title "Edge of World"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

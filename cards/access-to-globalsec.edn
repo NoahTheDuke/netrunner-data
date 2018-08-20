@@ -1,0 +1,12 @@
+{:code "01052"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "access-to-globalsec"
+ :influence-value 0
+ :side :runner
+ :subtype [:link]
+ :text "+1[link]"
+ :title "Access to Globalsec"
+ :type :resource
+ :uniqueness false}

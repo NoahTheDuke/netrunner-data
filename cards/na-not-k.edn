@@ -1,0 +1,14 @@
+{:code "12088"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "na-not-k"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :killer]
+ :text "During each run, Na'Not'K has +1 strength for each piece of ice protecting the attacked server.\n1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +2 strength."
+ :title "Na'Not'K"
+ :type :program
+ :uniqueness false}

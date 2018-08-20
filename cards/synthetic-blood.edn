@@ -1,0 +1,12 @@
+{:code "08007"
+ :cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "synthetic-blood"
+ :influence-value 2
+ :side :runner
+ :subtype [:genetics]
+ :text "The first time you take damage each turn, draw 1 card."
+ :title "Synthetic Blood"
+ :type :resource
+ :uniqueness true}

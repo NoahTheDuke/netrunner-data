@@ -1,0 +1,13 @@
+{:code "04116"
+ :cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "marker"
+ :influence-value 1
+ :side :corp
+ :strength 3
+ :subtype [:code gate]
+ :text "[subroutine] The next piece of ice the Runner encounters gains \"[subroutine] End the run.\" after all its other subroutines for the remainder of this run."
+ :title "Marker"
+ :type :ice
+ :uniqueness false}

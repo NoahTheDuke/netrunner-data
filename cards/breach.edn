@@ -1,0 +1,14 @@
+{:code "05042"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "breach"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :fracter]
+ :text "2[credit]: Break up to 3 <strong>barrier</strong> subroutines.\n2[credit]: +4 strength.\nBreach cannot be used on ice protecting a remote server."
+ :title "Breach"
+ :type :program
+ :uniqueness false}

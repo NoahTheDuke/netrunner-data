@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "11018"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "crisis-management"
+ :side :corp
+ :subtype [:security]
+ :text "If the Runner is tagged, Crisis Management gains \"When your turn begins, do 1 meat damage.\""
+ :title "Crisis Management"
+ :type :agenda
+ :uniqueness false}

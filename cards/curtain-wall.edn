@@ -1,0 +1,13 @@
+{:code "04078"
+ :cost 14
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "curtain-wall"
+ :influence-value 2
+ :side :corp
+ :strength 6
+ :subtype [:barrier]
+ :text "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Curtain Wall"
+ :type :ice
+ :uniqueness false}

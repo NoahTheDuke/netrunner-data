@@ -1,0 +1,13 @@
+{:code "02015"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "snowflake"
+ :influence-value 2
+ :side :corp
+ :strength 3
+ :subtype [:barrier :psi]
+ :text "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. End the run if you and the Runner spent a different number of credits."
+ :title "Snowflake"
+ :type :ice
+ :uniqueness false}

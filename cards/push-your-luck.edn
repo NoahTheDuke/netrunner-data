@@ -1,0 +1,12 @@
+{:code "05047"
+ :cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "push-your-luck"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "Secretly spend any number of credits. The Corp guesses if you spent an even or odd amount. Reveal spent credits. If the Corp guessed incorrectly, gain credits equal to twice the amount spent."
+ :title "Push Your Luck"
+ :type :event
+ :uniqueness false}

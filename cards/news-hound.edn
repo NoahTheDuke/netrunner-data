@@ -1,0 +1,13 @@
+{:code "09014"
+ :cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "news-hound"
+ :influence-value 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :tracer]
+ :text "If a <strong>current</strong> is active, News Hound gains \"[subroutine] End the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag."
+ :title "News Hound"
+ :type :ice
+ :uniqueness false}

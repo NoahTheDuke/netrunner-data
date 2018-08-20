@@ -1,0 +1,13 @@
+{:code "08039"
+ :cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "meru-mati"
+ :influence-value 2
+ :side :corp
+ :strength 1
+ :subtype [:barrier]
+ :text "Meru Mati has +3 strength while protecting HQ.\n[subroutine] End the run."
+ :title "Meru Mati"
+ :type :ice
+ :uniqueness false}

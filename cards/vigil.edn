@@ -1,0 +1,12 @@
+{:code "07047"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "vigil"
+ :influence-value 2
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nWhen your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size.\nLimit 1 <strong>console</strong> per player."
+ :title "Vigil"
+ :type :hardware
+ :uniqueness true}

@@ -1,0 +1,12 @@
+{:code "10043"
+ :cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "political-operative"
+ :influence-value 1
+ :side :runner
+ :subtype [:connection]
+ :text "Install only if you made a successful run on HQ this turn.\n[trash], <strong>pay the trash cost of a rezzed card:</strong> Trash that card."
+ :title "Political Operative"
+ :type :resource
+ :uniqueness false}

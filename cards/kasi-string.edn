@@ -1,0 +1,12 @@
+{:code "21111"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "kasi-string"
+ :influence-value 0
+ :side :runner
+ :subtype [:virtual]
+ :text "The first time a successful run on a remote server ends each turn, you may place 1 power counter on Kasi String if you accessed cards and stole no agendas.\nWhen Kasi String has 4 or more power counters on it, add it to your score area as an agenda worth 1 agenda point."
+ :title "Kasi String"
+ :type :resource
+ :uniqueness true}

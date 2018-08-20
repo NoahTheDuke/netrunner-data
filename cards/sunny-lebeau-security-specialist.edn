@@ -1,0 +1,12 @@
+{:base-link 2
+ :code "09045"
+ :deck-limit 1
+ :faction :sunny-lebeau
+ :id "sunny-lebeau-security-specialist"
+ :influence-limit 25
+ :minimum-deck-size 50
+ :side :runner
+ :subtype [:natural]
+ :title "Sunny Lebeau: Security Specialist"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "10065"
+ :cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "bazaar"
+ :influence-value 0
+ :side :runner
+ :subtype [:location :ritzy]
+ :text "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs)."
+ :title "Bazaar"
+ :type :resource
+ :uniqueness false}

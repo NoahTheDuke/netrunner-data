@@ -1,0 +1,13 @@
+{:code "22038"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "otoroshi"
+ :influence-value 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry]
+ :text "[subroutine] You may place up to 3 advancement tokens on a card installed in a server. If you do, the Runner accesses that card unless he or she pays 3[credit]."
+ :title "Otoroshi"
+ :type :ice
+ :uniqueness false}

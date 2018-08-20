@@ -1,0 +1,112 @@
+[{:code "02021"
+  :flavor "There was a certain schadenfreude about throwing away your credits."
+  :card-id "vamp"
+  :illustrator "Ed Mattinian"
+  :position 21
+  :quantity 3}
+ {:code "02022"
+  :flavor "It's easier to spend when it's not your money."
+  :card-id "liberated-account"
+  :illustrator "Matt Zeilinger"
+  :position 22
+  :quantity 3}
+ {:code "02023"
+  :flavor "T-minus 13 seconds. Leela had to work fast. She jacked in the mesa wire and activated the screen. 7 seconds. The internal SLD was still booting. 4 seconds. The interface flickered to life with an orange glow. 2 seconds. With a tap of a finger she was in."
+  :card-id "satellite-uplink"
+  :illustrator "Matt Zeilinger"
+  :position 23
+  :quantity 3}
+ {:code "02024"
+  :flavor "CyberSolutions' e3 line of implants trade strictly in muscle memory and automatic responses, freeing the brain to focus entirely on cerebral tasks."
+  :card-id "e3-feedback-implants"
+  :illustrator "Mauricio Herrera"
+  :position 24
+  :quantity 3}
+ {:code "02025"
+  :card-id "compromised-employee"
+  :illustrator "Mitchell Malloy"
+  :position 25
+  :quantity 3}
+ {:code "02026"
+  :flavor "When you're this good, it's hard not to grow a fan base."
+  :card-id "notoriety"
+  :illustrator "Matt Zeilinger"
+  :position 26
+  :quantity 3}
+ {:code "02027"
+  :flavor "\"If your snowball gets big enough, you can make it into a snowman!\" -Chaos Theory"
+  :card-id "snowball"
+  :illustrator "Adam S. Doyle"
+  :position 27
+  :quantity 3}
+ {:code "02028"
+  :flavor "Archaic but reliable."
+  :card-id "dyson-mem-chip"
+  :illustrator "JB Casacop"
+  :position 28
+  :quantity 3}
+ {:code "02029"
+  :flavor "The key to the future lies in the past."
+  :card-id "encryption-protocol"
+  :illustrator "Adam S. Doyle"
+  :position 29
+  :quantity 3}
+ {:code "02030"
+  :card-id "sherlock-1-0"
+  :illustrator "Matt Zeilinger"
+  :position 30
+  :quantity 3}
+ {:code "02031"
+  :card-id "jinteki-replicating-perfection"
+  :position 31
+  :quantity 3}
+ {:code "02032"
+  :card-id "fetal-ai"
+  :illustrator "Eko Puteh"
+  :position 32
+  :quantity 3}
+ {:code "02033"
+  :flavor "Smoke and mirrors optional."
+  :card-id "trick-of-light"
+  :illustrator "Anna Ignatieva"
+  :position 33
+  :quantity 3}
+ {:code "02034"
+  :flavor "Peace and violence. Both must lead to the same place."
+  :card-id "sensei"
+  :illustrator "Sandara Tang"
+  :position 34
+  :quantity 3}
+ {:code "02035"
+  :flavor "Looking out for your interests since 1984."
+  :card-id "big-brother"
+  :illustrator "Matt Zeilinger"
+  :position 35
+  :quantity 3}
+ {:code "02036"
+  :flavor "Clones whisper of ChiLo as a promised land of freedom."
+  :card-id "chilo-city-grid"
+  :illustrator "Jonathan Lee"
+  :position 36
+  :quantity 3}
+ {:code "02037"
+  :card-id "power-grid-overload"
+  :illustrator "Howard Schechlman"
+  :position 37
+  :quantity 3}
+ {:code "02038"
+  :card-id "amazon-industrial-zone"
+  :illustrator "Jon Hrubesch"
+  :position 38
+  :quantity 3}
+ {:code "02039"
+  :card-id "executive-retreat"
+  :illustrator "JB Casacop"
+  :position 39
+  :quantity 3}
+ {:code "02040"
+  :flavor "No contract. Just a handshake and a fistful of C-6 high explosives."
+  :card-id "freelancer"
+  :illustrator "RJ Palmer"
+  :position 40
+  :quantity 3}]

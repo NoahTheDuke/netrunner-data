@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "21116"
+ :deck-limit 3
+ :faction :nbn
+ :id "better-citizen-program"
+ :side :corp
+ :subtype [:initiative]
+ :text "The first time the Runner plays a <strong>run</strong> event or installs an <strong>icebreaker</strong> program each turn, you may give the Runner 1 tag."
+ :title "Better Citizen Program"
+ :type :agenda
+ :uniqueness false}

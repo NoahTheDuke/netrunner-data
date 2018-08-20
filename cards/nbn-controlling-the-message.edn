@@ -1,0 +1,12 @@
+{:code "11017"
+ :deck-limit 1
+ :faction :nbn
+ :id "nbn-controlling-the-message"
+ :influence-limit 12
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:megacorp]
+ :text "The first time the Runner trashes an installed Corp card each turn, you may <trace>trace 4</trace> If successful, give the Runner 1 tag (cannot be avoided)."
+ :title "NBN: Controlling the Message"
+ :type :identity
+ :uniqueness false}

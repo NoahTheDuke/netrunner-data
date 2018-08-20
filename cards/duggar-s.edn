@@ -1,0 +1,12 @@
+{:code "06054"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "duggar-s"
+ :influence-value 4
+ :side :runner
+ :subtype [:location :seedy]
+ :text "[click],[click],[click],[click]: Draw 10 cards."
+ :title "Duggar's"
+ :type :resource
+ :uniqueness true}

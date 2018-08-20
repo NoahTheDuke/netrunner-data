@@ -1,0 +1,12 @@
+{:code "13023"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "process-automation"
+ :influence-value 1
+ :side :runner
+ :subtype []
+ :text "Gain 2[credit] and draw 1 card."
+ :title "Process Automation"
+ :type :event
+ :uniqueness false}

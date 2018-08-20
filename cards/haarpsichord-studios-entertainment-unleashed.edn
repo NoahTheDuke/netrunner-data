@@ -1,0 +1,12 @@
+{:code "08092"
+ :deck-limit 1
+ :faction :nbn
+ :id "haarpsichord-studios-entertainment-unleashed"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The Runner cannot steal more than one agenda each turn."
+ :title "Haarpsichord Studios: Entertainment Unleashed"
+ :type :identity
+ :uniqueness false}

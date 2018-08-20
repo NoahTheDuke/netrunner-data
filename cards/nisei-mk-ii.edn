@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :code "01068"
+ :deck-limit 3
+ :faction :jinteki
+ :id "nisei-mk-ii"
+ :replaced-by "20095"
+ :side :corp
+ :subtype [:initiative]
+ :text "Place 1 agenda counter on Nisei MK II when you score it.\n<strong>Hosted agenda counter:</strong> End the run."
+ :title "Nisei MK II"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "10055"
+ :cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "mumbad-city-hall"
+ :influence-value 1
+ :side :corp
+ :subtype [:facility :government]
+ :text "[click]: Search R&D for an <strong>alliance</strong> card, reveal it, and play or install it (paying all costs). Shuffle R&D."
+ :title "Mumbad City Hall"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

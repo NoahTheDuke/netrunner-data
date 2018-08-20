@@ -1,0 +1,13 @@
+{:code "12051"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "bioroid-work-crew"
+ :influence-value 4
+ :side :corp
+ :subtype [:bioroid]
+ :text "[trash]: Install 1 card, paying all costs. Use this ability only during the next paid ability window after playing and resolving an operation.\n<errata>Errata from FAQ 4.1</errata>"
+ :title "Bioroid Work Crew"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

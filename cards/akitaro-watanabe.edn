@@ -1,0 +1,13 @@
+{:code "01079"
+ :cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "akitaro-watanabe"
+ :influence-value 2
+ :side :corp
+ :subtype [:sysop :unorthodox]
+ :text "The rez cost of ice protecting this server is lowered by 2."
+ :title "Akitaro Watanabe"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

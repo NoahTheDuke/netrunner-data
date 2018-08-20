@@ -1,0 +1,12 @@
+{:code "13057"
+ :cost 8
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "ipo"
+ :influence-value 0
+ :side :corp
+ :subtype [:terminal :transaction]
+ :text "After you resolve this operation, end your action phase.\n\nGain 13[credit]"
+ :title "IPO"
+ :type :operation
+ :uniqueness false}

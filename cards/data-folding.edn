@@ -1,0 +1,12 @@
+{:code "07055"
+ :cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "data-folding"
+ :influence-value 0
+ :side :runner
+ :subtype [:virtual]
+ :text "When your turn begins, gain 1[credit] if you have 2 or more unused MU."
+ :title "Data Folding"
+ :type :resource
+ :uniqueness false}

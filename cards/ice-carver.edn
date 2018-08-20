@@ -1,0 +1,13 @@
+{:code "20015"
+ :cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "ice-carver"
+ :influence-value 3
+ :replaced-by "01015"
+ :side :runner
+ :subtype [:virtual]
+ :text "All ice is encountered with its strength lowered by 1."
+ :title "Ice Carver"
+ :type :resource
+ :uniqueness true}

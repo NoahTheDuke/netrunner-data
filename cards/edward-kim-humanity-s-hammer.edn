@@ -1,0 +1,13 @@
+{:base-link 1
+ :code "07028"
+ :deck-limit 1
+ :faction :anarch
+ :id "edward-kim-humanity-s-hammer"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "Trash the first operation you access each turn at no cost."
+ :title "Edward Kim: Humanity's Hammer"
+ :type :identity
+ :uniqueness false}

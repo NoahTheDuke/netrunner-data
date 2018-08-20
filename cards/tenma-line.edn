@@ -1,0 +1,13 @@
+{:code "05012"
+ :cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "tenma-line"
+ :influence-value 3
+ :side :corp
+ :subtype [:clone]
+ :text "[click]: Swap 2 pieces of installed ice."
+ :title "Tenma Line"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

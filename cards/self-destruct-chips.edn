@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "08051"
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "self-destruct-chips"
+ :side :corp
+ :subtype [:security]
+ :text "The Runner's maximum hand size is reduced by 1."
+ :title "Self-Destruct Chips"
+ :type :agenda
+ :uniqueness false}

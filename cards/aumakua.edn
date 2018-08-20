@@ -1,0 +1,14 @@
+{:code "12104"
+ :cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "aumakua"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :ai :virus]
+ :text "Whenever you expose a card or access cards and do not steal or trash any of them, place 1 virus counter on Aumakua.\nAumakua has +1 strength for each virus counter on it.\n1[credit]: Break ice subroutine."
+ :title "Aumakua"
+ :type :program
+ :uniqueness false}

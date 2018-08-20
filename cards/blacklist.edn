@@ -1,0 +1,13 @@
+{:code "08036"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "blacklist"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "Cards cannot leave the Runner's heap for any reason."
+ :title "Blacklist"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

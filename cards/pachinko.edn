@@ -1,0 +1,13 @@
+{:code "08076"
+ :cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "pachinko"
+ :influence-value 1
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged."
+ :title "Pachinko"
+ :type :ice
+ :uniqueness false}

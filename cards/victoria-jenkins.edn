@@ -1,0 +1,13 @@
+{:code "09011"
+ :cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "victoria-jenkins"
+ :influence-value 5
+ :side :corp
+ :subtype [:executive]
+ :text "The Runner has 1 fewer [click] to spend during his or her turn.\nIf Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points."
+ :title "Victoria Jenkins"
+ :trash-cost 5
+ :type :asset
+ :uniqueness true}

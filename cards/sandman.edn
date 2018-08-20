@@ -1,0 +1,13 @@
+{:code "21075"
+ :cost 5
+ :deck-limit 3
+ :faction :nbn
+ :id "sandman"
+ :influence-value 3
+ :side :corp
+ :strength 3
+ :subtype [:code gate]
+ :text "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip."
+ :title "Sandman"
+ :type :ice
+ :uniqueness false}

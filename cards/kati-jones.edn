@@ -1,0 +1,12 @@
+{:code "02091"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "kati-jones"
+ :influence-value 0
+ :side :runner
+ :subtype [:connection]
+ :text "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones."
+ :title "Kati Jones"
+ :type :resource
+ :uniqueness true}

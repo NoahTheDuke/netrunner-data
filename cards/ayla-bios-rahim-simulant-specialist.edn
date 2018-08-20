@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "13012"
+ :deck-limit 1
+ :faction :shaper
+ :id "ayla-bios-rahim-simulant-specialist"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "Before drawing your starting hand, look at the top 6 cards of your stack. Set 4 of them facedown, as NVRAM. Shuffle the rest into your stack.\n[click]: Add 1 card from NVRAM to your grip. "
+ :title "Ayla \"Bios\" Rahim: Simulant Specialist"
+ :type :identity
+ :uniqueness false}

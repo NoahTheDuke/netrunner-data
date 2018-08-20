@@ -1,0 +1,12 @@
+{:code "10112"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "election-day"
+ :influence-value 2
+ :side :corp
+ :subtype []
+ :text "Trash all cards in HQ (minimum of 1). Draw 5 cards."
+ :title "Election Day"
+ :type :operation
+ :uniqueness false}

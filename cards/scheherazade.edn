@@ -1,0 +1,13 @@
+{:code "04022"
+ :cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "scheherazade"
+ :influence-value 1
+ :memory-cost 0
+ :side :runner
+ :subtype [:daemon]
+ :text "Scheherazade can host any number of programs.\nWhenever you install a program on Scheherazade, gain 1[credit]."
+ :title "Scheherazade"
+ :type :program
+ :uniqueness true}

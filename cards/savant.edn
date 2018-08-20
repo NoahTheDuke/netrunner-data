@@ -1,0 +1,14 @@
+{:code "13018"
+ :cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "savant"
+ :influence-value 3
+ :memory-cost 2
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :killer :decoder]
+ :text "Savant has +1 strength for each unused MU.\n2[credit]: Break 1 <strong>sentry</strong> or 2 <strong>code gate</strong> subroutines."
+ :title "Savant"
+ :type :program
+ :uniqueness false}

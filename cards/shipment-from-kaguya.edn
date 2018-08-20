@@ -1,0 +1,13 @@
+{:code "01100"
+ :cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "shipment-from-kaguya"
+ :influence-value 1
+ :replaced-by "20092"
+ :side :corp
+ :subtype []
+ :text "Place 1 advancement token on each of up to 2 different installed cards that can be advanced."
+ :title "Shipment from Kaguya"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:code "08080"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "underway-grid"
+ :influence-value 0
+ :side :corp
+ :subtype [:region]
+ :text "Ice protecting this server cannot be bypassed.\nCards in and protecting this server cannot be exposed.\nLimit 1 <strong>region</strong> per server."
+ :title "Underway Grid"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

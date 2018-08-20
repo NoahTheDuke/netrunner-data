@@ -1,0 +1,13 @@
+{:code "06102"
+ :cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "errand-boy"
+ :influence-value 1
+ :side :corp
+ :strength 1
+ :subtype [:sentry]
+ :text "[subroutine] The Corp gains 1[credit] or draws 1 card.\n[subroutine] The Corp gains 1[credit] or draws 1 card.\n[subroutine] The Corp gains 1[credit] or draws 1 card."
+ :title "Errand Boy"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:base-link 0
+ :code "12061"
+ :deck-limit 1
+ :faction :anarch
+ :id "alice-merchant-clan-agitator"
+ :influence-limit 15
+ :minimum-deck-size 50
+ :side :runner
+ :subtype [:cyborg]
+ :text "The first time you make a successful run on Archives each turn, the Corp must trash 1 card from HQ."
+ :title "Alice Merchant: Clan Agitator"
+ :type :identity
+ :uniqueness false}

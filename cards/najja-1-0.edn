@@ -1,0 +1,13 @@
+{:code "21011"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "najja-1-0"
+ :influence-value 2
+ :side :corp
+ :strength 2
+ :subtype [:barrier :bioroid]
+ :text "The Runner may spend [click] to break any subroutine on Najja 1.0.\n[subroutine] End the run.\n\n[subroutine] End the run."
+ :title "Najja 1.0"
+ :type :ice
+ :uniqueness false}

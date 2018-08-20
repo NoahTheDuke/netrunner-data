@@ -1,0 +1,13 @@
+{:code "02061"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "disrupter"
+ :influence-value 1
+ :memory-cost 1
+ :side :runner
+ :subtype []
+ :text "[trash]: Prevent a trace. That trace initiates again with a base trace strength of 0."
+ :title "Disrupter"
+ :type :program
+ :uniqueness false}

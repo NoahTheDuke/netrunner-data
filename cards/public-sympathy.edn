@@ -1,0 +1,12 @@
+{:code "02050"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "public-sympathy"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "Your maximum hand size is increased by 2."
+ :title "Public Sympathy"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:code "04111"
+ :cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "reclamation-order"
+ :influence-value 2
+ :side :corp
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nName a card other than Reclamation Order. Reveal any number of copies of the named card from Archives and add them to HQ."
+ :title "Reclamation Order"
+ :type :operation
+ :uniqueness false}

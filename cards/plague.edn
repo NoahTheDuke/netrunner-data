@@ -1,0 +1,13 @@
+{:code "21022"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "plague"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "When you install Plague, choose a server.\nWhenever you make a successful run on the chosen server, you may place 2 virus counters on Plague."
+ :title "Plague"
+ :type :program
+ :uniqueness false}

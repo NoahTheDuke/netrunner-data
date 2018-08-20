@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :code "01095"
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "posted-bounty"
+ :side :corp
+ :subtype [:security]
+ :text "When you score Posted Bounty, you may forfeit it to give the Runner 1 tag and take 1 bad publicity."
+ :title "Posted Bounty"
+ :type :agenda
+ :uniqueness false}

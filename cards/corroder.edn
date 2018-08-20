@@ -1,0 +1,14 @@
+{:code "01007"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "corroder"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength."
+ :title "Corroder"
+ :type :program
+ :uniqueness false}

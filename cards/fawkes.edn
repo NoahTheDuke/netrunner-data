@@ -1,0 +1,14 @@
+{:code "11108"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "fawkes"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine.\nX[credit]: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card."
+ :title "Fawkes"
+ :type :program
+ :uniqueness false}

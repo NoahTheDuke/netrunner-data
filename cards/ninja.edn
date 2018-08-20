@@ -1,0 +1,14 @@
+{:code "01027"
+ :cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "ninja"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +5 strength."
+ :title "Ninja"
+ :type :program
+ :uniqueness false}

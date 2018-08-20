@@ -1,0 +1,13 @@
+{:code "09024"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "keegan-lane"
+ :influence-value 3
+ :side :corp
+ :subtype [:sysop]
+ :text "[trash], <strong>remove 1 tag:</strong> Trash 1 program. Use this ability only during a run on this server."
+ :title "Keegan Lane"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness true}

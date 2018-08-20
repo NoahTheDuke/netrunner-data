@@ -1,0 +1,12 @@
+{:code "07052"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "virus-breeding-ground"
+ :influence-value 2
+ :side :runner
+ :subtype [:virtual]
+ :text "When your turn begins, place 1 virus counter on Virus Breeding Ground.\n[click]: Move 1 virus counter on Virus Breeding Ground to another card with at least 1 virus counter on it."
+ :title "Virus Breeding Ground"
+ :type :resource
+ :uniqueness false}

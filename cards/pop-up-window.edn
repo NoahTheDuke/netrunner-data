@@ -1,0 +1,14 @@
+{:code "20115"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "pop-up-window"
+ :influence-value 1
+ :replaced-by "02056"
+ :side :corp
+ :strength 0
+ :subtype [:code gate :advertisement]
+ :text "When the Runner encounters Pop-up Window, you gain 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit]."
+ :title "Pop-up Window"
+ :type :ice
+ :uniqueness false}

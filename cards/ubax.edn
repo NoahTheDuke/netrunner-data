@@ -1,0 +1,12 @@
+{:code "13016"
+ :cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "ubax"
+ :influence-value 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nWhen your turn begins, draw 1 card.\nLimit 1 <strong>console</strong> per player."
+ :title "Ubax"
+ :type :hardware
+ :uniqueness true}

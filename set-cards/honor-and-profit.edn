@@ -1,0 +1,313 @@
+[{:code "05001"
+  :flavor "Evolving a Better You."
+  :card-id "harmony-medtech-biomedical-pioneer"
+  :illustrator "Emilio Rodriguez"
+  :position 1
+  :quantity 3}
+ {:code "05002"
+  :flavor "Perfecting the Imperfect."
+  :card-id "nisei-division-the-next-generation"
+  :illustrator "Emilio Rodriguez"
+  :position 2
+  :quantity 3}
+ {:code "05003"
+  :card-id "tennin-institute-the-secrets-within"
+  :illustrator "Emilio Rodriguez"
+  :position 3
+  :quantity 3}
+ {:code "05004"
+  :card-id "house-of-knives"
+  :illustrator "Alexandr Elichev"
+  :position 4
+  :quantity 3}
+ {:code "05005"
+  :flavor "\"You won't feel it. Or anything else, for that matter.\""
+  :card-id "medical-breakthrough"
+  :illustrator "Gong Studios"
+  :position 5
+  :quantity 3}
+ {:code "05006"
+  :card-id "philotic-entanglement"
+  :illustrator "Ed Mattinian"
+  :position 6
+  :quantity 3}
+ {:code "05007"
+  :card-id "the-future-perfect"
+  :illustrator "Christina Davis"
+  :position 7
+  :quantity 3}
+ {:code "05008"
+  :card-id "chairman-hiro"
+  :illustrator "Gong Studios"
+  :position 8
+  :quantity 3}
+ {:code "05009"
+  :flavor "The whitewashed walls dropped away and a beautiful zen garden appeared. It was all an illusion, but it was a comforting illusion."
+  :card-id "mental-health-clinic"
+  :illustrator "Viktoria Gavrilenko"
+  :position 9
+  :quantity 3}
+ {:code "05010"
+  :card-id "psychic-field"
+  :illustrator "Seage"
+  :position 10
+  :quantity 3}
+ {:code "05011"
+  :card-id "shi-kyu"
+  :illustrator "Alexandr Elichev"
+  :position 11
+  :quantity 3}
+ {:code "05012"
+  :flavor "The Tenma clones became Jinteki's third highest-grossing line ever due to the rapid urban expansion that occurred after the war. Their unparalleled reaction times, safety records, and punctuality have made them the top choice for shipping and transportation services."
+  :card-id "tenma-line"
+  :illustrator "Smirtouille"
+  :position 12
+  :quantity 3}
+ {:code "05013"
+  :card-id "cerebral-cast"
+  :illustrator "Smirtouille"
+  :position 13
+  :quantity 3}
+ {:code "05014"
+  :flavor "\"Together we have all but eradicated natural diseases from the face of this planet. The new spectre of synthetic disease-of bioterrorism-demands that we continue our efforts.\""
+  :card-id "medical-research-fundraiser"
+  :illustrator "Gong Studios"
+  :position 14
+  :quantity 3}
+ {:code "05015"
+  :card-id "mushin-no-shin"
+  :illustrator "Matt Zeilinger"
+  :position 15
+  :quantity 3}
+ {:code "05016"
+  :flavor "Trapped in their own reality, a paralyzed runner cannot even jack out."
+  :card-id "inazuma"
+  :illustrator "Christina Davis"
+  :position 16
+  :quantity 3}
+ {:code "05017"
+  :card-id "komainu"
+  :illustrator "Liiga Smilshkalne"
+  :position 17
+  :quantity 3}
+ {:code "05018"
+  :flavor "Yip Yip!"
+  :card-id "pup"
+  :illustrator "Liiga Smilshkalne"
+  :position 18
+  :quantity 3}
+ {:code "05019"
+  :flavor "When locked in a fortress in your own mind, be careful what door you open."
+  :card-id "shiro"
+  :illustrator "Adam S. Doyle"
+  :position 19
+  :quantity 3}
+ {:code "05020"
+  :flavor "Certain areas of cyberspace are dominated by a single digital entity. Runners call them 'gods', and only a miracle can save those foolish enough to enter their domain."
+  :card-id "susanoo-no-mikoto"
+  :illustrator "Falk"
+  :position 20
+  :quantity 3}
+ {:code "05021"
+  :flavor "It is difficult to go to Japan without ending up in the sprawl of NeoTokyo."
+  :card-id "neotokyo-grid"
+  :illustrator "Emilio Rodriguez"
+  :position 21
+  :quantity 3}
+ {:code "05022"
+  :flavor "Known as the Red Woman, Hanzō is notorious for her ruthless methods of server protection."
+  :card-id "tori-hanzo"
+  :illustrator "Smirtouille"
+  :position 22
+  :quantity 3}
+ {:code "05023"
+  :card-id "plan-b"
+  :illustrator "Gong Studios"
+  :position 23
+  :quantity 3}
+ {:code "05024"
+  :flavor "Out of the corner of his vision, a flash of light. He felt a thud as his grip on cyberspace loosened. Spider didn't like this. He should have bypassed the outer layer of ice by jacking in from the internal server. Another thud, and his whole frame shook with the resounding shockwave. He desperately reached for his shuriken…"
+  :card-id "guard"
+  :illustrator "Dan Maynard"
+  :position 24
+  :quantity 3}
+ {:code "05025"
+  :flavor "The annual review of ice as published by the NSCA consistently gives top marks to the ice that provide the most impact in relation to their size and upkeep cost. Critics of the NSCA point to the bounce ratio as the most important stat when judging ice."
+  :card-id "rainbow"
+  :illustrator "Ed Mattinian"
+  :position 25
+  :quantity 3}
+ {:code "05026"
+  :flavor "YucaBean has seen astounding growth in even the most remote markets."
+  :card-id "diversified-portfolio"
+  :illustrator "Emilio Rodriguez"
+  :position 26
+  :quantity 3}
+ {:code "05027"
+  :flavor "The longer the employees didn't look at the Doomsday Clock, the more it gnawed at the back of their minds. A quick look only reinforced what they already knew: there wasn't enough time."
+  :card-id "fast-track"
+  :illustrator "Zefanya Langkan Maega"
+  :position 27
+  :quantity 3}
+ {:code "05028"
+  :flavor "\"Truth is a fickle mistress.\""
+  :card-id "iain-stirling-retired-spook"
+  :illustrator "Simon Eckert"
+  :position 28
+  :quantity 3}
+ {:code "05029"
+  :flavor "\"Try to keep up.\""
+  :card-id "ken-express-tenma-disappeared-clone"
+  :illustrator "Simon Eckert"
+  :position 29
+  :quantity 3}
+ {:code "05030"
+  :flavor "\"Don't waste my time.\""
+  :card-id "silhouette-stealth-operative"
+  :illustrator "Simon Eckert"
+  :position 30
+  :quantity 3}
+ {:code "05031"
+  :flavor "A job is only as strong as the weakest link. Thankfully Ms. Jones is always on time."
+  :card-id "calling-in-favors"
+  :illustrator "Jon Bosco"
+  :position 31
+  :quantity 3}
+ {:code "05032"
+  :flavor "Tenma clones are excellent at multitasking, their brains custom-made for parallel processing."
+  :card-id "early-bird"
+  :illustrator "Samuel R. Shimota"
+  :position 32
+  :quantity 3}
+ {:code "05033"
+  :flavor "The clone was surprised to see the red-jacketed man. It was like looking in a mirror, only the mirror made him look…cool. Confident. Individual."
+  :card-id "express-delivery"
+  :illustrator "Agri Karuniawan"
+  :position 33
+  :quantity 3}
+ {:code "05034"
+  :flavor "Stirling entered the server, passing a growling piece of ice. He was unarmed…or so it seemed."
+  :card-id "feint"
+  :illustrator "Ed Mattinian"
+  :position 34
+  :quantity 3}
+ {:code "05035"
+  :flavor "\"I work by referral only, with an up-front fee. The fee is reasonable if you value results.\" -Silhouette"
+  :card-id "legwork"
+  :illustrator "Gong Studios"
+  :position 35
+  :quantity 3}
+ {:code "05036"
+  :card-id "planned-assault"
+  :illustrator "Magali Villeneuve"
+  :position 36
+  :quantity 3}
+ {:code "05037"
+  :card-id "logos"
+  :illustrator "Agri Karuniawan"
+  :position 37
+  :quantity 3}
+ {:code "05038"
+  :flavor "Express loved libraries. The consoles were weak, but the security even weaker. He wirelessly loaded up his personal blend of code and started cloning the drive. In just a few minutes, another zombie would claw its way to the surface of cyberspace."
+  :card-id "public-terminal"
+  :illustrator "Emilio Rodriguez"
+  :position 38
+  :quantity 3}
+ {:code "05039"
+  :card-id "unregistered-s-w-35"
+  :illustrator "Gong Studios"
+  :position 39
+  :quantity 3}
+ {:code "05040"
+  :flavor "The grass looked greener on the other side of the tear. But it always did, and there was always another tear."
+  :card-id "window"
+  :illustrator "Seage"
+  :position 40
+  :quantity 3}
+ {:code "05041"
+  :flavor "Appearances are easy to change in cyberspace, but a high-quality render is not easy to mimic."
+  :card-id "alias"
+  :illustrator "Ed Mattinian"
+  :position 41
+  :quantity 3}
+ {:code "05042"
+  :card-id "breach"
+  :illustrator "Ed Mattinian"
+  :position 42
+  :quantity 3}
+ {:code "05043"
+  :flavor "The digital equivalent of a fly on the wall."
+  :card-id "bug"
+  :illustrator "Liiga Smilshkalne"
+  :position 43
+  :quantity 3}
+ {:code "05044"
+  :flavor "Catch me if you can!"
+  :card-id "gingerbread"
+  :illustrator "Adam S. Doyle"
+  :position 44
+  :quantity 3}
+ {:code "05045"
+  :flavor "If speed is of the essence, an indirect encounter with a piece of ice is usually best."
+  :card-id "grappling-hook"
+  :illustrator "Zefanya Langkan Maega"
+  :position 45
+  :quantity 3}
+ {:code "05046"
+  :flavor "Nothing is secure when you have the right documentation."
+  :card-id "passport"
+  :illustrator "Adam S. Doyle"
+  :position 46
+  :quantity 3}
+ {:code "05047"
+  :card-id "push-your-luck"
+  :illustrator "Matt Zeilinger"
+  :position 47
+  :quantity 3}
+ {:code "05048"
+  :flavor "She was as good as Mr. Li said. The source machine had been compromised in under 24 hours. If a freelance operative could do that, the server clearly wasn't ready to endure Gagarin's legion of corp-owned runners."
+  :card-id "security-testing"
+  :illustrator "Gong Studios"
+  :position 48
+  :quantity 3}
+ {:code "05049"
+  :flavor "\"Why is a raven like a typing desk?\""
+  :card-id "theophilius-bagbiter"
+  :illustrator "Matt Zeilinger"
+  :position 49
+  :quantity 3}
+ {:code "05050"
+  :flavor "She slipped back onto her hopper. \"I'm your family now, so don't twist me, dǒng ma?\"\nHe flicked the e-cig away from his mouth, and nodded. What had he gotten himself into?"
+  :card-id "tri-maf-contact"
+  :illustrator "Ashley Witter"
+  :position 50
+  :quantity 3}
+ {:code "05051"
+  :flavor "\"Welcome to the mass install wizard! This wizard will guide you through the process of installing a whole mess of programs onto your almost-certainly inadequate rig. When you're ready to continue, say-oops, too late, here we go!\""
+  :card-id "mass-install"
+  :illustrator "Ed Mattinian"
+  :position 51
+  :quantity 3}
+ {:code "05052"
+  :flavor "One of the core problems of quantum computing is isolating the system from external factors to prevent decoherence. The Q-Coherence Chip is one, imperfect, solution."
+  :card-id "q-coherence-chip"
+  :illustrator "Gong Studios"
+  :position 52
+  :quantity 3}
+ {:code "05053"
+  :card-id "overmind"
+  :illustrator "Adam S. Doyle"
+  :position 53
+  :quantity 3}
+ {:code "05054"
+  :flavor "\"The best place to hide is in plain sight, don't you think?\""
+  :card-id "oracle-may"
+  :illustrator "Matt Zeilinger"
+  :position 54
+  :quantity 3}
+ {:code "05055"
+  :flavor "You can find Donut in the park on Thursday afternoons, playing backgammon. You want his attention, the price is always the same: a cup of coffee and a donut. That buys you a seat at the backgammon table, and you have until he beats you to talk business and set the price."
+  :card-id "donut-taganes"
+  :illustrator "Matt Zeilinger"
+  :position 55
+  :quantity 3}]

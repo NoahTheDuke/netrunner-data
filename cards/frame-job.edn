@@ -1,0 +1,12 @@
+{:code "04001"
+ :cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "frame-job"
+ :influence-value 2
+ :side :runner
+ :subtype [:double]
+ :text "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity."
+ :title "Frame Job"
+ :type :event
+ :uniqueness false}

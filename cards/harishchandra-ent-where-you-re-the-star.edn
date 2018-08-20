@@ -1,0 +1,12 @@
+{:code "10107"
+ :deck-limit 1
+ :faction :nbn
+ :id "harishchandra-ent-where-you-re-the-star"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "If the Runner is tagged, he or she plays with his or her grip revealed."
+ :title "Harishchandra Ent.: Where You're the Star"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :code "12070"
+ :deck-limit 3
+ :faction :jinteki
+ :id "obokata-protocol"
+ :side :corp
+ :subtype [:ambush]
+ :text "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage."
+ :title "Obokata Protocol"
+ :type :agenda
+ :uniqueness false}

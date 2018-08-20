@@ -1,0 +1,14 @@
+{:code "06053"
+ :cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "blackat"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break 1 <strong>barrier</strong> subroutine (or up to 3 subroutines if you spent a credit from a <strong>stealth</strong> card).\n2[credit]: +1 strength (or +2 strength if you spent at least 1 credit from a <strong>stealth</strong> card)."
+ :title "BlacKat"
+ :type :program
+ :uniqueness false}

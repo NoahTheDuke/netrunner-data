@@ -1,0 +1,12 @@
+{:code "07053"
+ :cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "uninstall"
+ :influence-value 0
+ :side :runner
+ :subtype []
+ :text "Add an installed program or piece of hardware to your grip."
+ :title "Uninstall"
+ :type :event
+ :uniqueness false}

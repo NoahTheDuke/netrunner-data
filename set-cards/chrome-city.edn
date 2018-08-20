@@ -1,0 +1,133 @@
+[{:code "08041"
+  :flavor "The most potent scripts are indistinguishable from magic to the sysop on the other side."
+  :card-id "immolation-script"
+  :illustrator "Hannah Christenson"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_41.png"
+  :position 41
+  :quantity 3}
+ {:code "08042"
+  :flavor "The implanted brain-machine interface, or \"skulljack,\" is the single most common cybernetic enhancement that isn't a medical necessity."
+  :card-id "skulljack"
+  :illustrator "Aaron Agregado"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_42.png"
+  :position 42
+  :quantity 3}
+ {:code "08043"
+  :card-id "turntable"
+  :illustrator "Sara K. Diesel"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_43.png"
+  :position 43
+  :quantity 3}
+ {:code "08044"
+  :flavor "Picking a chopper might be the last decision you make. If you find a good one, stick with her for life."
+  :card-id "chrome-parlor"
+  :illustrator "James Ives"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_44.png"
+  :position 44
+  :quantity 3}
+ {:code "08045"
+  :card-id "titanium-ribs"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_45.png"
+  :position 45
+  :quantity 3}
+ {:code "08046"
+  :card-id "crowbar"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_46.png"
+  :position 46
+  :quantity 3}
+ {:code "08047"
+  :card-id "net-ready-eyes"
+  :illustrator "Ethan Patrick Harris"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_47.png"
+  :position 47
+  :quantity 3}
+ {:code "08048"
+  :flavor "Sometimes progress means returning to the past."
+  :card-id "analog-dreamers"
+  :illustrator "Laura Wilson"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_48.png"
+  :position 48
+  :quantity 3}
+ {:code "08049"
+  :flavor "The skull is not one bone, but 22. The surgery is even more complex than it sounds."
+  :card-id "brain-cage"
+  :illustrator "Mike Nesbitt"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_49.png"
+  :position 49
+  :quantity 3}
+ {:code "08050"
+  :flavor "Define Yourself."
+  :card-id "cybernetics-division-humanity-upgraded"
+  :illustrator "Greg Semkow"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_50.png"
+  :position 50
+  :quantity 3}
+ {:code "08051"
+  :flavor "Cyber enhancements can be dangerous in the wrong hands."
+  :card-id "self-destruct-chips"
+  :illustrator "Abrar Ajmal"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_51.png"
+  :position 51
+  :quantity 3}
+ {:code "08052"
+  :flavor "\"Remember those FCC regulations about not creating harmful interference? No? Ah, before your time, I guess.\" -Cailan Heinrich, Senior Programmer"
+  :card-id "lab-dog"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_52.png"
+  :position 52
+  :quantity 3}
+ {:code "08053"
+  :flavor "Built Oaktown tough."
+  :card-id "oaktown-grid"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_53.png"
+  :position 53
+  :quantity 3}
+ {:code "08054"
+  :flavor "\"Bioroids recognize consciousness in others, but not in themselves.\""
+  :card-id "ryon-knight"
+  :illustrator "Roderick Constance"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_54.png"
+  :position 54
+  :quantity 3}
+ {:code "08055"
+  :card-id "clairvoyant-monitor"
+  :illustrator "Seage"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_55.png"
+  :position 55
+  :quantity 3}
+ {:code "08056"
+  :flavor "\"When your communications are disrupted, you are isolated from your resources. An attack will surely follow.\" -The Playbook"
+  :card-id "lockdown"
+  :illustrator "Andreas Zafiratos"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_56.png"
+  :position 56
+  :quantity 3}
+ {:code "08057"
+  :flavor "\"A sysop is not just a cog in the corporate machine. They have dreams-and nightmares-just like the rest of us.\" -Kate \"Mac\" McCaffrey"
+  :card-id "little-engine"
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_57.png"
+  :position 57
+  :quantity 3}
+ {:code "08058"
+  :card-id "oaktown-renovation"
+  :illustrator "Maciej Rebisz"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_58.png"
+  :position 58
+  :quantity 3}
+ {:code "08059"
+  :flavor "If you can't buy the city council, create a new city."
+  :card-id "corporate-town"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_59.png"
+  :position 59
+  :quantity 3}
+ {:code "08060"
+  :card-id "quicksand"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_60.png"
+  :position 60
+  :quantity 3}]

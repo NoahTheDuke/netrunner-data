@@ -1,0 +1,12 @@
+{:code "08042"
+ :cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "skulljack"
+ :influence-value 2
+ :side :runner
+ :subtype [:cybernetic]
+ :text "When you install Skulljack, suffer 1 brain damage.\nThe trash cost of all cards is lowered by 1."
+ :title "Skulljack"
+ :type :hardware
+ :uniqueness true}

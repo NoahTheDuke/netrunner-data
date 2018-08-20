@@ -1,0 +1,12 @@
+{:code "06107"
+ :cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "shoot-the-moon"
+ :influence-value 2
+ :side :corp
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nRez 1 piece of ice for each tag the Runner has, ignoring all costs."
+ :title "Shoot the Moon"
+ :type :operation
+ :uniqueness false}

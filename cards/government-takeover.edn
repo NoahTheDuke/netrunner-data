@@ -1,0 +1,12 @@
+{:advancement-requirement 9
+ :agenda-points 6
+ :code "07006"
+ :deck-limit 1
+ :faction :weyland-consortium
+ :id "government-takeover"
+ :side :corp
+ :subtype [:expansion]
+ :text "[click]: Gain 3[credit].\nLimit 1 Government Takeover per deck."
+ :title "Government Takeover"
+ :type :agenda
+ :uniqueness true}

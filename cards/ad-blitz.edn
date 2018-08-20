@@ -1,0 +1,12 @@
+{:code "09020"
+ :cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "ad-blitz"
+ :influence-value 1
+ :side :corp
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nInstall and rez (paying all costs) X <strong>advertisements</strong> from Archives and/or HQ, if able."
+ :title "Ad Blitz"
+ :type :operation
+ :uniqueness false}

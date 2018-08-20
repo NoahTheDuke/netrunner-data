@@ -1,0 +1,12 @@
+{:code "22030"
+ :cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "divert-power"
+ :influence-value 1
+ :side :corp
+ :subtype []
+ :text "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way."
+ :title "Divert Power"
+ :type :operation
+ :uniqueness false}

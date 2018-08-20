@@ -1,0 +1,12 @@
+{:code "04029"
+ :cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "prepaid-voicepad"
+ :influence-value 0
+ :side :runner
+ :subtype [:gear]
+ :text "1[recurring-credit]\nUse this credit to play events."
+ :title "Prepaid VoicePAD"
+ :type :hardware
+ :uniqueness false}

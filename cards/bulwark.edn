@@ -1,0 +1,13 @@
+{:code "11078"
+ :cost 10
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "bulwark"
+ :influence-value 3
+ :side :corp
+ :strength 8
+ :subtype [:barrier :illicit]
+ :text "When you rez Bulwark, take 1 bad publicity.\nWhen the Runner encounters Bulwark, gain 2[credit] if there is an installed <strong>AI</strong>.\n[subroutine] The Runner trashes 1 program.\n[subroutine] The Corp gains 2[credit]. End the run.\n[subroutine] The Corp gains 2[credit]. End the run."
+ :title "Bulwark"
+ :type :ice
+ :uniqueness false}

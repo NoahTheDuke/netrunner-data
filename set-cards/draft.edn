@@ -1,0 +1,47 @@
+[{:code "00005"
+  :flavor "The Past is the Future."
+  :card-id "the-shadow-pulling-the-strings"
+  :illustrator "Sławomir Maniak"
+  :position 5
+  :quantity 1}
+ {:code "00006"
+  :flavor "\"This war is far from over.\""
+  :card-id "the-masque-cyber-general"
+  :illustrator "Imaginary FS Pte Ltd"
+  :position 6
+  :quantity 1}
+ {:code "00007"
+  :card-id "wyvern-chemically-enhanced"
+  :illustrator "Rachel Borovic"
+  :position 7
+  :quantity 1}
+ {:code "00008"
+  :card-id "boris-syfr-kovac-crafty-veteran"
+  :illustrator "Clark Huggins"
+  :position 8
+  :quantity 1}
+ {:code "00009"
+  :card-id "jamie-bzzz-micken-techno-savant"
+  :illustrator "Ralph Beisner"
+  :position 9
+  :quantity 1}
+ {:code "00010"
+  :card-id "strategic-innovations-future-forward"
+  :illustrator "Timothy Ben Zweifel"
+  :position 10
+  :quantity 1}
+ {:code "00011"
+  :card-id "synthetic-systems-the-world-re-imagined"
+  :illustrator "Emilio Rodriguez"
+  :position 11
+  :quantity 1}
+ {:code "00012"
+  :card-id "information-dynamics-all-you-need-to-know"
+  :illustrator "Amelie Hutt"
+  :position 12
+  :quantity 1}
+ {:code "00013"
+  :card-id "fringe-applications-tomorrow-today"
+  :illustrator "Emilio Rodriguez"
+  :position 13
+  :quantity 1}]
