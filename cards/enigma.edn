@@ -7,7 +7,7 @@
  :replaced-by "20129"
  :side :corp
  :strength 2
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] The Runner loses [click], if able.\n[subroutine] End the run."
  :title "Enigma"
  :type :ice

@@ -7,7 +7,7 @@
  :replaced-by "04093"
  :side :corp
  :strength 0
- :subtype [:code gate :ap]
+ :subtype [:code-gate :ap]
  :text "[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Do 1 net damage."
  :title "Yagura"
  :type :ice

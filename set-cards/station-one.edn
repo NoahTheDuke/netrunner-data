@@ -1,20 +1,20 @@
 [{:code "12021"
-  :flavor "\"Sure, the implantation was fine, but it pumps Burn. Did you think it wouldn't hurt?\""
   :card-id "severnius-stim-implant"
+  :flavor "\"Sure, the implantation was fine, but it pumps Burn. Did you think it wouldn't hurt?\""
   :illustrator "Marius Bota"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_21.png"
   :position 21
   :quantity 3}
  {:code "12022"
-  :flavor "\"An eye for an eye? If you're lucky, that's all you'll lose.\""
   :card-id "clan-vengeance"
+  :flavor "\"An eye for an eye? If you're lucky, that's all you'll lose.\""
   :illustrator "Kate Laird"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_22.png"
   :position 22
   :quantity 3}
  {:code "12023"
-  :flavor "\"Who watches the watchers? We do.\""
   :card-id "counter-surveillance"
+  :flavor "\"Who watches the watchers? We do.\""
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_23.png"
   :position 23
@@ -26,8 +26,8 @@
   :position 24
   :quantity 3}
  {:code "12025"
-  :flavor "\"From code to profit in three easy steps.\""
   :card-id "los-data-hijacker"
+  :flavor "\"From code to profit in three easy steps.\""
   :illustrator "Matt Zeilinger"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_25.png"
   :position 25
@@ -45,8 +45,8 @@
   :position 27
   :quantity 3}
  {:code "12028"
-  :flavor "Sometimes efficiency is as easy as offloading routine work to a dedicated handler."
   :card-id "build-script"
+  :flavor "Sometimes efficiency is as easy as offloading routine work to a dedicated handler."
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_28.png"
   :position 28
@@ -58,15 +58,15 @@
   :position 29
   :quantity 3}
  {:code "12030"
-  :flavor "\"Submit.\""
   :card-id "nerine-2-0"
+  :flavor "\"Submit.\""
   :illustrator "Ethan Patrick Harris"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_30.png"
   :position 30
   :quantity 3}
  {:code "12031"
-  :flavor "\"Trust me, most corps cannot match the performance of our brainmap enhanced system; a home-brewed rig doesn't stand a chance.\" - Rachel Giacomin"
   :card-id "load-testing"
+  :flavor "\"Trust me, most corps cannot match the performance of our brainmap enhanced system; a home-brewed rig doesn't stand a chance.\" - Rachel Giacomin"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_31.png"
   :position 31
@@ -84,8 +84,8 @@
   :position 33
   :quantity 3}
  {:code "12034"
-  :flavor "\"The customer pays to use our service, and then the advertisers pay us to put ads on their screens, and then the customers pay us a premium to remove the ads. Welcome to the dream.\""
   :card-id "cpc-generator"
+  :flavor "\"The customer pays to use our service, and then the advertisers pay us to put ads on their screens, and then the customers pay us a premium to remove the ads. Welcome to the dream.\""
   :illustrator "Andreas Zafiratos"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_34.png"
   :position 34
@@ -103,15 +103,15 @@
   :position 36
   :quantity 3}
  {:code "12037"
-  :flavor "\"You have two choices: do what I asked, or make me ask again. It's your choice, but if I have to ask again, it will go badly for you.\""
   :card-id "clyde-van-rite"
+  :flavor "\"You have two choices: do what I asked, or make me ask again. It's your choice, but if I have to ask again, it will go badly for you.\""
   :illustrator "Anna Edwards"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_37.png"
   :position 37
   :quantity 3}
  {:code "12038"
-  :flavor "416d20472046204720416d"
   :card-id "watchtower"
+  :flavor "416d20472046204720416d"
   :illustrator "BalanceSheet"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_38.png"
   :position 38
@@ -123,8 +123,8 @@
   :position 39
   :quantity 3}
  {:code "12040"
-  :flavor "\"All my best tricks were shrugged right off. I ended up having to send a self-destruct code to the whole server.\" - Wyvern"
   :card-id "self-adapting-code-wall"
+  :flavor "\"All my best tricks were shrugged right off. I ended up having to send a self-destruct code to the whole server.\" - Wyvern"
   :illustrator "Shawn Ye Zhongyi"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN44_40.png"
   :position 40

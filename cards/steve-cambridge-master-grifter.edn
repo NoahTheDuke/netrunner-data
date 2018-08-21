@@ -1,5 +1,4 @@
 {:base-link 0
- :code "13001"
  :deck-limit 1
  :faction :criminal
  :id "steve-cambridge-master-grifter"

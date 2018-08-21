@@ -1,5 +1,4 @@
 {:base-link 0
- :code "02001"
  :deck-limit 1
  :faction :anarch
  :id "whizzard-master-gamer"

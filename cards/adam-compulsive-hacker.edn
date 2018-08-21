@@ -1,5 +1,4 @@
 {:base-link 0
- :code "09037"
  :deck-limit 1
  :faction :adam
  :id "adam-compulsive-hacker"

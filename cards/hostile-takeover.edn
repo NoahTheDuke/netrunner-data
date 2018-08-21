@@ -1,6 +1,5 @@
 {:advancement-requirement 2
  :agenda-points 1
- :code "20078"
  :deck-limit 3
  :faction :weyland-consortium
  :id "hostile-takeover"

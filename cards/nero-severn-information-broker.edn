@@ -1,5 +1,4 @@
 {:base-link 1
- :code "10040"
  :deck-limit 1
  :faction :criminal
  :id "nero-severn-information-broker"

@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 3
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip."
  :title "Sandman"
  :type :ice

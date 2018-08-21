@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 3
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "Crick has +3 strength while protecting Archives.\n[subroutine] Install a card from Archives (paying its install cost)."
  :title "Crick"
  :type :ice

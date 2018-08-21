@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 0
- :subtype [:code gate :next]
+ :subtype [:code-gate :next]
  :text "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run."
  :title "NEXT Bronze"
  :type :ice

@@ -5,7 +5,7 @@
  :id "hellion-beta-test"
  :influence-value 3
  :side :corp
- :subtype [:black ops]
+ :subtype [:black-ops]
  :text "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity."
  :title "Hellion Beta Test"
  :type :operation

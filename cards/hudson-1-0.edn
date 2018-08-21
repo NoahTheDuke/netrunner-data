@@ -7,7 +7,7 @@
  :replaced-by "04051"
  :side :corp
  :strength 5
- :subtype [:code gate :bioroid]
+ :subtype [:code-gate :bioroid]
  :text "The Runner may spend [click] to break any subroutine on Hudson 1.0.\n[subroutine] The Runner cannot access more than 1 card during this run.\n[subroutine] The Runner cannot access more than 1 card during this run."
  :title "Hudson 1.0"
  :type :ice

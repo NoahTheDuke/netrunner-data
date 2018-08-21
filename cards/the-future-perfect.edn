@@ -1,6 +1,5 @@
 {:advancement-requirement 5
  :agenda-points 3
- :code "05007"
  :deck-limit 3
  :faction :jinteki
  :id "the-future-perfect"

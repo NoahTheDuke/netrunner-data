@@ -1,5 +1,4 @@
 {:base-link 1
- :code "20001"
  :deck-limit 1
  :faction :anarch
  :id "reina-roja-freedom-fighter"

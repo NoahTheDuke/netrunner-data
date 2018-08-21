@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 1
- :code "06049"
  :deck-limit 3
  :faction :neutral-corp
  :id "chronos-project"

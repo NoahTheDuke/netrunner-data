@@ -1,6 +1,5 @@
 {:advancement-requirement 2
  :agenda-points 1
- :code "04032"
  :deck-limit 3
  :faction :jinteki
  :id "clone-retirement"

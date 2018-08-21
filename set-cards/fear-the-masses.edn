@@ -5,15 +5,15 @@
   :position 96
   :quantity 6}
  {:code "10097"
-  :flavor "The Destroyer."
   :card-id "aghora"
+  :flavor "The Destroyer."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_97.png"
   :position 97
   :quantity 3}
  {:code "10098"
-  :flavor "\"They don't want to listen, so we'll just have to crank up the volume.\""
   :card-id "bhagat"
+  :flavor "\"They don't want to listen, so we'll just have to crank up the volume.\""
   :illustrator "Kate Laird"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_98.png"
   :position 98
@@ -43,22 +43,22 @@
   :position 102
   :quantity 3}
  {:code "10103"
-  :flavor "\"When the enemy has mastered the battlefield, change the battlefield.\" -The Playbook"
   :card-id "magnet"
+  :flavor "\"When the enemy has mastered the battlefield, change the battlefield.\" -The Playbook"
   :illustrator "David Keen"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_103.png"
   :position 103
   :quantity 3}
  {:code "10104"
-  :flavor "\"Practical effects are expensive, but worth it. I had to smash seventeen stunt bioroids to get this shot.\" -Parvati Kapoor, director"
   :card-id "lateral-growth"
+  :flavor "\"Practical effects are expensive, but worth it. I had to smash seventeen stunt bioroids to get this shot.\" -Parvati Kapoor, director"
   :illustrator "Antonio De Luca"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_104.png"
   :position 104
   :quantity 3}
  {:code "10105"
-  :flavor "They eat us, we eat them, the cycle goes on and on. -Omar Keung, \"the Flashpoint\""
   :card-id "improved-protein-source"
+  :flavor "They eat us, we eat them, the cycle goes on and on. -Omar Keung, \"the Flashpoint\""
   :illustrator "Johnny Morrow"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_105.png"
   :position 105
@@ -70,15 +70,15 @@
   :position 106
   :quantity 3}
  {:code "10107"
-  :flavor "We Know What You Want."
   :card-id "harishchandra-ent-where-you-re-the-star"
+  :flavor "We Know What You Want."
   :illustrator "Emilio Rodriguez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_107.png"
   :position 107
   :quantity 3}
  {:code "10108"
-  :flavor "The costumes aren't strictly necessary, but they improve the performances of the vactors and sensie stars."
   :card-id "full-immersion-recstudio"
+  :flavor "The costumes aren't strictly necessary, but they improve the performances of the vactors and sensie stars."
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_108.png"
   :position 108
@@ -90,8 +90,8 @@
   :position 109
   :quantity 3}
  {:code "10110"
-  :flavor "The entertainment capital of Mumbad."
   :card-id "navi-mumbai-city-grid"
+  :flavor "The entertainment capital of Mumbad."
   :illustrator "Johan Törnlund"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_110.png"
   :position 110
@@ -103,22 +103,22 @@
   :position 111
   :quantity 3}
  {:code "10112"
-  :flavor "\"A new administration means we have to start greasing the wheels all over again. Let's get to work.\""
   :card-id "election-day"
+  :flavor "\"A new administration means we have to start greasing the wheels all over again. Let's get to work.\""
   :illustrator "Del Borovic"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_112.png"
   :position 112
   :quantity 3}
  {:code "10113"
-  :flavor "Judicious use of freelancers can increase efficiency and protect the company from legal repercussions. It's what they call a \"win-win\"."
   :card-id "subcontract"
+  :flavor "Judicious use of freelancers can increase efficiency and protect the company from legal repercussions. It's what they call a \"win-win\"."
   :illustrator "Matt Zeilinger"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_113.png"
   :position 113
   :quantity 3}
  {:code "10114"
-  :flavor "Survival of the fittest' is so outdated; in finance it's 'survival of the fattest.' -Omar Keung, \"the Flashpoint\""
   :card-id "merger"
+  :flavor "Survival of the fittest' is so outdated; in finance it's 'survival of the fattest.' -Omar Keung, \"the Flashpoint\""
   :illustrator "Mariusz Siergiejew"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN35_114.png"
   :position 114

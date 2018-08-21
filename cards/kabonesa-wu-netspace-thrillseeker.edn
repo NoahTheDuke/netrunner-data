@@ -1,5 +1,4 @@
 {:base-link 1
- :code "21025"
  :deck-limit 1
  :faction :shaper
  :id "kabonesa-wu-netspace-thrillseeker"

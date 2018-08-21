@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 4
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] The next piece of ice the Runner encounters during this run has +2 strength. Do 3 net damage unless the Runner breaks all subroutines on that piece of ice."
  :title "Chum"
  :type :ice

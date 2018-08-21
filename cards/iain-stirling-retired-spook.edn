@@ -1,5 +1,4 @@
 {:base-link 1
- :code "05028"
  :deck-limit 1
  :faction :criminal
  :id "iain-stirling-retired-spook"

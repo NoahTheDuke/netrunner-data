@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 4
- :subtype [:code gate :psi :deflector]
+ :subtype [:code-gate :psi :deflector]
  :text
  "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, choose another server. The Runner is now running on that server instead of passing Mind Game. For the remainder of the run, the Runner must add 1 installed card to the bottom of his or her stack as an additional cost to jack out."
  :title "Mind Game"

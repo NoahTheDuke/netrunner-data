@@ -1,6 +1,5 @@
 {:advancement-requirement 5
  :agenda-points 3
- :code "06030"
  :deck-limit 1
  :faction :neutral-corp
  :id "eden-fragment"

@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 4
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "<strong>Hosted power counter:</strong> The Runner loses 1[credit].\n[subroutine] Place 1 power counter on Free Lunch.\n[subroutine] Place 1 power counter on Free Lunch."
  :title "Free Lunch"
  :type :ice

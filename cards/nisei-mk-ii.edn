@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "01068"
  :deck-limit 3
  :faction :jinteki
  :id "nisei-mk-ii"

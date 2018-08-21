@@ -1,6 +1,6 @@
 [{:code "10001"
-  :flavor "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy"
   :card-id "run-amok"
+  :flavor "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy"
   :illustrator "RC Torres"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_1.png"
   :position 1
@@ -12,8 +12,8 @@
   :position 2
   :quantity 6}
  {:code "10003"
-  :flavor "The greatest trick is not the trick itself, but in making someone believe that it is no trick at all. To your average sysop, it's magic. To your average runner, it's a closely held trade secret."
   :card-id "street-magic"
+  :flavor "The greatest trick is not the trick itself, but in making someone believe that it is no trick at all. To your average sysop, it's magic. To your average runner, it's a closely held trade secret."
   :illustrator "Shawn Ye Zhongyi"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_3.png"
   :position 3
@@ -25,15 +25,15 @@
   :position 4
   :quantity 3}
  {:code "10005"
-  :flavor "It is the hardest thing in the world to frighten a mongoose, because he is eaten up from nose to tail with curiosity. The motto of all the mongoose family is \"Run and find out\". -Rudyard Kipling, Rikki-Tikki-Tavi"
   :card-id "mongoose"
+  :flavor "It is the hardest thing in the world to frighten a mongoose, because he is eaten up from nose to tail with curiosity. The motto of all the mongoose family is \"Run and find out\". -Rudyard Kipling, Rikki-Tikki-Tavi"
   :illustrator "Hannah Christenson"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_5.png"
   :position 5
   :quantity 3}
  {:code "10006"
-  :flavor "\"Mirrormode on.\""
   :card-id "jesminder-sareen-girl-behind-the-curtain"
+  :flavor "\"Mirrormode on.\""
   :illustrator "Adam Schumpert"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_6.png"
   :position 6
@@ -45,29 +45,29 @@
   :position 7
   :quantity 3}
  {:code "10008"
-  :flavor "\"The basics should be like the stories you learned as a child - unconscious, never forgotten, and suddenly relevant at the most random times.\" -g00ru"
   :card-id "panchatantra"
+  :flavor "\"The basics should be like the stories you learned as a child - unconscious, never forgotten, and suddenly relevant at the most random times.\" -g00ru"
   :illustrator "Hannah Christenson"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_8.png"
   :position 8
   :quantity 3}
  {:code "10009"
-  :flavor "\"We can forgive a man for making a useful thing as long as he does not admire it. The only excuse for making a useless thing is that one admires it intensely.\" -Oscar Wilde"
   :card-id "artist-colony"
+  :flavor "\"We can forgive a man for making a useful thing as long as he does not admire it. The only excuse for making a useless thing is that one admires it intensely.\" -Oscar Wilde"
   :illustrator "Johan Törnlund"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_9.png"
   :position 9
   :quantity 3}
  {:code "10010"
-  :flavor "Legions of software engineers have been manufactured within its halls."
   :card-id "chatterjee-university"
+  :flavor "Legions of software engineers have been manufactured within its halls."
   :illustrator "Johan Törnlund"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_10.png"
   :position 10
   :quantity 3}
  {:code "10011"
-  :flavor "\"I don't want a hopper. I've never even owned one. But every time I jack in, that same damn ad loads.\" -2xTiger"
   :card-id "advanced-concept-hopper"
+  :flavor "\"I don't want a hopper. I've never even owned one. But every time I jack in, that same damn ad loads.\" -2xTiger"
   :illustrator "BalanceSheet"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_11.png"
   :position 11
@@ -79,8 +79,8 @@
   :position 12
   :quantity 3}
  {:code "10013"
-  :flavor "It is only by respecting the past that we can build a better future."
   :card-id "heritage-committee"
+  :flavor "It is only by respecting the past that we can build a better future."
   :illustrator "Anastasia Ovchinnikova"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_13.png"
   :position 13
@@ -92,8 +92,8 @@
   :position 14
   :quantity 3}
  {:code "10015"
-  :flavor "\"A new property has two, maybe three hours. If it doesn't sell, cut it and move on.\""
   :card-id "kala-ghoda-real-tv"
+  :flavor "\"A new property has two, maybe three hours. If it doesn't sell, cut it and move on.\""
   :illustrator "Stéphane Gantiez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_15.png"
   :position 15
@@ -105,22 +105,22 @@
   :position 16
   :quantity 3}
  {:code "10017"
-  :flavor "\"Never cut the ribbon until you have something to show off.\" -Eta Shah, VP Global Expansion"
   :card-id "dedication-ceremony"
+  :flavor "\"Never cut the ribbon until you have something to show off.\" -Eta Shah, VP Global Expansion"
   :illustrator "Odera Igbokwe"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_17.png"
   :position 17
   :quantity 3}
  {:code "10018"
-  :flavor "Those who are the wisest know the least."
   :card-id "mumba-temple"
+  :flavor "Those who are the wisest know the least."
   :illustrator "Yog Joshi"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_18.png"
   :position 18
   :quantity 3}
  {:code "10019"
-  :flavor "\"And here we see the Polar Bear, once the largest land carnivore on Earth.\""
   :card-id "museum-of-history"
+  :flavor "\"And here we see the Polar Bear, once the largest land carnivore on Earth.\""
   :illustrator "Sander Mosk"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN30_19.png"
   :position 19

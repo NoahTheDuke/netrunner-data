@@ -5,7 +5,7 @@
  :id "economic-warfare"
  :influence-value 2
  :side :corp
- :subtype [:gray ops]
+ :subtype [:gray-ops]
  :text "Play only if the Runner made a successful run during his or her last turn.\nThe Runner loses 4[credit], if able."
  :title "Economic Warfare"
  :type :operation

@@ -1,5 +1,4 @@
 {:base-link 0
- :code "12025"
  :deck-limit 1
  :faction :criminal
  :id "los-data-hijacker"

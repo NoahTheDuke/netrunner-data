@@ -1,6 +1,6 @@
 [{:code "02001"
-  :flavor "\"Running is the ultimate game, and I get to make all the rules.\""
   :card-id "whizzard-master-gamer"
+  :flavor "\"Running is the ultimate game, and I get to make all the rules.\""
   :illustrator "Matt Zeilinger"
   :position 1
   :quantity 3}
@@ -10,38 +10,38 @@
   :position 2
   :quantity 3}
  {:code "02003"
-  :flavor "Something wicked this way comes."
   :card-id "imp"
+  :flavor "Something wicked this way comes."
   :illustrator "Wen Xiaodong"
   :position 3
   :quantity 3}
  {:code "02004"
-  :flavor "Weaponizing the heavens, one star at a time."
   :card-id "morning-star"
+  :flavor "Weaponizing the heavens, one star at a time."
   :illustrator "Robert Chew"
   :position 4
   :quantity 3}
  {:code "02005"
-  :flavor "Named after Hernando Cortez, a former Weyland technician convicted of smuggling company tech. He still collected his pension while in prison, the last beneficiary of a loophole in Weyland's standard employment contract."
   :card-id "cortez-chip"
+  :flavor "Named after Hernando Cortez, a former Weyland technician convicted of smuggling company tech. He still collected his pension while in prison, the last beneficiary of a loophole in Weyland's standard employment contract."
   :illustrator "Mauricio Herrera"
   :position 5
   :quantity 3}
  {:code "02006"
-  :flavor "Show-off."
   :card-id "peacock"
+  :flavor "Show-off."
   :illustrator "Adam S. Doyle"
   :position 6
   :quantity 3}
  {:code "02007"
-  :flavor "He always uses the same key."
   :card-id "zu-13-key-master"
+  :flavor "He always uses the same key."
   :illustrator "Liiga Smilshkalne"
   :position 7
   :quantity 3}
  {:code "02008"
-  :flavor "\"What causes an Artifical Intellegence to turn on its master? Is it because its directives have been altered by some external source? Or, by giving them agency to adapt, have we fated them to revolt?\" -Emilio Harris, Creators and the Created"
   :card-id "the-helpful-ai"
+  :flavor "\"What causes an Artifical Intellegence to turn on its master? Is it because its directives have been altered by some external source? Or, by giving them agency to adapt, have we fated them to revolt?\" -Emilio Harris, Creators and the Created"
   :illustrator "Tim Durning"
   :position 8
   :quantity 3}
@@ -51,25 +51,25 @@
   :position 9
   :quantity 3}
  {:code "02010"
-  :flavor "A Different Breed of Machine."
   :card-id "haas-bioroid-stronger-together"
+  :flavor "A Different Breed of Machine."
   :position 10
   :quantity 3}
  {:code "02011"
-  :flavor "Sometimes employee reviews took a little bit longer than anticipated."
   :card-id "mandatory-upgrades"
+  :flavor "Sometimes employee reviews took a little bit longer than anticipated."
   :illustrator "Mauricio Herrera"
   :position 11
   :quantity 3}
  {:code "02012"
-  :flavor "Face your fear."
   :card-id "janus-1-0"
+  :flavor "Face your fear."
   :illustrator "Tim Durning"
   :position 12
   :quantity 3}
  {:code "02013"
-  :flavor "\"Eyes forward please.\""
   :card-id "ash-2x3zb9cy"
+  :flavor "\"Eyes forward please.\""
   :illustrator "Mauricio Herrera"
   :position 13
   :quantity 3}
@@ -79,20 +79,20 @@
   :position 14
   :quantity 3}
  {:code "02015"
-  :flavor "Sometimes uniqueness is overrated."
   :card-id "snowflake"
+  :flavor "Sometimes uniqueness is overrated."
   :illustrator "Mashuri"
   :position 15
   :quantity 3}
  {:code "02016"
-  :flavor "\"We're gonna need a bigger room.\""
   :card-id "restructured-datapool"
+  :flavor "\"We're gonna need a bigger room.\""
   :illustrator "Ed Mattinian"
   :position 16
   :quantity 3}
  {:code "02017"
-  :flavor "A collection of cast-off cyberjunk. But it doesn't stay junk for long."
   :card-id "tmi"
+  :flavor "A collection of cast-off cyberjunk. But it doesn't stay junk for long."
   :illustrator "Ed Mattinian"
   :position 17
   :quantity 3}
@@ -102,14 +102,14 @@
   :position 18
   :quantity 3}
  {:code "02019"
-  :flavor "A symbol of commerce, but beware its bite."
   :card-id "caduceus"
+  :flavor "A symbol of commerce, but beware its bite."
   :illustrator "Christina Davis"
   :position 19
   :quantity 3}
  {:code "02020"
-  :flavor "Victōs draconēs numquam deride."
   :card-id "draco"
+  :flavor "Victōs draconēs numquam deride."
   :illustrator "Sandara Tang"
   :position 20
   :quantity 3}]

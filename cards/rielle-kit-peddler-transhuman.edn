@@ -1,5 +1,4 @@
 {:base-link 0
- :code "03028"
  :deck-limit 1
  :faction :shaper
  :id "rielle-kit-peddler-transhuman"

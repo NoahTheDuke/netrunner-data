@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 3
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "When you rez Magnet, host a program on it that is hosted on an installed piece of ice.\nThe text box of each program hosted on Magnet is blank.\n[subroutine] End the run."
  :title "Magnet"
  :type :ice

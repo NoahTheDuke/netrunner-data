@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 0
- :subtype [:code gate :deflector]
+ :subtype [:code-gate :deflector]
  :text "If the Runner breaks the printed subroutine on Mirāju, he or she is now running on Archives instead of passing Mirāju and approaches the outermost ice, if any. Derez Mirāju.\n[subroutine] The Corp may draw 1 card. Then, shuffle 1 card from HQ into R&D."
  :title "Mirāju"
  :type :ice

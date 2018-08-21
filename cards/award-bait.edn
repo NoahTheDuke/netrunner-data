@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 1
- :code "08093"
  :deck-limit 3
  :faction :nbn
  :id "award-bait"

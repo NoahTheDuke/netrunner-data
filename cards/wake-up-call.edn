@@ -5,7 +5,7 @@
  :id "wake-up-call"
  :influence-value 3
  :side :corp
- :subtype [:reprisal :gray ops]
+ :subtype [:reprisal :gray-ops]
  :text "Play only if the Runner trashed at least 1 Corp card during his or her last turn.\nChoose an installed piece of hardware or non-<strong>virtual</strong> resource. The Runner must either trash that card or suffer 4 meat damage. Remove Wake Up Call from the game instead of trashing it."
  :title "Wake Up Call"
  :type :operation

@@ -1,70 +1,30 @@
-({:code :identity
-  :is-subtype false
-  :name "Identity"
-  :position 0
-  :side nil}
- {:code :agenda
-  :is-subtype false
+[{:id :agenda
   :name "Agenda"
-  :position 1
   :side :corp}
- {:code :asset
-  :is-subtype false
+ {:id :asset
   :name "Asset"
-  :position 2
   :side :corp}
- {:code :upgrade
-  :is-subtype false
-  :name "Upgrade"
-  :position 3
-  :side :corp}
- {:code :operation
-  :is-subtype false
-  :name "Operation"
-  :position 4
-  :side :corp}
- {:code :barrier
-  :is-subtype true
-  :name "Barrier"
-  :position 5
-  :side :corp}
- {:code :code-gate
-  :is-subtype true
-  :name "Code Gate"
-  :position 6
-  :side :corp}
- {:code :sentry
-  :is-subtype true
-  :name "Sentry"
-  :position 7
-  :side :corp}
- {:code :ice
-  :is-subtype false
-  :name "ICE"
-  :position 8
-  :side :corp}
- {:code :event
-  :is-subtype false
+ {:id :event
   :name "Event"
-  :position 11
   :side :runner}
- {:code :hardware
-  :is-subtype false
+ {:id :hardware
   :name "Hardware"
-  :position 12
   :side :runner}
- {:code :resource
-  :is-subtype false
-  :name "Resource"
-  :position 13
-  :side :runner}
- {:code :icebreaker
-  :is-subtype true
-  :name "Icebreaker"
-  :position 14
-  :side :runner}
- {:code :program
-  :is-subtype false
+ {:id :ice
+  :name "ICE"
+  :side :corp}
+ {:id :identity
+  :name "Identity"
+  :side nil}
+ {:id :operation
+  :name "Operation"
+  :side :corp}
+ {:id :program
   :name "Program"
-  :position 15
-  :side :runner})
+  :side :runner}
+ {:id :resource
+  :name "Resource"
+  :side :runner}
+ {:id :upgrade
+  :name "Upgrade"
+  :side :corp}]

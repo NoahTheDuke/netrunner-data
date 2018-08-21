@@ -5,15 +5,15 @@
   :position 1
   :quantity 3}
  {:code "08002"
-  :flavor "\"The Valley is littered with good ideas. You need the discipline to execute if you want to stay in my incubator.\""
   :card-id "paige-piper"
+  :flavor "\"The Valley is littered with good ideas. You need the discipline to execute if you want to stay in my incubator.\""
   :illustrator "Wenjuinn Png"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_2.png"
   :position 2
   :quantity 3}
  {:code "08003"
-  :flavor "Turns a night owl into an early bird!"
   :card-id "adjusted-chronotype"
+  :flavor "Turns a night owl into an early bird!"
   :illustrator "Crystal Ben"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_3.png"
   :position 3
@@ -37,8 +37,8 @@
   :position 6
   :quantity 3}
  {:code "08007"
-  :flavor "Your heart deserves the best."
   :card-id "synthetic-blood"
+  :flavor "Your heart deserves the best."
   :illustrator "Ismael Bergara"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_7.png"
   :position 7
@@ -50,22 +50,22 @@
   :position 8
   :quantity 3}
  {:code "08009"
-  :flavor "Born for success!"
   :card-id "symmetrical-visage"
+  :flavor "Born for success!"
   :illustrator "Tim Durning"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_9.png"
   :position 9
   :quantity 3}
  {:code "08010"
-  :flavor "In the vast universe of memories, consciousness slumbers..."
   :card-id "brain-taping-warehouse"
+  :flavor "In the vast universe of memories, consciousness slumbers..."
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_10.png"
   :position 10
   :quantity 3}
  {:code "08011"
-  :flavor "\"God in Heinlein. What's next, NEXT Platinum?\" -John Masanori"
   :card-id "next-gold"
+  :flavor "\"God in Heinlein. What's next, NEXT Platinum?\" -John Masanori"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_11.png"
   :position 11
@@ -83,8 +83,8 @@
   :position 13
   :quantity 3}
  {:code "08014"
-  :flavor "The more power a spike process can use, the harder it can hit. The really clever ones borrow the runner's own memory to iterate locally."
   :card-id "cortex-lock"
+  :flavor "The more power a spike process can use, the harder it can hit. The really clever ones borrow the runner's own memory to iterate locally."
   :illustrator "Tadas Sidlauskas"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_14.png"
   :position 14
@@ -96,8 +96,8 @@
   :position 15
   :quantity 3}
  {:code "08016"
-  :flavor "\"It tracks you and logs you. If you get in you can just delete the log. But first you have to get in.\" -Gabriel Santiago"
   :card-id "bandwidth"
+  :flavor "\"It tracks you and logs you. If you get in you can just delete the log. But first you have to get in.\" -Gabriel Santiago"
   :illustrator "Seage"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_16.png"
   :position 16
@@ -109,22 +109,22 @@
   :position 17
   :quantity 3}
  {:code "08018"
-  :flavor "Give a man money, and he is rich for a day. Teach a man how to invest, and he is rich for life."
   :card-id "capital-investors"
+  :flavor "Give a man money, and he is rich for a day. Teach a man how to invest, and he is rich for life."
   :illustrator "Lili Ibrahim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_18.png"
   :position 18
   :quantity 3}
  {:code "08019"
-  :flavor "\"Negotiation is an art, so never negotiate when you can intimidate instead.\" -Thiago Reyes, VP Strategic Operations"
   :card-id "negotiator"
+  :flavor "\"Negotiation is an art, so never negotiate when you can intimidate instead.\" -Thiago Reyes, VP Strategic Operations"
   :illustrator "Andreas Zafiratos"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_19.png"
   :position 19
   :quantity 3}
  {:code "08020"
-  :flavor "\"Don't worry. If this one fails, we can start a new one tomorrow.\""
   :card-id "tech-startup"
+  :flavor "\"Don't worry. If this one fails, we can start a new one tomorrow.\""
   :illustrator "Del Borovic"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_20.png"
   :position 20

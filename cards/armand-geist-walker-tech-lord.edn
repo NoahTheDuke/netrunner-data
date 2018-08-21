@@ -1,5 +1,4 @@
 {:base-link 1
- :code "08063"
  :deck-limit 1
  :faction :criminal
  :id "armand-geist-walker-tech-lord"

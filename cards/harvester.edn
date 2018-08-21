@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 3
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size.\n[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size."
  :title "Harvester"
  :type :ice

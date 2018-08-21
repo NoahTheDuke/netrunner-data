@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "12110"
  :deck-limit 3
  :faction :haas-bioroid
  :id "cfc-excavation-contract"

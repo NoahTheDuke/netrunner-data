@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 0
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "The rez cost of IQ is increased by 1 for each card in HQ.\nIQ has +1 strength for each card in HQ.\n[subroutine] End the run."
  :title "IQ"
  :type :ice

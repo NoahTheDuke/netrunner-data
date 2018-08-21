@@ -1,5 +1,4 @@
 {:base-link 1
- :code "06017"
  :deck-limit 1
  :faction :shaper
  :id "nasir-meidan-cyber-explorer"

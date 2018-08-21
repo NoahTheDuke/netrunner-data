@@ -5,7 +5,7 @@
  :id "subcontract"
  :influence-value 3
  :side :corp
- :subtype [:gray ops]
+ :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nPlay up to 2 operations from HQ (paying all costs), resolving them one at a time."
  :title "Subcontract"
  :type :operation

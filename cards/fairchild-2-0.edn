@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 3
- :subtype [:code gate :bioroid :ap]
+ :subtype [:code-gate :bioroid :ap]
  :text "The Runner can spend [click][click] to break up to 2 subroutines on Fairchild 2.0.\n[subroutine] The Runner must pay 2[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 2[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage."
  :title "Fairchild 2.0"
  :type :ice

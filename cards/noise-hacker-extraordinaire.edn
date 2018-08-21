@@ -1,5 +1,4 @@
 {:base-link 0
- :code "01001"
  :deck-limit 1
  :faction :anarch
  :id "noise-hacker-extraordinaire"

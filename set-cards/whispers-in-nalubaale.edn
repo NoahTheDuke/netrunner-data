@@ -5,15 +5,15 @@
   :position 81
   :quantity 3}
  {:code "21082"
-  :flavor "Twisting, writhing, ripping into all that it touches."
   :card-id "trypano"
+  :flavor "Twisting, writhing, ripping into all that it touches."
   :illustrator "Ethan Patrick Harris"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_82.png"
   :position 82
   :quantity 3}
  {:code "21083"
-  :flavor "\"What kind of maniac infects their own rig?!\""
   :card-id "contaminate"
+  :flavor "\"What kind of maniac infects their own rig?!\""
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_83.png"
   :position 83
@@ -25,8 +25,8 @@
   :position 84
   :quantity 3}
  {:code "21085"
-  :flavor "Filaments occasionally flare from the Network, manifesting ephemeral threads between random domains."
   :card-id "slipstream"
+  :flavor "Filaments occasionally flare from the Network, manifesting ephemeral threads between random domains."
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_85.png"
   :position 85
@@ -38,8 +38,8 @@
   :position 86
   :quantity 3}
  {:code "21087"
-  :flavor "Go for distance."
   :card-id "gebrselassie"
+  :flavor "Go for distance."
   :illustrator "Martin de Diego Sádaba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_87.png"
   :position 87
@@ -51,15 +51,15 @@
   :position 88
   :quantity 3}
  {:code "21089"
-  :flavor "\"Could God create a stone so heavy, He could not lift it?\""
   :card-id "logic-bomb"
+  :flavor "\"Could God create a stone so heavy, He could not lift it?\""
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_89.png"
   :position 89
   :quantity 3}
  {:code "21090"
-  :flavor "\"Jackpot!\""
   :card-id "jackpot"
+  :flavor "\"Jackpot!\""
   :illustrator "Limetown Studios"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_90.png"
   :position 90
@@ -77,22 +77,22 @@
   :position 92
   :quantity 3}
  {:code "21093"
-  :flavor "\"It's neither cruel nor unusual. Merely efficient.\""
   :card-id "warden-fatuma"
+  :flavor "\"It's neither cruel nor unusual. Merely efficient.\""
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_93.png"
   :position 93
   :quantity 3}
  {:code "21094"
-  :flavor "Quicker and deadlier than ever imagined, the trial was an outstanding success."
   :card-id "viral-weaponization"
+  :flavor "Quicker and deadlier than ever imagined, the trial was an outstanding success."
   :illustrator "Michał Miłkowski"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_94.png"
   :position 94
   :quantity 3}
  {:code "21095"
-  :flavor "\"On one hand, I knew I shouldn't touch it. On the other, it was really shiny.\" - Kabonesa Wu"
   :card-id "envelope"
+  :flavor "\"On one hand, I knew I shouldn't touch it. On the other, it was really shiny.\" - Kabonesa Wu"
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_95.png"
   :position 95
@@ -116,15 +116,15 @@
   :position 98
   :quantity 3}
  {:code "21099"
-  :flavor "No matter which direcion ze climbed, the blocks reshuffled, zipping in from left to right, bottom to top. It was going to be a long hike."
   :card-id "masvingo"
+  :flavor "No matter which direcion ze climbed, the blocks reshuffled, zipping in from left to right, bottom to top. It was going to be a long hike."
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_99.png"
   :position 99
   :quantity 3}
  {:code "21100"
-  :flavor "The blast doesn't hurt, but what comes after does."
   :card-id "overseer-matrix"
+  :flavor "The blast doesn't hurt, but what comes after does."
   :illustrator "Mariusz Siergiejew"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN54_100.png"
   :position 100

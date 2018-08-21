@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "13053"
  :deck-limit 3
  :faction :neutral-corp
  :id "paper-trail"

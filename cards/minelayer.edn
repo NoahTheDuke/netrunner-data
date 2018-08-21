@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 4
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs."
  :title "Minelayer"
  :type :ice

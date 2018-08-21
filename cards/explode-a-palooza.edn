@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "08094"
  :deck-limit 3
  :faction :nbn
  :id "explode-a-palooza"

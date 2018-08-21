@@ -1,5 +1,4 @@
 {:base-link 0
- :code "00008"
  :deck-limit 1
  :faction :criminal
  :id "boris-syfr-kovac-crafty-veteran"

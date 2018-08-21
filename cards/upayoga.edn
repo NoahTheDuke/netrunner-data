@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 4
- :subtype [:code gate :psi]
+ :subtype [:code-gate :psi]
  :text "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner loses 2[credit].\n[subroutine] Resolve a subroutine on a piece of rezzed <strong>psi</strong> ice."
  :title "Upayoga"
  :type :ice

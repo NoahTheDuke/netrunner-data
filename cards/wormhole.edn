@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 7
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice."
  :title "Wormhole"
  :type :ice

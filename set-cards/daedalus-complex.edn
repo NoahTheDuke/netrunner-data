@@ -1,6 +1,6 @@
 [{:code "12001"
-  :flavor "\"Hitting them when they are weakest sometimes means acting before you want to.\" -Alice Merchant"
   :card-id "pushing-the-envelope"
+  :flavor "\"Hitting them when they are weakest sometimes means acting before you want to.\" -Alice Merchant"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_1.png"
   :position 1
@@ -12,35 +12,35 @@
   :position 2
   :quantity 3}
  {:code "12003"
-  :flavor "The Archivist tracks all the clans and their members, and official dealings clans have with the various corps. Half law clerk and half historian, he wields a tremendous amount of power doing a job no one else wants, but none can do without."
   :card-id "the-archivist"
+  :flavor "The Archivist tracks all the clans and their members, and official dealings clans have with the various corps. Half law clerk and half historian, he wields a tremendous amount of power doing a job no one else wants, but none can do without."
   :illustrator "Matt Zeilinger"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_3.png"
   :position 3
   :quantity 3}
  {:code "12004"
-  :flavor "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat."
   :card-id "exploit"
+  :flavor "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat."
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_4.png"
   :position 4
   :quantity 3}
  {:code "12005"
-  :flavor "\"So, yeah, I just reverse engineered a tracer, and then built it back up with some new lines of code. Pretty stellar.\" -Los"
   :card-id "spot-the-prey"
+  :flavor "\"So, yeah, I just reverse engineered a tracer, and then built it back up with some new lines of code. Pretty stellar.\" -Los"
   :illustrator "Camille Kuo"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_5.png"
   :position 5
   :quantity 3}
  {:code "12006"
-  :flavor "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\""
   :card-id "bio-modeled-network"
+  :flavor "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\""
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_6.png"
   :position 6
   :quantity 3}
  {:code "12007"
-  :flavor "\"To beat cautious sysops, you've got to get creative. Commandeering Network systems is like using their own strengths against them.\" -Kabonesa Wu"
   :card-id "network-exchange"
+  :flavor "\"To beat cautious sysops, you've got to get creative. Commandeering Network systems is like using their own strengths against them.\" -Kabonesa Wu"
   :illustrator "Alexandr Elichev"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_7.png"
   :position 7
@@ -52,15 +52,15 @@
   :position 8
   :quantity 3}
  {:code "12009"
-  :flavor "\"The newest electronic-warfare rollout from NEXT Design has us sysops drooling.\" -Mason Bellamy"
   :card-id "next-wave-2"
+  :flavor "\"The newest electronic-warfare rollout from NEXT Design has us sysops drooling.\" -Mason Bellamy"
   :illustrator "Shawn Ye Zhongyi"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_9.png"
   :position 9
   :quantity 3}
  {:code "12010"
-  :flavor "\"Dismantle. Dissect. Is there really a difference?\""
   :card-id "zed-2-0"
+  :flavor "\"Dismantle. Dissect. Is there really a difference?\""
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_10.png"
   :position 10
@@ -78,8 +78,8 @@
   :position 12
   :quantity 3}
  {:code "12013"
-  :flavor "\"The ultimate aim of martial arts is not having to use them.\" - Miyamoto Musashi"
   :card-id "kakugo"
+  :flavor "\"The ultimate aim of martial arts is not having to use them.\" - Miyamoto Musashi"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_13.png"
   :position 13
@@ -91,8 +91,8 @@
   :position 14
   :quantity 3}
  {:code "12015"
-  :flavor "\"'What does BRE stand for?' Have you seen its Net presence?\" -Bernice Mai"
   :card-id "sync-bre"
+  :flavor "\"'What does BRE stand for?' Have you seen its Net presence?\" -Bernice Mai"
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_15.png"
   :position 15
@@ -116,8 +116,8 @@
   :position 18
   :quantity 3}
  {:code "12019"
-  :flavor "Senate staffers and clerks of the MCA can be seen thronging Khondi Plaza during break times."
   :card-id "khondi-plaza"
+  :flavor "Senate staffers and clerks of the MCA can be seen thronging Khondi Plaza during break times."
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN43_19.png"
   :position 19

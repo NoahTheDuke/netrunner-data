@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "10035"
  :deck-limit 3
  :faction :weyland-consortium
  :id "new-construction"

@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 2
- :code "01055"
  :deck-limit 3
  :faction :haas-bioroid
  :id "accelerated-beta-test"

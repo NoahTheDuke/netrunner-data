@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 1
- :code "03004"
  :deck-limit 1
  :faction :haas-bioroid
  :id "director-haas-pet-project"

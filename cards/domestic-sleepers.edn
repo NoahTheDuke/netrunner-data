@@ -1,6 +1,5 @@
 {:advancement-requirement 2
  :agenda-points 0
- :code "06001"
  :deck-limit 3
  :faction :haas-bioroid
  :id "domestic-sleepers"

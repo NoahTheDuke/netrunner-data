@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 3
- :subtype [:code gate :psi]
+ :subtype [:code-gate :psi]
  :text "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 advancement token on an installed card and end the run."
  :title "Clairvoyant Monitor"
  :type :ice

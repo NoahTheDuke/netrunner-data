@@ -11,8 +11,8 @@
   :position 102
   :quantity 3}
  {:code "12103"
-  :flavor "Vanadis, a Martian arms manufacturer, was among the first sites targeted from orbit during the war."
   :card-id "salvaged-vanadis-armory"
+  :flavor "Vanadis, a Martian arms manufacturer, was among the first sites targeted from orbit during the war."
   :illustrator "Michał Miłkowski"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_103.png"
   :position 103
@@ -24,8 +24,8 @@
   :position 104
   :quantity 3}
  {:code "12105"
-  :flavor "The electric pulses ripped through the Net, backtracking Los's location. When they hit his defenses, they spent themselves against the slope."
   :card-id "caldera"
+  :flavor "The electric pulses ripped through the Net, backtracking Los's location. When they hit his defenses, they spent themselves against the slope."
   :illustrator "Yog Joshi"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_105.png"
   :position 105
@@ -37,29 +37,29 @@
   :position 106
   :quantity 3}
  {:code "12107"
-  :flavor "\"I wield the power cosmic - a galactic force that can reshape the Net!\" -S'onge Galaxy"
   :card-id "reshape"
+  :flavor "\"I wield the power cosmic - a galactic force that can reshape the Net!\" -S'onge Galaxy"
   :illustrator "Alexander Tooth"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_107.png"
   :position 107
   :quantity 3}
  {:code "12108"
-  :flavor "\"Aptly named.\" -g00ru"
   :card-id "dummy-box"
+  :flavor "\"Aptly named.\" -g00ru"
   :illustrator "A. Jones"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_108.png"
   :position 108
   :quantity 3}
  {:code "12109"
-  :flavor "He was suddenly very motivated to pass on confidential information."
   :card-id "corporate-defector"
+  :flavor "He was suddenly very motivated to pass on confidential information."
   :illustrator "Caroline Gariba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_109.png"
   :position 109
   :quantity 3}
  {:code "12110"
-  :flavor "\"Sure, we also use human labor - they are more easily replaced.\" -Emil Merk"
   :card-id "cfc-excavation-contract"
+  :flavor "\"Sure, we also use human labor - they are more easily replaced.\" -Emil Merk"
   :illustrator "Mark Molnar"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_110.png"
   :position 110
@@ -83,15 +83,15 @@
   :position 113
   :quantity 3}
  {:code "12114"
-  :flavor "By the time the data storm passed, the landscape was transformed, and she was hopelessly lost."
   :card-id "sand-storm"
+  :flavor "By the time the data storm passed, the landscape was transformed, and she was hopelessly lost."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_114.png"
   :position 114
   :quantity 3}
  {:code "12115"
-  :flavor "Only NBN's sec teams were outfitted with systems that could read data flows and see into the Net."
   :card-id "ar-enhanced-security"
+  :flavor "Only NBN's sec teams were outfitted with systems that could read data flows and see into the Net."
   :illustrator "Martin de Diego Sádaba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_115.png"
   :position 115
@@ -115,15 +115,15 @@
   :position 118
   :quantity 3}
  {:code "12119"
-  :flavor "\"I embedded recursive data loops into the go-no-go subroutines of every piece of ice.\" -Anson Rose"
   :card-id "fractal-threat-matrix"
+  :flavor "\"I embedded recursive data loops into the go-no-go subroutines of every piece of ice.\" -Anson Rose"
   :illustrator "Caroline Gariba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_119.png"
   :position 119
   :quantity 3}
  {:code "12120"
-  :flavor "A ghost image of it could be made out in the static of his BMI. He hoped never to run across the real thing again."
   :card-id "conundrum"
+  :flavor "A ghost image of it could be made out in the static of his BMI. He hoped never to run across the real thing again."
   :illustrator "Ethan Patrick Harris"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN48_120.png"
   :position 120

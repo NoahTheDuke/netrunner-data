@@ -1,5 +1,4 @@
 {:base-link 0
- :code "09029"
  :deck-limit 1
  :faction :apex
  :id "apex-invasive-predator"

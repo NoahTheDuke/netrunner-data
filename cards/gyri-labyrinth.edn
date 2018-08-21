@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 2
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] The Runner's maximum hand size is reduced by 2 until the beginning of the Corp's next turn."
  :title "Gyri Labyrinth"
  :type :ice

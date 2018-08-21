@@ -5,7 +5,7 @@
  :id "witness-tampering"
  :influence-value 1
  :side :corp
- :subtype [:double :gray ops]
+ :subtype [:double :gray-ops]
  :text "As an additional cost to play this operation, spend [click].\nRemove up to 2 bad publicity."
  :title "Witness Tampering"
  :type :operation

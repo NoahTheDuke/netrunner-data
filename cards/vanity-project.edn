@@ -1,6 +1,5 @@
 {:advancement-requirement 6
  :agenda-points 4
- :code "08100"
  :deck-limit 3
  :faction :neutral-corp
  :id "vanity-project"

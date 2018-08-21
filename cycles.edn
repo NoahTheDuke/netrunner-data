@@ -1,84 +1,84 @@
-[{:code "draft"
+[{:id "draft"
   :name "Draft"
   :position 0
   :rotated false
   :size 1}
- {:code "core"
-  :name "Core Set"
+ {:id "core"
+  :name "Core"
   :position 1
   :rotated true
   :size 1}
- {:code "genesis"
+ {:id "genesis"
   :name "Genesis"
   :position 2
   :rotated true
   :size 6}
- {:code "creation-and-control"
+ {:id "creation-and-control"
   :name "Creation and Control"
   :position 3
   :rotated false
   :size 1}
- {:code "spin"
+ {:id "spin"
   :name "Spin"
   :position 4
   :rotated true
   :size 6}
- {:code "honor-and-profit"
+ {:id "honor-and-profit"
   :name "Honor and Profit"
   :position 5
   :rotated false
   :size 1}
- {:code "lunar"
+ {:id "lunar"
   :name "Lunar"
   :position 6
   :rotated false
   :size 6}
- {:code "order-and-chaos"
+ {:id "order-and-chaos"
   :name "Order and Chaos"
   :position 7
   :rotated false
   :size 1}
- {:code "sansan"
+ {:id "sansan"
   :name "SanSan"
   :position 8
   :rotated false
   :size 6}
- {:code "data-and-destiny"
+ {:id "data-and-destiny"
   :name "Data and Destiny"
   :position 9
   :rotated false
   :size 1}
- {:code "mumbad"
+ {:id "mumbad"
   :name "Mumbad"
   :position 10
   :rotated false
   :size 6}
- {:code "flashpoint"
+ {:id "flashpoint"
   :name "Flashpoint"
   :position 11
   :rotated false
   :size 6}
- {:code "red-sand"
+ {:id "red-sand"
   :name "Red Sand"
   :position 12
   :rotated false
   :size 6}
- {:code "terminal-directive"
+ {:id "terminal-directive"
   :name "Terminal Directive"
   :position 13
   :rotated false
   :size 1}
- {:code "core2"
-  :name "Revised Core Set"
+ {:id "revised-core"
+  :name "Revised Core"
   :position 20
   :rotated false
   :size 1}
- {:code "kitara"
+ {:id "kitara"
   :name "Kitara"
   :position 21
   :rotated false
   :size 6}
- {:code "reign-and-reverie"
+ {:id "reign-and-reverie"
   :name "Reign and Reverie"
   :position 22
   :rotated false

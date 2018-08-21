@@ -6,7 +6,7 @@
  :influence-value 0
  :side :corp
  :strength 0
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] End the run."
  :title "Quandary"
  :type :ice

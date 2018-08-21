@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 4
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "The strength of Lotus Field cannot be lowered.\n[subroutine] End the run."
  :title "Lotus Field"
  :type :ice

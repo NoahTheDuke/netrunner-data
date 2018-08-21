@@ -1,5 +1,4 @@
 {:base-link 0
- :code "02046"
  :deck-limit 1
  :faction :shaper
  :id "chaos-theory-wunderkind"

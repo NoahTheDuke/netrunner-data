@@ -1,5 +1,4 @@
 {:base-link 0
- :code "00007"
  :deck-limit 1
  :faction :anarch
  :id "wyvern-chemically-enhanced"

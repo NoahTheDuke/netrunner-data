@@ -1,60 +1,48 @@
 ({:code :adam
-  :color "000000"
   :is-mini true
   :name "Adam"
   :side :runner}
  {:code :anarch
-  :color "FF4500"
   :is-mini false
   :name "Anarch"
   :side :runner}
  {:code :apex
-  :color "000000"
   :is-mini true
   :name "Apex"
   :side :runner}
  {:code :criminal
-  :color "4169E1"
   :is-mini false
   :name "Criminal"
   :side :runner}
  {:code :haas-bioroid
-  :color "8A2BE2"
   :is-mini false
   :name "Haas-Bioroid"
   :side :corp}
  {:code :jinteki
-  :color "DC143C"
   :is-mini false
   :name "Jinteki"
   :side :corp}
  {:code :nbn
-  :color "FF8C00"
   :is-mini false
   :name "NBN"
   :side :corp}
- {:code :neutral-runner
-  :color "808080"
-  :is-mini false
-  :name "Neutral"
-  :side :runner}
  {:code :neutral-corp
-  :color "808080"
   :is-mini false
   :name "Neutral"
   :side :corp}
+ {:code :neutral-runner
+  :is-mini false
+  :name "Neutral"
+  :side :runner}
  {:code :shaper
-  :color "32CD32"
   :is-mini false
   :name "Shaper"
   :side :runner}
  {:code :sunny-lebeau
-  :color "000000"
   :is-mini true
   :name "Sunny Lebeau"
   :side :runner}
  {:code :weyland-consortium
-  :color "006400"
   :is-mini false
   :name "Weyland Consortium"
   :side :corp})

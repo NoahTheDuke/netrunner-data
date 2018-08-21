@@ -1,6 +1,6 @@
 [{:code "10020"
-  :flavor "\"No! Don't set that off HERE!\""
   :card-id "emp-device"
+  :flavor "\"No! Don't set that off HERE!\""
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_20.png"
   :position 20
@@ -12,15 +12,15 @@
   :position 21
   :quantity 3}
  {:code "10022"
-  :flavor "<champion>Designed by 2013 World Champion Jens Erickson</champion>"
   :card-id "cbi-raid"
+  :flavor "<champion>Designed by 2013 World Champion Jens Erickson</champion>"
   :illustrator "Mike Nesbitt"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_22.png"
   :position 22
   :quantity 3}
  {:code "10023"
-  :flavor "\"Why would you dispose of perfectly good evidence when you can sell it?\""
   :card-id "tech-trader"
+  :flavor "\"Why would you dispose of perfectly good evidence when you can sell it?\""
   :illustrator "Vicky Sio"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_23.png"
   :position 23
@@ -32,15 +32,15 @@
   :position 24
   :quantity 6}
  {:code "10025"
-  :flavor "\"We may be outraged, but we're not surprised.\" -Sunder"
   :card-id "corporate-scandal"
+  :flavor "\"We may be outraged, but we're not surprised.\" -Sunder"
   :illustrator "Micah Epstein"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_25.png"
   :position 25
   :quantity 3}
  {:code "10026"
-  :flavor "\"The corporations may be stronger than any of us, but they are not stronger than all of us.\" -Akshara Sareen "
   :card-id "populist-rally"
+  :flavor "\"The corporations may be stronger than any of us, but they are not stronger than all of us.\" -Akshara Sareen "
   :illustrator "Anna Edwards"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_26.png"
   :position 26
@@ -64,29 +64,29 @@
   :position 29
   :quantity 3}
  {:code "10030"
-  :flavor "We Are What We Eat. "
   :card-id "palana-foods-sustainable-growth"
+  :flavor "We Are What We Eat. "
   :illustrator "Emilio Rodriguez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_30.png"
   :position 30
   :quantity 3}
  {:code "10031"
-  :flavor "Expensive to build but dramatically more efficient than traditional farming, agroplexes are emblems of the inevitable corporatization of the food industry. "
   :card-id "palana-agroplex"
+  :flavor "Expensive to build but dramatically more efficient than traditional farming, agroplexes are emblems of the inevitable corporatization of the food industry. "
   :illustrator "Emilio Rodriguez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_31.png"
   :position 31
   :quantity 3}
  {:code "10032"
-  :flavor "\"We can help others, yet also help ourselves.\" -Soraiya Suresh, VP Public Programs"
   :card-id "harvester"
+  :flavor "\"We can help others, yet also help ourselves.\" -Soraiya Suresh, VP Public Programs"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_32.png"
   :position 32
   :quantity 3}
  {:code "10033"
-  :flavor "Data, not food, is one of the biggest exports from the Gujarat district of Mumbad."
   :card-id "remote-data-farm"
+  :flavor "Data, not food, is one of the biggest exports from the Gujarat district of Mumbad."
   :illustrator "Juan Novelletto"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_33.png"
   :position 33
@@ -110,8 +110,8 @@
   :position 36
   :quantity 3}
  {:code "10037"
-  :flavor "\"You got it. We sell it. They buy it. Everyone wins.\""
   :card-id "corporate-sales-team"
+  :flavor "\"You got it. We sell it. They buy it. Everyone wins.\""
   :illustrator "Samuel Leung"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_37.png"
   :position 37

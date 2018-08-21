@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 1
- :code "07004"
  :deck-limit 3
  :faction :weyland-consortium
  :id "firmware-updates"

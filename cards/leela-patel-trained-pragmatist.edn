@@ -1,5 +1,4 @@
 {:base-link 0
- :code "06095"
  :deck-limit 1
  :faction :criminal
  :id "leela-patel-trained-pragmatist"

@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 1
- :code "06081"
  :deck-limit 3
  :faction :haas-bioroid
  :id "bifrost-array"

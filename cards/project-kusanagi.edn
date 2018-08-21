@@ -1,6 +1,5 @@
 {:advancement-requirement 2
  :agenda-points 0
- :code "11052"
  :deck-limit 3
  :faction :jinteki
  :id "project-kusanagi"

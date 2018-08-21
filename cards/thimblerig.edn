@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 0
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "When your turn begins or whenever the Runner passes Thimblerig, you may swap Thimblerig with another installed piece of ice.\n[subroutine] End the run."
  :title "Thimblerig"
  :type :ice

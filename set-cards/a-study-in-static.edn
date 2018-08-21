@@ -1,117 +1,117 @@
-[{:code "02061"
+[{:card-id "disrupter"
+  :code "02061"
   :flavor "\"Saved my bacon more than once, but gives a wicked sense of déjà vu.\" -Whizzard"
-  :card-id "disrupter"
   :illustrator "Adam S. Doyle"
   :position 61
   :quantity 3}
- {:code "02062"
+ {:card-id "force-of-nature"
+  :code "02062"
   :flavor "It always strikes twice."
-  :card-id "force-of-nature"
   :illustrator "Ed Mattinian"
   :position 62
   :quantity 3}
- {:code "02063"
+ {:card-id "scrubber"
+  :code "02063"
   :flavor "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly"
-  :card-id "scrubber"
   :illustrator "Mike Nesbitt"
   :position 63
   :quantity 3}
- {:code "02064"
+ {:card-id "doppelganger"
+  :code "02064"
   :flavor "Twice the fun."
-  :card-id "doppelganger"
   :illustrator "Howard Schechlman"
   :position 64
   :quantity 3}
- {:code "02065"
+ {:card-id "crescentus"
+  :code "02065"
   :flavor "Cyberspace's strongest glue."
-  :card-id "crescentus"
   :illustrator "Adam S. Doyle"
   :position 65
   :quantity 3}
- {:code "02066"
+ {:card-id "deus-x"
+  :code "02066"
   :flavor "Didn't see that coming."
-  :card-id "deus-x"
   :illustrator "Andrew Mar"
   :position 66
   :quantity 3}
- {:code "02067"
+ {:card-id "all-nighter"
+  :code "02067"
   :flavor "\"I don't care what the studies show. From my experience, I can ingest three cans of Diesel an hour for up to twelve hours before going into cardiac arrest.\" -heard during the eleventh hour"
-  :card-id "all-nighter"
   :illustrator "Outland Entertainment LLC"
   :position 67
   :quantity 3}
- {:code "02068"
+ {:card-id "inside-man"
+  :code "02068"
   :flavor "Few corporate employees have such wide-sweeping security clearance as the janitorial staff. Most corps foolishly think they're too dim-witted to take advantage of it."
-  :card-id "inside-man"
   :illustrator "Mauricio Herrera"
   :position 68
   :quantity 3}
- {:code "02069"
+ {:card-id "underworld-contact"
+  :code "02069"
   :flavor "\"My boss rewards quality work. If you know what's good for you, you'll keep it up.\""
-  :card-id "underworld-contact"
   :illustrator "Nate Stefan"
   :position 69
   :quantity 3}
- {:code "02070"
+ {:card-id "green-level-clearance"
+  :code "02070"
   :flavor "Green-two clearance is the highest level of security a corp can gain access to. Legally, anyway."
-  :card-id "green-level-clearance"
   :illustrator "Mauricio Herrera"
   :position 70
   :quantity 3}
- {:code "02071"
+ {:card-id "hourglass"
+  :code "02071"
   :flavor "Time just slips away."
-  :card-id "hourglass"
   :illustrator "JuanManuel Tumburus"
   :position 71
   :quantity 3}
- {:code "02072"
+ {:card-id "dedicated-server"
+  :code "02072"
   :flavor "so very still, even\ncherry blossoms are not stirred\nby the temple bell\n-Fuhaku"
-  :card-id "dedicated-server"
   :illustrator "Emilio Rodriguez"
   :position 72
   :quantity 3}
- {:code "02073"
-  :card-id "bullfrog"
+ {:card-id "bullfrog"
+  :code "02073"
   :illustrator "Christina Davis"
   :position 73
   :quantity 3}
- {:code "02074"
+ {:card-id "uroboros"
+  :code "02074"
   :flavor "Where one thing ends, another begins."
-  :card-id "uroboros"
   :illustrator "Liiga Smilshkalne"
   :position 74
   :quantity 3}
- {:code "02075"
+ {:card-id "net-police"
+  :code "02075"
   :flavor "This is the net. We work here. We're cops."
-  :card-id "net-police"
   :illustrator "Amelie Hutt"
   :position 75
   :quantity 3}
- {:code "02076"
+ {:card-id "weyland-consortium-because-we-built-it"
+  :code "02076"
   :flavor "Constructing Cyberspace."
-  :card-id "weyland-consortium-because-we-built-it"
   :position 76
   :quantity 3}
- {:code "02077"
+ {:card-id "government-contracts"
+  :code "02077"
   :flavor "It's really hard to lose a government contract."
-  :card-id "government-contracts"
   :illustrator "Mitchell Malloy"
   :position 77
   :quantity 3}
- {:code "02078"
+ {:card-id "tyrant"
+  :code "02078"
   :flavor "Thou shall not pass."
-  :card-id "tyrant"
   :illustrator "Isuardi Therianto"
   :position 78
   :quantity 3}
- {:code "02079"
-  :card-id "oversight-ai"
+ {:card-id "oversight-ai"
+  :code "02079"
   :illustrator "Mark Anthony Taduran"
   :position 79
   :quantity 3}
- {:code "02080"
+ {:card-id "false-lead"
+  :code "02080"
   :flavor "It didn't look like the headquarters of a multi-billion cred company. Probably because it wasn't."
-  :card-id "false-lead"
   :illustrator "Bruno Balixa"
   :position 80
   :quantity 3}]

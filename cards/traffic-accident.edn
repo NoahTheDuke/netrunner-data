@@ -5,7 +5,7 @@
  :id "traffic-accident"
  :influence-value 1
  :side :corp
- :subtype [:black ops]
+ :subtype [:black-ops]
  :text "Play only if the Runner has at least 2 tags.\nDo 2 meat damage."
  :title "Traffic Accident"
  :type :operation

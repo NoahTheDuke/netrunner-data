@@ -1,4 +1,4 @@
-[{:code :runner
+[{:id :runner
   :name "Runner"}
- {:code :corp
+ {:id :corp
   :name "Corp"}]

@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 3
- :code "10105"
  :deck-limit 3
  :faction :jinteki
  :id "improved-protein-source"

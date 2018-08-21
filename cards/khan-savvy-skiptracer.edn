@@ -1,5 +1,4 @@
 {:base-link 0
- :code "11027"
  :deck-limit 1
  :faction :criminal
  :id "khan-savvy-skiptracer"

@@ -1,6 +1,5 @@
 {:advancement-requirement 5
  :agenda-points 3
- :code "21038"
  :deck-limit 3
  :faction :neutral-corp
  :id "ssl-endorsement"

@@ -1,6 +1,5 @@
 {:advancement-requirement 5
  :agenda-points 3
- :code "02039"
  :deck-limit 3
  :faction :neutral-corp
  :id "executive-retreat"

@@ -5,7 +5,7 @@
  :id "big-brother"
  :influence-value 1
  :side :corp
- :subtype [:gray ops]
+ :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nGive the Runner 2 tags."
  :title "Big Brother"
  :type :operation

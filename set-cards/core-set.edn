@@ -1,18 +1,18 @@
 [{:code "01001"
-  :flavor "\"Watch this. It'll be funny.\""
   :card-id "noise-hacker-extraordinaire"
+  :flavor "\"Watch this. It'll be funny.\""
   :illustrator "Ralph Beisner"
   :position 1
   :quantity 1}
  {:code "01002"
-  :flavor "Anything worth doing is worth doing twice."
   :card-id "deja-vu"
+  :flavor "Anything worth doing is worth doing twice."
   :illustrator "Tim Durning"
   :position 2
   :quantity 2}
  {:code "01003"
-  :flavor "You ever set something on fire just to watch it burn?"
   :card-id "demolition-run"
+  :flavor "You ever set something on fire just to watch it burn?"
   :illustrator "Anna Ignatieva"
   :position 3
   :quantity 3}
@@ -22,20 +22,20 @@
   :position 4
   :quantity 3}
  {:code "01005"
-  :flavor "I feel almost naked without it"
   :card-id "cyberfeeder"
+  :flavor "I feel almost naked without it"
   :illustrator "Gong Studios"
   :position 5
   :quantity 3}
  {:code "01006"
-  :flavor "\"My little book of magic spells.\" -The Whizzard"
   :card-id "grimoire"
+  :flavor "\"My little book of magic spells.\" -The Whizzard"
   :illustrator "Jonathan Lee"
   :position 6
   :quantity 1}
  {:code "01007"
-  :flavor "\"If at first you don't succeed, boost its strength and try again.\" -g00ru"
   :card-id "corroder"
+  :flavor "\"If at first you don't succeed, boost its strength and try again.\" -g00ru"
   :illustrator "Mike Nesbitt"
   :position 7
   :quantity 2}
@@ -50,14 +50,14 @@
   :position 9
   :quantity 2}
  {:code "01010"
-  :flavor "It looked like random packet loss. It wasn't."
   :card-id "medium"
+  :flavor "It looked like random packet loss. It wasn't."
   :illustrator "Adam S. Doyle"
   :position 10
   :quantity 2}
  {:code "01011"
-  :flavor "November 5th: the day when all would see the corrupt machinations of the corporate oligarchy."
   :card-id "mimic"
+  :flavor "November 5th: the day when all would see the corrupt machinations of the corporate oligarchy."
   :illustrator "Ed Mattinian"
   :position 11
   :quantity 2}
@@ -67,14 +67,14 @@
   :position 12
   :quantity 3}
  {:code "01013"
-  :flavor "Fire and ichor…"
   :card-id "wyrm"
+  :flavor "Fire and ichor…"
   :illustrator "Sandara Tang"
   :position 13
   :quantity 2}
  {:code "01014"
-  :flavor "The Yog.0 database is a crowdsourced compilation of sniffed, spoofed, and logged passkeys. If the key to the gate is in the database, you're in. If it's not, change the gate!"
   :card-id "yog-0"
+  :flavor "The Yog.0 database is a crowdsourced compilation of sniffed, spoofed, and logged passkeys. If the key to the gate is in the database, you're in. If it's not, change the gate!"
   :illustrator "Kate Niemczyk"
   :position 14
   :quantity 2}
@@ -86,14 +86,14 @@
   :position 15
   :quantity 1}
  {:code "01016"
-  :flavor "\"Best place to go when you want to get your mind out of the gutter and take it inside.\" -Ji \"Noise\" Reilly"
   :card-id "wyldside"
+  :flavor "\"Best place to go when you want to get your mind out of the gutter and take it inside.\" -Ji \"Noise\" Reilly"
   :illustrator "Henning Ludvigsen"
   :position 16
   :quantity 2}
  {:code "01017"
-  :flavor "\"Of course I steal from the rich. They're the ones with all the money.\""
   :card-id "gabriel-santiago-consummate-professional"
+  :flavor "\"Of course I steal from the rich. They're the ones with all the money.\""
   :illustrator "Ralph Beisner"
   :position 17
   :quantity 1}
@@ -103,32 +103,32 @@
   :position 18
   :quantity 2}
  {:code "01019"
-  :flavor "\"Hey kid, you fire that up now, bound to be vamped real bad. Some real pathetic individuals around here. But thankfully I got just the ticket…\""
   :card-id "easy-mark"
+  :flavor "\"Hey kid, you fire that up now, bound to be vamped real bad. Some real pathetic individuals around here. But thankfully I got just the ticket…\""
   :illustrator "Matt Zeilinger"
   :position 19
   :quantity 3}
  {:code "01020"
-  :flavor "As the hysteria in the room climbed higher up the corporate chain, an uneasy feeling of joblessness began to sink in on the lower rungs."
   :card-id "forged-activation-orders"
+  :flavor "As the hysteria in the room climbed higher up the corporate chain, an uneasy feeling of joblessness began to sink in on the lower rungs."
   :illustrator "Ed Mattinian"
   :position 20
   :quantity 3}
  {:code "01021"
-  :flavor "\"Hey, listen, I'm not asking you to do anything dangerous. Just let me into the building. And tell me which room has the weakest security. And please don't say 'the bathroom' again.\""
   :card-id "inside-job"
+  :flavor "\"Hey, listen, I'm not asking you to do anything dangerous. Just let me into the building. And tell me which room has the weakest security. And please don't say 'the bathroom' again.\""
   :illustrator "Clark Huggins"
   :position 21
   :quantity 3}
  {:code "01022"
-  :flavor "Feverishly tracking its frustratingly slow progress across the Pacific, the package finally shows up hours later…"
   :card-id "special-order"
+  :flavor "Feverishly tracking its frustratingly slow progress across the Pacific, the package finally shows up hours later…"
   :illustrator "Kate Niemczyk"
   :position 22
   :quantity 3}
  {:code "01023"
-  :flavor "\"A little preparation goes a long way.\" -Gabriel Santiago"
   :card-id "lemuria-codecracker"
+  :flavor "\"A little preparation goes a long way.\" -Gabriel Santiago"
   :illustrator "Emerson Tung"
   :position 23
   :quantity 2}
@@ -148,14 +148,14 @@
   :position 26
   :quantity 2}
  {:code "01027"
-  :flavor "You feel Ninja before you see Ninja, if you see Ninja at all."
   :card-id "ninja"
+  :flavor "You feel Ninja before you see Ninja, if you see Ninja at all."
   :illustrator "Andrew Mar"
   :position 27
   :quantity 2}
  {:code "01028"
-  :flavor "\"The code isn't important. It's where the code takes you that is important.\" -g00ru"
   :card-id "sneakdoor-beta"
+  :flavor "\"The code isn't important. It's where the code takes you that is important.\" -g00ru"
   :illustrator "Andrew Mar"
   :position 28
   :quantity 2}
@@ -165,68 +165,68 @@
   :position 29
   :quantity 2}
  {:code "01030"
-  :flavor "\"My roomie, he had a cousin with a college girlfriend whose brother's best friend was an addict, and the addict's mother used to live here. So yeah, there's a connection.\" -Lez \"Rockfist\" S."
   :card-id "crash-space"
+  :flavor "\"My roomie, he had a cousin with a college girlfriend whose brother's best friend was an addict, and the addict's mother used to live here. So yeah, there's a connection.\" -Lez \"Rockfist\" S."
   :illustrator "Tim Durning"
   :position 30
   :quantity 2}
  {:code "01031"
-  :flavor "Shadier the dealer, better the price. Unless the dealer's too shady. Then there might be a hidden fee after they take your scrip."
   :card-id "data-dealer"
+  :flavor "Shadier the dealer, better the price. Unless the dealer's too shady. Then there might be a hidden fee after they take your scrip."
   :illustrator "Mauricio Herrera"
   :position 31
   :quantity 1}
  {:code "01032"
-  :flavor "\"I get the feeling that this is the wrong place, Frank.\"\n\"What makes you say that, D?\"\n\"The curlers.\""
   :card-id "decoy"
+  :flavor "\"I get the feeling that this is the wrong place, Frank.\"\n\"What makes you say that, D?\"\n\"The curlers.\""
   :illustrator "Mauricio Herrera"
   :position 32
   :quantity 2}
  {:code "01033"
-  :flavor "\"Are you listening?\""
   :card-id "kate-mac-mccaffrey-digital-tinker"
+  :flavor "\"Are you listening?\""
   :illustrator "Ralph Beisner"
   :position 33
   :quantity 1}
  {:code "01034"
-  :flavor "Diesel gives you flames."
   :card-id "diesel"
+  :flavor "Diesel gives you flames."
   :illustrator "Tim Durning"
   :position 34
   :quantity 3}
  {:code "01035"
-  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
   :card-id "modded"
+  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
   :illustrator "Ralph Beisner"
   :position 35
   :quantity 2}
  {:code "01036"
-  :flavor "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak"
   :card-id "the-maker-s-eye"
+  :flavor "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak"
   :illustrator "Yue Wang"
   :position 36
   :quantity 3}
  {:code "01037"
-  :flavor "\"There's that moment, you know, when the whole world seems to fall away and it is only you and your mod, and the mod is the world.\""
   :card-id "tinkering"
+  :flavor "\"There's that moment, you know, when the whole world seems to fall away and it is only you and your mod, and the mod is the world.\""
   :illustrator "Christina Davis"
   :position 37
   :quantity 3}
  {:code "01038"
-  :flavor "The Akamatsu company was founded on three principles: first, to make the fastest mem chips on the market, second, to turn a profit, and third, to serve as a front for the manufacture of illegal neural-stimulants. It is the last principle that perhaps explains their rabid brand loyalty."
   :card-id "akamatsu-mem-chip"
+  :flavor "The Akamatsu company was founded on three principles: first, to make the fastest mem chips on the market, second, to turn a profit, and third, to serve as a front for the manufacture of illegal neural-stimulants. It is the last principle that perhaps explains their rabid brand loyalty."
   :illustrator "Outland Entertainment LLC"
   :position 38
   :quantity 2}
  {:code "01039"
-  :flavor "It's not endless, it just feels that way."
   :card-id "rabbit-hole"
+  :flavor "It's not endless, it just feels that way."
   :illustrator "Mark Anthony Taduran"
   :position 39
   :quantity 2}
  {:code "01040"
-  :flavor "A z-loop here, a cortical wave there…"
   :card-id "the-personal-touch"
+  :flavor "A z-loop here, a cortical wave there…"
   :illustrator "Bruno Balixa"
   :position 40
   :quantity 2}
@@ -236,14 +236,14 @@
   :position 41
   :quantity 1}
  {:code "01042"
-  :flavor "\"It's called 'brute-forcing' and it's just as effective today as it was a hundred years ago.\" -Kate \"Mac\" McCaffrey"
   :card-id "battering-ram"
+  :flavor "\"It's called 'brute-forcing' and it's just as effective today as it was a hundred years ago.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Liiga Smilshkalne"
   :position 42
   :quantity 2}
  {:code "01043"
-  :flavor "It can slice through the thickest knots of data."
   :card-id "gordian-blade"
+  :flavor "It can slice through the thickest knots of data."
   :illustrator "Mike Nesbitt"
   :position 43
   :quantity 3}
@@ -255,8 +255,8 @@
   :position 44
   :quantity 2}
  {:code "01045"
-  :flavor "Sucks energy like a martian terra-bot, but it keeps you focused"
   :card-id "net-shield"
+  :flavor "Sucks energy like a martian terra-bot, but it keeps you focused"
   :illustrator "Andrew Mar"
   :position 45
   :quantity 2}
@@ -266,26 +266,26 @@
   :position 46
   :quantity 2}
  {:code "01047"
-  :flavor "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well."
   :card-id "aesop-s-pawnshop"
+  :flavor "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well."
   :illustrator "Adam Schumpert"
   :position 47
   :quantity 1}
  {:code "01048"
-  :flavor "The life expectancy of a jacked construct is about that of a mayfly. In other words, short."
   :card-id "sacrificial-construct"
+  :flavor "The life expectancy of a jacked construct is about that of a mayfly. In other words, short."
   :illustrator "Matt Zeilinger"
   :position 48
   :quantity 2}
  {:code "01049"
-  :flavor "\"Bring back any memories, Monica?\" -John \"Animal\" McEvoy"
   :card-id "infiltration"
+  :flavor "\"Bring back any memories, Monica?\" -John \"Animal\" McEvoy"
   :illustrator "Imaginary FS Pte Ltd"
   :position 49
   :quantity 3}
  {:code "01050"
-  :flavor "Lady Luck took the form of a hifi quantum manipulation ring that she wore on her middle finger."
   :card-id "sure-gamble"
+  :flavor "Lady Luck took the form of a hifi quantum manipulation ring that she wore on her middle finger."
   :illustrator "Kate Niemczyk"
   :position 50
   :quantity 3}
@@ -295,20 +295,20 @@
   :position 51
   :quantity 3}
  {:code "01052"
-  :flavor "He flicked the display population to high, and was surrounded by a circle of floating holos. The ping-back was strong, the clearance level blue-one. Now to find the perfect place for a relay…"
   :card-id "access-to-globalsec"
+  :flavor "He flicked the display population to high, and was surrounded by a circle of floating holos. The ping-back was strong, the clearance level blue-one. Now to find the perfect place for a relay…"
   :illustrator "Mike Nesbitt"
   :position 52
   :quantity 3}
  {:code "01053"
-  :flavor "Drudge work, but it pays the bills."
   :card-id "armitage-codebusting"
+  :flavor "Drudge work, but it pays the bills."
   :illustrator "Mauricio Herrera"
   :position 53
   :quantity 3}
  {:code "01054"
-  :flavor "Effective. Reliable. Humane."
   :card-id "haas-bioroid-engineering-the-future"
+  :flavor "Effective. Reliable. Humane."
   :position 54
   :quantity 1}
  {:code "01055"
@@ -327,62 +327,62 @@
   :position 57
   :quantity 2}
  {:code "01058"
-  :flavor "\"Do you think they…feel it?\""
   :card-id "archived-memories"
+  :flavor "\"Do you think they…feel it?\""
   :illustrator "Gong Studios"
   :position 58
   :quantity 2}
  {:code "01059"
-  :flavor "\"Why of course, we have six different Haas-Bioroid models serving in a variety of positions at this branch office alone. We here at Haas-Bioroid aren't going to shy away from practicing what we preach, and we pass the savings from increased efficiency on to our valued customers.\""
   :card-id "biotic-labor"
+  :flavor "\"Why of course, we have six different Haas-Bioroid models serving in a variety of positions at this branch office alone. We here at Haas-Bioroid aren't going to shy away from practicing what we preach, and we pass the savings from increased efficiency on to our valued customers.\""
   :illustrator "Mark Anthony Taduran"
   :position 59
   :quantity 3}
  {:code "01060"
-  :flavor "The new heads were in. Their eyes always followed your movements when you unlocked the pressurized container and lifted the lid."
   :card-id "shipment-from-mirrormorph"
+  :flavor "The new heads were in. Their eyes always followed your movements when you unlocked the pressurized container and lifted the lid."
   :illustrator "Matt Zeilinger"
   :position 60
   :quantity 2}
  {:code "01061"
-  :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."
   :card-id "heimdall-1-0"
+  :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."
   :illustrator "Gong Studios"
   :position 61
   :quantity 2}
  {:code "01062"
-  :flavor "My reputation would precede me, if any could speak of it."
   :card-id "ichi-1-0"
+  :flavor "My reputation would precede me, if any could speak of it."
   :illustrator "Gong Studios"
   :position 62
   :quantity 3}
  {:code "01063"
-  :flavor "My name is Viktor. Nice to meet you. Would you like to play a game?"
   :card-id "viktor-1-0"
+  :flavor "My name is Viktor. Nice to meet you. Would you like to play a game?"
   :illustrator "Anna Ignatieva"
   :position 63
   :quantity 2}
  {:code "01064"
-  :flavor "Whrrrrr!"
   :card-id "rototurret"
+  :flavor "Whrrrrr!"
   :illustrator "Ed Mattinian"
   :position 64
   :quantity 2}
  {:code "01065"
-  :flavor "\"I solve problems.\""
   :card-id "corporate-troubleshooter"
+  :flavor "\"I solve problems.\""
   :illustrator "Ed Mattinian"
   :position 65
   :quantity 1}
  {:code "01066"
-  :flavor "Floyd felt the anger in the man before him, ranting against simulants. His programming pushed a routine rebuttal to the front of his thoughts, and the urge to speak it was overwhelming. This is only gong to make things worse, he thought."
   :card-id "experiential-data"
+  :flavor "Floyd felt the anger in the man before him, ranting against simulants. His programming pushed a routine rebuttal to the front of his thoughts, and the urge to speak it was overwhelming. This is only gong to make things worse, he thought."
   :illustrator "Mauricio Herrera"
   :position 66
   :quantity 2}
  {:code "01067"
-  :flavor "When You Need the Human Touch."
   :card-id "jinteki-personal-evolution"
+  :flavor "When You Need the Human Touch."
   :position 67
   :quantity 1}
  {:code "01068"
@@ -406,56 +406,56 @@
   :position 71
   :quantity 1}
  {:code "01072"
-  :flavor "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at."
   :card-id "neural-emp"
+  :flavor "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at."
   :illustrator "Christina Davis"
   :position 72
   :quantity 2}
  {:code "01073"
-  :flavor "There was a new texture in her phantom cortex. It had always been there, she realized. It was everything and nothing."
   :card-id "precognition"
+  :flavor "There was a new texture in her phantom cortex. It had always been there, she realized. It was everything and nothing."
   :illustrator "Alexandra Douglass"
   :position 73
   :quantity 2}
  {:code "01074"
-  :flavor "\"Where does it go?\""
   :card-id "cell-portal"
+  :flavor "\"Where does it go?\""
   :illustrator "Adam Schumpert"
   :position 74
   :quantity 2}
  {:code "01075"
-  :flavor "\"You ever get that feeling like you're shark food? Pay attention to that feeling.\" -Ji \"Noise\" Reilly"
   :card-id "chum"
+  :flavor "\"You ever get that feeling like you're shark food? Pay attention to that feeling.\" -Ji \"Noise\" Reilly"
   :illustrator "Ed Mattinian"
   :position 75
   :quantity 2}
  {:code "01076"
-  :flavor "Access HarmlessFile.datZ -> Are you sure? y/n"
   :card-id "data-mine"
+  :flavor "Access HarmlessFile.datZ -> Are you sure? y/n"
   :illustrator "Andrew Mar"
   :position 76
   :quantity 2}
  {:code "01077"
-  :flavor "Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.\n//Samurai included."
   :card-id "neural-katana"
+  :flavor "Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.\n//Samurai included."
   :illustrator "Isuardi Therianto"
   :position 77
   :quantity 3}
  {:code "01078"
-  :flavor "Most runners do their business in full-sim, with their rigs wired directly into their brains. The setup has a large number of advantages, with the runner able to process data and input commands far faster than a traditional meat-bound system. But it also means greater risk."
   :card-id "wall-of-thorns"
+  :flavor "Most runners do their business in full-sim, with their rigs wired directly into their brains. The setup has a large number of advantages, with the runner able to process data and input commands far faster than a traditional meat-bound system. But it also means greater risk."
   :illustrator "Adam S. Doyle"
   :position 78
   :quantity 3}
  {:code "01079"
-  :flavor "Just don't ask how he does it."
   :card-id "akitaro-watanabe"
+  :flavor "Just don't ask how he does it."
   :illustrator "Mike Nesbitt"
   :position 79
   :quantity 1}
  {:code "01080"
-  :flavor "Someone is Always Watching."
   :card-id "nbn-making-news"
+  :flavor "Someone is Always Watching."
   :position 80
   :quantity 1}
  {:code "01081"
@@ -469,8 +469,8 @@
   :position 82
   :quantity 2}
  {:code "01083"
-  :flavor "\"Please stay connected. Priority transfer in progress. An operator will shortly verif-\""
   :card-id "anonymous-tip"
+  :flavor "\"Please stay connected. Priority transfer in progress. An operator will shortly verif-\""
   :illustrator "Mike Nesbitt"
   :position 83
   :quantity 2}
@@ -480,14 +480,14 @@
   :position 84
   :quantity 2}
  {:code "01085"
-  :flavor "Access to the largest consumer database in the galaxy has its advantages."
   :card-id "psychographics"
+  :flavor "Access to the largest consumer database in the galaxy has its advantages."
   :illustrator "Matt Zeilinger"
   :position 85
   :quantity 2}
  {:code "01086"
-  :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
   :card-id "sea-source"
+  :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
   :illustrator "Mauricio Herrera"
   :position 86
   :quantity 2}
@@ -502,14 +502,14 @@
   :position 88
   :quantity 3}
  {:code "01089"
-  :flavor "Analyzing was great. Delegating commands turned out to be even better."
   :card-id "matrix-analyzer"
+  :flavor "Analyzing was great. Delegating commands turned out to be even better."
   :illustrator "Isuardi Therianto"
   :position 89
   :quantity 3}
  {:code "01090"
-  :flavor "\"Ever heard of a catch-22?\"\n\"Remind me to forget it.\""
   :card-id "tollbooth"
+  :flavor "\"Ever heard of a catch-22?\"\n\"Remind me to forget it.\""
   :illustrator "Outland Entertainment LLC"
   :position 90
   :quantity 3}
@@ -519,133 +519,133 @@
   :position 91
   :quantity 2}
  {:code "01092"
-  :flavor "\"I hear the coast is nice this time of year.\"\n\"If you're in the right business, it's nice all the year.\""
   :card-id "sansan-city-grid"
+  :flavor "\"I hear the coast is nice this time of year.\"\n\"If you're in the right business, it's nice all the year.\""
   :illustrator "Ed Mattinian"
   :position 92
   :quantity 1}
  {:code "01093"
-  :flavor "Moving Upwards."
   :card-id "weyland-consortium-building-a-better-world"
+  :flavor "Moving Upwards."
   :position 93
   :quantity 1}
  {:code "01094"
-  :flavor "There are going to be some changes around here."
   :card-id "hostile-takeover"
+  :flavor "There are going to be some changes around here."
   :illustrator "Mauricio Herrera"
   :position 94
   :quantity 3}
  {:code "01095"
-  :flavor "\"If some two-cred newsy picks it up, even better. The scum could be in the alleys of Guayaquil of the slums of BosWash. Not to mention off-planet.\""
   :card-id "posted-bounty"
+  :flavor "\"If some two-cred newsy picks it up, even better. The scum could be in the alleys of Guayaquil of the slums of BosWash. Not to mention off-planet.\""
   :illustrator "Mauricio Herrera"
   :position 95
   :quantity 2}
  {:code "01096"
-  :flavor "\"Feed the Feds our scraps, and they'll come back begging for more.\" -Richard Polasco, VP of Cyber-Security"
   :card-id "security-subcontract"
+  :flavor "\"Feed the Feds our scraps, and they'll come back begging for more.\" -Richard Polasco, VP of Cyber-Security"
   :illustrator "Henning Ludvigsen"
   :position 96
   :quantity 1}
  {:code "01097"
-  :flavor "\"I believe you'll find the terms are quite favorable.\""
   :card-id "aggressive-negotiation"
+  :flavor "\"I believe you'll find the terms are quite favorable.\""
   :illustrator "Kate Niemczyk"
   :position 97
   :quantity 2}
  {:code "01098"
-  :flavor "The New Angeles Space Elevator, better known as the Beanstalk, is the single greatest triumph of human engineering and ingenuity in history. The Beanstalk makes Earth orbit accessible to everyone…for a small fee."
   :card-id "beanstalk-royalties"
+  :flavor "The New Angeles Space Elevator, better known as the Beanstalk, is the single greatest triumph of human engineering and ingenuity in history. The Beanstalk makes Earth orbit accessible to everyone…for a small fee."
   :illustrator "Jonathan Lee"
   :position 98
   :quantity 3}
  {:code "01099"
-  :flavor "\"I'd like to remind the ladies and gentlemen of the press that several of the buildings damaged in the blast were owned by Weyland Consortium subsidiaries…\""
   :card-id "scorched-earth"
+  :flavor "\"I'd like to remind the ladies and gentlemen of the press that several of the buildings damaged in the blast were owned by Weyland Consortium subsidiaries…\""
   :illustrator "Mark Anthony Taduran"
   :position 99
   :quantity 2}
  {:code "01100"
-  :flavor "\"And then there's these two crates. No eID.\"\n\"Just leave those with me and forget you ever saw them.\""
   :card-id "shipment-from-kaguya"
+  :flavor "\"And then there's these two crates. No eID.\"\n\"Just leave those with me and forget you ever saw them.\""
   :illustrator "Andrew Mar"
   :position 100
   :quantity 2}
  {:code "01101"
-  :flavor "Next time, read the Terms of Service more carefully. Or you might find yourself in the danger zone."
   :card-id "archer"
+  :flavor "Next time, read the Terms of Service more carefully. Or you might find yourself in the danger zone."
   :illustrator "Mike Nesbitt"
   :position 101
   :quantity 2}
  {:code "01102"
-  :flavor "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru"
   :card-id "hadrian-s-wall"
+  :flavor "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru"
   :illustrator "Bruno Balixa"
   :position 102
   :quantity 2}
  {:code "01103"
-  :flavor "\"I asked for ice as impenetrable as a wall. I can't decide if someone down in R&D has a warped sense of humor or just a very literal mind.\" -Liz Campbell, VP Project Security"
   :card-id "ice-wall"
+  :flavor "\"I asked for ice as impenetrable as a wall. I can't decide if someone down in R&D has a warped sense of humor or just a very literal mind.\" -Liz Campbell, VP Project Security"
   :illustrator "Matt Zeilinger"
   :position 103
   :quantity 3}
  {:code "01104"
-  :flavor "Who knows what evil lurks in the memory diamonds of men? Weyland knows. -unsigned cyber-graffiti"
   :card-id "shadow"
+  :flavor "Who knows what evil lurks in the memory diamonds of men? Weyland knows. -unsigned cyber-graffiti"
   :illustrator "Adam S. Doyle"
   :position 104
   :quantity 3}
  {:code "01105"
-  :flavor "\"Jack Weyland built the Beanstalk and transformed the human race forever. I can't wait to see what we're going to do next.\""
   :card-id "research-station"
+  :flavor "\"Jack Weyland built the Beanstalk and transformed the human race forever. I can't wait to see what we're going to do next.\""
   :illustrator "Ralph Beisner"
   :position 105
   :quantity 2}
  {:code "01106"
-  :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
   :card-id "priority-requisition"
+  :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
   :illustrator "Gong Studios"
   :position 106
   :quantity 3}
  {:code "01107"
-  :flavor "\"Expensive? Not when you're protecting a fortune as large as ours.\""
   :card-id "private-security-force"
+  :flavor "\"Expensive? Not when you're protecting a fortune as large as ours.\""
   :illustrator "Mauricio Herrera"
   :position 107
   :quantity 3}
  {:code "01108"
-  :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone."
   :card-id "melange-mining-corp"
+  :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone."
   :illustrator "Henning Ludvigsen"
   :position 108
   :quantity 2}
  {:code "01109"
-  :flavor "It is like the one you just bought, only better."
   :card-id "pad-campaign"
+  :flavor "It is like the one you just bought, only better."
   :illustrator "Alexandra Douglass"
   :position 109
   :quantity 3}
  {:code "01110"
-  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
   :card-id "hedge-fund"
+  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
   :illustrator "Gong Studios"
   :position 110
   :quantity 3}
  {:code "01111"
-  :flavor "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
   :card-id "enigma"
+  :flavor "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
   :illustrator "Liiga Smilshkalne"
   :position 111
   :quantity 3}
  {:code "01112"
-  :flavor ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
   :card-id "hunter"
+  :flavor ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
   :illustrator "Christina Davis"
   :position 112
   :quantity 2}
  {:code "01113"
-  :flavor "\"There's nothing worse than seeing that beautiful blue ball of data just out of reach as your connection derezzes. I think they do it just to taunt us.\" -Ele \"Smoke\" Scovak"
   :card-id "wall-of-static"
+  :flavor "\"There's nothing worse than seeing that beautiful blue ball of data just out of reach as your connection derezzes. I think they do it just to taunt us.\" -Ele \"Smoke\" Scovak"
   :illustrator "Adam S. Doyle"
   :position 113
   :quantity 3}]

@@ -1,5 +1,4 @@
 {:base-link 0
- :code "06052"
  :deck-limit 1
  :faction :anarch
  :id "quetzal-free-spirit"

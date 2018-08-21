@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "12092"
  :deck-limit 3
  :faction :jinteki
  :id "mandatory-seed-replacement"

@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 4
- :subtype [:code gate :observer]
+ :subtype [:code-gate :observer]
  :text "[subroutine] Swap 2 other installed pieces of ice or 2 of your installed non-ice cards."
  :title "Metamorph"
  :type :ice

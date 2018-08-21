@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 3
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] Search R&D for a card and add it to HQ. Shuffle R&D."
  :title "Watchtower"
  :type :ice

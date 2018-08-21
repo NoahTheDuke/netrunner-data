@@ -1,5 +1,4 @@
 {:base-link 0
- :code "21081"
  :deck-limit 1
  :faction :anarch
  :id "freedom-khumalo-crypto-anarchist"

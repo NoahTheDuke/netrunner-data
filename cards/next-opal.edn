@@ -6,7 +6,7 @@
  :influence-value 1
  :side :corp
  :strength 3
- :subtype [:code gate :observer :next]
+ :subtype [:code-gate :observer :next]
  :text "NEXT Opal gains \"[subroutine] You may install 1 card from HQ, paying all costs.\" for each rezzed piece of <strong>NEXT</strong> ice.\n<errata>Errata from FAQ 4.1</errata>"
  :title "NEXT Opal"
  :type :ice

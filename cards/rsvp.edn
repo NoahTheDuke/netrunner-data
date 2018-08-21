@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 4
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] The Runner cannot spend any credits for the remainder of this run."
  :title "RSVP"
  :type :ice

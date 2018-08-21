@@ -1,5 +1,4 @@
 {:base-link 2
- :code "09045"
  :deck-limit 1
  :faction :sunny-lebeau
  :id "sunny-lebeau-security-specialist"

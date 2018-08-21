@@ -7,7 +7,7 @@
  :replaced-by "02056"
  :side :corp
  :strength 0
- :subtype [:code gate :advertisement]
+ :subtype [:code-gate :advertisement]
  :text "When the Runner encounters Pop-up Window, you gain 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit]."
  :title "Pop-up Window"
  :type :ice

@@ -1,5 +1,4 @@
 {:base-link 1
- :code "03030"
  :deck-limit 1
  :faction :shaper
  :id "exile-streethawk"

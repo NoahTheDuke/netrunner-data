@@ -6,7 +6,7 @@
  :influence-value 1
  :replaced-by "01084"
  :side :corp
- :subtype [:gray ops]
+ :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nThe Runner loses all credits in his or her credit pool."
  :title "Closed Accounts"
  :type :operation

@@ -6,7 +6,7 @@
  :influence-value 3
  :side :corp
  :strength 6
- :subtype [:code gate :ap]
+ :subtype [:code-gate :ap]
  :text "[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit]."
  :title "DNA Tracker"
  :type :ice

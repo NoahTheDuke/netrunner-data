@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "02120"
  :deck-limit 3
  :faction :neutral-corp
  :id "corporate-war"

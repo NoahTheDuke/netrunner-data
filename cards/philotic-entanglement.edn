@@ -1,6 +1,5 @@
 {:advancement-requirement 3
  :agenda-points 2
- :code "05006"
  :deck-limit 1
  :faction :jinteki
  :id "philotic-entanglement"

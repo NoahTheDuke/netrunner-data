@@ -5,7 +5,7 @@
  :id "market-forces"
  :influence-value 3
  :side :corp
- :subtype [:gray ops]
+ :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nThe Runner loses 3[credit] for each tag he or she has, then you gain 1[credit] for each credit lost."
  :title "Market Forces"
  :type :operation

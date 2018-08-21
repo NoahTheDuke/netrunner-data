@@ -1,5 +1,4 @@
 {:base-link 0
- :code "05030"
  :deck-limit 1
  :faction :criminal
  :id "silhouette-stealth-operative"

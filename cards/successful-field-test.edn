@@ -1,6 +1,5 @@
 {:advancement-requirement 4
  :agenda-points 2
- :code "13031"
  :deck-limit 3
  :faction :haas-bioroid
  :id "successful-field-test"

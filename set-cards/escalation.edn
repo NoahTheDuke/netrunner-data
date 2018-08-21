@@ -5,8 +5,8 @@
   :position 41
   :quantity 3}
  {:code "11042"
-  :flavor "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint"
   :card-id "black-orchestra"
+  :flavor "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_42.png"
   :position 42
@@ -18,57 +18,57 @@
   :position 43
   :quantity 3}
  {:code "11044"
-  :flavor "Khan's avatar lifted her arm and the bird launched itself into the air."
   :card-id "peregrine"
+  :flavor "Khan's avatar lifted her arm and the bird launched itself into the air."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_44.png"
   :position 44
   :quantity 3}
  {:code "11045"
-  :flavor "My brain is the key that sets my mind free."
   :card-id "houdini"
+  :flavor "My brain is the key that sets my mind free."
   :illustrator "Galen Dara"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_45.png"
   :position 45
   :quantity 3}
  {:code "11046"
-  :flavor "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\""
   :card-id "net-mercur"
+  :flavor "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\""
   :illustrator "Kathryn Steele"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_46.png"
   :position 46
   :quantity 3}
  {:code "11047"
-  :flavor "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\""
   :card-id "find-the-truth"
+  :flavor "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\""
   :illustrator "Ethan Patrick Harris"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_47.png"
   :position 47
   :quantity 3}
  {:code "11048"
-  :flavor "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\""
   :card-id "first-responders"
+  :flavor "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\""
   :illustrator "Marko Fiedler"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_48.png"
   :position 48
   :quantity 3}
  {:code "11049"
-  :flavor "In battle, I take half the slain."
   :card-id "fairchild-3-0"
+  :flavor "In battle, I take half the slain."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_49.png"
   :position 49
   :quantity 3}
  {:code "11050"
-  :flavor "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\""
   :card-id "ark-lockdown"
+  :flavor "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\""
   :illustrator "Johan Törnlund"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_50.png"
   :position 50
   :quantity 3}
  {:code "11051"
-  :flavor "\"Wait a minute, I don't even have a cat.\""
   :card-id "hellion-beta-test"
+  :flavor "\"Wait a minute, I don't even have a cat.\""
   :illustrator "VIKO"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_51.png"
   :position 51
@@ -86,21 +86,21 @@
   :position 53
   :quantity 3}
  {:code "11054"
-  :flavor "Your better nature."
   :card-id "jinteki-potential-unleashed"
+  :flavor "Your better nature."
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_54.png"
   :position 54
   :quantity 3}
  {:code "11055"
-  :flavor "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson"
   :card-id "alexa-belsky"
+  :flavor "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson"
   :illustrator "Kate Laird"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_55.png"
   :position 55
   :quantity 3}
  {:code "11056"
-  :flavor "Observing is fun, but it's just the appetizer."
   :card-id "observe-and-destroy"
+  :flavor "Observing is fun, but it's just the appetizer."
   :illustrator "Antonio De Luca"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_56.png"
   :position 56
@@ -112,8 +112,8 @@
   :position 57
   :quantity 3}
  {:code "11058"
-  :flavor "Game over."
   :card-id "boom"
+  :flavor "Game over."
   :illustrator "JuanManuel Tumburus"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_58.png"
   :position 58
@@ -125,8 +125,8 @@
   :position 59
   :quantity 3}
  {:code "11060"
-  :flavor "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible."
   :card-id "scarcity-of-resources"
+  :flavor "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible."
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_60.png"
   :position 60

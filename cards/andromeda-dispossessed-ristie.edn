@@ -1,5 +1,4 @@
 {:base-link 1
- :code "02083"
  :deck-limit 1
  :faction :criminal
  :id "andromeda-dispossessed-ristie"

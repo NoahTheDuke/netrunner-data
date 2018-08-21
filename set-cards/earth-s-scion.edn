@@ -11,8 +11,8 @@
   :position 42
   :quantity 3}
  {:code "12043"
-  :flavor "\"Even I don't know how or why this one works. I just copied the schematics from a burst broadcast from someplace north of Paxton's Node, where nothing is supposed to be.\" -Los"
   :card-id "rubicon-switch"
+  :flavor "\"Even I don't know how or why this one works. I just copied the schematics from a burst broadcast from someplace north of Paxton's Node, where nothing is supposed to be.\" -Los"
   :illustrator "Kathryn Steele"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_43.png"
   :position 43
@@ -30,15 +30,15 @@
   :position 45
   :quantity 3}
  {:code "12046"
-  :flavor "\"Who said you can't teach an old breaker new tricks?\" -g00ru"
   :card-id "adjusted-matrix"
+  :flavor "\"Who said you can't teach an old breaker new tricks?\" -g00ru"
   :illustrator "Kathryn Steele"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_46.png"
   :position 46
   :quantity 3}
  {:code "12047"
-  :flavor "Better, Faster, Stronger"
   :card-id "dedicated-processor"
+  :flavor "Better, Faster, Stronger"
   :illustrator "Jason Juta"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_47.png"
   :position 47
@@ -50,22 +50,22 @@
   :position 48
   :quantity 3}
  {:code "12049"
-  :flavor "\"You want untraceable funds? I'll lend, as long as you have the ability to pay me back.\""
   :card-id "dadiana-chacon"
+  :flavor "\"You want untraceable funds? I'll lend, as long as you have the ability to pay me back.\""
   :illustrator "Micah Epstein"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_49.png"
   :position 49
   :quantity 3}
  {:code "12050"
-  :flavor "\"I passed through the opalescent curtain only to find a suddenly empty server...\""
   :card-id "next-opal"
+  :flavor "\"I passed through the opalescent curtain only to find a suddenly empty server...\""
   :illustrator "Michał Miłkowski"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_50.png"
   :position 50
   :quantity 3}
  {:code "12051"
-  :flavor "\"They don't need sleep, breaks, overtime, or even O₂. How can we compete with that!?\""
   :card-id "bioroid-work-crew"
+  :flavor "\"They don't need sleep, breaks, overtime, or even O₂. How can we compete with that!?\""
   :illustrator "Monztre"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_51.png"
   :position 51
@@ -88,22 +88,22 @@
   :position 54
   :quantity 3}
  {:code "12055"
-  :flavor "\"I'm sure there is no way this could go wrong for you.\" -Henry Phillips"
   :card-id "authenticator"
+  :flavor "\"I'm sure there is no way this could go wrong for you.\" -Henry Phillips"
   :illustrator "Mariusz Siergiejew"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_55.png"
   :position 55
   :quantity 3}
  {:code "12056"
-  :flavor "\"Toying with them is where the job satisfaction comes in\"."
   :card-id "henry-phillips"
+  :flavor "\"Toying with them is where the job satisfaction comes in\"."
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_56.png"
   :position 56
   :quantity 3}
  {:code "12057"
-  :flavor "\"Our job is to stop incursions. Let Argus get cute with them.\" -Moishe Saban"
   :card-id "battlement"
+  :flavor "\"Our job is to stop incursions. Let Argus get cute with them.\" -Moishe Saban"
   :illustrator "Mark Molnar"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_57.png"
   :position 57
@@ -121,8 +121,8 @@
   :position 59
   :quantity 3}
  {:code "12060"
-  :flavor "\"It's eyes just keep following you.\""
   :card-id "owl"
+  :flavor "\"It's eyes just keep following you.\""
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN45_60.png"
   :position 60

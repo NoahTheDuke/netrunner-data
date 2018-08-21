@@ -1,54 +1,54 @@
 [{:code "04061"
-  :flavor "The instructions claim that it sifts the most important data. 'Important', it has been found, is a highly relative term."
   :card-id "keyhole"
+  :flavor "The instructions claim that it sifts the most important data. 'Important', it has been found, is a highly relative term."
   :illustrator "Agri Karuniawan"
   :position 61
   :quantity 3}
  {:code "04062"
-  :flavor "\"They call me a terrorist to scare people. If they want to find terrorists, maybe they should start by looking in the mirror.\" -Reina Roja"
   :card-id "activist-support"
+  :flavor "\"They call me a terrorist to scare people. If they want to find terrorists, maybe they should start by looking in the mirror.\" -Reina Roja"
   :illustrator "Adam Schumpert"
   :position 62
   :quantity 3}
  {:code "04063"
-  :flavor "Pros don't need to call their lawyer. Pros have their secretary rigged to do it for them if they ever go off-grid."
   :card-id "lawyer-up"
+  :flavor "Pros don't need to call their lawyer. Pros have their secretary rigged to do it for them if they ever go off-grid."
   :illustrator "Matt Zeilinger"
   :position 63
   :quantity 3}
  {:code "04064"
-  :flavor "\"Care to have a look?\""
   :card-id "leverage"
+  :flavor "\"Care to have a look?\""
   :illustrator "Gong Studios"
   :position 64
   :quantity 3}
  {:code "04065"
-  :flavor "The first credited icebreaker was nothing more than a unique script to bypass the security calls on a Gibson 3 Data Sentry. Garrote has over 20,000 times the data as that first breaker, but the idea remains the same: cut off the power source from the network, and then smash on through."
   :card-id "garrote"
+  :flavor "The first credited icebreaker was nothing more than a unique script to bypass the security calls on a Gibson 3 Data Sentry. Garrote has over 20,000 times the data as that first breaker, but the idea remains the same: cut off the power source from the network, and then smash on through."
   :illustrator "Zefanya Langkan Maega"
   :position 65
   :quantity 3}
  {:code "04066"
-  :flavor "LLDS Unlimited was born the day two designers answered the question \"Why doesn't anyone make Diesel for computers?\""
   :card-id "llds-processor"
+  :flavor "LLDS Unlimited was born the day two designers answered the question \"Why doesn't anyone make Diesel for computers?\""
   :illustrator "Gong Studios"
   :position 66
   :quantity 3}
  {:code "04067"
-  :flavor "\"One-shot icebreakers are popular among many of my protégés. They don't have the patience for the hunt.\" -The Professor"
   :card-id "sharpshooter"
+  :flavor "\"One-shot icebreakers are popular among many of my protégés. They don't have the patience for the hunt.\" -The Professor"
   :illustrator "Ed Mattinian"
   :position 67
   :quantity 3}
  {:code "04068"
-  :flavor "\"Once you have achieved perfection, what's next?\" -The Professor"
   :card-id "capstone"
+  :flavor "\"Once you have achieved perfection, what's next?\" -The Professor"
   :illustrator "Jason Rumpff"
   :position 68
   :quantity 3}
  {:code "04069"
-  :flavor "\"I like to say 'Traditional values for a modern time.' War in space and life made by human hands, machines smart enough to ask if they have souls…Religion is as important and relevent now as at any time in human history. We must rise to meet the new challenges. And we must have faith.\""
   :card-id "starlight-crusade-funding"
+  :flavor "\"I like to say 'Traditional values for a modern time.' War in space and life made by human hands, machines smart enough to ask if they have souls…Religion is as important and relevent now as at any time in human history. We must rise to meet the new challenges. And we must have faith.\""
   :illustrator "Nate Stefan"
   :position 69
   :quantity 3}
@@ -58,14 +58,14 @@
   :position 70
   :quantity 3}
  {:code "04071"
-  :flavor "As reported cases of brain damage in veterans rise, mind/machine interface devices are subject to increased public scrutiny. That certain programs can cause irreparable harm to users has gone from fringe theory to accepted truth."
   :card-id "fenris"
+  :flavor "As reported cases of brain damage in veterans rise, mind/machine interface devices are subject to increased public scrutiny. That certain programs can cause irreparable harm to users has gone from fringe theory to accepted truth."
   :illustrator "Liiga Smilshkalne"
   :position 71
   :quantity 3}
  {:code "04072"
-  :flavor "The button didn't seem to do anything. So he pushed it again. And again. And again."
   :card-id "panic-button"
+  :flavor "The button didn't seem to do anything. So he pushed it again. And again. And again."
   :illustrator "Gong Studios"
   :position 72
   :quantity 3}
@@ -75,20 +75,20 @@
   :position 73
   :quantity 3}
  {:code "04074"
-  :flavor "\"It's ice so dangerous it has safety protocols. Think about that.\" -g00ru"
   :card-id "tsurugi"
+  :flavor "\"It's ice so dangerous it has safety protocols. Think about that.\" -g00ru"
   :illustrator "Adam S. Doyle"
   :position 74
   :quantity 3}
  {:code "04075"
-  :flavor "\"The damn raven just kind of cawed at me as I went past. I should have known it was too good to be true.\""
   :card-id "tgtbt"
+  :flavor "\"The damn raven just kind of cawed at me as I went past. I should have known it was too good to be true.\""
   :illustrator "Adam S. Doyle"
   :position 75
   :quantity 3}
  {:code "04076"
-  :flavor "\"Let me get this straight. Your target market is 15-19 year old g-modded immigrants with one parent, a discretionary income over 2k a month, B+ or higher grades, an outgoing personality, and have a friend who owns a g-monkey?\"\n\"Yes. Is that a problem?\"\n\"No, not at all. I just don't get why your list is so short.\""
   :card-id "sweeps-week"
+  :flavor "\"Let me get this straight. Your target market is 15-19 year old g-modded immigrants with one parent, a discretionary income over 2k a month, B+ or higher grades, an outgoing personality, and have a friend who owns a g-monkey?\"\n\"Yes. Is that a problem?\"\n\"No, not at all. I just don't get why your list is so short.\""
   :illustrator "Mike Nesbitt"
   :position 76
   :quantity 3}
@@ -100,20 +100,20 @@
   :position 77
   :quantity 3}
  {:code "04078"
-  :flavor "[subroutine] End the game.\nJust kidding."
   :card-id "curtain-wall"
+  :flavor "[subroutine] End the game.\nJust kidding."
   :illustrator "Adam S. Doyle"
   :position 78
   :quantity 3}
  {:code "04079"
-  :flavor "\"I'd say it's nothing personal, but corporations are people, too.\""
   :card-id "punitive-counterstrike"
+  :flavor "\"I'd say it's nothing personal, but corporations are people, too.\""
   :illustrator "Lorraine Schleter"
   :position 79
   :quantity 3}
  {:code "04080"
-  :flavor "It's easy to replace limbs. It's more difficult to replace memories."
   :card-id "veterans-program"
+  :flavor "It's easy to replace limbs. It's more difficult to replace memories."
   :illustrator "Gong Studios"
   :position 80
   :quantity 3}]

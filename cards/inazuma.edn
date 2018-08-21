@@ -6,7 +6,7 @@
  :influence-value 2
  :side :corp
  :strength 5
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "[subroutine] The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.\n[subroutine] The Runner cannot jack out until after encountering the next piece of ice during this run."
  :title "Inazuma"
  :type :ice

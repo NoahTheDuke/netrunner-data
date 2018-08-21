@@ -6,7 +6,7 @@
  :influence-value 5
  :side :corp
  :strength 5
- :subtype [:code gate]
+ :subtype [:code-gate]
  :text "When the Runner encounters Oduduwa, place 1 advancement token on it. You may place X advancement tokens on another piece of ice. X is the number of advancement tokens on Oduduwa.\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Oduduwa"
  :type :ice

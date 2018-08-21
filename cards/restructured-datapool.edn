@@ -1,6 +1,5 @@
 {:advancement-requirement 5
  :agenda-points 3
- :code "02016"
  :deck-limit 3
  :faction :nbn
  :id "restructured-datapool"
