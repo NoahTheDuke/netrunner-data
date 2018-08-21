@@ -1,5 +1,4 @@
-{:code "04030"
- :cost 14
+{:cost 14
  :deck-limit 3
  :faction :haas-bioroid
  :id "wotan"

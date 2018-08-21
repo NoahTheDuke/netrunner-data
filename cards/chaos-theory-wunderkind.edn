@@ -4,7 +4,6 @@
  :id "chaos-theory-wunderkind"
  :influence-limit 15
  :minimum-deck-size 40
- :replaced-by "20037"
  :side :runner
  :subtype [:g-mod]
  :text "+1[mu]"

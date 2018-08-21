@@ -1,5 +1,4 @@
-{:code "12015"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :nbn
  :id "sync-bre"

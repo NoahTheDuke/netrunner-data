@@ -1,5 +1,4 @@
-{:code "21096"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :jinteki
  :id "mwanza-city-grid"

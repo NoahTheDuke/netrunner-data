@@ -1,5 +1,4 @@
-{:code "13034"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :haas-bioroid
  :id "eli-2-0"

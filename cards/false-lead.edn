@@ -4,7 +4,6 @@
  :faction :neutral-corp
  :id "false-lead"
  :influence-value 0
- :replaced-by "20124"
  :side :corp
  :subtype [:security]
  :text "<strong>Forfeit False Lead:</strong> The Runner loses [click][click], if able."

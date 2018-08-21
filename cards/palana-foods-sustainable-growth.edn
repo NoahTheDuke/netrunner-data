@@ -1,5 +1,4 @@
-{:code "10030"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "palana-foods-sustainable-growth"
  :influence-limit 15

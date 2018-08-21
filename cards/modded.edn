@@ -1,10 +1,8 @@
-{:code "01035"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :shaper
  :id "modded"
  :influence-value 2
- :replaced-by "20040"
  :side :runner
  :subtype [:mod]
  :text "Install a program or piece of hardware, lowering the install cost by 3."

@@ -1,5 +1,4 @@
-{:code "04111"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :haas-bioroid
  :id "reclamation-order"

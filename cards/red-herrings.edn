@@ -1,10 +1,8 @@
-{:code "20122"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :nbn
  :id "red-herrings"
  :influence-value 2
- :replaced-by "01091"
  :side :corp
  :subtype []
  :text "Each time the Runner accesses an agenda from this server, he or she must pay 5[credit] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Red Herrings."

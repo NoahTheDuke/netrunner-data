@@ -1,10 +1,8 @@
-{:code "02010"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "haas-bioroid-stronger-together"
  :influence-limit 15
  :minimum-deck-size 45
- :replaced-by "20061"
  :side :corp
  :subtype [:megacorp]
  :text "All <strong>bioroid</strong> ice has +1 strength."

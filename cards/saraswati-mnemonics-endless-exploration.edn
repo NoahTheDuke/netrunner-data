@@ -1,5 +1,4 @@
-{:code "22034"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "saraswati-mnemonics-endless-exploration"
  :influence-limit 15

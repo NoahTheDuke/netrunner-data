@@ -1,10 +1,8 @@
-{:code "01080"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "nbn-making-news"
  :influence-limit 15
  :minimum-deck-size 45
- :replaced-by "20109"
  :side :corp
  :subtype [:megacorp]
  :text "2[recurring-credit]\nUse these credits during trace attempts."

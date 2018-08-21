@@ -1,5 +1,4 @@
-{:code "09047"
- :cost 8
+{:cost 8
  :deck-limit 3
  :faction :sunny-lebeau
  :id "security-nexus"

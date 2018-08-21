@@ -1,11 +1,9 @@
-{:code "01011"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :anarch
  :id "mimic"
  :influence-value 1
  :memory-cost 1
- :replaced-by "20013"
  :side :runner
  :strength 3
  :subtype [:icebreaker :killer]

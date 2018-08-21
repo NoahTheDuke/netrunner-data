@@ -1,5 +1,4 @@
-{:code "02096"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :nbn
  :id "data-hound"

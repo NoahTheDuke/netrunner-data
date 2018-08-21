@@ -1,5 +1,4 @@
-{:code "12096"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :nbn
  :id "biased-reporting"

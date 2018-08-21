@@ -1,5 +1,4 @@
-{:code "07035"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :anarch
  :id "wanton-destruction"

@@ -1,10 +1,8 @@
-{:code "01063"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :haas-bioroid
  :id "viktor-1-0"
  :influence-value 2
- :replaced-by "20070"
  :side :corp
  :strength 3
  :subtype [:code-gate :bioroid :ap]

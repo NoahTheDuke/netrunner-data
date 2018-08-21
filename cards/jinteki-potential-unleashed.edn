@@ -1,5 +1,4 @@
-{:code "11054"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "jinteki-potential-unleashed"
  :influence-limit 12

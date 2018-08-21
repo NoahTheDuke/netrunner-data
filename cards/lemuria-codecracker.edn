@@ -1,5 +1,4 @@
-{:code "01023"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :criminal
  :id "lemuria-codecracker"

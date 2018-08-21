@@ -1,5 +1,4 @@
-{:code "00005"
- :deck-limit 1
+{:deck-limit 1
  :faction :neutral-corp
  :id "the-shadow-pulling-the-strings"
  :influence-limit nil

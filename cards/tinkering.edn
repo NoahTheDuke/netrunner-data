@@ -1,10 +1,8 @@
-{:code "01037"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :shaper
  :id "tinkering"
  :influence-value 4
- :replaced-by "20044"
  :side :runner
  :subtype [:mod]
  :text "Choose a piece of ice. That ice gains <strong>sentry</strong>, <strong>code gate</strong>, and <strong>barrier</strong> until the end of the turn."

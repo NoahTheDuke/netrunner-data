@@ -1,5 +1,4 @@
-{:code "01079"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :jinteki
  :id "akitaro-watanabe"

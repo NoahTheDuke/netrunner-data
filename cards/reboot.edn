@@ -1,5 +1,4 @@
-{:code "22023"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :apex
  :id "reboot"

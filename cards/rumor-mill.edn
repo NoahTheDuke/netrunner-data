@@ -1,5 +1,4 @@
-{:code "11022"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :anarch
  :id "rumor-mill"

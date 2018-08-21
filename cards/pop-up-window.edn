@@ -1,10 +1,8 @@
-{:code "20115"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "pop-up-window"
  :influence-value 1
- :replaced-by "02056"
  :side :corp
  :strength 0
  :subtype [:code-gate :advertisement]

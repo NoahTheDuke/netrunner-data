@@ -1,5 +1,4 @@
-{:code "04005"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :criminal
  :id "gorman-drip-v1"

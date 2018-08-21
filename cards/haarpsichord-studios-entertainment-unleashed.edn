@@ -1,5 +1,4 @@
-{:code "08092"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "haarpsichord-studios-entertainment-unleashed"
  :influence-limit 15

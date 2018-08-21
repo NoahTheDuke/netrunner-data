@@ -1,5 +1,4 @@
-{:code "12103"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :anarch
  :id "salvaged-vanadis-armory"

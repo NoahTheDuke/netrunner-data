@@ -1,5 +1,4 @@
-{:code "10064"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :neutral-runner
  :id "sports-hopper"

@@ -1,5 +1,4 @@
-{:code "07042"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :anarch
  :id "hivemind"

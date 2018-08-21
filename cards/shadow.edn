@@ -1,10 +1,8 @@
-{:code "01104"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :weyland-consortium
  :id "shadow"
  :influence-value 1
- :replaced-by "20089"
  :side :corp
  :strength 1
  :subtype [:sentry :tracer]

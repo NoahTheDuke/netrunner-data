@@ -1,5 +1,4 @@
-{:code "11011"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :haas-bioroid
  :id "sherlock-2-0"

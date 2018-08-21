@@ -1,5 +1,4 @@
-{:code "21048"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :sunny-lebeau
  :id "white-hat"

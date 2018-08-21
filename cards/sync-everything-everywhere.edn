@@ -1,5 +1,4 @@
-{:code "09001"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "sync-everything-everywhere"
  :influence-limit 15

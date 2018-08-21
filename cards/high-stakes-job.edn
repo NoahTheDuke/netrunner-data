@@ -1,5 +1,4 @@
-{:code "10004"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :criminal
  :id "high-stakes-job"

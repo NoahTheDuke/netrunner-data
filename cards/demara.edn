@@ -1,5 +1,4 @@
-{:code "13008"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :criminal
  :id "demara"

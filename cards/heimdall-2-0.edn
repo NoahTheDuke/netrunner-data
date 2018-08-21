@@ -1,5 +1,4 @@
-{:code "03015"
- :cost 11
+{:cost 11
  :deck-limit 3
  :faction :haas-bioroid
  :id "heimdall-2-0"

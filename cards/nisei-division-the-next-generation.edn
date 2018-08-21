@@ -1,5 +1,4 @@
-{:code "05002"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "nisei-division-the-next-generation"
  :influence-limit 15

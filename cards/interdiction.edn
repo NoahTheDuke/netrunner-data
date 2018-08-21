@@ -1,5 +1,4 @@
-{:code "11087"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-runner
  :id "interdiction"

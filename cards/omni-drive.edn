@@ -1,5 +1,4 @@
-{:code "03039"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :shaper
  :id "omni-drive"

@@ -1,5 +1,4 @@
-{:code "06059"
- :cost 7
+{:cost 7
  :deck-limit 1
  :faction :neutral-runner
  :id "hades-shard"

@@ -1,5 +1,4 @@
-{:code "11017"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "nbn-controlling-the-message"
  :influence-limit 12

@@ -1,5 +1,4 @@
-{:code "02088"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :shaper
  :id "replicator"

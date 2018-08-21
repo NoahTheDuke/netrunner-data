@@ -1,5 +1,4 @@
-{:code "04085"
- :cost 11
+{:cost 11
  :deck-limit 3
  :faction :criminal
  :id "blackguard"

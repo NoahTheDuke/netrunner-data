@@ -1,5 +1,4 @@
-{:code "03001"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "cerebral-imaging-infinite-frontiers"
  :influence-limit 15

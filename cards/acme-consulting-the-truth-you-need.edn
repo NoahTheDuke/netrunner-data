@@ -1,5 +1,4 @@
-{:code "22042"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "acme-consulting-the-truth-you-need"
  :influence-limit 15

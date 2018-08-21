@@ -1,10 +1,8 @@
-{:code "20116"
- :cost 8
+{:cost 8
  :deck-limit 3
  :faction :nbn
  :id "tollbooth"
  :influence-value 2
- :replaced-by "01090"
  :side :corp
  :strength 5
  :subtype [:code-gate]

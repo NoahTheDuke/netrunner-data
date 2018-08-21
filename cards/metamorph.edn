@@ -1,5 +1,4 @@
-{:code "12094"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :jinteki
  :id "metamorph"

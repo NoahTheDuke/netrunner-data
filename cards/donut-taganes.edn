@@ -1,5 +1,4 @@
-{:code "05055"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :neutral-runner
  :id "donut-taganes"

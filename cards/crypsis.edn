@@ -1,11 +1,9 @@
-{:code "20058"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :neutral-runner
  :id "crypsis"
  :influence-value 0
  :memory-cost 1
- :replaced-by "01051"
  :side :runner
  :strength 0
  :subtype [:icebreaker :ai :virus]

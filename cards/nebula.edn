@@ -1,5 +1,4 @@
-{:code "07014"
- :cost 9
+{:cost 9
  :deck-limit 3
  :faction :weyland-consortium
  :id "nebula"

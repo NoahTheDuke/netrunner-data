@@ -1,5 +1,4 @@
-{:code "12104"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :criminal
  :id "aumakua"

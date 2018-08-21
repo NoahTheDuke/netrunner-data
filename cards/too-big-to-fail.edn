@@ -1,5 +1,4 @@
-{:code "22056"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :weyland-consortium
  :id "too-big-to-fail"

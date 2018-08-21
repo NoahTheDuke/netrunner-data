@@ -1,10 +1,8 @@
-{:code "01058"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :haas-bioroid
  :id "archived-memories"
  :influence-value 2
- :replaced-by "20071"
  :side :corp
  :subtype []
  :text "Add 1 card from Archives to HQ."

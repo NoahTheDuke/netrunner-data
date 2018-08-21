@@ -1,5 +1,4 @@
-{:code "11025"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :criminal
  :id "golden"

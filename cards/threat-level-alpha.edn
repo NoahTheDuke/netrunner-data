@@ -1,5 +1,4 @@
-{:code "12117"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :nbn
  :id "threat-level-alpha"

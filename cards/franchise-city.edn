@@ -1,5 +1,4 @@
-{:code "08114"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :nbn
  :id "franchise-city"

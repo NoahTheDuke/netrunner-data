@@ -1,5 +1,4 @@
-{:code "09035"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :apex
  :id "hunting-grounds"

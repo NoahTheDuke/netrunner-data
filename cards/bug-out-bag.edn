@@ -1,5 +1,4 @@
-{:code "12064"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "bug-out-bag"

@@ -1,5 +1,4 @@
-{:code "21114"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "mti-mwekundu-life-improved"
  :influence-limit 15

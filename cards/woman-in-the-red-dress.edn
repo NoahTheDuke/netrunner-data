@@ -1,5 +1,4 @@
-{:code "04048"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :shaper
  :id "woman-in-the-red-dress"

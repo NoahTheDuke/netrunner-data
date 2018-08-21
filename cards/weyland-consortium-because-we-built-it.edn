@@ -1,5 +1,4 @@
-{:code "02076"
- :deck-limit 1
+{:deck-limit 1
  :faction :weyland-consortium
  :id "weyland-consortium-because-we-built-it"
  :influence-limit 15

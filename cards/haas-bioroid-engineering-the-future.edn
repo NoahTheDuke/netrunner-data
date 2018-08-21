@@ -1,5 +1,4 @@
-{:code "01054"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "haas-bioroid-engineering-the-future"
  :influence-limit 15

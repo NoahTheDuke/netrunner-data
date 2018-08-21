@@ -1,5 +1,4 @@
-{:code "11014"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :jinteki
  :id "georgia-emelyov"

@@ -1,5 +1,4 @@
-{:code "21098"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "intake"

@@ -1,11 +1,9 @@
-{:code "01044"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :shaper
  :id "magnum-opus"
  :influence-value 2
  :memory-cost 2
- :replaced-by "20050"
  :side :runner
  :subtype []
  :text "[click]: Gain 2[credit]."

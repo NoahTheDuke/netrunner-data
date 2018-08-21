@@ -1,5 +1,4 @@
-{:code "01041"
- :cost 9
+{:cost 9
  :deck-limit 3
  :faction :shaper
  :id "the-toolbox"

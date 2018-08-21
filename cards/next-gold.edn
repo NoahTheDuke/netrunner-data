@@ -1,5 +1,4 @@
-{:code "08011"
- :cost 8
+{:cost 8
  :deck-limit 3
  :faction :haas-bioroid
  :id "next-gold"

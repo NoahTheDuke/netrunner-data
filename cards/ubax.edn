@@ -1,5 +1,4 @@
-{:code "13016"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :shaper
  :id "ubax"

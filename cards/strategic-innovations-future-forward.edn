@@ -1,5 +1,4 @@
-{:code "00010"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "strategic-innovations-future-forward"
  :influence-limit nil

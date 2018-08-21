@@ -1,5 +1,4 @@
-{:code "05014"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :jinteki
  :id "medical-research-fundraiser"

@@ -1,5 +1,4 @@
-{:code "07012"
- :cost 9
+{:cost 9
  :deck-limit 3
  :faction :weyland-consortium
  :id "asteroid-belt"

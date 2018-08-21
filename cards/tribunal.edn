@@ -1,5 +1,4 @@
-{:code "11120"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :neutral-corp
  :id "tribunal"

@@ -1,5 +1,4 @@
-{:code "05031"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "calling-in-favors"

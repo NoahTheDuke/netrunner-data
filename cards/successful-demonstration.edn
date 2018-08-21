@@ -1,5 +1,4 @@
-{:code "03014"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :haas-bioroid
  :id "successful-demonstration"

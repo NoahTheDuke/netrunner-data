@@ -1,5 +1,4 @@
-{:code "13050"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :weyland-consortium
  :id "hortum"

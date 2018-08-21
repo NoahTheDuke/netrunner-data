@@ -1,5 +1,4 @@
-{:code "09011"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :nbn
  :id "victoria-jenkins"

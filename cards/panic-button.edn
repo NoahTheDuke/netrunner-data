@@ -1,5 +1,4 @@
-{:code "04072"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :haas-bioroid
  :id "panic-button"

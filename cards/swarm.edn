@@ -1,5 +1,4 @@
-{:code "04018"
- :cost 8
+{:cost 8
  :deck-limit 3
  :faction :weyland-consortium
  :id "swarm"

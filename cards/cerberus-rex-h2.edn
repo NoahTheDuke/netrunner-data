@@ -1,5 +1,4 @@
-{:code "06096"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :criminal
  :id "cerberus-rex-h2"

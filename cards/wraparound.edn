@@ -1,10 +1,8 @@
-{:code "20117"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :nbn
  :id "wraparound"
  :influence-value 1
- :replaced-by "04096"
  :side :corp
  :strength 0
  :subtype [:barrier]

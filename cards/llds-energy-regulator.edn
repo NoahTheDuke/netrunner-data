@@ -1,5 +1,4 @@
-{:code "06039"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :shaper
  :id "llds-energy-regulator"

@@ -1,5 +1,4 @@
-{:code "09027"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-corp
  :id "launch-campaign"

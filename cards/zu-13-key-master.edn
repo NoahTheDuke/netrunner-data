@@ -1,5 +1,4 @@
-{:code "02007"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :shaper
  :id "zu-13-key-master"

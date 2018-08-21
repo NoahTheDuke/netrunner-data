@@ -1,10 +1,8 @@
-{:code "20052"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :shaper
  :id "aesop-s-pawnshop"
  :influence-value 2
- :replaced-by "01047"
  :side :runner
  :subtype [:location :connection]
  :text "When your turn begins, you may trash another of your installed cards to gain 3[credit]."

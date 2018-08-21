@@ -1,5 +1,4 @@
-{:code "06045"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "the-news-now-hour"

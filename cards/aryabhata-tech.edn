@@ -1,5 +1,4 @@
-{:code "10070"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :nbn
  :id "aryabhata-tech"

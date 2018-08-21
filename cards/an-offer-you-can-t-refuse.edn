@@ -1,5 +1,4 @@
-{:code "08091"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :jinteki
  :id "an-offer-you-can-t-refuse"

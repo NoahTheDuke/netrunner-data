@@ -1,5 +1,4 @@
-{:code "12010"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :haas-bioroid
  :id "zed-2-0"

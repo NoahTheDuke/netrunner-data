@@ -1,10 +1,8 @@
-{:code "20120"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "psychographics"
  :influence-value 3
- :replaced-by "01085"
  :side :corp
  :subtype []
  :text "X is equal to or less than the number of tags the Runner has.\nPlace X advancement tokens on a card that can be advanced."

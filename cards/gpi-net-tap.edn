@@ -1,5 +1,4 @@
-{:code "11003"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :criminal
  :id "gpi-net-tap"

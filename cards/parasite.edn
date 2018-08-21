@@ -1,5 +1,4 @@
-{:code "01012"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :anarch
  :id "parasite"

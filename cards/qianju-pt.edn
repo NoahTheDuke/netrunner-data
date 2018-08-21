@@ -1,5 +1,4 @@
-{:code "07054"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :neutral-runner
  :id "qianju-pt"

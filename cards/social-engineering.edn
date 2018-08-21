@@ -1,5 +1,4 @@
-{:code "06018"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :shaper
  :id "social-engineering"

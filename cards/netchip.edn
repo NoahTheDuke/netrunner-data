@@ -1,5 +1,4 @@
-{:code "10024"
- :cost 1
+{:cost 1
  :deck-limit 6
  :faction :shaper
  :id "netchip"

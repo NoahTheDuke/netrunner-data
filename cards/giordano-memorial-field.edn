@@ -1,5 +1,4 @@
-{:code "22033"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :haas-bioroid
  :id "giordano-memorial-field"

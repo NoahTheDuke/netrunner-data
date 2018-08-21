@@ -1,10 +1,8 @@
-{:code "04013"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :jinteki
  :id "himitsu-bako"
  :influence-value 2
- :replaced-by "20099"
  :side :corp
  :strength 2
  :subtype [:barrier]

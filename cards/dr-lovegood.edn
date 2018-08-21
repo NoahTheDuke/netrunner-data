@@ -1,5 +1,4 @@
-{:code "09042"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :adam
  :id "dr-lovegood"

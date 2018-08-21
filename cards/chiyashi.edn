@@ -1,5 +1,4 @@
-{:code "11112"
- :cost 12
+{:cost 12
  :deck-limit 3
  :faction :jinteki
  :id "chiyashi"

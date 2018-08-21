@@ -1,11 +1,9 @@
-{:code "20031"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :criminal
  :id "pheromones"
  :influence-value 2
  :memory-cost 1
- :replaced-by "02086"
  :side :runner
  :subtype [:virus]
  :text "X[recurring-credit]\nUse these credits during runs on HQ. X is the number of virus counters on Pheromones.\nWhenever you make a successful run on HQ, place 1 virus counter on Pheromones."

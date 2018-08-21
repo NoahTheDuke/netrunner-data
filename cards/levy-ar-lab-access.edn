@@ -1,5 +1,4 @@
-{:code "03035"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :shaper
  :id "levy-ar-lab-access"

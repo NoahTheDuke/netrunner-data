@@ -1,5 +1,4 @@
-{:code "04103"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :anarch
  :id "dyson-fractal-generator"

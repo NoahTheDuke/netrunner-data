@@ -1,5 +1,4 @@
-{:code "09019"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "24-7-news-cycle"

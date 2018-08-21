@@ -1,5 +1,4 @@
-{:code "04088"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :shaper
  :id "omega"

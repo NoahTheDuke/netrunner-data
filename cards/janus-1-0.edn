@@ -1,5 +1,4 @@
-{:code "02012"
- :cost 15
+{:cost 15
  :deck-limit 3
  :faction :haas-bioroid
  :id "janus-1-0"

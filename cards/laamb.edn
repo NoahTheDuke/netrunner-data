@@ -1,5 +1,4 @@
-{:code "21086"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :shaper
  :id "laamb"

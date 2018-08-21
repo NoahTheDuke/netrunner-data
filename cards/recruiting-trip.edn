@@ -1,5 +1,4 @@
-{:code "08035"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :jinteki
  :id "recruiting-trip"

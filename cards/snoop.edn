@@ -1,5 +1,4 @@
-{:code "04056"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :nbn
  :id "snoop"

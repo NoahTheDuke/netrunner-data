@@ -1,5 +1,4 @@
-{:code "10050"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :jinteki
  :id "bio-ethics-association"

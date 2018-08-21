@@ -1,5 +1,4 @@
-{:code "09046"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :sunny-lebeau
  :id "security-chip"

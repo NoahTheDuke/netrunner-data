@@ -1,5 +1,4 @@
-{:code "21009"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "asa-group-security-through-vigilance"
  :influence-limit 15

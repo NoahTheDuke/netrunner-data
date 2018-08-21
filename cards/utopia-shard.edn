@@ -1,5 +1,4 @@
-{:code "06100"
- :cost 7
+{:cost 7
  :deck-limit 1
  :faction :neutral-runner
  :id "utopia-shard"

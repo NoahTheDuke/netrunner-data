@@ -1,10 +1,8 @@
-{:code "04106"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "fall-guy"
  :influence-value 1
- :replaced-by "20035"
  :side :runner
  :subtype [:connection]
  :text "[trash]: Prevent another installed resource from being trashed.\n[trash]: Gain 2[credit]."

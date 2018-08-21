@@ -1,5 +1,4 @@
-{:code "02020"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-corp
  :id "draco"

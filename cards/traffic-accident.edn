@@ -1,5 +1,4 @@
-{:code "07022"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :weyland-consortium
  :id "traffic-accident"

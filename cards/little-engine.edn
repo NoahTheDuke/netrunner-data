@@ -1,5 +1,4 @@
-{:code "08057"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :nbn
  :id "little-engine"

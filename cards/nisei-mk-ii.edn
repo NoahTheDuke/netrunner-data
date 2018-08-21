@@ -3,7 +3,6 @@
  :deck-limit 3
  :faction :jinteki
  :id "nisei-mk-ii"
- :replaced-by "20095"
  :side :corp
  :subtype [:initiative]
  :text "Place 1 agenda counter on Nisei MK II when you score it.\n<strong>Hosted agenda counter:</strong> End the run."

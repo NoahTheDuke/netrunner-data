@@ -1,5 +1,4 @@
-{:code "10003"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :anarch
  :id "street-magic"

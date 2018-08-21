@@ -1,5 +1,4 @@
-{:code "08101"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :anarch
  :id "power-to-the-people"

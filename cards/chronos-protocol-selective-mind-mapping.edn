@@ -1,5 +1,4 @@
-{:code "08111"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "chronos-protocol-selective-mind-mapping"
  :influence-limit 15

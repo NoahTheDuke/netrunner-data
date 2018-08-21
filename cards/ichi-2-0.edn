@@ -1,5 +1,4 @@
-{:code "03017"
- :cost 8
+{:cost 8
  :deck-limit 3
  :faction :haas-bioroid
  :id "ichi-2-0"

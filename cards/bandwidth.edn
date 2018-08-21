@@ -1,5 +1,4 @@
-{:code "08016"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "bandwidth"

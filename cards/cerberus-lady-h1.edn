@@ -1,5 +1,4 @@
-{:code "06099"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :shaper
  :id "cerberus-lady-h1"

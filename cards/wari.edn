@@ -1,5 +1,4 @@
-{:code "21024"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :criminal
  :id "wari"

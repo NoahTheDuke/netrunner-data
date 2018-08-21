@@ -1,5 +1,4 @@
-{:code "07046"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :anarch
  :id "memstrips"

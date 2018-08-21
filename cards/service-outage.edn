@@ -1,5 +1,4 @@
-{:code "11057"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :nbn
  :id "service-outage"

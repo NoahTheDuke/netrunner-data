@@ -1,5 +1,4 @@
-{:code "07027"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :neutral-corp
  :id "cyberdex-virus-suite"

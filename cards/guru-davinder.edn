@@ -1,5 +1,4 @@
-{:code "10084"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-runner
  :id "guru-davinder"

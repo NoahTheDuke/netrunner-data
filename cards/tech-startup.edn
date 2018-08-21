@@ -1,5 +1,4 @@
-{:code "08020"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :neutral-corp
  :id "tech-startup"

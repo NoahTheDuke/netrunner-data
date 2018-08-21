@@ -1,5 +1,4 @@
-{:code "06020"
- :cost 7
+{:cost 7
  :deck-limit 1
  :faction :neutral-runner
  :id "eden-shard"

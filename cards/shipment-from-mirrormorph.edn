@@ -1,10 +1,8 @@
-{:code "01060"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :haas-bioroid
  :id "shipment-from-mirrormorph"
  :influence-value 2
- :replaced-by "20074"
  :side :corp
  :subtype []
  :text "Immediately install up to 3 cards (spending no clicks but paying all install costs)."

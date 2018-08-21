@@ -1,5 +1,4 @@
-{:code "08068"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "muertos-gang-member"

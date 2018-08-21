@@ -1,5 +1,4 @@
-{:code "09038"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :adam
  :id "independent-thinking"

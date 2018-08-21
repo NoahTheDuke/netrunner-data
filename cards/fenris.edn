@@ -1,5 +1,4 @@
-{:code "04071"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :haas-bioroid
  :id "fenris"

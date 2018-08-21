@@ -1,10 +1,8 @@
-{:code "20118"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :nbn
  :id "anonymous-tip"
  :influence-value 1
- :replaced-by "01083"
  :side :corp
  :subtype []
  :text "Draw 3 cards."

@@ -1,10 +1,8 @@
-{:code "01062"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :haas-bioroid
  :id "ichi-1-0"
  :influence-value 2
- :replaced-by "20068"
  :side :corp
  :strength 4
  :subtype [:sentry :bioroid :tracer :destroyer]

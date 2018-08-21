@@ -1,5 +1,4 @@
-{:code "07002"
- :deck-limit 1
+{:deck-limit 1
  :faction :weyland-consortium
  :id "gagarin-deep-space-expanding-the-horizon"
  :influence-limit 15

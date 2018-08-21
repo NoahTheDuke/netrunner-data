@@ -1,5 +1,4 @@
-{:code "10096"
- :cost 1
+{:cost 1
  :deck-limit 6
  :faction :anarch
  :id "fear-the-masses"

@@ -1,5 +1,4 @@
-{:code "02075"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :nbn
  :id "net-police"

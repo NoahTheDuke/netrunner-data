@@ -1,5 +1,4 @@
-{:code "04040"
- :cost 10
+{:cost 10
  :deck-limit 3
  :faction :neutral-corp
  :id "restructure"

@@ -1,5 +1,4 @@
-{:code "11061"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :anarch
  :id "en-passant"

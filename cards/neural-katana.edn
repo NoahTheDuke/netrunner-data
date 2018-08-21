@@ -1,10 +1,8 @@
-{:code "01077"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :jinteki
  :id "neural-katana"
  :influence-value 2
- :replaced-by "20100"
  :side :corp
  :strength 3
  :subtype [:sentry :ap]

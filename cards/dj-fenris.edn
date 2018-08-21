@@ -1,5 +1,4 @@
-{:code "22025"
- :cost 3
+{:cost 3
  :deck-limit 1
  :faction :neutral-runner
  :id "dj-fenris"

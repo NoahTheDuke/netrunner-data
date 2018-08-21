@@ -1,5 +1,4 @@
-{:code "02114"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "nbn-the-world-is-yours"
  :influence-limit 12

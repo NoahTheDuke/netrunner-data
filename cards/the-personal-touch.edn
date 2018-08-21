@@ -1,10 +1,8 @@
-{:code "01040"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :shaper
  :id "the-personal-touch"
  :influence-value 2
- :replaced-by "20047"
  :side :runner
  :subtype [:mod]
  :text "Install The Personal Touch only on an <strong>icebreaker.</strong>\nHost <strong>icebreaker</strong> has +1 strength."

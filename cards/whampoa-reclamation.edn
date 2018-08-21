@@ -1,5 +1,4 @@
-{:code "12079"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :neutral-corp
  :id "whampoa-reclamation"

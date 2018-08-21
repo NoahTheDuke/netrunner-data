@@ -1,11 +1,9 @@
-{:code "01042"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :shaper
  :id "battering-ram"
  :influence-value 2
  :memory-cost 2
- :replaced-by "20048"
  :side :runner
  :strength 3
  :subtype [:icebreaker :fracter]

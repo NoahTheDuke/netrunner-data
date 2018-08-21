@@ -3,7 +3,6 @@
  :deck-limit 3
  :faction :jinteki
  :id "braintrust"
- :replaced-by "02014"
  :side :corp
  :subtype [:research]
  :text "When you score Braintrust, place 1 agenda counter on it for every 2 advancement tokens on it over 3.\nThe rez cost of all ice is lowered by 1 for each agenda counter on Braintrust."

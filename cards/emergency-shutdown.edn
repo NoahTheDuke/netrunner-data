@@ -1,10 +1,8 @@
-{:code "02043"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "emergency-shutdown"
  :influence-value 2
- :replaced-by "20021"
  :side :runner
  :subtype [:sabotage]
  :text "Play only if you made a successful run on HQ this turn.\nDerez a piece of ice."

@@ -1,5 +1,4 @@
-{:code "22032"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :haas-bioroid
  :id "game-changer"

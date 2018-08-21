@@ -1,5 +1,4 @@
-{:code "11091"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :haas-bioroid
  :id "manta-grid"

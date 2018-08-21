@@ -1,5 +1,4 @@
-{:code "07015"
- :cost 15
+{:cost 15
  :deck-limit 3
  :faction :weyland-consortium
  :id "orion"

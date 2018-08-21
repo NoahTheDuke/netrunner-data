@@ -1,10 +1,8 @@
-{:code "20059"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-runner
  :id "armitage-codebusting"
  :influence-value 0
- :replaced-by "01053"
  :side :runner
  :subtype [:job]
  :text "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n[click]: Take 2[credit] from Armitage Codebusting."

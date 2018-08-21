@@ -1,5 +1,4 @@
-{:code "09049"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :sunny-lebeau
  :id "gs-shrike-m2"

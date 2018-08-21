@@ -1,10 +1,8 @@
-{:code "20024"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :criminal
  :id "special-order"
  :influence-value 2
- :replaced-by "01022"
  :side :runner
  :subtype []
  :text "Search your stack for an <strong>icebreaker</strong>, reveal it, and add it to your grip. Shuffle your stack."

@@ -1,5 +1,4 @@
-{:code "21104"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :criminal
  :id "amina"

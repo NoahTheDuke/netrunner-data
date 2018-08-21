@@ -1,5 +1,4 @@
-{:code "08097"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :nbn
  :id "old-hollywood-grid"

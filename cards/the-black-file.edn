@@ -1,5 +1,4 @@
-{:code "10099"
- :cost 5
+{:cost 5
  :deck-limit 1
  :faction :criminal
  :id "the-black-file"

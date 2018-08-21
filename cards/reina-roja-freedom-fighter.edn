@@ -4,7 +4,6 @@
  :id "reina-roja-freedom-fighter"
  :influence-limit 15
  :minimum-deck-size 45
- :replaced-by "04041"
  :side :runner
  :subtype [:cyborg :g-mod]
  :text "The rez cost of the first piece of ice rezzed each turn is increased by 1."

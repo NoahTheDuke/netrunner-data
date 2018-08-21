@@ -1,5 +1,4 @@
-{:code "07040"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :anarch
  :id "eater"

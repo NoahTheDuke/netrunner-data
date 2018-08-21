@@ -1,5 +1,4 @@
-{:code "08050"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "cybernetics-division-humanity-upgraded"
  :influence-limit 15

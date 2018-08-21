@@ -1,5 +1,4 @@
-{:code "06021"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "the-foundry-refining-the-process"
  :influence-limit 15

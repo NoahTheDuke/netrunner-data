@@ -1,5 +1,4 @@
-{:code "22046"
- :cost 10
+{:cost 10
  :deck-limit 3
  :faction :nbn
  :id "hydra"

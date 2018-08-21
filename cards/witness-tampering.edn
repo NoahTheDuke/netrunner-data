@@ -1,5 +1,4 @@
-{:code "04118"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :weyland-consortium
  :id "witness-tampering"

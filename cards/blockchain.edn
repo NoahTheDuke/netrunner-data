@@ -1,5 +1,4 @@
-{:code "22053"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :weyland-consortium
  :id "blockchain"

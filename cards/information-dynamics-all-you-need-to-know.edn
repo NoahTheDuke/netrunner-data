@@ -1,5 +1,4 @@
-{:code "00012"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "information-dynamics-all-you-need-to-know"
  :influence-limit nil

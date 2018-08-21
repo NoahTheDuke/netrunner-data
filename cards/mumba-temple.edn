@@ -1,5 +1,4 @@
-{:code "10018"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-corp
  :id "mumba-temple"

@@ -1,5 +1,4 @@
-{:code "02108"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :shaper
  :id "deep-thought"

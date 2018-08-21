@@ -1,5 +1,4 @@
-{:code "11109"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-runner
  :id "peace-in-our-time"

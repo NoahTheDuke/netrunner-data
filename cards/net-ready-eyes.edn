@@ -1,5 +1,4 @@
-{:code "08047"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :shaper
  :id "net-ready-eyes"

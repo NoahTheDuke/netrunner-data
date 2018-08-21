@@ -1,5 +1,4 @@
-{:code "13028"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "seidr-laboratories-destiny-defined"
  :influence-limit 15

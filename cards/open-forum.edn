@@ -1,5 +1,4 @@
-{:code "12097"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :weyland-consortium
  :id "open-forum"

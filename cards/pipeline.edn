@@ -1,11 +1,9 @@
-{:code "20051"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :shaper
  :id "pipeline"
  :influence-value 1
  :memory-cost 1
- :replaced-by "01046"
  :side :runner
  :strength 1
  :subtype [:icebreaker :killer]

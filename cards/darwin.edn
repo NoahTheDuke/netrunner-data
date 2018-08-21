@@ -1,11 +1,9 @@
-{:code "20008"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :anarch
  :id "darwin"
  :influence-value 3
  :memory-cost 1
- :replaced-by "02102"
  :side :runner
  :strength 0
  :subtype [:icebreaker :ai :virus]

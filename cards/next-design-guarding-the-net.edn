@@ -1,5 +1,4 @@
-{:code "03003"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "next-design-guarding-the-net"
  :influence-limit 12

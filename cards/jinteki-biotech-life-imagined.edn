@@ -1,5 +1,4 @@
-{:code "08012"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "jinteki-biotech-life-imagined"
  :influence-limit 15

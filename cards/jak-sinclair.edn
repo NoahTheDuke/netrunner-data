@@ -1,5 +1,4 @@
-{:code "09052"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :sunny-lebeau
  :id "jak-sinclair"

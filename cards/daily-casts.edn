@@ -1,5 +1,4 @@
-{:code "03053"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :neutral-runner
  :id "daily-casts"

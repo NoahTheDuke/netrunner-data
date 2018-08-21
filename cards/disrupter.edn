@@ -1,5 +1,4 @@
-{:code "02061"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :anarch
  :id "disrupter"

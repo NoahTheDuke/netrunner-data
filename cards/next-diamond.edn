@@ -1,5 +1,4 @@
-{:code "21112"
- :cost 10
+{:cost 10
  :deck-limit 3
  :faction :haas-bioroid
  :id "next-diamond"

@@ -1,5 +1,4 @@
-{:code "02009"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :neutral-runner
  :id "plascrete-carapace"

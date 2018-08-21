@@ -1,11 +1,9 @@
-{:code "02006"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :criminal
  :id "peacock"
  :influence-value 2
  :memory-cost 1
- :replaced-by "20030"
  :side :runner
  :strength 2
  :subtype [:icebreaker :decoder]

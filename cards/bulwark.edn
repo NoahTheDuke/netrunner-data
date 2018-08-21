@@ -1,5 +1,4 @@
-{:code "11078"
- :cost 10
+{:cost 10
  :deck-limit 3
  :faction :weyland-consortium
  :id "bulwark"

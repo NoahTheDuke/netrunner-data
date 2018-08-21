@@ -1,5 +1,4 @@
-{:code "11064"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :criminal
  :id "saker"

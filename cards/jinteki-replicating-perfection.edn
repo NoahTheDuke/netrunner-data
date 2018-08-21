@@ -1,5 +1,4 @@
-{:code "02031"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "jinteki-replicating-perfection"
  :influence-limit 15

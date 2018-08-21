@@ -1,5 +1,4 @@
-{:code "04060"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :neutral-corp
  :id "interns"

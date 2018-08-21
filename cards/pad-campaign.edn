@@ -1,10 +1,8 @@
-{:code "01109"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :neutral-corp
  :id "pad-campaign"
  :influence-value 0
- :replaced-by "20128"
  :side :corp
  :subtype [:advertisement]
  :text "Gain 1[credit] when your turn begins."

@@ -4,7 +4,6 @@
  :faction :neutral-corp
  :id "priority-requisition"
  :influence-value 0
- :replaced-by "20125"
  :side :corp
  :subtype [:security]
  :text "When you score Priority Requisition, you may rez a piece of ice ignoring all costs."

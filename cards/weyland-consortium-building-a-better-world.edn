@@ -1,13 +1,12 @@
-{:code "01093"
- :deck-limit 1
+{:deck-limit 1
  :faction :weyland-consortium
  :id "weyland-consortium-building-a-better-world"
  :influence-limit 15
  :minimum-deck-size 45
- :replaced-by "20077"
  :side :corp
  :subtype [:megacorp]
  :text "Gain 1[credit] whenever you play a <strong>transaction</strong> operation."
  :title "Weyland Consortium: Building a Better World"
  :type :identity
  :uniqueness false}
+ 

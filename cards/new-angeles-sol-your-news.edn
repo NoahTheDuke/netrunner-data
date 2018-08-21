@@ -1,5 +1,4 @@
-{:code "09002"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "new-angeles-sol-your-news"
  :influence-limit 15

@@ -1,10 +1,8 @@
-{:code "20087"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :weyland-consortium
  :id "hive"
  :influence-value 2
- :replaced-by "04117"
  :side :corp
  :strength 3
  :subtype [:barrier]

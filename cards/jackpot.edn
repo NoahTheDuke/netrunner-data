@@ -1,5 +1,4 @@
-{:code "21090"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :neutral-runner
  :id "jackpot"

@@ -1,10 +1,8 @@
-{:code "02094"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :jinteki
  :id "whirlpool"
  :influence-value 2
- :replaced-by "20103"
  :side :corp
  :strength 1
  :subtype [:trap]

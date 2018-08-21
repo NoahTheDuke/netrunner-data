@@ -1,5 +1,4 @@
-{:code "09014"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :nbn
  :id "news-hound"

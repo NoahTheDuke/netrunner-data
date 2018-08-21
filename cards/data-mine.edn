@@ -1,5 +1,4 @@
-{:code "01076"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :jinteki
  :id "data-mine"

@@ -1,5 +1,4 @@
-{:code "04086"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :shaper
  :id "cybersolutions-mem-chip"

@@ -1,10 +1,8 @@
-{:code "20084"
- :cost 4
+{:cost 4
  :deck-limit 3
  :faction :weyland-consortium
  :id "archer"
  :influence-value 2
- :replaced-by "01101"
  :side :corp
  :strength 6
  :subtype [:sentry :destroyer]

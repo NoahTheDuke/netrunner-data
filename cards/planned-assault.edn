@@ -1,5 +1,4 @@
-{:code "05036"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :criminal
  :id "planned-assault"

@@ -1,10 +1,8 @@
-{:code "02070"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :haas-bioroid
  :id "green-level-clearance"
  :influence-value 1
- :replaced-by "20073"
  :side :corp
  :subtype [:transaction]
  :text "Gain 3[credit] and draw 1 card."

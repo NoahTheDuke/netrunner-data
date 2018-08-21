@@ -1,5 +1,4 @@
-{:code "22058"
- :cost 5
+{:cost 5
  :deck-limit 1
  :faction :neutral-corp
  :id "lady-liberty"

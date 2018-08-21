@@ -4,7 +4,6 @@
  :faction :neutral-corp
  :id "private-security-force"
  :influence-value 0
- :replaced-by "20126"
  :side :corp
  :subtype [:security]
  :text "If the Runner is tagged, Private Security Force gains: \"[click]: Do 1 meat damage.\""

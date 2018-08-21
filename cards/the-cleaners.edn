@@ -3,7 +3,6 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "the-cleaners"
- :replaced-by "20080"
  :side :corp
  :subtype [:security]
  :text "Whenever you do meat damage, do 1 additional meat damage."

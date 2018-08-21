@@ -1,5 +1,4 @@
-{:code "13036"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :haas-bioroid
  :id "holmegaard"

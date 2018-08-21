@@ -1,5 +1,4 @@
-{:code "00011"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "synthetic-systems-the-world-re-imagined"
  :influence-limit nil

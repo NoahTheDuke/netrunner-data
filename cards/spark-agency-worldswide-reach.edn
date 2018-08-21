@@ -1,5 +1,4 @@
-{:code "09003"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "spark-agency-worldswide-reach"
  :influence-limit 15

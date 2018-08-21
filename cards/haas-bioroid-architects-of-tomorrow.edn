@@ -1,5 +1,4 @@
-{:code "11072"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "haas-bioroid-architects-of-tomorrow"
  :influence-limit 12

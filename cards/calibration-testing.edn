@@ -1,5 +1,4 @@
-{:code "21017"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :nbn
  :id "calibration-testing"

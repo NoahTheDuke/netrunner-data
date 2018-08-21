@@ -1,5 +1,4 @@
-{:code "09022"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :nbn
  :id "the-all-seeing-i"

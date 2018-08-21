@@ -1,5 +1,4 @@
-{:code "03002"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "custom-biotics-engineered-for-success"
  :influence-limit 22

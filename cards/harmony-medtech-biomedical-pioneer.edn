@@ -1,5 +1,4 @@
-{:code "05001"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "harmony-medtech-biomedical-pioneer"
  :influence-limit 12

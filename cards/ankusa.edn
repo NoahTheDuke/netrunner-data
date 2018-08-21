@@ -1,5 +1,4 @@
-{:code "10101"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :shaper
  :id "ankusa"

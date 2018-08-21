@@ -1,5 +1,4 @@
-{:code "08023"
- :cost 0
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "career-fair"

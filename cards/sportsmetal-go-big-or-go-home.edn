@@ -1,5 +1,4 @@
-{:code "22026"
- :deck-limit 1
+{:deck-limit 1
  :faction :haas-bioroid
  :id "sportsmetal-go-big-or-go-home"
  :influence-limit 15

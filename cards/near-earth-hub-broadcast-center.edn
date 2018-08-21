@@ -1,5 +1,4 @@
-{:code "06005"
- :deck-limit 1
+{:deck-limit 1
  :faction :nbn
  :id "near-earth-hub-broadcast-center"
  :influence-limit 17

@@ -1,5 +1,4 @@
-{:code "11006"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :shaper
  :id "dai-v"

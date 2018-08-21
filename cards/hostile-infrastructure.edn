@@ -1,5 +1,4 @@
-{:code "06083"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :jinteki
  :id "hostile-infrastructure"

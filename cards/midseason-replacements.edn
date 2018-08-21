@@ -1,5 +1,4 @@
-{:code "02116"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :nbn
  :id "midseason-replacements"

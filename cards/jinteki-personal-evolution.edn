@@ -1,10 +1,8 @@
-{:code "01067"
- :deck-limit 1
+{:deck-limit 1
  :faction :jinteki
  :id "jinteki-personal-evolution"
  :influence-limit 15
  :minimum-deck-size 45
- :replaced-by "20093"
  :side :corp
  :subtype [:megacorp]
  :text "Whenever an agenda is scored or stolen, do 1 net damage."

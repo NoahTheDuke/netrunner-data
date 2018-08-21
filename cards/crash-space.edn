@@ -1,10 +1,8 @@
-{:code "20034"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :criminal
  :id "crash-space"
  :influence-value 2
- :replaced-by "01030"
  :side :runner
  :subtype [:location]
  :text "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage."

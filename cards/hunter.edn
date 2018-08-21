@@ -1,10 +1,8 @@
-{:code "01112"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :neutral-corp
  :id "hunter"
  :influence-value 0
- :replaced-by "20130"
  :side :corp
  :strength 4
  :subtype [:sentry :tracer :observer]

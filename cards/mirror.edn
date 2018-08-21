@@ -1,5 +1,4 @@
-{:code "11005"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :shaper
  :id "mirror"

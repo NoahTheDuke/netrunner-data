@@ -4,7 +4,6 @@
  :id "gabriel-santiago-consummate-professional"
  :influence-limit 15
  :minimum-deck-size 45
- :replaced-by "20019"
  :side :runner
  :subtype [:cyborg]
  :text "The first time you make a successful run on HQ each turn, gain 2[credit]."

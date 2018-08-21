@@ -1,11 +1,9 @@
-{:code "20010"
- :cost 5
+{:cost 5
  :deck-limit 3
  :faction :anarch
  :id "force-of-nature"
  :influence-value 1
  :memory-cost 1
- :replaced-by "02062"
  :side :runner
  :strength 1
  :subtype [:icebreaker :decoder]

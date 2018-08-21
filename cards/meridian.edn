@@ -1,5 +1,4 @@
-{:code "22028"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :haas-bioroid
  :id "meridian"

@@ -1,5 +1,4 @@
-{:code "10027"
- :cost 1
+{:cost 1
  :deck-limit 3
  :faction :haas-bioroid
  :id "advanced-assembly-lines"

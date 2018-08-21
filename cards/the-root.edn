@@ -1,5 +1,4 @@
-{:code "06008"
- :cost 6
+{:cost 6
  :deck-limit 3
  :faction :weyland-consortium
  :id "the-root"

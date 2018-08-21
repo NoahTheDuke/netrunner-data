@@ -1,5 +1,4 @@
-{:code "10093"
- :cost 2
+{:cost 2
  :deck-limit 3
  :faction :weyland-consortium
  :id "red-tape"

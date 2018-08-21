@@ -1,5 +1,4 @@
-{:code "09028"
- :cost 7
+{:cost 7
  :deck-limit 3
  :faction :neutral-corp
  :id "assassin"

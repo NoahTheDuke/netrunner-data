@@ -1,5 +1,4 @@
-{:code "22002"
- :cost 3
+{:cost 3
  :deck-limit 3
  :faction :anarch
  :id "divide-and-conquer"
