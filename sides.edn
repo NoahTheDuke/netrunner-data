@@ -1,4 +1,6 @@
-[{:id :runner
-  :name "Runner"}
+[{:id :both
+  :name "Both"}
  {:id :corp
-  :name "Corp"}]
+  :name "Corp"}
+ {:id :runner
+  :name "Runner"}]

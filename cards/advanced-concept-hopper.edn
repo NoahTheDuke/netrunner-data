@@ -5,7 +5,7 @@
  :id "advanced-concept-hopper"
  :side :corp
  :subtype [:research]
- :text "The first time the Runner initiates  a run each turn, you may draw 1 card or gain 1[credit]."
+ :text "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1[credit]."
  :title "Advanced Concept Hopper"
  :type :agenda
  :uniqueness false}
