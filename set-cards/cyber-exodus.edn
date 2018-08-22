@@ -3,14 +3,16 @@
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/02041.png"
   :position 41
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "joshua-b"
   :code "02042"
   :flavor "\"My enhancements are guaranteed for life, and well worth the risk.\""
   :illustrator "Jen Zee"
   :image-url "https://netrunnerdb.com/card_image/02042.png"
   :position 42
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "emergency-shutdown"
   :code "02043"
   :flavor "\"Think of it as a virtual shock collar for punishing corporate pets.\" -Andromeda"
@@ -18,21 +20,24 @@
   :image-url "https://netrunnerdb.com/card_image/02043.png"
   :position 43
   :quantity 3
-  :replaced-by "20021"}
+  :replaced-by "20021"
+  :set-id "cyber-exodus"}
  {:card-id "muresh-bodysuit"
   :code "02044"
   :flavor "Light and form-fitting, its like bulletproof skin."
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/02044.png"
   :position 44
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "snitch"
   :code "02045"
   :flavor "\"A snitch is a girl's best friend.\" -Andromeda"
   :illustrator "Mashuri"
   :image-url "https://netrunnerdb.com/card_image/02045.png"
   :position 45
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "chaos-theory-wunderkind"
   :code "02046"
   :flavor "\"Have you met Dinosaurus?\""
@@ -40,67 +45,77 @@
   :image-url "https://netrunnerdb.com/card_image/02046.png"
   :position 46
   :quantity 3
-  :replaced-by "20037"}
+  :replaced-by "20037"
+  :set-id "cyber-exodus"}
  {:card-id "test-run"
   :code "02047"
   :illustrator "Eko Puteh"
   :image-url "https://netrunnerdb.com/card_image/02047.png"
   :position 47
   :quantity 3
-  :replaced-by "20042"}
+  :replaced-by "20042"
+  :set-id "cyber-exodus"}
  {:card-id "dinosaurus"
   :code "02048"
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/02048.png"
   :position 48
   :quantity 3
-  :replaced-by "20045"}
+  :replaced-by "20045"
+  :set-id "cyber-exodus"}
  {:card-id "personal-workshop"
   :code "02049"
   :illustrator "Fabien Jacques"
   :image-url "https://netrunnerdb.com/card_image/02049.png"
   :position 49
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "public-sympathy"
   :code "02050"
   :flavor "\"I'm just thankful that the brain damage is reversible. With the support of the city of New Angeles, I hope to be on my feet and back to practicing my art very soon.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/02050.png"
   :position 50
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "project-vitruvius"
   :code "02051"
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/02051.png"
   :position 51
   :quantity 3
-  :replaced-by "20063"}
+  :replaced-by "20063"
+  :set-id "cyber-exodus"}
  {:card-id "viper"
   :code "02052"
   :flavor "Dont Tread On Me"
   :illustrator "Bruno Balixa"
   :image-url "https://netrunnerdb.com/card_image/02052.png"
   :position 52
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "edge-of-world"
   :code "02053"
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/02053.png"
   :position 53
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "sunset"
   :code "02054"
   :flavor "\"You haven't run until you've seen the cybersun drift down behind the Great City, the space around you rippling with colors you can't imagine.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/02054.png"
   :position 54
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "marked-accounts"
   :code "02055"
   :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/02055.png"
   :position 55
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "pop-up-window"
   :code "02056"
   :flavor "\"Try to close it. Go on. See what it does.\" -Chaos Theory"
@@ -108,31 +123,36 @@
   :image-url "https://netrunnerdb.com/card_image/02056.png"
   :position 56
   :quantity 3
-  :replaced-by "20115"}
+  :replaced-by "20115"
+  :set-id "cyber-exodus"}
  {:card-id "woodcutter"
   :code "02057"
   :flavor "Chop chop."
   :illustrator "Mike Nesbitt"
   :image-url "https://netrunnerdb.com/card_image/02057.png"
   :position 57
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "commercialization"
   :code "02058"
   :flavor "The Division of Fringe Applications' revenue increased 37% year-over-year after corporate discovered that most of their projects made really fun toys."
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/02058.png"
   :position 58
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "private-contracts"
   :code "02059"
   :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/02059.png"
   :position 59
-  :quantity 3}
+  :quantity 3
+  :set-id "cyber-exodus"}
  {:card-id "chimera"
   :code "02060"
   :flavor "Three heads. One big headache."
   :illustrator "Isuardi Therianto"
   :image-url "https://netrunnerdb.com/card_image/02060.png"
   :position 60
-  :quantity 3}]
+  :quantity 3
+  :set-id "cyber-exodus"}]

@@ -4,130 +4,150 @@
   :illustrator "Donald Crank"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_61.png"
   :position 61
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "knobkierie"
   :code "21062"
   :illustrator "Martin de Diego Sádaba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_62.png"
   :position 62
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "419-amoral-scammer"
   :code "21063"
   :flavor "\"Is there anything better than free money?\""
   :illustrator "Antonio De Luca"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_63.png"
   :position 63
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "falsified-credentials"
   :code "21064"
   :flavor "\"I'm sorry, sir, we weren't expecting you! You look different than I remember...\"\n\"Haircut.\""
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_64.png"
   :position 64
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "rogue-trading"
   :code "21065"
   :illustrator "Adam Schumpert"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_65.png"
   :position 65
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "because-i-can"
   :code "21066"
   :flavor "At least this time around, the graphic was family-friendly."
   :illustrator "Caravan Studio"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_66.png"
   :position 66
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "nyashia"
   :code "21067"
   :flavor "Speed gets you in, intuition gets you out."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_67.png"
   :position 67
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "consume"
   :code "21068"
   :flavor "\"It 'ate' the vertex grid?! What does that even mean?\"\n- Nkiru Qiū, Asa Group sysop"
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_68.png"
   :position 68
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "malia-z0l0k4"
   :code "21069"
   :flavor "A Model G21V Tracker, Malia Z0L0K4 excels at locating assignments and subduing them."
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_69.png"
   :position 69
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "kill-switch"
   :code "21070"
   :flavor "\"Don't worry, he won't feel a thing! Probably.\""
   :illustrator "Martin de Diego Sádaba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_70.png"
   :position 70
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "tempus"
   :code "21071"
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_71.png"
   :position 71
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "bio-vault"
   :code "21072"
   :flavor "Many things go in. Nothing comes out."
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_72.png"
   :position 72
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "sadaka"
   :code "21073"
   :illustrator "Mariusz Siergiejew"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_73.png"
   :position 73
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "endless-eula"
   :code "21074"
   :flavor "\"Has anyone ever actually read one of these things?\" - 419"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_74.png"
   :position 74
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "sandman"
   :code "21075"
   :flavor "Your first dog, your favorite food, your own mother's name. Your love, your hate, your fear. Hopes and dreams, pain and sorrow. All of it, everything, slips away."
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_75.png"
   :position 75
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "amani-senai"
   :code "21076"
   :flavor "Azmari EdTech's most popular instructor, Amani Senai regularly broadcasts to millions of students."
   :illustrator "Caravan Studio"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_76.png"
   :position 76
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "sso-industries-fueling-innovation"
   :code "21077"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_77.png"
   :position 77
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "city-works-project"
   :code "21078"
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_78.png"
   :position 78
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "oduduwa"
   :code "21079"
   :flavor "Might given form."
   :illustrator "Le Vuong"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_79.png"
   :position 79
-  :quantity 3}
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}
  {:card-id "rashida-jaheem"
   :code "21080"
   :flavor "She gets the job done. And then some."
   :illustrator "Aurore Folny"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_80.png"
   :position 80
-  :quantity 3}]
+  :quantity 3
+  :set-id "the-devil-and-the-dragon"}]

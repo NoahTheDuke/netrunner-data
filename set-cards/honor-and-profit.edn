@@ -4,365 +4,420 @@
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/05001.png"
   :position 1
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "nisei-division-the-next-generation"
   :code "05002"
   :flavor "Perfecting the Imperfect."
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/05002.png"
   :position 2
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "tennin-institute-the-secrets-within"
   :code "05003"
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/05003.png"
   :position 3
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "house-of-knives"
   :code "05004"
   :illustrator "Alexandr Elichev"
   :image-url "https://netrunnerdb.com/card_image/05004.png"
   :position 4
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "medical-breakthrough"
   :code "05005"
   :flavor "\"You won't feel it. Or anything else, for that matter.\""
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05005.png"
   :position 5
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "philotic-entanglement"
   :code "05006"
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/05006.png"
   :position 6
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "the-future-perfect"
   :code "05007"
   :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/05007.png"
   :position 7
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "chairman-hiro"
   :code "05008"
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05008.png"
   :position 8
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "mental-health-clinic"
   :code "05009"
   :flavor "The whitewashed walls dropped away and a beautiful zen garden appeared. It was all an illusion, but it was a comforting illusion."
   :illustrator "Viktoria Gavrilenko"
   :image-url "https://netrunnerdb.com/card_image/05009.png"
   :position 9
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "psychic-field"
   :code "05010"
   :illustrator "Seage"
   :image-url "https://netrunnerdb.com/card_image/05010.png"
   :position 10
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "shi-kyu"
   :code "05011"
   :illustrator "Alexandr Elichev"
   :image-url "https://netrunnerdb.com/card_image/05011.png"
   :position 11
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "tenma-line"
   :code "05012"
   :flavor "The Tenma clones became Jinteki's third highest-grossing line ever due to the rapid urban expansion that occurred after the war. Their unparalleled reaction times, safety records, and punctuality have made them the top choice for shipping and transportation services."
   :illustrator "Smirtouille"
   :image-url "https://netrunnerdb.com/card_image/05012.png"
   :position 12
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "cerebral-cast"
   :code "05013"
   :illustrator "Smirtouille"
   :image-url "https://netrunnerdb.com/card_image/05013.png"
   :position 13
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "medical-research-fundraiser"
   :code "05014"
   :flavor "\"Together we have all but eradicated natural diseases from the face of this planet. The new spectre of synthetic disease-of bioterrorism-demands that we continue our efforts.\""
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05014.png"
   :position 14
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "mushin-no-shin"
   :code "05015"
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/05015.png"
   :position 15
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "inazuma"
   :code "05016"
   :flavor "Trapped in their own reality, a paralyzed runner cannot even jack out."
   :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/05016.png"
   :position 16
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "komainu"
   :code "05017"
   :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/05017.png"
   :position 17
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "pup"
   :code "05018"
   :flavor "Yip Yip!"
   :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/05018.png"
   :position 18
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "shiro"
   :code "05019"
   :flavor "When locked in a fortress in your own mind, be careful what door you open."
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/05019.png"
   :position 19
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "susanoo-no-mikoto"
   :code "05020"
   :flavor "Certain areas of cyberspace are dominated by a single digital entity. Runners call them 'gods', and only a miracle can save those foolish enough to enter their domain."
   :illustrator "Falk"
   :image-url "https://netrunnerdb.com/card_image/05020.png"
   :position 20
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "neotokyo-grid"
   :code "05021"
   :flavor "It is difficult to go to Japan without ending up in the sprawl of NeoTokyo."
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/05021.png"
   :position 21
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "tori-hanzo"
   :code "05022"
   :flavor "Known as the Red Woman, Hanzō is notorious for her ruthless methods of server protection."
   :illustrator "Smirtouille"
   :image-url "https://netrunnerdb.com/card_image/05022.png"
   :position 22
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "plan-b"
   :code "05023"
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05023.png"
   :position 23
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "guard"
   :code "05024"
   :flavor "Out of the corner of his vision, a flash of light. He felt a thud as his grip on cyberspace loosened. Spider didn't like this. He should have bypassed the outer layer of ice by jacking in from the internal server. Another thud, and his whole frame shook with the resounding shockwave. He desperately reached for his shuriken…"
   :illustrator "Dan Maynard"
   :image-url "https://netrunnerdb.com/card_image/05024.png"
   :position 24
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "rainbow"
   :code "05025"
   :flavor "The annual review of ice as published by the NSCA consistently gives top marks to the ice that provide the most impact in relation to their size and upkeep cost. Critics of the NSCA point to the bounce ratio as the most important stat when judging ice."
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/05025.png"
   :position 25
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "diversified-portfolio"
   :code "05026"
   :flavor "YucaBean has seen astounding growth in even the most remote markets."
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/05026.png"
   :position 26
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "fast-track"
   :code "05027"
   :flavor "The longer the employees didn't look at the Doomsday Clock, the more it gnawed at the back of their minds. A quick look only reinforced what they already knew: there wasn't enough time."
   :illustrator "Zefanya Langkan Maega"
   :image-url "https://netrunnerdb.com/card_image/05027.png"
   :position 27
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "iain-stirling-retired-spook"
   :code "05028"
   :flavor "\"Truth is a fickle mistress.\""
   :illustrator "Simon Eckert"
   :image-url "https://netrunnerdb.com/card_image/05028.png"
   :position 28
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "ken-express-tenma-disappeared-clone"
   :code "05029"
   :flavor "\"Try to keep up.\""
   :illustrator "Simon Eckert"
   :image-url "https://netrunnerdb.com/card_image/05029.png"
   :position 29
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "silhouette-stealth-operative"
   :code "05030"
   :flavor "\"Don't waste my time.\""
   :illustrator "Simon Eckert"
   :image-url "https://netrunnerdb.com/card_image/05030.png"
   :position 30
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "calling-in-favors"
   :code "05031"
   :flavor "A job is only as strong as the weakest link. Thankfully Ms. Jones is always on time."
   :illustrator "Jon Bosco"
   :image-url "https://netrunnerdb.com/card_image/05031.png"
   :position 31
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "early-bird"
   :code "05032"
   :flavor "Tenma clones are excellent at multitasking, their brains custom-made for parallel processing."
   :illustrator "Samuel R. Shimota"
   :image-url "https://netrunnerdb.com/card_image/05032.png"
   :position 32
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "express-delivery"
   :code "05033"
   :flavor "The clone was surprised to see the red-jacketed man. It was like looking in a mirror, only the mirror made him look…cool. Confident. Individual."
   :illustrator "Agri Karuniawan"
   :image-url "https://netrunnerdb.com/card_image/05033.png"
   :position 33
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "feint"
   :code "05034"
   :flavor "Stirling entered the server, passing a growling piece of ice. He was unarmed…or so it seemed."
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/05034.png"
   :position 34
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "legwork"
   :code "05035"
   :flavor "\"I work by referral only, with an up-front fee. The fee is reasonable if you value results.\" -Silhouette"
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05035.png"
   :position 35
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "planned-assault"
   :code "05036"
   :illustrator "Magali Villeneuve"
   :image-url "https://netrunnerdb.com/card_image/05036.png"
   :position 36
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "logos"
   :code "05037"
   :illustrator "Agri Karuniawan"
   :image-url "https://netrunnerdb.com/card_image/05037.png"
   :position 37
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "public-terminal"
   :code "05038"
   :flavor "Express loved libraries. The consoles were weak, but the security even weaker. He wirelessly loaded up his personal blend of code and started cloning the drive. In just a few minutes, another zombie would claw its way to the surface of cyberspace."
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/05038.png"
   :position 38
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "unregistered-s-w-35"
   :code "05039"
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05039.png"
   :position 39
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "window"
   :code "05040"
   :flavor "The grass looked greener on the other side of the tear. But it always did, and there was always another tear."
   :illustrator "Seage"
   :image-url "https://netrunnerdb.com/card_image/05040.png"
   :position 40
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "alias"
   :code "05041"
   :flavor "Appearances are easy to change in cyberspace, but a high-quality render is not easy to mimic."
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/05041.png"
   :position 41
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "breach"
   :code "05042"
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/05042.png"
   :position 42
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "bug"
   :code "05043"
   :flavor "The digital equivalent of a fly on the wall."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/05043.png"
   :position 43
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "gingerbread"
   :code "05044"
   :flavor "Catch me if you can!"
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/05044.png"
   :position 44
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "grappling-hook"
   :code "05045"
   :flavor "If speed is of the essence, an indirect encounter with a piece of ice is usually best."
   :illustrator "Zefanya Langkan Maega"
   :image-url "https://netrunnerdb.com/card_image/05045.png"
   :position 45
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "passport"
   :code "05046"
   :flavor "Nothing is secure when you have the right documentation."
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/05046.png"
   :position 46
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "push-your-luck"
   :code "05047"
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/05047.png"
   :position 47
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "security-testing"
   :code "05048"
   :flavor "She was as good as Mr. Li said. The source machine had been compromised in under 24 hours. If a freelance operative could do that, the server clearly wasn't ready to endure Gagarin's legion of corp-owned runners."
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05048.png"
   :position 48
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "theophilius-bagbiter"
   :code "05049"
   :flavor "\"Why is a raven like a typing desk?\""
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/05049.png"
   :position 49
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "tri-maf-contact"
   :code "05050"
   :flavor "She slipped back onto her hopper. \"I'm your family now, so don't twist me, dǒng ma?\"\nHe flicked the e-cig away from his mouth, and nodded. What had he gotten himself into?"
   :illustrator "Ashley Witter"
   :image-url "https://netrunnerdb.com/card_image/05050.png"
   :position 50
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "mass-install"
   :code "05051"
   :flavor "\"Welcome to the mass install wizard! This wizard will guide you through the process of installing a whole mess of programs onto your almost-certainly inadequate rig. When you're ready to continue, say-oops, too late, here we go!\""
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/05051.png"
   :position 51
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "q-coherence-chip"
   :code "05052"
   :flavor "One of the core problems of quantum computing is isolating the system from external factors to prevent decoherence. The Q-Coherence Chip is one, imperfect, solution."
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/05052.png"
   :position 52
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "overmind"
   :code "05053"
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/05053.png"
   :position 53
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "oracle-may"
   :code "05054"
   :flavor "\"The best place to hide is in plain sight, don't you think?\""
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/05054.png"
   :position 54
-  :quantity 3}
+  :quantity 3
+  :set-id "honor-and-profit"}
  {:card-id "donut-taganes"
   :code "05055"
   :flavor "You can find Donut in the park on Thursday afternoons, playing backgammon. You want his attention, the price is always the same: a cup of coffee and a donut. That buys you a seat at the backgammon table, and you have until he beats you to talk business and set the price."
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/05055.png"
   :position 55
-  :quantity 3}]
+  :quantity 3
+  :set-id "honor-and-profit"}]

@@ -4,7 +4,8 @@
   :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/02021.png"
   :position 21
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "liberated-account"
   :code "02022"
   :flavor "It's easier to spend when it's not your money."
@@ -12,27 +13,31 @@
   :image-url "https://netrunnerdb.com/card_image/02022.png"
   :position 22
   :quantity 3
-  :replaced-by "20016"}
+  :replaced-by "20016"
+  :set-id "trace-amount"}
  {:card-id "satellite-uplink"
   :code "02023"
   :flavor "T-minus 13 seconds. Leela had to work fast. She jacked in the mesa wire and activated the screen. 7 seconds. The internal SLD was still booting. 4 seconds. The interface flickered to life with an orange glow. 2 seconds. With a tap of a finger she was in."
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/02023.png"
   :position 23
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "e3-feedback-implants"
   :code "02024"
   :flavor "CyberSolutions' e3 line of implants trade strictly in muscle memory and automatic responses, freeing the brain to focus entirely on cerebral tasks."
   :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/02024.png"
   :position 24
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "compromised-employee"
   :code "02025"
   :illustrator "Mitchell Malloy"
   :image-url "https://netrunnerdb.com/card_image/02025.png"
   :position 25
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "notoriety"
   :code "02026"
   :flavor "When you're this good, it's hard not to grow a fan base."
@@ -40,14 +45,16 @@
   :image-url "https://netrunnerdb.com/card_image/02026.png"
   :position 26
   :quantity 3
-  :replaced-by "20041"}
+  :replaced-by "20041"
+  :set-id "trace-amount"}
  {:card-id "snowball"
   :code "02027"
   :flavor "\"If your snowball gets big enough, you can make it into a snowman!\" -Chaos Theory"
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/02027.png"
   :position 27
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "dyson-mem-chip"
   :code "02028"
   :flavor "Archaic but reliable."
@@ -55,31 +62,36 @@
   :image-url "https://netrunnerdb.com/card_image/02028.png"
   :position 28
   :quantity 3
-  :replaced-by "20057"}
+  :replaced-by "20057"
+  :set-id "trace-amount"}
  {:card-id "encryption-protocol"
   :code "02029"
   :flavor "The key to the future lies in the past."
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/02029.png"
   :position 29
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "sherlock-1-0"
   :code "02030"
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/02030.png"
   :position 30
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "jinteki-replicating-perfection"
   :code "02031"
   :image-url "https://netrunnerdb.com/card_image/02031.png"
   :position 31
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "fetal-ai"
   :code "02032"
   :illustrator "Eko Puteh"
   :image-url "https://netrunnerdb.com/card_image/02032.png"
   :position 32
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "trick-of-light"
   :code "02033"
   :flavor "Smoke and mirrors optional."
@@ -87,50 +99,58 @@
   :image-url "https://netrunnerdb.com/card_image/02033.png"
   :position 33
   :quantity 3
-  :replaced-by "20107"}
+  :replaced-by "20107"
+  :set-id "trace-amount"}
  {:card-id "sensei"
   :code "02034"
   :flavor "Peace and violence. Both must lead to the same place."
   :illustrator "Sandara Tang"
   :image-url "https://netrunnerdb.com/card_image/02034.png"
   :position 34
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "big-brother"
   :code "02035"
   :flavor "Looking out for your interests since 1984."
   :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/02035.png"
   :position 35
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "chilo-city-grid"
   :code "02036"
   :flavor "Clones whisper of ChiLo as a promised land of freedom."
   :illustrator "Jonathan Lee"
   :image-url "https://netrunnerdb.com/card_image/02036.png"
   :position 36
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "power-grid-overload"
   :code "02037"
   :illustrator "Howard Schechlman"
   :image-url "https://netrunnerdb.com/card_image/02037.png"
   :position 37
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "amazon-industrial-zone"
   :code "02038"
   :illustrator "Jon Hrubesch"
   :image-url "https://netrunnerdb.com/card_image/02038.png"
   :position 38
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "executive-retreat"
   :code "02039"
   :illustrator "JB Casacop"
   :image-url "https://netrunnerdb.com/card_image/02039.png"
   :position 39
-  :quantity 3}
+  :quantity 3
+  :set-id "trace-amount"}
  {:card-id "freelancer"
   :code "02040"
   :flavor "No contract. Just a handshake and a fistful of C-6 high explosives."
   :illustrator "RJ Palmer"
   :image-url "https://netrunnerdb.com/card_image/02040.png"
   :position 40
-  :quantity 3}]
+  :quantity 3
+  :set-id "trace-amount"}]
