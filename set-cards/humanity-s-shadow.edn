@@ -1,118 +1,144 @@
-[{:code "02081"
-  :card-id "surge"
+[{:card-id "surge"
+  :code "02081"
   :flavor "You must yell \"surge\" to get the full effect."
   :illustrator "Andrew Mar"
+  :image-url "https://netrunnerdb.com/card_image/02081.png"
   :position 81
   :quantity 3}
- {:code "02082"
-  :card-id "xanadu"
+ {:card-id "xanadu"
+  :code "02082"
   :flavor "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge"
   :illustrator "Andrew Mar"
+  :image-url "https://netrunnerdb.com/card_image/02082.png"
   :position 82
-  :quantity 3}
- {:code "02083"
-  :card-id "andromeda-dispossessed-ristie"
+  :quantity 3
+  :replaced-by "20018"}
+ {:card-id "andromeda-dispossessed-ristie"
+  :code "02083"
   :flavor "\"I run with the best.\""
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/02083.png"
   :position 83
   :quantity 3}
- {:code "02084"
-  :card-id "networking"
+ {:card-id "networking"
+  :code "02084"
   :flavor "She preferred to do business in a club. Something about the lights and dancers clouded the judgment of the corporate simpletons she met there."
   :illustrator "Gong Studios"
+  :image-url "https://netrunnerdb.com/card_image/02084.png"
   :position 84
   :quantity 3}
- {:code "02085"
-  :card-id "hq-interface"
+ {:card-id "hq-interface"
+  :code "02085"
   :flavor "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments."
   :illustrator "Robert Chew"
+  :image-url "https://netrunnerdb.com/card_image/02085.png"
   :position 85
-  :quantity 3}
- {:code "02086"
-  :card-id "pheromones"
+  :quantity 3
+  :replaced-by "20026"}
+ {:card-id "pheromones"
+  :code "02086"
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/02086.png"
   :position 86
-  :quantity 3}
- {:code "02087"
-  :card-id "quality-time"
+  :quantity 3
+  :replaced-by "20031"}
+ {:card-id "quality-time"
+  :code "02087"
   :flavor "She at her P.A.D. I at my rig. Low lights. Smooth jazz. Love blooms."
   :illustrator "Erfan Fajar"
+  :image-url "https://netrunnerdb.com/card_image/02087.png"
   :position 87
   :quantity 3}
- {:code "02088"
-  :card-id "replicator"
+ {:card-id "replicator"
+  :code "02088"
   :flavor "Do you really need another one?"
   :illustrator "Mike Nesbitt"
+  :image-url "https://netrunnerdb.com/card_image/02088.png"
   :position 88
   :quantity 3}
- {:code "02089"
-  :card-id "creeper"
+ {:card-id "creeper"
+  :code "02089"
   :flavor "\"The itsy bitsy spider went up the data spout…\"\n-Chaos Theory"
   :illustrator "JuanManuel Tumburus"
+  :image-url "https://netrunnerdb.com/card_image/02089.png"
   :position 89
   :quantity 3}
- {:code "02090"
-  :card-id "kraken"
+ {:card-id "kraken"
+  :code "02090"
   :flavor "Early permutations of the kraken proved to be insatiable, ice-devouring marauders. Not much has changed."
   :illustrator "Liiga Smilshkalne"
+  :image-url "https://netrunnerdb.com/card_image/02090.png"
   :position 90
   :quantity 3}
- {:code "02091"
-  :card-id "kati-jones"
+ {:card-id "kati-jones"
+  :code "02091"
   :flavor "\"You aren't the only type of runner in New Angeles.\""
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/02091.png"
   :position 91
   :quantity 3}
- {:code "02092"
-  :card-id "eve-campaign"
+ {:card-id "eve-campaign"
+  :code "02092"
   :illustrator "Sara K. Diesel"
+  :image-url "https://netrunnerdb.com/card_image/02092.png"
   :position 92
   :quantity 3}
- {:code "02093"
-  :card-id "rework"
+ {:card-id "rework"
+  :code "02093"
   :flavor "Also known as \"development hell.\""
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/02093.png"
   :position 93
   :quantity 3}
- {:code "02094"
-  :card-id "whirlpool"
+ {:card-id "whirlpool"
+  :code "02094"
   :flavor "\"This ice sucks.\" -g00ru"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/02094.png"
   :position 94
-  :quantity 3}
- {:code "02095"
-  :card-id "hokusai-grid"
+  :quantity 3
+  :replaced-by "20103"}
+ {:card-id "hokusai-grid"
+  :code "02095"
   :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/02095.png"
   :position 95
-  :quantity 3}
- {:code "02096"
-  :card-id "data-hound"
+  :quantity 3
+  :replaced-by "20108"}
+ {:card-id "data-hound"
+  :code "02096"
   :flavor "Sniff."
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/02096.png"
   :position 96
   :quantity 3}
- {:code "02097"
-  :card-id "bernice-mai"
+ {:card-id "bernice-mai"
+  :code "02097"
   :flavor "Keeping tabs on the world, one screen at a time."
   :illustrator "Erfan Fajar"
+  :image-url "https://netrunnerdb.com/card_image/02097.png"
   :position 97
-  :quantity 3}
- {:code "02098"
-  :card-id "salvage"
+  :quantity 3
+  :replaced-by "20123"}
+ {:card-id "salvage"
+  :code "02098"
   :flavor "You're not in Kansas anymore."
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/02098.png"
   :position 98
   :quantity 3}
- {:code "02099"
-  :card-id "simone-diego"
+ {:card-id "simone-diego"
+  :code "02099"
   :flavor "\"A job done once is a job done right.\""
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/02099.png"
   :position 99
   :quantity 3}
- {:code "02100"
-  :card-id "foxfire"
+ {:card-id "foxfire"
+  :code "02100"
   :flavor "\"It's kind of like an anagram.\" -designer Phoenix"
   :illustrator "Jen Zee"
+  :image-url "https://netrunnerdb.com/card_image/02100.png"
   :position 100
   :quantity 3}]

@@ -2,116 +2,143 @@
   :code "02061"
   :flavor "\"Saved my bacon more than once, but gives a wicked sense of déjà vu.\" -Whizzard"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/02061.png"
   :position 61
   :quantity 3}
  {:card-id "force-of-nature"
   :code "02062"
   :flavor "It always strikes twice."
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/02062.png"
   :position 62
-  :quantity 3}
+  :quantity 3
+  :replaced-by "20010"}
  {:card-id "scrubber"
   :code "02063"
   :flavor "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly"
   :illustrator "Mike Nesbitt"
+  :image-url "https://netrunnerdb.com/card_image/02063.png"
   :position 63
-  :quantity 3}
+  :quantity 3
+  :replaced-by "20017"}
  {:card-id "doppelganger"
   :code "02064"
   :flavor "Twice the fun."
   :illustrator "Howard Schechlman"
+  :image-url "https://netrunnerdb.com/card_image/02064.png"
   :position 64
-  :quantity 3}
+  :quantity 3
+  :replaced-by "20025"}
  {:card-id "crescentus"
   :code "02065"
   :flavor "Cyberspace's strongest glue."
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/02065.png"
   :position 65
   :quantity 3}
  {:card-id "deus-x"
   :code "02066"
   :flavor "Didn't see that coming."
   :illustrator "Andrew Mar"
+  :image-url "https://netrunnerdb.com/card_image/02066.png"
   :position 66
   :quantity 3}
  {:card-id "all-nighter"
   :code "02067"
   :flavor "\"I don't care what the studies show. From my experience, I can ingest three cans of Diesel an hour for up to twelve hours before going into cardiac arrest.\" -heard during the eleventh hour"
   :illustrator "Outland Entertainment LLC"
+  :image-url "https://netrunnerdb.com/card_image/02067.png"
   :position 67
-  :quantity 3}
+  :quantity 3
+  :replaced-by "20053"}
  {:card-id "inside-man"
   :code "02068"
   :flavor "Few corporate employees have such wide-sweeping security clearance as the janitorial staff. Most corps foolishly think they're too dim-witted to take advantage of it."
   :illustrator "Mauricio Herrera"
+  :image-url "https://netrunnerdb.com/card_image/02068.png"
   :position 68
   :quantity 3}
  {:card-id "underworld-contact"
   :code "02069"
   :flavor "\"My boss rewards quality work. If you know what's good for you, you'll keep it up.\""
   :illustrator "Nate Stefan"
+  :image-url "https://netrunnerdb.com/card_image/02069.png"
   :position 69
-  :quantity 3}
+  :quantity 3
+  :replaced-by "20060"}
  {:card-id "green-level-clearance"
   :code "02070"
   :flavor "Green-two clearance is the highest level of security a corp can gain access to. Legally, anyway."
   :illustrator "Mauricio Herrera"
+  :image-url "https://netrunnerdb.com/card_image/02070.png"
   :position 70
-  :quantity 3}
+  :quantity 3
+  :replaced-by "20073"}
  {:card-id "hourglass"
   :code "02071"
   :flavor "Time just slips away."
   :illustrator "JuanManuel Tumburus"
+  :image-url "https://netrunnerdb.com/card_image/02071.png"
   :position 71
   :quantity 3}
  {:card-id "dedicated-server"
   :code "02072"
   :flavor "so very still, even\ncherry blossoms are not stirred\nby the temple bell\n-Fuhaku"
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/02072.png"
   :position 72
   :quantity 3}
  {:card-id "bullfrog"
   :code "02073"
   :illustrator "Christina Davis"
+  :image-url "https://netrunnerdb.com/card_image/02073.png"
   :position 73
   :quantity 3}
  {:card-id "uroboros"
   :code "02074"
   :flavor "Where one thing ends, another begins."
   :illustrator "Liiga Smilshkalne"
+  :image-url "https://netrunnerdb.com/card_image/02074.png"
   :position 74
   :quantity 3}
  {:card-id "net-police"
   :code "02075"
   :flavor "This is the net. We work here. We're cops."
   :illustrator "Amelie Hutt"
+  :image-url "https://netrunnerdb.com/card_image/02075.png"
   :position 75
   :quantity 3}
  {:card-id "weyland-consortium-because-we-built-it"
   :code "02076"
   :flavor "Constructing Cyberspace."
+  :image-url "https://netrunnerdb.com/card_image/02076.png"
   :position 76
   :quantity 3}
  {:card-id "government-contracts"
   :code "02077"
   :flavor "It's really hard to lose a government contract."
   :illustrator "Mitchell Malloy"
+  :image-url "https://netrunnerdb.com/card_image/02077.png"
   :position 77
   :quantity 3}
  {:card-id "tyrant"
   :code "02078"
   :flavor "Thou shall not pass."
   :illustrator "Isuardi Therianto"
+  :image-url "https://netrunnerdb.com/card_image/02078.png"
   :position 78
   :quantity 3}
  {:card-id "oversight-ai"
   :code "02079"
   :illustrator "Mark Anthony Taduran"
+  :image-url "https://netrunnerdb.com/card_image/02079.png"
   :position 79
   :quantity 3}
  {:card-id "false-lead"
   :code "02080"
   :flavor "It didn't look like the headquarters of a multi-billion cred company. Probably because it wasn't."
   :illustrator "Bruno Balixa"
+  :image-url "https://netrunnerdb.com/card_image/02080.png"
   :position 80
-  :quantity 3}]
+  :quantity 3
+  :replaced-by "20124"}]

@@ -1,133 +1,133 @@
-[{:code "11021"
-  :card-id "credit-crash"
+[{:card-id "credit-crash"
+  :code "11021"
   :illustrator "Jenn Tran"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_21.png"
   :position 21
   :quantity 3}
- {:code "11022"
-  :card-id "rumor-mill"
+ {:card-id "rumor-mill"
+  :code "11022"
   :flavor "\"You can have a lot of fun in 23 seconds.\" -Princess Space Kitten"
   :illustrator "Tim Durning"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_22.png"
   :position 22
   :quantity 3}
- {:code "11023"
-  :card-id "nfr"
+ {:card-id "nfr"
+  :code "11023"
   :flavor "Balance out the equation."
   :illustrator "Mariusz Siergiejew"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_23.png"
   :position 23
   :quantity 3}
- {:code "11024"
-  :card-id "paperclip"
+ {:card-id "paperclip"
+  :code "11024"
   :flavor "\"It is not wise to call someone crazy until you fully understand what they're trying to say.\" -Omar Keung"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_24.png"
   :position 24
   :quantity 3}
- {:code "11025"
-  :card-id "golden"
+ {:card-id "golden"
+  :code "11025"
   :flavor "The program was as close to a hunting raptor as she could afford...for now."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_25.png"
   :position 25
   :quantity 3}
- {:code "11026"
-  :card-id "temujin-contract"
+ {:card-id "temujin-contract"
+  :code "11026"
   :flavor "\"The best part is, it's legal!\" -Khan"
   :illustrator "Timur Shevtsov"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_26.png"
   :position 26
   :quantity 3}
- {:code "11027"
-  :card-id "khan-savvy-skiptracer"
+ {:card-id "khan-savvy-skiptracer"
+  :code "11027"
   :illustrator "Matt Zeilinger"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_27.png"
   :position 27
   :quantity 3}
- {:code "11028"
-  :card-id "data-breach"
+ {:card-id "data-breach"
+  :code "11028"
   :flavor "Once a security flaw is identified, there's only a limited window to exploit it before it's patched. Runners call this period \"open season.\""
   :illustrator "Juan Novelletto"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_28.png"
   :position 28
   :quantity 3}
- {:code "11029"
-  :card-id "algo-trading"
+ {:card-id "algo-trading"
+  :code "11029"
   :illustrator "Caroline Elizabeth Huss"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_29.png"
   :position 29
   :quantity 3}
- {:code "11030"
-  :card-id "beth-kilrain-chang"
+ {:card-id "beth-kilrain-chang"
+  :code "11030"
   :flavor "\"Coming to you live from the front lines, for now, unless they kill me...\""
   :illustrator "Aurore Folny"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_30.png"
   :position 30
   :quantity 3}
- {:code "11031"
-  :card-id "fairchild-2-0"
+ {:card-id "fairchild-2-0"
+  :code "11031"
   :flavor "To threaten my treasures is to incur my wrath."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_31.png"
   :position 31
   :quantity 3}
- {:code "11032"
-  :card-id "aiki"
+ {:card-id "aiki"
+  :code "11032"
   :flavor "First, blend with the attacker. Then, control the attack."
   :illustrator "BalanceSheet"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_32.png"
   :position 32
   :quantity 3}
- {:code "11033"
-  :card-id "enforcing-loyalty"
+ {:card-id "enforcing-loyalty"
+  :code "11033"
   :flavor "\"Eiko here. It's done.\""
   :illustrator "Adam Schumpert"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_33.png"
   :position 33
   :quantity 3}
- {:code "11034"
-  :card-id "hatchet-job"
+ {:card-id "hatchet-job"
+  :code "11034"
   :flavor "\"SELL!! Buy platinum, but GET OUT OF THE TT CREDIT! It is TOXIC!\""
   :illustrator "Gary Bedell"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_34.png"
   :position 34
   :quantity 3}
- {:code "11035"
-  :card-id "special-report"
+ {:card-id "special-report"
+  :code "11035"
   :flavor "By the time the report of Emelyov's murder was produced, there had already been a dozen more, hitting all the corps."
   :illustrator "Aurore Folny"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_35.png"
   :position 35
   :quantity 3}
- {:code "11036"
-  :card-id "c-i-fund"
+ {:card-id "c-i-fund"
+  :code "11036"
   :illustrator "Samuel Leung"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_36.png"
   :position 36
   :quantity 3}
- {:code "11037"
-  :card-id "liquidation"
+ {:card-id "liquidation"
+  :code "11037"
   :flavor "What's a little insurance fraud between friends?"
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_37.png"
   :position 37
   :quantity 3}
- {:code "11038"
-  :card-id "weyland-consortium-builder-of-nations"
+ {:card-id "weyland-consortium-builder-of-nations"
+  :code "11038"
   :flavor "Strength makes leaders."
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_38.png"
   :position 38
   :quantity 3}
- {:code "11039"
-  :card-id "financial-collapse"
+ {:card-id "financial-collapse"
+  :code "11039"
   :flavor "She'd never heard her dads argue like this. Not ever. She'd give anything to make it stop."
   :illustrator "Matt Zeilinger"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_39.png"
   :position 39
   :quantity 3}
- {:code "11040"
-  :card-id "prisec"
+ {:card-id "prisec"
+  :code "11040"
   :flavor "\"While the money pooled at the top, the power went with it, until there were two sets of laws: one for them, one for us\" -Omar Keung, the Flashpoint"
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN37_40.png"

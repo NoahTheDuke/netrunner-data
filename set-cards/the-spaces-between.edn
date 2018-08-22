@@ -1,131 +1,131 @@
-[{:code "06021"
-  :card-id "the-foundry-refining-the-process"
+[{:card-id "the-foundry-refining-the-process"
+  :code "06021"
   :illustrator "Emilio Rodriguez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_21.png"
   :position 21
   :quantity 3}
- {:code "06022"
-  :card-id "enhanced-login-protocol"
+ {:card-id "enhanced-login-protocol"
+  :code "06022"
   :illustrator "Lili Ibrahim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_22.png"
   :position 22
   :quantity 3}
- {:code "06023"
-  :card-id "heinlein-grid"
+ {:card-id "heinlein-grid"
+  :code "06023"
   :flavor "\"There are many advantages to having facilities on the moon. Less traffic, for example.\" -Director Hass"
   :illustrator "Henning Ludvigsen"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_23.png"
   :position 23
   :quantity 3}
- {:code "06024"
-  :card-id "encrypted-portals"
+ {:card-id "encrypted-portals"
+  :code "06024"
   :flavor "\"Binary computing is obsolete. I use a base-4 structure for this system; it's modeled on our DNA. Well, my DNA, anyway.\" -Doctor Endo, Jinteki researcher"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_24.png"
   :position 24
   :quantity 3}
- {:code "06025"
-  :card-id "cerebral-static"
+ {:card-id "cerebral-static"
+  :code "06025"
   :flavor "Her eyes were the color of a vidscreen, tuned to a dead channel."
   :illustrator "Lili Ibrahim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_25.png"
   :position 25
   :quantity 3}
- {:code "06026"
-  :card-id "targeted-marketing"
+ {:card-id "targeted-marketing"
+  :code "06026"
   :illustrator "Gong Studios"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_26.png"
   :position 26
   :quantity 3}
- {:code "06027"
-  :card-id "information-overload"
+ {:card-id "information-overload"
+  :code "06027"
   :flavor "Throw enough data at a runner and it ceases to have any meaning at all."
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_27.png"
   :position 27
   :quantity 3}
- {:code "06028"
-  :card-id "paywall-implementation"
+ {:card-id "paywall-implementation"
+  :code "06028"
   :illustrator "Gong Studios"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_28.png"
   :position 28
   :quantity 3}
- {:code "06029"
-  :card-id "sealed-vault"
+ {:card-id "sealed-vault"
+  :code "06029"
   :flavor "Nothing is impenetrable. The key is to make breaking into it more costly than what it's worth."
   :illustrator "Bruno Balixa"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_29.png"
   :position 29
   :quantity 3}
- {:code "06030"
-  :card-id "eden-fragment"
+ {:card-id "eden-fragment"
+  :code "06030"
   :illustrator "Seage"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_30.png"
   :position 30
   :quantity 3}
- {:code "06031"
-  :card-id "lag-time"
+ {:card-id "lag-time"
+  :code "06031"
   :flavor "\"I don't care how good your console is, or how tricked out your rig is. The lag time on a run on the moon from earthside can be a killer.\" -Leela Patel"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_31.png"
   :position 31
   :quantity 3}
- {:code "06032"
-  :card-id "will-o-the-wisp"
+ {:card-id "will-o-the-wisp"
+  :code "06032"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_32.png"
   :position 32
   :quantity 3}
- {:code "06033"
-  :card-id "d4v1d"
+ {:card-id "d4v1d"
+  :code "06033"
   :flavor "Sometimes a single stone is enough."
   :illustrator "Andreas Zafiratos"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_33.png"
   :position 33
   :quantity 3}
- {:code "06034"
-  :card-id "scrubbed"
+ {:card-id "scrubbed"
+  :code "06034"
   :illustrator "Chris Newman"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_34.png"
   :position 34
   :quantity 3}
- {:code "06035"
-  :card-id "three-steps-ahead"
+ {:card-id "three-steps-ahead"
+  :code "06035"
   :flavor "In this business, you had to anticipate. If you weren't three steps ahead, you were three steps behind."
   :illustrator "Beny Maulana"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_35.png"
   :position 35
   :quantity 3}
- {:code "06036"
-  :card-id "unscheduled-maintenance"
+ {:card-id "unscheduled-maintenance"
+  :code "06036"
   :flavor "What goes up must always go down."
   :illustrator "Aaron Agregado"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_36.png"
   :position 36
   :quantity 3}
- {:code "06037"
-  :card-id "cache"
+ {:card-id "cache"
+  :code "06037"
   :flavor "\"People keep saying that 'Cash is king' in the business, like it's untraceable in the days of DNA sniffers and microtracers. Digital credits can be just as anonymous, and they're just as easy to counterfeit.\" -Silhouette"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_37.png"
   :position 37
   :quantity 3}
- {:code "06038"
-  :card-id "net-celebrity"
+ {:card-id "net-celebrity"
+  :code "06038"
   :flavor "Fifteen seconds of fame."
   :illustrator "Isuardi Therianto"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_38.png"
   :position 38
   :quantity 3}
- {:code "06039"
-  :card-id "llds-energy-regulator"
+ {:card-id "llds-energy-regulator"
+  :code "06039"
   :flavor "Originally not very popular, the regulator was overlooked by those who used energy sinks to protect their rig. But it quickly found an audience once Smoke casted a run on a Blue Sun server, using it to keep her rig online while repeatedly diverting energy spikes in excess of 50,000 volts."
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_39.png"
   :position 39
   :quantity 3}
- {:code "06040"
-  :card-id "ghost-runner"
+ {:card-id "ghost-runner"
+  :code "06040"
   :flavor "In the spaces between the data, do trapped souls from the past persist?"
   :illustrator "Madeline Boni"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN17_40.png"

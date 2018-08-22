@@ -1,131 +1,131 @@
-[{:code "21061"
-  :card-id "glut-cipher"
+[{:card-id "glut-cipher"
+  :code "21061"
   :flavor "\"Ever watch a server vomit?\""
   :illustrator "Donald Crank"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_61.png"
   :position 61
   :quantity 3}
- {:code "21062"
-  :card-id "knobkierie"
+ {:card-id "knobkierie"
+  :code "21062"
   :illustrator "Martin de Diego Sádaba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_62.png"
   :position 62
   :quantity 3}
- {:code "21063"
-  :card-id "419-amoral-scammer"
+ {:card-id "419-amoral-scammer"
+  :code "21063"
   :flavor "\"Is there anything better than free money?\""
   :illustrator "Antonio De Luca"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_63.png"
   :position 63
   :quantity 3}
- {:code "21064"
-  :card-id "falsified-credentials"
+ {:card-id "falsified-credentials"
+  :code "21064"
   :flavor "\"I'm sorry, sir, we weren't expecting you! You look different than I remember...\"\n\"Haircut.\""
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_64.png"
   :position 64
   :quantity 3}
- {:code "21065"
-  :card-id "rogue-trading"
+ {:card-id "rogue-trading"
+  :code "21065"
   :illustrator "Adam Schumpert"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_65.png"
   :position 65
   :quantity 3}
- {:code "21066"
-  :card-id "because-i-can"
+ {:card-id "because-i-can"
+  :code "21066"
   :flavor "At least this time around, the graphic was family-friendly."
   :illustrator "Caravan Studio"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_66.png"
   :position 66
   :quantity 3}
- {:code "21067"
-  :card-id "nyashia"
+ {:card-id "nyashia"
+  :code "21067"
   :flavor "Speed gets you in, intuition gets you out."
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_67.png"
   :position 67
   :quantity 3}
- {:code "21068"
-  :card-id "consume"
+ {:card-id "consume"
+  :code "21068"
   :flavor "\"It 'ate' the vertex grid?! What does that even mean?\"\n- Nkiru Qiū, Asa Group sysop"
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_68.png"
   :position 68
   :quantity 3}
- {:code "21069"
-  :card-id "malia-z0l0k4"
+ {:card-id "malia-z0l0k4"
+  :code "21069"
   :flavor "A Model G21V Tracker, Malia Z0L0K4 excels at locating assignments and subduing them."
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_69.png"
   :position 69
   :quantity 3}
- {:code "21070"
-  :card-id "kill-switch"
+ {:card-id "kill-switch"
+  :code "21070"
   :flavor "\"Don't worry, he won't feel a thing! Probably.\""
   :illustrator "Martin de Diego Sádaba"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_70.png"
   :position 70
   :quantity 3}
- {:code "21071"
-  :card-id "tempus"
+ {:card-id "tempus"
+  :code "21071"
   :illustrator "Liiga Smilshkalne"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_71.png"
   :position 71
   :quantity 3}
- {:code "21072"
-  :card-id "bio-vault"
+ {:card-id "bio-vault"
+  :code "21072"
   :flavor "Many things go in. Nothing comes out."
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_72.png"
   :position 72
   :quantity 3}
- {:code "21073"
-  :card-id "sadaka"
+ {:card-id "sadaka"
+  :code "21073"
   :illustrator "Mariusz Siergiejew"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_73.png"
   :position 73
   :quantity 3}
- {:code "21074"
-  :card-id "endless-eula"
+ {:card-id "endless-eula"
+  :code "21074"
   :flavor "\"Has anyone ever actually read one of these things?\" - 419"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_74.png"
   :position 74
   :quantity 3}
- {:code "21075"
-  :card-id "sandman"
+ {:card-id "sandman"
+  :code "21075"
   :flavor "Your first dog, your favorite food, your own mother's name. Your love, your hate, your fear. Hopes and dreams, pain and sorrow. All of it, everything, slips away."
   :illustrator "Pavel Kolomeyets"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_75.png"
   :position 75
   :quantity 3}
- {:code "21076"
-  :card-id "amani-senai"
+ {:card-id "amani-senai"
+  :code "21076"
   :flavor "Azmari EdTech's most popular instructor, Amani Senai regularly broadcasts to millions of students."
   :illustrator "Caravan Studio"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_76.png"
   :position 76
   :quantity 3}
- {:code "21077"
-  :card-id "sso-industries-fueling-innovation"
+ {:card-id "sso-industries-fueling-innovation"
+  :code "21077"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_77.png"
   :position 77
   :quantity 3}
- {:code "21078"
-  :card-id "city-works-project"
+ {:card-id "city-works-project"
+  :code "21078"
   :illustrator "Nasrul Hakim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_78.png"
   :position 78
   :quantity 3}
- {:code "21079"
-  :card-id "oduduwa"
+ {:card-id "oduduwa"
+  :code "21079"
   :flavor "Might given form."
   :illustrator "Le Vuong"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_79.png"
   :position 79
   :quantity 3}
- {:code "21080"
-  :card-id "rashida-jaheem"
+ {:card-id "rashida-jaheem"
+  :code "21080"
   :flavor "She gets the job done. And then some."
   :illustrator "Aurore Folny"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN53_80.png"

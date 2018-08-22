@@ -1,314 +1,369 @@
-[{:code "03001"
-  :card-id "cerebral-imaging-infinite-frontiers"
+[{:card-id "cerebral-imaging-infinite-frontiers"
+  :code "03001"
   :flavor "The densest information cluster in the galaxy."
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/03001.png"
   :position 1
   :quantity 3}
- {:code "03002"
-  :card-id "custom-biotics-engineered-for-success"
+ {:card-id "custom-biotics-engineered-for-success"
+  :code "03002"
   :flavor "The Once and Future Android."
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/03002.png"
   :position 2
   :quantity 3}
- {:code "03003"
-  :card-id "next-design-guarding-the-net"
+ {:card-id "next-design-guarding-the-net"
+  :code "03003"
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/03003.png"
   :position 3
   :quantity 3}
- {:code "03004"
-  :card-id "director-haas-pet-project"
+ {:card-id "director-haas-pet-project"
+  :code "03004"
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03004.png"
   :position 4
   :quantity 3}
- {:code "03005"
-  :card-id "efficiency-committee"
+ {:card-id "efficiency-committee"
+  :code "03005"
   :illustrator "Jason Rumpff"
+  :image-url "https://netrunnerdb.com/card_image/03005.png"
   :position 5
   :quantity 3}
- {:code "03006"
-  :card-id "project-wotan"
+ {:card-id "project-wotan"
+  :code "03006"
   :illustrator "Daniel Atanasov"
+  :image-url "https://netrunnerdb.com/card_image/03006.png"
   :position 6
   :quantity 3}
- {:code "03007"
-  :card-id "sentinel-defense-program"
+ {:card-id "sentinel-defense-program"
+  :code "03007"
   :flavor "\"Why limit our best assets to our own servers? The enemy doesn't stay passively at home, waiting for us to come to him. Why should we?\" -Director Haas"
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/03007.png"
   :position 7
   :quantity 3}
- {:code "03008"
-  :card-id "alix-t4lb07"
+ {:card-id "alix-t4lb07"
+  :code "03008"
   :flavor "The Alix model was based on a successful hedge fund manager but she had a tendency to burn out. Literally."
   :illustrator "Diana Martinez"
+  :image-url "https://netrunnerdb.com/card_image/03008.png"
   :position 8
   :quantity 3}
- {:code "03009"
-  :card-id "cerebral-overwriter"
+ {:card-id "cerebral-overwriter"
+  :code "03009"
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/03009.png"
   :position 9
   :quantity 3}
- {:code "03010"
-  :card-id "director-haas"
+ {:card-id "director-haas"
+  :code "03010"
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03010.png"
   :position 10
   :quantity 3}
- {:code "03011"
-  :card-id "haas-arcology-ai"
+ {:card-id "haas-arcology-ai"
+  :code "03011"
   :illustrator "Aaron Firem"
+  :image-url "https://netrunnerdb.com/card_image/03011.png"
   :position 11
   :quantity 3}
- {:code "03012"
-  :card-id "thomas-haas"
+ {:card-id "thomas-haas"
+  :code "03012"
   :flavor "Thomas, the director's son, has been carefully groomed to inherit the corporation since before he was born. His favorite pastime appears to be disappointing his mother."
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03012.png"
   :position 12
   :quantity 3}
- {:code "03013"
-  :card-id "bioroid-efficiency-research"
+ {:card-id "bioroid-efficiency-research"
+  :code "03013"
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/03013.png"
   :position 13
   :quantity 3}
- {:code "03014"
-  :card-id "successful-demonstration"
+ {:card-id "successful-demonstration"
+  :code "03014"
   :flavor "Success is defined by the safety of data, not the safety of potential intruders."
   :illustrator "Irys Ching"
+  :image-url "https://netrunnerdb.com/card_image/03014.png"
   :position 14
   :quantity 3}
- {:code "03015"
-  :card-id "heimdall-2-0"
+ {:card-id "heimdall-2-0"
+  :code "03015"
   :flavor "The realm beyond is still forbidden."
   :illustrator "John Derek Murphy"
+  :image-url "https://netrunnerdb.com/card_image/03015.png"
   :position 15
   :quantity 3}
- {:code "03016"
-  :card-id "howler"
+ {:card-id "howler"
+  :code "03016"
   :flavor "\"Yeah. It made a loud noise, I got scared, and I jacked out. I still think I made the right decision.\" -g00ru"
   :illustrator "Lili Ibrahim"
+  :image-url "https://netrunnerdb.com/card_image/03016.png"
   :position 16
   :quantity 3}
- {:code "03017"
-  :card-id "ichi-2-0"
+ {:card-id "ichi-2-0"
+  :code "03017"
   :flavor "The game has changed."
   :illustrator "Liiga Smilshkalne"
+  :image-url "https://netrunnerdb.com/card_image/03017.png"
   :position 17
   :quantity 3}
- {:code "03018"
-  :card-id "minelayer"
+ {:card-id "minelayer"
+  :code "03018"
   :flavor "Sometimes you just have to guess."
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/03018.png"
   :position 18
   :quantity 3}
- {:code "03019"
-  :card-id "viktor-2-0"
+ {:card-id "viktor-2-0"
+  :code "03019"
   :illustrator "Daniel Atanasov"
+  :image-url "https://netrunnerdb.com/card_image/03019.png"
   :position 19
   :quantity 3}
- {:code "03020"
-  :card-id "zed-1-0"
+ {:card-id "zed-1-0"
+  :code "03020"
   :flavor "A mind of meat! How does it work?"
   :illustrator "Daniel Atanasov"
+  :image-url "https://netrunnerdb.com/card_image/03020.png"
   :position 20
   :quantity 3}
- {:code "03021"
-  :card-id "awakening-center"
+ {:card-id "awakening-center"
+  :code "03021"
   :illustrator "Diana Martinez"
+  :image-url "https://netrunnerdb.com/card_image/03021.png"
   :position 21
   :quantity 3}
- {:code "03022"
-  :card-id "tyr-s-hand"
+ {:card-id "tyr-s-hand"
+  :code "03022"
   :illustrator "John Derek Murphy"
+  :image-url "https://netrunnerdb.com/card_image/03022.png"
   :position 22
   :quantity 3}
- {:code "03023"
-  :card-id "gila-hands-arcology"
+ {:card-id "gila-hands-arcology"
+  :code "03023"
   :flavor "Sell the dream-show them how very much they want to be rich, and they'll convince themselves that someday, they will be. How can they revolt against their future selves? -the New Gospel of Wealth"
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/03023.png"
   :position 23
   :quantity 3}
- {:code "03024"
-  :card-id "levy-university"
+ {:card-id "levy-university"
+  :code "03024"
   :flavor "\"Just another factory, making good corporate drones for the machine. Their CS department is the best in the world, though.\" -g00ru"
   :illustrator "Henning Ludvigsen"
+  :image-url "https://netrunnerdb.com/card_image/03024.png"
   :position 24
   :quantity 3}
- {:code "03025"
-  :card-id "server-diagnostics"
+ {:card-id "server-diagnostics"
+  :code "03025"
   :flavor "\"There's only a 5% chance this could result in a general failure.\""
   :illustrator "Anders Finer"
+  :image-url "https://netrunnerdb.com/card_image/03025.png"
   :position 25
   :quantity 3}
- {:code "03026"
-  :card-id "bastion"
+ {:card-id "bastion"
+  :code "03026"
   :flavor "The principle behind ice is not to keep everyone out, but to let only some people in. This ice denies entry on all but a select few ports that might change with the time of day or picosecond of connection. If you don't know what port to use, you're not getting in. Period."
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/03026.png"
   :position 26
   :quantity 3}
- {:code "03027"
-  :card-id "datapike"
+ {:card-id "datapike"
+  :code "03027"
   :flavor "\"Cheap, off-the-shelf data protection. Cheap for them, that is. Not for us.\" -Ele \"Smoke\" Scovak"
   :illustrator "Aaron Firem"
+  :image-url "https://netrunnerdb.com/card_image/03027.png"
   :position 27
   :quantity 3}
- {:code "03028"
-  :card-id "rielle-kit-peddler-transhuman"
+ {:card-id "rielle-kit-peddler-transhuman"
+  :code "03028"
   :flavor "\"I was not; I was; I am not; I am all.\""
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03028.png"
   :position 28
   :quantity 3}
- {:code "03029"
-  :card-id "the-professor-keeper-of-knowledge"
+ {:card-id "the-professor-keeper-of-knowledge"
+  :code "03029"
   :flavor "\"New technology destroys the old.\""
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03029.png"
   :position 29
   :quantity 3}
- {:code "03030"
-  :card-id "exile-streethawk"
+ {:card-id "exile-streethawk"
+  :code "03030"
   :flavor "\"I can make that work.\""
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03030.png"
   :position 30
   :quantity 3}
- {:code "03031"
-  :card-id "escher"
+ {:card-id "escher"
+  :code "03031"
   :illustrator "Shawn Ye Zhongyi"
+  :image-url "https://netrunnerdb.com/card_image/03031.png"
   :position 31
   :quantity 3}
- {:code "03032"
-  :card-id "exploratory-romp"
+ {:card-id "exploratory-romp"
+  :code "03032"
   :flavor "Wheeeee!"
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03032.png"
   :position 32
   :quantity 3}
- {:code "03033"
-  :card-id "freelance-coding-contract"
+ {:card-id "freelance-coding-contract"
+  :code "03033"
   :flavor "\"Idealism's great, but it don't keep you in soybeef tacos.\" -Matt \"TheMerc\" Thomas"
   :illustrator "Jason Rumpff"
+  :image-url "https://netrunnerdb.com/card_image/03033.png"
   :position 33
   :quantity 3}
- {:code "03034"
-  :card-id "scavenge"
+ {:card-id "scavenge"
+  :code "03034"
   :flavor "One man's trash."
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03034.png"
   :position 34
   :quantity 3}
- {:code "03035"
-  :card-id "levy-ar-lab-access"
+ {:card-id "levy-ar-lab-access"
+  :code "03035"
   :flavor "Spend too much time in the AR Lab and someone might notice. Unless you're the head of it, that is."
   :illustrator "Lili Ibrahim"
+  :image-url "https://netrunnerdb.com/card_image/03035.png"
   :position 35
   :quantity 3}
- {:code "03036"
-  :card-id "monolith"
+ {:card-id "monolith"
+  :code "03036"
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/03036.png"
   :position 36
   :quantity 3}
- {:code "03037"
-  :card-id "feedback-filter"
+ {:card-id "feedback-filter"
+  :code "03037"
   :flavor "It still hurts, a bit, the first time. The second time, you feel nothing at all. But don't push your luck."
   :illustrator "Lili Ibrahim"
+  :image-url "https://netrunnerdb.com/card_image/03037.png"
   :position 37
   :quantity 3}
- {:code "03038"
-  :card-id "clone-chip"
+ {:card-id "clone-chip"
+  :code "03038"
   :flavor "It is good practice to backup the backup."
   :illustrator "Christina Davis"
+  :image-url "https://netrunnerdb.com/card_image/03038.png"
   :position 38
   :quantity 3}
- {:code "03039"
-  :card-id "omni-drive"
+ {:card-id "omni-drive"
+  :code "03039"
   :illustrator "Bruno Balixa"
+  :image-url "https://netrunnerdb.com/card_image/03039.png"
   :position 39
   :quantity 3}
- {:code "03040"
-  :card-id "atman"
+ {:card-id "atman"
+  :code "03040"
   :flavor "We are shaped by our thoughts; we become what we think."
   :illustrator "Diana Martinez"
+  :image-url "https://netrunnerdb.com/card_image/03040.png"
   :position 40
   :quantity 3}
- {:code "03041"
-  :card-id "cloak"
+ {:card-id "cloak"
+  :code "03041"
   :flavor "\"No line that they lay could catch a shadow on the wall…\""
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/03041.png"
   :position 41
   :quantity 3}
- {:code "03042"
-  :card-id "dagger"
+ {:card-id "dagger"
+  :code "03042"
   :flavor "\"…and once the shadow rises, the curtain shall fall.\" -revenant"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/03042.png"
   :position 42
   :quantity 3}
- {:code "03043"
-  :card-id "chakana"
+ {:card-id "chakana"
+  :code "03043"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/03043.png"
   :position 43
   :quantity 3}
- {:code "03044"
-  :card-id "cyber-cypher"
+ {:card-id "cyber-cypher"
+  :code "03044"
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/03044.png"
   :position 44
   :quantity 3}
- {:code "03045"
-  :card-id "paricia"
+ {:card-id "paricia"
+  :code "03045"
   :flavor "Perfect for flooding servers."
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/03045.png"
   :position 45
   :quantity 3}
- {:code "03046"
-  :card-id "self-modifying-code"
+ {:card-id "self-modifying-code"
+  :code "03046"
   :flavor "\"Make sure you tell the source code which executable you want it to compile into. One time I left my rig for a couple of minutes, and when I came back all of my files had been replaced with cat vids.\" -The Professor"
   :illustrator "Lili Ibrahim"
+  :image-url "https://netrunnerdb.com/card_image/03046.png"
   :position 46
   :quantity 3}
- {:code "03047"
-  :card-id "sahasrara"
+ {:card-id "sahasrara"
+  :code "03047"
   :flavor "Out there, the thousand-petaled lotus symbolizes detachment from illusion. In here, it is the birthplace of a higher consciousness. Something infinitely pure."
   :illustrator "Lili Ibrahim"
+  :image-url "https://netrunnerdb.com/card_image/03047.png"
   :position 47
   :quantity 3}
- {:code "03048"
-  :card-id "inti"
+ {:card-id "inti"
+  :code "03048"
   :flavor "\"The Incans believed that the sun god resided in the Haman Pacha, the upper realm of the cosmos. They just didn't know that the Haman Pacha hadn't been discovered yet.\" -The Professor"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/03048.png"
   :position 48
   :quantity 3}
- {:code "03049"
-  :card-id "professional-contacts"
+ {:card-id "professional-contacts"
+  :code "03049"
   :flavor "Sometimes it doesn't matter how expensive your rig is, or how many credits are in your account, or even your skill as a runner. Most of the time, a simple handshake and a name are all you need."
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03049.png"
   :position 49
   :quantity 3}
- {:code "03050"
-  :card-id "borrowed-satellite"
+ {:card-id "borrowed-satellite"
+  :code "03050"
   :flavor "Some people have their own satellite receiver. Others have their own satellite."
   :illustrator "Trudi Castle"
+  :image-url "https://netrunnerdb.com/card_image/03050.png"
   :position 50
   :quantity 3}
- {:code "03051"
-  :card-id "ice-analyzer"
+ {:card-id "ice-analyzer"
+  :code "03051"
   :flavor "\"If you know the source code you can write to beat it, or just rejigger it a little and make it yours. That works, too.\" -Exile"
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/03051.png"
   :position 51
   :quantity 3}
- {:code "03052"
-  :card-id "dirty-laundry"
+ {:card-id "dirty-laundry"
+  :code "03052"
   :flavor "The data was better than she could have ever imagined. This Santiago fellow really knew what he was doing. She began to imagine the havoc she could wreak at the upcoming charity dinner…"
   :illustrator "Christina Davis"
+  :image-url "https://netrunnerdb.com/card_image/03052.png"
   :position 52
   :quantity 3}
- {:code "03053"
-  :card-id "daily-casts"
+ {:card-id "daily-casts"
+  :code "03053"
   :flavor "\"We say 'cyber-terrorist', they hear 'underground celebrity.'\" -Michael Muhama, professional expert."
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03053.png"
   :position 53
   :quantity 3}
- {:code "03054"
-  :card-id "same-old-thing"
+ {:card-id "same-old-thing"
+  :code "03054"
   :flavor "Just me, a cup of YucaBean, and last night's Hong Kong Trunk sniffed packets. I call that a good morning."
   :illustrator "Diana Martinez"
+  :image-url "https://netrunnerdb.com/card_image/03054.png"
   :position 54
   :quantity 3}
- {:code "03055"
-  :card-id "the-source"
+ {:card-id "the-source"
+  :code "03055"
   :flavor "A dangerous game, but well worth playing."
   :illustrator "Matt Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/03055.png"
   :position 55
   :quantity 3}]

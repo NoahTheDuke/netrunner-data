@@ -1,116 +1,140 @@
-[{:code "04081"
-  :card-id "quest-completed"
+[{:card-id "quest-completed"
+  :code "04081"
   :flavor "That moment of bliss. That feeling of accomplishment. That certainty of purpose.\nWhat's next?"
   :illustrator "Gong Studios"
+  :image-url "https://netrunnerdb.com/card_image/04081.png"
   :position 81
   :quantity 3}
- {:code "04082"
-  :card-id "hemorrhage"
+ {:card-id "hemorrhage"
+  :code "04082"
   :flavor "Bleeding data is more of a science than an art. Too much and you can end up with a one-way ticket to flatline city. Not enough and you might as well be running an empty server."
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/04082.png"
   :position 82
-  :quantity 3}
- {:code "04083"
-  :card-id "tallie-perrault"
+  :quantity 3
+  :replaced-by "20012"}
+ {:card-id "tallie-perrault"
+  :code "04083"
   :flavor "Stick with your plan and you'll be fine. Stick with the plan."
   :illustrator "Lorraine Schleter"
+  :image-url "https://netrunnerdb.com/card_image/04083.png"
   :position 83
   :quantity 3}
- {:code "04084"
-  :card-id "executive-wiretaps"
+ {:card-id "executive-wiretaps"
+  :code "04084"
   :flavor "\"When you need someone who is a little more hands on, look me up.\" -Silhouette"
   :illustrator "Smirtouille"
+  :image-url "https://netrunnerdb.com/card_image/04084.png"
   :position 84
   :quantity 3}
- {:code "04085"
-  :card-id "blackguard"
+ {:card-id "blackguard"
+  :code "04085"
   :flavor "The power of the focused mind is a power beyond comprehension."
   :illustrator "Smirtouille"
+  :image-url "https://netrunnerdb.com/card_image/04085.png"
   :position 85
   :quantity 3}
- {:code "04086"
-  :flavor
-  "\"CyberSolutions is a boring name for a company that makes pretty exciting products. Their memory chips have some pretty tricky stuff going on inside and I keep hearing good things about their M/MI implants. I even heard they were on the path to their own androids about a year ago. I wonder whatever happened with that?\" -Kate \"Mac\" McCaffrey"
-  :card-id "cybersolutions-mem-chip"
+ {:card-id "cybersolutions-mem-chip"
+  :code "04086"
+  :flavor "\"CyberSolutions is a boring name for a company that makes pretty exciting products. Their memory chips have some pretty tricky stuff going on inside and I keep hearing good things about their M/MI implants. I even heard they were on the path to their own androids about a year ago. I wonder whatever happened with that?\" -Kate \"Mac\" McCaffrey"
   :illustrator "Gong Studios"
+  :image-url "https://netrunnerdb.com/card_image/04086.png"
   :position 86
   :quantity 3}
- {:code "04087"
-  :card-id "alpha"
+ {:card-id "alpha"
+  :code "04087"
   :flavor "The beginning…"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/04087.png"
   :position 87
   :quantity 3}
- {:code "04088"
-  :card-id "omega"
+ {:card-id "omega"
+  :code "04088"
   :flavor "…and the end?"
   :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/04088.png"
   :position 88
   :quantity 3}
- {:code "04089"
-  :card-id "blackmail"
+ {:card-id "blackmail"
+  :code "04089"
   :illustrator "Gong Studios"
+  :image-url "https://netrunnerdb.com/card_image/04089.png"
   :position 89
   :quantity 3}
- {:code "04090"
-  :card-id "blue-level-clearance"
+ {:card-id "blue-level-clearance"
+  :code "04090"
   :flavor "Blue-one level clearance doesn't exist. And if it did exist, you wouldn't be cleared to know about it."
   :illustrator "Tim Durning"
+  :image-url "https://netrunnerdb.com/card_image/04090.png"
   :position 90
   :quantity 3}
- {:code "04091"
-  :card-id "strongbox"
+ {:card-id "strongbox"
+  :code "04091"
   :illustrator "Andreas Zafiratos"
+  :image-url "https://netrunnerdb.com/card_image/04091.png"
   :position 91
-  :quantity 3}
- {:code "04092"
-  :card-id "toshiyuki-sakai"
+  :quantity 3
+  :replaced-by "20076"}
+ {:card-id "toshiyuki-sakai"
+  :code "04092"
   :illustrator "RC Torres"
+  :image-url "https://netrunnerdb.com/card_image/04092.png"
   :position 92
   :quantity 3}
- {:code "04093"
-  :card-id "yagura"
+ {:card-id "yagura"
+  :code "04093"
   :flavor "The 'cyber-war' is a war of information, and in a war of information, advance warning can be as good as a killing blow. -Michael Muhama, Musings on Cybercrime"
   :illustrator "Andrew Mar"
+  :image-url "https://netrunnerdb.com/card_image/04093.png"
   :position 93
-  :quantity 3}
- {:code "04094"
-  :card-id "restoring-face"
+  :quantity 3
+  :replaced-by "20104"}
+ {:card-id "restoring-face"
+  :code "04094"
   :flavor "He slowly pried open the lid, and the tantō glinted madly in the half-light. The executive motioned to the blade. Looks like the meeting was being cut short."
   :illustrator "Gong Studios"
+  :image-url "https://netrunnerdb.com/card_image/04094.png"
   :position 94
   :quantity 3}
- {:code "04095"
-  :card-id "market-research"
+ {:card-id "market-research"
+  :code "04095"
   :illustrator "Gong Studios"
+  :image-url "https://netrunnerdb.com/card_image/04095.png"
   :position 95
   :quantity 3}
- {:code "04096"
-  :card-id "wraparound"
+ {:card-id "wraparound"
+  :code "04096"
   :flavor "\"It can make a real fine roller coaster, provided you're properly stimmed up.\" -Noise"
   :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/04096.png"
   :position 96
-  :quantity 3}
- {:code "04097"
-  :card-id "grndl-power-unleashed"
+  :quantity 3
+  :replaced-by "20117"}
+ {:card-id "grndl-power-unleashed"
+  :code "04097"
   :flavor "<strong>G</strong>eostrategic <strong>R</strong>esearch and <strong>N</strong>eothermal <strong>D</strong>evelopment <strong>L</strong>aboratories"
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/04097.png"
   :position 97
   :quantity 3}
- {:code "04098"
-  :card-id "vulcan-coverup"
+ {:card-id "vulcan-coverup"
+  :code "04098"
   :flavor "\"I did warn you that leaks would have to be patched.\""
   :illustrator "Adam Schumpert"
+  :image-url "https://netrunnerdb.com/card_image/04098.png"
   :position 98
   :quantity 3}
- {:code "04099"
-  :card-id "grndl-refinery"
+ {:card-id "grndl-refinery"
+  :code "04099"
   :flavor "GRNDL refineries process many different rare elements unearthed during the fracking process."
   :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/04099.png"
   :position 99
-  :quantity 3}
- {:code "04100"
-  :card-id "subliminal-messaging"
+  :quantity 3
+  :replaced-by "20083"}
+ {:card-id "subliminal-messaging"
+  :code "04100"
   :illustrator "Mike Nesbitt"
+  :image-url "https://netrunnerdb.com/card_image/04100.png"
   :position 100
   :quantity 3}]

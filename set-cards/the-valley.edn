@@ -1,129 +1,129 @@
-[{:code "08001"
-  :card-id "clot"
+[{:card-id "clot"
+  :code "08001"
   :illustrator "Adam S. Doyle"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_1.png"
   :position 1
   :quantity 3}
- {:code "08002"
-  :card-id "paige-piper"
+ {:card-id "paige-piper"
+  :code "08002"
   :flavor "\"The Valley is littered with good ideas. You need the discipline to execute if you want to stay in my incubator.\""
   :illustrator "Wenjuinn Png"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_2.png"
   :position 2
   :quantity 3}
- {:code "08003"
-  :card-id "adjusted-chronotype"
+ {:card-id "adjusted-chronotype"
+  :code "08003"
   :flavor "Turns a night owl into an early bird!"
   :illustrator "Crystal Ben"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_3.png"
   :position 3
   :quantity 3}
- {:code "08004"
-  :card-id "spike"
+ {:card-id "spike"
+  :code "08004"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_4.png"
   :position 4
   :quantity 3}
- {:code "08005"
-  :card-id "enhanced-vision"
+ {:card-id "enhanced-vision"
+  :code "08005"
   :illustrator "Diana Martinez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_5.png"
   :position 5
   :quantity 3}
- {:code "08006"
-  :card-id "gene-conditioning-shoppe"
+ {:card-id "gene-conditioning-shoppe"
+  :code "08006"
   :illustrator "James Ives"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_6.png"
   :position 6
   :quantity 3}
- {:code "08007"
-  :card-id "synthetic-blood"
+ {:card-id "synthetic-blood"
+  :code "08007"
   :flavor "Your heart deserves the best."
   :illustrator "Ismael Bergara"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_7.png"
   :position 7
   :quantity 3}
- {:code "08008"
-  :card-id "traffic-jam"
+ {:card-id "traffic-jam"
+  :code "08008"
   :illustrator "BalanceSheet"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_8.png"
   :position 8
   :quantity 3}
- {:code "08009"
-  :card-id "symmetrical-visage"
+ {:card-id "symmetrical-visage"
+  :code "08009"
   :flavor "Born for success!"
   :illustrator "Tim Durning"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_9.png"
   :position 9
   :quantity 3}
- {:code "08010"
-  :card-id "brain-taping-warehouse"
+ {:card-id "brain-taping-warehouse"
+  :code "08010"
   :flavor "In the vast universe of memories, consciousness slumbers..."
   :illustrator "Maciej Rebisz"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_10.png"
   :position 10
   :quantity 3}
- {:code "08011"
-  :card-id "next-gold"
+ {:card-id "next-gold"
+  :code "08011"
   :flavor "\"God in Heinlein. What's next, NEXT Platinum?\" -John Masanori"
   :illustrator "Ed Mattinian"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_11.png"
   :position 11
   :quantity 3}
- {:code "08012"
-  :card-id "jinteki-biotech-life-imagined"
+ {:card-id "jinteki-biotech-life-imagined"
+  :code "08012"
   :illustrator "Emilio Rodriguez"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_12.png"
   :position 12
   :quantity 3}
- {:code "08013"
-  :card-id "genetic-resequencing"
+ {:card-id "genetic-resequencing"
+  :code "08013"
   :illustrator "Rovina Cai"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_13.png"
   :position 13
   :quantity 3}
- {:code "08014"
-  :card-id "cortex-lock"
+ {:card-id "cortex-lock"
+  :code "08014"
   :flavor "The more power a spike process can use, the harder it can hit. The really clever ones borrow the runner's own memory to iterate locally."
   :illustrator "Tadas Sidlauskas"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_14.png"
   :position 14
   :quantity 3}
- {:code "08015"
-  :card-id "valley-grid"
+ {:card-id "valley-grid"
+  :code "08015"
   :illustrator "Simon Weaner"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_15.png"
   :position 15
   :quantity 3}
- {:code "08016"
-  :card-id "bandwidth"
+ {:card-id "bandwidth"
+  :code "08016"
   :flavor "\"It tracks you and logs you. If you get in you can just delete the log. But first you have to get in.\" -Gabriel Santiago"
   :illustrator "Seage"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_16.png"
   :position 16
   :quantity 3}
- {:code "08017"
-  :card-id "predictive-algorithm"
+ {:card-id "predictive-algorithm"
+  :code "08017"
   :illustrator "Ethan Patrick Harris"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_17.png"
   :position 17
   :quantity 3}
- {:code "08018"
-  :card-id "capital-investors"
+ {:card-id "capital-investors"
+  :code "08018"
   :flavor "Give a man money, and he is rich for a day. Teach a man how to invest, and he is rich for life."
   :illustrator "Lili Ibrahim"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_18.png"
   :position 18
   :quantity 3}
- {:code "08019"
-  :card-id "negotiator"
+ {:card-id "negotiator"
+  :code "08019"
   :flavor "\"Negotiation is an art, so never negotiate when you can intimidate instead.\" -Thiago Reyes, VP Strategic Operations"
   :illustrator "Andreas Zafiratos"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_19.png"
   :position 19
   :quantity 3}
- {:code "08020"
-  :card-id "tech-startup"
+ {:card-id "tech-startup"
+  :code "08020"
   :flavor "\"Don't worry. If this one fails, we can start a new one tomorrow.\""
   :illustrator "Del Borovic"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_20.png"
