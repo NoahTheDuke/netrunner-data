@@ -1,4 +1,4 @@
-({:cards {"architect" {:global_penalty 1}
+[{:cards {"architect" {:global_penalty 1}
           "astroscript-pilot-program" {:global_penalty 1}
           "cerberus-lady-h1" {:global_penalty 1}
           "clone-chip" {:global_penalty 1}
@@ -9,8 +9,8 @@
           "prepaid-voicepad" {:global_penalty 1}
           "sansan-city-grid" {:global_penalty 1}
           "yog-0" {:global_penalty 1}}
-  :id :napd-mwl-1-0
   :date-start "2016-02-01"
+  :id :napd-mwl-1-0
   :name "NAPD MWL 1.0"}
  {:cards {"architect" {:global_penalty 1}
           "breaking-news" {:global_penalty 1}
@@ -27,8 +27,8 @@
           "sansan-city-grid" {:global_penalty 1}
           "wyldside" {:global_penalty 1}
           "yog-0" {:global_penalty 1}}
-  :id :napd-mwl-1-1
   :date-start "2016-08-01"
+  :id :napd-mwl-1-1
   :name "NAPD MWL 1.1"}
  {:cards {"architect" {:universal_faction_cost 1}
           "bio-ethics-association" {:universal_faction_cost 1}
@@ -50,8 +50,8 @@
           "temujin-contract" {:universal_faction_cost 1}
           "wyldside" {:universal_faction_cost 1}
           "yog-0" {:universal_faction_cost 1}}
-  :id :napd-mwl-1-2
   :date-start "2017-04-12"
+  :id :napd-mwl-1-2
   :name "NAPD MWL 1.2"}
  {:cards {"aaron-marron" {:deck_limit 0}
           "aesop-s-pawnshop" {:is_restricted 1}
@@ -80,8 +80,8 @@
           "sensie-actors-union" {:deck_limit 0}
           "sifr" {:deck_limit 0}
           "temujin-contract" {:deck_limit 0}}
-  :id :napd-mwl-2-0
   :date-start "2017-10-01"
+  :id :napd-mwl-2-0
   :name "NAPD MWL 2.0"}
  {:cards {"aaron-marron" {:deck_limit 0}
           "aesop-s-pawnshop" {:is_restricted 1}
@@ -115,6 +115,49 @@
           "temujin-contract" {:deck_limit 0}
           "violet-level-clearance" {:deck_limit 0}
           "whampoa-reclamation" {:is_restricted 1}}
-  :id :napd-mwl-2-1
   :date-start "2018-02-26"
-  :name "NAPD MWL 2.1"})
+  :id :napd-mwl-2-1
+  :name "NAPD MWL 2.1"}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
+          "aaron-marron" {:deck-limit 0}
+          "aesop-s-pawnshop" {:is-restricted 1}
+          "bio-ethics-association" {:is-restricted 1}
+          "bloo-moose" {:deck-limit 0}
+          "brain-rewiring" {:is-restricted 1}
+          "bryan-stinton" {:is-restricted 1}
+          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
+          "clone-suffrage-movement" {:deck-limit 0}
+          "employee-strike" {:is-restricted 1}
+          "estelle-moon" {:deck-limit 0}
+          "faust" {:deck-limit 0}
+          "film-critic" {:is-restricted 1}
+          "friends-in-high-places" {:deck-limit 0}
+          "gang-sign" {:is-restricted 1}
+          "global-food-initiative" {:is-restricted 1}
+          "hunter-seeker" {:is-restricted 1}
+          "hyperdriver" {:deck-limit 0}
+          "inversificator" {:is-restricted 1}
+          "jinteki-potential-unleashed" {:is-restricted 1}
+          "levy-ar-lab-access" {:is-restricted 1}
+          "mad-dash" {:is-restricted 1}
+          "magnum-opus" {:is-restricted 1}
+          "mars-for-martians" {:deck-limit 0}
+          "mother-goddess" {:is-restricted 1}
+          "mumba-temple" {:is-restricted 1}
+          "mumbad-city-hall" {:is-restricted 1}
+          "museum-of-history" {:deck-limit 0}
+          "obakata-protocol" {:is-restricted 1}
+          "rumor-mill" {:is-restricted 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "sensie-actors-union" {:deck-limit 0}
+          "sifr" {:deck-limit 0}
+          "skorpios-defense-systems-persuasive-power" {:is-restricted 1}
+          "surveyor" {:is-restricted 1}
+          "tapwrm" {:deck-limit 0}
+          "temujin-contract" {:deck-limit 0}
+          "violet-level-clearance" {:is-restricted 1}
+          "whampoa-reclamation" {:is-restricted 1}
+          "zer0" {:deck-limit 0}}
+  :date-start "2018-09-06"
+  :id :napd-mwl-2-2
+  :name "NAPD MWL 2.2"}]
