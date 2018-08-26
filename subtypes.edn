@@ -119,7 +119,7 @@
   :name "Fracter"
   :side :runner}
  {:id :g-mod
-  :name "G-Mod"
+  :name "G-mod"
   :side :runner}
  {:id :gear
   :name "Gear"
@@ -182,7 +182,7 @@
   :name "Observer"
   :side :corp}
  {:id :off-site
-  :name "Off-Site"
+  :name "Off-site"
   :side :corp}
  {:id :political
   :name "Political"
