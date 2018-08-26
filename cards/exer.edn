@@ -5,6 +5,7 @@
  :influence-value 3
  :memory-cost 1
  :side :runner
+ :strength 0
  :subtype [:virus]
  :text "Whenever you access cards from R&D, access 1 additional card.\nTrash eXer if the Corp purges virus counters."
  :title "eXer"

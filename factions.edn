@@ -1,48 +1,48 @@
-({:code :adam
+({:id :adam
   :is-mini true
   :name "Adam"
   :side :runner}
- {:code :anarch
+ {:id :anarch
   :is-mini false
   :name "Anarch"
   :side :runner}
- {:code :apex
+ {:id :apex
   :is-mini true
   :name "Apex"
   :side :runner}
- {:code :criminal
+ {:id :criminal
   :is-mini false
   :name "Criminal"
   :side :runner}
- {:code :haas-bioroid
+ {:id :haas-bioroid
   :is-mini false
   :name "Haas-Bioroid"
   :side :corp}
- {:code :jinteki
+ {:id :jinteki
   :is-mini false
   :name "Jinteki"
   :side :corp}
- {:code :nbn
+ {:id :nbn
   :is-mini false
   :name "NBN"
   :side :corp}
- {:code :neutral-corp
+ {:id :neutral-corp
   :is-mini false
   :name "Neutral"
   :side :corp}
- {:code :neutral-runner
+ {:id :neutral-runner
   :is-mini false
   :name "Neutral"
   :side :runner}
- {:code :shaper
+ {:id :shaper
   :is-mini false
   :name "Shaper"
   :side :runner}
- {:code :sunny-lebeau
+ {:id :sunny-lebeau
   :is-mini true
   :name "Sunny Lebeau"
   :side :runner}
- {:code :weyland-consortium
+ {:id :weyland-consortium
   :is-mini false
   :name "Weyland Consortium"
   :side :corp})
