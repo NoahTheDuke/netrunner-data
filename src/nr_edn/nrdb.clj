@@ -3,31 +3,7 @@
             [clojure.java.io :as io]
             [clojure.edn :as edn]
             [clojure.set :refer [rename-keys]]
-            [org.httpkit.client :as http]
-            [zprint.core :as zp]))
-
-(defn download-edn-data
-  "Translate data from NRDB"
-  [path]
-  (let [{:keys [status body error] :as resp} @(http/get (str base-url path))]
-    (cond
-      error (throw (Exception. (str "Failed to download file " error)))
-      (= 200 status) body
-      :else (throw (Exception. (str "Failed to download file, status " status))))))
-
-(defn slugify
-  "As defined here: https://you.tools/slugify/"
-  ([s] (slugify s "-"))
-  ([s sep]
-   (if (nil? s) ""
-     (as-> s s
-       (java.text.Normalizer/normalize s java.text.Normalizer$Form/NFD)
-       (string/replace s #"[\P{ASCII}]+" "")
-       (string/lower-case s)
-       (string/trim s)
-       (string/split s #"[\p{Space}\p{Punct}]+")
-       (filter seq s)
-       (string/join sep s)))))
+            [org.httpkit.client :as http]))
 
 (defn read-edn-file
   [file-path]
