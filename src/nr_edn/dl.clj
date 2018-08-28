@@ -1,9 +1,13 @@
-(ns nr-edn.nrdb
+(ns nr-edn.dl
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
             [clojure.edn :as edn]
             [clojure.set :refer [rename-keys]]
             [org.httpkit.client :as http]))
+
+(defmacro vals->vec
+  [coll]
+  `(into [] (vals ~coll)))
 
 (defn read-edn-file
   [file-path]
@@ -48,10 +52,8 @@
        :size (:size s)})))
 
 (defn merge-sets-and-cards
-  ([set-cards raw-cards]
-   (merge-sets-and-cards set-cards raw-cards :card-id))
-  ([set-cards raw-cards kw]
-   (map #(merge % (get raw-cards (get % kw))) set-cards)))
+  [set-cards raw-cards]
+  (map #(merge % (get raw-cards (:card-id %))) set-cards))
 
 (defn- prune-null-fields
   [card]

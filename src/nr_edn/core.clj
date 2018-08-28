@@ -1,11 +1,7 @@
 (ns nr-edn.core
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
-            [nr-edn.nrdb :refer :all]))
-
-(defmacro vals->vec
-  [coll]
-  `(into [] (vals ~coll)))
+            [nr-edn.dl :refer :all]))
 
 (defn -main
   "Import data from local edn files."
