@@ -16,6 +16,7 @@
   ([s sep]
    (if (nil? s) ""
      (as-> s s
+       (name s)
        (java.text.Normalizer/normalize s java.text.Normalizer$Form/NFD)
        (string/replace s #"[\P{ASCII}]+" "")
        (string/lower-case s)

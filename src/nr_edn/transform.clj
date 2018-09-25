@@ -57,9 +57,8 @@
 
 (defn- make-map-by-code
   "Make a map of the items in the list using the :code as the key"
-  ([cards] (make-map-by-code :code cards))
-  ([kw cards]
-   (into {} (map (juxt kw identity) cards))))
+  [kw cards]
+  (into {} (map (juxt kw identity) cards)))
 
 (defn- translate-fields
   "Modify NRDB json data to our schema"
@@ -78,20 +77,13 @@
   ([new-name f]
    `(fn [[k# v#]] [~new-name (~f v#)])))
 
-(def mwl-fields
-  {:code identity
-   :name identity
-   :position identity
-   :rotated identity
-   :size identity})
-
 (def cycle-fields
   {:name identity
    :position identity
    :rotated identity
    :size identity})
 
-(defn add-cycle-fields
+(defn- add-cycle-fields
   [cy]
   (assoc cy :id (slugify (:name cy))))
 
@@ -108,7 +100,7 @@
   [s]
   (assoc s :id (slugify (:name s))))
 
-(defn convert-subtypes
+(defn- convert-subtypes
   [subtype]
   (when subtype
     (->> (string/split subtype #" - ")
@@ -138,7 +130,7 @@
    :uniqueness identity
    })
 
-(defn add-card-fields
+(defn- add-card-fields
   [card]
   (-> card
       (assoc :id (slugify (:title card)))))
@@ -149,7 +141,7 @@
    :flavor identity
    :illustrator identity
    :image_url (rename :image-url)
-   :pack_code identity
+   :pack_code (rename :pack-code)
    :position identity
    :quantity identity
    :replaced_by (rename :replaced-by)
@@ -159,37 +151,62 @@
 
 (defn- add-set-card-fields
   [set-map c]
-  (let [s (get set-map (:pack_code c))]
+  (let [s (get set-map (:pack-code c))]
     (-> c
-        (dissoc :pack_code)
+        (dissoc :pack-code)
         (assoc :image-url (get-uri c s)
                :set-id (:id s)))))
 
-(defn rotate-cards
+(def mwl-fields
+  {:cards identity
+   :code identity
+   :date_start (rename :date-start)
+   :name identity})
+
+(defn- convert-mwl
+  [set-cards-map mwl]
+  (-> mwl
+      (assoc :cards (reduce-kv
+                      (fn [m k v]
+                        (let [c (name k)
+                              s (get set-cards-map c)]
+                          (assoc m
+                                 (:card-id s)
+                                 (reduce-kv
+                                   (fn [m_ k_ v_]
+                                     (assoc m_ (-> k_ slugify keyword) v_))
+                                   {}
+                                   v))))
+                      {}
+                      (:cards mwl))
+                 :id (-> mwl :name slugify keyword))
+      (dissoc :code)))
+
+(defn- rotate-cards
   "Added rotation fields to cards"
   [acc [title prev curr]]
   (-> acc
       (assoc-in [prev :replaced_by] curr)
       (assoc-in [curr :replaces] prev)))
 
-(defn if-rotated
+(defn- if-rotated
   [[c1 c2]]
   (if (< (Integer/parseInt (:code c1))
          (Integer/parseInt (:code c2)))
     [(:title c1) (:code c1) (:code c2)]
     [(:title c1) (:code c2) (:code c1)]))
 
-(defn rotate-and-replace-cards
+(defn- rotate-and-replace-cards
   [cards]
   (->> cards
        (group-by :title)
        (filter (fn [[k v]] (>= (count v) 2)))
        vals
        (map if-rotated)
-       (reduce rotate-cards (make-map-by-code cards))
+       (reduce rotate-cards (make-map-by-code :code cards))
        vals))
 
-(defn sort-and-group-set-cards
+(defn- sort-and-group-set-cards
   [set-cards]
   (->> set-cards
        (sort-by :position)
@@ -205,10 +222,10 @@
 
 (def tables
   {:cycle {:path "cycles" :fields cycle-fields}
-   :mwl {:path "mwl" :fields mwl-fields}
    :set {:path "packs" :fields set-fields}
    :card {:path "cards" :fields card-fields}
    :set-card {:path "cards" :fields set-card-fields}
+   :mwl {:path "mwl" :fields mwl-fields}
    })
 
 (defn update-from-nrdb
@@ -223,8 +240,6 @@
           download-fn (if use-local
                         (partial read-local-data localpath)
                         download-nrdb-data)
-          mwls (fetch-data download-fn (:mwl tables))
-
           cycles (->> (fetch-data download-fn (:cycle tables) add-cycle-fields)
                       (sort-by :position)
                       (into []))
@@ -247,11 +262,17 @@
                   (fetch-data card-stub (:card tables) add-card-fields))
 
           set-card-stub (fn [path] (rotate-and-replace-cards raw-cards))
-          set-cards (sort-and-group-set-cards
-                      (fetch-data set-card-stub
-                                  (:set-card tables)
-                                  (partial add-set-card-fields
-                                           (make-map-by-code :code sets))))
+          raw-set-cards (fetch-data set-card-stub
+                                    (:set-card tables)
+                                    (partial add-set-card-fields
+                                             (make-map-by-code :code sets)))
+
+          mwls (fetch-data download-fn
+                           (:mwl tables)
+                           (partial convert-mwl
+                                    (make-map-by-code :code raw-set-cards)))
+
+          set-cards (sort-and-group-set-cards raw-set-cards)
 
           zp-settings {:style :community
                        :map {:comma? false :force-nl? true}
@@ -273,7 +294,11 @@
       (io/make-parents "edn/set-cards/temp.txt")
       (doseq [[path set-card] set-cards]
         (spit (str "edn/set-cards/" path ".edn")
-              (zp/zprint-str set-card zp-settings))))
+              (zp/zprint-str set-card zp-settings)))
+
+      (let [path (str "edn/mwls.edn")]
+        (io/make-parents path)
+        (spit path (zp/zprint-str (into [] mwls) zp-settings))))
     (catch Exception e (do
                          (println "Import data failed:" (.getMessage e))
                          (.printStackTrace e)))))
