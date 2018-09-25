@@ -4,7 +4,6 @@
  :id "window"
  :influence-value 1
  :side :runner
- :subtype []
  :text "[click]: Draw 1 card from the bottom of your stack."
  :title "Window"
  :type :hardware

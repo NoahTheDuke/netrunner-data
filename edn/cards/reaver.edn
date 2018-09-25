@@ -5,7 +5,6 @@
  :influence-value 4
  :memory-cost 1
  :side :runner
- :subtype []
  :text "The first time you trash an installed card each turn, draw 1 card."
  :title "Reaver"
  :type :program

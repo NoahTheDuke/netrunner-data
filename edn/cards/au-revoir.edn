@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 1
  :side :runner
- :subtype []
  :text "Gain 1[credit] whenever you jack out."
  :title "Au Revoir"
  :type :program

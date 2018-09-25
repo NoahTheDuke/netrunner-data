@@ -4,7 +4,6 @@
  :id "frantic-coding"
  :influence-value 3
  :side :runner
- :subtype []
  :text "Look at the top 10 cards of your stack. If any of those cards are programs, you may install one of them, lowering the install cost by 5. Trash the rest of those cards."
  :title "Frantic Coding"
  :type :event

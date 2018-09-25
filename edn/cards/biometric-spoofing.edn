@@ -4,7 +4,6 @@
  :id "biometric-spoofing"
  :influence-value 0
  :side :runner
- :subtype []
  :text "[trash]: Prevent 2 damage."
  :title "Biometric Spoofing"
  :type :resource

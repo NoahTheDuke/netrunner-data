@@ -5,7 +5,6 @@
  :influence-value 1
  :memory-cost 1
  :side :runner
- :subtype []
  :text "Install only if you made a successful run on HQ this turn.\nWhenever the Corp draws a card, you may pay 2[credit] to reveal that card."
  :title "Bug"
  :type :program

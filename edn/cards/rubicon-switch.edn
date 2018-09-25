@@ -4,7 +4,6 @@
  :id "rubicon-switch"
  :influence-value 3
  :side :runner
- :subtype []
  :text "X[credit],[click]: Derez a piece of ice rezzed this turn. X is its printed rez cost. Use this ability once per turn."
  :title "Rubicon Switch"
  :type :hardware

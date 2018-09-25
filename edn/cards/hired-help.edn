@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 1
+ :faction :neutral-corp
+ :id "hired-help"
+ :influence-value 1
+ :side :corp
+ :subtype [:orgcrime :enforcer]
+ :text "As an additional cost to run this server, the Runner must trash an agenda in his or her score area. Ignore this ability if the Runner made a successful run on HQ this turn.\nLimit 1 per Deck."
+ :title "Hired Help"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

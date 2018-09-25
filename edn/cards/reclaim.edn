@@ -4,7 +4,6 @@
  :id "reclaim"
  :influence-value 2
  :side :runner
- :subtype []
  :text "[click], [trash], <strong>trash a card from your grip</strong>: Install a program, piece of hardware, or <strong>virtual</strong> resource from your heap, paying its install cost."
  :title "Reclaim"
  :type :resource

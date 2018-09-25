@@ -1,133 +1,133 @@
 [{:card-id "the-noble-path"
   :code "10077"
   :illustrator "Chris Knight"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_77.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_77.png"
   :position 77
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "emptied-mind"
   :code "10078"
   :illustrator "Natalie Bernard"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_78.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_78.png"
   :position 78
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "information-sifting"
   :code "10079"
   :illustrator "A. Jones"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_79.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_79.png"
   :position 79
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "out-of-the-ashes"
   :code "10080"
   :illustrator "Kari Guenther"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_80.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_80.png"
   :position 80
   :quantity 6
   :set-id "the-liberated-mind"}
  {:card-id "liberated-chela"
   :code "10081"
   :illustrator "Elisabeth Alba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_81.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_81.png"
   :position 81
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "temple-of-the-liberated-mind"
   :code "10082"
   :illustrator "Amit Dutta"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_82.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_82.png"
   :position 82
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "rebirth"
   :code "10083"
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_83.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_83.png"
   :position 83
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "guru-davinder"
   :code "10084"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_84.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_84.png"
   :position 84
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "the-turning-wheel"
   :code "10085"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_85.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_85.png"
   :position 85
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "brainstorm"
   :code "10086"
   :illustrator "Caleb Souza"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_86.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_86.png"
   :position 86
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "ravana-1-0"
   :code "10087"
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_87.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_87.png"
   :position 87
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "dedicated-neural-net"
   :code "10088"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_88.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_88.png"
   :position 88
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "chetana"
   :code "10089"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_89.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_89.png"
   :position 89
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "puppet-master"
   :code "10090"
   :illustrator "Miguel Coronado III"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_90.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_90.png"
   :position 90
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "waiver"
   :code "10091"
   :illustrator "Lili Ibrahim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_91.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_91.png"
   :position 91
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "exchange-of-information"
   :code "10092"
   :illustrator "Del Borovic"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_92.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_92.png"
   :position 92
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "red-tape"
   :code "10093"
   :illustrator "Tim Durning"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_93.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_93.png"
   :position 93
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "consulting-visit"
   :code "10094"
   :illustrator "Marya Yartseva"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_94.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_94.png"
   :position 94
   :quantity 3
   :set-id "the-liberated-mind"}
  {:card-id "vanilla"
   :code "10095"
   :illustrator "Seage"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN34_95.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN34_95.png"
   :position 95
   :quantity 3
   :set-id "the-liberated-mind"}]

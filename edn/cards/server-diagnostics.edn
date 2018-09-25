@@ -4,7 +4,6 @@
  :id "server-diagnostics"
  :influence-value 0
  :side :corp
- :subtype []
  :text "Gain 2[credit] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice."
  :title "Server Diagnostics"
  :trash-cost 2

@@ -4,7 +4,6 @@
  :id "rework"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Shuffle 1 card from HQ into R&D."
  :title "Rework"
  :type :operation

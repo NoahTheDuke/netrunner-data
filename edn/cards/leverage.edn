@@ -4,7 +4,6 @@
  :id "leverage"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Play only if you made a successful run on HQ this turn.\nPrevent all damage until the beginning of your next turn unless the Corp takes 2 bad publicity."
  :title "Leverage"
  :type :event

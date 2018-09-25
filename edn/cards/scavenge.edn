@@ -4,7 +4,6 @@
  :id "scavenge"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Trash an installed program.\nIf you do, install a program from your grip or heap, lowering the install cost of that program by the cost of the program trashed.\n<errata>Errata from FAQ 4.0</errata>"
  :title "Scavenge"
  :type :event

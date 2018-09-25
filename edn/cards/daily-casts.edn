@@ -4,7 +4,6 @@
  :id "daily-casts"
  :influence-value 0
  :side :runner
- :subtype []
  :text "Place 8[credit] from the bank on Daily Casts when it is installed. When there are no credits left on Daily Casts, trash it.\nTake 2[credit] from Daily Casts when your turn begins."
  :title "Daily Casts"
  :type :resource

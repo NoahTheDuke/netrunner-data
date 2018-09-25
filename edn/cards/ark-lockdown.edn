@@ -4,7 +4,6 @@
  :id "ark-lockdown"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Name a card. Remove all copies of that card in the heap from the game."
  :title "Ark Lockdown"
  :type :operation

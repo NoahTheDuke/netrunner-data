@@ -4,7 +4,6 @@
  :id "zaibatsu-loyalty"
  :influence-value 1
  :side :corp
- :subtype []
  :text "If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.\n1[credit] or [trash]: Prevent 1 card from being exposed."
  :title "Zaibatsu Loyalty"
  :trash-cost 4

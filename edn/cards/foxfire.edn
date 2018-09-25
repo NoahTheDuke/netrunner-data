@@ -4,7 +4,6 @@
  :id "foxfire"
  :influence-value 0
  :side :corp
- :subtype []
  :text "<trace>Trace 7</trace> If successful, trash 1 <strong>virtual</strong> resource or 1 <strong>link</strong>."
  :title "Foxfire"
  :type :operation

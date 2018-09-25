@@ -4,7 +4,6 @@
  :id "shell-corporation"
  :influence-value 0
  :side :corp
- :subtype []
  :text "You cannot use Shell Corporation more than once per turn.\n[click]: Place 3[credit] on Shell Corporation.\n[click]: Take all credits from Shell Corporation."
  :title "Shell Corporation"
  :trash-cost 3

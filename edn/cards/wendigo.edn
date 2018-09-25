@@ -6,7 +6,7 @@
  :side :corp
  :strength 4
  :subtype [:code-gate :morph]
- :text "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[subroutine] Choose a program. The Runner cannot use the chosen program for the remainder of this run."
+ :text "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[subroutine] Choose a program.  The Runner cannot use the chosen program for the remainder of this run."
  :title "Wendigo"
  :type :ice
  :uniqueness false}

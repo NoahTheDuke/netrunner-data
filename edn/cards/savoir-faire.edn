@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 1
  :side :runner
- :subtype []
  :text "You cannot use Savoir-faire more than once each turn.\n2[credit]: Install a program from your grip, paying the install cost."
  :title "Savoir-faire"
  :type :program

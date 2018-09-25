@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 1
  :side :runner
- :subtype []
  :text "2[credit]: Swap a piece of <strong>barrier</strong> ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice."
  :title "Surfer"
  :type :program

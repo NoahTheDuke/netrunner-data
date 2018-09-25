@@ -1,7 +1,7 @@
 [{:card-id "sifr"
   :code "11101"
   :illustrator "Yog Joshi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_101.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_101.png"
   :position 101
   :quantity 3
   :set-id "quorum"}
@@ -9,7 +9,7 @@
   :code "11102"
   :flavor "Open yourself to the universe."
   :illustrator "Lale Ann"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_102.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_102.png"
   :position 102
   :quantity 3
   :set-id "quorum"}
@@ -17,14 +17,14 @@
   :code "11103"
   :flavor "\"A little birdie told me...\" -Khan"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_103.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_103.png"
   :position 103
   :quantity 3
   :set-id "quorum"}
  {:card-id "tapwrm"
   :code "11104"
   :illustrator "Donald Crank"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_104.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_104.png"
   :position 104
   :quantity 3
   :set-id "quorum"}
@@ -32,7 +32,7 @@
   :code "11105"
   :flavor "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_105.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_105.png"
   :position 105
   :quantity 3
   :set-id "quorum"}
@@ -40,14 +40,14 @@
   :code "11106"
   :flavor "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\""
   :illustrator "Aurore Folny"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_106.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_106.png"
   :position 106
   :quantity 3
   :set-id "quorum"}
  {:card-id "encore"
   :code "11107"
   :illustrator "Aurore Folny"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_107.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_107.png"
   :position 107
   :quantity 3
   :set-id "quorum"}
@@ -55,21 +55,21 @@
   :code "11108"
   :flavor "Faster than the eye can follow."
   :illustrator "Shawn Ye Zhongyi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_108.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_108.png"
   :position 108
   :quantity 3
   :set-id "quorum"}
  {:card-id "peace-in-our-time"
   :code "11109"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_109.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_109.png"
   :position 109
   :quantity 3
   :set-id "quorum"}
  {:card-id "sensor-net-activation"
   :code "11110"
   :illustrator "Samuel Leung"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_110.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_110.png"
   :position 110
   :quantity 3
   :set-id "quorum"}
@@ -77,7 +77,7 @@
   :code "11111"
   :flavor "It required a hexadecimal code along with biometrics, delivered by way of BMI."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_111.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_111.png"
   :position 111
   :quantity 3
   :set-id "quorum"}
@@ -85,28 +85,28 @@
   :code "11112"
   :flavor "\"Ice is not meant to kill; just slow or cripple the Runner. Killing is my job.\" - Tori Hanzō"
   :illustrator "Yog Joshi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_112.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_112.png"
   :position 112
   :quantity 3
   :set-id "quorum"}
  {:card-id "psychokinesis"
   :code "11113"
   :illustrator "Dmitry Burmak"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_113.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_113.png"
   :position 113
   :quantity 3
   :set-id "quorum"}
  {:card-id "net-quarantine"
   :code "11114"
   :illustrator "Yog Joshi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_114.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_114.png"
   :position 114
   :quantity 3
   :set-id "quorum"}
  {:card-id "herald"
   :code "11115"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_115.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_115.png"
   :position 115
   :quantity 3
   :set-id "quorum"}
@@ -114,7 +114,7 @@
   :code "11116"
   :flavor "The truth hurts."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_116.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_116.png"
   :position 116
   :quantity 3
   :set-id "quorum"}
@@ -122,14 +122,14 @@
   :code "11117"
   :flavor "\"My job? I provide legal exculpation and sign everything. It pays very well.\""
   :illustrator "Priscilla Kim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_117.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_117.png"
   :position 117
   :quantity 3
   :set-id "quorum"}
  {:card-id "nasx"
   :code "11118"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_118.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_118.png"
   :position 118
   :quantity 3
   :set-id "quorum"}
@@ -137,7 +137,7 @@
   :code "11119"
   :flavor "One way to get rid of a virus is to get a nastier virus."
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_119.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_119.png"
   :position 119
   :quantity 3
   :set-id "quorum"}
@@ -145,7 +145,7 @@
   :code "11120"
   :flavor "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\""
   :illustrator "Odera Igbokwe"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN41_120.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN41_120.png"
   :position 120
   :quantity 3
   :set-id "quorum"}]

@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 3
  :side :runner
- :subtype []
  :text "When your turn begins, you may remove Hyperdriver from the game and gain [click][click][click]."
  :title "Hyperdriver"
  :type :program

@@ -3,8 +3,8 @@
   :position 0
   :rotated false
   :size 1}
- {:id "core"
-  :name "Core"
+ {:id "core-set"
+  :name "Core Set"
   :position 1
   :rotated true
   :size 1}
@@ -68,8 +68,8 @@
   :position 13
   :rotated false
   :size 1}
- {:id "revised-core"
-  :name "Revised Core"
+ {:id "revised-core-set"
+  :name "Revised Core Set"
   :position 20
   :rotated false
   :size 1}
@@ -81,5 +81,15 @@
  {:id "reign-and-reverie"
   :name "Reign and Reverie"
   :position 22
+  :rotated false
+  :size 1}
+ {:id "magnum-opus"
+  :name "Magnum Opus"
+  :position 23
+  :rotated false
+  :size 1}
+ {:id "napd-multiplayer"
+  :name "NAPD Multiplayer"
+  :position 24
   :rotated false
   :size 1}]

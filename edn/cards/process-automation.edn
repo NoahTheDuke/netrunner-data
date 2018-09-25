@@ -4,7 +4,6 @@
  :id "process-automation"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Gain 2[credit] and draw 1 card."
  :title "Process Automation"
  :type :event

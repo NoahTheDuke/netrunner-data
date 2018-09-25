@@ -1,7 +1,7 @@
 [{:card-id "sync-everything-everywhere"
   :code "09001"
   :illustrator "Maciej Rebisz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_1.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_1a.png"
   :position 1
   :quantity 3
   :set-id "data-and-destiny"}
@@ -9,7 +9,7 @@
   :code "09002"
   :flavor "Nothing but the Truth."
   :illustrator "Maciej Rebisz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_2.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_2.png"
   :position 2
   :quantity 3
   :set-id "data-and-destiny"}
@@ -17,7 +17,7 @@
   :code "09003"
   :flavor "We're ready to start the fire."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_3.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_3.png"
   :position 3
   :quantity 3
   :set-id "data-and-destiny"}
@@ -25,7 +25,7 @@
   :code "09004"
   :flavor "You had your shot, and you blew it."
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_4.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_4.png"
   :position 4
   :quantity 3
   :set-id "data-and-destiny"}
@@ -33,7 +33,7 @@
   :code "09005"
   :flavor "\"The trick isn't software, it's hardware. Cyberspace is a collection of physical machines. If we control the machines, we control it all.\" -KR Kane, \"Our Future\""
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_5.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_5.png"
   :position 5
   :quantity 3
   :set-id "data-and-destiny"}
@@ -41,7 +41,7 @@
   :code "09006"
   :flavor "\"Nobody ever lost a dollar by underestimating the taste of the public.\" -Phineas Taylor Barnum"
   :illustrator "Tiffany Turrill"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_6.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_6.png"
   :position 6
   :quantity 3
   :set-id "data-and-destiny"}
@@ -49,7 +49,7 @@
   :code "09007"
   :flavor "\"Yes <strong>and</strong> No.\""
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_7.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_7.png"
   :position 7
   :quantity 3
   :set-id "data-and-destiny"}
@@ -57,14 +57,14 @@
   :code "09008"
   :flavor "\"Live from New Angeles, this is Lily Lockwell.\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_8.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_8.png"
   :position 8
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "news-team"
   :code "09009"
   :illustrator "Jessada Sutthi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_9.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_9.png"
   :position 9
   :quantity 3
   :set-id "data-and-destiny"}
@@ -72,14 +72,14 @@
   :code "09010"
   :flavor "No one can bury a story better."
   :illustrator "Rebecca Sorge"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_10.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_10.png"
   :position 10
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "victoria-jenkins"
   :code "09011"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_11.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_11.png"
   :position 11
   :quantity 3
   :set-id "data-and-destiny"}
@@ -87,14 +87,14 @@
   :code "09012"
   :flavor "\"They're gonna try and make you a star. Whether you want it or not.\" -MaxX"
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_12.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_12.png"
   :position 12
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "archangel"
   :code "09013"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_13.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_13.png"
   :position 13
   :quantity 3
   :set-id "data-and-destiny"}
@@ -102,7 +102,7 @@
   :code "09014"
   :flavor "\"Most reporting these days can be done by AI. We just need the talent for the name recognition.\""
   :illustrator "Darren Waud"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_14.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_14.png"
   :position 14
   :quantity 3
   :set-id "data-and-destiny"}
@@ -110,7 +110,7 @@
   :code "09015"
   :flavor "\"In the Olden Times, a 'resistor\" was a vital component of practically all electronic equipment. You know, back when dinosaurs roamed the Earth.\" -Chaos Theory"
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_15.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_15.png"
   :position 15
   :quantity 3
   :set-id "data-and-destiny"}
@@ -118,7 +118,7 @@
   :code "09016"
   :flavor "\"If I didn't know better, I'd say they got the better end of that deal.\" -John Masanori"
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_16.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_16.png"
   :position 16
   :quantity 3
   :set-id "data-and-destiny"}
@@ -126,7 +126,7 @@
   :code "09017"
   :flavor "//tl;dr duplicate the subs on the next piece of ice"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_17.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_17.png"
   :position 17
   :quantity 3
   :set-id "data-and-destiny"}
@@ -134,7 +134,7 @@
   :code "09018"
   :flavor "\"Stay out of the fast lanes! If speed's your only concern, you're already tagged and halfway to fragged.\" -g00ru"
   :illustrator "Donald Crank"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_18.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_18.png"
   :position 18
   :quantity 3
   :set-id "data-and-destiny"}
@@ -142,21 +142,21 @@
   :code "09019"
   :flavor "The only thing worse than bad news..."
   :illustrator "Thomas Williams"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_19.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_19.png"
   :position 19
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "ad-blitz"
   :code "09020"
   :illustrator "Johan Törnlund"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_20.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_20.png"
   :position 20
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "media-blitz"
   :code "09021"
   :illustrator "Dmitry Prosvirnin"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_21.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_21.png"
   :position 21
   :quantity 3
   :set-id "data-and-destiny"}
@@ -164,14 +164,14 @@
   :code "09022"
   :flavor "\"Only with perfect information can we develop the perfect strategy.\" -The Playbook"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_22.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_22.png"
   :position 22
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "surveillance-sweep"
   :code "09023"
   :illustrator "Simon Weaner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_23.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_23.png"
   :position 23
   :quantity 3
   :set-id "data-and-destiny"}
@@ -179,7 +179,7 @@
   :code "09024"
   :flavor "\"We use ice on our servers. More runners should ice their own rigs.\""
   :illustrator "Joshua Meehan"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_24.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_24.png"
   :position 24
   :quantity 3
   :set-id "data-and-destiny"}
@@ -187,7 +187,7 @@
   :code "09025"
   :flavor "To the worlds sitting on the couch and watching threedee, Rutherford District might as well be all of New Angeles."
   :illustrator "Johan Törnlund"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_25.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_25.png"
   :position 25
   :quantity 3
   :set-id "data-and-destiny"}
@@ -195,14 +195,14 @@
   :code "09026"
   :flavor "\"Corporations are made up of people. It's ridiculous to think they'd be either all good or all bad.\" -Sunny Lebeau"
   :illustrator "Meg Owenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_26.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_26.png"
   :position 26
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "launch-campaign"
   :code "09027"
   :illustrator "Elisabeth Alba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_27.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_27.png"
   :position 27
   :quantity 3
   :set-id "data-and-destiny"}
@@ -210,28 +210,28 @@
   :code "09028"
   :flavor "Bounce rate is a well-understood measure of ice strength. But it is not the only measure."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_28.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_28.png"
   :position 28
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "apex-invasive-predator"
   :code "09029"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_29.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_29.png"
   :position 29
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "apocalypse"
   :code "09030"
   :illustrator "Shawn Ye Zhongyi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_30.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_30.png"
   :position 30
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "prey"
   :code "09031"
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_31.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_31.png"
   :position 31
   :quantity 3
   :set-id "data-and-destiny"}
@@ -239,7 +239,7 @@
   :code "09032"
   :flavor "\"Meantime the hellish tattoo of the heart increased. It grew quicker and quicker, and louder and louder every instant.\" -Edgar Allan Poe"
   :illustrator "Thomas Williams"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_32.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_32.png"
   :position 32
   :quantity 3
   :set-id "data-and-destiny"}
@@ -247,14 +247,14 @@
   :code "09033"
   :flavor "\"I've been monitoring the anomaly's activity across the New Angeles Pacifica and Andea trunk lines and associated nodes. I have yet to detect a predictable pattern or even to formulate a theory as to the anomaly's nature.\" -Joséo Greene, SYNC Analyst"
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_33.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_33.png"
   :position 33
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "harbinger"
   :code "09034"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_34.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_34.png"
   :position 34
   :quantity 3
   :set-id "data-and-destiny"}
@@ -262,7 +262,7 @@
   :code "09035"
   :flavor "\"There's parts of the Network now that are different from how they used to be. I can't put my finger on it; just something twitching at my ganglion through my BMI.\" -Reeve"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_35.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_35.png"
   :position 35
   :quantity 3
   :set-id "data-and-destiny"}
@@ -270,14 +270,14 @@
   :code "09036"
   :flavor "Data goes in. Nothing comes out."
   :illustrator "Simon Weaner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_36.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_36.png"
   :position 36
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "adam-compulsive-hacker"
   :code "09037"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_37.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_37.png"
   :position 37
   :quantity 3
   :set-id "data-and-destiny"}
@@ -285,14 +285,14 @@
   :code "09038"
   :flavor "Adam raised the hammer. He was free."
   :illustrator "Del Borovic"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_38.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_38.png"
   :position 38
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "brain-chip"
   :code "09039"
   :illustrator "Jessada Sutthi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_39.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_39.png"
   :position 39
   :quantity 3
   :set-id "data-and-destiny"}
@@ -300,7 +300,7 @@
   :code "09040"
   :flavor "Bioroids have two brains running in parallel, each capable of running sophisticated programming. There are certain advantages to the setup."
   :illustrator "Lili Ibrahim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_40.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_40.png"
   :position 40
   :quantity 3
   :set-id "data-and-destiny"}
@@ -308,7 +308,7 @@
   :code "09041"
   :flavor "The Second Directive requires a bioroid to complete its primary function above all other considerations, save the First Directive."
   :illustrator "Lili Ibrahim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_41.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_41.png"
   :position 41
   :quantity 3
   :set-id "data-and-destiny"}
@@ -316,7 +316,7 @@
   :code "09042"
   :flavor "\"You look tore up, kid. Have a seat, I'll fire up the arc welder.\""
   :illustrator "Tiffany Turrill"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_42.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_42.png"
   :position 42
   :quantity 3
   :set-id "data-and-destiny"}
@@ -324,7 +324,7 @@
   :code "09043"
   :flavor "The Third Directive requires a bioroid to preserve its ability to function and report frequently to Haas-Bioroid for repairs and updates."
   :illustrator "Tadas Sidlauskas"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_43.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_43.png"
   :position 43
   :quantity 3
   :set-id "data-and-destiny"}
@@ -332,7 +332,7 @@
   :code "09044"
   :flavor "The First Directive forbids a bioroid from harming, or through inaction allowing harm to befall, a human being."
   :illustrator "Timur Shevtsov"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_44.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_44.png"
   :position 44
   :quantity 3
   :set-id "data-and-destiny"}
@@ -340,7 +340,7 @@
   :code "09045"
   :flavor "\"Mommy will be home soon, sweetie. She has to kick some ass first.\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_45.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_45.png"
   :position 45
   :quantity 3
   :set-id "data-and-destiny"}
@@ -348,14 +348,14 @@
   :code "09046"
   :flavor "Fortunately, Globalsec buys them by the case."
   :illustrator "Lucas Durham"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_46.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_46.png"
   :position 46
   :quantity 3
   :set-id "data-and-destiny"}
  {:card-id "security-nexus"
   :code "09047"
   :illustrator "Lili Ibrahim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_47.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_47.png"
   :position 47
   :quantity 3
   :set-id "data-and-destiny"}
@@ -363,7 +363,7 @@
   :code "09048"
   :flavor "Bigger."
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_48.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_48.png"
   :position 48
   :quantity 3
   :set-id "data-and-destiny"}
@@ -371,7 +371,7 @@
   :code "09049"
   :flavor "Badder."
   :illustrator "Donald Crank"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_49.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_49.png"
   :position 49
   :quantity 3
   :set-id "data-and-destiny"}
@@ -379,7 +379,7 @@
   :code "09050"
   :flavor "Boom."
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_50.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_50.png"
   :position 50
   :quantity 3
   :set-id "data-and-destiny"}
@@ -387,7 +387,7 @@
   :code "09051"
   :flavor "She approached the server, flashed her credentials, and passed straight through. She wondered what it said about her that doing things the legal way felt like cheating."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_51.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_51.png"
   :position 51
   :quantity 3
   :set-id "data-and-destiny"}
@@ -395,7 +395,7 @@
   :code "09052"
   :flavor "\"I got an early start today...or maybe I forgot to go home last night.\""
   :illustrator "Joshua Meehan"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_52.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_52.png"
   :position 52
   :quantity 3
   :set-id "data-and-destiny"}
@@ -403,7 +403,7 @@
   :code "09053"
   :flavor "\"Are you crazy? We can't send in prisec until the media gets bored and goes home.\""
   :illustrator "Dmitry Prosvirnin"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_53.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_53.png"
   :position 53
   :quantity 3
   :set-id "data-and-destiny"}
@@ -411,7 +411,7 @@
   :code "09054"
   :flavor "She tried to remember who he was. Not that it mattered anymore."
   :illustrator "Rebecca Sorge"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_54.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_54.png"
   :position 54
   :quantity 3
   :set-id "data-and-destiny"}
@@ -419,7 +419,7 @@
   :code "09055"
   :flavor "Technically correct: the best kind of correct."
   :illustrator "Elisabeth Alba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN29_55.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN29_55.png"
   :position 55
   :quantity 3
   :set-id "data-and-destiny"}]

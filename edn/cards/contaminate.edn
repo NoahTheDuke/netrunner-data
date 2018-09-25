@@ -4,7 +4,6 @@
  :id "contaminate"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Place 3 virus counters on an installed Runner card with no hosted virus counters."
  :title "Contaminate"
  :type :event

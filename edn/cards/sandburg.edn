@@ -4,7 +4,6 @@
  :id "sandburg"
  :influence-value 0
  :side :corp
- :subtype []
  :text "If you have at least 10[credit], each piece of ice has +1 strength for every 5[credit] in your credit pool."
  :title "Sandburg"
  :trash-cost 4

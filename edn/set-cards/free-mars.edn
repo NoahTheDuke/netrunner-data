@@ -2,7 +2,7 @@
   :code "12081"
   :flavor "\"We don't want you! We don't need you!\""
   :illustrator "Darren Tan"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_81.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_81.png"
   :position 81
   :quantity 3
   :set-id "free-mars"}
@@ -10,7 +10,7 @@
   :code "12082"
   :flavor "\"Subtle? You don't really understand the point of all of this, do you?\" -Alice Merchant"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_82.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_82.png"
   :position 82
   :quantity 3
   :set-id "free-mars"}
@@ -18,14 +18,14 @@
   :code "12083"
   :flavor "\"The perfect Run is when you get in, take something of value, and get back out, with no one knowing you've ever been there\" -g00ru"
   :illustrator "Shawn Ye Zhongyi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_83.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_83.png"
   :position 83
   :quantity 3
   :set-id "free-mars"}
  {:card-id "rip-deal"
   :code "12084"
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_84.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_84.png"
   :position 84
   :quantity 3
   :set-id "free-mars"}
@@ -33,7 +33,7 @@
   :code "12085"
   :flavor "\"It's my sentry cheat sheet\" -Revenant"
   :illustrator "Tim Durning"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_85.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_85.png"
   :position 85
   :quantity 3
   :set-id "free-mars"}
@@ -41,14 +41,14 @@
   :code "12086"
   :flavor "\"The question isn't 'should I do it?' the question is 'can I do it?'\" -Kabonesa Wu"
   :illustrator "Aurore Folny"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_86.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_86.png"
   :position 86
   :quantity 3
   :set-id "free-mars"}
  {:card-id "maven"
   :code "12087"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_87.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_87.png"
   :position 87
   :quantity 3
   :set-id "free-mars"}
@@ -56,7 +56,7 @@
   :code "12088"
   :flavor "\"Anyone can hit someone where they are weakest.\" -S'onge Galaxy"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_88.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_88.png"
   :position 88
   :quantity 3
   :set-id "free-mars"}
@@ -64,7 +64,7 @@
   :code "12089"
   :flavor "\"Talk is free. Anything else is going to cost you.\"\n-Jitish"
   :illustrator "Tim Durning"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_89.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_89.png"
   :position 89
   :quantity 3
   :set-id "free-mars"}
@@ -72,14 +72,14 @@
   :code "12090"
   :flavor "\"Is the lack of oxygen causing distress, friend?\"\n-Gregory 3D3R6Z"
   :illustrator "Wenjuinn Png"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_90.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_90.png"
   :position 90
   :quantity 3
   :set-id "free-mars"}
  {:card-id "helheim-servers"
   :code "12091"
   :illustrator "James Ives"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_91.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_91.png"
   :position 91
   :quantity 3
   :set-id "free-mars"}
@@ -87,7 +87,7 @@
   :code "12092"
   :flavor "\"As you'll see on page 276, section CDXXIX, paragraph 47, line 102 of your contract, you are overdue for your seed upgrade, and all growth from out of date seed is to be confiscated and destroyed.\""
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_92.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_92.png"
   :position 92
   :quantity 3
   :set-id "free-mars"}
@@ -95,7 +95,7 @@
   :code "12093"
   :flavor "AgInfusion doesn't just have patents on nearly every plant seed that in farmed on Mars - they own most of the rights to the water that farms use."
   :illustrator "Mark Molnar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_93.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_93.png"
   :position 93
   :quantity 3
   :set-id "free-mars"}
@@ -103,21 +103,21 @@
   :code "12094"
   :flavor "\"My gift to runners: isomorphic architectural protocols. Ichiban daikirai da.\" -Midori"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_94.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_94.png"
   :position 94
   :quantity 3
   :set-id "free-mars"}
  {:card-id "data-loop"
   :code "12095"
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_95.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_95.png"
   :position 95
   :quantity 3
   :set-id "free-mars"}
  {:card-id "biased-reporting"
   :code "12096"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_96.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_96.png"
   :position 96
   :quantity 3
   :set-id "free-mars"}
@@ -125,28 +125,28 @@
   :code "12097"
   :flavor "\"Please, speak freely. I've been tasked by the board itself to hear your grievances.\"\n-Mandy Traut"
   :illustrator "Lale Ann"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_97.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_97.png"
   :position 97
   :quantity 3
   :set-id "free-mars"}
  {:card-id "tithonium"
   :code "12098"
   :illustrator "Alexander Tooth"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_98.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_98.png"
   :position 98
   :quantity 3
   :set-id "free-mars"}
  {:card-id "transparency-initiative"
   :code "12099"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_99.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_99.png"
   :position 99
   :quantity 3
   :set-id "free-mars"}
  {:card-id "rover-algorithm"
   :code "12100"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN47_100.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_100.png"
   :position 100
   :quantity 3
   :set-id "free-mars"}]

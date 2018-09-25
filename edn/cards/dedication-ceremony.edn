@@ -4,7 +4,6 @@
  :id "dedication-ceremony"
  :influence-value 3
  :side :corp
- :subtype []
  :text "Place 3 advancement tokens on a faceup card. You cannot score that card until your next turn begins."
  :title "Dedication Ceremony"
  :type :operation

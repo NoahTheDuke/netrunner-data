@@ -4,7 +4,6 @@
  :id "off-the-grid"
  :influence-value 3
  :side :corp
- :subtype []
  :text "Install only in a remote server.\nThe Runner cannot initiate a run on this server.\nWhenever the Runner makes a successful run on HQ, trash Off the Grid."
  :title "Off the Grid"
  :trash-cost 0

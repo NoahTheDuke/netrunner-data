@@ -4,7 +4,6 @@
  :id "satellite-uplink"
  :influence-value 3
  :side :runner
- :subtype []
  :text "Expose up to 2 cards."
  :title "Satellite Uplink"
  :type :event

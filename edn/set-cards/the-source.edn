@@ -2,7 +2,7 @@
   :code "06101"
   :flavor "It takes power to create power."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_101.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_101.png"
   :position 101
   :quantity 3
   :set-id "the-source"}
@@ -10,14 +10,14 @@
   :code "06102"
   :flavor "Recycling the energy entering the system via a run is both responsible and economical."
   :illustrator "Alexandra Douglass"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_102.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_102.png"
   :position 102
   :quantity 3
   :set-id "the-source"}
  {:card-id "it-department"
   :code "06103"
   :illustrator "Adam Schumpert"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_103.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_103.png"
   :position 103
   :quantity 3
   :set-id "the-source"}
@@ -25,7 +25,7 @@
   :code "06104"
   :flavor "The forge must never run cold."
   :illustrator "Dan Maynard"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_104.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_104.png"
   :position 104
   :quantity 3
   :set-id "the-source"}
@@ -33,7 +33,7 @@
   :code "06105"
   :flavor "Achieve the Impossible."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_105.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_105.png"
   :position 105
   :quantity 3
   :set-id "the-source"}
@@ -41,14 +41,14 @@
   :code "06106"
   :flavor "A masterpiece of cloning and hardware technology, Jinteki created homo vacuo operae, commonly called \"turtlebacks\", to operate for long periods of time within a vacuum."
   :illustrator "Yip Lee"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_106.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_106.png"
   :position 106
   :quantity 3
   :set-id "the-source"}
  {:card-id "shoot-the-moon"
   :code "06107"
   :illustrator "Beny Maulana"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_107.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_107.png"
   :position 107
   :quantity 3
   :set-id "the-source"}
@@ -56,7 +56,7 @@
   :code "06108"
   :flavor "You gotta pay the troll toll to get in."
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_108.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_108.png"
   :position 108
   :quantity 3
   :set-id "the-source"}
@@ -64,14 +64,14 @@
   :code "06109"
   :flavor "Virgo promised love, but offered only jealousy."
   :illustrator "Madeline Boni"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_109.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_109.png"
   :position 109
   :quantity 3
   :set-id "the-source"}
  {:card-id "utopia-fragment"
   :code "06110"
   :illustrator "Seage"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_110.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_110.png"
   :position 110
   :quantity 3
   :set-id "the-source"}
@@ -79,14 +79,14 @@
   :code "06111"
   :flavor "There drew he forth the brand Excalibur,\nAnd o'er him, drawing it, the winter moon,\nBrightening the skirts of a long cloud, ran forth\nAnd sparkled keen with frost against the hilt:\nFor all the haft twinkled with diamonds sparks,\nMyriads of topaz-lights, and jacinth work\nOf subtlest jewellery. -Lord Tennyson"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_111.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_111.png"
   :position 111
   :quantity 3
   :set-id "the-source"}
  {:card-id "self-destruct"
   :code "06112"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_112.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_112.png"
   :position 112
   :quantity 3
   :set-id "the-source"}
@@ -94,7 +94,7 @@
   :code "06113"
   :flavor "\"What terrors hatch in her dispossessed mind, waiting for their moment to be born? My money's on a double-helix rainbow with the head of a panda.\" -fakespeare"
   :illustrator "Smirtouille"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_113.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_113.png"
   :position 113
   :quantity 3
   :set-id "the-source"}
@@ -102,14 +102,14 @@
   :code "06114"
   :flavor "Digs in deeper than its Alabama counterpart."
   :illustrator "Bruno Balixa"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_114.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_114.png"
   :position 114
   :quantity 3
   :set-id "the-source"}
  {:card-id "code-siphon"
   :code "06115"
   :illustrator "Shawn Ye Zhongyi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_115.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_115.png"
   :position 115
   :quantity 3
   :set-id "the-source"}
@@ -117,7 +117,7 @@
   :code "06116"
   :flavor "\"All programs are connected. The data that runs through one runs through all.\" -Rielle \"Kit\" Peddler"
   :illustrator "Samuel R. Shimota"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_116.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_116.png"
   :position 116
   :quantity 3
   :set-id "the-source"}
@@ -125,7 +125,7 @@
   :code "06117"
   :flavor "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης"
   :illustrator "Alexandra Douglass"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_117.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_117.png"
   :position 117
   :quantity 3
   :set-id "the-source"}
@@ -133,7 +133,7 @@
   :code "06118"
   :flavor "\"Sometimes it's helpful to remember that you're not the only one who loves money.\" -Gabriel Santiago"
   :illustrator "Bruno Balixa"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_118.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_118.png"
   :position 118
   :quantity 3
   :set-id "the-source"}
@@ -141,14 +141,14 @@
   :code "06119"
   :flavor "The datastream slipped away, and it felt like being born for a second time, if only you could remember the first. A rush of air fills the lungs to bursting, and you gasp it out, coughing and choking as the dim lights of the room shine with the brilliance of a thousand suns."
   :illustrator "Crystal Ben"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_119.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_119.png"
   :position 119
   :quantity 3
   :set-id "the-source"}
  {:card-id "earthrise-hotel"
   :code "06120"
   :illustrator "Simon Boxer"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN21_120.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN21_120.png"
   :position 120
   :quantity 3
   :set-id "the-source"}]

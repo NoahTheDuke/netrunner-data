@@ -4,7 +4,6 @@
  :id "sundew"
  :influence-value 3
  :side :corp
- :subtype []
  :text "The first time the Runner spends at least 1[click] on his or her turn, gain 2[credit] unless the Runner just initiated a run on this server."
  :title "Sundew"
  :trash-cost 2

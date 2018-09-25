@@ -4,7 +4,6 @@
  :id "guinea-pig"
  :influence-value 3
  :side :runner
- :subtype []
  :text "Trash your grip.\nGain 10[credit]."
  :title "Guinea Pig"
  :type :event

@@ -4,7 +4,6 @@
  :id "mca-austerity-policy"
  :influence-value 3
  :side :corp
- :subtype []
  :text "[click]: Place 1 power counter on MCA Austerity Policy. When the Runner's next turn begins, he or she loses [click]. Use this ability only once per turn.\n[click],[trash], 3 hosted power counters: Gain [click],[click],[click],[click]."
  :title "MCA Austerity Policy"
  :trash-cost 3

@@ -4,7 +4,6 @@
  :id "peak-efficiency"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Gain 1[credit] for each rezzed piece of ice."
  :title "Peak Efficiency"
  :type :operation

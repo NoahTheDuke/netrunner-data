@@ -4,7 +4,6 @@
  :id "quest-completed"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAccess 1 installed card (non-ice)."
  :title "Quest Completed"
  :type :event

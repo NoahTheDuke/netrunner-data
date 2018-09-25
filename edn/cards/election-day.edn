@@ -4,7 +4,6 @@
  :id "election-day"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Trash all cards in HQ (minimum of 1). Draw 5 cards."
  :title "Election Day"
  :type :operation

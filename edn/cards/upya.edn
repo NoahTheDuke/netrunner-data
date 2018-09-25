@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 1
  :side :runner
- :subtype []
  :text "Whenever you make a successful run on R&D, you may place 1 power counter on Upya.\n<strong>[click], 3 hosted power counters</strong>: Gain [click][click]. Use this ability only once per turn."
  :title "Upya"
  :type :program

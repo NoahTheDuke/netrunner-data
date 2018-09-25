@@ -4,7 +4,6 @@
  :id "sea-source"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Play only if the Runner made a successful run during his or her last turn.\n<trace>Trace 3</trace> If successful, give the Runner 1 tag."
  :title "SEA Source"
  :type :operation

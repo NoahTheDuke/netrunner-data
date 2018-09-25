@@ -5,7 +5,6 @@
  :influence-value 1
  :memory-cost 0
  :side :runner
- :subtype []
  :text "When Harbinger is trashed, install it facedown instead of adding it to your heap."
  :title "Harbinger"
  :type :program

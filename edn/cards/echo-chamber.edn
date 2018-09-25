@@ -4,7 +4,6 @@
  :id "echo-chamber"
  :influence-value 4
  :side :corp
- :subtype []
  :text "[click], [click], [click]: Add Echo Chamber to your score area as an agenda worth 1 agenda point."
  :title "Echo Chamber"
  :trash-cost 1

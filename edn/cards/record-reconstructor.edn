@@ -4,7 +4,6 @@
  :id "record-reconstructor"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Whenever you make a successful run on Archives, instead of accessing cards you may choose 1 faceup card from Archives and add it to the top of R&D."
  :title "Record Reconstructor"
  :type :hardware

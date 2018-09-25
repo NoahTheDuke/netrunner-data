@@ -4,7 +4,6 @@
  :faction :haas-bioroid
  :id "cfc-excavation-contract"
  :side :corp
- :subtype []
  :text "When you score CFC Excavation Contract, gain 2[credit] for each rezzed <strong>bioroid</strong>."
  :title "CFC Excavation Contract"
  :type :agenda

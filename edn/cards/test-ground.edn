@@ -4,7 +4,6 @@
  :id "test-ground"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Test Ground can be advanced.\n[trash]: Derez 1 card for each advancement token on Test Ground."
  :title "Test Ground"
  :trash-cost 2

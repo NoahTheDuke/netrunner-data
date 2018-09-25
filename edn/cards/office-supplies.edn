@@ -4,7 +4,6 @@
  :id "office-supplies"
  :influence-value 3
  :side :runner
- :subtype []
  :text "Reduce the play cost of Office Supplies by 1 for each [link] you have.\nGain 4[credit] or draw 4 cards."
  :title "Office Supplies"
  :type :event

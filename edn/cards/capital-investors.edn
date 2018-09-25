@@ -4,7 +4,6 @@
  :id "capital-investors"
  :influence-value 2
  :side :corp
- :subtype []
  :text "[click]: Gain 2[credit]."
  :title "Capital Investors"
  :trash-cost 2

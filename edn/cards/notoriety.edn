@@ -4,7 +4,6 @@
  :id "notoriety"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAdd Notoriety to your score area as an agenda worth 1 agenda point."
  :title "Notoriety"
  :type :event

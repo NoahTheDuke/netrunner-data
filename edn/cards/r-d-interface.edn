@@ -4,7 +4,6 @@
  :id "r-d-interface"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Whenever you access cards from R&D, access 1 additional card from R&D."
  :title "R&D Interface"
  :type :hardware

@@ -4,7 +4,6 @@
  :id "personalized-portal"
  :influence-value 2
  :side :corp
- :subtype []
  :text "When your turn begins, the Runner draws 1 card, then you may gain 1[credit] for every 2 cards in the grip."
  :title "Personalized Portal"
  :trash-cost 3

@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 2
  :side :runner
- :subtype []
  :text "Draw 1 card whenever the Corp rezzes a piece of ice."
  :title "Collective Consciousness"
  :type :program

@@ -4,7 +4,6 @@
  :id "accelerated-diagnostics"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at."
  :title "Accelerated Diagnostics"
  :type :operation

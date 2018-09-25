@@ -4,7 +4,6 @@
  :id "anonymous-tip"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Draw 3 cards."
  :title "Anonymous Tip"
  :type :operation

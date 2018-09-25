@@ -4,7 +4,6 @@
  :id "public-terminal"
  :influence-value 2
  :side :runner
- :subtype []
  :text "1[recurring-credit]\nUse this credit to play <strong>run</strong> events."
  :title "Public Terminal"
  :type :hardware

@@ -4,7 +4,6 @@
  :id "amped-up"
  :influence-value 3
  :side :runner
- :subtype []
  :text "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented)."
  :title "Amped Up"
  :type :event

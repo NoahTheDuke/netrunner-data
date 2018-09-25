@@ -4,7 +4,6 @@
  :id "sure-gamble"
  :influence-value 0
  :side :runner
- :subtype []
  :text "Gain 9[credit]."
  :title "Sure Gamble"
  :type :event

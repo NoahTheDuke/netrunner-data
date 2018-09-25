@@ -4,7 +4,6 @@
  :id "red-herrings"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Each time the Runner accesses an agenda from this server, he or she must pay 5[credit] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Red Herrings."
  :title "Red Herrings"
  :trash-cost 1

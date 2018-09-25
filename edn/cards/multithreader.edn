@@ -5,7 +5,6 @@
  :influence-value 1
  :memory-cost 1
  :side :runner
- :subtype []
  :text "2[recurring-credit]\nUse these credits to pay for using programs."
  :title "Multithreader"
  :type :program

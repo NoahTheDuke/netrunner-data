@@ -4,7 +4,6 @@
  :id "reverse-infection"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Choose one:<ul><li>Purge virus counters. Trash 1 card from the top of the stack for every 3 virus counters removed.</li><li>Gain 2[credit].</li></ul>"
  :title "Reverse Infection"
  :type :operation

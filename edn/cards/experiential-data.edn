@@ -4,7 +4,6 @@
  :id "experiential-data"
  :influence-value 1
  :side :corp
- :subtype []
  :text "All ice protecting this server has +1 strength."
  :title "Experiential Data"
  :trash-cost 2

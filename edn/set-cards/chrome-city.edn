@@ -2,7 +2,7 @@
   :code "08041"
   :flavor "The most potent scripts are indistinguishable from magic to the sysop on the other side."
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_41.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_41.png"
   :position 41
   :quantity 3
   :set-id "chrome-city"}
@@ -10,14 +10,14 @@
   :code "08042"
   :flavor "The implanted brain-machine interface, or \"skulljack,\" is the single most common cybernetic enhancement that isn't a medical necessity."
   :illustrator "Aaron Agregado"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_42.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_42.png"
   :position 42
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "turntable"
   :code "08043"
   :illustrator "Sara K. Diesel"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_43.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_43.png"
   :position 43
   :quantity 3
   :set-id "chrome-city"}
@@ -25,28 +25,28 @@
   :code "08044"
   :flavor "Picking a chopper might be the last decision you make. If you find a good one, stick with her for life."
   :illustrator "James Ives"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_44.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_44.png"
   :position 44
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "titanium-ribs"
   :code "08045"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_45.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_45.png"
   :position 45
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "crowbar"
   :code "08046"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_46.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_46.png"
   :position 46
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "net-ready-eyes"
   :code "08047"
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_47.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_47.png"
   :position 47
   :quantity 3
   :set-id "chrome-city"}
@@ -54,7 +54,7 @@
   :code "08048"
   :flavor "Sometimes progress means returning to the past."
   :illustrator "Laura Wilson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_48.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_48.png"
   :position 48
   :quantity 3
   :set-id "chrome-city"}
@@ -62,7 +62,7 @@
   :code "08049"
   :flavor "The skull is not one bone, but 22. The surgery is even more complex than it sounds."
   :illustrator "Mike Nesbitt"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_49.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_49.png"
   :position 49
   :quantity 3
   :set-id "chrome-city"}
@@ -70,7 +70,7 @@
   :code "08050"
   :flavor "Define Yourself."
   :illustrator "Greg Semkow"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_50.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_50.png"
   :position 50
   :quantity 3
   :set-id "chrome-city"}
@@ -78,7 +78,7 @@
   :code "08051"
   :flavor "Cyber enhancements can be dangerous in the wrong hands."
   :illustrator "Abrar Ajmal"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_51.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_51.png"
   :position 51
   :quantity 3
   :set-id "chrome-city"}
@@ -86,7 +86,7 @@
   :code "08052"
   :flavor "\"Remember those FCC regulations about not creating harmful interference? No? Ah, before your time, I guess.\" -Cailan Heinrich, Senior Programmer"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_52.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_52.png"
   :position 52
   :quantity 3
   :set-id "chrome-city"}
@@ -94,7 +94,7 @@
   :code "08053"
   :flavor "Built Oaktown tough."
   :illustrator "Maciej Rebisz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_53.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_53.png"
   :position 53
   :quantity 3
   :set-id "chrome-city"}
@@ -102,14 +102,14 @@
   :code "08054"
   :flavor "\"Bioroids recognize consciousness in others, but not in themselves.\""
   :illustrator "Roderick Constance"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_54.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_54.png"
   :position 54
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "clairvoyant-monitor"
   :code "08055"
   :illustrator "Seage"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_55.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_55.png"
   :position 55
   :quantity 3
   :set-id "chrome-city"}
@@ -117,7 +117,7 @@
   :code "08056"
   :flavor "\"When your communications are disrupted, you are isolated from your resources. An attack will surely follow.\" -The Playbook"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_56.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_56.png"
   :position 56
   :quantity 3
   :set-id "chrome-city"}
@@ -125,14 +125,14 @@
   :code "08057"
   :flavor "\"A sysop is not just a cog in the corporate machine. They have dreams-and nightmares-just like the rest of us.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_57.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_57.png"
   :position 57
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "oaktown-renovation"
   :code "08058"
   :illustrator "Maciej Rebisz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_58.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_58.png"
   :position 58
   :quantity 3
   :set-id "chrome-city"}
@@ -140,14 +140,14 @@
   :code "08059"
   :flavor "If you can't buy the city council, create a new city."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_59.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_59.png"
   :position 59
   :quantity 3
   :set-id "chrome-city"}
  {:card-id "quicksand"
   :code "08060"
   :illustrator "Dmitry Prosvirnin"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN25_60.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN25_60.png"
   :position 60
   :quantity 3
   :set-id "chrome-city"}]

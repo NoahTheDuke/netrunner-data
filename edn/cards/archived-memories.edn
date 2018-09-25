@@ -4,7 +4,6 @@
  :id "archived-memories"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Add 1 card from Archives to HQ."
  :title "Archived Memories"
  :type :operation

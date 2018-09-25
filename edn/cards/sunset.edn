@@ -4,7 +4,6 @@
  :id "sunset"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Choose a server. Arrange the ice protecting that server in any order."
  :title "Sunset"
  :type :operation

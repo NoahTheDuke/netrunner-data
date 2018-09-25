@@ -4,7 +4,6 @@
  :id "reconstruction-contract"
  :influence-value 4
  :side :corp
- :subtype []
  :text "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract.\n[trash]: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced."
  :title "Reconstruction Contract"
  :trash-cost 4

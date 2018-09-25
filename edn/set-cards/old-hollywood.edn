@@ -2,7 +2,7 @@
   :code "08081"
   :flavor "\"Did you ever notice how everything goes in cycles? The stuff that's cool now was cool before. That's why I keep copy of everything!\" -Princess Space Kitten"
   :illustrator "Reiko Murakami"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_81.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_81.png"
   :position 81
   :quantity 3
   :set-id "old-hollywood"}
@@ -10,7 +10,7 @@
   :code "08082"
   :flavor "Don't you hate it when you know everything before it's even out?"
   :illustrator "James Ives"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_82.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_82.png"
   :position 82
   :quantity 3
   :set-id "old-hollywood"}
@@ -18,7 +18,7 @@
   :code "08083"
   :flavor "\"Just a bunch of knockoffs for the touristos. The real designer stuff isn't sold on the street.\""
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_83.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_83.png"
   :position 83
   :quantity 3
   :set-id "old-hollywood"}
@@ -26,7 +26,7 @@
   :code "08084"
   :flavor "\"I told you to lose my number!\""
   :illustrator "Seage"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_84.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_84.png"
   :position 84
   :quantity 3
   :set-id "old-hollywood"}
@@ -34,7 +34,7 @@
   :code "08085"
   :flavor "Your life is not your own, once you become famous on the Net."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_85.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_85.png"
   :position 85
   :quantity 3
   :set-id "old-hollywood"}
@@ -42,7 +42,7 @@
   :code "08086"
   :flavor "\"My gerbil could write a better screenplay.\""
   :illustrator "Georgi Georgiev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_86.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_86.png"
   :position 86
   :quantity 3
   :set-id "old-hollywood"}
@@ -50,7 +50,7 @@
   :code "08087"
   :flavor "\"Yeah, we know right where she is. Just pull up Sizzler!\""
   :illustrator "JB Casacop"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_87.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_87.png"
   :position 87
   :quantity 3
   :set-id "old-hollywood"}
@@ -58,14 +58,14 @@
   :code "08088"
   :flavor "\"It's our most pirated property ever. Great work, everyone.\""
   :illustrator "Smirtouille"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_88.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_88.png"
   :position 88
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "enforcer-1-0"
   :code "08089"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_89.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_89.png"
   :position 89
   :quantity 3
   :set-id "old-hollywood"}
@@ -73,14 +73,14 @@
   :code "08090"
   :flavor "I warned you."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_90.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_90.png"
   :position 90
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "an-offer-you-can-t-refuse"
   :code "08091"
   :illustrator "A. Jones"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_91.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_91.png"
   :position 91
   :quantity 3
   :set-id "old-hollywood"}
@@ -88,14 +88,14 @@
   :code "08092"
   :flavor "Home of Your Imagination."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_92.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_92.png"
   :position 92
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "award-bait"
   :code "08093"
   :illustrator "Clark Huggins"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_93.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_93.png"
   :position 93
   :quantity 3
   :set-id "old-hollywood"}
@@ -103,35 +103,35 @@
   :code "08094"
   :flavor "It's like Lethal Action 3, only with more explosions."
   :illustrator "Mike Nesbitt"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_94.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_94.png"
   :position 94
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "early-premiere"
   :code "08095"
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_95.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_95.png"
   :position 95
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "casting-call"
   :code "08096"
   :illustrator "Smirtouille"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_96.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_96.png"
   :position 96
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "old-hollywood-grid"
   :code "08097"
   :illustrator "David Ogilvie"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_97.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_97.png"
   :position 97
   :quantity 3
   :set-id "old-hollywood"}
  {:card-id "hollywood-renovation"
   :code "08098"
   :illustrator "David Ogilvie"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_98.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_98.png"
   :position 98
   :quantity 3
   :set-id "old-hollywood"}
@@ -139,7 +139,7 @@
   :code "08099"
   :flavor "Sometimes corps have to bury projects, but that doesn't mean they can't make a profit on them."
   :illustrator "Smirtouille"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_99.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_99.png"
   :position 99
   :quantity 3
   :set-id "old-hollywood"}
@@ -147,7 +147,7 @@
   :code "08100"
   :flavor "EXT. KANSAS - DAY\nDOROTHY (Miranda) gazes out at the horizon. A sudden gust of wind catches her hair. Above the windblasted prairie loom ominous STORM CLOUDS.\nDOROTHY: If only I wasn't in Kansas anymore.\nShe begins to hum a haunting melody."
   :illustrator "Ashley Witter"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN27_100.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN27_100.png"
   :position 100
   :quantity 3
   :set-id "old-hollywood"}]

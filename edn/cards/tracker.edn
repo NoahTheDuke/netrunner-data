@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 2
  :side :runner
- :subtype []
  :text "When your turn begins, choose a server.\n[click],2[credit]: Make a run on the chosen server. Prevent the first subroutine that would resolve this run from resolving."
  :title "Tracker"
  :type :program

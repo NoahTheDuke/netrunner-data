@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :neutral-corp
+ :id "cyber-bureau-keeping-the-peace"
+ :influence-limit nil
+ :minimum-deck-size 40
+ :side :corp
+ :subtype [:police-department]
+ :text "You draw a starting hand of 10 cards.\nBefore taking your first turn, install up to 5 cards, ignoring all install costs. Rez any number of them, lowering the total rez cost among all cards by 20. Flip this identity.\nDetective's Bureau: Upholding the Law\nThe first time the Runner initiates a run each turn, force the Runner to lose 1[credit] for each agenda point in his or her score area, then you gain 1[credit] for each credit lost.\n[click]: Gain 3[credit] or draw 3 cards."
+ :title "Cyber Bureau: Keeping the Peace"
+ :type :identity
+ :uniqueness false}

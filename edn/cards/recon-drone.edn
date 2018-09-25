@@ -4,7 +4,6 @@
  :id "recon-drone"
  :influence-value 3
  :side :runner
- :subtype []
  :text "X[credit],[trash]: Prevent X damage from a card currently being accessed."
  :title "Recon Drone"
  :type :hardware

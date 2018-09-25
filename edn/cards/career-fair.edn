@@ -4,7 +4,6 @@
  :id "career-fair"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Install a resource from your grip, lowering the install cost by 3."
  :title "Career Fair"
  :type :event

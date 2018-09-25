@@ -4,7 +4,6 @@
  :id "cyberdex-trial"
  :influence-value 0
  :side :corp
- :subtype []
  :text "Purge virus counters."
  :title "Cyberdex Trial"
  :type :operation

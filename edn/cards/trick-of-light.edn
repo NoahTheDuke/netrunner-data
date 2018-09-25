@@ -4,7 +4,6 @@
  :id "trick-of-light"
  :influence-value 3
  :side :corp
- :subtype []
  :text "Move up to 2 advancement tokens from a card to another installed card that can be advanced."
  :title "Trick of Light"
  :type :operation

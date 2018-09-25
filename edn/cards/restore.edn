@@ -4,7 +4,6 @@
  :id "restore"
  :influence-value 3
  :side :corp
- :subtype []
  :text "Install and rez 1 card from Archives (paying all costs). Remove all other copies of that card in Archives from the game."
  :title "Restore"
  :type :operation

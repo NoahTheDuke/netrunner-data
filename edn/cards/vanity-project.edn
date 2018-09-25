@@ -5,7 +5,6 @@
  :id "vanity-project"
  :influence-value 1
  :side :corp
- :subtype []
  :title "Vanity Project"
  :type :agenda
  :uniqueness false}

@@ -5,7 +5,6 @@
  :influence-value 1
  :memory-cost 1
  :side :runner
- :subtype []
  :text "[trash]: Prevent a trace. That trace initiates again with a base trace strength of 0."
  :title "Disrupter"
  :type :program

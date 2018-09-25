@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "border-control"
+ :influence-value 3
+ :side :corp
+ :strength 1
+ :subtype [:barrier]
+ :text "[trash]: End the run. Use this ability only during a run on this server.\n[subroutine] The Corp gains 1[credit] for each piece of ice protecting this server.\n[subroutine] End the run."
+ :title "Border Control"
+ :type :ice
+ :uniqueness false}

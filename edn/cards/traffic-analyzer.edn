@@ -4,7 +4,6 @@
  :id "traffic-analyzer"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Whenever you rez a piece of ice protecting this server, <trace>Trace 2</trace> If successful, the Corp gains 1[credit]."
  :title "Traffic Analyzer"
  :trash-cost 3

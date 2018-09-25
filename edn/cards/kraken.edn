@@ -4,7 +4,6 @@
  :id "kraken"
  :influence-value 0
  :side :runner
- :subtype []
  :text "Play only if you stole an agenda this turn.\nChoose a server. The Corp trashes 1 piece of ice protecting that server."
  :title "Kraken"
  :type :event

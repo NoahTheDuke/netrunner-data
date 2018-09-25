@@ -2,14 +2,14 @@
   :code "21101"
   :flavor "Eat. Code. Sleep. Eat. Code. Sleep. Eat. Code. Eat. Code. Sleep. Eat. Code. Code. Sleep. Code. Code. Code. Eat. Code. Code. Code. Code. Code. Code."
   :illustrator "Martin de Diego Sádaba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_101.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_101.png"
   :position 101
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "musaazi"
   :code "21102"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_102.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_102.png"
   :position 102
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -17,7 +17,7 @@
   :code "21103"
   :flavor "Getting it up the stairs was enough for him to know that if he ever moved, it was staying."
   :illustrator "Juan Novelletto"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_103.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_103.png"
   :position 103
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -25,14 +25,14 @@
   :code "21104"
   :flavor "Her gallop, thunder; her blade, lightning."
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_104.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_104.png"
   :position 104
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "diversion-of-funds"
   :code "21105"
   :illustrator "Fei F. Ou"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_105.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_105.png"
   :position 105
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -40,7 +40,7 @@
   :code "21106"
   :flavor "\"You called me, sir?\"\n\"Why does my PAD keep flashing 'Sensitive Information Transfer'?!\"\n\"Hmm, that's strange. Mine only does that on Tuesdays.\""
   :illustrator "Caravan Studio"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_106.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_106.png"
   :position 106
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -48,21 +48,21 @@
   :code "21107"
   :flavor "It was a deal, to be sure. She just didn't know for which party."
   :illustrator "Josh Corpuz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_107.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_107.png"
   :position 107
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "engolo"
   :code "21108"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_108.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_108.png"
   :position 108
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "flame-out"
   :code "21109"
   :illustrator "Caravan Studio"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_109.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_109.png"
   :position 109
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -70,14 +70,14 @@
   :code "21110"
   :flavor "\"The way I see it, I'm teaching them a lesson in the importance of basic security.\" - Sunny Lebeau"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_110.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_110.png"
   :position 110
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "kasi-string"
   :code "21111"
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_111.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_111.png"
   :position 111
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -85,28 +85,28 @@
   :code "21112"
   :flavor "Defenses that last forever."
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_112.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_112.png"
   :position 112
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "riot-suppression"
   :code "21113"
   :illustrator "Adam Schumpert"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_113.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_113.png"
   :position 113
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "mti-mwekundu-life-improved"
   :code "21114"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_114.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_114.png"
   :position 114
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "mlinzi"
   :code "21115"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_115.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_115.png"
   :position 115
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -114,7 +114,7 @@
   :code "21116"
   :flavor "\"Deep down, everyone wants to be good. We ensure that desire is met.\" - Taavi Gyula"
   :illustrator "BalanceSheet"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_116.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_116.png"
   :position 116
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -122,7 +122,7 @@
   :code "21117"
   :flavor "\"Once we have enough data, we can make the Invisible Hand more like an Invisible Fist.\""
   :illustrator "Caravan Studio"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_117.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_117.png"
   :position 117
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -130,7 +130,7 @@
   :code "21118"
   :flavor "INTRUDER ALERT!\nINTRUDER ALERT!\nINTRUDER NEUTRALIZED!"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_118.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_118.png"
   :position 118
   :quantity 3
   :set-id "kampala-ascendent"}
@@ -138,14 +138,14 @@
   :code "21119"
   :flavor "\"You can't do thi...\""
   :illustrator "Fei F. Ou"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_119.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_119.png"
   :position 119
   :quantity 3
   :set-id "kampala-ascendent"}
  {:card-id "false-flag"
   :code "21120"
   :illustrator "Nasrul Hakim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN55_120.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN55_120.png"
   :position 120
   :quantity 3
   :set-id "kampala-ascendent"}]

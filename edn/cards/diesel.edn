@@ -4,7 +4,6 @@
  :id "diesel"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Draw 3 cards."
  :title "Diesel"
  :type :event

@@ -4,7 +4,6 @@
  :id "mining-accident"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Play only if you made a successful run on a central server this turn.\nThe Corp must pay 5[credit] or take 1 bad publicity. Remove Mining Accident from the game instead of trashing it."
  :title "Mining Accident"
  :type :event

@@ -4,7 +4,6 @@
  :id "hq-interface"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Whenever you access cards from HQ, access 1 additional card from HQ."
  :title "HQ Interface"
  :type :hardware

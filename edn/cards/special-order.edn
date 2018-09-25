@@ -4,7 +4,6 @@
  :id "special-order"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Search your stack for an <strong>icebreaker</strong>, reveal it, and add it to your grip. Shuffle your stack."
  :title "Special Order"
  :type :event

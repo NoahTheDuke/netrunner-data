@@ -4,7 +4,6 @@
  :id "quality-time"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Draw 5 cards."
  :title "Quality Time"
  :type :event

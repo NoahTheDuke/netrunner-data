@@ -4,7 +4,6 @@
  :id "sweeps-week"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Gain 1[credit] for each card in the Runner's grip."
  :title "Sweeps Week"
  :type :operation

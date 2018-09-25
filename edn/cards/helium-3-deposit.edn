@@ -4,7 +4,6 @@
  :faction :weyland-consortium
  :id "helium-3-deposit"
  :side :corp
- :subtype []
  :text "When you score Helium-3 Deposit, place up to 2 power counters on a card with at least 1 power counter on it."
  :title "Helium-3 Deposit"
  :type :agenda

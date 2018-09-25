@@ -1,10 +1,9 @@
-{:cost 0
+{:cost nil
  :deck-limit 3
  :faction :jinteki
  :id "recruiting-trip"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Search R&D for up to X different <strong>sysops</strong> (by title), reveal them, and add them to HQ. Shuffle R&D."
  :title "Recruiting Trip"
  :type :operation

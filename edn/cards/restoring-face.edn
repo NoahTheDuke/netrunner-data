@@ -4,7 +4,6 @@
  :id "restoring-face"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Trash one of your installed <strong>sysops</strong>, <strong>executives</strong>, or <strong>clones</strong>. If you do, remove up to 2 bad publicity."
  :title "Restoring Face"
  :type :operation

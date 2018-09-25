@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 1
  :side :runner
- :subtype []
  :text "2[recurring-credit]\nUse these credits to install programs (you cannot use Sahasrara to install a program that trashes Sahasrara)."
  :title "Sahasrara"
  :type :program

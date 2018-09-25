@@ -4,7 +4,6 @@
  :id "all-nighter"
  :influence-value 2
  :side :runner
- :subtype []
  :text "[click], [trash]: Gain [click][click]."
  :title "All-nighter"
  :type :resource

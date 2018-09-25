@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "timely-public-release"
+ :influence-value nil
+ :side :corp
+ :subtype [:initiative]
+ :text "Place 1 agenda counter on Timely Public Release when it is scored.\n<strong>Hosted agenda counter</strong>: Install piece of ice from HQ or Archives in any position protecting a server, ignoring all cost."
+ :title "Timely Public Release"
+ :type :agenda
+ :uniqueness false}

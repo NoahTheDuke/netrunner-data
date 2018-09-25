@@ -4,7 +4,6 @@
  :id "hijacked-router"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Whenever the Corp creates a server, he or she loses 1[credit].\nWhenever you make a successful run on Archives, you may trash Hijacked Router to force the Corp to lose 3[credit]."
  :title "Hijacked Router"
  :type :hardware

@@ -4,7 +4,6 @@
  :id "melange-mining-corp"
  :influence-value 0
  :side :corp
- :subtype []
  :text "[click], [click], [click]: Gain 7[credit]."
  :title "Melange Mining Corp."
  :trash-cost 1

@@ -4,7 +4,6 @@
  :id "expose"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Exposé can be advanced.\n[trash]: Remove 1 bad publicity for each advancement token on Exposé."
  :title "Exposé"
  :trash-cost 2

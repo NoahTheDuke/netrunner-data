@@ -4,7 +4,6 @@
  :id "archives-interface"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Whenever you access cards in Archives, you may remove 1 card in Archives from the game, instead of accessing it."
  :title "Archives Interface"
  :type :hardware

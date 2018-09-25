@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 1
  :side :runner
- :subtype []
  :text "Whenever you make a successful run, you may place 1[credit] from the bank on Bankroll.\n[trash]: Take all credits from Bankroll."
  :title "Bankroll"
  :type :program

@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 2
  :side :runner
- :subtype []
  :text "2[credit], [trash]: Search your stack for a program and install it (paying the install cost). Shuffle your stack."
  :title "Self-modifying Code"
  :type :program

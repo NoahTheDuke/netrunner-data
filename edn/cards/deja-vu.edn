@@ -4,7 +4,6 @@
  :id "deja-vu"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap to your grip."
  :title "Déjà Vu"
  :type :event

@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 1
  :side :runner
- :subtype []
  :text "Place 3 power counters on Nyashia when it is installed.\nWhenever you access cards from R&D, you may remove 1 hosted power counter to access 1 additional card from R&D."
  :title "Nyashia"
  :type :program

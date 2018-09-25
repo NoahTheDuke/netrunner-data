@@ -4,7 +4,6 @@
  :id "express-delivery"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Look at the top 4 cards of your stack and add 1 of those cards to your grip. Shuffle your stack."
  :title "Express Delivery"
  :type :event

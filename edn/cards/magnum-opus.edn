@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 2
  :side :runner
- :subtype []
  :text "[click]: Gain 2[credit]."
  :title "Magnum Opus"
  :type :program

@@ -4,7 +4,6 @@
  :id "infiltration"
  :influence-value 0
  :side :runner
- :subtype []
  :text "Gain 2[credit] or expose 1 card."
  :title "Infiltration"
  :type :event

@@ -4,7 +4,6 @@
  :id "cybsoft-macrodrive"
  :influence-value 1
  :side :runner
- :subtype []
  :text "1[recurring-credit]\nUse this credit to install programs."
  :title "Cybsoft MacroDrive"
  :type :hardware

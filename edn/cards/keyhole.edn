@@ -5,7 +5,6 @@
  :influence-value 3
  :memory-cost 2
  :side :runner
- :subtype []
  :text "[click]: Make a run on R&D. If successful, instead of accessing cards, look at the top 3 cards of R&D. Trash 1 of those cards at no cost (even if it cannot normally be trashed) and the Corp shuffles R&D."
  :title "Keyhole"
  :type :program

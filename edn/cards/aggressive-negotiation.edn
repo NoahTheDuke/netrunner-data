@@ -4,7 +4,6 @@
  :id "aggressive-negotiation"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Play only if you scored an agenda this turn.\nSearch R&D for 1 card and add it to HQ. Shuffle R&D."
  :title "Aggressive Negotiation"
  :type :operation

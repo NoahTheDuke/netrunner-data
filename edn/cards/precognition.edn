@@ -4,7 +4,6 @@
  :id "precognition"
  :influence-value 3
  :side :corp
- :subtype []
  :text "Look at the top 5 cards of R&D and arrange them in any order."
  :title "Precognition"
  :type :operation

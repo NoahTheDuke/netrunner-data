@@ -5,7 +5,6 @@
  :influence-value 2
  :memory-cost 1
  :side :runner
- :subtype []
  :text "[trash]: Break all but 1 subroutine on a piece of ice."
  :title "Grappling Hook"
  :type :program

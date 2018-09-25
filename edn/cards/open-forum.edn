@@ -4,7 +4,6 @@
  :id "open-forum"
  :influence-value 1
  :side :corp
- :subtype []
  :text "After your mandatory draw, reveal the top card of R&D and add it to HQ. Add 1 card from HQ to the top of R&D."
  :title "Open Forum"
  :trash-cost 3

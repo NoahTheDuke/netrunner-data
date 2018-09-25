@@ -4,7 +4,6 @@
  :id "paparazzi"
  :influence-value 0
  :side :runner
- :subtype []
  :text "You are tagged.\nPrevent all meat damage."
  :title "Paparazzi"
  :type :resource

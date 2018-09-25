@@ -4,7 +4,6 @@
  :id "rebirth"
  :influence-value 1
  :side :runner
- :subtype []
  :text "Switch your identity with another identity from the same faction. Remove Rebirth from the game instead of trashing it.\nLimit 1 per deck."
  :title "Rebirth"
  :type :event

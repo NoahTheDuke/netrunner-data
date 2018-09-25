@@ -4,7 +4,6 @@
  :id "attitude-adjustment"
  :influence-value 2
  :side :corp
- :subtype []
  :text "Draw 2 cards. Reveal up to 2 agendas in HQ and/or Archives. Gain 2[credit] for each agenda revealed, then shuffle those agendas into R&D."
  :title "Attitude Adjustment"
  :type :operation

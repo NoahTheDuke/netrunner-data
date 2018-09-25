@@ -5,7 +5,6 @@
  :influence-value 1
  :memory-cost 1
  :side :runner
- :subtype []
  :text "Install Kyuban only on a piece of ice.\nGain 2[credit] whenever you pass host ice."
  :title "Kyuban"
  :type :program

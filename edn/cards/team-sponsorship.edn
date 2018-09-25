@@ -4,7 +4,6 @@
  :id "team-sponsorship"
  :influence-value 1
  :side :corp
- :subtype []
  :text "Whenever you score an agenda, you may install a card from Archives or HQ, ignoring the install cost."
  :title "Team Sponsorship"
  :trash-cost 4

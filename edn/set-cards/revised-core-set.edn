@@ -2,7 +2,7 @@
   :code "20001"
   :flavor "\"Analyzing the board won't help. Your mistake was thinking we're playing the same game.\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_1.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_1.png"
   :position 1
   :quantity 1
   :replaces "04041"
@@ -11,7 +11,7 @@
   :code "20002"
   :flavor "You ever set something on fire just to watch it burn?"
   :illustrator "Anna Ignatieva"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_2.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_2.png"
   :position 2
   :quantity 2
   :replaces "01003"
@@ -19,7 +19,7 @@
  {:card-id "retrieval-run"
   :code "20003"
   :illustrator "Outland Entertainment LLC"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_3.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_3.png"
   :position 3
   :quantity 2
   :replaces "02101"
@@ -27,7 +27,7 @@
  {:card-id "singularity"
   :code "20004"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_4.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_4.png"
   :position 4
   :quantity 1
   :replaces "04101"
@@ -35,7 +35,7 @@
  {:card-id "stimhack"
   :code "20005"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_5.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_5.png"
   :position 5
   :quantity 1
   :replaces "01004"
@@ -44,7 +44,7 @@
   :code "20006"
   :flavor "I feel almost naked without it"
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_6.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_6.png"
   :position 6
   :quantity 2
   :replaces "01005"
@@ -52,7 +52,7 @@
  {:card-id "spinal-modem"
   :code "20007"
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_7.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_7.png"
   :position 7
   :quantity 2
   :replaces "02002"
@@ -60,7 +60,7 @@
  {:card-id "darwin"
   :code "20008"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_8.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_8.png"
   :position 8
   :quantity 2
   :replaces "02102"
@@ -68,7 +68,7 @@
  {:card-id "datasucker"
   :code "20009"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_9.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_9.png"
   :position 9
   :quantity 2
   :replaces "01008"
@@ -77,7 +77,7 @@
   :code "20010"
   :flavor "It always strikes twice."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_10.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_10.png"
   :position 10
   :quantity 3
   :replaces "02062"
@@ -86,7 +86,7 @@
   :code "20011"
   :flavor "Something wicked this way comes."
   :illustrator "Wen Xiaodong"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_11.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_11.png"
   :position 11
   :quantity 1
   :replaces "02003"
@@ -95,7 +95,7 @@
   :code "20012"
   :flavor "Bleeding data is more of a science than an art. Too much and you can end up with a one-way ticket to flatline city. Not enough and you might as well be running an empty server."
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_12.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_12.png"
   :position 12
   :quantity 1
   :replaces "04082"
@@ -104,7 +104,7 @@
   :code "20013"
   :flavor "November 5th: the day when all would see the corrupt machinations of the corporate oligarchy."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_13.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_13.png"
   :position 13
   :quantity 3
   :replaces "01011"
@@ -113,7 +113,7 @@
   :code "20014"
   :flavor "Weaponizing the heavens, one star at a time."
   :illustrator "Robert Chew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_14.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_14.png"
   :position 14
   :quantity 3
   :replaces "02004"
@@ -122,7 +122,7 @@
   :code "20015"
   :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_15.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_15.png"
   :position 15
   :quantity 1
   :replaces "01015"
@@ -131,7 +131,7 @@
   :code "20016"
   :flavor "It's easier to spend when it's not your money."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_16.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_16.png"
   :position 16
   :quantity 3
   :replaces "02022"
@@ -140,7 +140,7 @@
   :code "20017"
   :flavor "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly"
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_17.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_17.png"
   :position 17
   :quantity 2
   :replaces "02063"
@@ -149,7 +149,7 @@
   :code "20018"
   :flavor "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge"
   :illustrator "Andrew Mar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_18.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_18.png"
   :position 18
   :quantity 1
   :replaces "02082"
@@ -158,7 +158,7 @@
   :code "20019"
   :flavor "\"Of course I steal from the rich. They're the ones with all the money.\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_19.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_19.png"
   :position 19
   :quantity 1
   :replaces "01017"
@@ -167,7 +167,7 @@
   :code "20020"
   :flavor "\"Hey kid, you fire that up now, bound to be vamped real bad. Some real pathetic individuals around here. But thankfully I got just the ticket…\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_20.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_20.png"
   :position 20
   :quantity 3
   :replaces "01019"
@@ -176,7 +176,7 @@
   :code "20021"
   :flavor "\"Think of it as a virtual shock collar for punishing corporate pets.\" -Andromeda"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_21.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_21.png"
   :position 21
   :quantity 2
   :replaces "02043"
@@ -185,7 +185,7 @@
   :code "20022"
   :flavor "As the hysteria in the room climbed higher up the corporate chain, an uneasy feeling of joblessness began to sink in on the lower rungs."
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_22.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_22.png"
   :position 22
   :quantity 2
   :replaces "01020"
@@ -194,7 +194,7 @@
   :code "20023"
   :flavor "\"Hey, listen, I'm not asking you to do anything dangerous. Just let me into the building. And tell me which room has the weakest security. And please don't say 'the bathroom' again.\""
   :illustrator "Clark Huggins"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_23.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_23.png"
   :position 23
   :quantity 2
   :replaces "01021"
@@ -203,7 +203,7 @@
   :code "20024"
   :flavor "Feverishly tracking its frustratingly slow progress across the Pacific, the package finally shows up hours later…"
   :illustrator "Steve Hamilton"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_24.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_24.png"
   :position 24
   :quantity 1
   :replaces "01022"
@@ -212,7 +212,7 @@
   :code "20025"
   :flavor "Twice the fun."
   :illustrator "Steve Hamilton"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_25.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_25.png"
   :position 25
   :quantity 2
   :replaces "02064"
@@ -221,7 +221,7 @@
   :code "20026"
   :flavor "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments."
   :illustrator "Robert Chew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_26.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_26.png"
   :position 26
   :quantity 1
   :replaces "02085"
@@ -229,7 +229,7 @@
  {:card-id "aurora"
   :code "20027"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_27.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_27.png"
   :position 27
   :quantity 3
   :replaces "01025"
@@ -238,7 +238,7 @@
   :code "20028"
   :flavor "Do you believe in faeries?"
   :illustrator "Sara K. Diesel"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_28.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_28.png"
   :position 28
   :quantity 3
   :replaces "02104"
@@ -246,7 +246,7 @@
  {:card-id "femme-fatale"
   :code "20029"
   :illustrator "Anna Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_29.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_29.png"
   :position 29
   :quantity 2
   :replaces "01026"
@@ -255,7 +255,7 @@
   :code "20030"
   :flavor "Show-off."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_30.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_30.png"
   :position 30
   :quantity 3
   :replaces "02006"
@@ -263,7 +263,7 @@
  {:card-id "pheromones"
   :code "20031"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_31.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_31.png"
   :position 31
   :quantity 1
   :replaces "02086"
@@ -272,7 +272,7 @@
   :code "20032"
   :flavor "\"The code isn't important. It's where the code takes you that is important.\" -g00ru"
   :illustrator "Andrew Mar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_32.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_32.png"
   :position 32
   :quantity 1
   :replaces "01028"
@@ -280,7 +280,7 @@
  {:card-id "bank-job"
   :code "20033"
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_33.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_33.png"
   :position 33
   :quantity 2
   :replaces "01029"
@@ -289,7 +289,7 @@
   :code "20034"
   :flavor "\"My roomie, he had a cousin with a college girlfriend whose brother's best friend was an addict, and the addict's mother used to live here. So yeah, there's a connection.\" -Lez \"Rockfist\" S."
   :illustrator "Samuel Leung"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_34.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_34.png"
   :position 34
   :quantity 2
   :replaces "01030"
@@ -298,7 +298,7 @@
   :code "20035"
   :flavor "There are good, honest, hardworking cops in the NAPD. Officers who do their best to bring justice to the guilty and protect the innocent. Fortunately for the criminals, they're outnumbered by the other kind. The kind who are much easier to work with."
   :illustrator "Aurore Folny"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_35.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_35.png"
   :position 35
   :quantity 1
   :replaces "04106"
@@ -307,7 +307,7 @@
   :code "20036"
   :flavor "\"We're always happy to help, Mr. Santiago.\"\n\"I appreciate it, Mr. Li.\"\n\"We'll be in touch. And, Gabriel…\"\n\"Yes?\"\n\"Don't leave town.\""
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_36.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_36.png"
   :position 36
   :quantity 1
   :replaces "02105"
@@ -316,7 +316,7 @@
   :code "20037"
   :flavor "\"Have you met Dinosaurus?\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_37.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_37.png"
   :position 37
   :quantity 1
   :replaces "02046"
@@ -325,7 +325,7 @@
   :code "20038"
   :flavor "Diesel gives you flames."
   :illustrator "Tim Durning"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_38.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_38.png"
   :position 38
   :quantity 2
   :replaces "01034"
@@ -334,7 +334,7 @@
   :code "20039"
   :flavor "A little corporate restructuring is necessary once in a while."
   :illustrator "Mauricio Herrera"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_39.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_39.png"
   :position 39
   :quantity 2
   :replaces "02106"
@@ -343,7 +343,7 @@
   :code "20040"
   :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_40.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_40.png"
   :position 40
   :quantity 3
   :replaces "01035"
@@ -352,7 +352,7 @@
   :code "20041"
   :flavor "When you're this good, it's hard not to grow a fan base."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_41.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_41.png"
   :position 41
   :quantity 1
   :replaces "02026"
@@ -360,7 +360,7 @@
  {:card-id "test-run"
   :code "20042"
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_42.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_42.png"
   :position 42
   :quantity 2
   :replaces "02047"
@@ -369,7 +369,7 @@
   :code "20043"
   :flavor "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_43.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_43.png"
   :position 43
   :quantity 1
   :replaces "01036"
@@ -378,7 +378,7 @@
   :code "20044"
   :flavor "\"There's that moment, you know, when the whole world seems to fall away and it is only you and your mod, and the mod is the world.\""
   :illustrator "Christina Davis"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_44.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_44.png"
   :position 44
   :quantity 2
   :replaces "01037"
@@ -386,7 +386,7 @@
  {:card-id "dinosaurus"
   :code "20045"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_45.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_45.png"
   :position 45
   :quantity 2
   :replaces "02048"
@@ -395,7 +395,7 @@
   :code "20046"
   :flavor "It's not endless, it just feels that way."
   :illustrator "Mark Anthony Taduran"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_46.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_46.png"
   :position 46
   :quantity 2
   :replaces "01039"
@@ -404,7 +404,7 @@
   :code "20047"
   :flavor "A z-loop here, a cortical wave there…"
   :illustrator "Aurore Folny"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_47.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_47.png"
   :position 47
   :quantity 1
   :replaces "01040"
@@ -413,7 +413,7 @@
   :code "20048"
   :flavor "\"It's called 'brute-forcing' and it's just as effective today as it was a hundred years ago.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_48.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_48.png"
   :position 48
   :quantity 3
   :replaces "01042"
@@ -422,7 +422,7 @@
   :code "20049"
   :flavor "It can slice through the thickest knots of data."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_49.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_49.png"
   :position 49
   :quantity 3
   :replaces "01043"
@@ -431,7 +431,7 @@
   :code "20050"
   :flavor "The Great Work was completed on a rainy Thursday afternoon. There were no seismic shifts, no solar flares, no sign from the earth or heavens that the world had changed. But upstalk in Heinlein, on a single Cybsoft manufactured datacore, the flickering data quantums of an account began to fill with creds. Real, honest-to-goodness UN certified creds."
   :illustrator "Outland Entertainment LLC"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_50.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_50.png"
   :position 50
   :quantity 2
   :replaces "01044"
@@ -439,7 +439,7 @@
  {:card-id "pipeline"
   :code "20051"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_51.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_51.png"
   :position 51
   :quantity 3
   :replaces "01046"
@@ -448,7 +448,7 @@
   :code "20052"
   :flavor "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well."
   :illustrator "Adam Schumpert"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_52.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_52.png"
   :position 52
   :quantity 1
   :replaces "01047"
@@ -457,7 +457,7 @@
   :code "20053"
   :flavor "\"I don't care what the studies show. From my experience, I can ingest three cans of Diesel an hour for up to twelve hours before going into cardiac arrest.\" -heard during the eleventh hour"
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_53.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_53.png"
   :position 53
   :quantity 1
   :replaces "02067"
@@ -466,7 +466,7 @@
   :code "20054"
   :flavor "The life expectancy of a jacked construct is about that of a mayfly. In other words, short."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_54.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_54.png"
   :position 54
   :quantity 1
   :replaces "01048"
@@ -475,7 +475,7 @@
   :code "20055"
   :flavor "\"Bring back any memories, Monica?\" -John \"Animal\" McEvoy"
   :illustrator "Imaginary FS Pte Ltd"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_55.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_55.png"
   :position 55
   :quantity 2
   :replaces "01049"
@@ -484,7 +484,7 @@
   :code "20056"
   :flavor "Lady Luck took the form of a hifi quantum manipulation ring that she wore on her middle finger."
   :illustrator "Kate Niemczyk"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_56.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_56.png"
   :position 56
   :quantity 3
   :replaces "01050"
@@ -493,7 +493,7 @@
   :code "20057"
   :flavor "Archaic but reliable."
   :illustrator "JB Casacop"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_57.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_57.png"
   :position 57
   :quantity 3
   :replaces "02028"
@@ -501,7 +501,7 @@
  {:card-id "crypsis"
   :code "20058"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_58.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_58.png"
   :position 58
   :quantity 2
   :replaces "01051"
@@ -510,7 +510,7 @@
   :code "20059"
   :flavor "Drudge work, but it pays the bills."
   :illustrator "Dmitry Prosvirnin and Atha Kanaani"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_59.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_59.png"
   :position 59
   :quantity 3
   :replaces "01053"
@@ -519,7 +519,7 @@
   :code "20060"
   :flavor "\"My boss rewards quality work. If you know what's good for you, you'll keep it up.\""
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_60.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_60.png"
   :position 60
   :quantity 2
   :replaces "02069"
@@ -527,7 +527,7 @@
  {:card-id "haas-bioroid-stronger-together"
   :code "20061"
   :flavor "A Different Breed of Machine."
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_61.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_61.png"
   :position 61
   :quantity 1
   :replaces "02010"
@@ -536,7 +536,7 @@
   :code "20062"
   :flavor "Who wants to start a war?"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_62.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_62.png"
   :position 62
   :quantity 2
   :replaces "04010"
@@ -544,7 +544,7 @@
  {:card-id "project-vitruvius"
   :code "20063"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_63.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_63.png"
   :position 63
   :quantity 3
   :replaces "02051"
@@ -552,7 +552,7 @@
  {:card-id "adonis-campaign"
   :code "20064"
   :illustrator "Mark Anthony Taduran"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_64.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_64.png"
   :position 64
   :quantity 3
   :replaces "01056"
@@ -560,7 +560,7 @@
  {:card-id "aggressive-secretary"
   :code "20065"
   :illustrator "Julian Totino Tedesco"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_65.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_65.png"
   :position 65
   :quantity 1
   :replaces "01057"
@@ -569,7 +569,7 @@
   :code "20066"
   :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_66.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_66.png"
   :position 66
   :quantity 1
   :replaces "01061"
@@ -578,7 +578,7 @@
   :code "20067"
   :flavor "I'm not here to play games. The game is over."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_67.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_67.png"
   :position 67
   :quantity 1
   :replaces "04051"
@@ -587,7 +587,7 @@
   :code "20068"
   :flavor "My reputation would precede me, if any could speak of it."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_68.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_68.png"
   :position 68
   :quantity 2
   :replaces "01062"
@@ -596,7 +596,7 @@
   :code "20069"
   :flavor "Whrrrrr!"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_69.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_69.png"
   :position 69
   :quantity 2
   :replaces "01064"
@@ -605,7 +605,7 @@
   :code "20070"
   :flavor "My name is Viktor. Nice to meet you. Would you like to play a game?"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_70.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_70.png"
   :position 70
   :quantity 3
   :replaces "01063"
@@ -614,7 +614,7 @@
   :code "20071"
   :flavor "\"Do you think they…feel it?\""
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_71.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_71.png"
   :position 71
   :quantity 1
   :replaces "01058"
@@ -623,7 +623,7 @@
   :code "20072"
   :flavor "\"Why of course, we have six different Haas-Bioroid models serving in a variety of positions at this branch office alone. We here at Haas-Bioroid aren't going to shy away from practicing what we preach, and we pass the savings from increased efficiency on to our valued customers.\""
   :illustrator "Mark Anthony Taduran"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_72.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_72.png"
   :position 72
   :quantity 2
   :replaces "01059"
@@ -632,7 +632,7 @@
   :code "20073"
   :flavor "Green-two clearance is the highest level of security a corp can gain access to. Legally, anyway."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_73.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_73.png"
   :position 73
   :quantity 3
   :replaces "02070"
@@ -641,7 +641,7 @@
   :code "20074"
   :flavor "The new heads were in. Their eyes always followed your movements when you unlocked the pressurized container and lifted the lid."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_74.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_74.png"
   :position 74
   :quantity 1
   :replaces "01060"
@@ -650,7 +650,7 @@
   :code "20075"
   :flavor "\"Eyes forward please.\""
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_75.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_75.png"
   :position 75
   :quantity 1
   :replaces "02013"
@@ -658,7 +658,7 @@
  {:card-id "strongbox"
   :code "20076"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_76.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_76.png"
   :position 76
   :quantity 1
   :replaces "04091"
@@ -666,7 +666,7 @@
  {:card-id "jinteki-personal-evolution"
   :code "20093"
   :flavor "When You Need the Human Touch."
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_77.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_77.png"
   :position 77
   :quantity 1
   :replaces "01067"
@@ -674,7 +674,7 @@
  {:card-id "braintrust"
   :code "20094"
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_78.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_78.png"
   :position 78
   :quantity 3
   :replaces "02014"
@@ -682,7 +682,7 @@
  {:card-id "nisei-mk-ii"
   :code "20095"
   :illustrator "Alexandra Douglass"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_79.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_79.png"
   :position 79
   :quantity 2
   :replaces "01068"
@@ -690,7 +690,7 @@
  {:card-id "project-junebug"
   :code "20096"
   :illustrator "Drew Whitmore"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_80.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_80.png"
   :position 80
   :quantity 2
   :replaces "01069"
@@ -699,7 +699,7 @@
   :code "20097"
   :flavor "I will serve you…for a time."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_81.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_81.png"
   :position 81
   :quantity 1
   :replaces "02112"
@@ -707,7 +707,7 @@
  {:card-id "snare"
   :code "20098"
   :illustrator "Alice Duke"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_82.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_82.png"
   :position 82
   :quantity 2
   :replaces "01070"
@@ -716,7 +716,7 @@
   :code "20099"
   :flavor "Himitsu-Bako is a simple ice barrier that appears as a digital puzzle box. What makes it special is the ease with which it can be uninstalled and installed in a different server, throwing up barriers in unexpected places and giving any intruder a curious feeling of déjà vu."
   :illustrator "Andrew Mar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_83.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_83.png"
   :position 83
   :quantity 3
   :replaces "04013"
@@ -725,7 +725,7 @@
   :code "20100"
   :flavor "Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.\n//Samurai included."
   :illustrator "Isuardi Therianto"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_84.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_84.png"
   :position 84
   :quantity 1
   :replaces "01077"
@@ -734,7 +734,7 @@
   :code "20101"
   :flavor "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_85.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_85.png"
   :position 85
   :quantity 2
   :replaces "04033"
@@ -743,7 +743,7 @@
   :code "20102"
   :flavor "Most runners do their business in full-sim, with their rigs wired directly into their brains. The setup has a large number of advantages, with the runner able to process data and input commands far faster than a traditional meat-bound system. But it also means greater risk."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_86.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_86.png"
   :position 86
   :quantity 1
   :replaces "01078"
@@ -752,7 +752,7 @@
   :code "20103"
   :flavor "\"This ice sucks.\" -g00ru"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_87.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_87.png"
   :position 87
   :quantity 1
   :replaces "02094"
@@ -761,7 +761,7 @@
   :code "20104"
   :flavor "The 'cyber-war' is a war of information, and in a war of information, advance warning can be as good as a killing blow. -Michael Muhama, Musings on Cybercrime"
   :illustrator "Andrew Mar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_88.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_88.png"
   :position 88
   :quantity 1
   :replaces "04093"
@@ -770,7 +770,7 @@
   :code "20105"
   :flavor "When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody wanted one."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_89.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_89.png"
   :position 89
   :quantity 3
   :replaces "04012"
@@ -779,7 +779,7 @@
   :code "20106"
   :flavor "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at."
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_90.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_90.png"
   :position 90
   :quantity 2
   :replaces "01072"
@@ -788,7 +788,7 @@
   :code "20107"
   :flavor "Smoke and mirrors optional."
   :illustrator "Anna Ignatieva"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_91.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_91.png"
   :position 91
   :quantity 2
   :replaces "02033"
@@ -797,7 +797,7 @@
   :code "20108"
   :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_92.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_92.png"
   :position 92
   :quantity 1
   :replaces "02095"
@@ -805,7 +805,7 @@
  {:card-id "nbn-making-news"
   :code "20109"
   :flavor "Someone is Always Watching."
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_93.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_93.png"
   :position 93
   :quantity 1
   :replaces "01080"
@@ -813,7 +813,7 @@
  {:card-id "project-beale"
   :code "20110"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_94.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_94.png"
   :position 94
   :quantity 3
   :replaces "02115"
@@ -822,7 +822,7 @@
   :code "20111"
   :flavor "\"The damn raven just kind of cawed at me as I went past. I should have known it was too good to be true.\""
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_95.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_95.png"
   :position 95
   :quantity 3
   :replaces "04075"
@@ -830,7 +830,7 @@
  {:card-id "ghost-branch"
   :code "20112"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_96.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_96.png"
   :position 96
   :quantity 1
   :replaces "01087"
@@ -838,7 +838,7 @@
  {:card-id "data-raven"
   :code "20113"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_97.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_97.png"
   :position 97
   :quantity 2
   :replaces "01088"
@@ -847,7 +847,7 @@
   :code "20114"
   :flavor "A bright light blossomed, and then the console went dark. That's when she smelled smoke."
   :illustrator "Mike Nesbitt"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_98.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_98.png"
   :position 98
   :quantity 1
   :replaces "02117"
@@ -856,7 +856,7 @@
   :code "20115"
   :flavor "\"Try to close it. Go on. See what it does.\" -Chaos Theory"
   :illustrator "Christina Davis"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_99.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_99.png"
   :position 99
   :quantity 3
   :replaces "02056"
@@ -865,7 +865,7 @@
   :code "20116"
   :flavor "\"Ever heard of a catch-22?\"\n\"Remind me to forget it.\""
   :illustrator "Outland Entertainment LLC"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_100.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_100.png"
   :position 100
   :quantity 2
   :replaces "01090"
@@ -874,7 +874,7 @@
   :code "20117"
   :flavor "\"It can make a real fine roller coaster, provided you're properly stimmed up.\" -Noise"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_101.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_101.png"
   :position 101
   :quantity 2
   :replaces "04096"
@@ -883,7 +883,7 @@
   :code "20118"
   :flavor "\"Please stay connected. Priority transfer in progress. An operator will shortly verif-\""
   :illustrator "Dmitry Prosvirnin and Atha Kanaani"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_102.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_102.png"
   :position 102
   :quantity 1
   :replaces "01083"
@@ -891,7 +891,7 @@
  {:card-id "closed-accounts"
   :code "20119"
   :illustrator "Mauricio Herrera"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_103.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_103.png"
   :position 103
   :quantity 2
   :replaces "01084"
@@ -900,7 +900,7 @@
   :code "20120"
   :flavor "Access to the largest consumer database in the galaxy has its advantages."
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_104.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_104.png"
   :position 104
   :quantity 3
   :replaces "01085"
@@ -909,7 +909,7 @@
   :code "20121"
   :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
   :illustrator "Dmitry Prosvirnin and Atha Kanaani"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_105.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_105.png"
   :position 105
   :quantity 2
   :replaces "01086"
@@ -917,7 +917,7 @@
  {:card-id "red-herrings"
   :code "20122"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_106.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_106.png"
   :position 106
   :quantity 1
   :replaces "01091"
@@ -926,7 +926,7 @@
   :code "20123"
   :flavor "Keeping tabs on the world, one screen at a time."
   :illustrator "Erfan Fajar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_107.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_107.png"
   :position 107
   :quantity 1
   :replaces "02097"
@@ -934,7 +934,7 @@
  {:card-id "weyland-consortium-building-a-better-world"
   :code "20077"
   :flavor "Moving Upwards."
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_108.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_108.png"
   :position 108
   :quantity 1
   :replaces "01093"
@@ -943,7 +943,7 @@
   :code "20078"
   :flavor "There are going to be some changes around here."
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_109.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_109.png"
   :position 109
   :quantity 1
   :replaces "01094"
@@ -951,7 +951,7 @@
  {:card-id "project-atlas"
   :code "20079"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_110.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_110.png"
   :position 110
   :quantity 3
   :replaces "02018"
@@ -960,7 +960,7 @@
   :code "20080"
   :flavor "\"I use bioroids because I can wipe their memories or just blow their brains out when the job is done. No witnesses means no witnesses.\""
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_111.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_111.png"
   :position 111
   :quantity 1
   :replaces "04036"
@@ -969,7 +969,7 @@
   :code "20081"
   :flavor "They don't call them dedicated for nothing"
   :illustrator "Reza Ilyasa"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_112.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_112.png"
   :position 112
   :quantity 1
   :replaces "02118"
@@ -978,7 +978,7 @@
   :code "20082"
   :flavor "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\""
   :illustrator "Del Borovic"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_113.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_113.png"
   :position 113
   :quantity 1
   :replaces "04037"
@@ -987,7 +987,7 @@
   :code "20083"
   :flavor "GRNDL refineries process many different rare elements unearthed during the fracking process."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_114.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_114.png"
   :position 114
   :quantity 3
   :replaces "04099"
@@ -996,7 +996,7 @@
   :code "20084"
   :flavor "Next time, read the Terms of Service more carefully. Or you might find yourself in the danger zone."
   :illustrator "Mike Nesbitt"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_115.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_115.png"
   :position 115
   :quantity 1
   :replaces "01101"
@@ -1005,7 +1005,7 @@
   :code "20085"
   :flavor "A symbol of commerce, but beware its bite."
   :illustrator "Christina Davis"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_116.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_116.png"
   :position 116
   :quantity 2
   :replaces "02019"
@@ -1014,7 +1014,7 @@
   :code "20086"
   :flavor "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_117.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_117.png"
   :position 117
   :quantity 1
   :replaces "01102"
@@ -1022,7 +1022,7 @@
  {:card-id "hive"
   :code "20087"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_118.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_118.png"
   :position 118
   :quantity 2
   :replaces "04117"
@@ -1031,7 +1031,7 @@
   :code "20088"
   :flavor "\"I asked for ice as impenetrable as a wall. I can't decide if someone down in R&D has a warped sense of humor or just a very literal mind.\" -Liz Campbell, VP Project Security"
   :illustrator "Matt Zeilinger"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_119.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_119.png"
   :position 119
   :quantity 2
   :replaces "01103"
@@ -1040,7 +1040,7 @@
   :code "20089"
   :flavor "Who knows what evil lurks in the memory diamonds of men? Weyland knows. -unsigned cyber-graffiti"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_120.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_120.png"
   :position 120
   :quantity 2
   :replaces "01104"
@@ -1049,7 +1049,7 @@
   :code "20090"
   :flavor "The New Angeles Space Elevator, better known as the Beanstalk, is the single greatest triumph of human engineering and ingenuity in history. The Beanstalk makes Earth orbit accessible to everyone…for a small fee."
   :illustrator "Jonathan Lee"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_121.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_121.png"
   :position 121
   :quantity 3
   :replaces "01098"
@@ -1058,7 +1058,7 @@
   :code "20091"
   :flavor "\"I'd say it's nothing personal, but corporations are people, too.\""
   :illustrator "Lorraine Schleter"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_122.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_122.png"
   :position 122
   :quantity 2
   :replaces "04079"
@@ -1067,7 +1067,7 @@
   :code "20092"
   :flavor "\"And then there's these two crates. No eID.\"\n\"Just leave those with me and forget you ever saw them.\""
   :illustrator "Andrew Mar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_123.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_123.png"
   :position 123
   :quantity 2
   :replaces "01100"
@@ -1076,7 +1076,7 @@
   :code "20124"
   :flavor "It didn't look like the headquarters of a multi-billion cred company. Probably because it wasn't."
   :illustrator "Bruno Balixa"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_124.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_124.png"
   :position 124
   :quantity 1
   :replaces "02080"
@@ -1085,7 +1085,7 @@
   :code "20125"
   :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
   :illustrator "Dmitry Prosvirnin and Atha Kanaani"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_125.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_125.png"
   :position 125
   :quantity 2
   :replaces "01106"
@@ -1094,7 +1094,7 @@
   :code "20126"
   :flavor "\"Expensive? Not when you're protecting a fortune as large as ours.\""
   :illustrator "Adam Schumpert"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_126.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_126.png"
   :position 126
   :quantity 2
   :replaces "01107"
@@ -1103,7 +1103,7 @@
   :code "20127"
   :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_127.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_127.png"
   :position 127
   :quantity 2
   :replaces "01108"
@@ -1112,7 +1112,7 @@
   :code "20128"
   :flavor "It is like the one you just bought, only better."
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_128.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_128.png"
   :position 128
   :quantity 3
   :replaces "01109"
@@ -1121,7 +1121,7 @@
   :code "20129"
   :flavor "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_129.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_129.png"
   :position 129
   :quantity 3
   :replaces "01111"
@@ -1130,7 +1130,7 @@
   :code "20130"
   :flavor ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
   :illustrator "Christina Davis"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_130.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_130.png"
   :position 130
   :quantity 2
   :replaces "01112"
@@ -1139,7 +1139,7 @@
   :code "20131"
   :flavor "\"There's nothing worse than seeing that beautiful blue ball of data just out of reach as your connection derezzes. I think they do it just to taunt us.\" -Ele \"Smoke\" Scovak"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_131.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_131.png"
   :position 131
   :quantity 3
   :replaces "01113"
@@ -1148,7 +1148,7 @@
   :code "20132"
   :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
   :illustrator "Mark Molnar"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN49_132.png"
+  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_132.png"
   :position 132
   :quantity 3
   :replaces "01110"

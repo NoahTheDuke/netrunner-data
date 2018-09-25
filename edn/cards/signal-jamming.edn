@@ -4,7 +4,6 @@
  :id "signal-jamming"
  :influence-value 0
  :side :corp
- :subtype []
  :text "[trash]: Cards cannot be installed until the end of the run. Use this ability only during a run on this server."
  :title "Signal Jamming"
  :trash-cost 2

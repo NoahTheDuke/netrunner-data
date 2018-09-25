@@ -4,7 +4,6 @@
  :id "spot-the-prey"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Expose 1 non-ice card, then make a run."
  :title "Spot the Prey"
  :type :event

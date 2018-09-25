@@ -4,7 +4,6 @@
  :id "watchdog"
  :influence-value 1
  :side :corp
- :subtype []
  :text "The rez cost of the first piece of ice you rez each turn is lowered by 1 for each tag the Runner has."
  :title "Watchdog"
  :trash-cost 4

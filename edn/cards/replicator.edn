@@ -4,7 +4,6 @@
  :id "replicator"
  :influence-value 2
  :side :runner
- :subtype []
  :text "Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack."
  :title "Replicator"
  :type :hardware

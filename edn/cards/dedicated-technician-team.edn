@@ -4,7 +4,6 @@
  :id "dedicated-technician-team"
  :influence-value 0
  :side :corp
- :subtype []
  :text "2[recurring-credit]\nUse these credits to install ice protecting this server."
  :title "Dedicated Technician Team"
  :trash-cost 1

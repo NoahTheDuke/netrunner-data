@@ -4,7 +4,6 @@
  :id "quarantine-system"
  :influence-value 4
  :side :corp
- :subtype []
  :text "<strong>Forfeit an agenda</strong>: Rez up to 3 pieces of ice, lowering the cost of each by 2[credit] for each printed agenda point on the forfeited agenda."
  :title "Quarantine System"
  :trash-cost 3
