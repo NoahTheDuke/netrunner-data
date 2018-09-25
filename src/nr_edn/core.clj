@@ -1,10 +1,10 @@
 (ns nr-edn.core
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
-            [nr-edn.dl :refer :all]))
+            [nr-edn.combine :refer [load-data load-sets load-cards]]
+            [nr-edn.utils :refer [vals->vec]]))
 
 (defn -main
-  "Import data from local edn files."
   [& args]
   (try
     (let [mwls (load-data "mwls" {:id :code
