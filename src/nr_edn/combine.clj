@@ -14,7 +14,8 @@
   [file-path]
   (->> (io/file file-path)
        file-seq
-       (filter #(.isFile %))
+       (filter #(and (.isFile %)
+                     (string/ends-with? % ".edn")))
        (map read-edn-file)
        flatten
        (into [])))
@@ -28,16 +29,17 @@
 
 (defn load-sets
   [cycles]
-  (cards->map
+  (cards->map :id
     (for [s (read-edn-file "edn/sets.edn")
           :let [cy (get cycles (:cycle-id s))]]
       {:available (or (:date-release s) "4096-01-01")
        :bigbox (> (or (:size s) -1) 20)
-       :code (:id s)
+       :code (:code s)
        :cycle (:name cy)
        :cycle_code (:cycle-id s)
        :cycle_position (:position cy)
        :ffg-id (:ffg-id s)
+       :id (:id s)
        :name (:name s)
        :position (:position s)
        :rotated (:rotated cy)
@@ -77,7 +79,7 @@
             :replaced_by (:replaced-by card)
             :replaces (:replaces card)
             :rotated (:rotated s)
-            :set_code (:set-id card)
+            :set_code (:code s)
             :setname (:name s)
             :side (:name (get sides (:side card)))
             :strength (or (:strength card) 0)
@@ -102,13 +104,15 @@
           subtypes (load-data "subtypes")
           cycles (load-data "cycles")
           sets (load-sets cycles)
-          cards (load-cards sides factions types subtypes sets)]
+          cards (load-cards sides factions types subtypes sets)
+          promos (read-edn-file "edn/promos.edn")]
       (spit (io/file "edn" "raw_data.edn")
             (sorted-map
               :mwls (vals->vec mwls)
               :cycles (vals->vec cycles)
               :sets (vals->vec sets)
-              :cards (vals->vec cards)))
+              :cards (vals->vec cards)
+              :promos promos))
       (println "Generated raw_data.edn"))
     (catch Exception e
       (println "Import data failed:" (.getMessage e)))))

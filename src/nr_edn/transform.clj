@@ -36,7 +36,8 @@
   (->> (str base-path "/pack")
        io/file
        file-seq
-       (filter #(.isFile %))
+       (filter #(and (.isFile %)
+                     (string/ends-with? % ".json")))
        (map read-json-file)
        flatten
        parse-response))
@@ -286,15 +287,15 @@
         (io/make-parents path)
         (spit path (zp/zprint-str sets zp-settings)))
 
-      (io/make-parents "edn/cards/temp.txt")
-      (doseq [[path card] cards]
-        (spit (str "edn/cards/" path ".edn")
-              (zp/zprint-str card zp-settings)))
+      (doseq [[path card] cards
+              :let [path (str "edn/cards/" path ".edn")]]
+        (io/make-parents path)
+        (spit path (zp/zprint-str card zp-settings)))
 
-      (io/make-parents "edn/set-cards/temp.txt")
-      (doseq [[path set-card] set-cards]
-        (spit (str "edn/set-cards/" path ".edn")
-              (zp/zprint-str set-card zp-settings)))
+      (doseq [[path set-card] set-cards
+              :let [path (str "edn/set-cards/" path ".edn")]]
+        (io/make-parents path)
+        (spit path (zp/zprint-str set-card zp-settings)))
 
       (let [path (str "edn/mwls.edn")]
         (io/make-parents path)
