@@ -51,17 +51,17 @@
 
 (defn- get-cost
   [card]
-  (:cost card
-         (case (:type card)
-           (:asset :event :hardware :operation :program :resource :upgrade) 0
-           nil)))
+  (or (:cost card)
+      (case (:type card)
+        (:asset :event :hardware :operation :program :resource :upgrade) 0
+        nil)))
 
 (defn- get-strength
   [card]
-  (:strength card
-             (case (:type card)
-               (:ice :program) 0
-               nil)))
+  (or (:strength card)
+      (case (:type card)
+        (:ice :program) 0
+        nil)))
 
 (defn- prune-null-fields
   [card]
