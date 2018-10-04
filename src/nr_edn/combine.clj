@@ -49,6 +49,20 @@
   [set-cards raw-cards]
   (map #(merge % (get raw-cards (:card-id %))) set-cards))
 
+(defn- get-cost
+  [card]
+  (:cost card
+         (case (:type card)
+           (:asset :event :hardware :operation :program :resource :upgrade) 0
+           nil)))
+
+(defn- get-strength
+  [card]
+  (:strength card
+             (case (:type card)
+               (:ice :program) 0
+               nil)))
+
 (defn- prune-null-fields
   [card]
   (apply dissoc card (for [[k v] card :when (nil? v)] k)))
@@ -64,7 +78,7 @@
             :agendapoints (:agenda-points card)
             :baselink (:base-link card)
             :code (:code card)
-            :cost (or (:cost card) 0)
+            :cost (get-cost card)
             :cycle_code (:cycle_code s)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-value card)
@@ -82,7 +96,7 @@
             :set_code (:code s)
             :setname (:name s)
             :side (:name (get sides (:side card)))
-            :strength (or (:strength card) 0)
+            :strength (get-strength card)
             :subtype (when (seq (:subtype card))
                        (string/join " - " (map #(:name (get subtypes %)) (:subtype card))))
             :text (:text card)
