@@ -82,7 +82,7 @@
             :cycle_code (:cycle_code s)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-value card)
-            :id (:id card)
+            :normalizedtitle (:id card)
             :image_url (:image-url card)
             :influencelimit (:influence-limit card)
             :limited (:deck-limit card)
@@ -111,7 +111,8 @@
   []
   (try
     (let [mwls (load-data "mwls" {:id :code
-                                  :date-start :date_start})
+                                  ; :date-start :date_start
+                                  })
           sides (load-data "sides")
           factions (load-data "factions")
           types (load-data "types")
