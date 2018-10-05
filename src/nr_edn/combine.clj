@@ -111,8 +111,7 @@
   []
   (try
     (let [mwls (load-data "mwls" {:id :code
-                                  ; :date-start :date_start
-                                  })
+                                  :date-start :date_start})
           sides (load-data "sides")
           factions (load-data "factions")
           types (load-data "types")
