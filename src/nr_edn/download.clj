@@ -1,4 +1,4 @@
-(ns nr-edn.transform
+(ns nr-edn.download
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
             [clojure.set :refer [rename-keys]]
@@ -11,7 +11,7 @@
 (def ^:const cgdb-image-url "https://www.cardgamedb.com/forums/uploads/an/")
 (def ^:const nrdb-image-url "https://netrunnerdb.com/card_image/")
 
-(defn- parse-response
+(defn parse-response
   [body]
   (json/parse-string body true))
 
@@ -42,26 +42,26 @@
        flatten
        parse-response))
 
-(defn- make-image-url
+(defn make-image-url
   "Create a URI to the card in CardGameDB"
   [card set]
   (if (:ffg-id set)
     (str cgdb-image-url "med_ADN" (:ffg-id set) "_" (:position card) ".png")
     (str nrdb-image-url (:code card) ".png")))
 
-(defn- get-uri
+(defn get-uri
   "Figure out the card art image uri"
   [card set]
   (if (contains? card :image-url)
     (:image-url card)
     (make-image-url card set)))
 
-(defn- make-map-by-code
+(defn make-map-by-code
   "Make a map of the items in the list using the :code as the key"
   [kw cards]
   (into {} (map (juxt kw identity) cards)))
 
-(defn- translate-fields
+(defn translate-fields
   "Modify NRDB json data to our schema"
   [fields data]
   (reduce-kv (fn [m k v]
@@ -78,13 +78,21 @@
   ([new-name f]
    `(fn [[k# v#]] [~new-name (~f v#)])))
 
+(defn cycle-converter
+  [[k v]]
+  [k (case v
+       "Core Set" "Core"
+       "core2" "revised-core"
+       "Revised Core Set" "Revised Core"
+       v)])
+
 (def cycle-fields
-  {:name identity
+  {:name cycle-converter
    :position identity
    :rotated identity
    :size identity})
 
-(defn- add-cycle-fields
+(defn add-cycle-fields
   [cy]
   (assoc cy :id (slugify (:name cy))))
 
@@ -97,11 +105,11 @@
    :position identity
    :size identity})
 
-(defn- add-set-fields
+(defn add-set-fields
   [s]
   (assoc s :id (slugify (:name s))))
 
-(defn- convert-subtypes
+(defn convert-subtypes
   [subtype]
   (when subtype
     (->> (string/split subtype #" - ")
@@ -131,7 +139,7 @@
    :uniqueness identity
    })
 
-(defn- add-card-fields
+(defn add-card-fields
   [card]
   (-> card
       (assoc :id (slugify (:title card)))))
@@ -150,7 +158,7 @@
    :title (rename :card-id slugify)
    })
 
-(defn- add-set-card-fields
+(defn add-set-card-fields
   [set-map c]
   (let [s (get set-map (:pack-code c))]
     (-> c
@@ -164,7 +172,7 @@
    :date_start (rename :date-start)
    :name identity})
 
-(defn- convert-mwl
+(defn convert-mwl
   [set-cards-map mwl]
   (-> mwl
       (assoc :cards (reduce-kv
@@ -183,21 +191,21 @@
                  :id (-> mwl :name slugify keyword))
       (dissoc :code)))
 
-(defn- rotate-cards
+(defn rotate-cards
   "Added rotation fields to cards"
   [acc [title prev curr]]
   (-> acc
       (assoc-in [prev :replaced_by] curr)
       (assoc-in [curr :replaces] prev)))
 
-(defn- if-rotated
+(defn if-rotated
   [[c1 c2]]
   (if (< (Integer/parseInt (:code c1))
          (Integer/parseInt (:code c2)))
     [(:title c1) (:code c1) (:code c2)]
     [(:title c1) (:code c2) (:code c1)]))
 
-(defn- rotate-and-replace-cards
+(defn rotate-and-replace-cards
   [cards]
   (->> cards
        (group-by :title)
@@ -207,7 +215,7 @@
        (reduce rotate-cards (make-map-by-code :code cards))
        vals))
 
-(defn- sort-and-group-set-cards
+(defn sort-and-group-set-cards
   [set-cards]
   (->> set-cards
        (sort-by :position)
@@ -273,33 +281,29 @@
                            (partial convert-mwl
                                     (make-map-by-code :code raw-set-cards)))
 
-          set-cards (sort-and-group-set-cards raw-set-cards)
-
-          zp-settings {:style :community
-                       :map {:comma? false :force-nl? true}
-                       :width 1000}]
+          set-cards (sort-and-group-set-cards raw-set-cards)]
 
       (let [path (str "edn/cycles.edn")]
         (io/make-parents path)
-        (spit path (zp/zprint-str cycles zp-settings)))
+        (spit path (zp/zprint-str cycles)))
 
       (let [path (str "edn/sets.edn")]
         (io/make-parents path)
-        (spit path (zp/zprint-str sets zp-settings)))
+        (spit path (zp/zprint-str sets)))
 
       (doseq [[path card] cards
               :let [path (str "edn/cards/" path ".edn")]]
         (io/make-parents path)
-        (spit path (zp/zprint-str card zp-settings)))
+        (spit path (zp/zprint-str card)))
 
       (doseq [[path set-card] set-cards
               :let [path (str "edn/set-cards/" path ".edn")]]
         (io/make-parents path)
-        (spit path (zp/zprint-str set-card zp-settings)))
+        (spit path (zp/zprint-str set-card)))
 
       (let [path (str "edn/mwls.edn")]
         (io/make-parents path)
-        (spit path (zp/zprint-str (into [] mwls) zp-settings))))
+        (spit path (zp/zprint-str (into [] mwls)))))
     (catch Exception e (do
                          (println "Import data failed:" (.getMessage e))
                          (.printStackTrace e)))))

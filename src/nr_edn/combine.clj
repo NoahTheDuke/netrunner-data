@@ -4,6 +4,7 @@
             [clojure.edn :as edn]
             [clojure.set :refer [rename-keys]]
             [org.httpkit.client :as http]
+            [zprint.core :as zp]
             [nr-edn.utils :refer [cards->map vals->vec]]))
 
 (defn read-edn-file
@@ -121,12 +122,13 @@
           cards (load-cards sides factions types subtypes sets)
           promos (read-edn-file "edn/promos.edn")]
       (spit (io/file "edn" "raw_data.edn")
-            (sorted-map
-              :mwls (vals->vec mwls)
-              :cycles (vals->vec cycles)
-              :sets (vals->vec sets)
-              :cards (vals->vec cards)
-              :promos promos))
+            (zp/zprint-str
+              (sorted-map
+                :mwls (vals->vec :date_start mwls)
+                :cycles (vals->vec :position cycles)
+                :sets (vals->vec :position sets)
+                :cards (vals->vec :code cards)
+                :promos promos)))
       (println "Generated raw_data.edn"))
     (catch Exception e
       (println "Import data failed:" (.getMessage e)))))

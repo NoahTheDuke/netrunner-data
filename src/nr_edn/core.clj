@@ -1,11 +1,18 @@
 (ns nr-edn.core
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
+            [zprint.core :as zp]
             [nr-edn.combine :refer [compile-for-jnet]]
-            [nr-edn.transform :refer [update-from-nrdb]]))
+            [nr-edn.download :refer [update-from-nrdb]]))
 
 (defn -main
   [& args]
+  (zp/set-options!
+    {:style :community
+     :map {:comma? false
+           :force-nl? true}
+     :width 1000})
+
   (try
     (case (first args)
       nil (do (update-from-nrdb)

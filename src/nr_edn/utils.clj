@@ -2,8 +2,10 @@
   (:require [clojure.string :as string]))
 
 (defmacro vals->vec
-  [coll]
-  `(into [] (vals ~coll)))
+  ([coll]
+   `(into [] (vals ~coll)))
+  ([order coll]
+   `(into [] (sort-by ~order (vals ~coll)))))
 
 (defn cards->map
   ([cards] (cards->map :code cards))
