@@ -4,14 +4,13 @@
             [clojure.edn :as edn]
             [clojure.set :refer [rename-keys]]
             [org.httpkit.client :as http]
-            [zprint.core :as zp]
             [nr-edn.utils :refer [cards->map vals->vec]]))
 
-(defn read-edn-file
+(defn- read-edn-file
   [file-path]
   ((comp edn/read-string slurp) file-path))
 
-(defn load-edn-from-dir
+(defn- load-edn-from-dir
   [file-path]
   (->> (io/file file-path)
        file-seq
@@ -21,14 +20,14 @@
        flatten
        (into [])))
 
-(defn load-data
+(defn- load-data
   ([filename] (load-data filename {:id :code}))
   ([filename kmap]
    (cards->map
      (for [m (read-edn-file (str "edn/" filename ".edn"))]
        (rename-keys m kmap)))))
 
-(defn load-sets
+(defn- load-sets
   [cycles]
   (cards->map :id
     (for [s (read-edn-file "edn/sets.edn")
@@ -46,7 +45,7 @@
        :rotated (:rotated cy)
        :size (:size s)})))
 
-(defn merge-sets-and-cards
+(defn- merge-sets-and-cards
   [set-cards raw-cards]
   (map #(merge % (get raw-cards (:card-id %))) set-cards))
 
@@ -68,7 +67,7 @@
   [card]
   (apply dissoc card (for [[k v] card :when (nil? v)] k)))
 
-(defn load-cards
+(defn- load-cards
   [sides factions types subtypes sets]
   (let [set-cards (load-edn-from-dir "edn/set-cards")
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
@@ -106,9 +105,10 @@
             :type (:name (get types (:type card)))
             :uniqueness (:uniqueness card)})
          (map prune-null-fields)
+         (remove :replaced_by)
          cards->map)))
 
-(defn compile-for-jnet
+(defn combine-for-jnet
   []
   (try
     (let [mwls (load-data "mwls" {:id :code
@@ -122,13 +122,12 @@
           cards (load-cards sides factions types subtypes sets)
           promos (read-edn-file "edn/promos.edn")]
       (spit (io/file "edn" "raw_data.edn")
-            (zp/zprint-str
-              (sorted-map
-                :mwls (vals->vec :date_start mwls)
-                :cycles (vals->vec :position cycles)
-                :sets (vals->vec :position sets)
-                :cards (vals->vec :code cards)
-                :promos promos)))
+            (sorted-map
+              :mwls (vals->vec :date_start mwls)
+              :cycles (vals->vec :position cycles)
+              :sets (vals->vec :position sets)
+              :cards (vals->vec :code cards)
+              :promos promos))
       (println "Generated raw_data.edn"))
     (catch Exception e
       (println "Import data failed:" (.getMessage e)))))

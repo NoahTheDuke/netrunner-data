@@ -11,11 +11,11 @@
 (def ^:const cgdb-image-url "https://www.cardgamedb.com/forums/uploads/an/")
 (def ^:const nrdb-image-url "https://netrunnerdb.com/card_image/")
 
-(defn parse-response
+(defn- parse-response
   [body]
   (json/parse-string body true))
 
-(defn download-nrdb-data
+(defn- download-nrdb-data
   [path]
   (let [{:keys [status body error] :as resp} @(http/get (str base-url path))]
     (cond
@@ -23,15 +23,15 @@
       (= 200 status) (:data (parse-response body))
       :else (throw (Exception. (str "Failed to download file, status " status))))))
 
-(defn read-json-file
+(defn- read-json-file
   [file-path]
   ((comp parse-response slurp) file-path))
 
-(defn read-local-data
+(defn- read-local-data
   [base-path filename]
   (read-json-file (str base-path "/" filename ".json")))
 
-(defn read-card-dir
+(defn- read-card-dir
   [base-path]
   (->> (str base-path "/pack")
        io/file
@@ -42,26 +42,26 @@
        flatten
        parse-response))
 
-(defn make-image-url
+(defn- make-image-url
   "Create a URI to the card in CardGameDB"
   [card set]
   (if (:ffg-id set)
     (str cgdb-image-url "med_ADN" (:ffg-id set) "_" (:position card) ".png")
     (str nrdb-image-url (:code card) ".png")))
 
-(defn get-uri
+(defn- get-uri
   "Figure out the card art image uri"
   [card set]
   (if (contains? card :image-url)
     (:image-url card)
     (make-image-url card set)))
 
-(defn make-map-by-code
+(defn- make-map-by-code
   "Make a map of the items in the list using the :code as the key"
   [kw cards]
   (into {} (map (juxt kw identity) cards)))
 
-(defn translate-fields
+(defn- translate-fields
   "Modify NRDB json data to our schema"
   [fields data]
   (reduce-kv (fn [m k v]
@@ -78,7 +78,7 @@
   ([new-name f]
    `(fn [[k# v#]] [~new-name (~f v#)])))
 
-(defn cycle-converter
+(defn- convert-cycle
   [[k v]]
   [k (case v
        "Core Set" "Core"
@@ -87,12 +87,12 @@
        v)])
 
 (def cycle-fields
-  {:name cycle-converter
+  {:name convert-cycle
    :position identity
    :rotated identity
    :size identity})
 
-(defn add-cycle-fields
+(defn- add-cycle-fields
   [cy]
   (assoc cy :id (slugify (:name cy))))
 
@@ -105,11 +105,11 @@
    :position identity
    :size identity})
 
-(defn add-set-fields
+(defn- add-set-fields
   [s]
   (assoc s :id (slugify (:name s))))
 
-(defn convert-subtypes
+(defn- convert-subtypes
   [subtype]
   (when subtype
     (->> (string/split subtype #" - ")
@@ -139,7 +139,7 @@
    :uniqueness identity
    })
 
-(defn add-card-fields
+(defn- add-card-fields
   [card]
   (-> card
       (assoc :id (slugify (:title card)))))
@@ -158,7 +158,7 @@
    :title (rename :card-id slugify)
    })
 
-(defn add-set-card-fields
+(defn- add-set-card-fields
   [set-map c]
   (let [s (get set-map (:pack-code c))]
     (-> c
@@ -172,7 +172,7 @@
    :date_start (rename :date-start)
    :name identity})
 
-(defn convert-mwl
+(defn- convert-mwl
   [set-cards-map mwl]
   (-> mwl
       (assoc :cards (reduce-kv
@@ -191,21 +191,21 @@
                  :id (-> mwl :name slugify keyword))
       (dissoc :code)))
 
-(defn rotate-cards
+(defn- rotate-cards
   "Added rotation fields to cards"
   [acc [title prev curr]]
   (-> acc
       (assoc-in [prev :replaced_by] curr)
       (assoc-in [curr :replaces] prev)))
 
-(defn if-rotated
+(defn- if-rotated
   [[c1 c2]]
   (if (< (Integer/parseInt (:code c1))
          (Integer/parseInt (:code c2)))
     [(:title c1) (:code c1) (:code c2)]
     [(:title c1) (:code c2) (:code c1)]))
 
-(defn rotate-and-replace-cards
+(defn- rotate-and-replace-cards
   [cards]
   (->> cards
        (group-by :title)
@@ -215,13 +215,13 @@
        (reduce rotate-cards (make-map-by-code :code cards))
        vals))
 
-(defn sort-and-group-set-cards
+(defn- sort-and-group-set-cards
   [set-cards]
   (->> set-cards
        (sort-by :position)
        (group-by :set-id)))
 
-(defn fetch-data
+(defn- fetch-data
   "Read NRDB json data. Modify function is mapped to all elements in the data collection."
   ([download-fn m] (fetch-data download-fn m identity))
   ([download-fn {:keys [path fields]} add-fields-function]
@@ -237,7 +237,7 @@
    :mwl {:path "mwl" :fields mwl-fields}
    })
 
-(defn update-from-nrdb
+(defn download-from-nrdb
   "Import data from NetrunnerDB.
   Can accept `--local <path>` to use the `netrunner-card-json` project locally,
   otherwise pulls data from NRDB.
@@ -249,14 +249,19 @@
           download-fn (if use-local
                         (partial read-local-data localpath)
                         download-nrdb-data)
+          _ (print "Downloading and processing cycles... ")
           cycles (->> (fetch-data download-fn (:cycle tables) add-cycle-fields)
                       (sort-by :position)
                       (into []))
+          _ (println "Done!")
 
+          _ (print "Downloading and processing sets... ")
           sets (->> (fetch-data download-fn (:set tables) add-set-fields)
                     (sort-by :date-release)
                     (into []))
+          _ (println "Done!")
 
+          _ (print "Downloading and processing cards...")
           ;; So this is fucked up, because unlike the old jnet system, we need to keep
           ;; some of the old fields around for splitting between cards and set-cards.
           ;; Instead of downloading stuff twice, we can download it once, stub a dl
@@ -275,27 +280,33 @@
                                     (:set-card tables)
                                     (partial add-set-card-fields
                                              (make-map-by-code :code sets)))
+          set-cards (sort-and-group-set-cards raw-set-cards)
+          _ (println "Done!")
 
+          _ (print "Downloading and processing mwls... ")
           mwls (fetch-data download-fn
                            (:mwl tables)
                            (partial convert-mwl
                                     (make-map-by-code :code raw-set-cards)))
-
-          set-cards (sort-and-group-set-cards raw-set-cards)]
+          _ (println "Done!")]
 
       (let [path (str "edn/cycles.edn")]
         (io/make-parents path)
+        (println "Saving" path)
         (spit path (zp/zprint-str cycles)))
 
       (let [path (str "edn/sets.edn")]
         (io/make-parents path)
+        (println "Saving" path)
         (spit path (zp/zprint-str sets)))
 
+      (println "Saving edn/cards")
       (doseq [[path card] cards
               :let [path (str "edn/cards/" path ".edn")]]
         (io/make-parents path)
         (spit path (zp/zprint-str card)))
 
+      (println "Saving edn/set-cards")
       (doseq [[path set-card] set-cards
               :let [path (str "edn/set-cards/" path ".edn")]]
         (io/make-parents path)
@@ -303,7 +314,10 @@
 
       (let [path (str "edn/mwls.edn")]
         (io/make-parents path)
-        (spit path (zp/zprint-str (into [] mwls)))))
+        (println "Saving" path)
+        (spit path (zp/zprint-str (into [] mwls))))
+
+      (println "Done!"))
     (catch Exception e (do
                          (println "Import data failed:" (.getMessage e))
                          (.printStackTrace e)))))
