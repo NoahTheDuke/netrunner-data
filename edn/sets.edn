@@ -391,7 +391,7 @@
   :position 6
   :size 20}
  {:code "core2"
-  :cycle-id "core2"
+  :cycle-id "revised-core"
   :date-release "2017-12-14"
   :ffg-id 49
   :id "revised-core-set"
@@ -463,7 +463,7 @@
   :position 1
   :size 8}
  {:code "napd"
-  :cycle-id "napd"
+  :cycle-id "napd-multiplayer"
   :date-release "2018-09-07"
   :ffg-id nil
   :id "napd-multiplayer"

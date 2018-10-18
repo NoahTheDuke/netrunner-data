@@ -121,6 +121,7 @@
           sets (load-sets cycles)
           cards (load-cards sides factions types subtypes sets)
           promos (read-edn-file "edn/promos.edn")]
+      (print "Writing edn/raw_data.edn...")
       (spit (io/file "edn" "raw_data.edn")
             (sorted-map
               :mwls (vals->vec :date_start mwls)
@@ -128,6 +129,6 @@
               :sets (vals->vec :position sets)
               :cards (vals->vec :code cards)
               :promos promos))
-      (println "Generated raw_data.edn"))
+      (println "Done!"))
     (catch Exception e
       (println "Import data failed:" (.getMessage e)))))

@@ -7,17 +7,14 @@
             [zprint.core :as zp]
             [nr-edn.utils :refer [slugify cards->map]]))
 
-(def ^:const base-url "http://www.netrunnerdb.com/api/2.0/public/")
-(def ^:const cgdb-image-url "https://www.cardgamedb.com/forums/uploads/an/")
-(def ^:const nrdb-image-url "https://netrunnerdb.com/card_image/")
-
 (defn- parse-response
   [body]
   (json/parse-string body true))
 
 (defn- download-nrdb-data
   [path]
-  (let [{:keys [status body error] :as resp} @(http/get (str base-url path))]
+  (let [data (http/get (str "http://www.netrunnerdb.com/api/2.0/public/" path))
+        {:keys [status body error] :as resp} @data]
     (cond
       error (throw (Exception. (str "Failed to download file " error)))
       (= 200 status) (:data (parse-response body))
@@ -46,8 +43,8 @@
   "Create a URI to the card in CardGameDB"
   [card set]
   (if (:ffg-id set)
-    (str cgdb-image-url "med_ADN" (:ffg-id set) "_" (:position card) ".png")
-    (str nrdb-image-url (:code card) ".png")))
+    (str "https://www.cardgamedb.com/forums/uploads/an/med_ADN" (:ffg-id set) "_" (:position card) ".png")
+    (str "https://netrunnerdb.com/card_image/" (:code card) ".png")))
 
 (defn- get-uri
   "Figure out the card art image uri"
@@ -55,11 +52,6 @@
   (if (contains? card :image-url)
     (:image-url card)
     (make-image-url card set)))
-
-(defn- make-map-by-code
-  "Make a map of the items in the list using the :code as the key"
-  [kw cards]
-  (into {} (map (juxt kw identity) cards)))
 
 (defn- translate-fields
   "Modify NRDB json data to our schema"
@@ -79,15 +71,16 @@
    `(fn [[k# v#]] [~new-name (~f v#)])))
 
 (defn- convert-cycle
-  [[k v]]
-  [k (case v
-       "Core Set" "Core"
-       "core2" "revised-core"
-       "Revised Core Set" "Revised Core"
-       v)])
+  [v]
+  (case v
+    "Core Set" "Core"
+    "core2" "revised-core"
+    "napd" "napd-multiplayer"
+    "Revised Core Set" "Revised Core"
+    v))
 
 (def cycle-fields
-  {:name convert-cycle
+  {:name (rename :name convert-cycle)
    :position identity
    :rotated identity
    :size identity})
@@ -98,7 +91,7 @@
 
 (def set-fields
   {:code identity
-   :cycle_code (rename :cycle-id)
+   :cycle_code (rename :cycle-id convert-cycle)
    :date_release (rename :date-release)
    :ffg_id (rename :ffg-id)
    :name identity
@@ -212,7 +205,7 @@
        (filter (fn [[k v]] (>= (count v) 2)))
        vals
        (map if-rotated)
-       (reduce rotate-cards (make-map-by-code :code cards))
+       (reduce rotate-cards (cards->map cards))
        vals))
 
 (defn- sort-and-group-set-cards
@@ -272,14 +265,14 @@
           raw-cards (card-download-fn (-> tables :card :path))
 
           card-stub (fn [path] raw-cards)
-          cards (make-map-by-code :id
+          cards (cards->map :id
                   (fetch-data card-stub (:card tables) add-card-fields))
 
           set-card-stub (fn [path] (rotate-and-replace-cards raw-cards))
           raw-set-cards (fetch-data set-card-stub
                                     (:set-card tables)
                                     (partial add-set-card-fields
-                                             (make-map-by-code :code sets)))
+                                             (cards->map sets)))
           set-cards (sort-and-group-set-cards raw-set-cards)
           _ (println "Done!")
 
@@ -287,7 +280,7 @@
           mwls (fetch-data download-fn
                            (:mwl tables)
                            (partial convert-mwl
-                                    (make-map-by-code :code raw-set-cards)))
+                                    (cards->map raw-set-cards)))
           _ (println "Done!")]
 
       (let [path (str "edn/cycles.edn")]
