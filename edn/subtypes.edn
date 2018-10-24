@@ -184,6 +184,9 @@
  {:id :off-site
   :name "Off-site"
   :side :corp}
+ {:id :orgcrime
+  :name "Orgcrime"
+  :side :both}
  {:id :political
   :name "Political"
   :side :corp}
