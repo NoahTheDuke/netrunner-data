@@ -7,11 +7,11 @@
             [zprint.core :as zp]
             [nr-edn.utils :refer [slugify cards->map]]))
 
-(defn- parse-response
+(defn parse-response
   [body]
   (json/parse-string body true))
 
-(defn- download-nrdb-data
+(defn download-nrdb-data
   [path]
   (let [data (http/get (str "http://www.netrunnerdb.com/api/2.0/public/" path))
         {:keys [status body error] :as resp} @data]
@@ -20,15 +20,15 @@
       (= 200 status) (:data (parse-response body))
       :else (throw (Exception. (str "Failed to download file, status " status))))))
 
-(defn- read-json-file
+(defn read-json-file
   [file-path]
   ((comp parse-response slurp) file-path))
 
-(defn- read-local-data
+(defn read-local-data
   [base-path filename]
   (read-json-file (str base-path "/" filename ".json")))
 
-(defn- read-card-dir
+(defn read-card-dir
   [base-path]
   (->> (str base-path "/pack")
        io/file
@@ -39,21 +39,21 @@
        flatten
        parse-response))
 
-(defn- make-image-url
+(defn make-image-url
   "Create a URI to the card in CardGameDB"
   [card set]
   (if (:ffg-id set)
     (str "https://www.cardgamedb.com/forums/uploads/an/med_ADN" (:ffg-id set) "_" (:position card) ".png")
     (str "https://netrunnerdb.com/card_image/" (:code card) ".png")))
 
-(defn- get-uri
+(defn get-uri
   "Figure out the card art image uri"
   [card set]
   (if (contains? card :image-url)
     (:image-url card)
     (make-image-url card set)))
 
-(defn- translate-fields
+(defn translate-fields
   "Modify NRDB json data to our schema"
   [fields data]
   (reduce-kv (fn [m k v]
@@ -70,7 +70,7 @@
   ([new-name f]
    `(fn [[k# v#]] [~new-name (~f v#)])))
 
-(defn- convert-cycle
+(defn convert-cycle
   [v]
   (case v
     "Core Set" "Core"
@@ -85,7 +85,7 @@
    :rotated identity
    :size identity})
 
-(defn- add-cycle-fields
+(defn add-cycle-fields
   [cy]
   (assoc cy :id (slugify (:name cy))))
 
@@ -98,11 +98,11 @@
    :position identity
    :size identity})
 
-(defn- add-set-fields
+(defn add-set-fields
   [s]
   (assoc s :id (slugify (:name s))))
 
-(defn- convert-subtypes
+(defn convert-subtypes
   [subtype]
   (when subtype
     (->> (string/split subtype #" - ")
@@ -132,7 +132,7 @@
    :uniqueness identity
    })
 
-(defn- add-card-fields
+(defn add-card-fields
   [card]
   (-> card
       (assoc :id (slugify (:title card)))))
@@ -151,7 +151,7 @@
    :title (rename :card-id slugify)
    })
 
-(defn- add-set-card-fields
+(defn add-set-card-fields
   [set-map c]
   (let [s (get set-map (:pack-code c))]
     (-> c
@@ -165,7 +165,7 @@
    :date_start (rename :date-start)
    :name identity})
 
-(defn- convert-mwl
+(defn convert-mwl
   [set-cards-map mwl]
   (-> mwl
       (assoc :cards (reduce-kv
@@ -184,21 +184,21 @@
                  :id (-> mwl :name slugify keyword))
       (dissoc :code)))
 
-(defn- rotate-cards
+(defn rotate-cards
   "Added rotation fields to cards"
   [acc [title prev curr]]
   (-> acc
       (assoc-in [prev :replaced_by] curr)
       (assoc-in [curr :replaces] prev)))
 
-(defn- if-rotated
+(defn if-rotated
   [[c1 c2]]
   (if (< (Integer/parseInt (:code c1))
          (Integer/parseInt (:code c2)))
     [(:title c1) (:code c1) (:code c2)]
     [(:title c1) (:code c2) (:code c1)]))
 
-(defn- rotate-and-replace-cards
+(defn rotate-and-replace-cards
   [cards]
   (->> cards
        (group-by :title)
@@ -208,13 +208,13 @@
        (reduce rotate-cards (cards->map cards))
        vals))
 
-(defn- sort-and-group-set-cards
+(defn sort-and-group-set-cards
   [set-cards]
   (->> set-cards
        (sort-by :position)
        (group-by :set-id)))
 
-(defn- fetch-data
+(defn fetch-data
   "Read NRDB json data. Modify function is mapped to all elements in the data collection."
   ([download-fn m] (fetch-data download-fn m identity))
   ([download-fn {:keys [path fields]} add-fields-function]

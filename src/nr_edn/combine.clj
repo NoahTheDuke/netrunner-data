@@ -6,11 +6,11 @@
             [org.httpkit.client :as http]
             [nr-edn.utils :refer [cards->map vals->vec]]))
 
-(defn- read-edn-file
+(defn read-edn-file
   [file-path]
   ((comp edn/read-string slurp) file-path))
 
-(defn- load-edn-from-dir
+(defn load-edn-from-dir
   [file-path]
   (->> (io/file file-path)
        file-seq
@@ -20,14 +20,14 @@
        flatten
        (into [])))
 
-(defn- load-data
+(defn load-data
   ([filename] (load-data filename {:id :code}))
   ([filename kmap]
    (cards->map
      (for [m (read-edn-file (str "edn/" filename ".edn"))]
        (rename-keys m kmap)))))
 
-(defn- load-sets
+(defn load-sets
   [cycles]
   (cards->map :id
     (for [s (read-edn-file "edn/sets.edn")
@@ -45,29 +45,29 @@
        :rotated (:rotated cy)
        :size (:size s)})))
 
-(defn- merge-sets-and-cards
+(defn merge-sets-and-cards
   [set-cards raw-cards]
   (map #(merge % (get raw-cards (:card-id %))) set-cards))
 
-(defn- get-cost
+(defn get-cost
   [card]
   (or (:cost card)
       (case (:type card)
         (:asset :event :hardware :operation :program :resource :upgrade) 0
         nil)))
 
-(defn- get-strength
+(defn get-strength
   [card]
   (or (:strength card)
       (case (:type card)
         (:ice :program) 0
         nil)))
 
-(defn- prune-null-fields
+(defn prune-null-fields
   [card]
   (apply dissoc card (for [[k v] card :when (nil? v)] k)))
 
-(defn- load-cards
+(defn load-cards
   [sides factions types subtypes sets]
   (let [set-cards (load-edn-from-dir "edn/set-cards")
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
