@@ -10,7 +10,7 @@
           "sansan-city-grid" {:global-penalty 1}
           "yog-0" {:global-penalty 1}}
   :date-start "2016-02-01"
-  :id :napd-mwl-1-0
+  :id "napd-mwl-1-0"
   :name "NAPD MWL 1.0"}
  {:cards {"architect" {:global-penalty 1}
           "breaking-news" {:global-penalty 1}
@@ -28,7 +28,7 @@
           "wyldside" {:global-penalty 1}
           "yog-0" {:global-penalty 1}}
   :date-start "2016-08-01"
-  :id :napd-mwl-1-1
+  :id "napd-mwl-1-1"
   :name "NAPD MWL 1.1"}
  {:cards {"architect" {:universal-faction-cost 1}
           "bio-ethics-association" {:universal-faction-cost 1}
@@ -51,7 +51,7 @@
           "wyldside" {:universal-faction-cost 1}
           "yog-0" {:universal-faction-cost 1}}
   :date-start "2017-04-12"
-  :id :napd-mwl-1-2
+  :id "napd-mwl-1-2"
   :name "NAPD MWL 1.2"}
  {:cards {"aaron-marron" {:deck-limit 0}
           "aesop-s-pawnshop" {:is-restricted 1}
@@ -81,7 +81,7 @@
           "sifr" {:deck-limit 0}
           "temujin-contract" {:deck-limit 0}}
   :date-start "2017-10-01"
-  :id :napd-mwl-2-0
+  :id "napd-mwl-2-0"
   :name "NAPD MWL 2.0"}
  {:cards {"aaron-marron" {:deck-limit 0}
           "aesop-s-pawnshop" {:is-restricted 1}
@@ -116,7 +116,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}}
   :date-start "2018-02-26"
-  :id :napd-mwl-2-1
+  :id "napd-mwl-2-1"
   :name "NAPD MWL 2.1"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
@@ -159,5 +159,29 @@
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
   :date-start "2018-09-06"
-  :id :napd-mwl-2-2
-  :name "NAPD MWL 2.2"}]
+  :id "napd-mwl-2-2"
+  :name "NAPD MWL 2.2"}
+ {:cards {
+          }
+  :date-start "2018-10-28"
+  :id "standard-mwl-3-0"
+  :name "Standard MWL 3.0"}
+ {:cards {
+          }
+  :date-start "2018-10-28"
+  :id "eternal-mwl-1-0"
+  :name "Eternal MWL 1.0"}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
+          "aesop-s-pawnshop" {:is-restricted 1}
+          "employee-strike" {:is-restricted 1}
+          "estelle-moon" {:deck-limit 0}
+          "global-food-initiative" {:is-restricted 1}
+          "hunter-seeker" {:is-restricted 1}
+          "levy-ar-lab-access" {:is-restricted 1}
+          "magnum-opus" {:is-restricted 1}
+          "mti-mwekundu" {:is-restricted 1}
+          "rashida-jaheem" {:is-restricted 1}
+          "surveyor" {:is-restricted 1}}
+  :date-start "2018-10-05"
+  :id "socr8"
+  :name "stimhack-online-cache-refresh-8-mwl"}]
