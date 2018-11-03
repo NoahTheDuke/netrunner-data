@@ -1,95 +1,80 @@
 [{:id "draft"
   :name "Draft"
   :position 0
-  :rotated false
   :size 1}
  {:id "core"
   :name "Core"
   :position 1
-  :rotated true
   :size 1}
  {:id "genesis"
   :name "Genesis"
   :position 2
-  :rotated true
   :size 6}
  {:id "creation-and-control"
   :name "Creation and Control"
   :position 3
-  :rotated false
   :size 1}
  {:id "spin"
   :name "Spin"
   :position 4
-  :rotated true
   :size 6}
  {:id "honor-and-profit"
   :name "Honor and Profit"
   :position 5
-  :rotated false
   :size 1}
  {:id "lunar"
   :name "Lunar"
   :position 6
-  :rotated false
   :size 6}
  {:id "order-and-chaos"
   :name "Order and Chaos"
   :position 7
-  :rotated false
   :size 1}
  {:id "sansan"
   :name "SanSan"
   :position 8
-  :rotated false
   :size 6}
  {:id "data-and-destiny"
   :name "Data and Destiny"
   :position 9
-  :rotated false
   :size 1}
  {:id "mumbad"
   :name "Mumbad"
   :position 10
-  :rotated false
   :size 6}
  {:id "flashpoint"
   :name "Flashpoint"
   :position 11
-  :rotated false
   :size 6}
  {:id "red-sand"
   :name "Red Sand"
   :position 12
-  :rotated false
   :size 6}
  {:id "terminal-directive"
   :name "Terminal Directive"
   :position 13
-  :rotated false
   :size 1}
  {:id "revised-core"
   :name "Revised Core"
   :position 20
-  :rotated false
   :size 1}
  {:id "kitara"
   :name "Kitara"
   :position 21
-  :rotated false
   :size 6}
  {:id "reign-and-reverie"
   :name "Reign and Reverie"
   :position 22
-  :rotated false
   :size 1}
  {:id "magnum-opus"
   :name "Magnum Opus"
   :position 23
-  :rotated false
   :size 1}
  {:id "napd-multiplayer"
   :name "NAPD Multiplayer"
   :position 24
-  :rotated false
+  :size 1}
+ {:id "system-core-2019"
+  :name "System Core 2019"
+  :position 25
   :size 1}]

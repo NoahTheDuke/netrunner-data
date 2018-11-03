@@ -469,4 +469,13 @@
   :id "napd-multiplayer"
   :name "NAPD Multiplayer"
   :position 1
-  :size 1}]
+  :size 1}
+ {:code "system-core-2019"
+  :cycle-id "system-core-2019"
+  :date-release "2018-11-16"
+  :ffg-id nil
+  :id "system-core-2019"
+  :name "System Core 2019"
+  :position 1
+  :size 148}
+]

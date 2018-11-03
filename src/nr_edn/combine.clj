@@ -38,11 +38,12 @@
        :cycle (:name cy)
        :cycle_code (:cycle-id s)
        :cycle_position (:position cy)
+       :date-release (:date-release s)
        :ffg-id (:ffg-id s)
        :id (:id s)
        :name (:name s)
        :position (:position s)
-       :rotated (:rotated cy)
+       ; :rotated (:rotated cy)
        :size (:size s)})))
 
 (defn merge-sets-and-cards
@@ -63,15 +64,54 @@
         (:ice :program) 0
         nil)))
 
+(defn generate-formats
+  [cards formats mwls]
+  (let [set->cards (reduce (fn [m [set-id card-id]]
+                             (if (contains? m set-id)
+                               (assoc m set-id (conj (get m set-id) card-id))
+                               (assoc m set-id #{card-id})))
+                           {}
+                           (map (juxt :set-id :card-id) cards))
+        format->cards (into
+                        {}
+                        (for [[k f] formats]
+                          {k (apply clojure.set/union
+                                    (for [cy (:cycles f)]
+                                      (get set->cards cy)))}))]
+    (into
+      {}
+      (for [card cards
+            :let [id (:id card)]]
+        {id
+         (into
+           {}
+           (for [[f cs] format->cards
+                 :let [mwl (get-in formats [f :mwl])]]
+             {f (cond
+                  ;; gotta check mwl first
+                  (get-in mwls [mwl :cards id])
+                  (if (= :deck-limit (first (keys (get-in mwls [mwl :cards id]))))
+                    :banned
+                    :restricted)
+                  ;; then we can check if the card is on the list
+                  (contains? cs id)
+                  :legal
+                  ;; neither mwl nor in the format
+                  :else
+                  :rotated)}))}))))
+
 (defn prune-null-fields
   [card]
   (apply dissoc card (for [[k v] card :when (nil? v)] k)))
 
 (defn load-cards
-  [sides factions types subtypes sets]
-  (let [set-cards (load-edn-from-dir "edn/set-cards")
+  [sides factions types subtypes sets formats mwls]
+  (let [
+        set-cards (load-edn-from-dir "edn/set-cards")
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
-        cards (merge-sets-and-cards set-cards raw-cards)]
+        cards (merge-sets-and-cards set-cards raw-cards)
+        card->formats (generate-formats cards formats mwls)
+        ]
     (->> (for [card cards
                :let [s (get sets (:set-id card))]]
            {:advancementcost (:advancement-requirement card)
@@ -80,19 +120,18 @@
             :code (:code card)
             :cost (get-cost card)
             :cycle_code (:cycle_code s)
+            :date-release (:date-release s)
+            :deck-limit (:deck-limit card)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-value card)
-            :normalizedtitle (:id card)
+            :format (get card->formats (:id card))
             :image_url (:image-url card)
             :influencelimit (:influence-limit card)
-            :limited (:deck-limit card)
             :memoryunits (:memory-cost card)
             :minimumdecksize (:minimum-deck-size card)
+            :normalizedtitle (:id card)
             :number (:position card)
-            :packquantity (:quantity card)
-            :replaced_by (:replaced-by card)
-            :replaces (:replaces card)
-            :rotated (:rotated s)
+            :quantity (:quantity card)
             :set_code (:code s)
             :setname (:name s)
             :side (:name (get sides (:side card)))
@@ -105,29 +144,35 @@
             :type (:name (get types (:type card)))
             :uniqueness (:uniqueness card)})
          (map prune-null-fields)
-         (remove :replaced_by)
+         (sort-by :date-release)
+         (map #(dissoc % :date-release))
+         (group-by :normalizedtitle)
+         (map #(last (val %)))
          cards->map)))
 
 (defn combine-for-jnet
   []
   (try
-    (let [mwls (load-data "mwls" {:id :code
-                                  :date-start :date_start})
+    (let [
+          mwls (load-data "mwls" {:id :code})
           sides (load-data "sides")
           factions (load-data "factions")
           types (load-data "types")
           subtypes (load-data "subtypes")
+          formats (load-data "formats")
           cycles (load-data "cycles")
           sets (load-sets cycles)
-          cards (load-cards sides factions types subtypes sets)
-          promos (read-edn-file "edn/promos.edn")]
+          cards (load-cards sides factions types subtypes sets formats mwls)
+          promos (read-edn-file "edn/promos.edn")
+          ]
       (print "Writing edn/raw_data.edn...")
       (spit (io/file "edn" "raw_data.edn")
             (sorted-map
-              :mwls (vals->vec :date_start mwls)
               :cycles (vals->vec :position cycles)
               :sets (vals->vec :position sets)
               :cards (vals->vec :code cards)
+              :formats (vals->vec :date-release formats)
+              :mwls (vals->vec :date-start mwls)
               :promos promos))
       (println "Done!"))
     (catch Exception e
