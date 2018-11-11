@@ -16,7 +16,7 @@
   :set-id "first-contact"}
  {:card-id "kitsune"
   :code "06043"
-  :flavor "There are those who believe the nine-tailed fox is an angel in disguise.  And then there are those who have followed, and discovered her secret..."
+  :flavor "There are those who believe the nine-tailed fox is an angel in disguise. And then there are those who have followed, and discovered her secret..."
   :illustrator "Smirtouille"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN18_43.png"
   :position 43
@@ -32,7 +32,7 @@
   :set-id "first-contact"}
  {:card-id "the-news-now-hour"
   :code "06045"
-  :flavor "\"There are reports of a terrorist threat at Starport Kaguya.  The NAPD is offering a reward for anyone who can provide them with information about the current whereabouts of the individual pictured here.  He is considered extremely dangerous and is armed with a PAD and a portable rig.\""
+  :flavor "\"There are reports of a terrorist threat at Starport Kaguya. The NAPD is offering a reward for anyone who can provide them with information about the current whereabouts of the individual pictured here. He is considered extremely dangerous and is armed with a PAD and a portable rig.\""
   :illustrator "Ed Mattinian"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN18_45.png"
   :position 45
@@ -124,7 +124,7 @@
   :set-id "first-contact"}
  {:card-id "refractor"
   :code "06057"
-  :flavor "\"If you look like you belong, people will ignore you for hours.  Or years.  It's only when you don't fit in that things start to go wrong.\" -Exile"
+  :flavor "\"If you look like you belong, people will ignore you for hours. Or years. It's only when you don't fit in that things start to go wrong.\" -Exile"
   :illustrator "Hannah Christenson"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN18_57.png"
   :position 57
@@ -132,7 +132,7 @@
   :set-id "first-contact"}
  {:card-id "order-of-sol"
   :code "06058"
-  :flavor "There have been several attempts to create a \"world church,\" uniting all human faiths into a single, harmonious whole.  The irony, of course, is that each new \"world church\" is another schism in humanity's shared religious experience."
+  :flavor "There have been several attempts to create a \"world church,\" uniting all human faiths into a single, harmonious whole. The irony, of course, is that each new \"world church\" is another schism in humanity's shared religious experience."
   :illustrator "Henning Ludvigsen"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN18_58.png"
   :position 58

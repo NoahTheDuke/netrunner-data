@@ -6,7 +6,7 @@
  :side :corp
  :strength 3
  :subtype [:mythic :trap]
- :text "[subroutine] The Corp may choose a card in HQ.  The Runner accesses that card.  If he or she does, trash Kitsune."
+ :text "[subroutine] The Corp may choose a card in HQ. The Runner accesses that card. If he or she does, trash Kitsune."
  :title "Kitsune"
  :type :ice
  :uniqueness false}
