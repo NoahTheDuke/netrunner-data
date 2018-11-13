@@ -161,6 +161,7 @@
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
   :date-start "2018-09-06"
+  :format "snapshot"
   :id "napd-mwl-2-2"
   :name "NAPD MWL 2.2"}
  {:cards {
@@ -214,6 +215,7 @@
           "watch-the-world-burn" {:deck-limit 0}
           "zer0" {:deck-limit 0}}
   :date-start "2018-11-08"
+  :format "standard"
   :id "standard-mwl-3-0"
   :name "Standard MWL 3.0"}
  {:cards {"faust" {:deck-limit 0}
@@ -225,6 +227,7 @@
           "sifr" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}}
   :date-start "2018-10-28"
+  :format "eternal"
   :id "eternal-mwl-1-0"
   :name "Eternal MWL 1.0"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
@@ -239,5 +242,6 @@
           "rashida-jaheem" {:is-restricted 1}
           "surveyor" {:is-restricted 1}}
   :date-start "2018-10-05"
+  :format "socr8"
   :id "socr8"
   :name "stimhack-online-cache-refresh-8-mwl"}]
