@@ -43,7 +43,6 @@
        :id (:id s)
        :name (:name s)
        :position (:position s)
-       ; :rotated (:rotated cy)
        :size (:size s)})))
 
 (defn merge-sets-and-cards
@@ -65,40 +64,41 @@
         nil)))
 
 (defn generate-formats
-  [cards formats mwls]
+  [sets cards formats mwls]
   (let [set->cards (reduce (fn [m [set-id card-id]]
                              (if (contains? m set-id)
                                (assoc m set-id (conj (get m set-id) card-id))
                                (assoc m set-id #{card-id})))
                            {}
                            (map (juxt :set-id :card-id) cards))
-        format->cards (into
-                        {}
-                        (for [[k f] formats]
-                          {k (apply clojure.set/union
-                                    (for [cy (:cycles f)]
-                                      (get set->cards cy)))}))]
-    (into
-      {}
-      (for [card cards
-            :let [id (:id card)]]
-        {id
-         (into
-           {}
-           (for [[f cs] format->cards
-                 :let [mwl (get-in formats [f :mwl])]]
-             {f (cond
-                  ;; gotta check mwl first
-                  (get-in mwls [mwl :cards id])
-                  (if (= :deck-limit (first (keys (get-in mwls [mwl :cards id]))))
-                    :banned
-                    :restricted)
-                  ;; then we can check if the card is on the list
-                  (contains? cs id)
-                  :legal
-                  ;; neither mwl nor in the format
-                  :else
-                  :rotated)}))}))))
+        cycle->sets (into {}
+                          (for [[f sts] (group-by :cycle_code (vals sets))]
+                            {f (into #{} (map :id sts))}))
+        format->cards (into {}
+                            (for [[k f] formats]
+                              {k (apply clojure.set/union
+                                        (for [cy (:cycles f)
+                                              sts (get cycle->sets cy)]
+                                          (get set->cards sts)))}))]
+    (into {}
+          (for [card cards
+                :let [id (:id card)]]
+            {id (into {}
+                      (for [[f cs] format->cards
+                            :let [mwl (get-in formats [f :mwl])]]
+                        {(keyword f)
+                         (cond
+                           ;; gotta check mwl first
+                           (get-in mwls [mwl :cards id])
+                           (if (= :deck-limit (first (keys (get-in mwls [mwl :cards id]))))
+                             :banned
+                             :restricted)
+                           ;; then we can check if the card is on the list
+                           (contains? cs id)
+                           :legal
+                           ;; neither mwl nor in the format
+                           :else
+                           :rotated)}))}))))
 
 (defn prune-null-fields
   [card]
@@ -110,7 +110,7 @@
         set-cards (load-edn-from-dir "edn/set-cards")
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
         cards (merge-sets-and-cards set-cards raw-cards)
-        card->formats (generate-formats cards formats mwls)
+        card->formats (generate-formats sets cards formats mwls)
         ]
     (->> (for [card cards
                :let [s (get sets (:set-id card))]]
@@ -132,6 +132,7 @@
             :normalizedtitle (:id card)
             :number (:position card)
             :quantity (:quantity card)
+            :rotated (= :rotated (:standard (get card->formats (:id card))))
             :set_code (:code s)
             :setname (:name s)
             :side (:name (get sides (:side card)))
@@ -152,28 +153,28 @@
 
 (defn combine-for-jnet
   []
-  (try
-    (let [
-          mwls (load-data "mwls" {:id :code})
-          sides (load-data "sides")
-          factions (load-data "factions")
-          types (load-data "types")
-          subtypes (load-data "subtypes")
-          formats (load-data "formats")
-          cycles (load-data "cycles")
-          sets (load-sets cycles)
-          cards (load-cards sides factions types subtypes sets formats mwls)
-          promos (read-edn-file "edn/promos.edn")
-          ]
-      (print "Writing edn/raw_data.edn...")
-      (spit (io/file "edn" "raw_data.edn")
-            (sorted-map
-              :cycles (vals->vec :position cycles)
-              :sets (vals->vec :position sets)
-              :cards (vals->vec :code cards)
-              :formats (vals->vec :date-release formats)
-              :mwls (vals->vec :date-start mwls)
-              :promos promos))
-      (println "Done!"))
-    (catch Exception e
-      (println "Import data failed:" (.getMessage e)))))
+  (let [
+        mwls (load-data "mwls" {:id :code})
+        sides (load-data "sides")
+        factions (load-data "factions")
+        types (load-data "types")
+        subtypes (load-data "subtypes")
+        formats (load-data "formats")
+        cycles (load-data "cycles")
+        sets (load-sets cycles)
+        cards (load-cards sides factions types subtypes sets formats mwls)
+        promos (read-edn-file "edn/promos.edn")
+        ]
+    (print "Writing edn/raw_data.edn...")
+    (spit (io/file "edn" "raw_data.edn")
+          (sorted-map
+            :cycles (vals->vec :position cycles)
+            :sets (vals->vec :position sets)
+            :cards (vals->vec :code cards)
+            :formats (vals->vec :date-release formats)
+            :mwls (vals->vec :date-start mwls)
+            :promos promos))
+    (println "Done!"))
+  ; (catch Exception e
+  ;   (println "Import data failed:" (.getMessage e))))
+  )

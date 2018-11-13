@@ -13,12 +13,12 @@
            :force-nl? true}
      :width 1000})
 
-  (try
-    (case (first args)
-      nil (do (download-from-nrdb)
-              (combine-for-jnet))
-      "download" (download-from-nrdb)
-      "combine" (combine-for-jnet)
-      (println "You didn't choose correctly, fool."))
-    (catch Exception e
-      (println "Import data failed:" (.getMessage e)))))
+  (case (first args)
+    nil (do (download-from-nrdb)
+            (combine-for-jnet))
+    "download" (download-from-nrdb)
+    "combine" (combine-for-jnet)
+    (println "You didn't choose correctly, fool."))
+  ; (catch Exception e
+  ;   (println "Import data failed:" (.getMessage e))))
+  )
