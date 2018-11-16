@@ -235,6 +235,7 @@
           "employee-strike" {:is-restricted 1}
           "estelle-moon" {:deck-limit 0}
           "global-food-initiative" {:is-restricted 1}
+          "hired-help" {:deck-limit 0}
           "hunter-seeker" {:is-restricted 1}
           "levy-ar-lab-access" {:is-restricted 1}
           "magnum-opus" {:is-restricted 1}

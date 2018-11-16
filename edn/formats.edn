@@ -68,9 +68,3 @@
            "magnum-opus"
            "orgcrime"]
   :mwl "socr8-mwl"}]
- {:id "modded"
-  :name "Modded"
-  :cycles ["kitara"
-           "revised-core"
-           "reign-and-reverie"]
-  :mwl nil}]
