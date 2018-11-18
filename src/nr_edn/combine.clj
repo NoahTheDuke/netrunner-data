@@ -104,6 +104,20 @@
   [card]
   (apply dissoc card (for [[k v] card :when (nil? v)] k)))
 
+(defn make-image-url
+  "Create a URI to the card in CardGameDB"
+  [card s]
+  (if (:ffg-id s)
+    (str "https://www.cardgamedb.com/forums/uploads/an/med_ADN" (:ffg-id s) "_" (:position card) ".png")
+    (str "https://netrunnerdb.com/card_image/" (:code card) ".png")))
+
+(defn get-uri
+  "Figure out the card art image uri"
+  [card s]
+  (if (contains? card :image-url)
+    (:image-url card)
+    (make-image-url card s)))
+
 (defn load-cards
   [sides factions types subtypes sets formats mwls]
   (let [
@@ -125,7 +139,7 @@
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-value card)
             :format (get card->formats (:id card))
-            :image_url (:image-url card)
+            :image_url (get-uri card s)
             :influencelimit (:influence-limit card)
             :memoryunits (:memory-cost card)
             :minimumdecksize (:minimum-deck-size card)
