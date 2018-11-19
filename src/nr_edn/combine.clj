@@ -118,6 +118,16 @@
     (:image-url card)
     (make-image-url card s)))
 
+(defn link-previous-versions
+  [[title cards]]
+  (if (= 1 (count cards))
+    (first cards)
+    (assoc (last cards)
+           :previous-versions
+           (->> cards
+                butlast
+                (mapv :code)))))
+
 (defn load-cards
   [sides factions types subtypes sets formats mwls]
   (let [
@@ -162,7 +172,7 @@
          (sort-by :date-release)
          (map #(dissoc % :date-release))
          (group-by :normalizedtitle)
-         (map #(last (val %)))
+         (map link-previous-versions)
          cards->map)))
 
 (defn combine-for-jnet
