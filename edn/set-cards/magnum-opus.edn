@@ -45,4 +45,20 @@
   :image-url "https://netrunnerdb.com/card_image/23054.png"
   :position 54
   :quantity 3
+  :set-id "magnum-opus"}
+ {:card-id "watch-the-world-burn"
+  :code "23100"
+  :flavor "<champion>Designed by the Day 1A players at Magnum Opus</champion>"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://netrunnerdb.com/card_image/23100.png"
+  :position 1
+  :quantity 1
+  :set-id "magnum-opus"}
+ {:card-id "hired-help"
+  :code "23101"
+  :flavor "<champion>Designed by the Day 1B players at Magnum Opus</champion>"
+  :illustrator "Matthew Zeilinger"
+  :image-url "https://netrunnerdb.com/card_image/23101.png"
+  :position 2
+  :quantity 1
   :set-id "magnum-opus"}]

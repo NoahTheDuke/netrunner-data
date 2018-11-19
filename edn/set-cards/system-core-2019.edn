@@ -1,735 +1,735 @@
 [{:card-id "reina-roja-freedom-fighter"
-  :code "26001"
+  :code "25001"
   :position 1
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "quetzal-free-spirit"
-  :code "26002"
+  :code "25002"
   :position 2
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "queen-s-gambit"
-  :code "26003"
+  :code "25003"
   :position 3
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "quest-completed"
-  :code "26004"
+  :code "25004"
   :position 4
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "retrieval-run"
-  :code "26005"
+  :code "25005"
   :position 5
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "run-amok"
-  :code "26006"
+  :code "25006"
   :position 6
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "stimhack"
-  :code "26007"
+  :code "25007"
   :position 7
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "cyberfeeder"
-  :code "26008"
+  :code "25008"
   :position 8
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "patchwork"
-  :code "26009"
+  :code "25009"
   :position 9
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "corroder"
-  :code "26010"
+  :code "25010"
   :position 10
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "datasucker"
-  :code "26011"
+  :code "25011"
   :position 11
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "force-of-nature"
-  :code "26012"
+  :code "25012"
   :position 12
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "imp"
-  :code "26013"
+  :code "25013"
   :position 13
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "lamprey"
-  :code "26014"
+  :code "25014"
   :position 14
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "mimic"
-  :code "26015"
+  :code "25015"
   :position 15
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "ice-carver"
-  :code "26016"
+  :code "25016"
   :position 16
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "liberated-account"
-  :code "26017"
+  :code "25017"
   :position 17
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "scrubber"
-  :code "26018"
+  :code "25018"
   :position 18
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "xanadu"
-  :code "26019"
+  :code "25019"
   :position 19
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "gabriel-santiago-consummate-professional"
-  :code "26020"
+  :code "25020"
   :position 20
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "leela-patel-trained-pragmatist"
-  :code "26021"
+  :code "25021"
   :position 21
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "career-fair"
-  :code "26022"
+  :code "25022"
   :position 22
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "easy-mark"
-  :code "26023"
+  :code "25023"
   :position 23
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "emergency-shutdown"
-  :code "26024"
+  :code "25024"
   :position 24
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hostage"
-  :code "26025"
+  :code "25025"
   :position 25
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "inside-job"
-  :code "26026"
+  :code "25026"
   :position 26
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "legwork"
-  :code "26027"
+  :code "25027"
   :position 27
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "networking"
-  :code "26028"
+  :code "25028"
   :position 28
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "spear-phishing"
-  :code "26029"
+  :code "25029"
   :position 29
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "special-order"
-  :code "26030"
+  :code "25030"
   :position 30
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "hq-interface"
-  :code "26031"
+  :code "25031"
   :position 31
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "paragon"
-  :code "26032"
+  :code "25032"
   :position 32
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "abagnale"
-  :code "26033"
+  :code "25033"
   :position 33
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "demara"
-  :code "26034"
+  :code "25034"
   :position 34
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "faerie"
-  :code "26035"
+  :code "25035"
   :position 35
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "femme-fatale"
-  :code "26036"
+  :code "25036"
   :position 36
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "sneakdoor-beta"
-  :code "26037"
+  :code "25037"
   :position 37
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "bank-job"
-  :code "26038"
+  :code "25038"
   :position 38
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "data-dealer"
-  :code "26039"
+  :code "25039"
   :position 39
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "chaos-theory-wunderkind"
-  :code "26040"
+  :code "25040"
   :position 40
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "rielle-kit-peddler-transhuman"
-  :code "26041"
+  :code "25041"
   :position 41
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "diesel"
-  :code "26042"
+  :code "25042"
   :position 42
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "modded"
-  :code "26043"
+  :code "25043"
   :position 43
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "notoriety"
-  :code "26044"
+  :code "25044"
   :position 44
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "test-run"
-  :code "26045"
+  :code "25045"
   :position 45
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "the-maker-s-eye"
-  :code "26046"
+  :code "25046"
   :position 46
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "tinkering"
-  :code "26047"
+  :code "25047"
   :position 47
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "akamatsu-mem-chip"
-  :code "26048"
+  :code "25048"
   :position 48
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "dinosaurus"
-  :code "26049"
+  :code "25049"
   :position 49
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "r-d-interface"
-  :code "26050"
+  :code "25050"
   :position 50
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "atman"
-  :code "26051"
+  :code "25051"
   :position 51
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "battering-ram"
-  :code "26052"
+  :code "25052"
   :position 52
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "deus-x"
-  :code "26053"
+  :code "25053"
   :position 53
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "gordian-blade"
-  :code "26054"
+  :code "25054"
   :position 54
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "pipeline"
-  :code "26055"
+  :code "25055"
   :position 55
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "aesop-s-pawnshop"
-  :code "26056"
+  :code "25056"
   :position 56
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ice-analyzer"
-  :code "26057"
+  :code "25057"
   :position 57
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "professional-contacts"
-  :code "26058"
+  :code "25058"
   :position 58
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "sure-gamble"
-  :code "26059"
+  :code "25059"
   :position 59
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "dirty-laundry"
-  :code "26060"
+  :code "25060"
   :position 60
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "crypsis"
-  :code "26061"
+  :code "25061"
   :position 61
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "armitage-codebusting"
-  :code "26062"
+  :code "25062"
   :position 62
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "earthrise-hotel"
-  :code "26063"
+  :code "25063"
   :position 63
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "john-masanori"
-  :code "26064"
+  :code "25064"
   :position 64
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "kati-jones"
-  :code "26065"
+  :code "25065"
   :position 65
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "haas-bioroid-stronger-together"
-  :code "26066"
+  :code "25066"
   :position 66
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "seidr-laboratories-destiny-defined"
-  :code "26067"
+  :code "25067"
   :position 67
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-vitruvius"
-  :code "26068"
+  :code "25068"
   :position 68
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "successful-field-test"
-  :code "26069"
+  :code "25069"
   :position 69
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "adonis-campaign"
-  :code "26070"
+  :code "25070"
   :position 70
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "aggressive-secretary"
-  :code "26071"
+  :code "25071"
   :position 71
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "marilyn-campaign"
-  :code "26072"
+  :code "25072"
   :position 72
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "eli-1-0"
-  :code "26073"
+  :code "25073"
   :position 73
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "heimdall-1-0"
-  :code "26074"
+  :code "25074"
   :position 74
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "ichi-1-0"
-  :code "26075"
+  :code "25075"
   :position 75
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "rototurret"
-  :code "26076"
+  :code "25076"
   :position 76
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "turing"
-  :code "26077"
+  :code "25077"
   :position 77
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "viktor-1-0"
-  :code "26078"
+  :code "25078"
   :position 78
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "archived-memories"
-  :code "26079"
+  :code "25079"
   :position 79
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "biotic-labor"
-  :code "26080"
+  :code "25080"
   :position 80
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "blue-level-clearance"
-  :code "26081"
+  :code "25081"
   :position 81
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ash-2x3zb9cy"
-  :code "26082"
+  :code "25082"
   :position 82
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "mason-bellamy"
-  :code "26083"
+  :code "25083"
   :position 83
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "jinteki-personal-evolution"
-  :code "26084"
+  :code "25084"
   :position 84
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "jinteki-replicating-perfection"
-  :code "26085"
+  :code "25085"
   :position 85
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "fetal-ai"
-  :code "26086"
+  :code "25086"
   :position 86
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "nisei-mk-ii"
-  :code "26087"
+  :code "25087"
   :position 87
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "philotic-entanglement"
-  :code "26088"
+  :code "25088"
   :position 88
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-junebug"
-  :code "26089"
+  :code "25089"
   :position 89
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ronin"
-  :code "26090"
+  :code "25090"
   :position 90
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "snare"
-  :code "26091"
+  :code "25091"
   :position 91
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "sundew"
-  :code "26092"
+  :code "25092"
   :position 92
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "himitsu-bako"
-  :code "26093"
+  :code "25093"
   :position 93
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "lotus-field"
-  :code "26094"
+  :code "25094"
   :position 94
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "neural-katana"
-  :code "26095"
+  :code "25095"
   :position 95
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "swordsman"
-  :code "26096"
+  :code "25096"
   :position 96
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "tsurugi"
-  :code "26097"
+  :code "25097"
   :position 97
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "wall-of-thorns"
-  :code "26098"
+  :code "25098"
   :position 98
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "yagura"
-  :code "26099"
+  :code "25099"
   :position 99
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "celebrity-gift"
-  :code "26100"
+  :code "25100"
   :position 100
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "neural-emp"
-  :code "26101"
+  :code "25101"
   :position 101
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "trick-of-light"
-  :code "26102"
+  :code "25102"
   :position 102
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hokusai-grid"
-  :code "26103"
+  :code "25103"
   :position 103
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "nbn-making-news"
-  :code "26104"
+  :code "25104"
   :position 104
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "spark-agency-worldswide-reach"
-  :code "26105"
+  :code "25105"
   :position 105
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "explode-a-palooza"
-  :code "26106"
+  :code "25106"
   :position 106
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "project-beale"
-  :code "26107"
+  :code "25107"
   :position 107
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "daily-business-show"
-  :code "26108"
+  :code "25108"
   :position 108
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ghost-branch"
-  :code "26109"
+  :code "25109"
   :position 109
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "marked-accounts"
-  :code "26110"
+  :code "25110"
   :position 110
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "reversed-accounts"
-  :code "26111"
+  :code "25111"
   :position 111
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "data-raven"
-  :code "26112"
+  :code "25112"
   :position 112
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "flare"
-  :code "26113"
+  :code "25113"
   :position 113
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "pop-up-window"
-  :code "26114"
+  :code "25114"
   :position 114
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "tollbooth"
-  :code "26115"
+  :code "25115"
   :position 115
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "wraparound"
-  :code "26116"
+  :code "25116"
   :position 116
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "closed-accounts"
-  :code "26117"
+  :code "25117"
   :position 117
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "psychographics"
-  :code "26118"
+  :code "25118"
   :position 118
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "sea-source"
-  :code "26119"
+  :code "25119"
   :position 119
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "product-placement"
-  :code "26120"
+  :code "25120"
   :position 120
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "red-herrings"
-  :code "26121"
+  :code "25121"
   :position 121
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "weyland-consortium-building-a-better-world"
-  :code "26122"
+  :code "25122"
   :position 122
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "blue-sun-powering-the-future"
-  :code "26123"
+  :code "25123"
   :position 123
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hostile-takeover"
-  :code "26124"
+  :code "25124"
   :position 124
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "oaktown-renovation"
-  :code "26125"
+  :code "25125"
   :position 125
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-atlas"
-  :code "26126"
+  :code "25126"
   :position 126
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "contract-killer"
-  :code "26127"
+  :code "25127"
   :position 127
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "elizabeth-mills"
-  :code "26128"
+  :code "25128"
   :position 128
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "public-support"
-  :code "26129"
+  :code "25129"
   :position 129
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "archer"
-  :code "26130"
+  :code "25130"
   :position 130
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "caduceus"
-  :code "26131"
+  :code "25131"
   :position 131
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "hadrian-s-wall"
-  :code "26132"
+  :code "25132"
   :position 132
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hortum"
-  :code "26133"
+  :code "25133"
   :position 133
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "ice-wall"
-  :code "26134"
+  :code "25134"
   :position 134
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "spiderweb"
-  :code "26135"
+  :code "25135"
   :position 135
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "beanstalk-royalties"
-  :code "26136"
+  :code "25136"
   :position 136
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "oversight-ai"
-  :code "26137"
+  :code "25137"
   :position 137
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "punitive-counterstrike"
-  :code "26138"
+  :code "25138"
   :position 138
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "crisium-grid"
-  :code "26139"
+  :code "25139"
   :position 139
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "paper-trail"
-  :code "26140"
+  :code "25140"
   :position 140
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "priority-requisition"
-  :code "26141"
+  :code "25141"
   :position 141
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "pad-campaign"
-  :code "26142"
+  :code "25142"
   :position 142
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "enigma"
-  :code "26143"
+  :code "25143"
   :position 143
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "hunter"
-  :code "26144"
+  :code "25144"
   :position 144
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "wall-of-static"
-  :code "26145"
+  :code "25145"
   :position 145
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "hedge-fund"
-  :code "26146"
+  :code "25146"
   :position 146
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "ipo"
-  :code "26147"
+  :code "25147"
   :position 147
   :quantity 2
   :set-id "system-core-2019"}]
