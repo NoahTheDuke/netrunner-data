@@ -207,7 +207,6 @@
           "faust" {:deck-limit 0}
           "hyperdriver" {:deck-limit 0}
           "mars-for-martians" {:deck-limit 0}
-          "rebirth" {:deck-limit 0}
           "salvaged-vanadis-armory" {:deck-limit 0}
           "sifr" {:deck-limit 0}
           "tapwrm" {:deck-limit 0}
