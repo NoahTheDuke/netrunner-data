@@ -55,6 +55,23 @@
            "revised-core"
            "reign-and-reverie"]
   :mwl "napd-mwl-2-2"}
+ {:id "snapshot-plus"
+  :name "Snapshot Plus"
+  :cycles ["lunar"
+           "sansan"
+           "mumbad"
+           "flashpoint"
+           "red-sand"
+           "kitara"
+           "creation-and-control"
+           "honor-and-profit"
+           "order-and-chaos"
+           "data-and-destiny"
+           "terminal-directive"
+           "revised-core"
+           "reign-and-reverie"
+           "magnum-opus"]
+  :mwl "napd-mwl-2-2"}
  {:id "socr8"
   :name "Stimhack Online Cache Refresh 8"
   :cycles ["kitara"
