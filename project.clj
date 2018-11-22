@@ -6,7 +6,7 @@
             :url "https://opensource.org/licenses/MIT"}
 
   :dependencies [[org.clojure/clojure "1.9.0"]
-                 [cheshire "5.6.3"]
+                 [cheshire "5.8.1"]
                  [http-kit "2.3.0"]
                  [zprint "0.4.10"]]
 

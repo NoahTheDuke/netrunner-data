@@ -14,8 +14,7 @@
      :width 1000})
 
   (case (first args)
-    nil (do (download-from-nrdb)
-            (combine-for-jnet))
+    nil (combine-for-jnet)
     "download" (download-from-nrdb)
     "combine" (combine-for-jnet)
     (println "You didn't choose correctly, fool."))
