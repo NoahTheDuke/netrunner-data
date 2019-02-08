@@ -1,0 +1,10 @@
+[ {
+  "name" : "Both",
+  "code" : "both"
+}, {
+  "name" : "Corp",
+  "code" : "corp"
+}, {
+  "name" : "Runner",
+  "code" : "runner"
+} ]

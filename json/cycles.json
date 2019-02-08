@@ -1,0 +1,121 @@
+[ {
+  "name" : "Draft",
+  "position" : 0,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "draft"
+}, {
+  "name" : "Core",
+  "position" : 1,
+  "rotated" : true,
+  "size" : 1,
+  "code" : "core"
+}, {
+  "name" : "Genesis",
+  "position" : 2,
+  "rotated" : true,
+  "size" : 6,
+  "code" : "genesis"
+}, {
+  "name" : "Creation and Control",
+  "position" : 3,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "creation-and-control"
+}, {
+  "name" : "Spin",
+  "position" : 4,
+  "rotated" : true,
+  "size" : 6,
+  "code" : "spin"
+}, {
+  "name" : "Honor and Profit",
+  "position" : 5,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "honor-and-profit"
+}, {
+  "name" : "Lunar",
+  "position" : 6,
+  "rotated" : false,
+  "size" : 6,
+  "code" : "lunar"
+}, {
+  "name" : "Order and Chaos",
+  "position" : 7,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "order-and-chaos"
+}, {
+  "name" : "SanSan",
+  "position" : 8,
+  "rotated" : false,
+  "size" : 6,
+  "code" : "sansan"
+}, {
+  "name" : "Data and Destiny",
+  "position" : 9,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "data-and-destiny"
+}, {
+  "name" : "Mumbad",
+  "position" : 10,
+  "rotated" : false,
+  "size" : 6,
+  "code" : "mumbad"
+}, {
+  "name" : "Flashpoint",
+  "position" : 11,
+  "rotated" : false,
+  "size" : 6,
+  "code" : "flashpoint"
+}, {
+  "name" : "Red Sand",
+  "position" : 12,
+  "rotated" : false,
+  "size" : 6,
+  "code" : "red-sand"
+}, {
+  "name" : "Terminal Directive",
+  "position" : 13,
+  "rotated" : true,
+  "size" : 1,
+  "code" : "terminal-directive"
+}, {
+  "name" : "Revised Core",
+  "position" : 20,
+  "rotated" : true,
+  "size" : 1,
+  "code" : "revised-core"
+}, {
+  "name" : "Kitara",
+  "position" : 21,
+  "rotated" : false,
+  "size" : 6,
+  "code" : "kitara"
+}, {
+  "name" : "Reign and Reverie",
+  "position" : 22,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "reign-and-reverie"
+}, {
+  "name" : "Magnum Opus",
+  "position" : 23,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "magnum-opus"
+}, {
+  "name" : "NAPD Multiplayer",
+  "position" : 24,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "napd-multiplayer"
+}, {
+  "name" : "System Core 2019",
+  "position" : 25,
+  "rotated" : false,
+  "size" : 1,
+  "code" : "system-core-2019"
+} ]

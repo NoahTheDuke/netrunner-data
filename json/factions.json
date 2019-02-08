@@ -1,0 +1,61 @@
+[ {
+  "is-mini" : true,
+  "name" : "Adam",
+  "side" : "runner",
+  "code" : "adam"
+}, {
+  "is-mini" : false,
+  "name" : "Anarch",
+  "side" : "runner",
+  "code" : "anarch"
+}, {
+  "is-mini" : true,
+  "name" : "Apex",
+  "side" : "runner",
+  "code" : "apex"
+}, {
+  "is-mini" : false,
+  "name" : "Criminal",
+  "side" : "runner",
+  "code" : "criminal"
+}, {
+  "is-mini" : false,
+  "name" : "Haas-Bioroid",
+  "side" : "corp",
+  "code" : "haas-bioroid"
+}, {
+  "is-mini" : false,
+  "name" : "Jinteki",
+  "side" : "corp",
+  "code" : "jinteki"
+}, {
+  "is-mini" : false,
+  "name" : "NBN",
+  "side" : "corp",
+  "code" : "nbn"
+}, {
+  "is-mini" : false,
+  "name" : "Neutral",
+  "side" : "corp",
+  "code" : "neutral-corp"
+}, {
+  "is-mini" : false,
+  "name" : "Neutral",
+  "side" : "runner",
+  "code" : "neutral-runner"
+}, {
+  "is-mini" : false,
+  "name" : "Shaper",
+  "side" : "runner",
+  "code" : "shaper"
+}, {
+  "is-mini" : true,
+  "name" : "Sunny Lebeau",
+  "side" : "runner",
+  "code" : "sunny-lebeau"
+}, {
+  "is-mini" : false,
+  "name" : "Weyland Consortium",
+  "side" : "corp",
+  "code" : "weyland-consortium"
+} ]

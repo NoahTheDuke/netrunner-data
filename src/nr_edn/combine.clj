@@ -211,6 +211,15 @@
         (:ice :program) "null"
         nil)))
 
+(defn get-json-mwl
+  [cards mwls]
+  (cards->map :code
+        (for [m (vals mwls)]
+          (assoc m :cards
+                 (into {}
+                       (for [[k v] (:cards m)]
+                         [(:code (get cards k)) v]))))))
+
 (defn convert-to-json
   []
   (let [
@@ -226,7 +235,22 @@
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
         cards (merge-sets-and-cards set-cards raw-cards)
         card->formats (generate-formats sets cards formats mwls)
+        mwls (get-json-mwl (cards->map :card-id cards) mwls)
+        _ (println (first (cards->map :card-id cards)))
         ]
+    (io/make-parents "json/pack/temp")
+
+    (doseq [[path group k] [["cycles" cycles :position]
+                        ["factions" factions :code]
+                        ["mwl" mwls :date-release]
+                        ["packs" sets :code]
+                        ["sides" sides :code]
+                        ["types" types :position]]]
+      (spit (io/file "json" (str path ".json"))
+            (json/generate-string
+              (->> group vals (sort-by k))
+              {:pretty true})))
+
     (->> (for [card cards
                :let [s (get sets (:set-id card))]]
            {:advancement_cost (:advancement-requirement card)
@@ -234,7 +258,6 @@
             :base_link (:base-link card)
             :code (:code card)
             :cost (get-json-cost card)
-            :date-release (:date-release s)
             :deck_limit (:deck-limit card)
             :faction_code (get-json-faction card)
             :faction_cost (:influence-value card)
@@ -259,10 +282,11 @@
          (sort-by :code)
          (group-by :title)
          (map build-system-core-2019)
-         (map #(dissoc % :setname :date-release))
+         (map #(dissoc % :setname))
          (filter identity)
          (sort-by :code)
          (#(json/generate-string % {:pretty true}))
+         (spit (io/file "json" "pack" "sc19.json"))
          )))
 
 (defn combine-for-jnet

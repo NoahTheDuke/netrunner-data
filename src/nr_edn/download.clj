@@ -69,6 +69,7 @@
 (def cycle-fields
   {:name (rename :name convert-cycle)
    :position identity
+   :rotated identity
    :size identity})
 
 (defn add-cycle-fields
