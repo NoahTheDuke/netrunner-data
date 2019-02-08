@@ -5,7 +5,6 @@
   :image-url "https://netrunnerdb.com/card_image/04041.png"
   :position 41
   :quantity 3
-  :replaced-by "20001"
   :set-id "mala-tempora"}
  {:card-id "deep-red"
   :code "04042"
@@ -84,7 +83,6 @@
   :image-url "https://netrunnerdb.com/card_image/04051.png"
   :position 51
   :quantity 3
-  :replaced-by "20067"
   :set-id "mala-tempora"}
  {:card-id "accelerated-diagnostics"
   :code "04052"

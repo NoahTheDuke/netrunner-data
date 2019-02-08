@@ -20,7 +20,6 @@
   :image-url "https://netrunnerdb.com/card_image/02043.png"
   :position 43
   :quantity 3
-  :replaced-by "20021"
   :set-id "cyber-exodus"}
  {:card-id "muresh-bodysuit"
   :code "02044"
@@ -45,7 +44,6 @@
   :image-url "https://netrunnerdb.com/card_image/02046.png"
   :position 46
   :quantity 3
-  :replaced-by "20037"
   :set-id "cyber-exodus"}
  {:card-id "test-run"
   :code "02047"
@@ -53,7 +51,6 @@
   :image-url "https://netrunnerdb.com/card_image/02047.png"
   :position 47
   :quantity 3
-  :replaced-by "20042"
   :set-id "cyber-exodus"}
  {:card-id "dinosaurus"
   :code "02048"
@@ -61,7 +58,6 @@
   :image-url "https://netrunnerdb.com/card_image/02048.png"
   :position 48
   :quantity 3
-  :replaced-by "20045"
   :set-id "cyber-exodus"}
  {:card-id "personal-workshop"
   :code "02049"
@@ -84,7 +80,6 @@
   :image-url "https://netrunnerdb.com/card_image/02051.png"
   :position 51
   :quantity 3
-  :replaced-by "20063"
   :set-id "cyber-exodus"}
  {:card-id "viper"
   :code "02052"
@@ -123,7 +118,6 @@
   :image-url "https://netrunnerdb.com/card_image/02056.png"
   :position 56
   :quantity 3
-  :replaced-by "20115"
   :set-id "cyber-exodus"}
  {:card-id "woodcutter"
   :code "02057"

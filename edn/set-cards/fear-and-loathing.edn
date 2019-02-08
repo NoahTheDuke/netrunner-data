@@ -13,7 +13,6 @@
   :image-url "https://netrunnerdb.com/card_image/04082.png"
   :position 82
   :quantity 3
-  :replaced-by "20012"
   :set-id "fear-and-loathing"}
  {:card-id "tallie-perrault"
   :code "04083"
@@ -84,7 +83,6 @@
   :image-url "https://netrunnerdb.com/card_image/04091.png"
   :position 91
   :quantity 3
-  :replaced-by "20076"
   :set-id "fear-and-loathing"}
  {:card-id "toshiyuki-sakai"
   :code "04092"
@@ -100,7 +98,6 @@
   :image-url "https://netrunnerdb.com/card_image/04093.png"
   :position 93
   :quantity 3
-  :replaced-by "20104"
   :set-id "fear-and-loathing"}
  {:card-id "restoring-face"
   :code "04094"
@@ -124,7 +121,6 @@
   :image-url "https://netrunnerdb.com/card_image/04096.png"
   :position 96
   :quantity 3
-  :replaced-by "20117"
   :set-id "fear-and-loathing"}
  {:card-id "grndl-power-unleashed"
   :code "04097"
@@ -149,7 +145,6 @@
   :image-url "https://netrunnerdb.com/card_image/04099.png"
   :position 99
   :quantity 3
-  :replaced-by "20083"
   :set-id "fear-and-loathing"}
  {:card-id "subliminal-messaging"
   :code "04100"

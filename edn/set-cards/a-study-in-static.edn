@@ -13,7 +13,6 @@
   :image-url "https://netrunnerdb.com/card_image/02062.png"
   :position 62
   :quantity 3
-  :replaced-by "20010"
   :set-id "a-study-in-static"}
  {:card-id "scrubber"
   :code "02063"
@@ -22,7 +21,6 @@
   :image-url "https://netrunnerdb.com/card_image/02063.png"
   :position 63
   :quantity 3
-  :replaced-by "20017"
   :set-id "a-study-in-static"}
  {:card-id "doppelganger"
   :code "02064"
@@ -31,7 +29,6 @@
   :image-url "https://netrunnerdb.com/card_image/02064.png"
   :position 64
   :quantity 3
-  :replaced-by "20025"
   :set-id "a-study-in-static"}
  {:card-id "crescentus"
   :code "02065"
@@ -56,7 +53,6 @@
   :image-url "https://netrunnerdb.com/card_image/02067.png"
   :position 67
   :quantity 3
-  :replaced-by "20053"
   :set-id "a-study-in-static"}
  {:card-id "inside-man"
   :code "02068"
@@ -73,7 +69,6 @@
   :image-url "https://netrunnerdb.com/card_image/02069.png"
   :position 69
   :quantity 3
-  :replaced-by "20060"
   :set-id "a-study-in-static"}
  {:card-id "green-level-clearance"
   :code "02070"
@@ -82,7 +77,6 @@
   :image-url "https://netrunnerdb.com/card_image/02070.png"
   :position 70
   :quantity 3
-  :replaced-by "20073"
   :set-id "a-study-in-static"}
  {:card-id "hourglass"
   :code "02071"
@@ -160,5 +154,4 @@
   :image-url "https://netrunnerdb.com/card_image/02080.png"
   :position 80
   :quantity 3
-  :replaced-by "20124"
   :set-id "a-study-in-static"}]

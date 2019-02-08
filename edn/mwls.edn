@@ -134,7 +134,6 @@
           "friends-in-high-places" {:deck-limit 0}
           "gang-sign" {:is-restricted 1}
           "global-food-initiative" {:is-restricted 1}
-          "hired-help" {:deck-limit 0}
           "hunter-seeker" {:is-restricted 1}
           "hyperdriver" {:deck-limit 0}
           "inversificator" {:is-restricted 1}
@@ -157,11 +156,9 @@
           "tapwrm" {:deck-limit 0}
           "temujin-contract" {:deck-limit 0}
           "violet-level-clearance" {:is-restricted 1}
-          "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
   :date-start "2018-09-06"
-  :format "snapshot"
   :id "napd-mwl-2-2"
   :name "NAPD MWL 2.2"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
@@ -205,104 +202,6 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
-  :date-start "2018-11-08"
-  :format "standard"
+  :date-start "2018-12-21"
   :id "standard-mwl-3-0"
-  :name "Standard MWL 3.0"}
- {:cards {
-          ;; Corp restricted
-          "bio-ethics-association" {:is-restricted 1}
-          "commercial-bankers-group" {:is-restricted 1}
-          "excalibur" {:is-restricted 1}
-          "global-food-initiative" {:is-restricted 1}
-          "mother-goddess" {:is-restricted 1}
-          "mti-mwekundu-life-improved" {:is-restricted 1}
-          "mumba-temple" {:is-restricted 1}
-          "mumbad-city-hall" {:is-restricted 1}
-          "obokata-protocol" {:is-restricted 1}
-          "surveyor" {:is-restricted 1}
-          "violet-level-clearance" {:is-restricted 1}
-          "whampoa-reclamation" {:is-restricted 1}
-
-          ;; Corp banned
-          "24-7-news-cycle" {:deck-limit 0}
-          "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
-          "clone-suffrage-movement" {:deck-limit 0}
-          "friends-in-high-places" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "jinteki-potential-unleashed" {:deck-limit 0}
-          "museum-of-history" {:deck-limit 0}
-          "sensie-actors-union" {:deck-limit 0}
-
-          ;; Runner restricted
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "crowdfunding" {:is-restricted 1}
-          "dorm-computer" {:is-restricted 1}
-          "employee-strike" {:is-restricted 1}
-          "film-critic" {:is-restricted 1}
-          "gang-sign" {:is-restricted 1}
-          "inversificator" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "mad-dash" {:is-restricted 1}
-          "paperclip" {:is-restricted 1}
-          "rumor-mill" {:is-restricted 1}
-
-          ;; Runner banned
-          "aaron-marron" {:deck-limit 0}
-          "bloo-moose" {:deck-limit 0}
-          "faust" {:deck-limit 0}
-          "hyperdriver" {:deck-limit 0}
-          "mars-for-martians" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "tapwrm" {:deck-limit 0}
-          "temujin-contract" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}
-          "zer0" {:deck-limit 0}}
-  :date-start "2019-02-22"
-  :format "standard"
-  :id "standard-mwl-3-1"
-  :name "Standard MWL 3.1"}
- {:cards {"faust" {:deck-limit 0}
-          "friends-in-high-places" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "museum-of-history" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}}
-  :date-start "2018-10-28"
-  :format "eternal"
-  :id "eternal-mwl-1-0"
-  :name "Eternal MWL 1.0"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aaron-marron" {:deck-limit 0}
-          "faust" {:deck-limit 0}
-          "friends-in-high-places" {:deck-limit 0}
-          "hired-help" {:deck-limit 0}
-          "rumor-mill" {:deck-limit 0}
-          "salvaged-vanadis-armory" {:deck-limit 0}
-          "sifr" {:deck-limit 0}
-          "temujin-contract" {:deck-limit 0}
-          "watch-the-world-burn" {:deck-limit 0}}
-  :date-start "2019-02-22"
-  :format "eternal"
-  :id "eternal-mwl-1-1"
-  :name "Eternal MWL 1.1"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "employee-strike" {:is-restricted 1}
-          "estelle-moon" {:deck-limit 0}
-          "global-food-initiative" {:is-restricted 1}
-          "hired-help" {:deck-limit 0}
-          "hunter-seeker" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "magnum-opus" {:is-restricted 1}
-          "mti-mwekundu" {:is-restricted 1}
-          "rashida-jaheem" {:is-restricted 1}
-          "surveyor" {:is-restricted 1}}
-  :date-start "2018-10-05"
-  :format "socr8"
-  :id "socr8"
-  :name "stimhack-online-cache-refresh-8-mwl"}]
+  :name "Standard MWL 3.0"}]

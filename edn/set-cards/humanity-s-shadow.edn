@@ -13,7 +13,6 @@
   :image-url "https://netrunnerdb.com/card_image/02082.png"
   :position 82
   :quantity 3
-  :replaced-by "20018"
   :set-id "humanity-s-shadow"}
  {:card-id "andromeda-dispossessed-ristie"
   :code "02083"
@@ -38,7 +37,6 @@
   :image-url "https://netrunnerdb.com/card_image/02085.png"
   :position 85
   :quantity 3
-  :replaced-by "20026"
   :set-id "humanity-s-shadow"}
  {:card-id "pheromones"
   :code "02086"
@@ -46,7 +44,6 @@
   :image-url "https://netrunnerdb.com/card_image/02086.png"
   :position 86
   :quantity 3
-  :replaced-by "20031"
   :set-id "humanity-s-shadow"}
  {:card-id "quality-time"
   :code "02087"
@@ -110,7 +107,6 @@
   :image-url "https://netrunnerdb.com/card_image/02094.png"
   :position 94
   :quantity 3
-  :replaced-by "20103"
   :set-id "humanity-s-shadow"}
  {:card-id "hokusai-grid"
   :code "02095"
@@ -119,7 +115,6 @@
   :image-url "https://netrunnerdb.com/card_image/02095.png"
   :position 95
   :quantity 3
-  :replaced-by "20108"
   :set-id "humanity-s-shadow"}
  {:card-id "data-hound"
   :code "02096"
@@ -136,7 +131,6 @@
   :image-url "https://netrunnerdb.com/card_image/02097.png"
   :position 97
   :quantity 3
-  :replaced-by "20123"
   :set-id "humanity-s-shadow"}
  {:card-id "salvage"
   :code "02098"

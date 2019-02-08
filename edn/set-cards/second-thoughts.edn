@@ -98,7 +98,6 @@
   :image-url "https://netrunnerdb.com/card_image/04033.png"
   :position 33
   :quantity 3
-  :replaced-by "20101"
   :set-id "second-thoughts"}
  {:card-id "shipment-from-sansan"
   :code "04034"
@@ -122,7 +121,6 @@
   :image-url "https://netrunnerdb.com/card_image/04036.png"
   :position 36
   :quantity 3
-  :replaced-by "20080"
   :set-id "second-thoughts"}
  {:card-id "elizabeth-mills"
   :code "04037"
@@ -131,7 +129,6 @@
   :image-url "https://netrunnerdb.com/card_image/04037.png"
   :position 37
   :quantity 3
-  :replaced-by "20082"
   :set-id "second-thoughts"}
  {:card-id "off-the-grid"
   :code "04038"

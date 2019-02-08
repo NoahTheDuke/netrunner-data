@@ -4,7 +4,6 @@
   :image-url "https://netrunnerdb.com/card_image/02101.png"
   :position 101
   :quantity 3
-  :replaced-by "20003"
   :set-id "future-proof"}
  {:card-id "darwin"
   :code "02102"
@@ -12,7 +11,6 @@
   :image-url "https://netrunnerdb.com/card_image/02102.png"
   :position 102
   :quantity 3
-  :replaced-by "20008"
   :set-id "future-proof"}
  {:card-id "data-leak-reversal"
   :code "02103"
@@ -29,7 +27,6 @@
   :image-url "https://netrunnerdb.com/card_image/02104.png"
   :position 104
   :quantity 3
-  :replaced-by "20028"
   :set-id "future-proof"}
  {:card-id "mr-li"
   :code "02105"
@@ -38,7 +35,6 @@
   :image-url "https://netrunnerdb.com/card_image/02105.png"
   :position 105
   :quantity 3
-  :replaced-by "20036"
   :set-id "future-proof"}
  {:card-id "indexing"
   :code "02106"
@@ -47,7 +43,6 @@
   :image-url "https://netrunnerdb.com/card_image/02106.png"
   :position 106
   :quantity 3
-  :replaced-by "20039"
   :set-id "future-proof"}
  {:card-id "r-d-interface"
   :code "02107"
@@ -90,12 +85,11 @@
   :set-id "future-proof"}
  {:card-id "ronin"
   :code "02112"
-  :flavor "I will serve you…for a time."
+  :flavor "\"I will serve you…for a time.\""
   :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/02112.png"
   :position 112
   :quantity 3
-  :replaced-by "20097"
   :set-id "future-proof"}
  {:card-id "midori"
   :code "02113"
@@ -118,7 +112,6 @@
   :image-url "https://netrunnerdb.com/card_image/02115.png"
   :position 115
   :quantity 3
-  :replaced-by "20110"
   :set-id "future-proof"}
  {:card-id "midseason-replacements"
   :code "02116"
@@ -134,7 +127,6 @@
   :image-url "https://netrunnerdb.com/card_image/02117.png"
   :position 117
   :quantity 3
-  :replaced-by "20114"
   :set-id "future-proof"}
  {:card-id "dedicated-response-team"
   :code "02118"
@@ -143,7 +135,6 @@
   :image-url "https://netrunnerdb.com/card_image/02118.png"
   :position 118
   :quantity 3
-  :replaced-by "20081"
   :set-id "future-proof"}
  {:card-id "burke-bugs"
   :code "02119"

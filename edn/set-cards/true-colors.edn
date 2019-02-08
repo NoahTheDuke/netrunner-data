@@ -115,7 +115,6 @@
   :image-url "https://netrunnerdb.com/card_image/04075.png"
   :position 75
   :quantity 3
-  :replaced-by "20111"
   :set-id "true-colors"}
  {:card-id "sweeps-week"
   :code "04076"
@@ -148,7 +147,6 @@
   :image-url "https://netrunnerdb.com/card_image/04079.png"
   :position 79
   :quantity 3
-  :replaced-by "20091"
   :set-id "true-colors"}
  {:card-id "veterans-program"
   :code "04080"

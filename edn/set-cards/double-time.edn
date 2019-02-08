@@ -4,7 +4,6 @@
   :image-url "https://netrunnerdb.com/card_image/04101.png"
   :position 101
   :quantity 3
-  :replaced-by "20004"
   :set-id "double-time"}
  {:card-id "queen-s-gambit"
   :code "04102"
@@ -44,7 +43,6 @@
   :image-url "https://netrunnerdb.com/card_image/04106.png"
   :position 106
   :quantity 3
-  :replaced-by "20035"
   :set-id "double-time"}
  {:card-id "power-nap"
   :code "04107"
@@ -130,7 +128,6 @@
   :image-url "https://netrunnerdb.com/card_image/04117.png"
   :position 117
   :quantity 3
-  :replaced-by "20087"
   :set-id "double-time"}
  {:card-id "witness-tampering"
   :code "04118"

@@ -5,6 +5,7 @@
             [org.httpkit.client :as http]
             [cheshire.core :as json]
             [zprint.core :as zp]
+            [nr-edn.combine :refer [get-uri make-image-url]]
             [nr-edn.utils :refer [slugify cards->map]]))
 
 (defn parse-response
@@ -39,20 +40,6 @@
        flatten
        parse-response))
 
-(defn make-image-url
-  "Create a URI to the card in CardGameDB"
-  [card set]
-  (if (:ffg-id set)
-    (str "https://www.cardgamedb.com/forums/uploads/an/med_ADN" (:ffg-id set) "_" (:position card) ".png")
-    (str "https://netrunnerdb.com/card_image/" (:code card) ".png")))
-
-(defn get-uri
-  "Figure out the card art image uri"
-  [card set]
-  (if (contains? card :image-url)
-    (:image-url card)
-    (make-image-url card set)))
-
 (defn translate-fields
   "Modify NRDB json data to our schema"
   [fields data]
@@ -82,7 +69,6 @@
 (def cycle-fields
   {:name (rename :name convert-cycle)
    :position identity
-   :rotated identity
    :size identity})
 
 (defn add-cycle-fields
@@ -104,7 +90,7 @@
 
 (defn convert-subtypes
   [subtype]
-  (when subtype
+  (when (seq subtype)
     (->> (string/split subtype #" - ")
          (map slugify)
          (map keyword)
@@ -146,8 +132,6 @@
    :pack_code (rename :pack-code)
    :position identity
    :quantity identity
-   :replaced_by (rename :replaced-by)
-   :replaces identity
    :title (rename :card-id slugify)
    })
 
@@ -181,32 +165,8 @@
                                    v))))
                       {}
                       (:cards mwl))
-                 :id (-> mwl :name slugify keyword))
+                 :id (-> mwl :name slugify))
       (dissoc :code)))
-
-(defn rotate-cards
-  "Added rotation fields to cards"
-  [acc [title prev curr]]
-  (-> acc
-      (assoc-in [prev :replaced_by] curr)
-      (assoc-in [curr :replaces] prev)))
-
-(defn if-rotated
-  [[c1 c2]]
-  (if (< (Integer/parseInt (:code c1))
-         (Integer/parseInt (:code c2)))
-    [(:title c1) (:code c1) (:code c2)]
-    [(:title c1) (:code c2) (:code c1)]))
-
-(defn rotate-and-replace-cards
-  [cards]
-  (->> cards
-       (group-by :title)
-       (filter (fn [[k v]] (>= (count v) 2)))
-       vals
-       (map if-rotated)
-       (reduce rotate-cards (cards->map cards))
-       vals))
 
 (defn sort-and-group-set-cards
   [set-cards]
@@ -263,13 +223,12 @@
                              (partial read-card-dir localpath)
                              download-nrdb-data)
           raw-cards (card-download-fn (-> tables :card :path))
-
           card-stub (fn [path] raw-cards)
+
           cards (cards->map :id
                   (fetch-data card-stub (:card tables) add-card-fields))
 
-          set-card-stub (fn [path] (rotate-and-replace-cards raw-cards))
-          raw-set-cards (fetch-data set-card-stub
+          raw-set-cards (fetch-data card-stub
                                     (:set-card tables)
                                     (partial add-set-card-fields
                                              (cards->map sets)))
@@ -281,34 +240,37 @@
                            (:mwl tables)
                            (partial convert-mwl
                                     (cards->map raw-set-cards)))
+
+          line-ending "\n"
+
           _ (println "Done!")]
 
       (let [path (str "edn/cycles.edn")]
         (io/make-parents path)
         (println "Saving" path)
-        (spit path (zp/zprint-str cycles)))
+        (spit path (str (zp/zprint-str cycles) line-ending)))
 
       (let [path (str "edn/sets.edn")]
         (io/make-parents path)
         (println "Saving" path)
-        (spit path (zp/zprint-str sets)))
+        (spit path (str (zp/zprint-str sets) line-ending)))
 
       (println "Saving edn/cards")
       (doseq [[path card] cards
               :let [path (str "edn/cards/" path ".edn")]]
         (io/make-parents path)
-        (spit path (zp/zprint-str card)))
+        (spit path (str (zp/zprint-str card) line-ending)))
 
       (println "Saving edn/set-cards")
       (doseq [[path set-card] set-cards
               :let [path (str "edn/set-cards/" path ".edn")]]
         (io/make-parents path)
-        (spit path (zp/zprint-str set-card)))
+        (spit path (str (zp/zprint-str set-card) line-ending)))
 
       (let [path (str "edn/mwls.edn")]
         (io/make-parents path)
         (println "Saving" path)
-        (spit path (zp/zprint-str (into [] mwls))))
+        (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
 
       (println "Done!"))
     (catch Exception e (do

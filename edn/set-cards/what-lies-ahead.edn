@@ -12,7 +12,6 @@
   :image-url "https://netrunnerdb.com/card_image/02002.png"
   :position 2
   :quantity 3
-  :replaced-by "20007"
   :set-id "what-lies-ahead"}
  {:card-id "imp"
   :code "02003"
@@ -21,7 +20,6 @@
   :image-url "https://netrunnerdb.com/card_image/02003.png"
   :position 3
   :quantity 3
-  :replaced-by "20011"
   :set-id "what-lies-ahead"}
  {:card-id "morning-star"
   :code "02004"
@@ -30,7 +28,6 @@
   :image-url "https://netrunnerdb.com/card_image/02004.png"
   :position 4
   :quantity 3
-  :replaced-by "20014"
   :set-id "what-lies-ahead"}
  {:card-id "cortez-chip"
   :code "02005"
@@ -47,7 +44,6 @@
   :image-url "https://netrunnerdb.com/card_image/02006.png"
   :position 6
   :quantity 3
-  :replaced-by "20030"
   :set-id "what-lies-ahead"}
  {:card-id "zu-13-key-master"
   :code "02007"
@@ -78,7 +74,6 @@
   :image-url "https://netrunnerdb.com/card_image/02010.png"
   :position 10
   :quantity 3
-  :replaced-by "20061"
   :set-id "what-lies-ahead"}
  {:card-id "mandatory-upgrades"
   :code "02011"
@@ -103,7 +98,6 @@
   :image-url "https://netrunnerdb.com/card_image/02013.png"
   :position 13
   :quantity 3
-  :replaced-by "20075"
   :set-id "what-lies-ahead"}
  {:card-id "braintrust"
   :code "02014"
@@ -111,7 +105,6 @@
   :image-url "https://netrunnerdb.com/card_image/02014.png"
   :position 14
   :quantity 3
-  :replaced-by "20094"
   :set-id "what-lies-ahead"}
  {:card-id "snowflake"
   :code "02015"
@@ -143,7 +136,6 @@
   :image-url "https://netrunnerdb.com/card_image/02018.png"
   :position 18
   :quantity 3
-  :replaced-by "20079"
   :set-id "what-lies-ahead"}
  {:card-id "caduceus"
   :code "02019"
@@ -152,7 +144,6 @@
   :image-url "https://netrunnerdb.com/card_image/02019.png"
   :position 19
   :quantity 3
-  :replaced-by "20085"
   :set-id "what-lies-ahead"}
  {:card-id "draco"
   :code "02020"

@@ -74,7 +74,6 @@
   :image-url "https://netrunnerdb.com/card_image/04010.png"
   :position 10
   :quantity 3
-  :replaced-by "20062"
   :set-id "opening-moves"}
  {:card-id "next-bronze"
   :code "04011"
@@ -91,7 +90,6 @@
   :image-url "https://netrunnerdb.com/card_image/04012.png"
   :position 12
   :quantity 3
-  :replaced-by "20105"
   :set-id "opening-moves"}
  {:card-id "himitsu-bako"
   :code "04013"
@@ -100,7 +98,6 @@
   :image-url "https://netrunnerdb.com/card_image/04013.png"
   :position 13
   :quantity 3
-  :replaced-by "20099"
   :set-id "opening-moves"}
  {:card-id "character-assassination"
   :code "04014"
