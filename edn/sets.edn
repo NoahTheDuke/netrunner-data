@@ -462,14 +462,6 @@
   :name "Magnum Opus"
   :position 1
   :size 8}
- {:code "org"
-  :cycle-id "orgcrime"
-  :date-release "2018-09-07"
-  :ffg-id nil
-  :id "orgcrime"
-  :name "Orgcrime"
-  :position 1
-  :size 2}
  {:code "napd"
   :cycle-id "napd-multiplayer"
   :date-release "2018-09-07"
@@ -479,11 +471,10 @@
   :position 1
   :size 1}
  {:code "sc19"
-  :cycle-id "system-core-2019"
-  :date-release "2018-11-11"
+  :cycle-id "sc19"
+  :date-release "2018-12-21"
   :ffg-id nil
   :id "system-core-2019"
   :name "System Core 2019"
   :position 1
-  :size 148}
-]
+  :size 147}]

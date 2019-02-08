@@ -3,7 +3,8 @@
             [clojure.java.io :as io]
             [zprint.core :as zp]
             [nr-edn.combine :refer [combine-for-jnet]]
-            [nr-edn.download :refer [download-from-nrdb]]))
+            [nr-edn.download :refer [download-from-nrdb]]
+            [nr-edn.csv :refer [build-from-csv]]))
 
 (defn -main
   [& args]
@@ -17,6 +18,7 @@
     nil (combine-for-jnet)
     "download" (download-from-nrdb)
     "combine" (combine-for-jnet)
+    "csv" (build-from-csv)
     (println "You didn't choose correctly, fool."))
   ; (catch Exception e
   ;   (println "Import data failed:" (.getMessage e))))

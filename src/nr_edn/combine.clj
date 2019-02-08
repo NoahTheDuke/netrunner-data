@@ -4,7 +4,7 @@
             [clojure.edn :as edn]
             [clojure.set :refer [rename-keys]]
             [org.httpkit.client :as http]
-            [cheshire.core :refer [generate-string]]
+            [cheshire.core :as json]
             [nr-edn.utils :refer [cards->map vals->vec]]))
 
 (defn read-edn-file
@@ -184,7 +184,8 @@
                 butlast
                 last
                 (select-keys
-                  [:illustrator
+                  [:flavor
+                   :illustrator
                    :position
                    :quantity])))))
 
@@ -232,7 +233,7 @@
             :agenda_points (:agenda-points card)
             :base_link (:base-link card)
             :code (:code card)
-            :cost (get-json-cost (:cost card))
+            :cost (get-json-cost card)
             :date-release (:date-release s)
             :deck_limit (:deck-limit card)
             :faction_code (get-json-faction card)
@@ -261,7 +262,7 @@
          (map #(dissoc % :setname :date-release))
          (filter identity)
          (sort-by :code)
-         (#(generate-string % {:pretty true}))
+         (#(json/generate-string % {:pretty true}))
          )))
 
 (defn combine-for-jnet
