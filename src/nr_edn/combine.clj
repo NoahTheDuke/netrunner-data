@@ -179,15 +179,13 @@
 (defn build-system-core-2019
   [[title cards]]
   (when (= "System Core 2019" (:setname (last cards)))
-    (merge (last cards)
-           (->> cards
-                butlast
-                last
-                (select-keys
-                  [:flavor
-                   :illustrator
-                   :position
-                   :quantity])))))
+    (apply merge
+           (last cards)
+           (flatten
+             (map #(select-keys %
+                                [:flavor
+                                 :illustrator])
+                  (butlast cards))))))
 
 (defn get-json-cost
   [card]
@@ -236,20 +234,19 @@
         cards (merge-sets-and-cards set-cards raw-cards)
         card->formats (generate-formats sets cards formats mwls)
         mwls (get-json-mwl (cards->map :card-id cards) mwls)
-        _ (println (first (cards->map :card-id cards)))
         ]
     (io/make-parents "json/pack/temp")
 
-    (doseq [[path group k] [["cycles" cycles :position]
-                        ["factions" factions :code]
-                        ["mwl" mwls :date-release]
-                        ["packs" sets :code]
-                        ["sides" sides :code]
-                        ["types" types :position]]]
-      (spit (io/file "json" (str path ".json"))
-            (json/generate-string
-              (->> group vals (sort-by k))
-              {:pretty true})))
+    ; (doseq [[path group k] [["cycles" cycles :position]
+    ;                     ["factions" factions :code]
+    ;                     ["mwl" mwls :date-release]
+    ;                     ["packs" sets :code]
+    ;                     ["sides" sides :code]
+    ;                     ["types" types :position]]]
+    ;   (spit (io/file "json" (str path ".json"))
+    ;         (json/generate-string
+    ;           (->> group vals (sort-by k))
+    ;           {:pretty true})))
 
     (->> (for [card cards
                :let [s (get sets (:set-id card))]]
@@ -261,6 +258,7 @@
             :deck_limit (:deck-limit card)
             :faction_code (get-json-faction card)
             :faction_cost (:influence-value card)
+            :flavor (:flavor card)
             :illustrator (:illustrator card)
             :influence_limit (:influence-limit card)
             :keywords (when (seq (:subtype card))
@@ -278,12 +276,16 @@
             :trash_cost (:trash-cost card)
             :type_code (:type card)
             :uniqueness (:uniqueness card)})
-         (map prune-null-fields)
          (sort-by :code)
          (group-by :title)
          (map build-system-core-2019)
+         (map prune-null-fields)
          (map #(dissoc % :setname))
          (filter identity)
+         (map (fn [card]
+                (if-let [pairs (seq (flatten (for [[k v] card :when (= v "null")] [k nil])))]
+                  (apply assoc card pairs)
+                  card)))
          (sort-by :code)
          (#(json/generate-string % {:pretty true}))
          (spit (io/file "json" "pack" "sc19.json"))

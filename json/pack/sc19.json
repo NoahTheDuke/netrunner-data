@@ -1,6 +1,7 @@
 [ {
   "side_code" : "runner",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"Analyzing the board won't help. Your mistake was thinking we're playing the same game.\"",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Cyborg - G-mod",
@@ -17,7 +18,8 @@
   "text" : "The rez cost of the first piece of ice rezzed each turn is increased by 1."
 }, {
   "side_code" : "runner",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"Why should we be slaves to our genetic heritage?\"",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "G-mod",
@@ -35,7 +37,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
   "pack_code" : "sc19",
   "keywords" : "Double",
   "faction_code" : "anarch",
@@ -51,7 +53,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Gong Studios",
+  "flavor" : "That moment of bliss. That feeling of accomplishment. That certainty of purpose.\nWhat's next?",
   "pack_code" : "sc19",
   "faction_code" : "anarch",
   "title" : "Quest Completed",
@@ -66,7 +69,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Outland Entertainment LLC",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "anarch",
@@ -82,7 +85,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "RC Torres",
+  "flavor" : "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy",
   "pack_code" : "sc19",
   "keywords" : "Run - Sabotage",
   "faction_code" : "anarch",
@@ -98,7 +102,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andreas Zafiratos",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "anarch",
@@ -114,7 +118,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Gong Studios",
+  "flavor" : "I feel almost naked without it",
   "pack_code" : "sc19",
   "keywords" : "Chip",
   "faction_code" : "anarch",
@@ -130,7 +135,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Simon Boxer",
   "pack_code" : "sc19",
   "keywords" : "Console",
   "faction_code" : "anarch",
@@ -146,7 +151,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mike Nesbitt",
+  "flavor" : "\"If at first you don't succeed, boost its strength and try again.\" -g00ru",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Fracter",
   "faction_code" : "anarch",
@@ -164,13 +170,13 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
   "pack_code" : "sc19",
   "keywords" : "Virus",
   "faction_code" : "anarch",
   "title" : "Datasucker",
   "uniqueness" : false,
-  "strength" : "null",
+  "strength" : null,
   "code" : "25011",
   "position" : 11,
   "type_code" : "program",
@@ -182,7 +188,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
+  "flavor" : "It always strikes twice.",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Decoder",
   "faction_code" : "anarch",
@@ -200,13 +207,14 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Wen Xiaodong",
+  "flavor" : "Something wicked this way comes.",
   "pack_code" : "sc19",
   "keywords" : "Virus",
   "faction_code" : "anarch",
   "title" : "Imp",
   "uniqueness" : false,
-  "strength" : "null",
+  "strength" : null,
   "code" : "25013",
   "position" : 13,
   "type_code" : "program",
@@ -218,13 +226,13 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Smirtouille",
   "pack_code" : "sc19",
   "keywords" : "Virus",
   "faction_code" : "anarch",
   "title" : "Lamprey",
   "uniqueness" : false,
-  "strength" : "null",
+  "strength" : null,
   "code" : "25014",
   "position" : 14,
   "type_code" : "program",
@@ -236,7 +244,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "November 5th: the day when all would see the corrupt machinations of the corporate oligarchy.",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Killer",
   "faction_code" : "anarch",
@@ -254,7 +263,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this.",
   "pack_code" : "sc19",
   "keywords" : "Virtual",
   "faction_code" : "anarch",
@@ -270,7 +280,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "It's easier to spend when it's not your money.",
   "pack_code" : "sc19",
   "faction_code" : "anarch",
   "title" : "Liberated Account",
@@ -285,7 +296,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Laird",
+  "flavor" : "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly",
   "pack_code" : "sc19",
   "keywords" : "Connection - Seedy",
   "faction_code" : "anarch",
@@ -301,7 +313,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andrew Mar",
+  "flavor" : "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge",
   "pack_code" : "sc19",
   "keywords" : "Virtual",
   "faction_code" : "anarch",
@@ -316,7 +329,8 @@
   "text" : "The rez cost of all ice is increased by 1."
 }, {
   "side_code" : "runner",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"Of course I steal from the rich. They're the ones with all the money.\"",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Cyborg",
@@ -333,7 +347,8 @@
   "text" : "The first time you make a successful run on HQ each turn, gain 2[credit]."
 }, {
   "side_code" : "runner",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"I'd say I do it for the challenge, but the truth is it's not that hard.\"",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Natural",
@@ -351,7 +366,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Dmitry Prosvirnin",
+  "flavor" : "\"You can help Jinteki shape the future. Your future.\"",
   "pack_code" : "sc19",
   "faction_code" : "criminal",
   "title" : "Career Fair",
@@ -366,7 +382,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"Hey kid, you fire that up now, bound to be vamped real bad. Some real pathetic individuals around here. But thankfully I got just the ticket…\"",
   "pack_code" : "sc19",
   "keywords" : "Job",
   "faction_code" : "criminal",
@@ -382,7 +399,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "\"Think of it as a virtual shock collar for punishing corporate pets.\" -Andromeda",
   "pack_code" : "sc19",
   "keywords" : "Sabotage",
   "faction_code" : "criminal",
@@ -398,7 +416,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
   "pack_code" : "sc19",
   "keywords" : "Double",
   "faction_code" : "criminal",
@@ -414,7 +432,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Clark Huggins",
+  "flavor" : "\"Hey, listen, I'm not asking you to do anything dangerous. Just let me into the building. And tell me which room has the weakest security. And please don't say 'the bathroom' again.\"",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "criminal",
@@ -430,7 +449,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Gong Studios",
+  "flavor" : "\"I work by referral only, with an up-front fee. The fee is reasonable if you value results.\" -Silhouette",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "criminal",
@@ -446,7 +466,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Gong Studios",
+  "flavor" : "She preferred to do business in a club. Something about the lights and dancers clouded the judgment of the corporate simpletons she met there.",
   "pack_code" : "sc19",
   "faction_code" : "criminal",
   "title" : "Networking",
@@ -461,7 +482,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andreas Zafiratos",
+  "flavor" : "Targeted attacks make system breaches so much easier, especially if you can spoof an authorized user.",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "criminal",
@@ -477,7 +499,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Steve Hamilton",
+  "flavor" : "Feverishly tracking its frustratingly slow progress across the Pacific, the package finally shows up hours later…",
   "pack_code" : "sc19",
   "faction_code" : "criminal",
   "title" : "Special Order",
@@ -492,7 +515,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Robert Chew",
+  "flavor" : "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments.",
   "pack_code" : "sc19",
   "faction_code" : "criminal",
   "title" : "HQ Interface",
@@ -507,7 +531,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Martin Diego Sádaba",
   "pack_code" : "sc19",
   "keywords" : "Console",
   "faction_code" : "criminal",
@@ -523,7 +547,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "BalanceSheet",
+  "flavor" : "\"Technology breeds crime.\"",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Decoder",
   "faction_code" : "criminal",
@@ -541,7 +566,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mariusz Siergiejew",
+  "flavor" : "\"It's a matter of 'acquiring' the right credentials.\"",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Fracter",
   "faction_code" : "criminal",
@@ -559,7 +585,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Sara K. Diesel",
+  "flavor" : "Do you believe in faeries?",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Killer",
   "faction_code" : "criminal",
@@ -577,7 +604,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Anna Christenson",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Killer",
   "faction_code" : "criminal",
@@ -595,12 +622,13 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andrew Mar",
+  "flavor" : "\"The code isn't important. It's where the code takes you that is important.\" -g00ru",
   "pack_code" : "sc19",
   "faction_code" : "criminal",
   "title" : "Sneakdoor Beta",
   "uniqueness" : false,
-  "strength" : "null",
+  "strength" : null,
   "code" : "25037",
   "position" : 37,
   "type_code" : "program",
@@ -612,7 +640,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Laird",
   "pack_code" : "sc19",
   "keywords" : "Job",
   "faction_code" : "criminal",
@@ -628,7 +656,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mauricio Herrera",
+  "flavor" : "Shadier the dealer, better the price. Unless the dealer's too shady. Then there might be a hidden fee after they take your scrip.",
   "pack_code" : "sc19",
   "keywords" : "Connection - Seedy",
   "faction_code" : "criminal",
@@ -643,7 +672,8 @@
   "text" : "<strong>Forfeit an agenda,</strong> [click]: Gain 9[credit]."
 }, {
   "side_code" : "runner",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"Have you met Dinosaurus?\"",
   "pack_code" : "sc19",
   "minimum_deck_size" : 40,
   "keywords" : "G-mod",
@@ -660,7 +690,8 @@
   "text" : "+1[mu]"
 }, {
   "side_code" : "runner",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"I was not; I was; I am not; I am all.\"",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Cyborg",
@@ -678,7 +709,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Tim Durning",
+  "flavor" : "Diesel gives you flames.",
   "pack_code" : "sc19",
   "faction_code" : "shaper",
   "title" : "Diesel",
@@ -693,7 +725,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Laird",
+  "flavor" : "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too.",
   "pack_code" : "sc19",
   "keywords" : "Mod",
   "faction_code" : "shaper",
@@ -709,7 +742,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "When you're this good, it's hard not to grow a fan base.",
   "pack_code" : "sc19",
   "faction_code" : "shaper",
   "title" : "Notoriety",
@@ -724,7 +758,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Laird",
   "pack_code" : "sc19",
   "faction_code" : "shaper",
   "title" : "Test Run",
@@ -739,7 +773,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
+  "flavor" : "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "shaper",
@@ -755,7 +790,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 4,
-  "setname" : "System Core 2019",
+  "illustrator" : "Christina Davis",
+  "flavor" : "\"There's that moment, you know, when the whole world seems to fall away and it is only you and your mod, and the mod is the world.\"",
   "pack_code" : "sc19",
   "keywords" : "Mod",
   "faction_code" : "shaper",
@@ -771,7 +807,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Outland Entertainment LLC",
+  "flavor" : "The Akamatsu company was founded on three principles: first, to make the fastest mem chips on the market, second, to turn a profit, and third, to serve as a front for the manufacture of illegal neural-stimulants. It is the last principle that perhaps explains their rabid brand loyalty.",
   "pack_code" : "sc19",
   "keywords" : "Chip",
   "faction_code" : "shaper",
@@ -787,7 +824,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
   "pack_code" : "sc19",
   "keywords" : "Console",
   "faction_code" : "shaper",
@@ -803,7 +840,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Reza Ilyasa",
+  "flavor" : "Works best at your own desk.",
   "pack_code" : "sc19",
   "faction_code" : "shaper",
   "title" : "R&D Interface",
@@ -818,7 +856,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Diana Martinez",
+  "flavor" : "We are shaped by our thoughts; we become what we think.",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - AI",
   "faction_code" : "shaper",
@@ -836,7 +875,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
+  "flavor" : "\"It's called 'brute-forcing' and it's just as effective today as it was a hundred years ago.\" -Kate \"Mac\" McCaffrey",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Fracter",
   "faction_code" : "shaper",
@@ -854,7 +894,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andrew Mar",
+  "flavor" : "Didn't see that coming.",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker",
   "faction_code" : "shaper",
@@ -872,7 +913,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "It can slice through the thickest knots of data.",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Decoder",
   "faction_code" : "shaper",
@@ -890,7 +932,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Ed Mattinian",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - Killer",
   "faction_code" : "shaper",
@@ -908,7 +950,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam Schumpert",
+  "flavor" : "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well.",
   "pack_code" : "sc19",
   "keywords" : "Location - Connection",
   "faction_code" : "shaper",
@@ -924,7 +967,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Ed Mattinian",
+  "flavor" : "\"If you know the source code you can write to beat it, or just rejigger it a little and make it yours. That works, too.\" -Exile",
   "pack_code" : "sc19",
   "keywords" : "Virtual",
   "faction_code" : "shaper",
@@ -940,7 +984,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "Sometimes it doesn't matter how expensive your rig is, or how many credits are in your account, or even your skill as a runner. Most of the time, a simple handshake and a name are all you need.",
   "pack_code" : "sc19",
   "keywords" : "Connection",
   "faction_code" : "shaper",
@@ -956,7 +1001,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Niemczyk",
+  "flavor" : "Lady Luck took the form of a hifi quantum manipulation ring that she wore on her middle finger.",
   "pack_code" : "sc19",
   "faction_code" : "neutral-runner",
   "title" : "Sure Gamble",
@@ -971,7 +1017,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Christina Davis",
+  "flavor" : "The data was better than she could have ever imagined. This Santiago fellow really knew what he was doing. She began to imagine the havoc she could wreak at the upcoming charity dinner…",
   "pack_code" : "sc19",
   "keywords" : "Run",
   "faction_code" : "neutral-runner",
@@ -987,7 +1034,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
   "pack_code" : "sc19",
   "keywords" : "Icebreaker - AI - Virus",
   "faction_code" : "neutral-runner",
@@ -1005,7 +1052,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Dmitry Prosvirnin and Atha Kanaani",
+  "flavor" : "Drudge work, but it pays the bills.",
   "pack_code" : "sc19",
   "keywords" : "Job",
   "faction_code" : "neutral-runner",
@@ -1021,7 +1069,7 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Simon Boxer",
   "pack_code" : "sc19",
   "keywords" : "Location - Ritzy",
   "faction_code" : "neutral-runner",
@@ -1037,7 +1085,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Zefanya Langkan Maega",
+  "flavor" : "\"I've been logging online with babes all day. Don't worry, the connections are clean. I guarantee it.\"",
   "pack_code" : "sc19",
   "keywords" : "Connection",
   "faction_code" : "neutral-runner",
@@ -1053,7 +1102,8 @@
 }, {
   "side_code" : "runner",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"You aren't the only type of runner in New Angeles.\"",
   "pack_code" : "sc19",
   "keywords" : "Connection",
   "faction_code" : "neutral-runner",
@@ -1068,7 +1118,7 @@
   "text" : "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "flavor" : "A Different Breed of Machine.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Megacorp",
@@ -1084,7 +1134,8 @@
   "text" : "All <strong>bioroid</strong> ice has +1 strength."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
+  "flavor" : "Interweaving the Past and the Future.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Division",
@@ -1100,7 +1151,7 @@
   "text" : "The first time each turn the Runner loses or spends [click] during a run, you may add 1 card from Archives to the top of R&D."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
   "pack_code" : "sc19",
   "advancement_cost" : 3,
   "keywords" : "Research",
@@ -1116,7 +1167,7 @@
   "text" : "When you score Project Vitruvius, place 1 agenda counter on it for each advancement token on it over 3.\n<strong>Hosted agenda counter:</strong> Add 1 card from Archives to HQ."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Clark Huggins",
   "pack_code" : "sc19",
   "advancement_cost" : 4,
   "keywords" : "Research",
@@ -1133,7 +1184,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mark Anthony Taduran",
   "pack_code" : "sc19",
   "keywords" : "Advertisement",
   "trash_cost" : 3,
@@ -1150,7 +1201,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Julian Totino Tedesco",
   "pack_code" : "sc19",
   "keywords" : "Ambush",
   "trash_cost" : 0,
@@ -1167,7 +1218,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Tim Durning",
   "pack_code" : "sc19",
   "keywords" : "Advertisement",
   "trash_cost" : 3,
@@ -1184,7 +1235,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Sandara Tang",
+  "flavor" : "\"That's against the rules. The Creators will be angry.\"",
   "pack_code" : "sc19",
   "keywords" : "Barrier - Bioroid",
   "faction_code" : "haas-bioroid",
@@ -1201,7 +1253,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andreas Zafiratos",
+  "flavor" : "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden.",
   "pack_code" : "sc19",
   "keywords" : "Barrier - Bioroid - AP",
   "faction_code" : "haas-bioroid",
@@ -1218,7 +1271,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andreas Zafiratos",
+  "flavor" : "My reputation would precede me, if any could speak of it.",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Bioroid - Tracer - Destroyer",
   "faction_code" : "haas-bioroid",
@@ -1235,7 +1289,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Ed Mattinian",
+  "flavor" : "Whrrrrr!",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Destroyer",
   "faction_code" : "haas-bioroid",
@@ -1252,7 +1307,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "Alan Turing laid the foundation for artificial intelligence by suggesting that you could teach a computer to be human.",
   "pack_code" : "sc19",
   "keywords" : "Code Gate",
   "faction_code" : "haas-bioroid",
@@ -1269,7 +1325,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andreas Zafiratos",
+  "flavor" : "My name is Viktor. Nice to meet you. Would you like to play a game?",
   "pack_code" : "sc19",
   "keywords" : "Code Gate - Bioroid - AP",
   "faction_code" : "haas-bioroid",
@@ -1286,7 +1343,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Gong Studios",
+  "flavor" : "\"Do you think they…feel it?\"",
   "pack_code" : "sc19",
   "faction_code" : "haas-bioroid",
   "title" : "Archived Memories",
@@ -1301,7 +1359,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 4,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mark Anthony Taduran",
+  "flavor" : "\"Why of course, we have six different Haas-Bioroid models serving in a variety of positions at this branch office alone. We here at Haas-Bioroid aren't going to shy away from practicing what we preach, and we pass the savings from increased efficiency on to our valued customers.\"",
   "pack_code" : "sc19",
   "faction_code" : "haas-bioroid",
   "title" : "Biotic Labor",
@@ -1316,7 +1375,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Tim Durning",
+  "flavor" : "Blue-one level clearance doesn't exist. And if it did exist, you wouldn't be cleared to know about it.",
   "pack_code" : "sc19",
   "keywords" : "Double - Transaction",
   "faction_code" : "haas-bioroid",
@@ -1332,7 +1392,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Antonio De Luca",
+  "flavor" : "\"Eyes forward please.\"",
   "pack_code" : "sc19",
   "keywords" : "Bioroid",
   "trash_cost" : 3,
@@ -1349,7 +1410,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"They say he is an ex-runner. I don't know if it is true, but he is chromed to the gills and seems to know all the runners' tricks.\"",
   "pack_code" : "sc19",
   "keywords" : "Sysop",
   "trash_cost" : 3,
@@ -1365,7 +1427,7 @@
   "text" : "Whenever an encounter with a piece of ice protecting this server ends in which the Runner broke at least one subroutine, he or she loses [click], if able."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "flavor" : "When You Need the Human Touch.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Megacorp",
@@ -1381,7 +1443,6 @@
   "text" : "Whenever an agenda is scored or stolen, do 1 net damage."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Megacorp",
@@ -1397,7 +1458,7 @@
   "text" : "The Runner cannot run on remote servers. Ignore this ability until the end of the turn whenever the Runner runs on a central server."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Eko Puteh",
   "pack_code" : "sc19",
   "advancement_cost" : 5,
   "keywords" : "Ambush",
@@ -1413,7 +1474,7 @@
   "text" : "If Fetal AI is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Fetal AI, do 2 net damage. Ignore this ability if the Runner accesses Fetal AI from Archives.\nAs an additional cost to steal Fetal AI, the Runner must pay 2[credit]."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Alexandra Douglass",
   "pack_code" : "sc19",
   "advancement_cost" : 4,
   "keywords" : "Initiative",
@@ -1429,7 +1490,7 @@
   "text" : "Place 1 agenda counter on Nisei MK II when you score it.\n<strong>Hosted agenda counter:</strong> End the run."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Ed Mattinian",
   "pack_code" : "sc19",
   "advancement_cost" : 3,
   "keywords" : "Security",
@@ -1446,7 +1507,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Drew Whitmore",
   "pack_code" : "sc19",
   "keywords" : "Ambush - Research",
   "trash_cost" : 0,
@@ -1463,7 +1524,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 4,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "\"I will serve you…for a time.\"",
   "pack_code" : "sc19",
   "keywords" : "Hostile",
   "trash_cost" : 2,
@@ -1480,7 +1542,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Alice Duke",
   "pack_code" : "sc19",
   "keywords" : "Ambush",
   "trash_cost" : 0,
@@ -1497,7 +1559,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Anna Ignatieva",
+  "flavor" : "As beautiful as it is dangerous. And it's plenty dangerous.",
   "pack_code" : "sc19",
   "trash_cost" : 2,
   "faction_code" : "jinteki",
@@ -1513,7 +1576,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andrew Mar",
+  "flavor" : "Himitsu-Bako is a simple ice barrier that appears as a digital puzzle box. What makes it special is the ease with which it can be uninstalled and installed in a different server, throwing up barriers in unexpected places and giving any intruder a curious feeling of déjà vu.",
   "pack_code" : "sc19",
   "keywords" : "Barrier",
   "faction_code" : "jinteki",
@@ -1530,7 +1594,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "\"Chi resonance mapping has created a whole new field of network security. It is unassailable perfection.\" -Akitaro Watanabe",
   "pack_code" : "sc19",
   "keywords" : "Code Gate",
   "faction_code" : "jinteki",
@@ -1547,7 +1612,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Isuardi Therianto",
+  "flavor" : "Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.\n//Samurai included.",
   "pack_code" : "sc19",
   "keywords" : "Sentry - AP",
   "faction_code" : "jinteki",
@@ -1564,7 +1630,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail.",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Destroyer - AP",
   "faction_code" : "jinteki",
@@ -1581,7 +1648,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "\"It's ice so dangerous it has safety protocols. Think about that.\" -g00ru",
   "pack_code" : "sc19",
   "keywords" : "Sentry - AP",
   "faction_code" : "jinteki",
@@ -1598,7 +1666,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "Most runners do their business in full-sim, with their rigs wired directly into their brains. The setup has a large number of advantages, with the runner able to process data and input commands far faster than a traditional meat-bound system. But it also means greater risk.",
   "pack_code" : "sc19",
   "keywords" : "Barrier - AP",
   "faction_code" : "jinteki",
@@ -1615,7 +1684,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Andrew Mar",
+  "flavor" : "The 'cyber-war' is a war of information, and in a war of information, advance warning can be as good as a killing blow. -Michael Muhama, Musings on Cybercrime",
   "pack_code" : "sc19",
   "keywords" : "Code Gate - AP",
   "faction_code" : "jinteki",
@@ -1632,7 +1702,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody wanted one.",
   "pack_code" : "sc19",
   "keywords" : "Double",
   "faction_code" : "jinteki",
@@ -1648,7 +1719,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at.",
   "pack_code" : "sc19",
   "keywords" : "Gray Ops",
   "faction_code" : "jinteki",
@@ -1664,7 +1736,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Anna Ignatieva",
+  "flavor" : "Smoke and mirrors optional.",
   "pack_code" : "sc19",
   "faction_code" : "jinteki",
   "title" : "Trick of Light",
@@ -1679,7 +1752,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
+  "flavor" : "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki.",
   "pack_code" : "sc19",
   "keywords" : "Region",
   "trash_cost" : 4,
@@ -1695,7 +1769,7 @@
   "text" : "Whenever there is a successful run on this server, do 1 net damage.\nLimit 1 <strong>region</strong> per server."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "flavor" : "Someone is Always Watching.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Megacorp",
@@ -1711,7 +1785,8 @@
   "text" : "2[recurring-credit]\nUse these credits during trace attempts."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
+  "flavor" : "We're ready to start the fire.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Division",
@@ -1727,7 +1802,8 @@
   "text" : "The first time each turn you rez an <strong>advertisement</strong>, the Runner loses 1[credit]."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Mike Nesbitt",
+  "flavor" : "It's like Lethal Action 3, only with more explosions.",
   "pack_code" : "sc19",
   "advancement_cost" : 4,
   "keywords" : "Sensie",
@@ -1743,7 +1819,7 @@
   "text" : "If Explode-a-palooza is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Explode-a-palooza, you may gain 5[credit]."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
   "pack_code" : "sc19",
   "advancement_cost" : 3,
   "keywords" : "Research",
@@ -1760,7 +1836,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Gong Studios",
+  "flavor" : "\"A new investment deal every morning! Grab the bull by the horns and take control of your future!\"",
   "pack_code" : "sc19",
   "keywords" : "Cast",
   "trash_cost" : 4,
@@ -1777,7 +1854,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
   "pack_code" : "sc19",
   "keywords" : "Ambush - Facility",
   "trash_cost" : 0,
@@ -1794,7 +1871,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mauricio Herrera",
   "pack_code" : "sc19",
   "keywords" : "Transaction",
   "trash_cost" : 5,
@@ -1811,7 +1888,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Antonio De Luca",
+  "flavor" : "Making a name for yourself has its perks. But it also makes you a target.",
   "pack_code" : "sc19",
   "keywords" : "Hostile",
   "trash_cost" : 3,
@@ -1828,7 +1906,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Tracer - Observer",
   "faction_code" : "nbn",
@@ -1845,7 +1923,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mike Nesbitt",
+  "flavor" : "A bright light blossomed, and then the console went dark. That's when she smelled smoke.",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Tracer - AP",
   "faction_code" : "nbn",
@@ -1862,7 +1941,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Christina Davis",
+  "flavor" : "\"Try to close it. Go on. See what it does.\" -Chaos Theory",
   "pack_code" : "sc19",
   "keywords" : "Code Gate - Advertisement",
   "faction_code" : "nbn",
@@ -1879,7 +1959,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Outland Entertainment LLC",
+  "flavor" : "\"Ever heard of a catch-22?\"\n\"Remind me to forget it.\"",
   "pack_code" : "sc19",
   "keywords" : "Code Gate",
   "faction_code" : "nbn",
@@ -1896,7 +1977,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Ed Mattinian",
+  "flavor" : "\"It can make a real fine roller coaster, provided you're properly stimmed up.\" -Noise",
   "pack_code" : "sc19",
   "keywords" : "Barrier",
   "faction_code" : "nbn",
@@ -1913,7 +1995,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mauricio Herrera",
   "pack_code" : "sc19",
   "keywords" : "Gray Ops",
   "faction_code" : "nbn",
@@ -1929,7 +2011,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Laird",
+  "flavor" : "Access to the largest consumer database in the galaxy has its advantages.",
   "pack_code" : "sc19",
   "faction_code" : "nbn",
   "title" : "Psychographics",
@@ -1937,14 +2020,15 @@
   "code" : "25118",
   "position" : 118,
   "type_code" : "operation",
-  "cost" : "null",
+  "cost" : null,
   "deck_limit" : 3,
   "quantity" : 1,
   "text" : "X is equal to or less than the number of tags the Runner has.\nPlace X advancement tokens on a card that can be advanced."
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Dmitry Prosvirnin and Atha Kanaani",
+  "flavor" : "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech",
   "pack_code" : "sc19",
   "faction_code" : "nbn",
   "title" : "SEA Source",
@@ -1959,7 +2043,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
   "pack_code" : "sc19",
   "keywords" : "Advertisement",
   "trash_cost" : 2,
@@ -1976,7 +2060,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
   "pack_code" : "sc19",
   "trash_cost" : 1,
   "faction_code" : "nbn",
@@ -1991,7 +2075,7 @@
   "text" : "Each time the Runner accesses an agenda from this server, he or she must pay 5[credit] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Red Herrings."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "flavor" : "Moving Upwards.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Megacorp",
@@ -2007,7 +2091,8 @@
   "text" : "Gain 1[credit] whenever you play a <strong>transaction</strong> operation."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
+  "flavor" : "Unlimited Energy. Reasonable Prices.",
   "pack_code" : "sc19",
   "minimum_deck_size" : 45,
   "keywords" : "Corp",
@@ -2023,7 +2108,8 @@
   "text" : "When your turn begins, you may add 1 rezzed card to HQ and gain credits equal to its rez cost."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Antonio De Luca",
+  "flavor" : "There are going to be some changes around here.",
   "pack_code" : "sc19",
   "advancement_cost" : 2,
   "keywords" : "Expansion",
@@ -2039,7 +2125,7 @@
   "text" : "When you score Hostile Takeover, gain 7[credit] and take 1 bad publicity."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Maciej Rebisz",
   "pack_code" : "sc19",
   "advancement_cost" : 4,
   "keywords" : "Initiative - Public",
@@ -2055,7 +2141,7 @@
   "text" : "Install Oaktown Renovation faceup.\nWhenever you advance Oaktown Renovation, gain 2[credit] (or 3[credit] if there are 5 or more advancement tokens on Oaktown Renovation)."
 }, {
   "side_code" : "corp",
-  "setname" : "System Core 2019",
+  "illustrator" : "Emilio Rodriguez",
   "pack_code" : "sc19",
   "advancement_cost" : 3,
   "keywords" : "Research",
@@ -2072,7 +2158,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 4,
-  "setname" : "System Core 2019",
+  "illustrator" : "Clark Huggins",
+  "flavor" : "\"You want no questions asked, hire someone else. I have two: who and how much?\"",
   "pack_code" : "sc19",
   "keywords" : "Hostile",
   "trash_cost" : 3,
@@ -2089,7 +2176,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Del Borovic",
+  "flavor" : "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\"",
   "pack_code" : "sc19",
   "keywords" : "Executive",
   "trash_cost" : 1,
@@ -2106,7 +2194,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Wenjuinn Png",
   "pack_code" : "sc19",
   "trash_cost" : 4,
   "faction_code" : "weyland-consortium",
@@ -2122,7 +2210,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mike Nesbitt",
+  "flavor" : "Next time, read the Terms of Service more carefully. Or you might find yourself in the danger zone.",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Destroyer",
   "faction_code" : "weyland-consortium",
@@ -2139,7 +2228,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Christina Davis",
+  "flavor" : "A symbol of commerce, but beware its bite.",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Tracer",
   "faction_code" : "weyland-consortium",
@@ -2156,7 +2246,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 3,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
+  "flavor" : "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru",
   "pack_code" : "sc19",
   "keywords" : "Barrier",
   "faction_code" : "weyland-consortium",
@@ -2173,7 +2264,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
   "pack_code" : "sc19",
   "keywords" : "Code Gate",
   "faction_code" : "weyland-consortium",
@@ -2190,7 +2281,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Matt Zeilinger",
+  "flavor" : "\"I asked for ice as impenetrable as a wall. I can't decide if someone down in R&D has a warped sense of humor or just a very literal mind.\" -Liz Campbell, VP Project Security",
   "pack_code" : "sc19",
   "keywords" : "Barrier",
   "faction_code" : "weyland-consortium",
@@ -2207,7 +2299,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Laura Wilson",
+  "flavor" : "\"Let me tell you a secret. There's no such thing as impenetrable ice. It has to allow access, or else why is the server on the Network in the first place? But that doesn't mean they have to make it easy.\" -g00ru",
   "pack_code" : "sc19",
   "keywords" : "Barrier",
   "faction_code" : "weyland-consortium",
@@ -2224,7 +2317,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Jonathan Lee",
+  "flavor" : "The New Angeles Space Elevator, better known as the Beanstalk, is the single greatest triumph of human engineering and ingenuity in history. The Beanstalk makes Earth orbit accessible to everyone…for a small fee.",
   "pack_code" : "sc19",
   "keywords" : "Transaction",
   "faction_code" : "weyland-consortium",
@@ -2240,7 +2334,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mark Anthony Taduran",
   "pack_code" : "sc19",
   "keywords" : "Condition",
   "faction_code" : "weyland-consortium",
@@ -2256,7 +2350,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 2,
-  "setname" : "System Core 2019",
+  "illustrator" : "Lorraine Schleter",
+  "flavor" : "\"I'd say it's nothing personal, but corporations are people, too.\"",
   "pack_code" : "sc19",
   "keywords" : "Black Ops",
   "faction_code" : "weyland-consortium",
@@ -2272,7 +2367,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 1,
-  "setname" : "System Core 2019",
+  "illustrator" : "Camille Kuo",
+  "flavor" : "Mars would never have been colonized if not for the Gargarin facilities at Promontorium Agarum.",
   "pack_code" : "sc19",
   "keywords" : "Region",
   "trash_cost" : 5,
@@ -2289,7 +2385,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
   "pack_code" : "sc19",
   "advancement_cost" : 4,
   "keywords" : "Security",
@@ -2306,7 +2402,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Dmitry Prosvirnin and Atha Kanaani",
+  "flavor" : "\"If it isn't in my terminal by six p.m., heads are going to roll!\"",
   "pack_code" : "sc19",
   "advancement_cost" : 5,
   "keywords" : "Security",
@@ -2323,7 +2420,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Kate Laird",
+  "flavor" : "It is like the one you just bought, only better.",
   "pack_code" : "sc19",
   "keywords" : "Advertisement",
   "trash_cost" : 4,
@@ -2340,7 +2438,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Liiga Smilshkalne",
+  "flavor" : "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\"",
   "pack_code" : "sc19",
   "keywords" : "Code Gate",
   "faction_code" : "neutral-corp",
@@ -2357,7 +2456,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Christina Davis",
+  "flavor" : ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
   "pack_code" : "sc19",
   "keywords" : "Sentry - Tracer - Observer",
   "faction_code" : "neutral-corp",
@@ -2374,7 +2474,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Adam S. Doyle",
+  "flavor" : "\"There's nothing worse than seeing that beautiful blue ball of data just out of reach as your connection derezzes. I think they do it just to taunt us.\" -Ele \"Smoke\" Scovak",
   "pack_code" : "sc19",
   "keywords" : "Barrier",
   "faction_code" : "neutral-corp",
@@ -2391,7 +2492,8 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mark Molnar",
+  "flavor" : "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?",
   "pack_code" : "sc19",
   "keywords" : "Transaction",
   "faction_code" : "neutral-corp",
@@ -2407,7 +2509,7 @@
 }, {
   "side_code" : "corp",
   "faction_cost" : 0,
-  "setname" : "System Core 2019",
+  "illustrator" : "Mark Molnar",
   "pack_code" : "sc19",
   "keywords" : "Terminal - Transaction",
   "faction_code" : "neutral-corp",
