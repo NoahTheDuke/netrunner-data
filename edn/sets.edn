@@ -471,7 +471,7 @@
   :position 1
   :size 1}
  {:code "sc19"
-  :cycle-id "sc19"
+  :cycle-id "system-core-2019"
   :date-release "2018-12-21"
   :ffg-id nil
   :id "system-core-2019"
