@@ -52,6 +52,9 @@
  {:id :code-gate
   :name "Code Gate"
   :side :corp}
+ {:id :companion
+  :name "Companion"
+  :side :runner}
  {:id :condition
   :name "Condition"
   :side :both}
@@ -62,7 +65,7 @@
   :name "Console"
   :side :runner}
  {:id :consumer-grade
-  :name "Consumer Grade"
+  :name "Consumer-grade"
   :side :runner}
  {:id :corp
   :name "Corp"
@@ -190,6 +193,9 @@
  {:id :orgcrime
   :name "Orgcrime"
   :side :both}
+ {:id :police-department
+  :name "Police Department"
+  :size :corp}
  {:id :political
   :name "Political"
   :side :corp}

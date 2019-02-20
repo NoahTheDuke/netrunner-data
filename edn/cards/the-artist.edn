@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "the-artist"
+ :influence-value 5
+ :quantity 3
+ :side :runner
+ :subtype [:connection]
+ :text "Use each ability on The Artist only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, lowering its cost by 1."
+ :title "The Artist"
+ :type :resource
+ :uniqueness true}

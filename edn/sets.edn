@@ -477,4 +477,18 @@
   :id "system-core-2019"
   :name "System Core 2019"
   :position 1
-  :size 147}]
+  :size 147}
+ {:code "ad"
+  :cycle-id "ashes"
+  :date-release "2019-03-18"
+  :id "downfall"
+  :name "Downfall"
+  :position 1
+  :size 65}
+ {:code "au"
+  :cycle-id "ashes"
+  :date-release nil
+  :id "uprising"
+  :name "Uprising"
+  :position 2
+  :size 65}]

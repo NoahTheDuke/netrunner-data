@@ -1,0 +1,15 @@
+[{:card-id "the-nihilist"
+  :code "26044"
+  :position 44
+  :quantity 3
+  :set-id "downfall"}
+ {:card-id "the-class-act"
+  :code "26053"
+  :position 53
+  :quantity 3
+  :set-id "downfall"}
+ {:card-id "the-artist"
+  :code "26062"
+  :position 62
+  :quantity 3
+  :set-id "downfall"}]
