@@ -20,7 +20,4 @@
     "combine" (combine-for-jnet)
     "csv" (build-from-csv)
     "json" (convert-to-json)
-    (println "You didn't choose correctly, fool."))
-  ; (catch Exception e
-  ;   (println "Import data failed:" (.getMessage e))))
-  )
+    (println "You didn't choose correctly, fool.")))

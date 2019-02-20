@@ -478,14 +478,14 @@
   :name "System Core 2019"
   :position 1
   :size 147}
- {:code "ad"
+ {:code "df"
   :cycle-id "ashes"
   :date-release "2019-03-18"
   :id "downfall"
   :name "Downfall"
   :position 1
   :size 65}
- {:code "au"
+ {:code "ur"
   :cycle-id "ashes"
   :date-release nil
   :id "uprising"

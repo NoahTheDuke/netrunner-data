@@ -1,15 +1,35 @@
-[{:card-id "the-nihilist"
+[{:card-id "nanoetching-matrix"
+  :code "26004"
+  :flavor "At the scale where nanobots cut glass, quantum mechanics dictate error. A silicon atom here, an oxygen there, an erbium out of place. Each bioroid is born unique."
+  :illustrator "Krembler"
+  :position 4
+  :quantity 3
+  :set-id "downfall"}
+ {:card-id "the-nihilist"
   :code "26044"
+  :flavor "...well, <strong>I'm</strong> laughing."
+  :illustrator "Wyn Lacabra"
   :position 44
+  :quantity 3
+  :set-id "downfall"}
+ {:card-id "lucky-charm"
+  :code "26049"
+  :flavor "Want to win a coinflip? Use one with two heads."
+  :illustrator "Elizaveta Sokolova"
+  :position 49
   :quantity 3
   :set-id "downfall"}
  {:card-id "the-class-act"
   :code "26053"
+  :flavor "...but I am without compare."
+  :illustrator "Wyn Lacabra"
   :position 53
   :quantity 3
   :set-id "downfall"}
  {:card-id "the-artist"
   :code "26062"
+  :flavor "...then let me paint you a picture."
+  :illustrator "Wyn Lacabra"
   :position 62
   :quantity 3
   :set-id "downfall"}]

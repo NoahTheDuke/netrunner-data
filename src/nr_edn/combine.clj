@@ -176,6 +176,31 @@
          (map link-previous-versions)
          cards->map)))
 
+(defn combine-for-jnet
+  []
+  (let [
+        mwls (load-data "mwls" {:id :code})
+        sides (load-data "sides")
+        factions (load-data "factions")
+        types (load-data "types")
+        subtypes (load-data "subtypes")
+        formats (load-data "formats")
+        cycles (load-data "cycles")
+        sets (load-sets cycles)
+        cards (load-cards sides factions types subtypes sets formats mwls)
+        promos (read-edn-file "edn/promos.edn")
+        ]
+    (print "Writing edn/raw_data.edn...")
+    (spit (io/file "edn" "raw_data.edn")
+          (sorted-map
+            :cycles (vals->vec :position cycles)
+            :sets (vals->vec :position sets)
+            :cards (vals->vec :code cards)
+            :formats (vals->vec :date-release formats)
+            :mwls (vals->vec :date-start mwls)
+            :promos promos))
+    (println "Done!")))
+
 (defn build-system-core-2019
   [[title cards]]
   (when (= "System Core 2019" (:setname (last cards)))
@@ -202,12 +227,21 @@
       "neutral-runner")
     (:faction card)))
 
+(defn get-json-influence-limit
+  [card]
+  (or (:influence-limit card)
+      (when (= :identity (:type card)) "null")
+      nil))
+
 (defn get-json-strength
   [card]
   (or (:strength card)
-      (case (:type card)
-        (:ice :program) "null"
-        nil)))
+      (when (= :ice (:type card))
+        "null")
+      (when (and (= :program (:type card))
+                 (some #{:icebreaker} (:subtype card)))
+        "null")
+      nil))
 
 (defn get-json-mwl
   [cards mwls]
@@ -217,6 +251,21 @@
                  (into {}
                        (for [[k v] (:cards m)]
                          [(:code (get cards k)) v]))))))
+
+(defn get-json-code
+  [cy]
+  (case (:code cy)
+    "revised-core" "core2"
+    "napd-multiplayer" "napd"
+    "system-core-2019" "sc19"
+    (:code cy)))
+
+(defn get-json-name
+  [cy]
+  (case (:name cy)
+    "Core" "Core Set"
+    "Revised Core" "Revised Core Set"
+    (:name cy)))
 
 (defn convert-to-json
   []
@@ -234,84 +283,84 @@
         cards (merge-sets-and-cards set-cards raw-cards)
         card->formats (generate-formats sets cards formats mwls)
         mwls (get-json-mwl (cards->map :card-id cards) mwls)
+        pretty {:pretty {:indentation 4
+                         :indent-arrays? true
+                         :object-field-value-separator ": "}}
         ]
     (io/make-parents "json/pack/temp")
 
-    ; (doseq [[path group k] [["cycles" cycles :position]
-    ;                     ["factions" factions :code]
-    ;                     ["mwl" mwls :date-release]
-    ;                     ["packs" sets :code]
-    ;                     ["sides" sides :code]
-    ;                     ["types" types :position]]]
-    ;   (spit (io/file "json" (str path ".json"))
-    ;         (json/generate-string
-    ;           (->> group vals (sort-by k))
-    ;           {:pretty true})))
+    ;; cycles.json
+    (->> (for [[k cy] cycles]
+           {:code (get-json-code cy)
+            :name (get-json-name cy)
+            :position (:position cy)
+            :rotated (:rotated cy)
+            :size (:size cy)})
+         (sort-by :position)
+         (map #(into (sorted-map) %))
+         (#(json/generate-string % pretty))
+         (#(str % "\n"))
+         (spit (io/file "json" "cycles.json")))
 
-    (->> (for [card cards
-               :let [s (get sets (:set-id card))]]
-           {:advancement_cost (:advancement-requirement card)
-            :agenda_points (:agenda-points card)
-            :base_link (:base-link card)
-            :code (:code card)
-            :cost (get-json-cost card)
-            :deck_limit (:deck-limit card)
-            :faction_code (get-json-faction card)
-            :faction_cost (:influence-value card)
-            :flavor (:flavor card)
-            :illustrator (:illustrator card)
-            :influence_limit (:influence-limit card)
-            :keywords (when (seq (:subtype card))
-                        (string/join " - " (map #(:name (get subtypes %)) (:subtype card))))
-            :memory_cost (:memory-cost card)
-            :minimum_deck_size (:minimum-deck-size card)
-            :pack_code (:code s)
-            :position (:position card)
-            :quantity (:quantity card)
-            :setname (:name s)
-            :side_code (:side card)
-            :strength (get-json-strength card)
-            :text (:text card)
-            :title (:title card)
-            :trash_cost (:trash-cost card)
-            :type_code (:type card)
-            :uniqueness (:uniqueness card)})
+    ;; packs.json
+    (->> (for [[k s] sets]
+           {:code (:code s)
+            :cycle_code (get-json-code {:code (:cycle_code s)})
+            :date_release (:date-release s)
+            :ffg_id (:ffg-id s)
+            :name (:name s)
+            :position (:position s)
+            :size (:size s)})
          (sort-by :code)
-         (group-by :title)
-         (map build-system-core-2019)
-         (map prune-null-fields)
-         (map #(dissoc % :setname))
-         (filter identity)
-         (map (fn [card]
-                (if-let [pairs (seq (flatten (for [[k v] card :when (= v "null")] [k nil])))]
-                  (apply assoc card pairs)
-                  card)))
-         (sort-by :code)
-         (#(json/generate-string % {:pretty true}))
-         (spit (io/file "json" "pack" "sc19.json"))
-         )))
+         (map #(into (sorted-map) %))
+         (#(json/generate-string % pretty))
+         (#(str % "\n"))
+         (spit (io/file "json" "packs.json")))
 
-(defn combine-for-jnet
-  []
-  (let [
-        mwls (load-data "mwls" {:id :code})
-        sides (load-data "sides")
-        factions (load-data "factions")
-        types (load-data "types")
-        subtypes (load-data "subtypes")
-        formats (load-data "formats")
-        cycles (load-data "cycles")
-        sets (load-sets cycles)
-        cards (load-cards sides factions types subtypes sets formats mwls)
-        promos (read-edn-file "edn/promos.edn")
-        ]
-    (print "Writing edn/raw_data.edn...")
-    (spit (io/file "edn" "raw_data.edn")
-          (sorted-map
-            :cycles (vals->vec :position cycles)
-            :sets (vals->vec :position sets)
-            :cards (vals->vec :code cards)
-            :formats (vals->vec :date-release formats)
-            :mwls (vals->vec :date-start mwls)
-            :promos promos))
-    (println "Done!")))
+    ;; pack/*.json
+    (let [packs
+          (->> (for [card cards
+                     :let [s (get sets (:set-id card))]]
+                 {:advancement_cost (:advancement-requirement card)
+                  :agenda_points (:agenda-points card)
+                  :base_link (:base-link card)
+                  :code (:code card)
+                  :cost (get-json-cost card)
+                  :deck_limit (:deck-limit card)
+                  :faction_code (get-json-faction card)
+                  :faction_cost (:influence-value card)
+                  :flavor (:flavor card)
+                  :illustrator (:illustrator card)
+                  :influence_limit (get-json-influence-limit card)
+                  :keywords (when (seq (:subtype card))
+                              (string/join " - " (map #(:name (get subtypes %)) (:subtype card))))
+                  :memory_cost (:memory-cost card)
+                  :minimum_deck_size (:minimum-deck-size card)
+                  :pack_code (:code s)
+                  :position (:position card)
+                  :quantity (:quantity card)
+                  :setname (:name s)
+                  :side_code (:side card)
+                  :strength (get-json-strength card)
+                  :text (:text card)
+                  :title (:title card)
+                  :trash_cost (:trash-cost card)
+                  :type_code (:type card)
+                  :uniqueness (:uniqueness card)})
+               (sort-by :code)
+               (map prune-null-fields)
+               (filter identity)
+               (map (fn [card]
+                      (if-let [pairs (seq (flatten (for [[k v] card :when (= v "null")] [k nil])))]
+                        (apply assoc card pairs)
+                        card)))
+               (sort-by :code)
+               (group-by :setname))]
+      (doseq [[k pack] packs]
+        (->> pack
+             (map #(dissoc % :setname))
+             (map #(into (sorted-map) %))
+             ; (into (sorted-map))
+             (#(json/generate-string % pretty))
+             (#(str % "\n"))
+             (spit (io/file "json" "pack" (str (:pack_code (first pack)) ".json"))))))))

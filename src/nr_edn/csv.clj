@@ -11,6 +11,19 @@
   [v]
   (keyword (slugify v)))
 
+(defn add-fields
+  [card]
+  (assoc card
+         :id (slugify (:title card))
+         :faction (if (= :neutral (:faction card))
+                    (if (= :corp (:side card))
+                      :neutral-corp
+                      :neutral-runner)
+                    (:faction card))
+         :deck-limit (when-not (= :identity (:type card))
+                       (or (:deck-limit card)
+                           3))))
+
 (defn build-cards
   [path]
   (->> (sc/slurp-csv path
@@ -35,7 +48,7 @@
                                 :trash-cost sc/->int
                                 :type key-slug
                                 :uniqueness (fn [v] (= "TRUE" v))})
-       (map #(assoc % :id (slugify (:title %))))
+       (map add-fields)
        (map prune-null-fields)))
 
 (defn build-set-cards
@@ -44,11 +57,12 @@
          {:card-id (:id card)
           :code (str (+ code-num (:position card)))
           :position (:position card)
-          :quantity (:quantity card)
+          :quantity (or (:quantity card) 3)
           :set-id (slugify
                     (str set-name
                          (if (>= 65 (:position card))
-                           1 2)))})
+                           "Downfall"
+                           "Uprising")))})
        (sort-by :code)
        (group-by :set-id)))
 
@@ -56,8 +70,10 @@
   []
   (let [
         code-num 26000
-        set-name "Set "
-        cards (build-cards "cards.csv")
+        set-name "Ashes: "
+        _ (println "Building cards")
+        cards (build-cards "ashes.csv")
+        _ (println "Building set-cards")
         set-cards (build-set-cards cards code-num set-name)
         ]
 
@@ -67,10 +83,13 @@
              :force-nl? true}
        :width 1000})
 
+    (println "Writing set-cards")
     (doseq [[title s] set-cards]
       (spit (str "edn/set-cards/" title ".edn")
-            (zp/zprint-str (into [] s))))
+            (str (zp/zprint-str (into [] s)) "\n")))
 
-    (doseq [card (map #(dissoc % :position) cards)]
-      (spit (str "edn/cards/" (:id card) ".edn")
-            (zp/zprint-str card)))))
+    (println "Writing cards")
+    (doseq [card (map #(dissoc % :position) cards)
+            :when (:quantity card)]
+      (spit (str "edn/cards/ashes-" (:id card) ".edn")
+            (str (zp/zprint-str card) "\n")))))
