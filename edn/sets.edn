@@ -481,6 +481,7 @@
  {:code "df"
   :cycle-id "ashes"
   :date-release "2019-03-18"
+  :ffg-id nil
   :id "downfall"
   :name "Downfall"
   :position 1
@@ -488,6 +489,7 @@
  {:code "ur"
   :cycle-id "ashes"
   :date-release nil
+  :ffg-id nil
   :id "uprising"
   :name "Uprising"
   :position 2

@@ -1,503 +1,649 @@
 [{:card-id "reina-roja-freedom-fighter"
   :code "25001"
+  :flavor "\"Analyzing the board won't help. Your mistake was thinking we're playing the same game.\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25001.png"
   :position 1
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "quetzal-free-spirit"
   :code "25002"
+  :flavor "\"Why should we be slaves to our genetic heritage?\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25002.png"
   :position 2
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "queen-s-gambit"
   :code "25003"
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25003.png"
   :position 3
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "quest-completed"
   :code "25004"
+  :flavor "That moment of bliss. That feeling of accomplishment. That certainty of purpose.\nWhat's next?"
+  :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/25004.png"
   :position 4
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "retrieval-run"
   :code "25005"
+  :illustrator "Outland Entertainment LLC"
   :image-url "https://netrunnerdb.com/card_image/25005.png"
   :position 5
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "run-amok"
   :code "25006"
+  :flavor "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy"
+  :illustrator "RC Torres"
   :image-url "https://netrunnerdb.com/card_image/25006.png"
   :position 6
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "stimhack"
   :code "25007"
+  :illustrator "Andreas Zafiratos"
   :image-url "https://netrunnerdb.com/card_image/25007.png"
   :position 7
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "cyberfeeder"
   :code "25008"
+  :flavor "I feel almost naked without it"
+  :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/25008.png"
   :position 8
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "patchwork"
   :code "25009"
+  :illustrator "Simon Boxer"
   :image-url "https://netrunnerdb.com/card_image/25009.png"
   :position 9
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "corroder"
   :code "25010"
+  :flavor "\"If at first you don't succeed, boost its strength and try again.\" -g00ru"
+  :illustrator "Mike Nesbitt"
   :image-url "https://netrunnerdb.com/card_image/25010.png"
   :position 10
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "datasucker"
   :code "25011"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25011.png"
   :position 11
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "force-of-nature"
   :code "25012"
+  :flavor "It always strikes twice."
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25012.png"
   :position 12
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "imp"
   :code "25013"
+  :flavor "Something wicked this way comes."
+  :illustrator "Wen Xiaodong"
   :image-url "https://netrunnerdb.com/card_image/25013.png"
   :position 13
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "lamprey"
   :code "25014"
+  :illustrator "Smirtouille"
   :image-url "https://netrunnerdb.com/card_image/25014.png"
   :position 14
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "mimic"
   :code "25015"
+  :flavor "November 5th: the day when all would see the corrupt machinations of the corporate oligarchy."
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25015.png"
   :position 15
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "ice-carver"
   :code "25016"
+  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25016.png"
   :position 16
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "liberated-account"
   :code "25017"
+  :flavor "It's easier to spend when it's not your money."
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25017.png"
   :position 17
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "scrubber"
   :code "25018"
+  :flavor "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly"
+  :illustrator "Kate Laird"
   :image-url "https://netrunnerdb.com/card_image/25018.png"
   :position 18
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "xanadu"
   :code "25019"
+  :flavor "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge"
+  :illustrator "Andrew Mar"
   :image-url "https://netrunnerdb.com/card_image/25019.png"
   :position 19
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "gabriel-santiago-consummate-professional"
   :code "25020"
+  :flavor "\"Of course I steal from the rich. They're the ones with all the money.\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25020.png"
   :position 20
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "leela-patel-trained-pragmatist"
   :code "25021"
+  :flavor "\"I'd say I do it for the challenge, but the truth is it's not that hard.\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25021.png"
   :position 21
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "career-fair"
   :code "25022"
+  :flavor "\"You can help Jinteki shape the future. Your future.\""
+  :illustrator "Dmitry Prosvirnin"
   :image-url "https://netrunnerdb.com/card_image/25022.png"
   :position 22
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "easy-mark"
   :code "25023"
+  :flavor "\"Hey kid, you fire that up now, bound to be vamped real bad. Some real pathetic individuals around here. But thankfully I got just the ticket…\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25023.png"
   :position 23
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "emergency-shutdown"
   :code "25024"
+  :flavor "\"Think of it as a virtual shock collar for punishing corporate pets.\" -Andromeda"
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25024.png"
   :position 24
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hostage"
   :code "25025"
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25025.png"
   :position 25
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "inside-job"
   :code "25026"
+  :flavor "\"Hey, listen, I'm not asking you to do anything dangerous. Just let me into the building. And tell me which room has the weakest security. And please don't say 'the bathroom' again.\""
+  :illustrator "Clark Huggins"
   :image-url "https://netrunnerdb.com/card_image/25026.png"
   :position 26
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "legwork"
   :code "25027"
+  :flavor "\"I work by referral only, with an up-front fee. The fee is reasonable if you value results.\" -Silhouette"
+  :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/25027.png"
   :position 27
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "networking"
   :code "25028"
+  :flavor "She preferred to do business in a club. Something about the lights and dancers clouded the judgment of the corporate simpletons she met there."
+  :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/25028.png"
   :position 28
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "spear-phishing"
   :code "25029"
+  :flavor "Targeted attacks make system breaches so much easier, especially if you can spoof an authorized user."
+  :illustrator "Andreas Zafiratos"
   :image-url "https://netrunnerdb.com/card_image/25029.png"
   :position 29
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "special-order"
   :code "25030"
+  :flavor "Feverishly tracking its frustratingly slow progress across the Pacific, the package finally shows up hours later…"
+  :illustrator "Steve Hamilton"
   :image-url "https://netrunnerdb.com/card_image/25030.png"
   :position 30
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "hq-interface"
   :code "25031"
+  :flavor "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments."
+  :illustrator "Robert Chew"
   :image-url "https://netrunnerdb.com/card_image/25031.png"
   :position 31
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "paragon"
   :code "25032"
+  :illustrator "Martin Diego Sádaba"
   :image-url "https://netrunnerdb.com/card_image/25032.png"
   :position 32
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "abagnale"
   :code "25033"
+  :flavor "\"Technology breeds crime.\""
+  :illustrator "BalanceSheet"
   :image-url "https://netrunnerdb.com/card_image/25033.png"
   :position 33
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "demara"
   :code "25034"
+  :flavor "\"It's a matter of 'acquiring' the right credentials.\""
+  :illustrator "Mariusz Siergiejew"
   :image-url "https://netrunnerdb.com/card_image/25034.png"
   :position 34
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "faerie"
   :code "25035"
+  :flavor "Do you believe in faeries?"
+  :illustrator "Sara K. Diesel"
   :image-url "https://netrunnerdb.com/card_image/25035.png"
   :position 35
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "femme-fatale"
   :code "25036"
+  :illustrator "Anna Christenson"
   :image-url "https://netrunnerdb.com/card_image/25036.png"
   :position 36
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "sneakdoor-beta"
   :code "25037"
+  :flavor "\"The code isn't important. It's where the code takes you that is important.\" -g00ru"
+  :illustrator "Andrew Mar"
   :image-url "https://netrunnerdb.com/card_image/25037.png"
   :position 37
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "bank-job"
   :code "25038"
+  :illustrator "Kate Laird"
   :image-url "https://netrunnerdb.com/card_image/25038.png"
   :position 38
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "data-dealer"
   :code "25039"
+  :flavor "Shadier the dealer, better the price. Unless the dealer's too shady. Then there might be a hidden fee after they take your scrip."
+  :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/25039.png"
   :position 39
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "chaos-theory-wunderkind"
   :code "25040"
+  :flavor "\"Have you met Dinosaurus?\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25040.png"
   :position 40
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "rielle-kit-peddler-transhuman"
   :code "25041"
+  :flavor "\"I was not; I was; I am not; I am all.\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25041.png"
   :position 41
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "diesel"
   :code "25042"
+  :flavor "Diesel gives you flames."
+  :illustrator "Tim Durning"
   :image-url "https://netrunnerdb.com/card_image/25042.png"
   :position 42
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "modded"
   :code "25043"
+  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
+  :illustrator "Kate Laird"
   :image-url "https://netrunnerdb.com/card_image/25043.png"
   :position 43
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "notoriety"
   :code "25044"
+  :flavor "When you're this good, it's hard not to grow a fan base."
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25044.png"
   :position 44
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "test-run"
   :code "25045"
+  :illustrator "Kate Laird"
   :image-url "https://netrunnerdb.com/card_image/25045.png"
   :position 45
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "the-maker-s-eye"
   :code "25046"
+  :flavor "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25046.png"
   :position 46
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "tinkering"
   :code "25047"
+  :flavor "\"There's that moment, you know, when the whole world seems to fall away and it is only you and your mod, and the mod is the world.\""
+  :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/25047.png"
   :position 47
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "akamatsu-mem-chip"
   :code "25048"
+  :flavor "The Akamatsu company was founded on three principles: first, to make the fastest mem chips on the market, second, to turn a profit, and third, to serve as a front for the manufacture of illegal neural-stimulants. It is the last principle that perhaps explains their rabid brand loyalty."
+  :illustrator "Outland Entertainment LLC"
   :image-url "https://netrunnerdb.com/card_image/25048.png"
   :position 48
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "dinosaurus"
   :code "25049"
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25049.png"
   :position 49
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "r-d-interface"
   :code "25050"
+  :flavor "Works best at your own desk."
+  :illustrator "Reza Ilyasa"
   :image-url "https://netrunnerdb.com/card_image/25050.png"
   :position 50
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "atman"
   :code "25051"
+  :flavor "We are shaped by our thoughts; we become what we think."
+  :illustrator "Diana Martinez"
   :image-url "https://netrunnerdb.com/card_image/25051.png"
   :position 51
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "battering-ram"
   :code "25052"
+  :flavor "\"It's called 'brute-forcing' and it's just as effective today as it was a hundred years ago.\" -Kate \"Mac\" McCaffrey"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25052.png"
   :position 52
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "deus-x"
   :code "25053"
+  :flavor "Didn't see that coming."
+  :illustrator "Andrew Mar"
   :image-url "https://netrunnerdb.com/card_image/25053.png"
   :position 53
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "gordian-blade"
   :code "25054"
+  :flavor "It can slice through the thickest knots of data."
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25054.png"
   :position 54
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "pipeline"
   :code "25055"
+  :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/25055.png"
   :position 55
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "aesop-s-pawnshop"
   :code "25056"
+  :flavor "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well."
+  :illustrator "Adam Schumpert"
   :image-url "https://netrunnerdb.com/card_image/25056.png"
   :position 56
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ice-analyzer"
   :code "25057"
+  :flavor "\"If you know the source code you can write to beat it, or just rejigger it a little and make it yours. That works, too.\" -Exile"
+  :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/25057.png"
   :position 57
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "professional-contacts"
   :code "25058"
+  :flavor "Sometimes it doesn't matter how expensive your rig is, or how many credits are in your account, or even your skill as a runner. Most of the time, a simple handshake and a name are all you need."
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25058.png"
   :position 58
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "sure-gamble"
   :code "25059"
+  :flavor "Lady Luck took the form of a hifi quantum manipulation ring that she wore on her middle finger."
+  :illustrator "Kate Niemczyk"
   :image-url "https://netrunnerdb.com/card_image/25059.png"
   :position 59
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "dirty-laundry"
   :code "25060"
+  :flavor "The data was better than she could have ever imagined. This Santiago fellow really knew what he was doing. She began to imagine the havoc she could wreak at the upcoming charity dinner…"
+  :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/25060.png"
   :position 60
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "crypsis"
   :code "25061"
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25061.png"
   :position 61
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "armitage-codebusting"
   :code "25062"
+  :flavor "Drudge work, but it pays the bills."
+  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
   :image-url "https://netrunnerdb.com/card_image/25062.png"
   :position 62
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "earthrise-hotel"
   :code "25063"
+  :illustrator "Simon Boxer"
   :image-url "https://netrunnerdb.com/card_image/25063.png"
   :position 63
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "john-masanori"
   :code "25064"
+  :flavor "\"I've been logging online with babes all day. Don't worry, the connections are clean. I guarantee it.\""
+  :illustrator "Zefanya Langkan Maega"
   :image-url "https://netrunnerdb.com/card_image/25064.png"
   :position 64
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "kati-jones"
   :code "25065"
+  :flavor "\"You aren't the only type of runner in New Angeles.\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25065.png"
   :position 65
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "haas-bioroid-stronger-together"
   :code "25066"
+  :flavor "A Different Breed of Machine."
   :image-url "https://netrunnerdb.com/card_image/25066.png"
   :position 66
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "seidr-laboratories-destiny-defined"
   :code "25067"
+  :flavor "Interweaving the Past and the Future."
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25067.png"
   :position 67
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-vitruvius"
   :code "25068"
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25068.png"
   :position 68
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "successful-field-test"
   :code "25069"
+  :illustrator "Clark Huggins"
   :image-url "https://netrunnerdb.com/card_image/25069.png"
   :position 69
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "adonis-campaign"
   :code "25070"
+  :illustrator "Mark Anthony Taduran"
   :image-url "https://netrunnerdb.com/card_image/25070.png"
   :position 70
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "aggressive-secretary"
   :code "25071"
+  :illustrator "Julian Totino Tedesco"
   :image-url "https://netrunnerdb.com/card_image/25071.png"
   :position 71
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "marilyn-campaign"
   :code "25072"
+  :illustrator "Tim Durning"
   :image-url "https://netrunnerdb.com/card_image/25072.png"
   :position 72
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "eli-1-0"
   :code "25073"
+  :flavor "\"That's against the rules. The Creators will be angry.\""
+  :illustrator "Sandara Tang"
   :image-url "https://netrunnerdb.com/card_image/25073.png"
   :position 73
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "heimdall-1-0"
   :code "25074"
+  :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."
+  :illustrator "Andreas Zafiratos"
   :image-url "https://netrunnerdb.com/card_image/25074.png"
   :position 74
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "ichi-1-0"
   :code "25075"
+  :flavor "My reputation would precede me, if any could speak of it."
+  :illustrator "Andreas Zafiratos"
   :image-url "https://netrunnerdb.com/card_image/25075.png"
   :position 75
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "rototurret"
   :code "25076"
+  :flavor "Whrrrrr!"
+  :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/25076.png"
   :position 76
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "turing"
   :code "25077"
+  :flavor "Alan Turing laid the foundation for artificial intelligence by suggesting that you could teach a computer to be human."
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25077.png"
   :position 77
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "viktor-1-0"
   :code "25078"
+  :flavor "My name is Viktor. Nice to meet you. Would you like to play a game?"
+  :illustrator "Andreas Zafiratos"
   :image-url "https://netrunnerdb.com/card_image/25078.png"
   :position 78
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "archived-memories"
   :code "25079"
+  :flavor "\"Do you think they…feel it?\""
+  :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/25079.png"
   :position 79
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "biotic-labor"
   :code "25080"
+  :flavor "\"Why of course, we have six different Haas-Bioroid models serving in a variety of positions at this branch office alone. We here at Haas-Bioroid aren't going to shy away from practicing what we preach, and we pass the savings from increased efficiency on to our valued customers.\""
+  :illustrator "Mark Anthony Taduran"
   :image-url "https://netrunnerdb.com/card_image/25080.png"
   :position 80
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "blue-level-clearance"
   :code "25081"
+  :flavor "Blue-one level clearance doesn't exist. And if it did exist, you wouldn't be cleared to know about it."
+  :illustrator "Tim Durning"
   :image-url "https://netrunnerdb.com/card_image/25081.png"
   :position 81
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ash-2x3zb9cy"
   :code "25082"
+  :flavor "\"Eyes forward please.\""
+  :illustrator "Antonio De Luca"
   :image-url "https://netrunnerdb.com/card_image/25082.png"
   :position 82
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "mason-bellamy"
   :code "25083"
+  :flavor "\"They say he is an ex-runner. I don't know if it is true, but he is chromed to the gills and seems to know all the runners' tricks.\""
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25083.png"
   :position 83
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "jinteki-personal-evolution"
   :code "25084"
+  :flavor "When You Need the Human Touch."
   :image-url "https://netrunnerdb.com/card_image/25084.png"
   :position 84
   :quantity 1
@@ -510,372 +656,475 @@
   :set-id "system-core-2019"}
  {:card-id "fetal-ai"
   :code "25086"
+  :illustrator "Eko Puteh"
   :image-url "https://netrunnerdb.com/card_image/25086.png"
   :position 86
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "nisei-mk-ii"
   :code "25087"
+  :illustrator "Alexandra Douglass"
   :image-url "https://netrunnerdb.com/card_image/25087.png"
   :position 87
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "philotic-entanglement"
   :code "25088"
+  :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/25088.png"
   :position 88
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-junebug"
   :code "25089"
+  :illustrator "Drew Whitmore"
   :image-url "https://netrunnerdb.com/card_image/25089.png"
   :position 89
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ronin"
   :code "25090"
+  :flavor "\"I will serve you…for a time.\""
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25090.png"
   :position 90
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "snare"
   :code "25091"
+  :illustrator "Alice Duke"
   :image-url "https://netrunnerdb.com/card_image/25091.png"
   :position 91
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "sundew"
   :code "25092"
+  :flavor "As beautiful as it is dangerous. And it's plenty dangerous."
+  :illustrator "Anna Ignatieva"
   :image-url "https://netrunnerdb.com/card_image/25092.png"
   :position 92
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "himitsu-bako"
   :code "25093"
+  :flavor "Himitsu-Bako is a simple ice barrier that appears as a digital puzzle box. What makes it special is the ease with which it can be uninstalled and installed in a different server, throwing up barriers in unexpected places and giving any intruder a curious feeling of déjà vu."
+  :illustrator "Andrew Mar"
   :image-url "https://netrunnerdb.com/card_image/25093.png"
   :position 93
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "lotus-field"
   :code "25094"
+  :flavor "\"Chi resonance mapping has created a whole new field of network security. It is unassailable perfection.\" -Akitaro Watanabe"
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25094.png"
   :position 94
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "neural-katana"
   :code "25095"
+  :flavor "Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.\n//Samurai included."
+  :illustrator "Isuardi Therianto"
   :image-url "https://netrunnerdb.com/card_image/25095.png"
   :position 95
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "swordsman"
   :code "25096"
+  :flavor "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail."
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25096.png"
   :position 96
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "tsurugi"
   :code "25097"
+  :flavor "\"It's ice so dangerous it has safety protocols. Think about that.\" -g00ru"
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25097.png"
   :position 97
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "wall-of-thorns"
   :code "25098"
+  :flavor "Most runners do their business in full-sim, with their rigs wired directly into their brains. The setup has a large number of advantages, with the runner able to process data and input commands far faster than a traditional meat-bound system. But it also means greater risk."
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25098.png"
   :position 98
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "yagura"
   :code "25099"
+  :flavor "The 'cyber-war' is a war of information, and in a war of information, advance warning can be as good as a killing blow. -Michael Muhama, Musings on Cybercrime"
+  :illustrator "Andrew Mar"
   :image-url "https://netrunnerdb.com/card_image/25099.png"
   :position 99
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "celebrity-gift"
   :code "25100"
+  :flavor "When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody wanted one."
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25100.png"
   :position 100
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "neural-emp"
   :code "25101"
+  :flavor "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at."
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25101.png"
   :position 101
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "trick-of-light"
   :code "25102"
+  :flavor "Smoke and mirrors optional."
+  :illustrator "Anna Ignatieva"
   :image-url "https://netrunnerdb.com/card_image/25102.png"
   :position 102
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hokusai-grid"
   :code "25103"
+  :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25103.png"
   :position 103
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "nbn-making-news"
   :code "25104"
+  :flavor "Someone is Always Watching."
   :image-url "https://netrunnerdb.com/card_image/25104.png"
   :position 104
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "spark-agency-worldswide-reach"
   :code "25105"
+  :flavor "We're ready to start the fire."
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25105.png"
   :position 105
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "explode-a-palooza"
   :code "25106"
+  :flavor "It's like Lethal Action 3, only with more explosions."
+  :illustrator "Mike Nesbitt"
   :image-url "https://netrunnerdb.com/card_image/25106.png"
   :position 106
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "project-beale"
   :code "25107"
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25107.png"
   :position 107
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "daily-business-show"
   :code "25108"
+  :flavor "\"A new investment deal every morning! Grab the bull by the horns and take control of your future!\""
+  :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/25108.png"
   :position 108
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "ghost-branch"
   :code "25109"
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25109.png"
   :position 109
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "marked-accounts"
   :code "25110"
+  :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/25110.png"
   :position 110
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "reversed-accounts"
   :code "25111"
+  :flavor "Making a name for yourself has its perks. But it also makes you a target."
+  :illustrator "Antonio De Luca"
   :image-url "https://netrunnerdb.com/card_image/25111.png"
   :position 111
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "data-raven"
   :code "25112"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25112.png"
   :position 112
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "flare"
   :code "25113"
+  :flavor "A bright light blossomed, and then the console went dark. That's when she smelled smoke."
+  :illustrator "Mike Nesbitt"
   :image-url "https://netrunnerdb.com/card_image/25113.png"
   :position 113
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "pop-up-window"
   :code "25114"
+  :flavor "\"Try to close it. Go on. See what it does.\" -Chaos Theory"
+  :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/25114.png"
   :position 114
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "tollbooth"
   :code "25115"
+  :flavor "\"Ever heard of a catch-22?\"\n\"Remind me to forget it.\""
+  :illustrator "Outland Entertainment LLC"
   :image-url "https://netrunnerdb.com/card_image/25115.png"
   :position 115
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "wraparound"
   :code "25116"
+  :flavor "\"It can make a real fine roller coaster, provided you're properly stimmed up.\" -Noise"
+  :illustrator "Ed Mattinian"
   :image-url "https://netrunnerdb.com/card_image/25116.png"
   :position 116
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "closed-accounts"
   :code "25117"
+  :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/25117.png"
   :position 117
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "psychographics"
   :code "25118"
+  :flavor "Access to the largest consumer database in the galaxy has its advantages."
+  :illustrator "Kate Laird"
   :image-url "https://netrunnerdb.com/card_image/25118.png"
   :position 118
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "sea-source"
   :code "25119"
+  :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
+  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
   :image-url "https://netrunnerdb.com/card_image/25119.png"
   :position 119
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "product-placement"
   :code "25120"
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25120.png"
   :position 120
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "red-herrings"
   :code "25121"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25121.png"
   :position 121
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "weyland-consortium-building-a-better-world"
   :code "25122"
+  :flavor "Moving Upwards."
   :image-url "https://netrunnerdb.com/card_image/25122.png"
   :position 122
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "blue-sun-powering-the-future"
   :code "25123"
+  :flavor "Unlimited Energy. Reasonable Prices."
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25123.png"
   :position 123
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hostile-takeover"
   :code "25124"
+  :flavor "There are going to be some changes around here."
+  :illustrator "Antonio De Luca"
   :image-url "https://netrunnerdb.com/card_image/25124.png"
   :position 124
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "oaktown-renovation"
   :code "25125"
+  :illustrator "Maciej Rebisz"
   :image-url "https://netrunnerdb.com/card_image/25125.png"
   :position 125
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-atlas"
   :code "25126"
+  :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/25126.png"
   :position 126
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "contract-killer"
   :code "25127"
+  :flavor "\"You want no questions asked, hire someone else. I have two: who and how much?\""
+  :illustrator "Clark Huggins"
   :image-url "https://netrunnerdb.com/card_image/25127.png"
   :position 127
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "elizabeth-mills"
   :code "25128"
+  :flavor "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\""
+  :illustrator "Del Borovic"
   :image-url "https://netrunnerdb.com/card_image/25128.png"
   :position 128
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "public-support"
   :code "25129"
+  :illustrator "Wenjuinn Png"
   :image-url "https://netrunnerdb.com/card_image/25129.png"
   :position 129
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "archer"
   :code "25130"
+  :flavor "Next time, read the Terms of Service more carefully. Or you might find yourself in the danger zone."
+  :illustrator "Mike Nesbitt"
   :image-url "https://netrunnerdb.com/card_image/25130.png"
   :position 130
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "caduceus"
   :code "25131"
+  :flavor "A symbol of commerce, but beware its bite."
+  :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/25131.png"
   :position 131
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "hadrian-s-wall"
   :code "25132"
+  :flavor "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25132.png"
   :position 132
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "hortum"
   :code "25133"
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25133.png"
   :position 133
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "ice-wall"
   :code "25134"
+  :flavor "\"I asked for ice as impenetrable as a wall. I can't decide if someone down in R&D has a warped sense of humor or just a very literal mind.\" -Liz Campbell, VP Project Security"
+  :illustrator "Matt Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/25134.png"
   :position 134
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "spiderweb"
   :code "25135"
+  :flavor "\"Let me tell you a secret. There's no such thing as impenetrable ice. It has to allow access, or else why is the server on the Network in the first place? But that doesn't mean they have to make it easy.\" -g00ru"
+  :illustrator "Laura Wilson"
   :image-url "https://netrunnerdb.com/card_image/25135.png"
   :position 135
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "beanstalk-royalties"
   :code "25136"
+  :flavor "The New Angeles Space Elevator, better known as the Beanstalk, is the single greatest triumph of human engineering and ingenuity in history. The Beanstalk makes Earth orbit accessible to everyone…for a small fee."
+  :illustrator "Jonathan Lee"
   :image-url "https://netrunnerdb.com/card_image/25136.png"
   :position 136
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "oversight-ai"
   :code "25137"
+  :illustrator "Mark Anthony Taduran"
   :image-url "https://netrunnerdb.com/card_image/25137.png"
   :position 137
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "punitive-counterstrike"
   :code "25138"
+  :flavor "\"I'd say it's nothing personal, but corporations are people, too.\""
+  :illustrator "Lorraine Schleter"
   :image-url "https://netrunnerdb.com/card_image/25138.png"
   :position 138
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "crisium-grid"
   :code "25139"
+  :flavor "Mars would never have been colonized if not for the Gargarin facilities at Promontorium Agarum."
+  :illustrator "Camille Kuo"
   :image-url "https://netrunnerdb.com/card_image/25139.png"
   :position 139
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "paper-trail"
   :code "25140"
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25140.png"
   :position 140
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "priority-requisition"
   :code "25141"
+  :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
+  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
   :image-url "https://netrunnerdb.com/card_image/25141.png"
   :position 141
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "pad-campaign"
   :code "25142"
+  :flavor "It is like the one you just bought, only better."
+  :illustrator "Kate Laird"
   :image-url "https://netrunnerdb.com/card_image/25142.png"
   :position 142
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "enigma"
   :code "25143"
+  :flavor "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
+  :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25143.png"
   :position 143
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "hunter"
   :code "25144"
+  :flavor ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
+  :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/25144.png"
   :position 144
   :quantity 2
   :set-id "system-core-2019"}
  {:card-id "wall-of-static"
   :code "25145"
+  :flavor "\"There's nothing worse than seeing that beautiful blue ball of data just out of reach as your connection derezzes. I think they do it just to taunt us.\" -Ele \"Smoke\" Scovak"
+  :illustrator "Adam S. Doyle"
   :image-url "https://netrunnerdb.com/card_image/25145.png"
   :position 145
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "hedge-fund"
   :code "25146"
+  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
+  :illustrator "Mark Molnar"
   :image-url "https://netrunnerdb.com/card_image/25146.png"
   :position 146
   :quantity 3
   :set-id "system-core-2019"}
  {:card-id "ipo"
   :code "25147"
+  :illustrator "Mark Molnar"
   :image-url "https://netrunnerdb.com/card_image/25147.png"
   :position 147
   :quantity 2

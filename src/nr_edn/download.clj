@@ -64,6 +64,7 @@
     "core2" "revised-core"
     "napd" "napd-multiplayer"
     "Revised Core Set" "Revised Core"
+    "sc19" "system-core-2019"
     v))
 
 (def cycle-fields
@@ -134,13 +135,16 @@
    :position identity
    :quantity identity
    :title (rename :card-id slugify)
+   :text identity
    })
 
 (defn add-set-card-fields
-  [set-map c]
+  [cards set-map c]
   (let [s (get set-map (:pack-code c))]
     (-> c
-        (dissoc :pack-code)
+        (dissoc :pack-code
+                (when (= (:text c) (:text (get cards (:card-id c))))
+                  :text))
         (assoc :image-url (get-uri c s)
                :set-id (:id s)))))
 
@@ -231,8 +235,7 @@
 
           raw-set-cards (fetch-data card-stub
                                     (:set-card tables)
-                                    (partial add-set-card-fields
-                                             (cards->map sets)))
+                                    (partial add-set-card-fields cards (cards->map sets)))
           set-cards (sort-and-group-set-cards raw-set-cards)
           _ (println "Done!")
 
@@ -273,7 +276,4 @@
         (println "Saving" path)
         (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
 
-      (println "Done!"))
-    (catch Exception e (do
-                         (println "Import data failed:" (.getMessage e))
-                         (.printStackTrace e)))))
+      (println "Done!"))))

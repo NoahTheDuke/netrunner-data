@@ -461,7 +461,8 @@
   :image-url "https://netrunnerdb.com/card_image/01060.png"
   :position 60
   :quantity 2
-  :set-id "core-set"}
+  :set-id "core-set"
+  :text "Immediately install up to 3 cards (spending no clicks but paying all install costs)."}
  {:card-id "heimdall-1-0"
   :code "01061"
   :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."
@@ -720,7 +721,8 @@
   :image-url "https://netrunnerdb.com/card_image/01094.png"
   :position 94
   :quantity 3
-  :set-id "core-set"}
+  :set-id "core-set"
+  :text "When you score Hostile takeover, gain 7[credit] and take 1 bad publicity."}
  {:card-id "posted-bounty"
   :code "01095"
   :flavor "\"If some two-cred newsy picks it up, even better. The scum could be in the alleys of Guayaquil of the slums of BosWash. Not to mention off-planet.\""
