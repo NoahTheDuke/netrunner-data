@@ -48,7 +48,7 @@
 
 (defn merge-sets-and-cards
   [set-cards raw-cards]
-  (map #(merge % (get raw-cards (:card-id %))) set-cards))
+  (map #(merge (get raw-cards (:card-id %)) %) set-cards))
 
 (defn get-cost
   [card]

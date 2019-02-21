@@ -1080,7 +1080,7 @@
         "position": 60,
         "quantity": 2,
         "side_code": "corp",
-        "text": "Install up to 3 cards from HQ (one at a time and paying all install costs).",
+        "text": "Immediately install up to 3 cards (spending no clicks but paying all install costs).",
         "title": "Shipment from MirrorMorph",
         "type_code": "operation",
         "uniqueness": false
@@ -1692,7 +1692,7 @@
         "position": 94,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you score Hostile Takeover, gain 7[credit] and take 1 bad publicity.",
+        "text": "When you score Hostile takeover, gain 7[credit] and take 1 bad publicity.",
         "title": "Hostile Takeover",
         "type_code": "agenda",
         "uniqueness": false
