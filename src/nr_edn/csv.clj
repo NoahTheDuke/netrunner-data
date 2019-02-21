@@ -3,9 +3,8 @@
             [clojure.edn :as edn]
             [semantic-csv.core :as sc]
             [zprint.core :as zp]
-            [nr-edn.combine :refer [prune-null-fields]]
             [nr-edn.download :refer [convert-subtypes]]
-            [nr-edn.utils :refer [slugify]]))
+            [nr-edn.utils :refer [slugify prune-null-fields]]))
 
 (defn key-slug
   [v]

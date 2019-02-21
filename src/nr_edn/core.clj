@@ -2,9 +2,10 @@
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
             [zprint.core :as zp]
-            [nr-edn.combine :refer [combine-for-jnet convert-to-json]]
+            [nr-edn.combine :refer [combine-for-jnet]]
             [nr-edn.download :refer [download-from-nrdb]]
-            [nr-edn.csv :refer [build-from-csv]]))
+            [nr-edn.csv :refer [build-from-csv]]
+            [nr-edn.json :refer [convert-to-json]]))
 
 (defn -main
   [& args]

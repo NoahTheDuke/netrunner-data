@@ -26,3 +26,7 @@
        (string/split s #"[\p{Space}\p{Punct}]+")
        (filter seq s)
        (string/join sep s)))))
+
+(defn prune-null-fields
+  [card]
+  (apply dissoc card (for [[k v] card :when (nil? v)] k)))
