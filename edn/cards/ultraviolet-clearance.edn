@@ -5,7 +5,7 @@
  :influence-value 4
  :side :corp
  :subtype [:transaction :triple]
- :text "As an additional cost to play this operation, spend [click][click].\nGain 10[credit] and draw 4 cards. Install 1 card (paying all costs)."
+ :text "As an additional cost to play this operation, spend [click][click].\nGain 10[credit] and draw 4 cards. You may install 1 card.\n<errata>Errata from CR 1.2</errata>"
  :title "Ultraviolet Clearance"
  :type :operation
  :uniqueness false}
