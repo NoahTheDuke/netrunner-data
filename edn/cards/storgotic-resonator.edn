@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "storgotic-resonator"
+ :influence-value 2
+ :side :corp
+ :subtype [:hostile]
+ :text "The first time each turn you trash <em>(from any location)</em> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage."
+ :title "Storgotic Resonator"
+ :trash-cost 2
+ :type :asset
+ :uniqueness true}

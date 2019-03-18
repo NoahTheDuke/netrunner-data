@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "chisel"
+ :influence-value 4
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "Install only on a piece of ice.\nHost ice has -1 strength for each hosted virus counter.\nWhen you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program."
+ :title "Chisel"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "congratulations"
+ :influence-value 2
+ :side :corp
+ :strength 3
+ :subtype [:code-gate :advertisement]
+ :text "When the Runner passes this ice, gain 1[credit].\n[subroutine]Gain 2[credit]. The Runner gains 1[credit]."
+ :title "Congratulations!"
+ :type :ice
+ :uniqueness false}

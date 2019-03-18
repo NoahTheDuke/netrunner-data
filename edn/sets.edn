@@ -485,12 +485,4 @@
   :id "downfall"
   :name "Downfall"
   :position 1
-  :size 65}
- {:code "ur"
-  :cycle-id "ashes"
-  :date-release nil
-  :ffg-id nil
-  :id "uprising"
-  :name "Uprising"
-  :position 2
   :size 65}]

@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "spec-work"
+ :influence-value 1
+ :side :runner
+ :subtype [:job]
+ :text "As an additional cost to play this event, trash an installed program.\nGain 4[credit] and draw 2 cards."
+ :title "Spec Work"
+ :type :event
+ :uniqueness false}

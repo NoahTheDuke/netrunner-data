@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "mirrormorph-endless-iteration"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "If the first, second, and third actions you take on your turn are different from each other, when the third completes, you may gain 1[credit] or take another different action, paying 1[click] less."
+ :title "MirrorMorph: Endless Iteration"
+ :type :identity
+ :uniqueness false}

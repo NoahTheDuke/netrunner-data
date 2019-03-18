@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "rime"
+ :influence-value 0
+ :side :corp
+ :strength 0
+ :subtype [:mythic]
+ :text "During runs on this server, you can rez this ice any time you could rez non-ice cards.\nEach piece of ice protecting this server has +1 strength.\n[subroutine] The Runner loses 1[credit]."
+ :title "Rime"
+ :type :ice
+ :uniqueness false}

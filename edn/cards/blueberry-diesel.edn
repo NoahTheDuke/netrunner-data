@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "blueberry-diesel"
+ :influence-value 2
+ :side :runner
+ :text "Look at the top 2 cards of your stack. You may add 1 of those cards to the bottom of your stack. Draw 2 cards."
+ :title "Blueberry!™ Diesel"
+ :type :event
+ :uniqueness false}

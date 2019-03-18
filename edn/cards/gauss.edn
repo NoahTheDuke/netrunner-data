@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "gauss"
+ :influence-value 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "When you install this program, it gets +3 strength for the remainder of the turn.\n1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +2 strength."
+ :title "Gauss"
+ :type :program
+ :uniqueness false}

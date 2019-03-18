@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "increased-drop-rates"
+ :influence-value 1
+ :side :corp
+ :subtype [:ambush]
+ :text "While the Runner is accessing this card from R&D, they must reveal it.\nWhen the Runner accesses this card, remove 1 bad publicity unless they take 1 tag."
+ :title "Increased Drop Rates"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

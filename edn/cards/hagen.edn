@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "hagen"
+ :influence-value 3
+ :side :corp
+ :strength 6
+ :subtype [:barrier :destroyer]
+ :text "This ice has -1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run."
+ :title "Hagen"
+ :type :ice
+ :uniqueness false}

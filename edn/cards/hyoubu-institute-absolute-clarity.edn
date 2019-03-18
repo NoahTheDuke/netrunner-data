@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "hyoubu-institute-absolute-clarity"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "The first time each turn you reveal a card, gain 1[credit].\n[click]: Reveal a card from the grip at random or the top card of the stack."
+ :title "Hyoubu Institute: Absolute Clarity"
+ :type :identity
+ :uniqueness false}

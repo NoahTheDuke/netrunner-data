@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "trickster-taka"
+ :influence-value 3
+ :side :runner
+ :subtype [:stealth :companion :virtual]
+ :text "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to use programs during runs.\nWhen your turn ends, if there are 3 or more hosted credits, you must take 1 tag or trash this resource."
+ :title "Trickster Taka"
+ :type :resource
+ :uniqueness true}

@@ -3,7 +3,6 @@
  :faction :shaper
  :id "the-artist"
  :influence-value 5
- :quantity 3
  :side :runner
  :subtype [:connection]
  :text "Use each ability on this resource only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, paying 1[credit] less."

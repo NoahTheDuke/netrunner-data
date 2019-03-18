@@ -1,0 +1,10 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "flip-switch"
+ :influence-value 1
+ :side :runner
+ :text "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\nWhenever a trace initiates during your turn, you may [trash] to reduce the base trace strength to 0."
+ :title "Flip Switch"
+ :type :hardware
+ :uniqueness false}

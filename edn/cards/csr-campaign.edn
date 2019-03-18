@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "csr-campaign"
+ :influence-value 0
+ :side :corp
+ :subtype [:advertisement]
+ :text "When your turn begins, you may draw 1 card."
+ :title "CSR Campaign"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

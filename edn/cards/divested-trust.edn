@@ -1,0 +1,10 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "divested-trust"
+ :side :corp
+ :text "Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5[credit] and add the stolen agenda to HQ."
+ :title "Divested Trust"
+ :type :agenda
+ :uniqueness false}

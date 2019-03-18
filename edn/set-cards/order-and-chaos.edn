@@ -194,6 +194,7 @@
   :set-id "order-and-chaos"}
  {:card-id "dedicated-technician-team"
   :code "07026"
+  :flavor "Have you tried turning it off and on again?"
   :illustrator "Crystal Ben"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN22_26.png"
   :position 26
@@ -331,7 +332,7 @@
   :code "07044"
   :flavor "A black box that makes data disappear forever."
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN22_44.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN22_44.png"
   :position 44
   :quantity 3
   :set-id "order-and-chaos"}

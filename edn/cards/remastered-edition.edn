@@ -1,0 +1,11 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "remastered-edition"
+ :side :corp
+ :subtype [:expansion]
+ :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter</strong>: Place 1 advancement token on an installed card."
+ :title "Remastered Edition"
+ :type :agenda
+ :uniqueness false}

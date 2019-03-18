@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "pelangi"
+ :influence-value 3
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "When you install this program, place 2 virus counters on it.\n<strong>Hosted virus counter</strong>: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn."
+ :title "Pelangi"
+ :type :program
+ :uniqueness false}

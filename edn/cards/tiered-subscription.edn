@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "tiered-subscription"
+ :influence-value 1
+ :side :corp
+ :subtype [:advertisement]
+ :text "The first time each turn a run begins, gain 1[credit]."
+ :title "Tiered Subscription"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

@@ -3,11 +3,9 @@
  :faction :haas-bioroid
  :id "nanoetching-matrix"
  :influence-value 2
- :quantity 3
  :side :corp
- :subtype [:bioroid]
- :text "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes Nanoetching Matrix, you may gain 2[credit]."
+ :text "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may gain 2[credit]."
  :title "Nanoetching Matrix"
- :trash-cost 2
+ :trash-cost 3
  :type :asset
  :uniqueness false}

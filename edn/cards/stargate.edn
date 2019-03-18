@@ -1,0 +1,11 @@
+{:cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "stargate"
+ :influence-value 3
+ :memory-cost 2
+ :side :runner
+ :text "[click]: Run R&D. If successful, instead of accessing cards, reveal the top 3 cards of R&D. Trash 1 of the revealed cards. Use this ability only once per turn."
+ :title "Stargate"
+ :type :program
+ :uniqueness false}
