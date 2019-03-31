@@ -781,7 +781,7 @@
   :set-id "core-set"}
  {:card-id "hadrian-s-wall"
   :code "01102"
-  :flavor "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru"
+  :flavor "\"He had a bit of an ego, ol' Hadrian. His constructs live up to it though.\" -g00ru"
   :illustrator "Bruno Balixa"
   :image-url "https://netrunnerdb.com/card_image/01102.png"
   :position 102

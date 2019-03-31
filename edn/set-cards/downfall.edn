@@ -24,7 +24,7 @@
   :set-id "downfall"}
  {:card-id "stargate"
   :code "26004"
-  :flavor "\"Net space is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.\" -z\\h/r"
+  :flavor "\"Net <strong>space</strong> is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.\" -z\\h/r"
   :illustrator "Iain Fairclough"
   :image-url "https://netrunnerdb.com/card_image/26004.png"
   :position 4
@@ -79,7 +79,7 @@
   :set-id "downfall"}
  {:card-id "always-have-a-backup-plan"
   :code "26011"
-  :flavor "\"Everyone told me she was reliable in a pinch\"\n -Az McCaffrey"
+  :flavor "\"Everyone told me she was reliable in a pinch.\"\n -Az McCaffrey"
   :illustrator "Olie Boldador"
   :image-url "https://netrunnerdb.com/card_image/26011.png"
   :position 11
@@ -103,7 +103,7 @@
   :set-id "downfall"}
  {:card-id "lucky-charm"
   :code "26014"
-  :flavor "Want to win a coinflip? Use one with two heads."
+  :flavor "Want to win a coinflip? Use a coin with two heads."
   :illustrator "Elizaveta Sokolova"
   :image-url "https://netrunnerdb.com/card_image/26014.png"
   :position 14
@@ -127,7 +127,7 @@
   :set-id "downfall"}
  {:card-id "baklan-bochkin"
   :code "26017"
-  :flavor "\"Psh, let them gossip. The cat knows whose meat it has eaten\" -\"Baklan\" Bochkin"
+  :flavor "\"Psh, let them gossip. The cat knows whose meat it has eaten.\" -\"Baklan\" Bochkin"
   :illustrator "Janet Bruesselbach"
   :image-url "https://netrunnerdb.com/card_image/26017.png"
   :position 17
@@ -221,7 +221,7 @@
   :set-id "downfall"}
  {:card-id "rejig"
   :code "26029"
-  :flavor "I didn't say your hopper should be hauling garbage. I said it should be hauled away as garbage."
+  :flavor "I didn't say your hopper should be hauling garbage. I said it should be hauled away <strong>as</strong> garbage."
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26029.png"
   :position 29
@@ -292,7 +292,7 @@
   :set-id "downfall"}
  {:card-id "cold-site-server"
   :code "26038"
-  :flavor "The Net abhors a vacuum. Any unexplained gap must be made."
+  :flavor "The Net abhors a vacuum. Any unexplained gap must be <strong>made.</strong>"
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26038.png"
   :position 38
@@ -300,7 +300,7 @@
   :set-id "downfall"}
  {:card-id "hyoubu-institute-absolute-clarity"
   :code "26039"
-  :flavor "No Stone Unturned"
+  :flavor "No Stone Unturned."
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/26039.png"
   :position 39
@@ -391,7 +391,7 @@
   :set-id "downfall"}
  {:card-id "loot-box"
   :code "26051"
-  :flavor "Though many countries attempted to regulate digital loot boxes in the early 21st century, GameNET has managed to circumvent any such laws via explicit, transparent percentage rates...and some very determined lobbyists."
+  :flavor "Though many countries attempted to regulate digital loot boxes in the early 21st century, GameNET has managed to circumvent any such laws via explicit, transparent percentage rates... and some very determined lobbyists."
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26051.png"
   :position 51
@@ -439,7 +439,7 @@
   :set-id "downfall"}
  {:card-id "roughneck-repair-squad"
   :code "26057"
-  :flavor "\"There's something about the human touch that androids will never replace\" -Mila Braun"
+  :flavor "\"There's something about the human touch that androids will never replace.\" -Mila Braun"
   :illustrator "Olie Boldador"
   :image-url "https://netrunnerdb.com/card_image/26057.png"
   :position 57

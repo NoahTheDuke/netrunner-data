@@ -1007,7 +1007,7 @@
   :set-id "system-core-2019"}
  {:card-id "hadrian-s-wall"
   :code "25132"
-  :flavor "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru"
+  :flavor "\"He had a bit of an ego, ol' Hadrian. His constructs live up to it though.\" -g00ru"
   :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25132.png"
   :position 132

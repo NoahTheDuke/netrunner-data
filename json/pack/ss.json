@@ -193,7 +193,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "The Runner may spend [click] to break any subroutine on Najja 1.0.\n[subroutine] End the run.\n\n[subroutine] End the run.",
+        "text": "The Runner may spend [click] to break any subroutine on Najja 1.0.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Najja 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -276,7 +276,7 @@
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 3,
-        "flavor": "Our patented ClearMind™ technology pacifies the trial and tribulations of everyday life.",
+        "flavor": "Our patented ClearMind™ technology pacifies the trials and tribulations of everyday life.",
         "illustrator": "Limetown Studios",
         "keywords": "Gray Ops",
         "pack_code": "ss",

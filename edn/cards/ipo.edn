@@ -5,7 +5,7 @@
  :influence-value 0
  :side :corp
  :subtype [:terminal :transaction]
- :text "After you resolve this operation, end your action phase.\n\nGain 13[credit]"
+ :text "After you resolve this operation, end your action phase.\nGain 13[credit]."
  :title "IPO"
  :type :operation
  :uniqueness false}

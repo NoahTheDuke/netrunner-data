@@ -244,10 +244,9 @@
                            (:mwl tables)
                            (partial convert-mwl
                                     (cards->map raw-set-cards)))
+          _ (println "Done!")
 
-          line-ending "\n"
-
-          _ (println "Done!")]
+          line-ending "\n"]
 
       (let [path (str "edn/cycles.edn")]
         (io/make-parents path)
@@ -271,9 +270,9 @@
         (io/make-parents path)
         (spit path (str (zp/zprint-str set-card) line-ending)))
 
-      (let [path (str "edn/mwls.edn")]
-        (io/make-parents path)
-        (println "Saving" path)
-        (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
+      ; (let [path (str "edn/mwls.edn")]
+      ;   (io/make-parents path)
+      ;   (println "Saving" path)
+      ;   (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
 
       (println "Done!"))))
