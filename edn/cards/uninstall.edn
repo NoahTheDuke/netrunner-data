@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "uninstall"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "Add an installed program or piece of hardware to your grip."
  :title "Uninstall"

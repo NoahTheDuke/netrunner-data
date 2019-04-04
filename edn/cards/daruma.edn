@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "daruma"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "When the Runner approaches this server, you may trash Daruma. If you do, swap a card installed in this server with either another card installed in a server or with an agenda, asset or upgrade from HQ."
  :title "Daruma"

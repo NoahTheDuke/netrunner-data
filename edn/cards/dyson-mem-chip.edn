@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "dyson-mem-chip"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:chip :link]
  :text "+1[mu], +1[link]"

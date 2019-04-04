@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "net-shield"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "1[credit]: Prevent the first net damage this turn."

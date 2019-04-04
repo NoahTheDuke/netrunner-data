@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "trick-of-light"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "Move up to 2 advancement tokens from a card to another installed card that can be advanced."
  :title "Trick of Light"

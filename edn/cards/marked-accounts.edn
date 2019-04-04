@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "marked-accounts"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:transaction]
  :text "When your turn begins, take 1[credit] from Marked Accounts, if able.\n[click]: Place 3[credit] from the bank on Marked Accounts."

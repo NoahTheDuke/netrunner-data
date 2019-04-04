@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "sensie-actors-union"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:political]
  :text "When your turn begins, you may draw 3 cards if there is no ice protecting this server. If you do, add 1 card from HQ to the bottom of R&D."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "tyrant"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 4
  :subtype [:barrier]

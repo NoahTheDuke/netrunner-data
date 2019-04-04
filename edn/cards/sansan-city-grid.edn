@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "sansan-city-grid"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:region]
  :text "The advancement requirement of agendas installed in this server is lowered by 1.\nLimit 1 <strong>region</strong> per server."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "reflection"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:console]
  :text " +1[mu] +1[link]\nWhenever you jack out, the Corp reveals 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player."

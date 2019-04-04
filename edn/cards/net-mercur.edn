@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "net-mercur"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:virtual :stealth]
  :text "The first time you spend at least 1[credit] from a <strong>stealth</strong> card each run, place 1[credit] on Net Mercur or draw 1 card.\nUse credits on Net Mercur for anything."

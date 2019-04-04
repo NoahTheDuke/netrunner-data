@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "interns"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nInstall a card from Archives or HQ, ignoring the install cost."

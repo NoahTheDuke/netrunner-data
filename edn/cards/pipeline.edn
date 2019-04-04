@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "pipeline"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :strength 1

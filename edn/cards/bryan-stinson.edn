@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "bryan-stinson"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:character]
  :text "While the Runner has fewer than 6[credit], Bryan Stinson gains \"[click]: Play a <strong>transaction</strong> operation from Archives, ignoring all costs. Remove that <strong>transaction</strong> from the game instead of trashing it.\""

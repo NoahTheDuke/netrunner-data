@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "khondi-plaza"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:ritzy]
  :text "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "stock-buy-back"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:terminal :transaction]
  :text "After you resolve this operation, end your action phase.\nGain 3[credit] for each agenda in the Runner's score area."

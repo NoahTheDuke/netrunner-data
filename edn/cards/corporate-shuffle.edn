@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "corporate-shuffle"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nShuffle all cards in HQ into R&D. Draw 5 cards."

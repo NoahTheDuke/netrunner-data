@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "indian-union-stock-exchange"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1[credit]."
  :title "Indian Union Stock Exchange"

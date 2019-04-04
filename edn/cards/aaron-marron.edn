@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "aaron-marron"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "Whenever an agenda is scored or stolen, place 2 power counters on Aaron Marrón.\n<strong>Hosted power counter:</strong> Remove 1 tag and draw 1 card."

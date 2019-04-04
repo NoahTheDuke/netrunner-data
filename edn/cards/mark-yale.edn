@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "mark-yale"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:executive]
  :text "Whenever you spend an agenda counter, gain 1[credit].\n[trash] or <strong>any agenda counter:</strong> Gain 2[credit]."

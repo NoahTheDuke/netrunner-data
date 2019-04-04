@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :adam
  :id "multithreader"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "2[recurring-credit]\nUse these credits to pay for using programs."

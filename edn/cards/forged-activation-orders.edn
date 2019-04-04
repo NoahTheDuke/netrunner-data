@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "forged-activation-orders"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:sabotage]
  :text "Choose an unrezzed piece of ice. The Corp must either rez that ice or trash it."

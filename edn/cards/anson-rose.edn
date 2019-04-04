@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "anson-rose"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:executive]
  :text "When your turn begins, place 1 advancement token on Anson Rose.\nWhenever you rez a piece of ice, you may move any number of advancement tokens from Anson Rose to that ice."

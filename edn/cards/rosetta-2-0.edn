@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "rosetta-2-0"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:virtual]
  :text "[click], <strong>remove an installed program from the game</strong>: Search your stack for a non-<strong>virus</strong> program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game."

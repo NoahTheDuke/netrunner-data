@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "violet-level-clearance"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:terminal :transaction]
  :text "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards."

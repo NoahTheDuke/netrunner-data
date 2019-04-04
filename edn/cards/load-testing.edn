@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "load-testing"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :text "When the Runner's next turn begins, he or she loses [click]."
  :title "Load Testing"

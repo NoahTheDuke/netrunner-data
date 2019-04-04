@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "closed-accounts"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nThe Runner loses all credits in his or her credit pool."

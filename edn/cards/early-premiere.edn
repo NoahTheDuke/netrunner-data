@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "early-premiere"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "When your turn begins, you may pay 1[credit]. If you do, place 1 advancement token on a card that can be advanced in a server."
  :title "Early Premiere"

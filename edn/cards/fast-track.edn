@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "fast-track"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D."
  :title "Fast Track"

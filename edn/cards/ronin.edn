@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "ronin"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :subtype [:hostile]
  :text "Ronin can be advanced.\nIf there are at least 4 advancement tokens on Ronin, it gains \"[click], [trash]: Do 3 net damage.\""

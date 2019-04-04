@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "doppelganger"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:console]
  :text "+1[mu]\nOnce per turn, you may immediately make another run when a successful run ends.\nLimit 1 <strong>console</strong> per player."

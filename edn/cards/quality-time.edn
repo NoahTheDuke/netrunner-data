@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "quality-time"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Draw 5 cards."
  :title "Quality Time"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "same-old-thing"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "[click], [click], [trash]: Play an event from your heap (paying its play cost)."
  :title "Same Old Thing"

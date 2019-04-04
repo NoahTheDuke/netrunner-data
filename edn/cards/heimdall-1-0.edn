@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "heimdall-1-0"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 6
  :subtype [:barrier :bioroid :ap]

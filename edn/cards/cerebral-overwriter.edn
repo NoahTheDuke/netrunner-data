@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "cerebral-overwriter"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:ambush]
  :text "Cerebral Overwriter can be advanced.\nIf you pay 3[credit] when the Runner accesses Cerebral Overwriter, do 1 brain damage for each advancement token on Cerebral Overwriter."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "signal-jamming"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "[trash]: Cards cannot be installed until the end of the run. Use this ability only during a run on this server."
  :title "Signal Jamming"

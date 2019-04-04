@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :apex
  :id "harbinger"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 0
  :side :runner
  :text "When Harbinger is trashed, install it facedown instead of adding it to your heap."

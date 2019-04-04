@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "cybsoft-macrodrive"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "1[recurring-credit]\nUse this credit to install programs."
  :title "Cybsoft MacroDrive"

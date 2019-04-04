@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "demolition-run"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run :sabotage]
  :text "Run HQ or R&D. During that run, you may pay 0[credit] to trash any card you are accessing (even if it has no trash cost).\n<errata>Errata from CR 1.2</errata>"

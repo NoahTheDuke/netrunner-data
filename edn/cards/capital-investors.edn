@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "capital-investors"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "[click]: Gain 2[credit]."
  :title "Capital Investors"

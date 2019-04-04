@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "isabel-mcguire"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:executive]
  :text "[click]: Add 1 of your installed cards to HQ."

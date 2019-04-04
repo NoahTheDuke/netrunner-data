@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "rip-deal"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:run]
  :text "Make a run on HQ. If successful, when you would access any number of cards from HQ, you may instead add that many cards from your heap to your grip. Remove Rip Deal from the game instead of trashing it."

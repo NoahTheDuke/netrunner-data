@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "inside-job"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:run]
  :text "Make a run. Bypass the first piece of ice encountered during this run."

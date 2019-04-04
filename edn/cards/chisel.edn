@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "chisel"
- :influence-value 4
+ :influence-cost 4
  :memory-cost 1
  :side :runner
  :subtype [:virus]

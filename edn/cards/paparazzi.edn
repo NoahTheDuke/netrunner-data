@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "paparazzi"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "You are tagged.\nPrevent all meat damage."
  :title "Paparazzi"

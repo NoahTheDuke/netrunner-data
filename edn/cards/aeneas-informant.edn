@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "aeneas-informant"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1[credit]."

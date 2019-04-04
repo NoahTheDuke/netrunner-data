@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "game-day"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nIf you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size."

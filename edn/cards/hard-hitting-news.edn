@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "hard-hitting-news"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:terminal]
  :text "After you resolve this operation, end your action phase.\nPlay only if the Runner made a run during his or her last turn.\n<trace>Trace 4</trace> If successful, give the Runner 4 tags."

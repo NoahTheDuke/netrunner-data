@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "yusuf"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 2
  :side :runner
  :strength 3

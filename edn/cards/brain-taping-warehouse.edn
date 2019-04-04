@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "brain-taping-warehouse"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:facility]
  :text "The rez cost of <strong>bioroid</strong> ice is lowered by 1 for each unspent click the Runner has."

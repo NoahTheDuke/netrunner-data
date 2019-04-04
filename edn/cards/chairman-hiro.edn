@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "chairman-hiro"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:executive]
  :text "The Runner's maximum hand size is reduced by 2.\nIf Chairman Hiro is trashed while being accessed, add him to the Runner's score area as an agenda worth 2 agenda points."

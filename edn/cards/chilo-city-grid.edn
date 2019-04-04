@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "chilo-city-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "Whenever there is a successful trace during a run on this server, give the Runner 1 tag.\nLimit 1 <strong>region</strong> per server."

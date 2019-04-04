@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "off-the-grid"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "Install only in a remote server.\nThe Runner cannot initiate a run on this server.\nWhenever the Runner makes a successful run on HQ, trash Off the Grid."
  :title "Off the Grid"

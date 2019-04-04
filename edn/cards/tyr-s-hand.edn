@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "tyr-s-hand"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:hostile]
  :text "If the Runner is about to break a subroutine on a piece of <strong>bioroid</strong> ice protecting this server, you may rez Tyr's Hand.\n[trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server."

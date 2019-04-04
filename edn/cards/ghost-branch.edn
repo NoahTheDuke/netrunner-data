@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "ghost-branch"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:ambush :facility]
  :text "Ghost Branch can be advanced.\nWhen the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch."

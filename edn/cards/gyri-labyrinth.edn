@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "gyri-labyrinth"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 2
  :subtype [:code-gate]

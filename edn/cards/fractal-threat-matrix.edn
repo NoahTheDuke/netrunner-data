@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "fractal-threat-matrix"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:security-protocol]
  :text "Each time all the subroutines are broken on a piece of ice protecting this server, trash the top 2 cards of the stack."

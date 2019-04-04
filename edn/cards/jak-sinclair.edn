@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :sunny-lebeau
  :id "jak-sinclair"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "Reduce the cost to install Jak Sinclair by 1 for each [link] you have.\nWhen your turn begins, you may make a run. You cannot use programs during this run."

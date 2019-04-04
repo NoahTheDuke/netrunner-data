@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "chatterjee-university"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:location :ritzy]
  :text "[click]: Place 1 power counter on Chatterjee University.\n[click]: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter."

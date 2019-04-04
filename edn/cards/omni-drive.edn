@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "omni-drive"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:gear]
  :text "Omni-drive can host a single program of 1[mu] or less. The memory cost of the hosted program does not count against your memory limit.\n1[recurring-credit]\nUse this credit to pay for using the hosted program."

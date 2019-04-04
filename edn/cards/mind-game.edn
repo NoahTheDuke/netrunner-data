@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "mind-game"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 4
  :subtype [:code-gate :psi :deflector]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "kyuban"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "Install Kyuban only on a piece of ice.\nGain 2[credit] whenever you pass host ice."

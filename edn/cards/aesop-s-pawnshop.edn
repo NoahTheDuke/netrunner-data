@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "aesop-s-pawnshop"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:location :connection]
  :text "When your turn begins, you may trash another of your installed cards to gain 3[credit]."

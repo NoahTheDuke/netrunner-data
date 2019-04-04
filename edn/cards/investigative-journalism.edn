@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "investigative-journalism"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Install only if the Corp has at least 1 bad publicity.\n[click],[click],[click],[click],[trash]: Give the Corp 1 bad publicity."
  :title "Investigative Journalism"

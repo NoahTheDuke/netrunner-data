@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "comet"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:console]
  :text "+1[mu]\nThe first time you play an event each turn, you may play another event (without spending a click) after the first one resolves.\nLimit 1 <strong>console</strong> per player."

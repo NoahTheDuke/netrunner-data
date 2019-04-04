@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "hatchet-job"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:double :gray-ops]
  :text "As an additional cost to play this operation, spend [click].\n<trace>Trace 5</trace> If successful, add an installed non-<strong>virtual</strong> card to the Runner's grip."

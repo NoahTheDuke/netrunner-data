@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "career-fair"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Install a resource from your grip, lowering the install cost by 3."
  :title "Career Fair"

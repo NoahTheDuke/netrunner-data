@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "muertos-gang-member"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "When you install Muertos Gang Member, the Corp must derez a card.\nWhen Muertos Gang Member is uninstalled, the Corp may rez a card, ignoring the rez cost.\n[trash]: Draw 1 card."

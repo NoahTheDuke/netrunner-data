@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "trojan-horse"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:gray-ops]
  :text "Play only if the Runner accessed at least 1 card during his or her last turn.\n<trace>Trace 4</trace> If successful, trash 1 installed program with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength."

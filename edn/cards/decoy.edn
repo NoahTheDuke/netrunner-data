@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "decoy"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "[trash]: Avoid receiving 1 tag."

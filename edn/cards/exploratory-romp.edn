@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "exploratory-romp"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Make a run. If successful, instead of accessing cards, remove up to 3 advancement tokens from a single card in or protecting the attacked server."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "celebrity-gift"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nReveal up to 5 cards in HQ to the Runner. Gain 2[credit] for each card revealed."

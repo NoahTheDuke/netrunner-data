@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "maxwell-james"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "+1[link]\n[trash]: Derez a piece of ice protecting a remote server. Use this ability only during the next paid ability window after a successful run on HQ ends.\n<errata>Errata from FAQ 4.2</errata>."

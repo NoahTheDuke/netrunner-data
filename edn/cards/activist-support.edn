@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "activist-support"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "When the Corp turn begins, take 1 tag if you have no tags.\nWhen your turn begins, give the Corp 1 bad publicity if he or she has no bad publicity."
  :title "Activist Support"

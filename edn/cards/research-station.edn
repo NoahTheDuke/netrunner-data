@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "research-station"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:facility]
  :text "Install only in the root of HQ.\nYour maximum hand size is +2."

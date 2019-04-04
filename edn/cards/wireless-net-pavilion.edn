@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "wireless-net-pavilion"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:location]
  :text "As an additional cost to spend [click] to trash a resource (not through a card ability), the Corp must pay 2[credit].\n<errata>Errata from FAQ 3.0.1</errata>"

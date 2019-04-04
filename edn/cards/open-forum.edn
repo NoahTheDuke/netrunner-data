@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "open-forum"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "After your mandatory draw, reveal the top card of R&D and add it to HQ. Add 1 card from HQ to the top of R&D."
  :title "Open Forum"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "kraken"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "Play only if you stole an agenda this turn.\nChoose a server. The Corp trashes 1 piece of ice protecting that server."
  :title "Kraken"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "archives-interface"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Whenever you access cards in Archives, you may remove 1 card in Archives from the game, instead of accessing it."
  :title "Archives Interface"

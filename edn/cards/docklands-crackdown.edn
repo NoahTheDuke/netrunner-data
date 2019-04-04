@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "docklands-crackdown"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "[click], [click]: Place 1 power counter on Docklands Crackdown.\nThe install cost of the first card the Runner installs each turn is increased by 1 for each power counter on Docklands Crackdown."
  :title "Docklands Crackdown"

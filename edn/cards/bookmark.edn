@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "bookmark"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "[click]: Host up to 3 cards from your grip facedown on Bookmark (you may look at these cards at any time).\n[click] or [trash]: Add all cards on Bookmark to your grip."
  :title "Bookmark"

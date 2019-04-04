@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "clan-vengeance"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:clan]
  :text "Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance.\n[trash]: Trash 1 card from HQ at random for each power counter on Clan Vengeance."

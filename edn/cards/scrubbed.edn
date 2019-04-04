@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "scrubbed"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first piece of ice encountered each turn has -2 strength for the remainder of the run."

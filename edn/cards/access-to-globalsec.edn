@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "access-to-globalsec"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:link]
  :text "+1[link]"

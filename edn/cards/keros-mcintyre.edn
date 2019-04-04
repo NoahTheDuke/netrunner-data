@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "keros-mcintyre"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:connection]
  :text "The first time you derez a piece of ice each turn, gain 2[credit]."

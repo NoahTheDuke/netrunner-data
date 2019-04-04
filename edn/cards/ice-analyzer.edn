@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "ice-analyzer"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:virtual]
  :text "Whenever the Corp rezzes a piece of ice, place 1[credit] on Ice Analyzer.\nYou may use credits on Ice Analyzer to install programs."

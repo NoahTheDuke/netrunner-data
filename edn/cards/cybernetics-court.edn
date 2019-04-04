@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "cybernetics-court"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:facility :ritzy]
  :text "Your maximum hand size is increased by 4."

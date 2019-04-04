@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "project-junebug"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:ambush :research]
  :text "Project Junebug can be advanced.\nIf you pay 1[credit] when the Runner accesses Project Junebug, do 2 net damage for each advancement token on Project Junebug."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "panic-button"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Install only in the root of HQ.\n1[credit]: Draw 1 card. Use this ability only during a run on HQ."
  :title "Panic Button"

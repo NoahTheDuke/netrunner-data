@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "tech-trader"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "Whenever you use a [trash] ability, gain 1[credit]."

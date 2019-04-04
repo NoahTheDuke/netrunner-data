@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "sacrificial-construct"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:remote]
  :text "[trash]: Prevent an installed program or an installed piece of hardware from being trashed."

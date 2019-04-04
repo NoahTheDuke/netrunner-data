@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "tenma-line"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:clone]
  :text "[click]: Swap 2 pieces of installed ice."

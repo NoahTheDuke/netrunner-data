@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "ghost-runner"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:stealth :virtual]
  :text "Place 3[credit] on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.\nYou can use the credits on Ghost Runner during a run."

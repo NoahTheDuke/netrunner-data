@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "bug"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "Install only if you made a successful run on HQ this turn.\nWhenever the Corp draws a card, you may pay 2[credit] to reveal that card."

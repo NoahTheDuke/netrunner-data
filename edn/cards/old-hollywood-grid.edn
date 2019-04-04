@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "old-hollywood-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "The Runner cannot steal agendas accessed from this server, even during the run on which they trash Old Hollywood Grid. Ignore this ability for any agenda the Runner has a copy of in their score area.\nLimit 1 <strong>region</strong> per server.\n<errata>Errata from CR 1.2</errata>"

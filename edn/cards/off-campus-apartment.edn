@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "off-campus-apartment"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:location]
  :text "Off-Campus Apartment can host any number of <strong>connections</strong>.\nWhenever you install a <strong>connection</strong> on Off-Campus Apartment, draw 1 card."

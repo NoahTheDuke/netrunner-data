@@ -3,7 +3,7 @@
  :deck-limit 1
  :faction :neutral-corp
  :id "eden-fragment"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:source]
  :text "Ignore the install cost of the first piece of ice you install each turn.\nLimit 1 per deck."

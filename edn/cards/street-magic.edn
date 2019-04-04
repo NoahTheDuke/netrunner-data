@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "street-magic"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:virtual]
  :text "Unbroken subroutines resolve in the order of your choice."

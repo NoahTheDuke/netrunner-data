@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "lucky-charm"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "<strong>Remove this hardware from the game:</strong> Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn."
  :title "Lucky Charm"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "disrupter"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "[trash]: Prevent a trace. That trace initiates again with a base trace strength of 0."

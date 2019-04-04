@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "wanton-destruction"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:run :sabotage]
  :text "Make a run on HQ. If successful, instead of accessing cards, you may spend any number of [click] to force the Corp to trash an equal number of cards from HQ at random."

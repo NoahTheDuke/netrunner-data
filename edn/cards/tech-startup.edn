@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "tech-startup"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "When your turn begins, you may trash Tech Startup. If you do, search R&D for an asset, reveal it, and install it. Shuffle R&D."
  :title "Tech Startup"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "r-d-interface"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Whenever you access cards from R&D, access 1 additional card from R&D."
  :title "R&D Interface"

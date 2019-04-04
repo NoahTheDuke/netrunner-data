@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "the-noble-path"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Trash your grip. Make a run. Prevent all damage during this run."

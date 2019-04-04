@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "secure-and-protect"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <i>(Shuffle R&D after searching it.)</i> Install that ice protecting a central server, paying 3[credit] less."

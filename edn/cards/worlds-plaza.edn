@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "worlds-plaza"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:facility]
  :text "Worlds Plaza can host up to 3 assets.\n[click]: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able."

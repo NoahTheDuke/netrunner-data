@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "underway-grid"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:region]
  :text "Ice protecting this server cannot be bypassed.\nCards in and protecting this server cannot be exposed.\nLimit 1 <strong>region</strong> per server."

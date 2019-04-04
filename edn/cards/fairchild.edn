@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "fairchild"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :strength 8
  :subtype [:code-gate :bioroid :ap]

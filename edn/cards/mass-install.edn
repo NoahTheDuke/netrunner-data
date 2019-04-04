@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "mass-install"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "Install up to 3 programs from your grip (paying the install costs)."
  :title "Mass Install"

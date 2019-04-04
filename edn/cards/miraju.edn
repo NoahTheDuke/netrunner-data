@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "miraju"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 0
  :subtype [:code-gate :deflector]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "snatch-and-grab"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:gray-ops]
  :text "<trace>Trace 3</trace> If successful, trash 1 <strong>connection</strong>. The Runner can take 1 tag to prevent this."

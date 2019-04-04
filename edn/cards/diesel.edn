@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "diesel"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Draw 3 cards."
  :title "Diesel"

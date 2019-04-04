@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "mushin-no-shin"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nInstall an asset, agenda, or upgrade from HQ in a new remote server. Place 3 advancement tokens on that card. You cannot score or rez that card until your next turn begins."

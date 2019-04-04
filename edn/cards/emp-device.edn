@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "emp-device"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:bomb]
  :text "[trash]: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run."

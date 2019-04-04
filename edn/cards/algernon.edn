@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :adam
  :id "algernon"
- :influence-value 5
+ :influence-cost 5
  :memory-cost 1
  :side :runner
  :text "When your turn begins, you may pay 2[credit] to gain [click]. If you do, trash Algernon when your turn ends if you did not make a successful run this turn."

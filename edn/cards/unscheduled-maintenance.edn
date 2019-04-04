@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "unscheduled-maintenance"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp cannot install more than 1 piece of ice each turn."

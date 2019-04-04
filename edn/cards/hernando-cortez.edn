@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "hernando-cortez"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "If the Corp has at least 10[credit], as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice."

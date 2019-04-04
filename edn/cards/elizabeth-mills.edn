@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "elizabeth-mills"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:executive]
  :text "When you rez Elizabeth Mills, remove 1 bad publicity.\n[click], [trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity."

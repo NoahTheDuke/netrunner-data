@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "haas-arcology-ai"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :text "Haas Arcology AI can be advanced only while unrezzed.\n[click], <strong>hosted advancement token:</strong> Gain [click][click]. Use this ability only once per turn."
  :title "Haas Arcology AI"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "qianju-pt"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:vehicle]
  :text "When your turn begins, you may lose [click]. If you do, avoid the first tag you take until the beginning of your next turn."

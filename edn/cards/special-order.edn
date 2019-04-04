@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "special-order"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Search your stack for an <strong>icebreaker</strong>, reveal it, and add it to your grip. Shuffle your stack."
  :title "Special Order"

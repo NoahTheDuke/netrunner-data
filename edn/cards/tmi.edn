@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "tmi"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 5
  :subtype [:barrier]

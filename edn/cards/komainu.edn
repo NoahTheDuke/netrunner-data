@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "komainu"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :strength 1
  :subtype [:sentry :ap]

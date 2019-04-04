@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "capstone"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "[click]: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card."
  :title "Capstone"

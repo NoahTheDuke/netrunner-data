@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "adonis-campaign"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:advertisement]
  :text "Put 12[credit] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.\nTake 3[credit] from Adonis Campaign when your turn begins."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "escher"
- :influence-value 5
+ :influence-cost 5
  :side :runner
  :subtype [:run]
  :text "Make a run on HQ. If successful, instead of accessing cards, rearrange any number of ice protecting all servers (without rezzing or derezzing the ice). The same number of ice must be protecting each server after the rearrangement as before."

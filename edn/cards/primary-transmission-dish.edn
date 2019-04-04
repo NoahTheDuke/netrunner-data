@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "primary-transmission-dish"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:beanstalk]
  :text "3[recurring-credit]\nUse these credits during traces."

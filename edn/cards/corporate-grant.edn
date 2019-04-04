@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "corporate-grant"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first time you install a card each turn, the Corp loses 1[credit]."

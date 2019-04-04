@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "mumbad-city-grid"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:region]
  :text "Whenever the Runner passes a piece of ice protecting this server, you may swap that ice with another piece of ice protecting this server.\nLimit 1 <strong>region</strong> per server."

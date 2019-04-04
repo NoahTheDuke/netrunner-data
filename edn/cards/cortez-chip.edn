@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "cortez-chip"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:chip]
  :text "[trash]: Choose a piece of ice. The Corp must pay 2[credit] as an additional cost to rez that ice until the end of the turn."

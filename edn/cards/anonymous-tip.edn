@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "anonymous-tip"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Draw 3 cards."
  :title "Anonymous Tip"

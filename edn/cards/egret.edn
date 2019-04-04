@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "egret"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "Install Egret only on a rezzed piece of ice.\nHost ice gains <strong>sentry</strong>, <strong>code gate</strong> and <strong>barrier</strong>."

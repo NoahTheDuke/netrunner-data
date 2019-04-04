@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "voter-intimidation"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:gray-ops :psi]
  :text "Play only if there is an agenda in the Runner's score area.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource."

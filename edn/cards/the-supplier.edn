@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "the-supplier"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "[click]: Host a resource or piece of hardware from your grip on The Supplier.\nWhen your turn begins, you may install a hosted card, lowering the install cost by 2."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "caldera"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:virtual]
  :text "3[credit]: Prevent 1 net or brain damage."

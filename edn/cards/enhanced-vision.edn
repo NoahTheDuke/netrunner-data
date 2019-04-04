@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "enhanced-vision"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:genetics]
  :text "The first time you make a successful run each turn, the Corp reveals 1 card at random from HQ."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "turtlebacks"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:clone]
  :text "Gain 1[credit] whenever you create a server."

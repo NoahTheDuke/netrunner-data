@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "crescentus"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "[trash]: Derez a piece of ice. Use this ability only after breaking all the subroutines of that ice during a single encounter."

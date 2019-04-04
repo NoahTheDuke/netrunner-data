@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "forked"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:run :sabotage]
  :text "Make a run. The first time you break all subroutines on a <strong>sentry</strong> during this run, trash that <strong>sentry</strong>."

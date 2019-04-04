@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "labor-rights"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Trash the top 3 cards of your stack, then shuffle 3 cards from your heap into your stack. Draw 1 card. Remove Labor Rights from the game instead of trashing it."
  :title "Labor Rights"

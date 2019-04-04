@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "crowdfunding"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:virtual :seedy]
  :text "Place 3[credit] from the bank on Crowdfunding when it is installed. When there are no credits left on Crowdfunding, trash it and draw 1 card.\nWhen your turn begins, take 1[credit] from Crowdfunding.\nWhen your turn ends, if you made at least 3 successful runs this turn, you may install Crowdfunding from your heap, ignoring all costs."

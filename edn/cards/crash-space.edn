@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "crash-space"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:location]
  :text "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage."

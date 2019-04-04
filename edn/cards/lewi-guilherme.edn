@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "lewi-guilherme"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:connection]
  :text "When your turn begins, either lose 1[credit] or trash Lewi Guilherme.\nThe Corp's maximum hand size is reduced by 1."

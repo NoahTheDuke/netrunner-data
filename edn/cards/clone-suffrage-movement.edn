@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "clone-suffrage-movement"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:political]
  :text "When your turn begins, you may add 1 operation from Archives to HQ if there is no ice protecting this server."

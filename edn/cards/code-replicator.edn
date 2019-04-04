@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "code-replicator"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "When the Runner passes a rezzed piece of ice protecting this server, you may trash Code Replicator to force the Runner to approach that piece of ice again."
  :title "Code Replicator"

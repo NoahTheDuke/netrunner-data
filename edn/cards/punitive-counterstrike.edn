@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "punitive-counterstrike"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:black-ops]
  :text "<trace>Trace 5</trace> If successful, do meat damage to the Runner equal to the number of printed agenda points on agendas he or she stole during his or her last turn."

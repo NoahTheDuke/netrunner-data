@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "back-channels"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:transaction]
  :text "Trash a card installed in a server and gain 3[credit] for each advancement token on that card."

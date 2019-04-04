@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "replicator"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack."
  :title "Replicator"

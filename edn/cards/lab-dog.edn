@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "lab-dog"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 0
  :subtype [:trap]

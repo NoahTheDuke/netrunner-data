@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "mental-health-clinic"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:facility]
  :text "Gain 1[credit] when your turn begins.\nThe Runner's maximum hand size is increased by 1."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "giordano-memorial-field"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:facility]
  :text "Whenever there is a successful run on this server, end the run unless the Runner pays 2[credit] for each agenda in his or her score area."

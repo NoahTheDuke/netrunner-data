@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "dummy-box"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:virtual]
  :text "<strong>Trash a card from your grip:</strong> Prevent an installed card of the same type from being trashed by the Corp."

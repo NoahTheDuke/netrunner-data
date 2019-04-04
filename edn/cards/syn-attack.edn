@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "syn-attack"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nThe Corp must either discard 2 cards or draw 4 cards."

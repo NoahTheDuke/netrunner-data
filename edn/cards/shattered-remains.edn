@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "shattered-remains"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:ambush]
  :text "Shattered Remains can be advanced.\nIf you pay 1[credit] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains."

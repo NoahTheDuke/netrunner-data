@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "sync-bre"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 6
  :subtype [:sentry :tracer]

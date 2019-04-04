@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "mr-li"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "[click]: Draw 2 cards. Add 1 of these cards to the bottom of your stack."

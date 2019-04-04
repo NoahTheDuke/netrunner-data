@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "hedge-fund"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:transaction]
  :text "Gain 9[credit]."

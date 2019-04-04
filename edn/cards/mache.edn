@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "mache"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "The first time you trash an accessed card each turn, you may place power counters on Mâché equal to that card's trash cost.\n3 <strong>hosted power counters</strong>: Draw 1 card."
  :title "Mâché"

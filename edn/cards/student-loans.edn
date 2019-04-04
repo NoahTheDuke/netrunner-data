@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "student-loans"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "As an additional cost to play an event that there is a copy of in his or her heap, the Runner must pay 2[credit]."
  :title "Student Loans"

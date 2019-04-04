@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "the-shadow-net"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:virtual]
  :text "[click]<strong>, forfeit an agenda:</strong> Play an event from your heap, ignoring all costs."

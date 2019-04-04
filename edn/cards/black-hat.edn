@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :sunny-lebeau
  :id "black-hat"
- :influence-value 5
+ :influence-cost 5
  :side :runner
  :text "Force the Corp to \"<trace>Trace 4</trace> If unsuccessful, the Runner accesses 2 additional cards whenever he or she accesses cards from HQ or R&D for the remainder of this turn\"."
  :title "Black Hat"

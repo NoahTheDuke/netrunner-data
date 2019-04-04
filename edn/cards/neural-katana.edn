@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "neural-katana"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 3
  :subtype [:sentry :ap]

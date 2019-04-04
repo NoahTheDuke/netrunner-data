@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "hippo"
- :influence-value 5
+ :influence-cost 5
  :side :runner
  :text "The first time you break all subroutines on the outermost piece of ice during a run each turn, you may remove Hippo from the game to trash that piece of ice."
  :title "Hippo"

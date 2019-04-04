@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "forger"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:console]
  :text "+1[link]\n[trash]: Avoid or remove 1 tag.\nLimit 1 <strong>console</strong> per player."

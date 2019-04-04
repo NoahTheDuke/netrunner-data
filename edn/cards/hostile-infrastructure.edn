@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "hostile-infrastructure"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage."
  :title "Hostile Infrastructure"

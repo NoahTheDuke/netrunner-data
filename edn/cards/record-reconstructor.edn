@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "record-reconstructor"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Whenever you make a successful run on Archives, instead of accessing cards you may choose 1 faceup card from Archives and add it to the top of R&D."
  :title "Record Reconstructor"

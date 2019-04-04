@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "public-terminal"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "1[recurring-credit]\nUse this credit to play <strong>run</strong> events."
  :title "Public Terminal"

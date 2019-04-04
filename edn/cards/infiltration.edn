@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "infiltration"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "Gain 2[credit] or expose 1 card."
  :title "Infiltration"

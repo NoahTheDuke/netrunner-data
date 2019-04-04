@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "sub-boost"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:condition]
  :text "Install Sub Boost on a rezzed piece of ice as a hosted condition counter with the text \"Host ice gains <strong>barrier</strong> and '[subroutine] End the run.' after all its other subroutines.\""

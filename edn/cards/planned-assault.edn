@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "planned-assault"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>run</strong> event and play that <strong>run</strong> event (paying its play cost), ignoring any additional costs. Shuffle your stack."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :sunny-lebeau
  :id "another-day-another-paycheck"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever you steal an agenda, force the Corp to \"<trace>Trace 0</trace> If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\""

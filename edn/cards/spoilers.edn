@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "spoilers"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:virtual]
  :text "Whenever the Corp scores an agenda, he or she trashes the top card of R&D."

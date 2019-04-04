@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "acacia"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia."
  :title "Acacia"

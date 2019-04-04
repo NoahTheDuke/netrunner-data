@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "corporate-scandal"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp has 1 additional bad publicity (even if they have 0)."

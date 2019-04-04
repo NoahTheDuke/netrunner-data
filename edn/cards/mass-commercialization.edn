@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "mass-commercialization"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:transaction]
  :text "Gain 2[credit] for each card with at least 1 advancement token on it."

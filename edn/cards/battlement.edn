@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "battlement"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :strength 2
  :subtype [:barrier]

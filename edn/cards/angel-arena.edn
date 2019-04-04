@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "angel-arena"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:location]
  :text "Place X power counters on Angel Arena when it is installed. When there are no power counters left on Angel Arena, trash it.\n<strong>Hosted power counter:</strong> Reveal the top card of your stack. You may add that card to the bottom of your stack."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "en-passant"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:sabotage]
  :text "Play only if you made a successful run this turn.\nTrash an unrezzed piece of ice you passed during the last run you made this turn."

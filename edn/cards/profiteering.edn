@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "profiteering"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "When you score Profiteering, take up to 3 bad publicity. Gain 5[credit] for each bad publicity taken."
  :title "Profiteering"

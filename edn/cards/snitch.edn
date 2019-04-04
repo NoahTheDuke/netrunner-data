@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "snitch"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "Once per run, you may expose an unrezzed piece of ice when you approach it. You may then jack out."

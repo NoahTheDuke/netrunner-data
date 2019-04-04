@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "careful-planning"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:priority]
  :text "Play only as your first [click].\nChoose a card in or protecting a remote server. That card cannot be rezzed this turn."

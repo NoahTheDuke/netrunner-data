@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "isolation"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "As an additional cost to play this event, trash an installed resource.\nGain 7[credit]."
  :title "Isolation"

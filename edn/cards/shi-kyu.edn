@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "shi-kyu"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :subtype [:ambush]
  :text "When the Runner accesses Shi.Kyū, you may pay X[credit]. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū from R&D."

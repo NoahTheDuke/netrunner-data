@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "burke-bugs"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 0
  :subtype [:sentry :destroyer]

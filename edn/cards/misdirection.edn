@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "misdirection"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "[click], [click], X[credit]: Remove X tags."

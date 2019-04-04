@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "precognition"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "Look at the top 5 cards of R&D and arrange them in any order."
  :title "Precognition"

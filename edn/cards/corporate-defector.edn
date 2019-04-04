@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "corporate-defector"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:connection]
  :text "Whenever the Corp spends a [click] to draw a card (not through a card effect), reveal that card."

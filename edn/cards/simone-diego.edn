@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "simone-diego"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:sysop]
  :text "2[recurring-credit]\nUse these credits to advance cards in or protecting this server."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "heinlein-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool.\nLimit 1 <strong>region</strong> per server."

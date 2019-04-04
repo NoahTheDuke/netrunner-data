@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "self-modifying-code"
- :influence-value 3
+ :influence-cost 3
  :memory-cost 2
  :side :runner
  :text "2[credit], [trash]: Search your stack for a program and install it (paying the install cost). Shuffle your stack."

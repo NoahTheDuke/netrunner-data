@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "woman-in-the-red-dress"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:connection :virtual]
  :text "When your turn begins, reveal the top card of R&D. The Corp may draw that card."

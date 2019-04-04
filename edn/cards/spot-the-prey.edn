@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "spot-the-prey"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Expose 1 non-ice card, then make a run."
  :title "Spot the Prey"

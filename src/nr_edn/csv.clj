@@ -12,16 +12,18 @@
 
 (defn add-fields
   [card]
-  (assoc card
-         :id (slugify (:title card))
-         :faction (if (= :neutral (:faction card))
-                    (if (= :corp (:side card))
-                      :neutral-corp
-                      :neutral-runner)
-                    (:faction card))
-         :deck-limit (when-not (= :identity (:type card))
-                       (or (:deck-limit card)
-                           3))))
+  (-> card
+      (assoc :id (slugify (:title card))
+             :influence-cost (:influence-value card)
+             :faction (if (= :neutral (:faction card))
+                        (if (= :corp (:side card))
+                          :neutral-corp
+                          :neutral-runner)
+                        (:faction card))
+             :deck-limit (when-not (= :identity (:type card))
+                           (or (:deck-limit card)
+                               3)))
+      (dissoc :influence-value)))
 
 (defn build-cards
   [path]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "kamali-1-0"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :strength 3
  :subtype [:sentry :bioroid :destroyer :ap]

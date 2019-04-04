@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "hot-pursuit"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Make a run on HQ. If successful, gain 9[credit] and take 1 tag."

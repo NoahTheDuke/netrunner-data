@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "retrieval-run"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Make a run on Archives. If successful, instead of accessing cards you may install a program from your heap, ignoring all costs."

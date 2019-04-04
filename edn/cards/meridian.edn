@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "meridian"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 4
  :subtype [:barrier]

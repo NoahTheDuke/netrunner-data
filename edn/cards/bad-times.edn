@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "bad-times"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nThe Runner's memory limit is reduced by 2 until the end of the turn."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "chief-slee"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:character]
  :text "Whenever an encounter with a piece of ice ends, place 1 power counter on Chief Slee for each unbroken subroutine on the encountered piece of ice.\n[click], <strong>5 hosted power counters</strong>: Do 5 meat damage."

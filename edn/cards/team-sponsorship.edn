@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "team-sponsorship"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Whenever you score an agenda, you may install a card from Archives or HQ, ignoring the install cost."
  :title "Team Sponsorship"

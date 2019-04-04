@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "grimoire"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:console]
  :text "+2[mu]\nWhenever you install a <strong>virus</strong> program, place 1 virus counter on that program.\nLimit 1 <strong>console</strong> per player."

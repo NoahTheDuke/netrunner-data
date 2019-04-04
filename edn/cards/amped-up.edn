@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "amped-up"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented)."
  :title "Amped Up"

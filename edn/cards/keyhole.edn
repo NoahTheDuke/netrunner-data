@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "keyhole"
- :influence-value 3
+ :influence-cost 3
  :memory-cost 2
  :side :runner
  :text "[click]: Run R&D. If successful, instead of accessing cards, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D.\n<errata>Errata from CR 1.2</errata>"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "sahasrara"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "2[recurring-credit]\nUse these credits to install programs (you cannot use Sahasrara to install a program that trashes Sahasrara)."

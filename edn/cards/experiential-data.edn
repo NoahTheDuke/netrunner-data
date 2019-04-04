@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "experiential-data"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "All ice protecting this server has +1 strength."
  :title "Experiential Data"

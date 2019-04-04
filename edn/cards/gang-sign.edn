@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "gang-sign"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:virtual]
  :text "Whenever the Corp scores an agenda, access 1 card from HQ."

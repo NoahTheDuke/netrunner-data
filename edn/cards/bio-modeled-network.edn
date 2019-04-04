@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "bio-modeled-network"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:virtual]
  :text "[trash]: Prevent all but 1 net damage."

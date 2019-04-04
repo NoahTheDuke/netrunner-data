@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "sacrificial-clone"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :text "[trash]: Prevent all damage. Trash all installed hardware, all installed non-<strong>virtual</strong> resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags."
  :title "Sacrificial Clone"

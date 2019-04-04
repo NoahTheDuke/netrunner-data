@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "technoco"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:corporation]
  :text "The install cost of each program, piece of hardware, and <strong>virtual</strong> resource is increased by 1.\nWhenever the Runner installs a program, piece of hardware, or <strong>virtual</strong> resource, you may gain 1[credit]."

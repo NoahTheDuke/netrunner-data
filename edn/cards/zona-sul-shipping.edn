@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "zona-sul-shipping"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Place 1[credit] on Zona Sul Shipping when your turn begins.\n[click]: Take all credits from Zona Sul Shipping.\nTrash Zona Sul Shipping if you are tagged."
  :title "Zona Sul Shipping"

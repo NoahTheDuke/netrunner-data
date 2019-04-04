@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "scrubber"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection :seedy]
  :text "2[recurring-credit]\nUse these credits to trash cards."

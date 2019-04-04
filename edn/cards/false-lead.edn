@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "false-lead"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:security]
  :text "<strong>Forfeit False Lead:</strong> The Runner loses [click][click], if able."

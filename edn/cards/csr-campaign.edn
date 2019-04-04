@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "csr-campaign"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:advertisement]
  :text "When your turn begins, you may draw 1 card."

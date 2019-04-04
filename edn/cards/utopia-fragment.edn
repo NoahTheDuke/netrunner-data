@@ -3,7 +3,7 @@
  :deck-limit 1
  :faction :neutral-corp
  :id "utopia-fragment"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:source]
  :text "As an additional cost to steal an agenda, the Runner must pay 2[credit] for each advancement token on that agenda.\nLimit 1 per deck."

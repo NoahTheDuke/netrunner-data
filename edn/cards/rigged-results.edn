@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "rigged-results"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Secretly spend up to 2[credit]. The Corp guesses how much you spent. Reveal spent credits. If the Corp guessed incorrectly, make a run and choose a piece of ice protecting the attacked server. Bypass that ice when you encounter it."
  :title "Rigged Results"

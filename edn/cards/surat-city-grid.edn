@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "surat-city-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "Whenever you rez a card in or protecting this server (not including Surat City Grid), you may rez another card, lowering the rez cost by 2.\nLimit 1 <strong>region</strong> per server."

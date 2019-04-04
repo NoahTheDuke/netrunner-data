@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "death-and-taxes"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:current :transaction]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhenever the Runner installs a card or trashes an installed card, you may gain 1[credit]."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :apex
  :id "assimilator"
- :influence-value 5
+ :influence-cost 5
  :side :runner
  :subtype [:virtual]
  :text "[click],[click]: Turn one of your facedown installed cards faceup. If that card is an event, trash it."

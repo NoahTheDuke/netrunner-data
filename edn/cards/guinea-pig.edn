@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "guinea-pig"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "Trash your grip.\nGain 10[credit]."
  :title "Guinea Pig"

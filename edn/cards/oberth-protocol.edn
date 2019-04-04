@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "oberth-protocol"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :text "As an additional cost to rez Oberth Protocol, forfeit an agenda.\nThe first time you advance a card in or protecting this server each turn, place an additional advancement token on it."
  :title "Oberth Protocol"

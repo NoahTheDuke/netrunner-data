@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "laguna-velasco-district"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:location :ritzy]
  :text "Whenever you spend [click] to draw 1 card (not through a card ability), draw 1 additional card."

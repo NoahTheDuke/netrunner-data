@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "rolodex"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:virtual]
  :text "When you install Rolodex, look at the top 5 cards of your stack and arrange them in any order.\nWhen Rolodex is trashed, trash the top 3 cards of your stack."

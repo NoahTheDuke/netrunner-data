@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "siu"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "When your turn begins, you may trash SIU to <trace>trace 3</trace> If successful, give the Runner 1 tag."
  :title "SIU"

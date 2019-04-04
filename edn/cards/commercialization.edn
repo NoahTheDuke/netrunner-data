@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "commercialization"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:transaction]
  :text "Choose a piece of ice. Gain 1[credit] for each advancement token on that ice."

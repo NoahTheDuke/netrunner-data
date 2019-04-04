@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "medical-research-fundraiser"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:transaction]
  :text "Gain 8[credit]. The Runner gains 3[credit]."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "navi-mumbai-city-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "During a run on this server, the Runner cannot use paid abilities on non-<strong>icebreaker</strong> cards.\nLimit 1 <strong>region</strong> per server."

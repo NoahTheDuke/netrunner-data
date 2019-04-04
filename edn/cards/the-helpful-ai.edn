@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "the-helpful-ai"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection :link :virtual]
  :text "+1[link]\n[trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn."

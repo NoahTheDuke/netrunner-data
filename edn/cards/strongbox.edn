@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "strongbox"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "Each time the Runner accesses an agenda from this server, he or she must spend [click] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Strongbox."
  :title "Strongbox"

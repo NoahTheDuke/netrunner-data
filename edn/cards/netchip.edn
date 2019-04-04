@@ -2,7 +2,7 @@
  :deck-limit 6
  :faction :shaper
  :id "netchip"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:consumer-grade :chip]
  :text "NetChip can host a program with a memory cost less than or equal to the number of copies of NetChip installed. The memory cost of the hosted program does not count against your memory limit.\nLimit 6 per deck."

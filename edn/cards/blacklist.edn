@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "blacklist"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Cards cannot leave the Runner's heap for any reason."
  :title "Blacklist"

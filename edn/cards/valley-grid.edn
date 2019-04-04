@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "valley-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "Whenever the Runner breaks all subroutines on a piece of ice protecting this server, his or her maximum hand size is reduced by 1 until the beginning of your next turn.\nLimit 1 <strong>region</strong> per server."

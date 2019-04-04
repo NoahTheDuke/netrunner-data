@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :apex
  :id "reaver"
- :influence-value 4
+ :influence-cost 4
  :memory-cost 1
  :side :runner
  :text "The first time you trash an installed card each turn, draw 1 card."

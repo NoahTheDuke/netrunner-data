@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "red-level-clearance"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:transaction]
  :text "Resolve two of the following in any order:<ul><li>Draw 2 cards.</li><li>Gain 2[credit].</li><li>Install up to 1 non-agenda card.</li><li>Gain [click].</li></ul>"

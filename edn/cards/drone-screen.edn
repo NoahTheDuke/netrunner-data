@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "drone-screen"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>Trace 3</trace> If successful, do 1 meat damage (cannot be prevented).\""
  :title "Drone Screen"

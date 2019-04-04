@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "orion"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 8
  :subtype [:sentry :code-gate :barrier]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "24-7-news-cycle"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "As an additional cost to play 24/7 News Cycle, forfeit an agenda.\nResolve the \"when scored\" ability on an agenda in your score area."
  :title "24/7 News Cycle"

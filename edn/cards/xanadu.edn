@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "xanadu"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:virtual]
  :text "The rez cost of all ice is increased by 1."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "data-hound"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 2
  :subtype [:sentry :tracer :observer]

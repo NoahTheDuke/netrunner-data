@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "localized-product-line"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "Search R&D for any number of copies of a card, reveal them, and add them to HQ. Shuffle R&D."
  :title "Localized Product Line"

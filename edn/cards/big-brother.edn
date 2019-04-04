@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "big-brother"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nGive the Runner 2 tags."

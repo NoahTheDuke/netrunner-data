@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "ipo"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:terminal :transaction]
  :text "After you resolve this operation, end your action phase.\nGain 13[credit]."

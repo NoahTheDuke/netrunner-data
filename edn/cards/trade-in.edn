@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "trade-in"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "As an additional cost to play this event, trash an installed piece of hardware.\nGain credits equal to half the install cost of the trashed hardware (rounded down) and search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
  :title "Trade-In"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "tori-hanzo"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :subtype [:sysop]
  :text "The first time you would do any amount of net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage."

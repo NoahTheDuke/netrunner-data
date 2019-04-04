@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "mirror"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:console]
  :text "+2[mu]\nWhenever you make a successful run on R&D, you may replace 1 spent recurring credit.\nLimit 1 <strong>console</strong> per player."

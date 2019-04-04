@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "engolo"
- :influence-value 4
+ :influence-cost 4
  :memory-cost 2
  :side :runner
  :strength 2

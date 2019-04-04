@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "plascrete-carapace"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:gear]
  :text "Place 4 power counters on Plascrete Carapace when it is installed. When there are no power counters left on Plascrete Carapace, trash it.\n<strong>Hosted power counter:</strong> Prevent 1 meat damage."

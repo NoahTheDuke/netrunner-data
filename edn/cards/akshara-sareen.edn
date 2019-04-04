@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "akshara-sareen"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:connection]
  :text "Each player has 1 additional [click] to spend during his or her turn."

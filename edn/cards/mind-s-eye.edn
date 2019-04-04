@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "mind-s-eye"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:console]
  :text "+1[mu]\nWhenever you make a successful run on R&D, you may place 1 power counter on Mind's Eye.\n[click], <strong>3 hosted power counters</strong>: Access the top card of R&D.\nLimit 1 <strong>console</strong> per player."

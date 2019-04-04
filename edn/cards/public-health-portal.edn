@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "public-health-portal"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:facility]
  :text "When your turn begins, reveal the top card of R&D and gain 2[credit]."

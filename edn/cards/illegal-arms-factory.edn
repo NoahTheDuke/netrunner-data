@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "illegal-arms-factory"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:facility :illicit]
  :text "If the Runner trashes Illegal Arms Factory while it is installed, take 1 bad publicity.\nWhen your turn begins, gain 1[credit] and draw 1 card."

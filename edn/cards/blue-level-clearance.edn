@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "blue-level-clearance"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:double :transaction]
  :text "As an additional cost to play this operation, spend [click].\nGain 5[credit] and draw 2 cards."

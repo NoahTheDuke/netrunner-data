@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "tallie-perrault"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:connection]
  :text "Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag.\n[trash]: Draw 1 card for each bad publicity the Corp has."

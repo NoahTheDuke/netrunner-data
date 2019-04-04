@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "hivemind"
- :influence-value 5
+ :influence-cost 5
  :memory-cost 2
  :side :runner
  :subtype [:virus]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "news-hound"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 4
  :subtype [:sentry :tracer]

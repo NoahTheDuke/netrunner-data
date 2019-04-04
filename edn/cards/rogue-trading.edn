@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "rogue-trading"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:job]
  :text "Place 18[credit] from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it.\n[click], [click]: Take 6[credit] from Rogue Trading and take 1 tag."

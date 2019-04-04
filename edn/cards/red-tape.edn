@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "red-tape"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 5
  :subtype [:code-gate]

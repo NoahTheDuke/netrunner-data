@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "georgia-emelyov"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:sysop]
  :text "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage.\n2[credit]: Move Georgia Emelyov to another server."

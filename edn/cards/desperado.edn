@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "desperado"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:console]
  :text "+1[mu]\nGain 1[credit] whenever you make a successful run.\nLimit 1 <strong>console</strong> per player."

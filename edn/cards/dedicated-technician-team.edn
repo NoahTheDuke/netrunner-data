@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "dedicated-technician-team"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "2[recurring-credit]\nUse these credits to install ice protecting this server."
  :title "Dedicated Technician Team"

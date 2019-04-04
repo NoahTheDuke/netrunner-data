@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "paywall-implementation"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:current :transaction]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nGain 1[credit] whenever the Runner makes a successful run."

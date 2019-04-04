@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "synthetic-blood"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:genetics]
  :text "The first time you take damage each turn, draw 1 card."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "advanced-assembly-lines"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:facility]
  :text "When you rez Advanced Assembly Lines, gain 3[credit].\n[trash]: Install a non-agenda card from HQ (paying the install cost). You cannot use this ability during a run."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "dedicated-response-team"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:hostile]
  :text "If the Runner is tagged, Dedicated Response Team gains \"Whenever a successful run ends, do 2 meat damage.\""

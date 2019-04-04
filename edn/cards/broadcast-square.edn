@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "broadcast-square"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:facility]
  :text "Whenever you are about to take at least 1 bad publicity, <trace>trace 3</trace> if successful, avoid taking the bad publicity."

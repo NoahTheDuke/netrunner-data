@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "wyldside"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:location :seedy]
  :text "When your turn begins, draw 2 cards and lose [click]."

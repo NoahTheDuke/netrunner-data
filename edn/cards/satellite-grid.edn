@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "satellite-grid"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:region]
  :text "Each piece of ice protecting this server is considered to have 1 additional advancement token on it.\nLimit 1 <strong>region</strong> per server."

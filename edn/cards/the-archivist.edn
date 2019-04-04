@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "the-archivist"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:connection]
  :text "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"<trace>Trace 1</trace> if unsuccessful, take 1 bad publicity.\""

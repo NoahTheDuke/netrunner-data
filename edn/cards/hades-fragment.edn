@@ -3,7 +3,7 @@
  :deck-limit 1
  :faction :neutral-corp
  :id "hades-fragment"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:source]
  :text "When your turn begins, you may add 1 card from Archives to the bottom of R&D.\nLimit 1 per deck."

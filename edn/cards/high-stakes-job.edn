@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "high-stakes-job"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:run :job]
  :text "Make a run on a server with at least 1 piece of unrezzed ice. When the run ends, gain 12[credit] if it was successful."

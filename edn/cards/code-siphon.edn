@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "code-siphon"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :subtype [:run]
  :text "Make a run on R&D. If successful, instead of accessing cards, you may search your stack for a program and install it, lowering the install cost by 3 for each piece of ice protecting R&D, and then take 1 tag. Shuffle your stack."

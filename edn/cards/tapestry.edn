@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "tapestry"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 6
  :subtype [:code-gate]

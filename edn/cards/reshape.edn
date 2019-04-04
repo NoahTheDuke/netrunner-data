@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "reshape"
- :influence-value 4
+ :influence-cost 4
  :side :runner
  :text "Swap 2 pieces of unrezzed ice."
  :title "Reshape"

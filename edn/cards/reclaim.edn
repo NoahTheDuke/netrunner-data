@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "reclaim"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "[click], [trash], <strong>trash a card from your grip</strong>: Install a program, piece of hardware, or <strong>virtual</strong> resource from your heap, paying its install cost."
  :title "Reclaim"

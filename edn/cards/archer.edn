@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "archer"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 6
  :subtype [:sentry :destroyer]

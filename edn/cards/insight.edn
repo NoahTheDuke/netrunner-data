@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "insight"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D."

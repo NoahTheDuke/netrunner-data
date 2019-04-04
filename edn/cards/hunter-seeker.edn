@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "hunter-seeker"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:double :gray-ops]
  :text "As an additional cost to play this operation, spend [click].\nPlay only if the Runner stole an agenda during his or her last turn.\nTrash 1 card."

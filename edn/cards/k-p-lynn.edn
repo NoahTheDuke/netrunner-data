@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "k-p-lynn"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:executive]
  :text "Whenever the Runner passes all of the ice protecting this server, he or she must either take 1 tag or end the run."

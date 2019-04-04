@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "adjusted-chronotype"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:genetics]
  :text "The first time you lose [click] each turn, gain [click]."

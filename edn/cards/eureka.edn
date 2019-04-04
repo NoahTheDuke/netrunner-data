@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "eureka"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nReveal the top card of your stack. You may install that card, lowering the install cost by 10[credit], if able; otherwise, trash it."

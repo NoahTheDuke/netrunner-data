@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "prisec"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:ambush]
  :text "If the Runner accesses Prisec while installed, you may pay 2[credit] to give the Runner 1 tag and do 1 meat damage."

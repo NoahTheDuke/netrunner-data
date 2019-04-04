@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "compile"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:run]
  :text "Make a run. The first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. When the run ends, add that program to the bottom of your stack if it is still installed."

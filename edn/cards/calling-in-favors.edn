@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "calling-in-favors"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Gain 1[credit] for each installed <strong>connection</strong> resource."
  :title "Calling in Favors"

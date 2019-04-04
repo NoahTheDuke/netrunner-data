@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "savant"
- :influence-value 3
+ :influence-cost 3
  :memory-cost 2
  :side :runner
  :strength 1

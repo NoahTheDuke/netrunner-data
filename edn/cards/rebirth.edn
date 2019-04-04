@@ -2,7 +2,7 @@
  :deck-limit 1
  :faction :neutral-runner
  :id "rebirth"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Switch your identity with another identity from the same faction. Remove Rebirth from the game instead of trashing it.\nLimit 1 per deck."
  :title "Rebirth"

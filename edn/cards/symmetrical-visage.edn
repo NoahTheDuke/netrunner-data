@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "symmetrical-visage"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:genetics]
  :text "The first time you spend [click] to draw 1 card (not through a card ability) each turn, gain 1[credit]."

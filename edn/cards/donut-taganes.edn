@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "donut-taganes"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "The play cost of operations and events is increased by 1."

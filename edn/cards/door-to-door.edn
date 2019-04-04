@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "door-to-door"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:current :black-ops]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>trace 1</trace> If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag."

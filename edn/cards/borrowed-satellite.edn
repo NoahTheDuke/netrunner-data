@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "borrowed-satellite"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:link]
  :text "+1[link]\nYour maximum hand size is increased by 1."

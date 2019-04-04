@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "bukhgalter"
- :influence-value 4
+ :influence-cost 4
  :memory-cost 1
  :side :runner
  :strength 1

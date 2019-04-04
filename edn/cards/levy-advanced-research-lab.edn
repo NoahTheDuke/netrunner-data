@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "levy-advanced-research-lab"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:location :ritzy]
  :text "[click]: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order."

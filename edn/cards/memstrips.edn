@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "memstrips"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:chip]
  :text "+3[mu]\nUse the MU on MemStrips only for <strong>virus</strong> programs."

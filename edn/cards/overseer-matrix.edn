@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "overseer-matrix"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :text "Whenever the Runner trashes a card in this server, you may pay 1[credit] to give the Runner 1 tag. This applies even during the run on which the Runner trashes Overseer Matrix."
  :title "Overseer Matrix"

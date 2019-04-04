@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "subcontract"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nPlay up to 2 operations from HQ (paying all costs), resolving them one at a time."

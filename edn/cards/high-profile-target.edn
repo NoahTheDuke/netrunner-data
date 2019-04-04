@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "high-profile-target"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:black-ops]
  :text "Play only if the Runner is tagged.\nDo 2 meat damage for each tag the Runner has."

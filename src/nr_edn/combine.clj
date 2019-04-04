@@ -144,7 +144,7 @@
             :date-release (:date-release s)
             :deck-limit (:deck-limit card)
             :faction (:name (get factions (:faction card)))
-            :factioncost (:influence-value card)
+            :factioncost (:influence-cost card)
             :format (get card->formats (:id card))
             :image_url (get-uri card s)
             :influencelimit (:influence-limit card)

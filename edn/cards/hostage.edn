@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "hostage"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack."

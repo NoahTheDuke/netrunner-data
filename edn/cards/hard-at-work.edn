@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "hard-at-work"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "When your turn begins, gain 2[credit] and lose [click]."
  :title "Hard at Work"

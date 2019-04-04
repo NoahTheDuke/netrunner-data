@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "au-revoir"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "Gain 1[credit] whenever you jack out."

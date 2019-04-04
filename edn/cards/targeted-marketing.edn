@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "targeted-marketing"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nName a card. Gain 10[credit] whenever the Runner plays or installs a copy of that card."

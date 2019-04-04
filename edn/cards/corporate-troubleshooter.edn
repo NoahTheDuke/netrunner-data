@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "corporate-troubleshooter"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:connection]
  :text "X[credit], [trash]: Choose a piece of rezzed ice protecting this server. That ice has +X strength until the end of the turn."

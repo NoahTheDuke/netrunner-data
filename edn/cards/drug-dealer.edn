@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "drug-dealer"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "When your turn begins, lose 1[credit].\nWhen the Corp's turn begins, draw 1 card."

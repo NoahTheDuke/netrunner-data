@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "cyberfeeder"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:chip]
  :text "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong> or for installing <strong>virus</strong> programs."

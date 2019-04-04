@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "reduced-service"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "When you rez this upgrade, you may pay up to 4[credit] to place that many power counters on it.\nAs an additional cost to run this server, the Runner must pay 2[credit] for each hosted power counter.\nWhenever the Runner makes a successful run on a central server, remove 1 hosted power counter."
  :title "Reduced Service"

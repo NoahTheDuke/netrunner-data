@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "whampoa-reclamation"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:corporation]
  :text "<strong>Trash 1 card from HQ:</strong> Add 1 card from Archives to the bottom of R&D. Use this ability only once per turn."

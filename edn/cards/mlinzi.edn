@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "mlinzi"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 5
  :subtype [:sentry :ap]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "rachel-beckman"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "You have 1 additional [click] to spend during your turn.\nTrash Rachel Beckman if you are tagged.\n<errata>Errata from FAQ 3.1</errata>"

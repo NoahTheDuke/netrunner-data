@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "corporate-war"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:expansion]
  :text "If you have at least 7[credit] when you score Corporate War, gain 7[credit]; otherwise, lose all credits in your credit pool."

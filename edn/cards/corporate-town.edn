@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "corporate-town"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "As an additional cost to rez Corporate Town, the Corp must forfeit an agenda.\nWhen your turn begins, you may trash 1 resource (cannot be prevented)."
  :title "Corporate Town"

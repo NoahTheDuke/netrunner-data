@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "panchatantra"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "Once per turn, when you encounter a piece of ice, you may have it gain 1 subtype of your choice that is not <strong>sentry</strong>, <strong>code gate</strong>, or <strong>barrier</strong> for the remainder of this run."

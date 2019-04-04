@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "raymond-flint"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:connection]
  :text "Whenever the Corp takes at least 1 bad publicity, access 1 card from HQ.\n[trash]: Expose 1 card."

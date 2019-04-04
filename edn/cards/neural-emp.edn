@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "neural-emp"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:gray-ops]
  :text "Play only if the Runner made a run during his or her last turn.\nDo 1 net damage."

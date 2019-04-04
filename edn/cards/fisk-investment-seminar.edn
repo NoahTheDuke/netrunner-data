@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "fisk-investment-seminar"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:priority]
  :text "Play only as your first [click].\nEach player draws 3 cards."

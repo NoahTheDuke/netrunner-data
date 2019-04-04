@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "scorched-earth"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :subtype [:black-ops]
  :text "Play only if the Runner is tagged.\nDo 4 meat damage."

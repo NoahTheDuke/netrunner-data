@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "lotus-field"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 4
  :subtype [:code-gate]

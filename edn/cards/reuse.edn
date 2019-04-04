@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "reuse"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nTrash any number of cards from HQ. Gain 2[credit] for each card trashed."

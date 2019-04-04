@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "mamba"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 4
  :subtype [:sentry :psi :ap]

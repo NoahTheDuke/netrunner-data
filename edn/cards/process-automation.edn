@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "process-automation"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Gain 2[credit] and draw 1 card."
  :title "Process Automation"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "marathon"
- :influence-value 5
+ :influence-cost 5
  :side :runner
  :subtype [:run]
  :text "Make a run on a remote server. When the run ends, gain [click] and add Marathon to your grip instead of trashing it if the run was successful. You may not make another run on that server for the remainder of this turn."

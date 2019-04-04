@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "technical-writer"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :text "Whenever you install a piece of hardware or a program, place 1[credit] from the bank on Technical Writer.\n[click],[trash]: Take all credits from Technical Writer."
  :title "Technical Writer"

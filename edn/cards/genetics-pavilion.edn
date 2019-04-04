@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "genetics-pavilion"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:facility :ritzy]
  :text "The Runner cannot draw more than 2 cards during his or her turn."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "foxfire"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "<trace>Trace 7</trace> If successful, trash 1 <strong>virtual</strong> resource or 1 <strong>link</strong>."
  :title "Foxfire"

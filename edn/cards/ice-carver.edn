@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "ice-carver"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:virtual]
  :text "All ice is encountered with its strength lowered by 1."

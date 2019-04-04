@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "llds-memory-diamond"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:mod]
  :text "+1[mu], +1[link]\nYour maximum hand size is increased by 1."

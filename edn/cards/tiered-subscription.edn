@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "tiered-subscription"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:advertisement]
  :text "The first time each turn a run begins, gain 1[credit]."

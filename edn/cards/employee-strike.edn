@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "employee-strike"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank."

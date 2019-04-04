@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "green-level-clearance"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:transaction]
  :text "Gain 3[credit] and draw 1 card."

@@ -106,7 +106,7 @@
    :cost identity
    :deck_limit (rename :deck-limit)
    :faction_code (rename :faction keyword)
-   :faction_cost (rename :influence-value)
+   :faction_cost (rename :influence-cost)
    :influence_limit (rename :influence-limit)
    :keywords (rename :subtype convert-subtypes)
    :memory_cost (rename :memory-cost)

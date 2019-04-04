@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "leverage"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Play only if you made a successful run on HQ this turn.\nPrevent all damage until the beginning of your next turn unless the Corp takes 2 bad publicity."
  :title "Leverage"

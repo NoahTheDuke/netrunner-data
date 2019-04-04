@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "psychographics"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :text "X is equal to or less than the number of tags the Runner has.\nPlace X advancement tokens on a card that can be advanced."
  :title "Psychographics"

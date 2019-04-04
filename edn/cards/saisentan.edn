@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "saisentan"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 2
  :subtype [:sentry :ap :observer]

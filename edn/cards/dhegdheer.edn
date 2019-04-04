@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "dhegdheer"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 0
  :side :runner
  :subtype [:daemon]

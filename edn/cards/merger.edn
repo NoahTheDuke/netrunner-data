@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "merger"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:expansion]
  :text "Merger is worth 1 additional agenda point while in the Runner's score area."

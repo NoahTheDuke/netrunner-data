@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "the-board"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:executive]
  :text "Each agenda in the Runner's score area is worth 1 fewer agenda point.\nIf The Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."

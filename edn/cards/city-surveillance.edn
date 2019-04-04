@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "city-surveillance"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :text "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1[credit]."
  :title "City Surveillance"

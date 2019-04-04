@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "llds-energy-regulator"
- :influence-value 1
+ :influence-cost 1
  :memory-cost 1
  :side :runner
  :text "3[credit] or [trash]: Prevent an installed piece of hardware from being trashed."

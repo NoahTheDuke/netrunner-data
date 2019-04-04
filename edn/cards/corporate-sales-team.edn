@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "corporate-sales-team"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:expansion]
  :text "When you score Corporate Sales Team, place 10[credit] on it.\nWhen each player's turn begins, take 1[credit] from Corporate Sales Team."

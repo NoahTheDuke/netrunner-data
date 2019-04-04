@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "mars-for-martians"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:priority]
  :text "Play only as your first [click].\nDraw 1 card for each installed <strong>clan</strong> resource. Gain 1[credit] for each tag you have."

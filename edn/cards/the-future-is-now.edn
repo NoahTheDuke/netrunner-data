@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "the-future-is-now"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:initiative]
  :text "When you score The Future is Now, search R&D for a card and add it to HQ. Shuffle R&D."

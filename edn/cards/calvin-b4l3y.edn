@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "calvin-b4l3y"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:bioroid]
  :text "[click]: Draw 2 cards. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may draw 2 cards."

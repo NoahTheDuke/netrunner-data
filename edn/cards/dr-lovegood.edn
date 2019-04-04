@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :adam
  :id "dr-lovegood"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "When your turn begins, choose one of your installed cards. The text box of that card is blank for the remainder of the turn."

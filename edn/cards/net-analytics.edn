@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "net-analytics"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card."
  :title "Net Analytics"

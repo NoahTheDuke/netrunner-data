@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "recon"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Make a run. You may jack out when you encounter the first piece of ice."

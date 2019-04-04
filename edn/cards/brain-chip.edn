@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :adam
  :id "brain-chip"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:console]
  :text "+X[mu]\nYour maximum hand size is increased by X.\nX is equal to the number of agenda points you have.\nLimit 1 <strong>console</strong> per player."

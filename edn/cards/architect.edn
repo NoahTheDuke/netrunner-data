@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "architect"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 3
  :subtype [:sentry]

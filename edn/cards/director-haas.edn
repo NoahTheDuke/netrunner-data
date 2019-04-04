@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "director-haas"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :subtype [:executive]
  :text "You have 1 additional [click] to spend during your turn.\nIf Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.\n<errata>Errata from FAQ 3.1</errata>"

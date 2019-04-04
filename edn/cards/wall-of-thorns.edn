@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "wall-of-thorns"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :strength 5
  :subtype [:barrier :ap]

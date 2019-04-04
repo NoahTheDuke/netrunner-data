@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "making-an-entrance"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:priority]
  :text "Play only as your first [click].\nLook at the top 6 cards of your stack. You may trash any of those cards and arrange the rest in any order."

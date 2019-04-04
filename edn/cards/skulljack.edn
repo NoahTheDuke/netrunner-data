@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "skulljack"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:cybernetic]
  :text "When you install Skulljack, suffer 1 brain damage.\nThe trash cost of all cards is lowered by 1."

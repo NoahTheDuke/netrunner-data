@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "dadiana-chacon"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:connection]
  :text "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage."

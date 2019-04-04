@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "crypt"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:virtual]
  :text "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt.\n[click], [trash], <strong>3 hosted virus counters</strong>: Search your stack for a <strong>virus</strong> program and install it (paying its install cost), then shuffle your stack."

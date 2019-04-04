@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :apex
  :id "hunting-grounds"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:location :virtual]
  :text "Once per turn, prevent a \"when encountered\" ability on a piece of ice.\n[trash]: Install the top 3 cards of your stack facedown."

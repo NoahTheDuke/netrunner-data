@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "earthrise-hotel"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:location :ritzy]
  :text "Place 3 power counters on Earthrise Hotel when it is installed. When there are no power counters left on Earthrise Hotel, trash it.\nWhen your turn begins, draw 2 cards and remove 1 power counter from Earthrise Hotel."

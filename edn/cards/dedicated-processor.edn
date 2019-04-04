@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "dedicated-processor"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:mod]
  :text "Install Dedicated Processor on a non-<strong>AI icebreaker</strong>.\nHost <strong>icebreaker</strong> gains \"2[credit]: +4 strength.\""

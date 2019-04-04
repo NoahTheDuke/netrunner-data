@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "zaibatsu-loyalty"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.\n1[credit] or [trash]: Prevent 1 card from being exposed."
  :title "Zaibatsu Loyalty"

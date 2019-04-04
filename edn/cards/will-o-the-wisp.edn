@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "will-o-the-wisp"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :text "Whenever there is a successful run on this server, you may trash Will-o'-the-Wisp. If you do, choose an <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of his or her stack."
  :title "Will-o'-the-Wisp"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "direct-access"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:run]
  :text "While you are resolving this event, each player's identity loses all abilities.\nRun any server. When that run ends, you may shuffle this event into your stack."

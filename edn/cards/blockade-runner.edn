@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "blockade-runner"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:connection]
  :text "[click],[click]: Draw 3 cards. Shuffle 1 card from your grip into your stack."

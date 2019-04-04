@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "surge"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "Play only if you placed at least 1 virus counter on a program this turn.\nPlace 2 virus counters on that program."
  :title "Surge"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "crisium-grid"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:region]
  :text "Successful runs against this server are not considered to be successful or unsuccessful for the purposes of card abilities.\nLimit 1 <strong>region</strong> per server."

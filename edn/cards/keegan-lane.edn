@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "keegan-lane"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:sysop]
  :text "[trash], <strong>remove 1 tag:</strong> Trash 1 program. Use this ability only during a run on this server."

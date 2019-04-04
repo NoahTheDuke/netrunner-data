@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "susanoo-no-mikoto"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 7
  :subtype [:sentry :deflector]

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "hydra"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :strength 6
  :subtype [:sentry :ap]

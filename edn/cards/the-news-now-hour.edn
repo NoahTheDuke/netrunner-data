@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "the-news-now-hour"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:cast]
  :text "The Runner cannot play <strong>current</strong> events."

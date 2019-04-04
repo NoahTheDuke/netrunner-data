@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-runner
  :id "government-investigations"
- :influence-value 0
+ :influence-cost 0
  :side :runner
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhile secretly spending credits, players cannot spend 2[credit]."

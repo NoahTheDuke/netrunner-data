@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "free-lunch"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :strength 4
  :subtype [:code-gate]

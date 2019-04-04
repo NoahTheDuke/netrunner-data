@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "mr-stone"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :subtype [:executive]
  :text "Whenever the Runner takes 1 or more tags, do 1 meat damage."

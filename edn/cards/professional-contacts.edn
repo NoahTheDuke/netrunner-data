@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "professional-contacts"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:connection]
  :text "[click]: Gain 1[credit] and draw 1 card."

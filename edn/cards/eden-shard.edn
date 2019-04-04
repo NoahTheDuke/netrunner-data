@@ -2,7 +2,7 @@
  :deck-limit 1
  :faction :neutral-runner
  :id "eden-shard"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:virtual :source]
  :text "Whenever you make a successful run on R&D, instead of accessing cards, you may install Eden Shard from your grip, ignoring all costs.\n[trash]: The Corp draws 2 cards.\nLimit 1 per deck."

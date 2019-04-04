@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "traffic-analyzer"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Whenever you rez a piece of ice protecting this server, <trace>Trace 2</trace> If successful, the Corp gains 1[credit]."
  :title "Traffic Analyzer"

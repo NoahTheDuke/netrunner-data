@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "d4v1d"
- :influence-value 4
+ :influence-cost 4
  :memory-cost 1
  :side :runner
  :text "Place 3 power counters on D4v1d when it is installed.\n<strong>Hosted power counter:</strong> Break ice subroutine on a piece of ice that has a strength of 5 or greater."

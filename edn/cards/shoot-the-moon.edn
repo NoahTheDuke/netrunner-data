@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "shoot-the-moon"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nRez 1 piece of ice for each tag the Runner has, ignoring all costs."

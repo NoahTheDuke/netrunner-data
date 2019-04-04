@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "hokusai-grid"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:region]
  :text "Whenever there is a successful run on this server, do 1 net damage.\nLimit 1 <strong>region</strong> per server."

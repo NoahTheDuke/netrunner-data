@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "toshiyuki-sakai"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :subtype [:executive]
  :text "Toshiyuki Sakai can be advanced.\nIf Toshiyuki Sakai is accessed while installed, you may swap him with an agenda or asset from HQ. The new agenda or asset is installed unrezzed, and keeps all advancement tokens on Toshiyuki Sakai. The Runner can choose not to access the new card."

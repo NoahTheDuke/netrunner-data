@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "constellation-protocol"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "When your turn begins, you may move an advancement token from a piece of ice to an installed piece of ice that can be advanced."
  :title "Constellation Protocol"

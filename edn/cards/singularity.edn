@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "singularity"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:double :run]
  :text "Run a remote server. If successful, instead of accessing cards, trash all cards installed in that server.\n<errata>Errata from CR 1.2</errata>"

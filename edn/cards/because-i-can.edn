@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "because-i-can"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:run]
  :text "Make a run on a remote server. If successful, instead of accessing cards, you may force the Corp to shuffle all cards in that server into R&D."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "oduduwa"
- :influence-value 5
+ :influence-cost 5
  :side :corp
  :strength 5
  :subtype [:code-gate]

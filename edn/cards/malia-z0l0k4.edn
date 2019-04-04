@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "malia-z0l0k4"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:bioroid]
  :text "When you rez Malia Z0L0K4, choose an installed non-<strong>virtual</strong> resource. The text box of that resource is blank."

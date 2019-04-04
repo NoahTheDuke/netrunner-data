@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "riot-suppression"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :subtype [:reprisal :gray-ops]
  :text "Play only if the Runner trashed at least 1 Corp card during his or her last turn.\nThe Runner has 3 fewer [click] to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it."

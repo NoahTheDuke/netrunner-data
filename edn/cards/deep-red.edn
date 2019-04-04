@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "deep-red"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:console]
  :text "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player."

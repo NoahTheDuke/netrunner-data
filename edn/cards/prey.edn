@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :apex
  :id "prey"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Make a run. Once during this run, when you pass a piece of ice, you may trash a number of your installed cards equal to the strength of that ice. If you do, trash that ice."

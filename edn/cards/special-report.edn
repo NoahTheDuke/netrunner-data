@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "special-report"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "Shuffle any number of cards from HQ into R&D. Draw that number of cards."
  :title "Special Report"

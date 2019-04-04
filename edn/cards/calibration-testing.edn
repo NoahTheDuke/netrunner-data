@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :nbn
  :id "calibration-testing"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:off-site]
  :text "Install only in a remote server.\n[trash]: Place 1 advancement token on a card in this server."

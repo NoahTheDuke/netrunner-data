@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "i-ve-had-worse"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Draw 3 cards.\nWhenever I've Had Worse is trashed by taking net or meat damage, draw 3 cards."
  :title "I've Had Worse"

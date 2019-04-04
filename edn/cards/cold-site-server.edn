@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "cold-site-server"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:facility]
  :text "[click]: Place 1 power counter on this upgrade.\nAs an additional cost to run this server, the Runner must spend 1[click] and 1[credit] for each hosted power counter.\nWhen your turn begins, remove all hosted power counters."

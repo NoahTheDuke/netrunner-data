@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "satellite-uplink"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "Expose up to 2 cards."
  :title "Satellite Uplink"

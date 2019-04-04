@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "gemini"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 5
  :subtype [:sentry :tracer :ap]

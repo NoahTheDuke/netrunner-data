@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "witness-tampering"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:double :gray-ops]
  :text "As an additional cost to play this operation, spend [click].\nRemove up to 2 bad publicity."

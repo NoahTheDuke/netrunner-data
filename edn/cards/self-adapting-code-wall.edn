@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "self-adapting-code-wall"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :strength 1
  :subtype [:barrier]

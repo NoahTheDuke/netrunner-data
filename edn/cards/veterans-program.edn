@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "veterans-program"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:initiative]
  :text "When you score Veterans Program, you may remove up to 2 bad publicity."

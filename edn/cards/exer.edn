@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "exer"
- :influence-value 3
+ :influence-cost 3
  :memory-cost 1
  :side :runner
  :subtype [:virus]

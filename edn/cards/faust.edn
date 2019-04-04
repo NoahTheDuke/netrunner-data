@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "faust"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :strength 2

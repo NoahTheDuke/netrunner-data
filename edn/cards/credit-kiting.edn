@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "credit-kiting"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "Play only if you made a successful run on a central server this turn.\nInstall a card from your grip, lowering its install cost by 8[credit], and take 1 tag."
  :title "Credit Kiting"

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "executive-boot-camp"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "When your turn begins, you may rez a card, lowering the rez cost by 1[credit].\n1[credit],[trash]: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D."
  :title "Executive Boot Camp"

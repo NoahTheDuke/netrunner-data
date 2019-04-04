@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "test-ground"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :text "Test Ground can be advanced.\n[trash]: Derez 1 card for each advancement token on Test Ground."
  :title "Test Ground"

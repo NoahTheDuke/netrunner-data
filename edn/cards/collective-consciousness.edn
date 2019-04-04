@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "collective-consciousness"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 2
  :side :runner
  :text "Draw 1 card whenever the Corp rezzes a piece of ice."

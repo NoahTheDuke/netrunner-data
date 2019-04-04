@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "sneakdoor-beta"
- :influence-value 3
+ :influence-cost 3
  :memory-cost 2
  :side :runner
  :text "[click]: Make a run on Archives. If successful, instead treat it as a successful run on HQ."

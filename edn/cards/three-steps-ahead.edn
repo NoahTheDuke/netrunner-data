@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "three-steps-ahead"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:priority]
  :text "Play only as your first [click].\nWhen this turn ends, gain 2[credit] for each successful run you made during it."

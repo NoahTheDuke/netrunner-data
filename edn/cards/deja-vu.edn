@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "deja-vu"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap to your grip."
  :title "Déjà Vu"

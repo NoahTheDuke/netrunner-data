@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "peak-efficiency"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :text "Gain 1[credit] for each rezzed piece of ice."
  :title "Peak Efficiency"

@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "show-of-force"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:security]
  :text "When you score Show of Force, do 2 meat damage."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "analog-dreamers"
- :influence-value 3
+ :influence-cost 3
  :memory-cost 1
  :side :runner
  :text "[click]: Make a run on R&D. If successful, instead of accessing cards, you may choose an unrezzed non-ice card with no advancement tokens on it. The Corp shuffles that card into R&D."

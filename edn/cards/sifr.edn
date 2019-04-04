@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "sifr"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:console]
  :text "+2[mu]\nOnce per turn, when you encounter a piece of ice, you may reduce your maximum hand size by 1 until the beginning of your next turn. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter.\nLimit 1 <strong>console</strong> per player."

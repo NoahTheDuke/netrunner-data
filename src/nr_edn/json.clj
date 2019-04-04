@@ -136,7 +136,7 @@
                   :cost (get-json-cost card)
                   :deck_limit (:deck-limit card)
                   :faction_code (get-json-faction card)
-                  :faction_cost (:influence-value card)
+                  :faction_cost (:influence-cost card)
                   :flavor (:flavor card)
                   :illustrator (:illustrator card)
                   :influence_limit (get-json-influence-limit card)

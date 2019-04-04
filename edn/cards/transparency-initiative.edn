@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "transparency-initiative"
- :influence-value 4
+ :influence-cost 4
  :side :corp
  :text "Turn an agenda faceup and install Transparency Initiative on that agenda as a hosted condition counter with the text \"Host agenda gains <strong>public</strong>. Whenever you advance host agenda, gain 1[credit].\""
  :title "Transparency Initiative"

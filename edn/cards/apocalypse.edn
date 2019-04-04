@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :apex
  :id "apocalypse"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :text "Play only if you made a successful run on HQ, R&D and Archives this turn.\nTrash all installed Corp cards. Turn all installed Runner cards facedown."
  :title "Apocalypse"

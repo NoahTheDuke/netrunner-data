@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "run-amok"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:run :sabotage]
  :text "Make a run. When the run ends, trash 1 piece of ice that was rezzed during this run."

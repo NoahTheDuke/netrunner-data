@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "by-any-means"
- :influence-value 5
+ :influence-cost 5
  :side :runner
  :subtype [:priority :sabotage]
  :text "Play only as your first [click].\nFor the remainder of the turn, whenever you access a card not in Archives, trash it and suffer 1 meat damage.\n<errata>Errata from CR 1.2</errata>"

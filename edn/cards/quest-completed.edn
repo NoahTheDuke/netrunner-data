@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "quest-completed"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :text "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAccess 1 installed card (non-ice)."
  :title "Quest Completed"

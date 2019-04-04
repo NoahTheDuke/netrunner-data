@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :jinteki
  :id "replanting"
- :influence-value 3
+ :influence-cost 3
  :side :corp
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nAdd one of your installed cards to HQ. Install 2 cards from HQ, ignoring all costs."

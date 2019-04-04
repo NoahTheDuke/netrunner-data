@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "checkpoint"
- :influence-value 2
+ :influence-cost 2
  :side :corp
  :strength 7
  :subtype [:code-gate :tracer :illicit]

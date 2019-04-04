@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "thomas-haas"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:executive]
  :text "Thomas Haas can be advanced.\n[trash]: Gain 2[credit] for each advancement token on Thomas Haas."

@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :anarch
  :id "chop-bot-3000"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :text "When your turn begins, you may trash another of your installed cards. If you do, draw 1 card or remove 1 tag."
  :title "Chop Bot 3000"

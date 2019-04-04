@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "order-of-sol"
- :influence-value 1
+ :influence-cost 1
  :side :runner
  :subtype [:location]
  :text "The first time you have no credits in your credit pool each turn, gain 1[credit]."

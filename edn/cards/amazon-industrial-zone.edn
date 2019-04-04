@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :weyland-consortium
  :id "amazon-industrial-zone"
- :influence-value 1
+ :influence-cost 1
  :side :corp
  :subtype [:region]
  :text "Whenever you install a piece of ice protecting this server, you may immediately rez it, lowering its rez cost by 3.\nLimit 1 <strong>region</strong> per server."

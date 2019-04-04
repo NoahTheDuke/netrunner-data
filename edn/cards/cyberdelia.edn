@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "cyberdelia"
- :influence-value 3
+ :influence-cost 3
  :side :runner
  :subtype [:chip]
  :text "+1[mu]\nThe first time you break all subroutines on a piece of ice each turn, you may gain 1[credit]."

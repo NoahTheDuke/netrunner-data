@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "expert-schedule-analyzer"
- :influence-value 2
+ :influence-cost 2
  :memory-cost 1
  :side :runner
  :text "[click]: Make a run on HQ. If successful, instead of accessing cards, you may reveal all cards in HQ."

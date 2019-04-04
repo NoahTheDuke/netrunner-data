@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :criminal
  :id "thunder-art-gallery"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:location :ritzy]
  :text "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1."

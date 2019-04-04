@@ -2,7 +2,7 @@
  :deck-limit 6
  :faction :shaper
  :id "out-of-the-ashes"
- :influence-value 2
+ :influence-cost 2
  :side :runner
  :subtype [:run]
  :text "Make a run.\nWhen your turn begins, if Out of the Ashes is in your heap, you may remove it from the game to make a run.\nLimit 6 per deck."

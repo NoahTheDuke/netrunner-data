@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "pad-campaign"
- :influence-value 0
+ :influence-cost 0
  :side :corp
  :subtype [:advertisement]
  :text "Gain 1[credit] when your turn begins."
