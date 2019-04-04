@@ -291,22 +291,6 @@
   :id "eternal-mwl-1-1"
   :name "Eternal MWL 1.1"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
-          "aesop-s-pawnshop" {:is-restricted 1}
-          "employee-strike" {:is-restricted 1}
-          "estelle-moon" {:deck-limit 0}
-          "global-food-initiative" {:is-restricted 1}
-          "hired-help" {:deck-limit 0}
-          "hunter-seeker" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
-          "magnum-opus" {:is-restricted 1}
-          "mti-mwekundu" {:is-restricted 1}
-          "rashida-jaheem" {:is-restricted 1}
-          "surveyor" {:is-restricted 1}}
-  :date-start "2018-10-05"
-  :format "socr8"
-  :id "socr8"
-  :name "stimhack-online-cache-refresh-8-mwl"}
- {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "accelerated-diagnostics" {:deck-limit 0}
           "account-siphon" {:deck-limit 0}

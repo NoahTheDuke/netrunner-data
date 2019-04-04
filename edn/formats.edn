@@ -75,17 +75,17 @@
            "magnum-opus"]
   :mwl "napd-mwl-2-2"}
  {:id "socr8"
-  :name "Stimhack Online Cache Refresh 8"
+  :name "Stimhack Online Cache Refresh 9"
   :cycles ["kitara"
+           "ashes"
            "creation-and-control"
            "honor-and-profit"
            "order-and-chaos"
            "data-and-destiny"
-           "terminal-directive"
-           "revised-core"
            "reign-and-reverie"
-           "magnum-opus"]
-  :mwl "socr8-mwl"}
+           "magnum-opus"
+           "system-core-2019"]
+  :mwl "standard-mwl-3-1"}
  {:id "classic"
   :name "Classic"
   :cycles ["core"
@@ -97,6 +97,7 @@
            "flashpoint"
            "red-sand"
            "kitara"
+           "ashes"
            "creation-and-control"
            "honor-and-profit"
            "order-and-chaos"
