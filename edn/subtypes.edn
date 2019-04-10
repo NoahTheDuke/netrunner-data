@@ -1,288 +1,192 @@
 [{:id :advertisement
-  :name "Advertisement"
-  :side :corp}
+  :name "Advertisement"}
  {:id :ai
-  :name "AI"
-  :side :runner}
+  :name "AI"}
  {:id :alliance
-  :name "Alliance"
-  :side :corp}
+  :name "Alliance"}
  {:id :ambush
-  :name "Ambush"
-  :side :corp}
+  :name "Ambush"}
  {:id :ap
-  :name "AP"
-  :side :corp}
+  :name "AP"}
  {:id :barrier
-  :name "Barrier"
-  :side :corp}
+  :name "Barrier"}
  {:id :beanstalk
-  :name "Beanstalk"
-  :side :corp}
+  :name "Beanstalk"}
  {:id :bioroid
-  :name "Bioroid"
-  :side :both}
+  :name "Bioroid"}
  {:id :black-ops
-  :name "Black Ops"
-  :side :corp}
+  :name "Black Ops"}
  {:id :bomb
-  :name "Bomb"
-  :side :runner}
+  :name "Bomb"}
  {:id :cast
-  :name "Cast"
-  :side :corp}
+  :name "Cast"}
  {:id :caissa
-  :name "Caïssa"
-  :side :runner}
+  :name "Caïssa"}
  {:id :character
-  :name "Character"
-  :side :corp}
+  :name "Character"}
  {:id :chip
-  :name "Chip"
-  :side :runner}
+  :name "Chip"}
  {:id :clan
-  :name "Clan"
-  :side :runner}
+  :name "Clan"}
  {:id :clone
-  :name "Clone"
-  :side :both}
+  :name "Clone"}
  {:id :cloud
-  :name "Cloud"
-  :side :runner}
+  :name "Cloud"}
  {:id :code-gate
-  :name "Code Gate"
-  :side :corp}
+  :name "Code Gate"}
  {:id :companion
-  :name "Companion"
-  :side :runner}
+  :name "Companion"}
  {:id :condition
-  :name "Condition"
-  :side :both}
+  :name "Condition"}
  {:id :connection
-  :name "Connection"
-  :side :both}
+  :name "Connection"}
  {:id :console
-  :name "Console"
-  :side :runner}
+  :name "Console"}
  {:id :consumer-grade
-  :name "Consumer-grade"
-  :side :runner}
+  :name "Consumer-grade"}
  {:id :corp
-  :name "Corp"
-  :side :corp}
+  :name "Corp"}
  {:id :corporation
-  :name "Corporation"
-  :side :corp}
+  :name "Corporation"}
  {:id :current
-  :name "Current"
-  :side :both}
+  :name "Current"}
  {:id :cybernetic
-  :name "Cybernetic"
-  :side :runner}
+  :name "Cybernetic"}
  {:id :cyborg
-  :name "Cyborg"
-  :side :runner}
+  :name "Cyborg"}
  {:id :daemon
-  :name "Daemon"
-  :side :runner}
+  :name "Daemon"}
  {:id :decoder
-  :name "Decoder"
-  :side :runner}
+  :name "Decoder"}
  {:id :deflector
-  :name "Deflector"
-  :side :corp}
+  :name "Deflector"}
  {:id :destroyer
-  :name "Destroyer"
-  :side :corp}
+  :name "Destroyer"}
  {:id :deva
-  :name "Deva"
-  :side :runner}
+  :name "Deva"}
  {:id :digital
-  :name "Digital"
-  :side :runner}
+  :name "Digital"}
  {:id :directive
-  :name "Directive"
-  :side :runner}
+  :name "Directive"}
  {:id :division
-  :name "Division"
-  :side :corp}
+  :name "Division"}
  {:id :double
-  :name "Double"
-  :side :both}
+  :name "Double"}
  {:id :enforcer
-  :name "Enforcer"
-  :side :corp}
+  :name "Enforcer"}
  {:id :executive
-  :name "Executive"
-  :side :corp}
+  :name "Executive"}
  {:id :expansion
-  :name "Expansion"
-  :side :corp}
+  :name "Expansion"}
  {:id :facility
-  :name "Facility"
-  :side :corp}
+  :name "Facility"}
  {:id :fracter
-  :name "Fracter"
-  :side :runner}
+  :name "Fracter"}
  {:id :g-mod
-  :name "G-mod"
-  :side :runner}
+  :name "G-mod"}
  {:id :gear
-  :name "Gear"
-  :side :runner}
+  :name "Gear"}
  {:id :genetics
-  :name "Genetics"
-  :side :runner}
+  :name "Genetics"}
  {:id :government
-  :name "Government"
-  :side :both}
+  :name "Government"}
  {:id :grail
-  :name "Grail"
-  :side :corp}
+  :name "Grail"}
  {:id :gray-ops
-  :name "Gray Ops"
-  :side :corp}
+  :name "Gray Ops"}
  {:id :hostile
-  :name "Hostile"
-  :side :corp}
+  :name "Hostile"}
  {:id :icebreaker
-  :name "Icebreaker"
-  :side :runner}
+  :name "Icebreaker"}
  {:id :illicit
-  :name "Illicit"
-  :side :corp}
+  :name "Illicit"}
  {:id :initiative
-  :name "Initiative"
-  :side :corp}
+  :name "Initiative"}
  {:id :job
-  :name "Job"
-  :side :runner}
+  :name "Job"}
  {:id :killer
-  :name "Killer"
-  :side :runner}
+  :name "Killer"}
  {:id :link
-  :name "Link"
-  :side :runner}
+  :name "Link"}
  {:id :location
-  :name "Location"
-  :side :runner}
+  :name "Location"}
  {:id :megacorp
-  :name "Megacorp"
-  :side :corp}
+  :name "Megacorp"}
  {:id :mod
-  :name "Mod"
-  :side :runner}
+  :name "Mod"}
  {:id :morph
-  :name "Morph"
-  :side :corp}
+  :name "Morph"}
  {:id :mythic
-  :name "Mythic"
-  :side :corp}
+  :name "Mythic"}
  {:id :natural
-  :name "Natural"
-  :side :runner}
+  :name "Natural"}
  {:id :next
-  :name "NEXT"
-  :side :corp}
+  :name "NEXT"}
  {:id :observer
-  :name "Observer"
-  :side :corp}
+  :name "Observer"}
  {:id :off-site
-  :name "Off-site"
-  :side :corp}
+  :name "Off-site"}
  {:id :orgcrime
-  :name "Orgcrime"
-  :side :both}
+  :name "Orgcrime"}
  {:id :police-department
-  :name "Police Department"
-  :size :corp}
+  :name "Police Department"}
  {:id :political
-  :name "Political"
-  :side :corp}
+  :name "Political"}
  {:id :priority
-  :name "Priority"
-  :side :runner}
+  :name "Priority"}
  {:id :psi
-  :name "Psi"
-  :side :corp}
+  :name "Psi"}
  {:id :public
-  :name "Public"
-  :side :corp}
+  :name "Public"}
  {:id :region
-  :name "Region"
-  :side :corp}
+  :name "Region"}
  {:id :remote
-  :name "Remote"
-  :side :runner}
+  :name "Remote"}
  {:id :reprisal
-  :name "Reprisal"
-  :side :corp}
+  :name "Reprisal"}
  {:id :research
-  :name "Research"
-  :side :corp}
+  :name "Research"}
  {:id :ritzy
-  :name "Ritzy"
-  :side :both}
+  :name "Ritzy"}
  {:id :run
-  :name "Run"
-  :side :runner}
+  :name "Run"}
  {:id :sabotage
-  :name "Sabotage"
-  :side :runner}
+  :name "Sabotage"}
  {:id :security
-  :name "Security"
-  :side :corp}
+  :name "Security"}
  {:id :security-protocol
-  :name "Security Protocol"
-  :side :corp}
+  :name "Security Protocol"}
  {:id :seedy
-  :name "Seedy"
-  :side :both}
+  :name "Seedy"}
  {:id :sensie
-  :name "Sensie"
-  :side :corp}
+  :name "Sensie"}
  {:id :sentry
-  :name "Sentry"
-  :side :corp}
+  :name "Sentry"}
  {:id :source
-  :name "Source"
-  :side :both}
+  :name "Source"}
  {:id :stealth
-  :name "Stealth"
-  :side :runner}
+  :name "Stealth"}
  {:id :subsidiary
-  :name "Subsidiary"
-  :side :corp}
+  :name "Subsidiary"}
  {:id :sysop
-  :name "Sysop"
-  :side :corp}
+  :name "Sysop"}
  {:id :terminal
-  :name "Terminal"
-  :side :corp}
+  :name "Terminal"}
  {:id :tracer
-  :name "Tracer"
-  :side :corp}
+  :name "Tracer"}
  {:id :transaction
-  :name "Transaction"
-  :side :corp}
+  :name "Transaction"}
  {:id :trap
-  :name "Trap"
-  :side :corp}
+  :name "Trap"}
  {:id :triple
-  :name "Triple"
-  :side :corp}
+  :name "Triple"}
  {:id :unorthodox
-  :name "Unorthodox"
-  :side :corp}
+  :name "Unorthodox"}
  {:id :vehicle
-  :name "Vehicle"
-  :side :runner}
+  :name "Vehicle"}
  {:id :virtual
-  :name "Virtual"
-  :side :runner}
+  :name "Virtual"}
  {:id :virus
-  :name "Virus"
-  :side :runner}
+  :name "Virus"}
  {:id :weapon
-  :name "Weapon"
-  :side :runner}]
+  :name "Weapon"}]

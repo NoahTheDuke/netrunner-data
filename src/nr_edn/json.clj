@@ -80,8 +80,6 @@
   (let [
         mwls (load-data "mwls" {:id :code})
         sides (load-data "sides")
-        factions (load-data "factions")
-        types (load-data "types")
         subtypes (load-data "subtypes")
         formats (load-data "formats")
         cycles (load-data "cycles")
@@ -162,13 +160,12 @@
                       (if-let [pairs (seq (flatten (for [[k v] card :when (= v "null")] [k nil])))]
                         (apply assoc card pairs)
                         card)))
-               (sort-by :code)
+               (sort-by :position)
                (group-by :setname))]
       (doseq [[k pack] packs]
         (->> pack
              (map #(dissoc % :setname))
              (map #(into (sorted-map) %))
-             ; (into (sorted-map))
              (#(json/generate-string % pretty))
              (#(str % "\n"))
              (spit (io/file "json" "pack" (str (:pack_code (first pack)) ".json"))))))))
