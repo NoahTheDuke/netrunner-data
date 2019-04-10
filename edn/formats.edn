@@ -74,8 +74,8 @@
            "reign-and-reverie"
            "magnum-opus"]
   :mwl "napd-mwl-2-2"}
- {:id "socr8"
-  :name "Stimhack Online Cache Refresh 9"
+ {:id "socr"
+  :name "Stimhack Online Cache Refresh"
   :cycles ["kitara"
            "ashes"
            "creation-and-control"
