@@ -6,28 +6,20 @@
   :position 1
   :quantity 3
   :set-id "magnum-opus"}
+ {:card-id "embolus"
+  :code "23011"
+  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'argenio</champion>"
+  :illustrator "Mariusz Siergiejew"
+  :image-url "https://netrunnerdb.com/card_image/23011.png"
+  :position 11
+  :quantity 3
+  :set-id "magnum-opus"}
  {:card-id "crowdfunding"
   :code "23013"
   :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>"
   :illustrator "Mariusz Siergiejew"
   :image-url "https://netrunnerdb.com/card_image/23013.png"
-  :position 2
-  :quantity 3
-  :set-id "magnum-opus"}
- {:card-id "slot-machine"
-  :code "23045"
-  :flavor "<champion>Designed by 2017 World Champion Wilfy Horig</champion>"
-  :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/23045.png"
-  :position 3
-  :quantity 3
-  :set-id "magnum-opus"}
- {:card-id "border-control"
-  :code "23054"
-  :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>"
-  :illustrator "Adam S. Doyle"
-  :image-url "https://netrunnerdb.com/card_image/23054.png"
-  :position 4
+  :position 13
   :quantity 3
   :set-id "magnum-opus"}
  {:card-id "timely-public-release"
@@ -35,15 +27,23 @@
   :flavor "<champion>Designed by 2015 World Champion Dan D'argenio</champion>"
   :illustrator "Matthew Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/23027.png"
-  :position 5
+  :position 27
   :quantity 3
   :set-id "magnum-opus"}
- {:card-id "embolus"
-  :code "23011"
-  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'argenio</champion>"
-  :illustrator "Mariusz Siergiejew"
-  :image-url "https://netrunnerdb.com/card_image/23011.png"
-  :position 6
+ {:card-id "slot-machine"
+  :code "23045"
+  :flavor "<champion>Designed by 2017 World Champion Wilfy Horig</champion>"
+  :illustrator "Ed Mattinian"
+  :image-url "https://netrunnerdb.com/card_image/23045.png"
+  :position 45
+  :quantity 3
+  :set-id "magnum-opus"}
+ {:card-id "border-control"
+  :code "23054"
+  :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://netrunnerdb.com/card_image/23054.png"
+  :position 54
   :quantity 3
   :set-id "magnum-opus"}
  {:card-id "watch-the-world-burn"
@@ -51,7 +51,7 @@
   :flavor "<champion>Designed by the Day 1A players at Magnum Opus</champion>"
   :illustrator "Emilio Rodriguez"
   :image-url "https://netrunnerdb.com/card_image/23100.png"
-  :position 7
+  :position 100
   :quantity 1
   :set-id "magnum-opus"}
  {:card-id "hired-help"
@@ -59,6 +59,6 @@
   :flavor "<champion>Designed by the Day 1B players at Magnum Opus</champion>"
   :illustrator "Matthew Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/23101.png"
-  :position 8
+  :position 101
   :quantity 1
   :set-id "magnum-opus"}]
