@@ -1,0 +1,24 @@
+[{:id :campaign
+  :name "Campaign"
+  :description "A campaign expansion that has narrative or structured elements"}
+ {:id :core
+  :name "Core"
+  :description "A core set"}
+ {:id :data-pack
+  :name "Data Pack"
+  :description "A card release, in a cycle"}
+ {:id :deluxe
+  :name "Deluxe"
+  :description "A release containing more cards than a data pack, not in a cycle"}
+ {:id :draft
+  :name "Draft"
+  :description "A set designed for use in the draft format"}
+ {:id :expansion
+  :name "Expansion"
+  :description "A set of cards not in a big box and not in a cycle"}
+ {:id :promo
+  :name "Promo"
+  :description "A set of promos, like alt-arts or give-aways"}
+ {:id :world-champ
+  :name "World Champ"
+  :description "The decklists that won Worlds each year"}]

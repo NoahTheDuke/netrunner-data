@@ -1116,7 +1116,7 @@
   :set-id "system-core-2019"}
  {:card-id "hedge-fund"
   :code "25146"
-  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
+  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt.\n-The Anarch's Dictionary, Volume Who's Counting?"
   :illustrator "Mark Molnar"
   :image-url "https://netrunnerdb.com/card_image/25146.png"
   :position 146

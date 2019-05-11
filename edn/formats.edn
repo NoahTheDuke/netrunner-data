@@ -14,7 +14,7 @@
            "reign-and-reverie"
            "magnum-opus"
            "system-core-2019"]
-  :mwl "standard-mwl-3-1"}
+  :mwl "standard-mwl-3-2"}
  {:id "eternal"
   :name "Eternal"
   :cycles ["core"

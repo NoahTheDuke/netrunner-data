@@ -5,6 +5,7 @@
   :id "draft"
   :name "Draft"
   :position 1
+  :set-type :draft
   :size nil}
  {:code "core"
   :cycle-id "core"
@@ -13,6 +14,7 @@
   :id "core-set"
   :name "Core Set"
   :position 1
+  :set-type :core
   :size 113}
  {:code "wla"
   :cycle-id "genesis"
@@ -21,6 +23,7 @@
   :id "what-lies-ahead"
   :name "What Lies Ahead"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "ta"
   :cycle-id "genesis"
@@ -29,6 +32,7 @@
   :id "trace-amount"
   :name "Trace Amount"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "ce"
   :cycle-id "genesis"
@@ -37,6 +41,7 @@
   :id "cyber-exodus"
   :name "Cyber Exodus"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "asis"
   :cycle-id "genesis"
@@ -45,6 +50,7 @@
   :id "a-study-in-static"
   :name "A Study in Static"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "hs"
   :cycle-id "genesis"
@@ -53,6 +59,7 @@
   :id "humanity-s-shadow"
   :name "Humanity's Shadow"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "fp"
   :cycle-id "genesis"
@@ -61,6 +68,7 @@
   :id "future-proof"
   :name "Future Proof"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "cac"
   :cycle-id "creation-and-control"
@@ -69,6 +77,7 @@
   :id "creation-and-control"
   :name "Creation and Control"
   :position 1
+  :set-type :deluxe
   :size 55}
  {:code "om"
   :cycle-id "spin"
@@ -77,6 +86,7 @@
   :id "opening-moves"
   :name "Opening Moves"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "st"
   :cycle-id "spin"
@@ -85,6 +95,7 @@
   :id "second-thoughts"
   :name "Second Thoughts"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "mt"
   :cycle-id "spin"
@@ -93,6 +104,7 @@
   :id "mala-tempora"
   :name "Mala Tempora"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "tc"
   :cycle-id "spin"
@@ -101,6 +113,7 @@
   :id "true-colors"
   :name "True Colors"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "fal"
   :cycle-id "spin"
@@ -109,6 +122,7 @@
   :id "fear-and-loathing"
   :name "Fear and Loathing"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "dt"
   :cycle-id "spin"
@@ -117,6 +131,7 @@
   :id "double-time"
   :name "Double Time"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "hap"
   :cycle-id "honor-and-profit"
@@ -125,6 +140,7 @@
   :id "honor-and-profit"
   :name "Honor and Profit"
   :position 1
+  :set-type :deluxe
   :size 55}
  {:code "up"
   :cycle-id "lunar"
@@ -133,6 +149,7 @@
   :id "upstalk"
   :name "Upstalk"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "tsb"
   :cycle-id "lunar"
@@ -141,6 +158,7 @@
   :id "the-spaces-between"
   :name "The Spaces Between"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "fc"
   :cycle-id "lunar"
@@ -149,6 +167,7 @@
   :id "first-contact"
   :name "First Contact"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "uao"
   :cycle-id "lunar"
@@ -157,6 +176,7 @@
   :id "up-and-over"
   :name "Up and Over"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "atr"
   :cycle-id "lunar"
@@ -165,6 +185,7 @@
   :id "all-that-remains"
   :name "All That Remains"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "ts"
   :cycle-id "lunar"
@@ -173,6 +194,7 @@
   :id "the-source"
   :name "The Source"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "oac"
   :cycle-id "order-and-chaos"
@@ -181,6 +203,7 @@
   :id "order-and-chaos"
   :name "Order and Chaos"
   :position 1
+  :set-type :deluxe
   :size 55}
  {:code "val"
   :cycle-id "sansan"
@@ -189,6 +212,7 @@
   :id "the-valley"
   :name "The Valley"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "bb"
   :cycle-id "sansan"
@@ -197,6 +221,7 @@
   :id "breaker-bay"
   :name "Breaker Bay"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "cc"
   :cycle-id "sansan"
@@ -205,6 +230,7 @@
   :id "chrome-city"
   :name "Chrome City"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "uw"
   :cycle-id "sansan"
@@ -213,6 +239,7 @@
   :id "the-underway"
   :name "The Underway"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "oh"
   :cycle-id "sansan"
@@ -221,6 +248,7 @@
   :id "old-hollywood"
   :name "Old Hollywood"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "uot"
   :cycle-id "sansan"
@@ -229,6 +257,7 @@
   :id "the-universe-of-tomorrow"
   :name "The Universe of Tomorrow"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "dad"
   :cycle-id "data-and-destiny"
@@ -237,6 +266,7 @@
   :id "data-and-destiny"
   :name "Data and Destiny"
   :position 1
+  :set-type :deluxe
   :size 55}
  {:code "kg"
   :cycle-id "mumbad"
@@ -245,6 +275,7 @@
   :id "kala-ghoda"
   :name "Kala Ghoda"
   :position 1
+  :set-type :data-pack
   :size 19}
  {:code "bf"
   :cycle-id "mumbad"
@@ -253,6 +284,7 @@
   :id "business-first"
   :name "Business First"
   :position 2
+  :set-type :data-pack
   :size 19}
  {:code "dag"
   :cycle-id "mumbad"
@@ -261,6 +293,7 @@
   :id "democracy-and-dogma"
   :name "Democracy and Dogma"
   :position 3
+  :set-type :data-pack
   :size 19}
  {:code "si"
   :cycle-id "mumbad"
@@ -269,6 +302,7 @@
   :id "salsette-island"
   :name "Salsette Island"
   :position 4
+  :set-type :data-pack
   :size 19}
  {:code "tlm"
   :cycle-id "mumbad"
@@ -277,6 +311,7 @@
   :id "the-liberated-mind"
   :name "The Liberated Mind"
   :position 5
+  :set-type :data-pack
   :size 19}
  {:code "ftm"
   :cycle-id "mumbad"
@@ -285,6 +320,7 @@
   :id "fear-the-masses"
   :name "Fear the Masses"
   :position 6
+  :set-type :data-pack
   :size 19}
  {:code "23s"
   :cycle-id "flashpoint"
@@ -293,6 +329,7 @@
   :id "23-seconds"
   :name "23 Seconds"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "bm"
   :cycle-id "flashpoint"
@@ -301,6 +338,7 @@
   :id "blood-money"
   :name "Blood Money"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "es"
   :cycle-id "flashpoint"
@@ -309,6 +347,7 @@
   :id "escalation"
   :name "Escalation"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "in"
   :cycle-id "flashpoint"
@@ -317,6 +356,7 @@
   :id "intervention"
   :name "Intervention"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "ml"
   :cycle-id "flashpoint"
@@ -325,6 +365,7 @@
   :id "martial-law"
   :name "Martial Law"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "qu"
   :cycle-id "flashpoint"
@@ -333,6 +374,7 @@
   :id "quorum"
   :name "Quorum"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "dc"
   :cycle-id "red-sand"
@@ -341,6 +383,7 @@
   :id "daedalus-complex"
   :name "Daedalus Complex"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "so"
   :cycle-id "red-sand"
@@ -349,6 +392,7 @@
   :id "station-one"
   :name "Station One"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "td"
   :cycle-id "terminal-directive"
@@ -357,6 +401,7 @@
   :id "terminal-directive"
   :name "Terminal Directive"
   :position 1
+  :set-type :campaign
   :size 57}
  {:code "eas"
   :cycle-id "red-sand"
@@ -365,6 +410,7 @@
   :id "earth-s-scion"
   :name "Earth's Scion"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "baw"
   :cycle-id "red-sand"
@@ -373,6 +419,7 @@
   :id "blood-and-water"
   :name "Blood and Water"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "fm"
   :cycle-id "red-sand"
@@ -381,6 +428,7 @@
   :id "free-mars"
   :name "Free Mars"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "cd"
   :cycle-id "red-sand"
@@ -389,6 +437,7 @@
   :id "crimson-dust"
   :name "Crimson Dust"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "core2"
   :cycle-id "revised-core"
@@ -397,6 +446,7 @@
   :id "revised-core-set"
   :name "Revised Core Set"
   :position 1
+  :set-type :core
   :size 132}
  {:code "ss"
   :cycle-id "kitara"
@@ -405,6 +455,7 @@
   :id "sovereign-sight"
   :name "Sovereign Sight"
   :position 1
+  :set-type :data-pack
   :size 20}
  {:code "dtwn"
   :cycle-id "kitara"
@@ -413,6 +464,7 @@
   :id "down-the-white-nile"
   :name "Down the White Nile"
   :position 2
+  :set-type :data-pack
   :size 20}
  {:code "cotc"
   :cycle-id "kitara"
@@ -421,6 +473,7 @@
   :id "council-of-the-crest"
   :name "Council of the Crest"
   :position 3
+  :set-type :data-pack
   :size 20}
  {:code "tdatd"
   :cycle-id "kitara"
@@ -429,6 +482,7 @@
   :id "the-devil-and-the-dragon"
   :name "The Devil and the Dragon"
   :position 4
+  :set-type :data-pack
   :size 20}
  {:code "win"
   :cycle-id "kitara"
@@ -437,6 +491,7 @@
   :id "whispers-in-nalubaale"
   :name "Whispers in Nalubaale"
   :position 5
+  :set-type :data-pack
   :size 20}
  {:code "ka"
   :cycle-id "kitara"
@@ -445,6 +500,7 @@
   :id "kampala-ascendent"
   :name "Kampala Ascendent"
   :position 6
+  :set-type :data-pack
   :size 20}
  {:code "rar"
   :cycle-id "reign-and-reverie"
@@ -453,6 +509,7 @@
   :id "reign-and-reverie"
   :name "Reign and Reverie"
   :position 1
+  :set-type :deluxe
   :size 58}
  {:code "mo"
   :cycle-id "magnum-opus"
@@ -461,6 +518,7 @@
   :id "magnum-opus"
   :name "Magnum Opus"
   :position 1
+  :set-type :expansion
   :size 8}
  {:code "napd"
   :cycle-id "napd-multiplayer"
@@ -469,6 +527,7 @@
   :id "napd-multiplayer"
   :name "NAPD Multiplayer"
   :position 1
+  :set-type :promo
   :size 1}
  {:code "sc19"
   :cycle-id "system-core-2019"
@@ -477,6 +536,7 @@
   :id "system-core-2019"
   :name "System Core 2019"
   :position 1
+  :set-type :core
   :size 147}
  {:code "df"
   :cycle-id "ashes"
@@ -485,4 +545,5 @@
   :id "downfall"
   :name "Downfall"
   :position 1
+  :set-type :data-pack
   :size 65}]

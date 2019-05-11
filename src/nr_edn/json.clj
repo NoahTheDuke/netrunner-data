@@ -7,7 +7,7 @@
             [cheshire.core :as json]
             [nr-edn.combine :refer [load-data load-sets load-edn-from-dir
                                     generate-formats merge-sets-and-cards]]
-            [nr-edn.utils :refer [cards->map vals->vec prune-null-fields]]))
+            [nr-edn.utils :refer [cards->map vals->vec prune-null-fields slugify]]))
 
 (defn build-system-core-2019
   [[title cards]]
@@ -53,12 +53,15 @@
 
 (defn get-json-mwl
   [cards mwls]
-  (cards->map :code
-        (for [m (vals mwls)]
-          (assoc m :cards
-                 (into {}
-                       (for [[k v] (:cards m)]
-                         [(:code (get cards k)) v]))))))
+  (for [m (vals mwls)]
+    (assoc m :cards
+           (into {}
+                 (for [[k v] (:cards m)
+                       :let [v (first (keys v))
+                             amt (first (vals v))]]
+                   (into {}
+                         (for [c (map :code (get cards k))]
+                           [c {(slugify v "_") amt}])))))))
 
 (defn get-json-code
   [cy]
@@ -88,12 +91,24 @@
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
         cards (merge-sets-and-cards set-cards raw-cards)
         card->formats (generate-formats sets cards formats mwls)
-        mwls (get-json-mwl (cards->map :card-id cards) mwls)
+        mwls (get-json-mwl (group-by :card-id cards) mwls)
         pretty {:pretty {:indentation 4
                          :indent-arrays? true
                          :object-field-value-separator ": "}}
         ]
     (io/make-parents "json/pack/temp")
+
+    ;; mwl.json
+    (->> (for [mwl mwls]
+           {:cards (into (sorted-map) (:cards mwl))
+            :code (:code mwl)
+            :date_start (:date-start mwl)
+            :name (:name mwl)})
+         (sort-by :date_start)
+         (map #(into (sorted-map) %))
+         (#(json/generate-string % pretty))
+         (#(str % "\n"))
+         (spit (io/file "json" "mwl.json")))
 
     ;; cycles.json
     (->> (for [[k cy] cycles]
