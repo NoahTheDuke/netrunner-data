@@ -76,14 +76,13 @@
   :mwl "napd-mwl-2-2"}
  {:id "socr"
   :name "Stimhack Online Cache Refresh"
-  :cycles ["kitara"
+  :cycles ["lunar"
            "ashes"
            "creation-and-control"
            "honor-and-profit"
            "order-and-chaos"
            "data-and-destiny"
            "reign-and-reverie"
-           "magnum-opus"
            "system-core-2019"]
   :mwl "standard-mwl-3-1"}
  {:id "classic"
