@@ -44,7 +44,7 @@
   :set-id "crimson-dust"}
  {:card-id "reshape"
   :code "12107"
-  :flavor "\"I wield the power cosmic - a galactic force that can reshape the Net!\" -S'onge Galaxy"
+  :flavor "\"I wield the power cosmic—a galactic force that can reshape the Net!\" -S'onge Galaxy"
   :illustrator "Alexander Tooth"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN48_107.png"
   :position 107
@@ -68,7 +68,7 @@
   :set-id "crimson-dust"}
  {:card-id "cfc-excavation-contract"
   :code "12110"
-  :flavor "\"Sure, we also use human labor - they are more easily replaced.\" -Emil Merk"
+  :flavor "\"Sure, we also use human labor—they are more easily replaced.\" -Emil Merk"
   :illustrator "Mark Molnar"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN48_110.png"
   :position 110

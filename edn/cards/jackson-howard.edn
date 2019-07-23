@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp
  :subtype [:executive]
- :text "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives to R&D."
+ :text "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives into R&D."
  :title "Jackson Howard"
  :trash-cost 3
  :type :asset

@@ -24,7 +24,7 @@
   :set-id "downfall"}
  {:card-id "stargate"
   :code "26004"
-  :flavor "\"Net <strong>space</strong> is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.\" -z\\h/r"
+  :flavor "\"Net <em>space</em> is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.\" -z\\h/r"
   :illustrator "Iain Fairclough"
   :image-url "https://netrunnerdb.com/card_image/26004.png"
   :position 4
@@ -55,7 +55,7 @@
   :set-id "downfall"}
  {:card-id "the-nihilist"
   :code "26008"
-  :flavor "\"...well, <strong>I'm</strong> laughing.\""
+  :flavor "\"...well, <em>I'm</em> laughing.\""
   :illustrator "Wyn Lacabra"
   :image-url "https://netrunnerdb.com/card_image/26008.png"
   :position 8
@@ -221,7 +221,7 @@
   :set-id "downfall"}
  {:card-id "rejig"
   :code "26029"
-  :flavor "I didn't say your hopper should be hauling garbage. I said it should be hauled away <strong>as</strong> garbage."
+  :flavor "I didn't say your hopper should be hauling garbage. I said it should be hauled away <em>as</em> garbage."
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26029.png"
   :position 29
@@ -292,7 +292,7 @@
   :set-id "downfall"}
  {:card-id "cold-site-server"
   :code "26038"
-  :flavor "The Net abhors a vacuum. Any unexplained gap must be <strong>made.</strong>"
+  :flavor "The Net abhors a vacuum. Any unexplained gap must be <em>made.</em>"
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26038.png"
   :position 38

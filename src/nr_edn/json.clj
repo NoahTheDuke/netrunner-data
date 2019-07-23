@@ -57,11 +57,11 @@
     (assoc m :cards
            (into {}
                  (for [[k v] (:cards m)
-                       :let [v (first (keys v))
+                       :let [t (first (keys v))
                              amt (first (vals v))]]
                    (into {}
                          (for [c (map :code (get cards k))]
-                           [c {(slugify v "_") amt}])))))))
+                           [c {(slugify t "_") amt}])))))))
 
 (defn get-json-code
   [cy]

@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :runner
  :subtype [:console]
- :text "+2[mu] +2[link]\n2[recurring-credit]\nUse the credits to pay for using <strong>icebreakers.</strong>\nLimit 1 <strong>console</strong> per player."
+ :text "+2[mu] +2[link]\n2[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nLimit 1 <strong>console</strong> per player."
  :title "The Toolbox"
  :type :hardware
  :uniqueness true}

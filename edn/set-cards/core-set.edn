@@ -548,7 +548,7 @@
   :set-id "core-set"}
  {:card-id "neural-emp"
   :code "01072"
-  :flavor "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at."
+  :flavor "The trick isn't hitting the person you were aiming at. It's hitting <strong>only</strong> the person you were aiming at."
   :illustrator "Christina Davis"
   :image-url "https://netrunnerdb.com/card_image/01072.png"
   :position 72
@@ -845,7 +845,7 @@
   :set-id "core-set"}
  {:card-id "hedge-fund"
   :code "01110"
-  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt.\n-The Anarch's Dictionary, Volume Who's Counting?"
+  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
   :illustrator "Gong Studios"
   :image-url "https://netrunnerdb.com/card_image/01110.png"
   :position 110

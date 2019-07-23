@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :runner
  :subtype [:orgcrime :run :terminal]
- :text "After you resolve this event, end your action phase.\nMake a run on a remote server. If successful, remove the first non-agenda card that you access from the game.\nUntil the game ends, whenever you access a copy of tha card, remove it from the game.\nLimit 1 per Deck."
+ :text "After you resolve this event, end your action phase.\nMake a run on a remote server. If successful, remove the first non-agenda card that you access from the game.\nUntil the game ends, whenever you access a copy of that card, remove it from the game.\nLimit 1 per deck."
  :title "Watch the World Burn"
  :type :event
  :uniqueness false}

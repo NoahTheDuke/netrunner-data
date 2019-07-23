@@ -130,7 +130,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "mache"
   :code "22018"
-  :flavor "\"What are you making?\"\n\"What aren't I making?\""
+  :flavor "\"What are you making?\"\n\"What <em>aren't</em> I making?\""
   :illustrator "Martin Diego Sádaba"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_18.png"
   :position 18
@@ -208,7 +208,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "meridian"
   :code "22028"
-  :flavor "You don't cross it - it crosses you."
+  :flavor "You don't cross it—it crosses you."
   :illustrator "Adam Doyle"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_28.png"
   :position 28
@@ -286,7 +286,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "otoroshi"
   :code "22038"
-  :flavor "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all\" -How Not to Get Fragged"
+  :flavor "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged"
   :illustrator "Adam Doyle"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_38.png"
   :position 38
@@ -423,7 +423,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "too-big-to-fail"
   :code "22056"
-  :flavor "\"This is blackmail!\"\n\"No, this extortion.\""
+  :flavor "\"This is blackmail!\"\n\"No, this is <em>extortion.</em>\""
   :illustrator "Timur Shevtsov"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_56.png"
   :position 56

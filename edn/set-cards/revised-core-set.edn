@@ -688,7 +688,7 @@
   :set-id "revised-core-set"}
  {:card-id "neural-emp"
   :code "20106"
-  :flavor "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at."
+  :flavor "The trick isn't hitting the person you were aiming at. It's hitting <strong>only</strong> the person you were aiming at."
   :illustrator "Matt Zeilinger"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_90.png"
   :position 90
@@ -1015,7 +1015,7 @@
   :set-id "revised-core-set"}
  {:card-id "hedge-fund"
   :code "20132"
-  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt.\n-The Anarch's Dictionary, Volume Who's Counting?"
+  :flavor "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?"
   :illustrator "Mark Molnar"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_132.png"
   :position 132
