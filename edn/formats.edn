@@ -84,7 +84,7 @@
            "data-and-destiny"
            "reign-and-reverie"
            "system-core-2019"]
-  :mwl "standard-mwl-3-1"}
+  :mwl "standard-mwl-3-3"}
  {:id "classic"
   :name "Classic"
   :cycles ["core"
