@@ -4,7 +4,7 @@
  :id "embolus"
  :influence-cost 1
  :side :corp
- :text "When your turn begins, you may pay 1[credit] to place 1 power counter on Embolus.\nWhenever the Runner makes a successful run, remove 1 power counter from Embolus.\n<strong>Hosted power counter</strong>: End the run. Use this ability only during a run on this server."
+ :text "When your turn begins, you may pay 1[credit] to place 1 power counter on this upgrade.\nWhenever the Runner makes a successful run, remove 1 power counter from this upgrade.\n<strong>Hosted power counter</strong>: End the run. Use this ability only during a run on this server."
  :title "Embolus"
  :trash-cost 2
  :type :upgrade

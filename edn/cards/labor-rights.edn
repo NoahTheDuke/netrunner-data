@@ -4,7 +4,7 @@
  :id "labor-rights"
  :influence-cost 2
  :side :runner
- :text "Trash the top 3 cards of your stack, then shuffle 3 cards from your heap into your stack. Draw 1 card. Remove Labor Rights from the game instead of trashing it."
+ :text "Trash the top 3 cards of your stack. Shuffle 3 cards from your heap into your stack. Draw 1 card. Remove this event from the game instead of trashing it."
  :title "Labor Rights"
  :type :event
  :uniqueness false}

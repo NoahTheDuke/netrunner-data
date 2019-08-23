@@ -6,7 +6,7 @@
  :influence-cost nil
  :side :corp
  :subtype [:initiative]
- :text "Place 1 agenda counter on Timely Public Release when it is scored.\n<strong>Hosted agenda counter</strong>: Install a piece of ice from HQ or Archives in any position protecting a server, ignoring all costs."
+ :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter</strong>: Install a piece of ice from HQ or Archives in any position protecting a server, ignoring all costs."
  :title "Timely Public Release"
  :type :agenda
  :uniqueness false}

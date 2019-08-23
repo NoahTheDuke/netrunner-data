@@ -546,4 +546,13 @@
   :name "Downfall"
   :position 1
   :set-type :data-pack
+  :size 65}
+ {:code "ur"
+  :cycle-id "ashes"
+  :date-release "2019-12-31"
+  :ffg-id nil
+  :id "uprising"
+  :name "Uprising"
+  :position 2
+  :set-type :data-pack
   :size 65}]
