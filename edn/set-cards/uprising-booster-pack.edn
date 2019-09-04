@@ -1,49 +1,49 @@
 [{:card-id "mystic-maemi"
-  :code "26072"
+  :code "27001"
   :flavor "Friends lift your spirits."
   :illustrator "Izzy Pruett"
-  :position 72
+  :position 1
   :quantity 3
-  :set-id "uprising"}
+  :set-id "uprising-booster-pack"}
  {:card-id "swift"
-  :code "26078"
+  :code "27002"
   :flavor "\"Red ones go faster.\" - Ken \"Express\" Tenma"
   :illustrator "Kira L. Nguyen"
   :image-url "https://netrunnerdb.com/card_image/26078.png"
-  :position 78
+  :position 2
   :quantity 3
-  :set-id "uprising"}
+  :set-id "uprising-booster-pack"}
  {:card-id "cybertrooper-talut"
-  :code "26091"
+  :code "27003"
   :flavor "He's nice enough, but not when there are 5,187 of him."
   :illustrator "Owen Sinodov"
-  :position 91
+  :position 3
   :quantity 3
-  :set-id "uprising"}
+  :set-id "uprising-booster-pack"}
  {:card-id "megaprix-qualifier"
-  :code "26096"
+  :code "27004"
   :flavor "\"Win Hard or Lose Hard. All that matters is they're talking about you and not the competition.\"\n- Tan \"Nitro\" Nyugen, Toretto-Extreme Team Manager"
   :illustrator "Krembler"
-  :position 96
+  :position 4
   :quantity 3
-  :set-id "uprising"}
+  :set-id "uprising-booster-pack"}
  {:card-id "la-costa-grid"
-  :code "26112"
+  :code "27005"
   :flavor "Some slums of New Angeles are so worn down, City Hall calls the acres of windowless clone barracks \"gentrification\" with a straight face."
   :illustrator "Eirik H. Kiil"
-  :position 112
+  :position 5
   :quantity 3
-  :set-id "uprising"}
+  :set-id "uprising-booster-pack"}
  {:card-id "digital-rights-management"
-  :code "26117"
+  :code "27006"
   :illustrator "Krembler"
-  :position 117
+  :position 6
   :quantity 3
-  :set-id "uprising"}
+  :set-id "uprising-booster-pack"}
  {:card-id "cayambe-grid"
-  :code "26127"
+  :code "27007"
   :flavor "The Apu spirits of the great mountains bridge this world and the realm above."
   :illustrator "Kira L. Nguyen"
-  :position 127
+  :position 7
   :quantity 3
-  :set-id "uprising"}]
+  :set-id "uprising-booster-pack"}]

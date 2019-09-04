@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "mystic-maemi"
+ :influence-cost 2
+ :side :runner
+ :subtype [:companion :virtual]
+ :text "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash this resource or 1 card from your grip at random."
+ :title "Mystic Maemi"
+ :type :resource
+ :uniqueness true}

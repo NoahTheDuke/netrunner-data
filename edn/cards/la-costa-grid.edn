@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "la-costa-grid"
+ :influence-cost 3
+ :side :corp
+ :subtype [:region :seedy]
+ :text "Remote server only.\nWhen your turn begins, place 1 advancement token on a card installed in this server.\nLimit 1 <strong>region</strong> per server."
+ :title "La Costa Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

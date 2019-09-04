@@ -1,0 +1,10 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "digital-rights-management"
+ :influence-cost 1
+ :side :corp
+ :text "Play only if the Runner did not make a successful run on HQ during their last turn.\nSearch R&D for an agenda and reveal it. <i>(Shuffle R&D after searching it.)</i> Add that agenda to HQ. You may install 1 card in a remote server.\nYou cannot score agendas for the remainder of the turn."
+ :title "Digital Rights Management"
+ :type :operation
+ :uniqueness false}

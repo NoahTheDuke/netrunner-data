@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "cybertrooper-talut"
+ :influence-cost 2
+ :side :runner
+ :subtype [:connection :virtual]
+ :text "+1[link]\nWhenever you install a non-<strong>AI</strong> <strong>icebreaker</strong>, that <strong>icebreaker</strong> has +2 strength until the end of the turn."
+ :title "Cybertrooper Talut"
+ :type :resource
+ :uniqueness true}
