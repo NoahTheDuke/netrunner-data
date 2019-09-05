@@ -547,21 +547,21 @@
   :position 1
   :set-type :data-pack
   :size 65}
- {:code "ur"
-  :cycle-id "ashes"
-  :date-release "2019-12-31"
-  :ffg-id nil
-  :id "uprising"
-  :name "Uprising"
-  :position 2
-  :set-type :data-pack
-  :size 65}
  {:code "urbp"
   :cycle-id "ashes"
   :date-release "2019-09-09"
   :ffg-id nil
   :id "uprising-booster-pack"
   :name "Uprising Booster Pack"
-  :position 3
+  :position 2
   :set-type :expansion
-  :size 7}]
+  :size 7}
+ {:code "ur"
+  :cycle-id "ashes"
+  :date-release "2019-12-31"
+  :ffg-id nil
+  :id "uprising"
+  :name "Uprising"
+  :position 3
+  :set-type :data-pack
+  :size 65}]
