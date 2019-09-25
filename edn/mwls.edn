@@ -10,6 +10,7 @@
           "sansan-city-grid" {:global-penalty 1}
           "yog-0" {:global-penalty 1}}
   :date-start "2016-02-01"
+  :format "standard"
   :id "napd-mwl-1-0"
   :name "NAPD MWL 1.0"}
  {:cards {"architect" {:global-penalty 1}
@@ -28,6 +29,7 @@
           "wyldside" {:global-penalty 1}
           "yog-0" {:global-penalty 1}}
   :date-start "2016-08-01"
+  :format "standard"
   :id "napd-mwl-1-1"
   :name "NAPD MWL 1.1"}
  {:cards {"architect" {:universal-faction-cost 1}
@@ -51,6 +53,7 @@
           "wyldside" {:universal-faction-cost 1}
           "yog-0" {:universal-faction-cost 1}}
   :date-start "2017-04-12"
+  :format "standard"
   :id "napd-mwl-1-2"
   :name "NAPD MWL 1.2"}
  {:cards {"aaron-marron" {:deck-limit 0}
@@ -81,6 +84,7 @@
           "sifr" {:deck-limit 0}
           "temujin-contract" {:deck-limit 0}}
   :date-start "2017-10-01"
+  :format "standard"
   :id "napd-mwl-2-0"
   :name "NAPD MWL 2.0"}
  {:cards {"aaron-marron" {:deck-limit 0}
@@ -116,6 +120,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}}
   :date-start "2018-02-26"
+  :format "standard"
   :id "napd-mwl-2-1"
   :name "NAPD MWL 2.1"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
@@ -134,7 +139,6 @@
           "friends-in-high-places" {:deck-limit 0}
           "gang-sign" {:is-restricted 1}
           "global-food-initiative" {:is-restricted 1}
-          "hired-help" {:deck-limit 0}
           "hunter-seeker" {:is-restricted 1}
           "hyperdriver" {:deck-limit 0}
           "inversificator" {:is-restricted 1}
@@ -157,11 +161,10 @@
           "tapwrm" {:deck-limit 0}
           "temujin-contract" {:deck-limit 0}
           "violet-level-clearance" {:is-restricted 1}
-          "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
   :date-start "2018-09-06"
-  :format "snapshot"
+  :format "standard"
   :id "napd-mwl-2-2"
   :name "NAPD MWL 2.2"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}

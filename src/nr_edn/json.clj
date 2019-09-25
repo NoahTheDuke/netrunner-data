@@ -51,10 +51,25 @@
         "null")
       nil))
 
+(defn get-json-mwl-code
+  [mwl]
+  (case (:code mwl)
+    "napd-mwl-1-0" "NAPD_MWL_1.0"
+    "napd-mwl-1-1" "NAPD_MWL_1.1"
+    "napd-mwl-1-2" "NAPD_MWL_1.2"
+    "napd-mwl-2-0" "NAPD_MWL_2.0"
+    "napd-mwl-2-1" "NAPD_MWL_2.1"
+    "napd-mwl-2-2" "NAPD_MWL_2.2"
+    "standard-mwl-3-1" "standard-mwl-3.1"
+    "standard-mwl-3-2" "standard-mwl-3.2"
+    (:code mwl)))
+
 (defn get-json-mwl
   [cards mwls]
-  (for [m (vals mwls)]
-    (assoc m :cards
+  (for [m (filter #(= (:format %) "standard") (vals mwls))]
+    (assoc m
+           :code (get-json-mwl-code m)
+           :cards
            (into {}
                  (for [[k v] (:cards m)
                        :let [t (first (keys v))

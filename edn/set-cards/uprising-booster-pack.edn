@@ -2,6 +2,7 @@
   :code "27001"
   :flavor "Friends lift your spirits."
   :illustrator "Izzy Pruett"
+  :image-url "https://netrunnerdb.com/card_image/27001.png"
   :position 1
   :quantity 3
   :set-id "uprising-booster-pack"}
@@ -9,7 +10,7 @@
   :code "27002"
   :flavor "\"Red ones go faster.\" - Ken \"Express\" Tenma"
   :illustrator "Kira L. Nguyen"
-  :image-url "https://netrunnerdb.com/card_image/26078.png"
+  :image-url "https://netrunnerdb.com/card_image/27002.png"
   :position 2
   :quantity 3
   :set-id "uprising-booster-pack"}
@@ -17,6 +18,7 @@
   :code "27003"
   :flavor "He's nice enough, but not when there are 5,187 of him."
   :illustrator "Owen Sinodov"
+  :image-url "https://netrunnerdb.com/card_image/27003.png"
   :position 3
   :quantity 3
   :set-id "uprising-booster-pack"}
@@ -24,6 +26,7 @@
   :code "27004"
   :flavor "\"Win Hard or Lose Hard. All that matters is they're talking about you and not the competition.\"\n- Tan \"Nitro\" Nyugen, Toretto-Extreme Team Manager"
   :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/27004.png"
   :position 4
   :quantity 3
   :set-id "uprising-booster-pack"}
@@ -31,12 +34,14 @@
   :code "27005"
   :flavor "Some slums of New Angeles are so worn down, City Hall calls the acres of windowless clone barracks \"gentrification\" with a straight face."
   :illustrator "Eirik H. Kiil"
+  :image-url "https://netrunnerdb.com/card_image/27005.png"
   :position 5
   :quantity 3
   :set-id "uprising-booster-pack"}
  {:card-id "digital-rights-management"
   :code "27006"
   :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/27006.png"
   :position 6
   :quantity 3
   :set-id "uprising-booster-pack"}
@@ -44,6 +49,7 @@
   :code "27007"
   :flavor "The Apu spirits of the great mountains bridge this world and the realm above."
   :illustrator "Kira L. Nguyen"
+  :image-url "https://netrunnerdb.com/card_image/27007.png"
   :position 7
   :quantity 3
   :set-id "uprising-booster-pack"}]

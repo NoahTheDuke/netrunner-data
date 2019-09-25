@@ -13,7 +13,8 @@
            "data-and-destiny"
            "reign-and-reverie"
            "magnum-opus"
-           "system-core-2019"]
+           "system-core-2019"
+           "magnum-opus-reprint"]
   :mwl "standard-mwl-3-4"}
  {:id "eternal"
   :name "Eternal"
@@ -35,7 +36,8 @@
            "revised-core"
            "reign-and-reverie"
            "magnum-opus"
-           "system-core-2019"]
+           "system-core-2019"
+           "magnum-opus-reprint"]
   :mwl "eternal-mwl-1-1"}
  {:id "core-experience"
   :name "Core Experience"
@@ -105,5 +107,6 @@
            "revised-core"
            "reign-and-reverie"
            "magnum-opus"
-           "system-core-2019"]
+           "system-core-2019"
+           "magnum-opus-reprint"]
   :mwl "classic-mwl-1-0"}]
