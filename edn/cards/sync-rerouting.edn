@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "sync-rerouting"
+ :influence-cost 3
+ :side :corp
+ :subtype [:lockdown]
+ :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nWhenever a run begins, the Runner must pay 4[credit] or take 1 tag."
+ :title "SYNC Rerouting"
+ :trash-cost 3
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,10 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "flower-sermon"
+ :side :corp
+ :text "When you score this agenda, place 5 agenda counters on it.\n<strong>Hosted agenda counter:</strong> Reveal the top card of R&D. Draw 2 cards. Add 1 card from HQ to the top of R&D. Use this ability only once per turn."
+ :title "Flower Sermon"
+ :type :agenda
+ :uniqueness false}

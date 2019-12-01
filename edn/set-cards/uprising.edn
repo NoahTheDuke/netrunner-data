@@ -1,9 +1,25 @@
-[{:card-id "mystic-maemi"
+[{:card-id "hoshiko-shiro-next-level-shut-in"
+  :code "26066"
+  :flavor "Please, let me have this dream."
+  :illustrator "Luminita Pham"
+  :image-url "https://netrunnerdb.com/card_image/26066.png"
+  :position 66
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "mystic-maemi"
   :code "26072"
   :flavor "Friends lift your spirits."
   :illustrator "Izzy Pruett"
   :image-url "https://netrunnerdb.com/card_image/26072.png"
   :position 72
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "bravado"
+  :code "26074"
+  :flavor "\"Hold my wine. I'm going in.\" -Red Comyn"
+  :illustrator "Kevin Tame"
+  :image-url "https://netrunnerdb.com/card_image/26074.png"
+  :position 74
   :quantity 3
   :set-id "uprising"}
  {:card-id "swift"
@@ -14,12 +30,28 @@
   :position 78
   :quantity 3
   :set-id "uprising"}
+ {:card-id "harmony-ar-therapy"
+  :code "26083"
+  :flavor "Breath in and visualise your happy place. Breathe out. It's safe and calm and all your best days are there. Breathe in. Very good. The cortex scan has finished. Breathe out and open your eyes..."
+  :illustrator "Patrick Burk/Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26083.png"
+  :position 83
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "cybertrooper-talut"
   :code "26091"
   :flavor "He's nice enough, but not when there are 5,187 of him."
   :illustrator "Owen Sinodov"
   :image-url "https://netrunnerdb.com/card_image/26091.png"
   :position 91
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "buffer-drive"
+  :code "26093"
+  :flavor "\"Future me <strong>needs</strong> those 60 petabytes of cat vids.\"\n-Princess Space Kitten"
+  :illustrator "Elizaveta Sokolova"
+  :image-url "https://netrunnerdb.com/card_image/26093.png"
+  :position 93
   :quantity 3
   :set-id "uprising"}
  {:card-id "megaprix-qualifier"
@@ -30,6 +62,44 @@
   :position 96
   :quantity 3
   :set-id "uprising"}
+ {:card-id "project-vacheron"
+  :code "26097"
+  :illustrator "Patrick Burk"
+  :image-url "https://netrunnerdb.com/card_image/26097.png"
+  :position 97
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "next-activation-command"
+  :code "26103"
+  :flavor "\"Uh oh, Keiko! Looks like we've pulled aggro!\""
+  :illustrator "Akira J. Mitchell"
+  :image-url "https://netrunnerdb.com/card_image/26103.png"
+  :position 103
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "flower-sermon"
+  :code "26106"
+  :flavor "\"Voice is a sledgehammer. Text, a blunt saw. Truth requires subtler instruments.\"\n-Dr. Tang, Address to the Hyoubu Steering Committee"
+  :illustrator "N. Hopkins"
+  :image-url "https://netrunnerdb.com/card_image/26106.png"
+  :position 106
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "prana-condenser"
+  :code "26107"
+  :flavor "Constructive feedback to the neural field reliably causes greater degradation than spike inputs. The mind has no defence against its own echoes."
+  :illustrator "Akira J. Mitchell"
+  :image-url "https://netrunnerdb.com/card_image/26107.png"
+  :position 107
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "hyoubu-precog-manifold"
+  :code "26110"
+  :illustrator "Iain Fairclough"
+  :image-url "https://netrunnerdb.com/card_image/26110.png"
+  :position 110
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "la-costa-grid"
   :code "26112"
   :flavor "Some slums of New Angeles are so worn down, City Hall calls the acres of windowless clone barracks \"gentrification\" with a straight face."
@@ -38,11 +108,43 @@
   :position 112
   :quantity 3
   :set-id "uprising"}
+ {:card-id "gamenet-where-dreams-are-real"
+  :code "26113"
+  :flavor "Your Favorite Distraction."
+  :illustrator "Alejandro T. Castellanos"
+  :image-url "https://netrunnerdb.com/card_image/26113.png"
+  :position 113
+  :quantity 1
+  :set-id "uprising"}
  {:card-id "digital-rights-management"
   :code "26117"
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26117.png"
   :position 117
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "sync-rerouting"
+  :code "26118"
+  :flavor "\"Deep inspect every packet on the continent. Burn out all our stacks if you have to. We cannot let these terrorists cover their tracks.\" -CEO Jenkins"
+  :illustrator "N. Hopkins"
+  :image-url "https://netrunnerdb.com/card_image/26118.png"
+  :position 118
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "akhet"
+  :code "26123"
+  :flavor "Thou slept not in thy house on earth.\nThou openest thy place in heaven."
+  :illustrator "Owen Sinodov"
+  :image-url "https://netrunnerdb.com/card_image/26123.png"
+  :position 123
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "argus-crackdown"
+  :code "26126"
+  :flavor "\"If it moves, shoot it. Then shoot it again.\"\n Chief Slee"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26126.png"
+  :position 126
   :quantity 3
   :set-id "uprising"}
  {:card-id "cayambe-grid"
@@ -51,5 +153,29 @@
   :illustrator "Kira L. Nguyen"
   :image-url "https://netrunnerdb.com/card_image/26127.png"
   :position 127
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "cyberdex-sandbox"
+  :code "26128"
+  :flavor "\"All <strong>Dragon</strong>-rated threats should only be stored in a single clean-start air-gapped server, in a shielded room, under at least 200 metres of bedrock[...]\"\n-Section 5.18.4, Cyberdex Employee Handbook"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26128.png"
+  :position 128
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "false-lead"
+  :code "26129"
+  :flavor "\"Begin a voice message to Steve: I'm in some random city staring at yet another empty room. This hot insider scoop of yours feels distinctly chilly.\""
+  :illustrator "Akira J. Mitchell"
+  :image-url "https://netrunnerdb.com/card_image/26129.png"
+  :position 129
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "napd-cordon"
+  :code "26130"
+  :flavor "Crisis is the true test of loyalty. Kick the anthill and see where the ants swarm."
+  :illustrator "Olie Boldador"
+  :image-url "https://netrunnerdb.com/card_image/26130.png"
+  :position 130
   :quantity 3
   :set-id "uprising"}]

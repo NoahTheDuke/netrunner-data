@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "argus-crackdown"
+ :influence-cost 3
+ :side :corp
+ :subtype [:lockdown :gray-ops]
+ :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nWhenever the Runner makes a successful run on a server protected by ice, do 2 meat damage."
+ :title "Argus Crackdown"
+ :trash-cost 4
+ :type :operation
+ :uniqueness false}

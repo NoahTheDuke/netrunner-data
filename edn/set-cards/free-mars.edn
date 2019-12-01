@@ -16,7 +16,7 @@
   :set-id "free-mars"}
  {:card-id "leave-no-trace"
   :code "12083"
-  :flavor "\"The perfect Run is when you get in, take something of value, and get back out, with no one knowing you've ever been there\" -g00ru"
+  :flavor "\"The Perfect Run is when you get in, take something of value, and get back out, with no one knowing you've ever been there.\" -g00ru"
   :illustrator "Shawn Ye Zhongyi"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_83.png"
   :position 83
@@ -31,7 +31,7 @@
   :set-id "free-mars"}
  {:card-id "flashbang"
   :code "12085"
-  :flavor "\"It's my sentry cheat sheet\" -Revenant"
+  :flavor "\"It's my sentry cheat sheet.\" -Revenant"
   :illustrator "Tim Durning"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_85.png"
   :position 85
@@ -93,7 +93,7 @@
   :set-id "free-mars"}
  {:card-id "water-monopoly"
   :code "12093"
-  :flavor "AgInfusion doesn't just have patents on nearly every plant seed that in farmed on Mars—they own most of the rights to the water that farms use."
+  :flavor "AgInfusion doesn't just have patents on nearly every plant seed that is farmed on Mars—they own most of the rights to the water that farms use."
   :illustrator "Mark Molnar"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN47_93.png"
   :position 93

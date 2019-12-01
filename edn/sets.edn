@@ -547,6 +547,15 @@
   :position 1
   :set-type :data-pack
   :size 65}
+ {:code "mor"
+  :cycle-id "magnum-opus-reprint"
+  :date-release "2019-07-24"
+  :ffg-id nil
+  :id "magnum-opus-reprint"
+  :name "Magnum Opus Reprint"
+  :position 1
+  :set-type :expansion
+  :size 6}
  {:code "urbp"
   :cycle-id "ashes"
   :date-release "2019-09-09"
@@ -564,13 +573,4 @@
   :name "Uprising"
   :position 3
   :set-type :data-pack
-  :size 65}
- {:code "mor"
-  :cycle-id "magnum-opus-reprint"
-  :date-release "2019-07-24"
-  :ffg-id nil
-  :id "magnum-opus-reprint"
-  :name "Magnum Opus Reprint"
-  :position 1
-  :set-type :expansion
-  :size 6}]
+  :size 65}]

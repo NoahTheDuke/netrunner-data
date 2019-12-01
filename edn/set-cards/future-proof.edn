@@ -130,7 +130,7 @@
   :set-id "future-proof"}
  {:card-id "dedicated-response-team"
   :code "02118"
-  :flavor "They don't call them dedicated for nothing"
+  :flavor "They don't call them dedicated for nothing."
   :illustrator "Reza Ilyasa"
   :image-url "https://netrunnerdb.com/card_image/02118.png"
   :position 118

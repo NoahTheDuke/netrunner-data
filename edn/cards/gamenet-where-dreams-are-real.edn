@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "gamenet-where-dreams-are-real"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Whenever a Corp card ability causes the Runner to spend or lose at least 1[credit] during a run, gain 1[credit]."
+ :title "GameNET: Where Dreams are Real"
+ :type :identity
+ :uniqueness false}

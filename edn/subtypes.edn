@@ -110,6 +110,8 @@
   :name "Link"}
  {:id :location
   :name "Location"}
+ {:id :lockdown
+  :name "Lockdown"}
  {:id :megacorp
   :name "Megacorp"}
  {:id :mod

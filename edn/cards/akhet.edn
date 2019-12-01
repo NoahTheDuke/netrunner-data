@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "akhet"
+ :influence-cost 2
+ :side :corp
+ :strength 2
+ :subtype [:barrier]
+ :text "You can advance this ice.\nWhile there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter.\n[subroutine] Gain 1[credit]. Place 1 advancement token on an installed card.\n[subroutine] End the run."
+ :title "Akhet"
+ :type :ice
+ :uniqueness false}

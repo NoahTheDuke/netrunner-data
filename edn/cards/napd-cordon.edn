@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "napd-cordon"
+ :influence-cost 0
+ :side :corp
+ :subtype [:lockdown]
+ :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nAs an additional cost to steal an agenda, the Runner must pay 4[credit], plus 2[credit] for each advancement token on that agenda."
+ :title "NAPD Cordon"
+ :trash-cost 2
+ :type :operation
+ :uniqueness false}

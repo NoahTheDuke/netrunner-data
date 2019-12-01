@@ -856,7 +856,7 @@
   :set-id "revised-core-set"}
  {:card-id "dedicated-response-team"
   :code "20081"
-  :flavor "They don't call them dedicated for nothing"
+  :flavor "They don't call them dedicated for nothing."
   :illustrator "Reza Ilyasa"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN49_112.png"
   :position 112

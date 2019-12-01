@@ -6,7 +6,7 @@
  :influence-cost 0
  :side :corp
  :subtype [:security]
- :text "<strong>Forfeit False Lead:</strong> The Runner loses [click][click], if able."
+ :text "<strong>Forfeit this agenda:</strong> If the Runner has 2 or more [click] remaining, they lose [click][click]."
  :title "False Lead"
  :type :agenda
  :uniqueness false}
