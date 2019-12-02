@@ -1,6 +1,6 @@
 [{:card-id "hoshiko-shiro-next-level-shut-in"
   :code "26066"
-  :flavor "Please, let me have this dream."
+  :flavor "Please, let me have this dream.\nFlip side:\nI'm going to be my own kind of hero."
   :illustrator "Luminita Pham"
   :image-url "https://netrunnerdb.com/card_image/26066.png"
   :position 66
@@ -32,7 +32,7 @@
   :set-id "uprising"}
  {:card-id "harmony-ar-therapy"
   :code "26083"
-  :flavor "Breath in and visualise your happy place. Breathe out. It's safe and calm and all your best days are there. Breathe in. Very good. The cortex scan has finished. Breathe out and open your eyes..."
+  :flavor "Breathe in and visualise your happy place. Breathe out. It's safe and calm and all your best days are there. Breathe in. Very good. The cortex scan has finished. Breathe out and open your eyes..."
   :illustrator "Patrick Burk/Krembler"
   :image-url "https://netrunnerdb.com/card_image/26083.png"
   :position 83
@@ -67,6 +67,14 @@
   :illustrator "Patrick Burk"
   :image-url "https://netrunnerdb.com/card_image/26097.png"
   :position 97
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "tyr"
+  :code "26102"
+  :flavor "The valiant do not hesitate."
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://netrunnerdb.com/card_image/26102.png"
+  :position 102
   :quantity 3
   :set-id "uprising"}
  {:card-id "next-activation-command"
@@ -129,6 +137,14 @@
   :illustrator "N. Hopkins"
   :image-url "https://netrunnerdb.com/card_image/26118.png"
   :position 118
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "earth-station-sea-headquarters"
+  :code "26120"
+  :flavor "The First Step...\nFlip side:\n...Further Beyond"
+  :illustrator "Kira L. Nguyen"
+  :image-url "https://netrunnerdb.com/card_image/26120.png"
+  :position 120
   :quantity 3
   :set-id "uprising"}
  {:card-id "akhet"

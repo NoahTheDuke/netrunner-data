@@ -1,0 +1,12 @@
+{:cost 10
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "tyr"
+ :influence-cost 5
+ :side :corp
+ :strength 7
+ :subtype [:sentry :bioroid :ap :destroyer]
+ :text "The Runner can spend [click] to break any subroutine on this ice. Each time they do, increase your allotted [click] for your next turn by 1.\n[subroutine] Do 2 brain damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run."
+ :title "Týr"
+ :type :ice
+ :uniqueness true}
