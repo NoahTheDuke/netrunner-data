@@ -101,6 +101,14 @@
   :position 107
   :quantity 3
   :set-id "uprising"}
+ {:card-id "konjin"
+  :code "26109"
+  :flavor "\"The Konjin dons the mask of our fears, but what lies underneath?\"\n-Lat"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26109.png"
+  :position 109
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "hyoubu-precog-manifold"
   :code "26110"
   :illustrator "Iain Fairclough"
@@ -153,6 +161,14 @@
   :illustrator "Owen Sinodov"
   :image-url "https://netrunnerdb.com/card_image/26123.png"
   :position 123
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "winchester"
+  :code "26125"
+  :flavor "\"I don't konw how Skorpios gets these designs past Brand Management.\"\n-Liz Campbell, VP Project Security"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26125.png"
+  :position 125
   :quantity 3
   :set-id "uprising"}
  {:card-id "argus-crackdown"

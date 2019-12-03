@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "winchester"
+ :influence-cost 4
+ :side :corp
+ :strength 4
+ :subtype [:sentry :tracer :destroyer]
+ :text "While this ice is protecting HQ, it has \"[subroutine] <trace>trace 3: If successful, end the run.\" after all its other subroutines.\n[subroutine] <trace>trace 4</trace>: If successful, trash 1 installed program.\n[subroutine] <trace>trace 4</trace>: If successful, trash 1 installed piece of hardware."
+ :title "Winchester"
+ :type :ice
+ :uniqueness false}
