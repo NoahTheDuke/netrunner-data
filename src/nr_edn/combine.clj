@@ -2,7 +2,7 @@
   (:require [clojure.string :as string]
             [clojure.java.io :as io]
             [clojure.edn :as edn]
-            [clojure.set :refer [rename-keys]]
+            [clojure.set :refer [rename-keys union]]
             [org.httpkit.client :as http]
             [cheshire.core :as json]
             [nr-edn.utils :refer [cards->map vals->vec prune-null-fields]]))
@@ -64,23 +64,42 @@
         (:ice :program) 0
         nil)))
 
+(defn get-set->cards
+  [cards]
+  (reduce (fn [m [set-id card-id]]
+            (if (contains? m set-id)
+              (assoc m set-id (conj (get m set-id) card-id))
+              (assoc m set-id #{card-id})))
+          {}
+          (map (juxt :set-id :card-id) cards)))
+
+(defn get-cycle->sets
+  [sets]
+  (into {}
+        (for [[f sts] (group-by :cycle_code (vals sets))]
+          {f (into #{} (map :id sts))})))
+
+(defn get-format->cards
+  [formats set->cards cycle->sets]
+  (into {}
+        (for [[k f] formats
+              :let [cards (:cards f)
+                    sets (:sets f)
+                    cycles (:cycles f)]]
+          {k (apply union
+                    (concat
+                      (into #{} cards)
+                      (for [s sets]
+                        (get set->cards s))
+                      (for [cy cycles
+                            s (get cycle->sets cy)]
+                        (get set->cards s))))})))
+
 (defn generate-formats
   [sets cards formats mwls]
-  (let [set->cards (reduce (fn [m [set-id card-id]]
-                             (if (contains? m set-id)
-                               (assoc m set-id (conj (get m set-id) card-id))
-                               (assoc m set-id #{card-id})))
-                           {}
-                           (map (juxt :set-id :card-id) cards))
-        cycle->sets (into {}
-                          (for [[f sts] (group-by :cycle_code (vals sets))]
-                            {f (into #{} (map :id sts))}))
-        format->cards (into {}
-                            (for [[k f] formats]
-                              {k (apply clojure.set/union
-                                        (for [cy (:cycles f)
-                                              sts (get cycle->sets cy)]
-                                          (get set->cards sts)))}))]
+  (let [set->cards (get-set->cards cards)
+        cycle->sets (get-cycle->sets sets)
+        format->cards (get-format->cards formats set->cards cycle->sets)]
     (into {}
           (for [card cards
                 :let [id (:id card)]]

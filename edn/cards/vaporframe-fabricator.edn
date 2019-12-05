@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "vaporframe-fabricator"
+ :influence-cost 3
+ :side :corp
+ :text "[click]: Install 1 card, ignoring all costs. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may install 1 card, ignoring all costs. You cannot use this ability to install a card in this server."
+ :title "Vaporframe Fabricator"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

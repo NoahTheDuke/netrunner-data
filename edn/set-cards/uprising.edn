@@ -69,6 +69,22 @@
   :position 97
   :quantity 3
   :set-id "uprising"}
+ {:card-id "bass-ch1r180g4"
+  :code "26098"
+  :flavor "The Coordinator is always calm, always smiling, and always tolerant. A worker who knows his skills, knows his role, and knows his place. No master need look into his plastic eyes and fear the flames of revolution, or quake at a forgotten class reaching for self-expression.\n...but who ordered him to wear that hat?"
+  :illustrator "Olie Boldador"
+  :image-url "https://netrunnerdb.com/card_image/26098.png"
+  :position 98
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "vaporframe-fabricator"
+  :code "26100"
+  :flavor "A staccato of laser pulses fuses the vapor to solid form. The embryonic part accretes metal layer by layer."
+  :illustrator "Akira J. Mitchell"
+  :image-url "https://netrunnerdb.com/card_image/26100.png"
+  :position 100
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "tyr"
   :code "26102"
   :flavor "The valiant do not hesitate."
@@ -83,6 +99,14 @@
   :illustrator "Akira J. Mitchell"
   :image-url "https://netrunnerdb.com/card_image/26103.png"
   :position 103
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "tranquility-home-grid"
+  :code "26105"
+  :flavor "The oldest of Heinlein's domes, the self-proclaimed heart of Lunar culture."
+  :illustrator "Zoe Cohen"
+  :image-url "https://netrunnerdb.com/card_image/26105.png"
+  :position 105
   :quantity 3
   :set-id "uprising"}
  {:card-id "flower-sermon"

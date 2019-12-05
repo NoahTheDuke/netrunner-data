@@ -1,23 +1,27 @@
 [{:id "standard"
   :name "Standard"
+  :sets ["downfall"
+         "magnum-opus-reprint"
+         "uprising-booster-pack"]
   :cycles ["lunar"
            "sansan"
            "mumbad"
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"
            "creation-and-control"
            "honor-and-profit"
            "order-and-chaos"
            "data-and-destiny"
            "reign-and-reverie"
            "magnum-opus"
-           "system-core-2019"
-           "magnum-opus-reprint"]
+           "system-core-2019"]
   :mwl "standard-mwl-3-4"}
  {:id "eternal"
   :name "Eternal"
+  :sets ["downfall"
+         "magnum-opus-reprint"
+         "uprising-booster-pack"]
   :cycles ["core"
            "genesis"
            "spin"
@@ -27,7 +31,6 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"
            "creation-and-control"
            "honor-and-profit"
            "order-and-chaos"
@@ -36,8 +39,7 @@
            "revised-core"
            "reign-and-reverie"
            "magnum-opus"
-           "system-core-2019"
-           "magnum-opus-reprint"]
+           "system-core-2019"]
   :mwl "eternal-mwl-1-1"}
  {:id "core-experience"
   :name "Core Experience"
@@ -89,6 +91,9 @@
   :mwl "standard-mwl-3-3"}
  {:id "classic"
   :name "Classic"
+  :sets ["downfall"
+         "magnum-opus-reprint"
+         "uprising-booster-pack"]
   :cycles ["core"
            "genesis"
            "spin"
@@ -98,7 +103,6 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"
            "creation-and-control"
            "honor-and-profit"
            "order-and-chaos"
@@ -107,6 +111,5 @@
            "revised-core"
            "reign-and-reverie"
            "magnum-opus"
-           "system-core-2019"
-           "magnum-opus-reprint"]
+           "system-core-2019"]
   :mwl "classic-mwl-1-0"}]
