@@ -14,6 +14,14 @@
   :position 70
   :quantity 3
   :set-id "uprising"}
+ {:card-id "odore"
+  :code "26071"
+  :flavor "Dance, and forget about time!"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26071.png"
+  :position 71
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "mystic-maemi"
   :code "26072"
   :flavor "Friends lift your spirits."
@@ -52,6 +60,14 @@
   :illustrator "Patrick Burk/Krembler"
   :image-url "https://netrunnerdb.com/card_image/26083.png"
   :position 83
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "euler"
+  :code "26087"
+  :flavor "Find truth not in the observation, but in the demonstration."
+  :illustrator "Patrick Burk"
+  :image-url "https://netrunnerdb.com/card_image/26087.png"
+  :position 87
   :quantity 3
   :set-id "uprising"}
  {:card-id "cybertrooper-talut"

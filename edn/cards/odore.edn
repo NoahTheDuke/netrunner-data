@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "odore"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :killer]
+ :text "2[credit]: Break any number of sentry subroutines.\n0[credit]: Break sentry subroutine. Use this ability only if you have 3 or more installed virtual resources.\n3[credit]: +3 strength."
+ :title "Odore"
+ :type :program
+ :uniqueness false}
