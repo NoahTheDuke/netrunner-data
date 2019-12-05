@@ -6,12 +6,28 @@
   :position 66
   :quantity 3
   :set-id "uprising"}
+ {:card-id "keiko"
+  :code "26070"
+  :flavor "\"...and friends hold you close. I vow to never let go of my princess.\""
+  :illustrator "Olie Boldador"
+  :image-url "https://netrunnerdb.com/card_image/26070.png"
+  :position 70
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "mystic-maemi"
   :code "26072"
   :flavor "Friends lift your spirits."
   :illustrator "Izzy Pruett"
   :image-url "https://netrunnerdb.com/card_image/26072.png"
   :position 72
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "paladin-poemu"
+  :code "26073"
+  :flavor "Friends guard your passions."
+  :illustrator "Izzy Pruett"
+  :image-url "https://netrunnerdb.com/card_image/26073.png"
+  :position 73
   :quantity 3
   :set-id "uprising"}
  {:card-id "bravado"
@@ -189,7 +205,7 @@
   :set-id "uprising"}
  {:card-id "winchester"
   :code "26125"
-  :flavor "\"I don't konw how Skorpios gets these designs past Brand Management.\"\n-Liz Campbell, VP Project Security"
+  :flavor "\"I don't know how Skorpios gets these designs past Brand Management.\"\n-Liz Campbell, VP Project Security"
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26125.png"
   :position 125
