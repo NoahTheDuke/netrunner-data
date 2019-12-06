@@ -108,6 +108,14 @@
   :position 83
   :quantity 3
   :set-id "uprising"}
+ {:card-id "simulchip"
+  :code "26085"
+  :flavor "\"I <strong>could</strong> let my code evolve something new, but sometimes I just want to remember yesterday's solution.\"\n-Lane"
+  :illustrator "Elizaveta Sokolova"
+  :image-url "https://netrunnerdb.com/card_image/26085.png"
+  :position 85
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "euler"
   :code "26087"
   :flavor "Find truth not in the observation, but in the demonstration."
@@ -130,6 +138,14 @@
   :illustrator "Elizaveta Sokolova"
   :image-url "https://netrunnerdb.com/card_image/26093.png"
   :position 93
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "dreamnet"
+  :code "26095"
+  :flavor "Did I dream that dance through virtual space, or does that program now dream of flesh?"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26095.png"
+  :position 95
   :quantity 3
   :set-id "uprising"}
  {:card-id "megaprix-qualifier"
