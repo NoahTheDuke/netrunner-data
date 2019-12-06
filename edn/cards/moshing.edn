@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "moshing"
+ :influence-cost 3
+ :side :runner
+ :text "As an additional cost to play this event, trash 3 cards from your grip.\nDraw 3 cards and gain 3[credit]."
+ :title "Moshing"
+ :type :event
+ :uniqueness false}

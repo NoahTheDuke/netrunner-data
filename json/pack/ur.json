@@ -19,6 +19,23 @@
         "uniqueness": false
     },
     {
+        "code": "26067",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "flavor": "Let's start a <strong>RIOT</strong>.",
+        "illustrator": "Patrick Burk",
+        "pack_code": "ur",
+        "position": 67,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "As an additional cost to play this event, trash 3 cards from your grip.\nDraw 3 cards and gain 3[credit].",
+        "title": "Moshing",
+        "type_code": "event",
+        "uniqueness": false
+    },
+    {
         "code": "26070",
         "cost": 3,
         "deck_limit": 3,

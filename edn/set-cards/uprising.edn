@@ -6,6 +6,14 @@
   :position 66
   :quantity 3
   :set-id "uprising"}
+ {:card-id "moshing"
+  :code "26067"
+  :flavor "Let's start a <strong>RIOT</strong>."
+  :illustrator "Patrick Burk"
+  :image-url "https://netrunnerdb.com/card_image/26067.png"
+  :position 67
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "keiko"
   :code "26070"
   :flavor "\"...and friends hold you close. I vow to never let go of my princess.\""
