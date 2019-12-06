@@ -46,11 +46,27 @@
   :position 74
   :quantity 3
   :set-id "uprising"}
+ {:card-id "boomerang"
+  :code "26075"
+  :flavor "Return to sender."
+  :illustrator "Elizaveta Sokolova"
+  :image-url "https://netrunnerdb.com/card_image/26075.png"
+  :position 75
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "mu-safecracker"
   :code "26076"
   :illustrator "Zoe Cohen"
   :image-url "https://netrunnerdb.com/card_image/26076.png"
   :position 76
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "prognostic-q-loop"
+  :code "26077"
+  :flavor "\"Overinflate a superposition-stack and optimal code forms the negentropy traverse.\"\n\"Aha, like putting too much air into a balloon?!\""
+  :illustrator "N. Hopkins"
+  :image-url "https://netrunnerdb.com/card_image/26077.png"
+  :position 77
   :quantity 3
   :set-id "uprising"}
  {:card-id "swift"
@@ -74,6 +90,14 @@
   :illustrator "Kevin Tame"
   :image-url "https://netrunnerdb.com/card_image/26081.png"
   :position 81
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "the-back"
+  :code "26082"
+  :flavor "\"Junk plus undiscerning buyers equals profit.\"\n-Az McCaffrey"
+  :illustrator "Izzy Pruett"
+  :image-url "https://netrunnerdb.com/card_image/26082.png"
+  :position 82
   :quantity 3
   :set-id "uprising"}
  {:card-id "harmony-ar-therapy"
