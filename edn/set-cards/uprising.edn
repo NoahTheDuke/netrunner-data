@@ -46,12 +46,34 @@
   :position 74
   :quantity 3
   :set-id "uprising"}
+ {:card-id "mu-safecracker"
+  :code "26076"
+  :illustrator "Zoe Cohen"
+  :image-url "https://netrunnerdb.com/card_image/26076.png"
+  :position 76
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "swift"
   :code "26078"
   :flavor "\"Red ones go faster.\" - Ken \"Express\" Tenma"
   :illustrator "Kira L. Nguyen"
   :image-url "https://netrunnerdb.com/card_image/26078.png"
   :position 78
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "afterimage"
+  :code "26079"
+  :illustrator "Kevin Tame"
+  :image-url "https://netrunnerdb.com/card_image/26079.png"
+  :position 79
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "penumbral-toolkit"
+  :code "26081"
+  :flavor "Shadow Net marketplaces have such vulnerability that they differ from legal platforms only in the products offered."
+  :illustrator "Kevin Tame"
+  :image-url "https://netrunnerdb.com/card_image/26081.png"
+  :position 81
   :quantity 3
   :set-id "uprising"}
  {:card-id "harmony-ar-therapy"

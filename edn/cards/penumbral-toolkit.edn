@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "penumbral-toolkit"
+ :influence-cost 2
+ :side :runner
+ :subtype [:stealth :virtual]
+ :text "This card costs 2[credit] less to install if you made a successful run on HQ this turn.\nWhen you install this resource, load 4[credit] onto it. When it is empty, trash it.\nSpend hosted credits during runs."
+ :title "Penumbral Toolkit"
+ :type :resource
+ :uniqueness false}
