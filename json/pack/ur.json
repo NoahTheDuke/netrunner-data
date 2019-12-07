@@ -523,6 +523,25 @@
         "uniqueness": true
     },
     {
+        "code": "26108",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 1,
+        "flavor": "$BMI.001 > Out of Memory Error",
+        "illustrator": "Janet Bruesselbach",
+        "keywords": "Code Gate - Observer",
+        "pack_code": "ur",
+        "position": 108,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip using a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip.",
+        "title": "Engram Flush",
+        "type_code": "ice",
+        "uniqueness": false
+    },
+    {
         "code": "26109",
         "cost": 3,
         "deck_limit": 3,

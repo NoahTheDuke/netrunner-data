@@ -227,6 +227,14 @@
   :position 107
   :quantity 3
   :set-id "uprising"}
+ {:card-id "engram-flush"
+  :code "26108"
+  :flavor "$BMI.001 > Out of Memory Error"
+  :illustrator "Janet Bruesselbach"
+  :image-url "https://netrunnerdb.com/card_image/26108.png"
+  :position 108
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "konjin"
   :code "26109"
   :flavor "\"The Konjin dons the mask of our fears, but what lies underneath?\"\n-Lat"

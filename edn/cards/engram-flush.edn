@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "engram-flush"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :subtype [:code-gate :observer]
+ :text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip using a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip."
+ :title "Engram Flush"
+ :type :ice
+ :uniqueness false}
