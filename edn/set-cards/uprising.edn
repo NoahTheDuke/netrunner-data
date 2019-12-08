@@ -92,6 +92,14 @@
   :position 79
   :quantity 3
   :set-id "uprising"}
+ {:card-id "makler"
+  :code "26080"
+  :flavor "\"Debt is beautiful... <em>after</em> it is repaid.\"\n-\"Baklan\" Bochkin"
+  :illustrator "Kevin Tame"
+  :image-url "https://netrunnerdb.com/card_image/26080.png"
+  :position 80
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "penumbral-toolkit"
   :code "26081"
   :flavor "Shadow Net marketplaces have such venerability that they differ from legal platforms only in the products offered."
@@ -185,6 +193,14 @@
   :illustrator "Akira J. Mitchell"
   :image-url "https://netrunnerdb.com/card_image/26100.png"
   :position 100
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "drafter"
+  :code "26101"
+  :flavor "Each generation of design assistants makes a sysop's job easier. They need only speak and it will be so."
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26101.png"
+  :position 101
   :quantity 3
   :set-id "uprising"}
  {:card-id "tyr"
@@ -295,6 +311,13 @@
   :illustrator "Owen Sinodov"
   :image-url "https://netrunnerdb.com/card_image/26123.png"
   :position 123
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "colossus"
+  :code "26124"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26124.png"
+  :position 124
   :quantity 3
   :set-id "uprising"}
  {:card-id "winchester"

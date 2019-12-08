@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "makler"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :fracter]
+ :text "2[credit]: Break up to 2 barrier subroutines.\n2[credit]: +2 strength.\nThe first time each turn that you break all subroutines on a piece of ice you are encountering using only this program, gain 1[credit]."
+ :title "Makler"
+ :type :program
+ :uniqueness false}
