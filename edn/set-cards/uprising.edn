@@ -140,6 +140,22 @@
   :position 87
   :quantity 3
   :set-id "uprising"}
+ {:card-id "mantle"
+  :code "26088"
+  :flavor "\"Invisibility made it possible to get them, but it made it impossible to enjoy them when they are got.\"\n-H.B. Wells, <em>The Invisible Man</em>"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26088.png"
+  :position 88
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "penrose"
+  :code "26089"
+  :flavor "Look at the problem from a different angle."
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26089.png"
+  :position 89
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "cybertrooper-talut"
   :code "26091"
   :flavor "He's nice enough, but not when there are 5,187 of him."

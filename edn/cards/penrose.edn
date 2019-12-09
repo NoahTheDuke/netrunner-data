@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "penrose"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder :fracter]
+ :text "When you install this program, for the remainder of the turn it gains \"1[credit]: Break barrier subroutine.\"\n1[credit]: Break code gate subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a stealth card."
+ :title "Penrose"
+ :type :program
+ :uniqueness false}

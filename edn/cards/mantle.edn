@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "mantle"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :subtype [:stealth]
+ :text "1[recurring credit]\nSpend hosted credits to use hardware and programs."
+ :title "Mantle"
+ :type :program
+ :uniqueness false}
