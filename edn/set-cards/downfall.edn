@@ -1,7 +1,7 @@
 [{:card-id "isolation"
   :code "26001"
   :flavor "With each passing day alone, Hoshiko found it harder to think. With each hour, the static grew louder."
-  :illustrator "Photo Tammy Hann/Upsplash. Deep Dream"
+  :illustrator "Photo Tammy Gann/Unsplash. Deep Dream"
   :image-url "https://netrunnerdb.com/card_image/26001.png"
   :position 1
   :quantity 3
@@ -375,7 +375,7 @@
   :set-id "downfall"}
  {:card-id "tiered-subscription"
   :code "26049"
-  :flavor "Subscribe for 12 months to get that premium uplink you <strong>need</strong> to blaze ahead of the crowd!"
+  :flavor "Subscribe for 12 months to get that premium uplink you <em>need</em> to blaze ahead of the crowd!"
   :illustrator "N. Hopkins"
   :image-url "https://netrunnerdb.com/card_image/26049.png"
   :position 49

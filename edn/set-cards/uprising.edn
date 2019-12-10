@@ -126,7 +126,7 @@
   :set-id "uprising"}
  {:card-id "simulchip"
   :code "26085"
-  :flavor "\"I <strong>could</strong> let my code evolve something new, but sometimes I just want to remember yesterday's solution.\"\n-Lane"
+  :flavor "\"I <em>could</em> let my code evolve something new, but sometimes I just want to remember yesterday's solution.\"\n-Lane"
   :illustrator "Elizaveta Sokolova"
   :image-url "https://netrunnerdb.com/card_image/26085.png"
   :position 85
