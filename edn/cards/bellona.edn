@@ -1,0 +1,11 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :nbn
+ :id "bellona"
+ :side :corp
+ :subtype [:expansion]
+ :text "As an additional cost to steal this agenda, the Runner must pay 5[credit].\nWhen you score this agenda, gain 5[credit]."
+ :title "Bellona"
+ :type :agenda
+ :uniqueness false}

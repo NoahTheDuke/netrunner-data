@@ -298,6 +298,20 @@
   :position 113
   :quantity 1
   :set-id "uprising"}
+ {:card-id "bellona"
+  :code "26114"
+  :flavor "Mars' tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these \"lag-ghosts\" into compelling interactables-more responsible than the real thing!"
+  :illustrator "N. Hopkins/Iain Fairclough"
+  :position 114
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "gold-farmer"
+  :code "26116"
+  :flavor "[Pay 15 gems to access this content]"
+  :illustrator "N. Hopkins"
+  :position 116
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "digital-rights-management"
   :code "26117"
   :illustrator "Krembler"
