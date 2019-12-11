@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "devil-charm"
+ :influence-cost 2
+ :side :runner
+ :subtype [:chip]
+ :text "Whenever you encounter a piece of ice, you may remove this hardware from the game. If you do, that ice gets -6 strength for the remainder of the run."
+ :title "Devil Charm"
+ :type :hardware
+ :uniqueness true}

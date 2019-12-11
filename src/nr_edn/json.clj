@@ -198,4 +198,5 @@
              (map #(into (sorted-map) %))
              (#(json/generate-string % pretty))
              (#(str % "\n"))
-             (spit (io/file "json" "pack" (str (:pack_code (first pack)) ".json"))))))))
+             (spit (io/file "json" "pack" (str (:pack_code (first pack)) ".json")))))
+      (println "Writing json files...Done!"))))

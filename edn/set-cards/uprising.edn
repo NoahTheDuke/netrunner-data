@@ -14,6 +14,14 @@
   :position 67
   :quantity 3
   :set-id "uprising"}
+ {:card-id "devil-charm"
+  :code "26068"
+  :flavor "A simple little box, brimming with temptation."
+  :illustrator "Elizaveta Sokolova"
+  :image-url "https://netrunnerdb.com/card_image/26068.png"
+  :position 68
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "keiko"
   :code "26070"
   :flavor "\"...and friends hold you close. I vow to never let go of my princess.\""
@@ -122,6 +130,14 @@
   :illustrator "Patrick Burk/Krembler"
   :image-url "https://netrunnerdb.com/card_image/26083.png"
   :position 83
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "aniccam"
+  :code "26084"
+  :flavor "Objects are but modulations in a continuous cycle of energy-illusory and impermanent echoes of the Self."
+  :illustrator "Olie Boldador"
+  :image-url "https://netrunnerdb.com/card_image/26084.png"
+  :position 84
   :quantity 3
   :set-id "uprising"}
  {:card-id "simulchip"
@@ -302,6 +318,7 @@
   :code "26114"
   :flavor "Mars' tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these \"lag-ghosts\" into compelling interactables-more responsible than the real thing!"
   :illustrator "N. Hopkins/Iain Fairclough"
+  :image-url "https://netrunnerdb.com/card_image/26114.png"
   :position 114
   :quantity 3
   :set-id "uprising"}
@@ -309,6 +326,7 @@
   :code "26116"
   :flavor "[Pay 15 gems to access this content]"
   :illustrator "N. Hopkins"
+  :image-url "https://netrunnerdb.com/card_image/26116.png"
   :position 116
   :quantity 3
   :set-id "uprising"}
@@ -333,6 +351,14 @@
   :illustrator "Kira L. Nguyen"
   :image-url "https://netrunnerdb.com/card_image/26120.png"
   :position 120
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "transport-monopoly"
+  :code "26121"
+  :flavor "Once you're on the Space Elevator Authority's blacklist, you aren't going anywhere."
+  :illustrator "Zoe Cohen"
+  :image-url "https://netrunnerdb.com/card_image/26121.png"
+  :position 121
   :quantity 3
   :set-id "uprising"}
  {:card-id "akhet"
