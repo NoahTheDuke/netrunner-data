@@ -219,6 +219,14 @@
   :position 98
   :quantity 3
   :set-id "uprising"}
+ {:card-id "cerebral-overwriter"
+  :code "26099"
+  :flavor "You are being made sane.\n-u are bei-g mad- sa-e\nY-u ar- be-n-d-\n-u -r-?"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26099.png"
+  :position 99
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "vaporframe-fabricator"
   :code "26100"
   :flavor "A staccato of laser pulses fuses the vapor to solid form. The embryonic part accretes metal layer by layer."
@@ -249,6 +257,14 @@
   :illustrator "Akira J. Mitchell"
   :image-url "https://netrunnerdb.com/card_image/26103.png"
   :position 103
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "scapenet"
+  :code "26104"
+  :flavor "The Net is the consensual hallucination of the world's electronic architecture. <em>Our</em> electronic architecture. Don't get mad when the Runners succeed-change the rules."
+  :illustrator "Zoe Cohen"
+  :image-url "https://netrunnerdb.com/card_image/26104.png"
+  :position 104
   :quantity 3
   :set-id "uprising"}
  {:card-id "tranquility-home-grid"
@@ -298,6 +314,13 @@
   :position 110
   :quantity 3
   :set-id "uprising"}
+ {:card-id "kakurenbo"
+  :code "26111"
+  :illustrator "Patrick Burk"
+  :image-url "https://netrunnerdb.com/card_image/26111.png"
+  :position 111
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "la-costa-grid"
   :code "26112"
   :flavor "Some slums of New Angeles are so worn down, City Hall calls the acres of windowless clone barracks \"gentrification\" with a straight face."
@@ -320,6 +343,14 @@
   :illustrator "N. Hopkins/Iain Fairclough"
   :image-url "https://netrunnerdb.com/card_image/26114.png"
   :position 114
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "f2p"
+  :code "26115"
+  :flavor "Free to Pay"
+  :illustrator "Krembler"
+  :image-url "https://netrunnerdb.com/card_image/26115.png"
+  :position 115
   :quantity 3
   :set-id "uprising"}
  {:card-id "gold-farmer"
@@ -345,6 +376,14 @@
   :position 118
   :quantity 3
   :set-id "uprising"}
+ {:card-id "ganked"
+  :code "26119"
+  :flavor "Roll Initiative..."
+  :illustrator "N. Hopkins"
+  :image-url "https://netrunnerdb.com/card_image/26119.png"
+  :position 119
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "earth-station-sea-headquarters"
   :code "26120"
   :flavor "The First Step...\nFlip side:\n...Further Beyond"
@@ -359,6 +398,13 @@
   :illustrator "Zoe Cohen"
   :image-url "https://netrunnerdb.com/card_image/26121.png"
   :position 121
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "wall-to-wall"
+  :code "26122"
+  :illustrator "Zoe Cohen"
+  :image-url "https://netrunnerdb.com/card_image/26122.png"
+  :position 122
   :quantity 3
   :set-id "uprising"}
  {:card-id "akhet"
@@ -379,7 +425,7 @@
  {:card-id "winchester"
   :code "26125"
   :flavor "\"I don't know how Skorpios gets these designs past Brand Management.\"\n-Liz Campbell, VP Project Security"
-  :illustrator "Krembler"
+  :illustrator "Akira J. Mitchell"
   :image-url "https://netrunnerdb.com/card_image/26125.png"
   :position 125
   :quantity 3

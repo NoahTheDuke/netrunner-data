@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "scapenet"
+ :influence-cost 2
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 7</trace> If successful, remove 1 installed <em>chip</em> or <em>virtual</em> card from the game."
+ :title "Scapenet"
+ :type :operation
+ :uniqueness false}
