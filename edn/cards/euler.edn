@@ -7,7 +7,7 @@
  :side :runner
  :strength 2
  :subtype [:icebreaker :decoder]
- :text "When you install this program, for the remainder of the turn it gains \"0[credit]: Break code gate subroutine.\"\n2[credit]: Break up to 2 code gate subroutines.\n1[credit]: +1 strength."
+ :text "When you install this program, for the remainder of the turn it gains \"0[credit]: Break <strong>code gate</strong> subroutine.\"\n2[credit]: Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength."
  :title "Euler"
  :type :program
  :uniqueness false}

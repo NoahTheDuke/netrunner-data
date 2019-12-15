@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :corp
  :subtype [:region]
- :text "Remote server only.\nThe first time each turn you install a card in this server, gain 2[credit] or draw 1 card.\nLimit 1 region per server."
+ :text "Remote server only.\nThe first time each turn you install a card in this server, gain 2[credit] or draw 1 card.\nLimit 1 <strong>region</strong> per server."
  :title "Tranquility Home Grid"
  :trash-cost 4
  :type :upgrade

@@ -5,7 +5,7 @@
  :influence-cost 3
  :side :runner
  :subtype [:console :companion]
- :text "+2[mu].\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 console per player."
+ :text "+2[mu]\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 <strong>console</strong> per player."
  :title "Keiko"
  :type :hardware
  :uniqueness true}

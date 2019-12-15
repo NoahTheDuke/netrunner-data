@@ -5,7 +5,7 @@
  :id "project-vacheron"
  :side :corp
  :subtype [:research]
- :text "[interrupt] - When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters.\nWhile this agenda is in the Runner's score area with 1 or more hosted agenda counter, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\""
+ :text "[interrupt] - When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters.\nWhile this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\""
  :title "Project Vacheron"
  :type :agenda
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :runner
  :subtype [:virtual]
- :text "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is digital, also gain 1[credit]."
+ :text "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is <strong>digital</strong>, also gain 1[credit]."
  :title "DreamNet"
  :type :resource
  :uniqueness true}

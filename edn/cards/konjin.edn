@@ -6,7 +6,7 @@
  :side :corp
  :strength 3
  :subtype [:mythic :psi]
- :text "When the Runner encounters this ice, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. (When that encounter ends, if the run has not ended, finish encountering this ice.)"
+ :text "When the Runner encounters this ice, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. <em>(When that encounter ends, if the run has not ended, finish encountering this ice.)</em>"
  :title "Konjin"
  :type :ice
  :uniqueness true}
