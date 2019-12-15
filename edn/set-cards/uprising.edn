@@ -148,6 +148,13 @@
   :position 85
   :quantity 3
   :set-id "uprising"}
+ {:card-id "cordyceps"
+  :code "26086"
+  :illustrator "Krembler/Zoe Cohen"
+  :image-url "https://netrunnerdb.com/card_image/26086.png"
+  :position 86
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "euler"
   :code "26087"
   :flavor "Find truth not in the observation, but in the demonstration."
@@ -172,6 +179,14 @@
   :position 89
   :quantity 3
   :set-id "uprising"}
+ {:card-id "self-modifying-code"
+  :code "26090"
+  :flavor "Consider this: the most notorious tool in cyberterrorism is one that, in isolation, does <em>nothing.</em>"
+  :illustrator "Chiara Biancheri"
+  :image-url "https://netrunnerdb.com/card_image/26090.png"
+  :position 90
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "cybertrooper-talut"
   :code "26091"
   :flavor "He's nice enough, but not when there are 5,187 of him."
@@ -180,12 +195,28 @@
   :position 91
   :quantity 3
   :set-id "uprising"}
+ {:card-id "paule-s-cafe"
+  :code "26092"
+  :flavor "<champion>Designed by 2018 Eternal Champion Oguz Han Asnaz</champion>"
+  :illustrator "Matt Zellinger"
+  :image-url "https://netrunnerdb.com/card_image/26092.png"
+  :position 92
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "buffer-drive"
   :code "26093"
   :flavor "\"Future me <strong>needs</strong> those 60 petabytes of cat vids.\"\n-Princess Space Kitten"
   :illustrator "Elizaveta Sokolova"
   :image-url "https://netrunnerdb.com/card_image/26093.png"
   :position 93
+  :quantity 3
+  :set-id "uprising"}
+ {:card-id "daily-casts"
+  :code "26094"
+  :flavor "To strike another blow to the corporatocracy tomorrow night, don't forget to like and subscribe!"
+  :illustrator "Olie Boldador"
+  :image-url "https://netrunnerdb.com/card_image/26094.png"
+  :position 94
   :quantity 3
   :set-id "uprising"}
  {:card-id "dreamnet"
