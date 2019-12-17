@@ -22,6 +22,14 @@
   :position 68
   :quantity 3
   :set-id "uprising"}
+ {:card-id "gachapon"
+  :code "26069"
+  :flavor "Win a new friend today!"
+  :illustrator "Elizaveta Sokolova"
+  :image-url "https://netrunnerdb.com/card_image/26069.png"
+  :position 69
+  :quantity 3
+  :set-id "uprising"}
  {:card-id "keiko"
   :code "26070"
   :flavor "\"...and friends hold you close. I vow to never let go of my princess.\""
@@ -103,7 +111,7 @@
  {:card-id "makler"
   :code "26080"
   :flavor "\"Debt is beautiful... <em>after</em> it is repaid.\"\n-\"Baklan\" Bochkin"
-  :illustrator "Kevin Tame"
+  :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26080.png"
   :position 80
   :quantity 3
@@ -134,7 +142,7 @@
   :set-id "uprising"}
  {:card-id "aniccam"
   :code "26084"
-  :flavor "Objects are but modulations in a continuous cycle of energy-illusory and impermanent echoes of the Self."
+  :flavor "Objects are but modulations in a continuous cycle of energy&mdash;illusory and impermanent echoes of the Self."
   :illustrator "Olie Boldador"
   :image-url "https://netrunnerdb.com/card_image/26084.png"
   :position 84
@@ -174,7 +182,7 @@
  {:card-id "penrose"
   :code "26089"
   :flavor "Look at the problem from a different angle."
-  :illustrator "Krembler"
+  :illustrator "Kevin Tame"
   :image-url "https://netrunnerdb.com/card_image/26089.png"
   :position 89
   :quantity 3
@@ -222,7 +230,7 @@
  {:card-id "dreamnet"
   :code "26095"
   :flavor "Did I dream that dance through virtual space, or does that program now dream of flesh?"
-  :illustrator "Krembler"
+  :illustrator "Janet Bruesselbach"
   :image-url "https://netrunnerdb.com/card_image/26095.png"
   :position 95
   :quantity 3
