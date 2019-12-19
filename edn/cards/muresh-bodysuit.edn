@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :runner
  :subtype [:gear]
- :text "Prevent the first meat damage each turn."
+ :text "[interrupt] - The first time each turn you would take meat damage, prevent 1 meat damage.\n<errata>Errata from CR 1.4</errata>"
  :title "Muresh Bodysuit"
  :type :hardware
  :uniqueness false}

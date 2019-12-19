@@ -5,7 +5,7 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
- :text "[trash]: Prevent a trace. That trace initiates again with a base trace strength of 0."
+ :text "[interrupt] - [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>"
  :title "Disrupter"
  :type :program
  :uniqueness false}

@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp
  :subtype [:advertisement]
- :text "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\nIf Marilyn Campaign is trashed while installed, you may shuffle it into R&D instead of adding it to Archives."
+ :text "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\n[interrupt] - When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. <em>(It is still considered trashed.)</em>\n<errata>Errata from CR 1.4</errata>"
  :title "Marilyn Campaign"
  :trash-cost 3
  :type :asset

@@ -5,7 +5,7 @@
  :minimum-deck-size 40
  :side :corp
  :subtype [:subsidiary]
- :text "Whenever a Runner card is trashed (from any location), you may force the Runner to remove it from the game instead of adding it to the heap. Use this ability only once per turn."
+:text "[interrupt] - Whenever 1 or more Runner cards would be trashed <em>(from any location)</em>, set those cards aside instead of adding them to the heap. You can look at those cards. You may remove 1 of them from the game. Then, add all of those cards that are still set aside to the heap. Ignore this ability if you have already removed a card from the game with it this turn.\n<errata>Errata from CR 1.4</errata>"
  :title "Skorpios Defense Systems: Persuasive Power"
  :type :identity
  :uniqueness false}

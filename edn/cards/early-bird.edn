@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :runner
  :subtype [:priority :run]
- :text "Play only as your first click.\nMake a run and gain [click]."
+ :text "Play only as your first click.\nGain [click]. Run any server.\n<errata>Errata from CR 1.4</errata>"
  :title "Early Bird"
  :type :event
  :uniqueness false}

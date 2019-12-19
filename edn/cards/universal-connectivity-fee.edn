@@ -6,7 +6,7 @@
  :side :corp
  :strength 2
  :subtype [:trap]
- :text "[subroutine] If the Runner is not tagged, they lose 1[credit]. If the Runner is tagged, they lose all credits in his or her credit pool and the Corp trashes Universal Connectivity Fee.\n<errata>Errata from CR 1.2</errata>"
+ :text "[subroutine] If the Runner is not tagged, they lose 1[credit]. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice.\n<errata>Errata from CR 1.4</errata>"
  :title "Universal Connectivity Fee"
  :type :ice
  :uniqueness false}

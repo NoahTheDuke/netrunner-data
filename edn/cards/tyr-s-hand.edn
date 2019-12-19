@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :corp
  :subtype [:hostile]
- :text "If the Runner is about to break a subroutine on a piece of <strong>bioroid</strong> ice protecting this server, you may rez Tyr's Hand.\n[trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server."
+ :text "[interrupt] - When a subroutine would be broken on bioroid ice protecting this server, you may rez this upgrade.\n[trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server.\n<errata>Errata from CR 1.4</errata>"
  :title "Tyr's Hand"
  :trash-cost 1
  :type :upgrade

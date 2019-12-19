@@ -6,7 +6,7 @@
  :side :corp
  :strength 5
  :subtype [:code-gate :observer]
- :text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip using a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip."
+ :text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip with a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip.\n<errata>Errata from CR 1.4</errata>"
  :title "Engram Flush"
  :type :ice
  :uniqueness false}

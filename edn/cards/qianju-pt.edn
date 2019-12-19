@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :runner
  :subtype [:vehicle]
- :text "When your turn begins, you may lose [click]. If you do, avoid the first tag you take until the beginning of your next turn."
+ :text "When your turn begins, you may lose [click]. If you do, avoid the first tag you would take until the beginning of your next turn.\n<errata>Errata from CR 1.4</errata>"
  :title "Qianju PT"
  :type :hardware
  :uniqueness false}

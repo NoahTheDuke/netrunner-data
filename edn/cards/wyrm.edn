@@ -7,7 +7,7 @@
  :side :runner
  :strength 1
  :subtype [:icebreaker :ai]
- :text "3[credit]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[credit]: Ice has -1 strength.\n1[credit]: +1 strength."
+ :text "3[credit]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[credit]: The ice you are encountering gets -1 strength for the remainder of the encounter. <em>(This program must match the ice's strength to use this ability.)</em>\n1[credit]: +1 strength.\n<errata>Errata from CR 1.4</errata>"
  :title "Wyrm"
  :type :program
  :uniqueness false}

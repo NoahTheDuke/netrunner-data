@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :runner
  :subtype [:run]
- :text "Make a run and choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength for the remainder of this run."
+ :text "Choose an <strong>icebreaker</strong> and run any server. During this run, the chosen <strong>icebreaker</strong> has +2 strength.\n<errata>Errata from CR 1.4</errata>"
  :title "Injection Attack"
  :type :event
  :uniqueness false}

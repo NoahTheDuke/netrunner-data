@@ -6,7 +6,7 @@
  :side :corp
  :strength 3
  :subtype [:sentry]
- :text "Architect cannot be trashed while installed.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs)."
+ :text "Players cannot trash this ice.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs).\n<errata>Errata from CR 1.4</errata>"
  :title "Architect"
  :type :ice
  :uniqueness false}

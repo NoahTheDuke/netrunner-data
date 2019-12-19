@@ -6,7 +6,7 @@
  :minimum-deck-size 45
  :side :runner
  :subtype [:cyborg]
- :text "The first piece of ice you encounter each turn gains <strong>code gate</strong> until the end of the run."
+ :text "The first time each turn you encounter a piece of ice, it gains <strong>code gate</strong> for the remainder of the run.\n<errata>Errata from CR 1.4</errata>"
  :title "Rielle \"Kit\" Peddler: Transhuman"
  :type :identity
  :uniqueness false}

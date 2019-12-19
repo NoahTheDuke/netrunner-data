@@ -6,7 +6,7 @@
  :minimum-deck-size 45
  :side :runner
  :subtype [:natural]
- :text "[click]: Make a run on Archives. If successful, instead treat it as a successful run on another central server. Use this ability only once per turn."
+ :text "[click]: Run Archives. If that run would be declared successful, instead change the attacked server to R&D or HQ. Then, the run is declared successful. Use this ability only once per turn.\n<errata>Errata from CR 1.4</errata>"
  :title "Omar Keung: Conspiracy Theorist"
  :type :identity
  :uniqueness false}

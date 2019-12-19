@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :runner
  :subtype [:cybernetic]
- :text "[click]: Make a run on R&D or HQ and trash 2 or more cards from your grip. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed.\n<errata>Errata from FAQ 4.0</errata>"
+ :text "[click]: Trash 2 or more cards from your grip. Run R&D or HQ. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed.\n<errata>Errata from CR 1.4</errata>"
  :title "Severnius Stim Implant"
  :type :hardware
  :uniqueness false}

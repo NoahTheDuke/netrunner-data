@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :runner
  :subtype [:console]
- :text "+1[link]\n[trash]: Avoid or remove 1 tag.\nLimit 1 <strong>console</strong> per player."
+ :text "+1[link]\n[interrupt] - [trash]: Avoid 1 tag.\n[trash]: Remove 1 tag.\nLimit 1 <strong>console</strong> per player.\n<errata>Errata from CR 1.4</errata>"
  :title "Forger"
  :type :hardware
  :uniqueness false}

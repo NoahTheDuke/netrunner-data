@@ -5,7 +5,7 @@
  :minimum-deck-size 45
  :side :corp
  :subtype [:division]
- :text "Before taking your first turn, you may swap this card with any copy of Jinteki Biotech.\n[click],[click],[click]: Flip this identity.\nThe Brewery: When you flip this identity, do 2 net damage.\nThe Tank: When you flip this identity, shuffle Archives into R&D.\nThe Greenhouse: When you flip this identity, place 4 advancement tokens on a card that can be advanced."
+ :text "Before taking your first turn, you may switch this card with any copy of Jinteki Biotech.\n[click],[click],[click]: Flip this identity.\nThe Brewery: When you flip this identity, do 2 net damage.\nThe Tank: When you flip this identity, shuffle Archives into R&D.\nThe Greenhouse: When you flip this identity, place 4 advancement tokens on a card that can be advanced.\n<errata>Errata from CR 1.4</errata>"
  :title "Jinteki Biotech: Life Imagined"
  :type :identity
  :uniqueness false}

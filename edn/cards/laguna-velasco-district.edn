@@ -5,7 +5,7 @@
  :influence-cost 2
  :side :runner
  :subtype [:location :ritzy]
- :text "Whenever you spend [click] to draw 1 card (not through a card ability), draw 1 additional card."
+ :text "[interrupt] - Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1.\n<errata>Errata from CR 1.4</errata>"
  :title "Laguna Velasco District"
  :type :resource
  :uniqueness true}
