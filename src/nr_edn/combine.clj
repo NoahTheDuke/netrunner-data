@@ -34,7 +34,7 @@
     (for [s (read-edn-file "edn/sets.edn")
           :let [cy (get cycles (:cycle-id s))]]
       {:available (or (:date-release s) "4096-01-01")
-       :bigbox (> (or (:size s) -1) 20)
+       :bigbox (:deluxe s)
        :code (:code s)
        :cycle (:name cy)
        :cycle_code (:cycle-id s)

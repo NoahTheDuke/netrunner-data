@@ -1,6 +1,7 @@
 [{:code "draft"
   :cycle-id "draft"
   :date-release nil
+  :deluxe false
   :ffg-id nil
   :id "draft"
   :name "Draft"
@@ -10,6 +11,7 @@
  {:code "core"
   :cycle-id "core"
   :date-release "2012-09-06"
+  :deluxe true
   :ffg-id nil
   :id "core-set"
   :name "Core Set"
@@ -19,6 +21,7 @@
  {:code "wla"
   :cycle-id "genesis"
   :date-release "2012-12-14"
+  :deluxe false
   :ffg-id nil
   :id "what-lies-ahead"
   :name "What Lies Ahead"
@@ -28,6 +31,7 @@
  {:code "ta"
   :cycle-id "genesis"
   :date-release "2013-01-09"
+  :deluxe false
   :ffg-id nil
   :id "trace-amount"
   :name "Trace Amount"
@@ -37,6 +41,7 @@
  {:code "ce"
   :cycle-id "genesis"
   :date-release "2013-02-14"
+  :deluxe false
   :ffg-id nil
   :id "cyber-exodus"
   :name "Cyber Exodus"
@@ -46,6 +51,7 @@
  {:code "asis"
   :cycle-id "genesis"
   :date-release "2013-03-21"
+  :deluxe false
   :ffg-id nil
   :id "a-study-in-static"
   :name "A Study in Static"
@@ -55,6 +61,7 @@
  {:code "hs"
   :cycle-id "genesis"
   :date-release "2013-05-02"
+  :deluxe false
   :ffg-id nil
   :id "humanity-s-shadow"
   :name "Humanity's Shadow"
@@ -64,6 +71,7 @@
  {:code "fp"
   :cycle-id "genesis"
   :date-release "2013-05-30"
+  :deluxe false
   :ffg-id nil
   :id "future-proof"
   :name "Future Proof"
@@ -73,6 +81,7 @@
  {:code "cac"
   :cycle-id "creation-and-control"
   :date-release "2013-07-29"
+  :deluxe true
   :ffg-id nil
   :id "creation-and-control"
   :name "Creation and Control"
@@ -82,6 +91,7 @@
  {:code "om"
   :cycle-id "spin"
   :date-release "2013-09-27"
+  :deluxe false
   :ffg-id nil
   :id "opening-moves"
   :name "Opening Moves"
@@ -91,6 +101,7 @@
  {:code "st"
   :cycle-id "spin"
   :date-release "2013-11-07"
+  :deluxe false
   :ffg-id nil
   :id "second-thoughts"
   :name "Second Thoughts"
@@ -100,6 +111,7 @@
  {:code "mt"
   :cycle-id "spin"
   :date-release "2013-12-13"
+  :deluxe false
   :ffg-id nil
   :id "mala-tempora"
   :name "Mala Tempora"
@@ -109,6 +121,7 @@
  {:code "tc"
   :cycle-id "spin"
   :date-release "2014-01-17"
+  :deluxe false
   :ffg-id nil
   :id "true-colors"
   :name "True Colors"
@@ -118,6 +131,7 @@
  {:code "fal"
   :cycle-id "spin"
   :date-release "2014-02-21"
+  :deluxe false
   :ffg-id nil
   :id "fear-and-loathing"
   :name "Fear and Loathing"
@@ -127,6 +141,7 @@
  {:code "dt"
   :cycle-id "spin"
   :date-release "2014-03-28"
+  :deluxe false
   :ffg-id nil
   :id "double-time"
   :name "Double Time"
@@ -136,6 +151,7 @@
  {:code "hap"
   :cycle-id "honor-and-profit"
   :date-release "2014-05-02"
+  :deluxe true
   :ffg-id nil
   :id "honor-and-profit"
   :name "Honor and Profit"
@@ -145,6 +161,7 @@
  {:code "up"
   :cycle-id "lunar"
   :date-release "2014-07-25"
+  :deluxe false
   :ffg-id nil
   :id "upstalk"
   :name "Upstalk"
@@ -154,6 +171,7 @@
  {:code "tsb"
   :cycle-id "lunar"
   :date-release "2014-08-15"
+  :deluxe false
   :ffg-id 17
   :id "the-spaces-between"
   :name "The Spaces Between"
@@ -163,6 +181,7 @@
  {:code "fc"
   :cycle-id "lunar"
   :date-release "2014-09-15"
+  :deluxe false
   :ffg-id 18
   :id "first-contact"
   :name "First Contact"
@@ -172,6 +191,7 @@
  {:code "uao"
   :cycle-id "lunar"
   :date-release "2014-10-16"
+  :deluxe false
   :ffg-id 19
   :id "up-and-over"
   :name "Up and Over"
@@ -181,6 +201,7 @@
  {:code "atr"
   :cycle-id "lunar"
   :date-release "2014-11-13"
+  :deluxe false
   :ffg-id 20
   :id "all-that-remains"
   :name "All That Remains"
@@ -190,6 +211,7 @@
  {:code "ts"
   :cycle-id "lunar"
   :date-release "2014-12-18"
+  :deluxe false
   :ffg-id 21
   :id "the-source"
   :name "The Source"
@@ -199,6 +221,7 @@
  {:code "oac"
   :cycle-id "order-and-chaos"
   :date-release "2015-01-28"
+  :deluxe true
   :ffg-id 22
   :id "order-and-chaos"
   :name "Order and Chaos"
@@ -208,6 +231,7 @@
  {:code "val"
   :cycle-id "sansan"
   :date-release "2015-04-03"
+  :deluxe false
   :ffg-id 23
   :id "the-valley"
   :name "The Valley"
@@ -217,6 +241,7 @@
  {:code "bb"
   :cycle-id "sansan"
   :date-release "2015-04-24"
+  :deluxe false
   :ffg-id 24
   :id "breaker-bay"
   :name "Breaker Bay"
@@ -226,6 +251,7 @@
  {:code "cc"
   :cycle-id "sansan"
   :date-release "2015-05-29"
+  :deluxe false
   :ffg-id 25
   :id "chrome-city"
   :name "Chrome City"
@@ -235,6 +261,7 @@
  {:code "uw"
   :cycle-id "sansan"
   :date-release "2015-07-02"
+  :deluxe false
   :ffg-id 26
   :id "the-underway"
   :name "The Underway"
@@ -244,6 +271,7 @@
  {:code "oh"
   :cycle-id "sansan"
   :date-release "2015-08-06"
+  :deluxe false
   :ffg-id 27
   :id "old-hollywood"
   :name "Old Hollywood"
@@ -253,6 +281,7 @@
  {:code "uot"
   :cycle-id "sansan"
   :date-release "2015-09-03"
+  :deluxe false
   :ffg-id 28
   :id "the-universe-of-tomorrow"
   :name "The Universe of Tomorrow"
@@ -262,6 +291,7 @@
  {:code "dad"
   :cycle-id "data-and-destiny"
   :date-release "2015-10-29"
+  :deluxe true
   :ffg-id 29
   :id "data-and-destiny"
   :name "Data and Destiny"
@@ -271,6 +301,7 @@
  {:code "kg"
   :cycle-id "mumbad"
   :date-release "2016-01-29"
+  :deluxe false
   :ffg-id 30
   :id "kala-ghoda"
   :name "Kala Ghoda"
@@ -280,6 +311,7 @@
  {:code "bf"
   :cycle-id "mumbad"
   :date-release "2016-03-11"
+  :deluxe false
   :ffg-id 31
   :id "business-first"
   :name "Business First"
@@ -289,6 +321,7 @@
  {:code "dag"
   :cycle-id "mumbad"
   :date-release "2016-04-01"
+  :deluxe false
   :ffg-id 32
   :id "democracy-and-dogma"
   :name "Democracy and Dogma"
@@ -298,6 +331,7 @@
  {:code "si"
   :cycle-id "mumbad"
   :date-release "2016-04-28"
+  :deluxe false
   :ffg-id 33
   :id "salsette-island"
   :name "Salsette Island"
@@ -307,6 +341,7 @@
  {:code "tlm"
   :cycle-id "mumbad"
   :date-release "2016-05-26"
+  :deluxe false
   :ffg-id 34
   :id "the-liberated-mind"
   :name "The Liberated Mind"
@@ -316,6 +351,7 @@
  {:code "ftm"
   :cycle-id "mumbad"
   :date-release "2016-06-16"
+  :deluxe false
   :ffg-id 35
   :id "fear-the-masses"
   :name "Fear the Masses"
@@ -325,6 +361,7 @@
  {:code "23s"
   :cycle-id "flashpoint"
   :date-release "2016-07-14"
+  :deluxe false
   :ffg-id 36
   :id "23-seconds"
   :name "23 Seconds"
@@ -334,6 +371,7 @@
  {:code "bm"
   :cycle-id "flashpoint"
   :date-release "2016-08-11"
+  :deluxe false
   :ffg-id 37
   :id "blood-money"
   :name "Blood Money"
@@ -343,6 +381,7 @@
  {:code "es"
   :cycle-id "flashpoint"
   :date-release "2016-10-06"
+  :deluxe false
   :ffg-id 38
   :id "escalation"
   :name "Escalation"
@@ -352,6 +391,7 @@
  {:code "in"
   :cycle-id "flashpoint"
   :date-release "2016-11-03"
+  :deluxe false
   :ffg-id 39
   :id "intervention"
   :name "Intervention"
@@ -361,6 +401,7 @@
  {:code "ml"
   :cycle-id "flashpoint"
   :date-release "2016-12-08"
+  :deluxe false
   :ffg-id 40
   :id "martial-law"
   :name "Martial Law"
@@ -370,6 +411,7 @@
  {:code "qu"
   :cycle-id "flashpoint"
   :date-release "2017-01-12"
+  :deluxe false
   :ffg-id 41
   :id "quorum"
   :name "Quorum"
@@ -379,6 +421,7 @@
  {:code "dc"
   :cycle-id "red-sand"
   :date-release "2017-02-23"
+  :deluxe false
   :ffg-id 43
   :id "daedalus-complex"
   :name "Daedalus Complex"
@@ -388,6 +431,7 @@
  {:code "so"
   :cycle-id "red-sand"
   :date-release "2017-03-23"
+  :deluxe false
   :ffg-id 44
   :id "station-one"
   :name "Station One"
@@ -397,6 +441,7 @@
  {:code "td"
   :cycle-id "terminal-directive"
   :date-release "2017-04-27"
+  :deluxe true
   :ffg-id 42
   :id "terminal-directive"
   :name "Terminal Directive"
@@ -406,6 +451,7 @@
  {:code "eas"
   :cycle-id "red-sand"
   :date-release "2017-05-25"
+  :deluxe false
   :ffg-id 45
   :id "earth-s-scion"
   :name "Earth's Scion"
@@ -415,6 +461,7 @@
  {:code "baw"
   :cycle-id "red-sand"
   :date-release "2017-06-22"
+  :deluxe false
   :ffg-id 46
   :id "blood-and-water"
   :name "Blood and Water"
@@ -424,6 +471,7 @@
  {:code "fm"
   :cycle-id "red-sand"
   :date-release "2017-07-20"
+  :deluxe false
   :ffg-id 47
   :id "free-mars"
   :name "Free Mars"
@@ -433,6 +481,7 @@
  {:code "cd"
   :cycle-id "red-sand"
   :date-release "2017-08-17"
+  :deluxe false
   :ffg-id 48
   :id "crimson-dust"
   :name "Crimson Dust"
@@ -442,6 +491,7 @@
  {:code "core2"
   :cycle-id "revised-core"
   :date-release "2017-12-14"
+  :deluxe true
   :ffg-id 49
   :id "revised-core-set"
   :name "Revised Core Set"
@@ -451,6 +501,7 @@
  {:code "ss"
   :cycle-id "kitara"
   :date-release "2017-12-28"
+  :deluxe false
   :ffg-id 50
   :id "sovereign-sight"
   :name "Sovereign Sight"
@@ -460,6 +511,7 @@
  {:code "dtwn"
   :cycle-id "kitara"
   :date-release "2018-02-01"
+  :deluxe false
   :ffg-id 51
   :id "down-the-white-nile"
   :name "Down the White Nile"
@@ -469,6 +521,7 @@
  {:code "cotc"
   :cycle-id "kitara"
   :date-release "2018-03-01"
+  :deluxe false
   :ffg-id 52
   :id "council-of-the-crest"
   :name "Council of the Crest"
@@ -478,6 +531,7 @@
  {:code "tdatd"
   :cycle-id "kitara"
   :date-release "2018-04-05"
+  :deluxe false
   :ffg-id 53
   :id "the-devil-and-the-dragon"
   :name "The Devil and the Dragon"
@@ -487,6 +541,7 @@
  {:code "win"
   :cycle-id "kitara"
   :date-release "2018-05-03"
+  :deluxe false
   :ffg-id 54
   :id "whispers-in-nalubaale"
   :name "Whispers in Nalubaale"
@@ -496,6 +551,7 @@
  {:code "ka"
   :cycle-id "kitara"
   :date-release "2018-05-31"
+  :deluxe false
   :ffg-id 55
   :id "kampala-ascendent"
   :name "Kampala Ascendent"
@@ -505,6 +561,7 @@
  {:code "rar"
   :cycle-id "reign-and-reverie"
   :date-release "2018-06-28"
+  :deluxe true
   :ffg-id 56
   :id "reign-and-reverie"
   :name "Reign and Reverie"
@@ -514,6 +571,7 @@
  {:code "mo"
   :cycle-id "magnum-opus"
   :date-release "2018-09-07"
+  :deluxe false
   :ffg-id nil
   :id "magnum-opus"
   :name "Magnum Opus"
@@ -523,6 +581,7 @@
  {:code "napd"
   :cycle-id "napd-multiplayer"
   :date-release "2018-09-07"
+  :deluxe false
   :ffg-id nil
   :id "napd-multiplayer"
   :name "NAPD Multiplayer"
@@ -532,6 +591,7 @@
  {:code "sc19"
   :cycle-id "system-core-2019"
   :date-release "2018-12-21"
+  :deluxe true
   :ffg-id nil
   :id "system-core-2019"
   :name "System Core 2019"
@@ -541,6 +601,7 @@
  {:code "df"
   :cycle-id "ashes"
   :date-release "2019-03-18"
+  :deluxe false
   :ffg-id nil
   :id "downfall"
   :name "Downfall"
@@ -550,6 +611,7 @@
  {:code "mor"
   :cycle-id "magnum-opus-reprint"
   :date-release "2019-07-24"
+  :deluxe false
   :ffg-id nil
   :id "magnum-opus-reprint"
   :name "Magnum Opus Reprint"
@@ -559,6 +621,7 @@
  {:code "urbp"
   :cycle-id "ashes"
   :date-release "2019-09-09"
+  :deluxe false
   :ffg-id nil
   :id "uprising-booster-pack"
   :name "Uprising Booster Pack"
@@ -568,6 +631,7 @@
  {:code "ur"
   :cycle-id "ashes"
   :date-release "2019-12-31"
+  :deluxe false
   :ffg-id nil
   :id "uprising"
   :name "Uprising"
