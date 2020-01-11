@@ -13,7 +13,7 @@
            "red-sand"
            "kitara"
            "ashes"]
-  :mwl "standard-mwl-3-4"}
+  :mwl "standard-mwl-3-4-b"}
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
@@ -36,7 +36,7 @@
            "red-sand"
            "kitara"
            "ashes"]
-  :mwl "eternal-mwl-1-1"}
+  :mwl "eternal-mwl-1-2"}
  {:id "core-experience"
   :name "Core Experience"
   :sets ["system-core-2019"]

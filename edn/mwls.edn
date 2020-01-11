@@ -359,11 +359,62 @@
   :format "standard"
   :id "standard-mwl-3-3"
   :name "Standard MWL 3.3"}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
+          "aaron-marron" {:deck-limit 0}
+          "aesop-s-pawnshop" {:is-restricted 1}
+          "au-revoir" {:is-restricted 1}
+          "bio-ethics-association" {:is-restricted 1}
+          "bloo-moose" {:deck-limit 0}
+          "bryan-stinson" {:deck-limit 0}
+          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
+          "clone-suffrage-movement" {:deck-limit 0}
+          "corporate-grant" {:is-restricted 1}
+          "crowdfunding" {:deck-limit 0}
+          "dorm-computer" {:is-restricted 1}
+          "employee-strike" {:deck-limit 0}
+          "engolo" {:is-restricted 1}
+          "faust" {:deck-limit 0}
+          "film-critic" {:is-restricted 1}
+          "friends-in-high-places" {:deck-limit 0}
+          "gang-sign" {:is-restricted 1}
+          "global-food-initiative" {:is-restricted 1}
+          "gpi-net-tap" {:deck-limit 0}
+          "hired-help" {:deck-limit 0}
+          "hyperdriver" {:deck-limit 0}
+          "inversificator" {:is-restricted 1}
+          "jinteki-potential-unleashed" {:deck-limit 0}
+          "laamb" {:deck-limit 0}
+          "labor-rights" {:is-restricted 1}
+          "levy-ar-lab-access" {:is-restricted 1}
+          "mad-dash" {:is-restricted 1}
+          "mars-for-martians" {:deck-limit 0}
+          "mother-goddess" {:is-restricted 1}
+          "mti-mwekundu-life-improved" {:deck-limit 0}
+          "mumba-temple" {:is-restricted 1}
+          "mumbad-city-hall" {:deck-limit 0}
+          "museum-of-history" {:deck-limit 0}
+          "obokata-protocol" {:is-restricted 1}
+          "paperclip" {:is-restricted 1}
+          "power-tap" {:is-restricted 1}
+          "rumor-mill" {:is-restricted 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "sensie-actors-union" {:deck-limit 0}
+          "sifr" {:deck-limit 0}
+          "tapwrm" {:deck-limit 0}
+          "tech-trader" {:is-restricted 1}
+          "temujin-contract" {:deck-limit 0}
+          "watch-the-world-burn" {:deck-limit 0}
+          "whampoa-reclamation" {:is-restricted 1}
+          "zealous-judge" {:deck-limit 0}
+          "zer0" {:deck-limit 0}}
+  :date-start "2019-09-20"
+  :format "standard"
+  :id "standard-mwl-3-4"
+  :name "Standard MWL 3.4"}
  {:cards {
           ;; Corp restricted
           "bio-ethics-association" {:is-restricted 1}
           "global-food-initiative" {:is-restricted 1}
-          "mother-goddess" {:is-restricted 1}
           "mumba-temple" {:is-restricted 1}
           "obokata-protocol" {:is-restricted 1}
           "whampoa-reclamation" {:is-restricted 1}
@@ -371,7 +422,6 @@
           ;; Corp banned
           "24-7-news-cycle" {:deck-limit 0}
           "bryan-stinson" {:deck-limit 0}
-          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
           "clone-suffrage-movement" {:deck-limit 0}
           "friends-in-high-places" {:deck-limit 0}
           "hired-help" {:deck-limit 0}
@@ -384,7 +434,6 @@
 
           ;; Runner restricted
           "aesop-s-pawnshop" {:is-restricted 1}
-          "au-revoir" {:is-restricted 1}
           "corporate-grant" {:is-restricted 1}
           "dorm-computer" {:is-restricted 1}
           "engolo" {:is-restricted 1}
@@ -392,10 +441,8 @@
           "gang-sign" {:is-restricted 1}
           "inversificator" {:is-restricted 1}
           "labor-rights" {:is-restricted 1}
-          "levy-ar-lab-access" {:is-restricted 1}
           "mad-dash" {:is-restricted 1}
           "paperclip" {:is-restricted 1}
-          "power-tap" {:is-restricted 1}
           "rumor-mill" {:is-restricted 1}
           "tech-trader" {:is-restricted 1}
 
@@ -408,6 +455,7 @@
           "gpi-net-tap" {:deck-limit 0}
           "hyperdriver" {:deck-limit 0}
           "laamb" {:deck-limit 0}
+          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
           "mars-for-martians" {:deck-limit 0}
           "salvaged-vanadis-armory" {:deck-limit 0}
           "sifr" {:deck-limit 0}
@@ -415,10 +463,10 @@
           "temujin-contract" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "zer0" {:deck-limit 0}}
-  :date-start "2019-09-20"
+  :date-start "2019-12-31"
   :format "standard"
-  :id "standard-mwl-3-4"
-  :name "Standard MWL 3.4"}
+  :id "standard-mwl-3-4-b"
+  :name "Standard MWL 3.4b"}
  {:cards {"faust" {:deck-limit 0}
           "friends-in-high-places" {:deck-limit 0}
           "hired-help" {:deck-limit 0}
@@ -445,6 +493,24 @@
   :format "eternal"
   :id "eternal-mwl-1-1"
   :name "Eternal MWL 1.1"}
+ {:cards {
+          ;; Corp
+          "24-7-news-cycle" {:deck-limit 0}
+          "friends-in-high-places" {:deck-limit 0}
+          "hired-help" {:deck-limit 0}
+          ;; Runner
+          "aaron-marron" {:deck-limit 0}
+          "bloo-moose" {:deck-limit 0}
+          "faust" {:deck-limit 0}
+          "rumor-mill" {:deck-limit 0}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "sifr" {:deck-limit 0}
+          "temujin-contract" {:deck-limit 0}
+          "watch-the-world-burn" {:deck-limit 0}}
+  :date-start "2019-05-10"
+  :format "eternal"
+  :id "eternal-mwl-1-2"
+  :name "Eternal MWL 1.2"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "accelerated-diagnostics" {:deck-limit 0}

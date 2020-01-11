@@ -32,7 +32,7 @@
   :set-id "uprising"}
  {:card-id "keiko"
   :code "26070"
-  :flavor "\"...and friends hold you close. I vow to never let go of my princess.\""
+  :flavor "\"...and friends hold you close. I vow never to let go of my princess.\""
   :illustrator "Olie Boldador"
   :image-url "https://netrunnerdb.com/card_image/26070.png"
   :position 70
@@ -173,7 +173,7 @@
   :set-id "uprising"}
  {:card-id "mantle"
   :code "26088"
-  :flavor "\"Invisibility made it possible to get them, but it made it impossible to enjoy them when they are got.\"\n-H.B. Wells, <em>The Invisible Man</em>"
+  :flavor "\"Invisibility made it possible to get them, but it made it impossible to enjoy them when they are got.\"\n-H.G. Wells, <em>The Invisible Man</em>"
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26088.png"
   :position 88

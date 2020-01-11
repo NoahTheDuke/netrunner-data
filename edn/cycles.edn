@@ -16,7 +16,7 @@
  {:id "creation-and-control"
   :name "Creation and Control"
   :position 3
-  :rotated false
+  :rotated true
   :size 1}
  {:id "spin"
   :name "Spin"
@@ -31,7 +31,7 @@
  {:id "lunar"
   :name "Lunar"
   :position 6
-  :rotated false
+  :rotated true
   :size 6}
  {:id "order-and-chaos"
   :name "Order and Chaos"
