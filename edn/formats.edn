@@ -76,15 +76,15 @@
   :mwl "napd-mwl-2-2"}
  {:id "socr"
   :name "Stimhack Online Cache Refresh"
-  :sets ["creation-and-control"
-         "honor-and-profit"
+  :sets ["honor-and-profit"
          "order-and-chaos"
          "data-and-destiny"
          "reign-and-reverie"
-         "system-core-2019"]
-  :cycles ["lunar"
+         "system-core-2019"
+         "magnum-opus"]
+  :cycles ["kitara"
            "ashes"]
-  :mwl "standard-mwl-3-3"}
+  :mwl "standard-mwl-3-4-b"}
  {:id "classic"
   :name "Classic"
   :sets ["core-set"
