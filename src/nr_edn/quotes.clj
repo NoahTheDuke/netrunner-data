@@ -8,30 +8,46 @@
   [quotes]
   (->> quotes
        (filter-vals seq)
-       (map-vals (fn [text] (string/split text #"@@")))))
+       (map-vals (fn [text]
+                   (as-> text text
+                     (string/split text #"@@")
+                     (filter seq text)
+                     (mapv string/trim text))))))
+
+(comment
+  (quote-parser {:a ""
+                 :b "@@123@@456"
+                 :c "hello@@world"
+                 :d "asdf "}))
 
 (defn id-merger
   [path]
   (into {}
         (for [c (sc/slurp-csv path :keyify false)
-              :let [k (get c "Title")
-                    v (dissoc c "Title")]]
+              :let [k (get c "")
+                    v (dissoc c "")]]
           [k (quote-parser v)])))
 
-(def corp (id-merger "jnet-corp-quotes.csv"))
 
-(comment (get corp "The Foundry: Refining the Process"))
 
-(def runner (id-merger "jnet-runner-quotes.csv"))
+(comment (get (id-merger "jnet-corp-quotes.csv") "Asa Group: Security Through Vigilance"))
+(comment (get (id-merger "jnet-runner-quotes.csv") "Sunny Lebeau: Security Specialist"))
 
-(comment (get runner "Sunny Lebeau: Security Specialist"))
 
-(zp/set-options!
-  {:style :community
-   :map {:comma? false
-         :force-nl? true}
-   :width 88})
+(defn build-quotes []
+  (let [
+        corp (id-merger "jnet-corp-quotes.csv")
+        runner (id-merger "jnet-runner-quotes.csv")
+        ]
 
-(spit "quotes/quotes-corp.edn" (str (zp/zprint-str corp) "\n"))
+    (zp/set-options!
+      {:style :community
+       :map {:comma? false
+             :force-nl? true}
+       :width 10})
 
-(spit "quotes/quotes-runner.edn" (str (zp/zprint-str runner) "\n"))
+
+    (spit "quotes/quotes-corp.edn" (str (zp/zprint-str corp) "\n"))
+    (spit "quotes/quotes-runner.edn" (str (zp/zprint-str runner) "\n"))))
+
+(build-quotes)
