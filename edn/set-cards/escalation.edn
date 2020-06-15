@@ -46,7 +46,7 @@
   :set-id "escalation"}
  {:card-id "find-the-truth"
   :code "11047"
-  :flavor "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\""
+  :flavor "All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero."
   :illustrator "Ethan Patrick Harris"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_47.png"
   :position 47
@@ -93,6 +93,7 @@
   :set-id "escalation"}
  {:card-id "dna-tracker"
   :code "11053"
+  :flavor "When your ID is flagged with your genetic profile, \"privacy\"  doesn't really exist."
   :illustrator "A. Jones"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_53.png"
   :position 53

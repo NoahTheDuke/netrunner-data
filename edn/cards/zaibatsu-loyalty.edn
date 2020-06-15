@@ -4,7 +4,7 @@
  :id "zaibatsu-loyalty"
  :influence-cost 1
  :side :corp
- :text "[interrupt] - When a card would be exposed, you may rez this asset.\n<errata>Errata from CR 1.4</errata>"
+ :text "[interrupt] - When a card would be exposed, you may rez this asset.\n1[credit] or [trash]: Prevent 1 card from being exposed.\n<errata>Errata from CR 1.4</errata>"
  :title "Zaibatsu Loyalty"
  :trash-cost 4
  :type :asset

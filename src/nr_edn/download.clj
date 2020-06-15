@@ -86,9 +86,35 @@
    :position identity
    :size identity})
 
+(defn deluxe-set?
+  [s]
+  (case (:cycle-id s)
+    ("core" "revised-core" "system-core-2019"
+     "creation-and-control" "honor-and-profit" "order-and-chaos" "data-and-destiny"
+     "terminal-directive" "reign-and-reverie") true
+    ;; else
+    false))
+
+(defn set-type?
+  [s]
+  (case (slugify (:name s))
+    ("core-set" "revised-core-set" "system-core-2019") :core
+    ("creation-and-control" "honor-and-profit"
+     "order-and-chaos" "data-and-destiny"
+     "reign-and-reverie") :deluxe
+    ("magnum-opus" "magnum-opus-reprint" "uprising-booster-pack") :expansion
+    "draft" :draft
+    "napd-multiplayer" :promo
+    "terminal-directive" :campaign
+    ;; else
+    :data-pack))
+
 (defn add-set-fields
   [s]
-  (assoc s :id (slugify (:name s))))
+  (-> s
+      (assoc :id (slugify (:name s))
+             :deluxe (deluxe-set? s)
+             :set-type (set-type? s))))
 
 (defn convert-subtypes
   [subtype]
@@ -123,7 +149,12 @@
 (defn add-card-fields
   [card]
   (-> card
-      (assoc :id (slugify (:title card)))))
+      (assoc :id (slugify (:title card)))
+      (dissoc (when (or (and (= :agenda (:type card))
+                             (not (or (= :neutral-corp (:faction card))
+                                      (= :neutral-runner (:faction card)))))
+                        (= :identity (:type card)))
+                :influence-cost))))
 
 (def set-card-fields
   {
@@ -195,6 +226,69 @@
    :mwl {:path "mwl" :fields mwl-fields}
    })
 
+(defn cycle-handler
+  [line-ending download-fn]
+  (print "Downloading and processing cycles... ")
+  (let [cycles (->> (fetch-data download-fn (:cycle tables) add-cycle-fields)
+                    (sort-by :position)
+                    (into []))
+        path (str "edn/cycles.edn")]
+    (io/make-parents path)
+    (println "Saving" path)
+    (spit path (str (zp/zprint-str cycles) line-ending))
+    cycles))
+
+(defn set-handler
+  [line-ending download-fn]
+  (print "Downloading and processing sets... ")
+  (let [sets (->> (fetch-data download-fn (:set tables) add-set-fields)
+                  (sort-by :date-release)
+                  (into []))
+        path (str "edn/sets.edn")]
+    (io/make-parents path)
+    (println "Saving" path)
+    (spit path (str (zp/zprint-str sets) line-ending))
+    sets))
+
+(defn card-handler
+  [line-ending download-fn sets]
+  (let [raw-cards (download-fn (-> tables :card :path))
+        card-stub (fn [path] raw-cards)
+        cards (cards->map :id
+                          (fetch-data card-stub (:card tables) add-card-fields))
+        raw-set-cards (fetch-data card-stub
+                                  (:set-card tables)
+                                  (partial add-set-card-fields cards (cards->map sets)))]
+    (println "Saving edn/cards")
+    (doseq [[path card] cards
+            :let [path (str "edn/cards/" path ".edn")]]
+      (io/make-parents path)
+      (spit path (str (zp/zprint-str card) line-ending)))
+    [cards raw-set-cards]))
+
+(defn set-cards-handler
+  [line-ending raw-set-cards]
+  (let [set-cards (sort-and-group-set-cards raw-set-cards)]
+    (println "Saving edn/set-cards")
+    (doseq [[path set-card] set-cards
+            :let [path (str "edn/set-cards/" path ".edn")]]
+      (io/make-parents path)
+      (spit path (str (zp/zprint-str set-card) line-ending)))
+    set-cards))
+
+(defn mwl-handler
+  [line-ending download-fn raw-set-cards]
+  (print "Downloading and processing mwls... ")
+  (let [mwls (fetch-data download-fn
+                         (:mwl tables)
+                         (partial convert-mwl
+                                  (cards->map raw-set-cards)))]
+    (let [path (str "edn/mwls.edn")]
+      (io/make-parents path)
+      (println "Saving" path)
+      (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
+    mwls))
+
 (defn download-from-nrdb
   "Import data from NetrunnerDB.
   Can accept `--local <path>` to use the `netrunner-card-json` project locally,
@@ -202,22 +296,16 @@
   Specifying `--no-card-images` will not attempt to download images for cards."
   [& args]
   (try
-    (let [use-local (some #{"--local"} args)
+    (let [line-ending "\n"
+          use-local (some #{"--local"} args)
           localpath (first (remove #(string/starts-with? % "--") args))
           download-fn (if use-local
                         (partial read-local-data localpath)
                         download-nrdb-data)
-          _ (print "Downloading and processing cycles... ")
-          cycles (->> (fetch-data download-fn (:cycle tables) add-cycle-fields)
-                      (sort-by :position)
-                      (into []))
-          _ (println "Done!")
 
-          _ (print "Downloading and processing sets... ")
-          sets (->> (fetch-data download-fn (:set tables) add-set-fields)
-                    (sort-by :date-release)
-                    (into []))
-          _ (println "Done!")
+          cycles (cycle-handler line-ending download-fn)
+
+          sets (set-handler line-ending download-fn)
 
           _ (print "Downloading and processing cards...")
           ;; So this is fucked up, because unlike the old jnet system, we need to keep
@@ -227,52 +315,12 @@
           card-download-fn (if use-local
                              (partial read-card-dir localpath)
                              download-nrdb-data)
-          raw-cards (card-download-fn (-> tables :card :path))
-          card-stub (fn [path] raw-cards)
 
-          cards (cards->map :id
-                  (fetch-data card-stub (:card tables) add-card-fields))
+          [cards raw-set-cards] (card-handler line-ending card-download-fn sets)
 
-          raw-set-cards (fetch-data card-stub
-                                    (:set-card tables)
-                                    (partial add-set-card-fields cards (cards->map sets)))
-          set-cards (sort-and-group-set-cards raw-set-cards)
-          _ (println "Done!")
+          set-cards (set-cards-handler line-ending raw-set-cards)
 
-          _ (print "Downloading and processing mwls... ")
-          mwls (fetch-data download-fn
-                           (:mwl tables)
-                           (partial convert-mwl
-                                    (cards->map raw-set-cards)))
-          _ (println "Done!")
-
-          line-ending "\n"]
-
-      (let [path (str "edn/cycles.edn")]
-        (io/make-parents path)
-        (println "Saving" path)
-        (spit path (str (zp/zprint-str cycles) line-ending)))
-
-      (let [path (str "edn/sets.edn")]
-        (io/make-parents path)
-        (println "Saving" path)
-        (spit path (str (zp/zprint-str sets) line-ending)))
-
-      (println "Saving edn/cards")
-      (doseq [[path card] cards
-              :let [path (str "edn/cards/" path ".edn")]]
-        (io/make-parents path)
-        (spit path (str (zp/zprint-str card) line-ending)))
-
-      (println "Saving edn/set-cards")
-      (doseq [[path set-card] set-cards
-              :let [path (str "edn/set-cards/" path ".edn")]]
-        (io/make-parents path)
-        (spit path (str (zp/zprint-str set-card) line-ending)))
-
-      ; (let [path (str "edn/mwls.edn")]
-      ;   (io/make-parents path)
-      ;   (println "Saving" path)
-      ;   (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
+          ; mwls (mwl-handler line-ending download-fn raw-set-cards)
+          ]
 
       (println "Done!"))))

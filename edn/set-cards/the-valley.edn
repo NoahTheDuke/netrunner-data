@@ -30,6 +30,7 @@
   :set-id "the-valley"}
  {:card-id "enhanced-vision"
   :code "08005"
+  :flavor "Watch out fellas, this little lady's on the prowl!"
   :illustrator "Diana Martinez"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN23_5.png"
   :position 5
@@ -37,6 +38,7 @@
   :set-id "the-valley"}
  {:card-id "gene-conditioning-shoppe"
   :code "08006"
+  :flavor "\"These g-mods haven't hit the consumer market yet, but I can hook you up.\""
   :illustrator "James Ives"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN23_6.png"
   :position 6
@@ -90,6 +92,7 @@
   :set-id "the-valley"}
  {:card-id "genetic-resequencing"
   :code "08013"
+  :flavor "\"The best part of our work is that nothing is ever wasted. A gene that is useful once will surely be useful again.\" -Wong Ya Ching"
   :illustrator "Rovina Cai"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN23_13.png"
   :position 13

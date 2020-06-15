@@ -5,7 +5,7 @@
  :id "transport-monopoly"
  :side :corp
  :subtype [:initiative]
- :text "When you score this agenda, place 2 agenda counters on it.\nHosted agenda counter: This run cannot be declared successful. <em>(This effect does not cause the run to become unsuccessful.)</em> Use this ability only once per turn."
+ :text "When you score this agenda, place 2 agenda counters on it.\n<strong>Hosted agenda counter:</strong> This run cannot be declared successful. <em>(This effect does not cause the run to become unsuccessful.)</em> Use this ability only once per turn."
  :title "Transport Monopoly"
  :type :agenda
  :uniqueness false}

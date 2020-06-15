@@ -3,7 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "timely-public-release"
- :influence-cost nil
+ :influence-cost 0
  :side :corp
  :subtype [:initiative]
  :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter</strong>: Install 1 piece of ice from HQ or Archives in any position protecting a server, ignoring all costs."

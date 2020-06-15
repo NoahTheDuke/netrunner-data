@@ -181,7 +181,7 @@
   :set-id "downfall"}
  {:card-id "gauss"
   :code "26024"
-  :flavor "It is not knowledge, but the act of learning, not posession, but the act of getting there, which grants the greatest enjoyment."
+  :flavor "It is not knowledge, but the act of learning, not possession, but the act of getting there, which grants the greatest enjoyment."
   :illustrator "Iain Fairclough"
   :image-url "https://netrunnerdb.com/card_image/26024.png"
   :position 24

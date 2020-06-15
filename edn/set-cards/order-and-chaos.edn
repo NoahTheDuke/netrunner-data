@@ -324,7 +324,7 @@
  {:card-id "progenitor"
   :code "07043"
   :illustrator "Hannah Christenson"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN22_43.png"
+  :image-url "https://netrunnerdb.com/card_image/07044.png"
   :position 43
   :quantity 3
   :set-id "order-and-chaos"}
@@ -332,7 +332,7 @@
   :code "07044"
   :flavor "A black box that makes data disappear forever."
   :illustrator "Maciej Rebisz"
-  :image-url "https://netrunnerdb.com/card_image/07044.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN22_44.png"
   :position 44
   :quantity 3
   :set-id "order-and-chaos"}
@@ -394,7 +394,7 @@
   :set-id "order-and-chaos"}
  {:card-id "virus-breeding-ground"
   :code "07052"
-  :flavor "Scraps of code drifting around the network can congeal into pools of data. Within this primordial soup the code breaks, re-assemble, mutates. Evolves."
+  :flavor "Scraps of code drifting around the network can congeal into pools of data. Within this primordial soup the code breaks, re-assembles, mutates. Evolves."
   :illustrator "Eren Arik"
   :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN22_52.png"
   :position 52

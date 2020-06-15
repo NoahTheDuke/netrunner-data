@@ -378,7 +378,7 @@
   :set-id "uprising"}
  {:card-id "bellona"
   :code "26114"
-  :flavor "Mars' tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these \"lag-ghosts\" into compelling interactables&mdash;more responsive than the real thing!"
+  :flavor "Mars' tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these \"lag-ghosts\" into compelling interactables—more responsive than the real thing!"
   :illustrator "N. Hopkins/Iain Fairclough"
   :image-url "https://netrunnerdb.com/card_image/26114.png"
   :position 114
