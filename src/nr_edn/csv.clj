@@ -10,11 +10,22 @@
   [v]
   (keyword (slugify v)))
 
+(defn card-title
+  [card]
+  (let [title (:title card)
+        subtitle (:subtitle card)
+        full-title (if (not-empty subtitle)
+                     (str title ": " subtitle)
+                     title)]
+    (assoc card
+           :title full-title
+           :id (slugify full-title))))
+
 (defn add-fields
   [card]
   (-> card
-      (assoc :id (slugify (:title card))
-             :influence-cost (:influence-value card)
+      card-title
+      (assoc :influence-cost (:influence-value card)
              :faction (if (= :neutral (:faction card))
                         (if (= :corp (:side card))
                           :neutral-corp
@@ -23,13 +34,37 @@
              :deck-limit (when-not (= :identity (:type card))
                            (or (:deck-limit card)
                                3)))
-      (dissoc :influence-value)))
+      (dissoc :influence-value :subtitle)))
+
+(defn string-trim
+  [s]
+  ((fnil string/trim "") s))
+
+(defn string-replace
+  [s]
+  ((fnil string/replace "") s "\\n" "\n"))
+
+(defn clean-text
+  [s]
+  (->> s
+       string-replace
+       string-trim
+       string/split-lines
+       (map string-trim)
+       (remove empty?)
+       (string/join "\n")
+       (#(string/split % #" "))
+       (remove empty?)
+       (string/join " ")
+       )
+  )
 
 (defn build-cards
   [path]
   (->> (sc/slurp-csv path
                      :parser-opts {:delimiter \;}
-                     :cast-fns {:advancement-requirement sc/->int
+                     :cast-fns {
+                                :advancement-requirement sc/->int
                                 :agenda-points sc/->int
                                 :base-link sc/->int
                                 :cost edn/read-string
@@ -44,11 +79,13 @@
                                 :side key-slug
                                 :strength edn/read-string
                                 :subtype convert-subtypes
-                                :text (comp string/trim #(string/replace % "\\n" "\n"))
-                                :title string/trim
+                                :subtitle string-trim
+                                :text clean-text
+                                :title string-trim
                                 :trash-cost sc/->int
                                 :type key-slug
-                                :uniqueness (fn [v] (= "TRUE" v))})
+                                :uniqueness (fn [v] (= "TRUE" v))
+                                })
        (map add-fields)
        (map prune-null-fields)))
 
@@ -56,24 +93,21 @@
   [cards code-num set-name]
   (->> (for [card cards]
          {:card-id (:id card)
-          :code (str (+ code-num (:position card)))
           :position (:position card)
           :quantity (or (:quantity card) 3)
-          :set-id (slugify
-                    (str set-name
-                         (if (>= 65 (:position card))
-                           "Downfall"
-                           "Uprising")))})
+          :set-id (slugify set-name)})
+       (sort-by :position)
+       (map-indexed (fn [idx itm] (assoc itm :position (inc idx) :code (str (+ code-num (inc idx))))))
        (sort-by :code)
        (group-by :set-id)))
 
 (defn build-from-csv
   []
   (let [
-        code-num 26000
-        set-name "Ashes: "
+        code-num 29000
+        set-name "System Gateway"
         _ (println "Building cards")
-        cards (build-cards "ashes.csv")
+        cards (build-cards "system-gateway.csv")
         _ (println "Building set-cards")
         set-cards (build-set-cards cards code-num set-name)
         ]
@@ -92,5 +126,6 @@
     (println "Writing cards")
     (doseq [card (map #(dissoc % :position) cards)
             :when (:quantity card)]
-      (spit (str "edn/cards/ashes-" (:id card) ".edn")
-            (str (zp/zprint-str card) "\n")))))
+      (spit (str "edn/cards/system-gateway-" (:id card) ".edn")
+            (str (zp/zprint-str card) "\n")))
+    (println "Done!")))

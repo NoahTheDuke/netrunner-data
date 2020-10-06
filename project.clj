@@ -10,6 +10,8 @@
                  [semantic-csv "0.2.1-alpha1"]
                  [http-kit "2.3.0"]
                  [zprint "0.4.10"]
+                 [com.stuartsierra/dependency "1.0.0"]
+                 [ubergraph "0.8.2"]
                  [medley "1.3.0"]]
 
   :main ^:skip-aot nr-edn.core

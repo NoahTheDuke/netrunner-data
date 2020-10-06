@@ -5,7 +5,8 @@
             [nr-edn.combine :refer [combine-for-jnet]]
             [nr-edn.download :refer [download-from-nrdb]]
             [nr-edn.csv :refer [build-from-csv]]
-            [nr-edn.json :refer [convert-to-json]]))
+            [nr-edn.json :refer [convert-to-json]]
+            [nr-edn.scratch]))
 
 (defn -main
   [& args]

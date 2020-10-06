@@ -144,6 +144,13 @@
                 butlast
                 (mapv :code)))))
 
+(defn print-null-subtypes
+  [subtypes card subtype-keyword]
+  (let [subtype-string (get subtypes subtype-keyword)]
+    (when-not subtype-string
+      (println (:title card) "has a malformed subtype:" subtype-keyword))
+    (:name subtype-string)))
+
 (defn load-cards
   [sides factions types subtypes sets formats mwls]
   (let [
@@ -178,7 +185,7 @@
             :side (:name (get sides (:side card)))
             :strength (get-strength card)
             :subtype (when (seq (:subtype card))
-                       (string/join " - " (map #(:name (get subtypes %)) (:subtype card))))
+                       (string/join " - " (map #(print-null-subtypes subtypes card %) (:subtype card))))
             :text (:text card)
             :title (:title card)
             :trash (:trash-cost card)
