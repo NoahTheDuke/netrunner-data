@@ -5,7 +5,7 @@
  :influence-cost 1
  :memory-cost 0
  :side :runner
- :text "[interrupt] - When this program would be trashed, turn it facedown instead of adding it to your heap. <em>(It is still considered trashed.)</em>\n<errata>Errata from CR 1.4</errata>"
+ :text "[interrupt] – When this program would be trashed, turn it facedown instead of adding it to your heap. <em>(It is still considered trashed.)</em>\n<errata>Errata from CR 1.4</errata>"
  :title "Harbinger"
  :type :program
  :uniqueness false}

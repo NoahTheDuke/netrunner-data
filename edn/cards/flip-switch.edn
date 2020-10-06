@@ -4,7 +4,7 @@
  :id "flip-switch"
  :influence-cost 1
  :side :runner
- :text "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\n[interrupt] - [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>"
+ :text "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\n[interrupt] – [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>"
  :title "Flip Switch"
  :type :hardware
  :uniqueness false}

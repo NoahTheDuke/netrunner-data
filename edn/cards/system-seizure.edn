@@ -5,7 +5,7 @@
  :influence-cost 1
  :side :runner
  :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] - The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run instead of any other duration.\"\n<errata>Errata from CR 1.4</errata>"
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] – The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run instead of any other duration.\"\n<errata>Errata from CR 1.4</errata>"
  :title "System Seizure"
  :type :event
  :uniqueness false}

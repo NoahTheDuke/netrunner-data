@@ -5,7 +5,7 @@
  :influence-cost 4
  :side :corp
  :subtype [:sysop]
- :text "[interrupt] - The first time you would do 1 or more net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage.\n<errata>Errata from CR 1.4</errata>"
+ :text "[interrupt] – The first time you would do 1 or more net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage.\n<errata>Errata from CR 1.4</errata>"
  :title "Tori Hanzō"
  :trash-cost 2
  :type :upgrade

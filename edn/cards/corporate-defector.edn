@@ -5,7 +5,7 @@
  :influence-cost 0
  :side :runner
  :subtype [:connection]
- :text "[interrupt] - Whenever the Corp would draw a card with a basic action, reveal that card.\n<errata>Errata from CR 1.4</errata>"
+ :text "[interrupt] – Whenever the Corp would draw a card with a basic action, reveal that card.\n<errata>Errata from CR 1.4</errata>"
  :title "Corporate Defector"
  :type :resource
  :uniqueness false}
