@@ -13,7 +13,7 @@
            "red-sand"
            "kitara"
            "ashes"]
-  :mwl "standard-ban-list-20-06"}
+  :mwl "standard-ban-list-20-09"}
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
