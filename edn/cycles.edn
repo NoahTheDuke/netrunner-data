@@ -68,7 +68,6 @@
   :position 13
   :rotated true
   :size 1}
- ;; Position 14-19 were deliberately skipped when Revised Core was released
  {:id "revised-core"
   :name "Revised Core"
   :position 20
@@ -104,9 +103,13 @@
   :position 26
   :rotated false
   :size 3}
- ;; Position 27 is Uprising Booster Pack
  {:id "magnum-opus-reprint"
   :name "Magnum Opus Reprint"
   :position 28
+  :rotated false
+  :size 1}
+ {:id "salvaged-memories"
+  :name "Salvaged Memories"
+  :position 29
   :rotated false
   :size 1}]

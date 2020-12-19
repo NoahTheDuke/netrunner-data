@@ -32,7 +32,7 @@
   :set-id "magnum-opus"}
  {:card-id "timely-public-release"
   :code "23027"
-  :flavor "<champion>Designed by 2015 World Champion Dan D'argenio</champion>"
+  :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>"
   :illustrator "Matthew Zeilinger"
   :image-url "https://netrunnerdb.com/card_image/23027.png"
   :position 5
@@ -40,7 +40,7 @@
   :set-id "magnum-opus"}
  {:card-id "embolus"
   :code "23011"
-  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'argenio</champion>"
+  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'Argenio</champion>"
   :illustrator "Mariusz Siergiejew"
   :image-url "https://netrunnerdb.com/card_image/23011.png"
   :position 6

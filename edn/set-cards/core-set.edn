@@ -721,8 +721,7 @@
   :image-url "https://netrunnerdb.com/card_image/01094.png"
   :position 94
   :quantity 3
-  :set-id "core-set"
-  :text "When you score Hostile takeover, gain 7[credit] and take 1 bad publicity."}
+  :set-id "core-set"}
  {:card-id "posted-bounty"
   :code "01095"
   :flavor "\"If some two-cred newsy picks it up, even better. The scum could be in the alleys of Guayaquil of the slums of BosWash. Not to mention off-planet.\""

@@ -142,7 +142,7 @@
   :set-id "uprising"}
  {:card-id "aniccam"
   :code "26084"
-  :flavor "Objects are but modulations in a continuous cycle of energy&mdash;illusory and impermanent echoes of the Self."
+  :flavor "Objects are but modulations in a continuous cycle of energy—illusory and impermanent echoes of the Self."
   :illustrator "Olie Boldador"
   :image-url "https://netrunnerdb.com/card_image/26084.png"
   :position 84
@@ -237,7 +237,7 @@
   :set-id "uprising"}
  {:card-id "megaprix-qualifier"
   :code "26096"
-  :flavor "\"Win Hard or Lose Hard. All that matters is they're talking about you and not the competition.\"\n- Tan \"Nitro\" Nyugen, Toretto-Extreme Team Manager"
+  :flavor "\"Win Hard or Lose Hard. All that matters is they're talking about you and not the competition.\"\n-Tan \"Nitro\" Nyugen, Toretto-Extreme Team Manager"
   :illustrator "Krembler"
   :image-url "https://netrunnerdb.com/card_image/26096.png"
   :position 96
@@ -300,7 +300,7 @@
   :set-id "uprising"}
  {:card-id "scapenet"
   :code "26104"
-  :flavor "The Net is the consensual hallucination of the world's electronic architecture. <em>Our</em> electronic architecture. Don't get mad when the Runners succeed-change the rules."
+  :flavor "The Net is the consensual hallucination of the world's electronic architecture. <em>Our</em> electronic architecture. Don't get mad when the Runners succeed—change the rules."
   :illustrator "Zoe Cohen"
   :image-url "https://netrunnerdb.com/card_image/26104.png"
   :position 104

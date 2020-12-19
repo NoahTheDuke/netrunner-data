@@ -637,4 +637,14 @@
   :name "Uprising"
   :position 3
   :set-type :data-pack
-  :size 65}]
+  :size 65}
+ {:code "sm"
+  :cycle-id "salvaged-memories"
+  :date-release "2020-12-18"
+  :deluxe false
+  :ffg-id nil
+  :id "salvaged-memories"
+  :name "Salvaged Memories"
+  :position 1
+  :set-type :data-pack
+  :size 18}]
