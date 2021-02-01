@@ -3,10 +3,10 @@
   :position 0
   :version "alt"}
  {:description "Card art from the 2015 World Champion decks."
-  :name "World Champion"
+  :name "World Champion 2015"
   :position 1
   :version "wc2015"}
- {:description "Card art from the Original Core Set."
-  :name "Original Core Set"
+ {:description "Original Art from updated cards"
+  :name "Previous Versions"
   :position 2
-  :version "core1"}]
+  :version "prev"}]
