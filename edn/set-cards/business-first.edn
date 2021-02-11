@@ -2,14 +2,14 @@
   :code "10020"
   :flavor "\"No! Don't set that off HERE!\""
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_20.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_20.png"
   :position 20
   :quantity 3
   :set-id "business-first"}
  {:card-id "diwan"
   :code "10021"
   :illustrator "Lili Ibrahim"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_21.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_21.png"
   :position 21
   :quantity 3
   :set-id "business-first"}
@@ -17,7 +17,7 @@
   :code "10022"
   :flavor "<champion>Designed by 2013 World Champion Jens Erickson</champion>"
   :illustrator "Mike Nesbitt"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_22.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_22.png"
   :position 22
   :quantity 3
   :set-id "business-first"}
@@ -25,14 +25,14 @@
   :code "10023"
   :flavor "\"Why would you dispose of perfectly good evidence when you can sell it?\""
   :illustrator "Vicky Sio"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_23.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_23.png"
   :position 23
   :quantity 3
   :set-id "business-first"}
  {:card-id "netchip"
   :code "10024"
   :illustrator "Mike Nesbitt"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_24.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_24.png"
   :position 24
   :quantity 6
   :set-id "business-first"}
@@ -40,7 +40,7 @@
   :code "10025"
   :flavor "\"We may be outraged, but we're not surprised.\" -Sunder"
   :illustrator "Micah Epstein"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_25.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_25.png"
   :position 25
   :quantity 3
   :set-id "business-first"}
@@ -48,28 +48,28 @@
   :code "10026"
   :flavor "\"The corporations may be stronger than any of us, but they are not stronger than all of us.\" -Akshara Sareen "
   :illustrator "Anna Edwards"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_26.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_26.png"
   :position 26
   :quantity 3
   :set-id "business-first"}
  {:card-id "advanced-assembly-lines"
   :code "10027"
   :illustrator "Johan Törnlund"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_27.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_27.png"
   :position 27
   :quantity 3
   :set-id "business-first"}
  {:card-id "lakshmi-smartfabrics"
   :code "10028"
   :illustrator "Caleb Souza"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_28.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_28.png"
   :position 28
   :quantity 3
   :set-id "business-first"}
  {:card-id "product-recall"
   :code "10029"
   :illustrator "Antonio De Luca"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_29.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_29.png"
   :position 29
   :quantity 3
   :set-id "business-first"}
@@ -77,7 +77,7 @@
   :code "10030"
   :flavor "We Are What We Eat. "
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_30.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_30.png"
   :position 30
   :quantity 3
   :set-id "business-first"}
@@ -85,7 +85,7 @@
   :code "10031"
   :flavor "Expensive to build but dramatically more efficient than traditional farming, agroplexes are emblems of the inevitable corporatization of the food industry. "
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_31.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_31.png"
   :position 31
   :quantity 3
   :set-id "business-first"}
@@ -93,7 +93,7 @@
   :code "10032"
   :flavor "\"We can help others, yet also help ourselves.\" -Soraiya Suresh, VP Public Programs"
   :illustrator "Ed Mattinian"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_32.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_32.png"
   :position 32
   :quantity 3
   :set-id "business-first"}
@@ -101,28 +101,28 @@
   :code "10033"
   :flavor "Data, not food, is one of the biggest exports from the Gujarat district of Mumbad."
   :illustrator "Juan Novelletto"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_33.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_33.png"
   :position 33
   :quantity 3
   :set-id "business-first"}
  {:card-id "disposable-hq"
   :code "10034"
   :illustrator "Simon Weaner"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_34.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_34.png"
   :position 34
   :quantity 3
   :set-id "business-first"}
  {:card-id "new-construction"
   :code "10035"
   :illustrator "Kirsten Zirngibl"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_35.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_35.png"
   :position 35
   :quantity 3
   :set-id "business-first"}
  {:card-id "mumbad-construction-co"
   :code "10036"
   :illustrator "Simon Weaner"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_36.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_36.png"
   :position 36
   :quantity 3
   :set-id "business-first"}
@@ -130,14 +130,14 @@
   :code "10037"
   :flavor "\"You got it. We sell it. They buy it. Everyone wins.\""
   :illustrator "Samuel Leung"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_37.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_37.png"
   :position 37
   :quantity 3
   :set-id "business-first"}
  {:card-id "pad-factory"
   :code "10038"
   :illustrator "Caleb Souza"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN31_38.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN31_38.png"
   :position 38
   :quantity 3
   :set-id "business-first"}]

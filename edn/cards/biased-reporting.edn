@@ -4,7 +4,7 @@
  :id "biased-reporting"
  :influence-cost 3
  :side :corp
- :text "Choose resource, hardware or program. The Runner may trash any of his or her cards of that type, and gain 1[credit] for each card trashed. Gain 2[credit] for each installed card of the chosen type."
+ :text "Choose resource, hardware, or program. The Runner may trash any of his or her cards of that type, and gain 1[credit] for each card trashed. Gain 2[credit] for each installed card of the chosen type."
  :title "Biased Reporting"
  :type :operation
  :uniqueness false}

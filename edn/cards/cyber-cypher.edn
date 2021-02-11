@@ -7,7 +7,7 @@
  :side :runner
  :strength 4
  :subtype [:icebreaker :decoder]
- :text "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.\nWhen you install Cyber-Cypher, choose a server. Cyber-Cypher can only be used during a run on the chosen server."
+ :text "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.\nWhen you install Cyber-Cypher, choose a server. Cyber-Cypher can be used only during a run on the chosen server."
  :title "Cyber-Cypher"
  :type :program
  :uniqueness false}

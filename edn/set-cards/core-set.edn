@@ -461,8 +461,7 @@
   :image-url "https://netrunnerdb.com/card_image/01060.png"
   :position 60
   :quantity 2
-  :set-id "core-set"
-  :text "Immediately install up to 3 cards (spending no clicks but paying all install costs)."}
+  :set-id "core-set"}
  {:card-id "heimdall-1-0"
   :code "01061"
   :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."
@@ -852,7 +851,7 @@
   :set-id "core-set"}
  {:card-id "enigma"
   :code "01111"
-  :flavor "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
+  :flavor "\"Hey, hey! Wake up, man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
   :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/01111.png"
   :position 111

@@ -2,7 +2,7 @@
   :code "08101"
   :flavor "As the sun sank towards the horizon, the glittering lights of the expo remained dark. But the shanty city bloomed to life."
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_101.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_101.png"
   :position 101
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -10,7 +10,7 @@
   :code "08102"
   :flavor "Cowabunga, dude!"
   :illustrator "Victor Garcia"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_102.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_102.png"
   :position 102
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -18,14 +18,14 @@
   :code "08103"
   :flavor "\"First, you get a horde of zombies. Then you do whatever you want, 'cuz you have a horde of zombies.\" -Ji \"Noise\" Reilly"
   :illustrator "Adam S. Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_103.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_103.png"
   :position 103
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
  {:card-id "laramy-fisk-savvy-investor"
   :code "08104"
   :illustrator "Matt Zeilinger"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_104.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_104.png"
   :position 104
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -33,14 +33,14 @@
   :code "08105"
   :flavor "\"The secret to investing is networking.\" -Laramy Fisk"
   :illustrator "Bruno Balixa"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_105.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_105.png"
   :position 105
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
  {:card-id "bookmark"
   :code "08106"
   :illustrator "Bruno Balixa"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_106.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_106.png"
   :position 106
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -48,7 +48,7 @@
   :code "08107"
   :flavor "\"Our life is made by the death of others.\" -Leonardo Da Vinci"
   :illustrator "Alexandr Elichev"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_107.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_107.png"
   :position 107
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -56,7 +56,7 @@
   :code "08108"
   :flavor "Almost a zettabyte of data flows each minute through one of the many net pavilions scattered around the expo."
   :illustrator "BalanceSheet"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_108.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_108.png"
   :position 108
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -64,7 +64,7 @@
   :code "08109"
   :flavor "The Cybernetics Court has seven floors of attractions. The plasteel used to construct it was even more expensive than the thousands of cybernetic implants displayed inside."
   :illustrator "Andreas Zafiratos"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_109.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_109.png"
   :position 109
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -72,14 +72,14 @@
   :code "08110"
   :flavor "The SanSan Outlaws have a close relationship with Haas-Bioroid's sports engineering division, SHIFT."
   :illustrator "Mike Nesbitt"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_110.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_110.png"
   :position 110
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
  {:card-id "chronos-protocol-selective-mind-mapping"
   :code "08111"
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_111.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_111.png"
   :position 111
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -87,7 +87,7 @@
   :code "08112"
   :flavor "The more people submit their DNA and family history to the program, the more accurate it becomes."
   :illustrator "Alexandr Elichev"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_112.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_112.png"
   :position 112
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -95,7 +95,7 @@
   :code "08113"
   :flavor "The Genetics Pavilion was designed by renowned architect Meru Mati II. It was built without the aid of bioroids, instead relying on human and clone labor."
   :illustrator "Greg Semkow"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_113.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_113.png"
   :position 113
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -103,14 +103,14 @@
   :code "08114"
   :flavor "There are over 20,000 brands represented in Franchise City, all of them owned by fewer than 100 corps."
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_114.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_114.png"
   :position 114
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
  {:card-id "product-placement"
   :code "08115"
   :illustrator "Matt Zeilinger"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_115.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_115.png"
   :position 115
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -118,14 +118,14 @@
   :code "08116"
   :flavor "The holosculpture depicts the three inhabited worlds. The square can hold almost 1% of their total population."
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_116.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_116.png"
   :position 116
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
  {:card-id "public-support"
   :code "08117"
   :illustrator "Wenjuinn Png"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_117.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_117.png"
   :position 117
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -133,7 +133,7 @@
   :code "08118"
   :flavor "\"Hello, and welcome to the Universe of Tomorrow! You could live for five-hundred years and not see all of the attractions I can tell you about.\""
   :illustrator "Ismael Bergara"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_118.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_118.png"
   :position 118
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
@@ -141,14 +141,14 @@
   :code "08119"
   :flavor "The expo was built in the East California desert: a temporary city constructed for the advancement of humanity."
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_119.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_119.png"
   :position 119
   :quantity 3
   :set-id "the-universe-of-tomorrow"}
  {:card-id "the-future-is-now"
   :code "08120"
   :illustrator "Tim Durning"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN28_120.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN28_120.png"
   :position 120
   :quantity 3
   :set-id "the-universe-of-tomorrow"}]

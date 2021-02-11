@@ -18,7 +18,7 @@
 
   (case (first args)
     nil (combine-for-jnet)
-    "download" (download-from-nrdb)
+    "download" (apply download-from-nrdb (rest args))
     "combine" (combine-for-jnet)
     "csv" (build-from-csv)
     "json" (convert-to-json)

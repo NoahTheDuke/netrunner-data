@@ -15,7 +15,7 @@
   :set-id "salvaged-memories"}
  {:card-id "e3-feedback-implants"
   :code "29003"
-  :flavor "CyberSolutions' e3 line of implants trade strictly in muscle memory and automatic responses, freeing the brain to focus entirely on cerebral tasks."
+  :flavor "CyberSolutions' e3 line of implants trade strictly in muscle memory and autonomic responses, freeing the brain to focus entirely on cerebral tasks."
   :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/29003.png"
   :position 3
@@ -127,7 +127,7 @@
   :set-id "salvaged-memories"}
  {:card-id "excalibur"
   :code "29017"
-  :flavor "There drew he forth the brand Excalibur,\nAnd o'er him, drawing it, the winter moon,\nBrightening the skirts of a long cloud, ran forth\nAnd sparkled keen with frost against the hilt:\nFor all the haft twinkled with diamonds sparks,\nMyriads of topaz-lights, and jacinth work\nOf subtlest jewellery. -Lord Tennyson"
+  :flavor "There drew he forth the brand Excalibur,\nAnd o'er him, drawing it, the winter moon,\nBrightening the skirts of a long cloud, ran forth\nAnd sparkled keen with frost against the hilt:\nFor all the haft twinkled with diamond sparks,\nMyriads of topaz-lights, and jacinth work\nOf subtlest jewellery. -Lord Tennyson"
   :illustrator "Andreas Zafiratos"
   :image-url "https://netrunnerdb.com/card_image/29017.png"
   :position 17

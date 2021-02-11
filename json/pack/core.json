@@ -1692,7 +1692,7 @@
         "position": 94,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you score Hostile takeover, gain 7[credit] and take 1 bad publicity.",
+        "text": "When you score Hostile Takeover, gain 7[credit] and take 1 bad publicity.",
         "title": "Hostile Takeover",
         "type_code": "agenda",
         "uniqueness": false
@@ -1998,7 +1998,7 @@
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
-        "flavor": "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\"",
+        "flavor": "\"Hey, hey! Wake up, man. You were under a long time. What'd you see?\"\n\"I…don't remember.\"",
         "illustrator": "Liiga Smilshkalne",
         "keywords": "Code Gate",
         "pack_code": "core",

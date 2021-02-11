@@ -1,7 +1,7 @@
 [{:card-id "obelus"
   :code "11041"
   :illustrator "Jenn Tran"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_41.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_41.png"
   :position 41
   :quantity 3
   :set-id "escalation"}
@@ -9,14 +9,14 @@
   :code "11042"
   :flavor "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint"
   :illustrator "Adam S. Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_42.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_42.png"
   :position 42
   :quantity 3
   :set-id "escalation"}
  {:card-id "omar-keung-conspiracy-theorist"
   :code "11043"
   :illustrator "Matt Zeilinger"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_43.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_43.png"
   :position 43
   :quantity 3
   :set-id "escalation"}
@@ -24,7 +24,7 @@
   :code "11044"
   :flavor "Khan's avatar lifted her arm and the bird launched itself into the air."
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_44.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_44.png"
   :position 44
   :quantity 3
   :set-id "escalation"}
@@ -32,7 +32,7 @@
   :code "11045"
   :flavor "My brain is the key that sets my mind free."
   :illustrator "Galen Dara"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_45.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_45.png"
   :position 45
   :quantity 3
   :set-id "escalation"}
@@ -40,7 +40,7 @@
   :code "11046"
   :flavor "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\""
   :illustrator "Kathryn Steele"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_46.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_46.png"
   :position 46
   :quantity 3
   :set-id "escalation"}
@@ -48,7 +48,7 @@
   :code "11047"
   :flavor "All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero."
   :illustrator "Ethan Patrick Harris"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_47.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_47.png"
   :position 47
   :quantity 3
   :set-id "escalation"}
@@ -56,7 +56,7 @@
   :code "11048"
   :flavor "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\""
   :illustrator "Marko Fiedler"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_48.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_48.png"
   :position 48
   :quantity 3
   :set-id "escalation"}
@@ -64,7 +64,7 @@
   :code "11049"
   :flavor "In battle, I take half the slain."
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_49.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_49.png"
   :position 49
   :quantity 3
   :set-id "escalation"}
@@ -72,7 +72,7 @@
   :code "11050"
   :flavor "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\""
   :illustrator "Johan Törnlund"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_50.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_50.png"
   :position 50
   :quantity 3
   :set-id "escalation"}
@@ -80,14 +80,14 @@
   :code "11051"
   :flavor "\"Wait a minute, I don't even have a cat.\""
   :illustrator "VIKO"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_51.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_51.png"
   :position 51
   :quantity 3
   :set-id "escalation"}
  {:card-id "project-kusanagi"
   :code "11052"
   :illustrator "Priscilla Kim"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_52.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_52.png"
   :position 52
   :quantity 3
   :set-id "escalation"}
@@ -95,14 +95,14 @@
   :code "11053"
   :flavor "When your ID is flagged with your genetic profile, \"privacy\"  doesn't really exist."
   :illustrator "A. Jones"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_53.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_53.png"
   :position 53
   :quantity 3
   :set-id "escalation"}
  {:card-id "jinteki-potential-unleashed"
   :code "11054"
   :flavor "Your better nature."
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_54.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_54.png"
   :position 54
   :quantity 3
   :set-id "escalation"}
@@ -110,7 +110,7 @@
   :code "11055"
   :flavor "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson"
   :illustrator "Kate Laird"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_55.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_55.png"
   :position 55
   :quantity 3
   :set-id "escalation"}
@@ -118,14 +118,14 @@
   :code "11056"
   :flavor "Observing is fun, but it's just the appetizer."
   :illustrator "Antonio De Luca"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_56.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_56.png"
   :position 56
   :quantity 3
   :set-id "escalation"}
  {:card-id "service-outage"
   :code "11057"
   :illustrator "Samuel Leung"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_57.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_57.png"
   :position 57
   :quantity 3
   :set-id "escalation"}
@@ -133,14 +133,14 @@
   :code "11058"
   :flavor "Game over."
   :illustrator "JuanManuel Tumburus"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_58.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_58.png"
   :position 58
   :quantity 3
   :set-id "escalation"}
  {:card-id "door-to-door"
   :code "11059"
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_59.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_59.png"
   :position 59
   :quantity 3
   :set-id "escalation"}
@@ -148,7 +148,7 @@
   :code "11060"
   :flavor "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible."
   :illustrator "Maciej Rebisz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN38_60.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN38_60.png"
   :position 60
   :quantity 3
   :set-id "escalation"}]

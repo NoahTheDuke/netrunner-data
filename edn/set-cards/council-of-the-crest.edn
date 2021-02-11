@@ -1,8 +1,8 @@
 [{:card-id "exer"
   :code "21041"
-  :flavor "\"Amateurs feign it as 'random packet loss'. They do this for safety. They do this out of fear. But why should we cower? We will collapse the Corporatocracy, piece by piece! They are not the ones to fear. <em>We</em> are.\"\n- Freedom Khumalo"
+  :flavor "\"Amateurs feign it as 'random packet loss'. They do this for safety. They do this out of fear. But why should we cower? <em>We</em> will collapse the Corporatocracy, piece by piece! They are not the ones to fear. <em>We</em> are.\"\n- Freedom Khumalo"
   :illustrator "Ed Mattinian"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_41.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_41.png"
   :position 41
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -10,7 +10,7 @@
   :code "21042"
   :flavor "\"It makes every bad thing that you do so much better.\"\n- g00ru"
   :illustrator "Martin de Diego Sádaba"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_42.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_42.png"
   :position 42
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -18,7 +18,7 @@
   :code "21043"
   :flavor "The smell of rot strengthens with each step."
   :illustrator "Adam S. Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_43.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_43.png"
   :position 43
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -26,7 +26,7 @@
   :code "21044"
   :flavor "You'd think someone would have noticed a program entitled \"Career Opportunities in Hacking\" earlier."
   :illustrator "PxelSlayer"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_44.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_44.png"
   :position 44
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -34,14 +34,14 @@
   :code "21045"
   :flavor "\"Go away! I'm not here!\""
   :illustrator "Alexandr Elichev"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_45.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_45.png"
   :position 45
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "marathon"
   :code "21046"
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_46.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_46.png"
   :position 46
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -49,21 +49,21 @@
   :code "21047"
   :flavor "Ripples are all the prey sees before Gbahali swallows it whole."
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_47.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_47.png"
   :position 47
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "white-hat"
   :code "21048"
   :illustrator "Ed Mattinian"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_48.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_48.png"
   :position 48
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "kuwinda-k4h1u3"
   :code "21049"
   :illustrator "Josh Corpuz"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_49.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_49.png"
   :position 49
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -71,14 +71,14 @@
   :code "21050"
   :flavor "Every level of protection for all of your security needs."
   :illustrator "Ed Mattinian"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_50.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_50.png"
   :position 50
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "anansi"
   :code "21051"
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_51.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_51.png"
   :position 51
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -86,21 +86,21 @@
   :code "21052"
   :flavor "for (;;)"
   :illustrator "Caravan Studio"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_52.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_52.png"
   :position 52
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "reverse-infection"
   :code "21053"
   :illustrator "Adam S. Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_53.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_53.png"
   :position 53
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "azmari-edtech-shaping-the-future"
   :code "21054"
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_54.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_54.png"
   :position 54
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -108,7 +108,7 @@
   :code "21055"
   :flavor "Master any subject in 30 minutes or less!*\n*Azmari EdTech is not responsible for altered memories or reduced temporal lobe functionality. Level of mastery may vary."
   :illustrator "Juan Novelletto"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_55.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_55.png"
   :position 55
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -116,7 +116,7 @@
   :code "21056"
   :flavor "\"Welcome to Azmari Mail! You have 4,196 unread messages.\""
   :illustrator "Kathryn Steele"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_56.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_56.png"
   :position 56
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -124,7 +124,7 @@
   :code "21057"
   :flavor "\"The way I see it, you've got two options: die here or die running. I'll enjoy both.\""
   :illustrator "Le Vuong"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_57.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_57.png"
   :position 57
   :quantity 3
   :set-id "council-of-the-crest"}
@@ -132,21 +132,21 @@
   :code "21058"
   :flavor "The only certainties."
   :illustrator "Kathryn Steele"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_58.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_58.png"
   :position 58
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "trojan-horse"
   :code "21059"
   :illustrator "Fei F. Ou"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_59.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_59.png"
   :position 59
   :quantity 3
   :set-id "council-of-the-crest"}
  {:card-id "technoco"
   :code "21060"
   :illustrator "Caravan Studio"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN52_60.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN52_60.png"
   :position 60
   :quantity 3
   :set-id "council-of-the-crest"}]

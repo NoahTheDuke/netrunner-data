@@ -2,7 +2,7 @@
   :code "22001"
   :flavor "\"Damn, I'm good.\""
   :illustrator "M. Zeilinger and A. Christensen"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_1.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_1.png"
   :position 1
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -10,7 +10,7 @@
   :code "22002"
   :flavor "All roads lead to Rome."
   :illustrator "Adam Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_2.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_2.png"
   :position 2
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -18,21 +18,21 @@
   :code "22003"
   :flavor "\"Worth it.\""
   :illustrator "Reiko Murakami"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_3.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_3.png"
   :position 3
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "patchwork"
   :code "22004"
   :illustrator "Simon Boxer"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_4.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_4.png"
   :position 4
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "hijacked-router"
   :code "22005"
   :illustrator "Angga Satriohadi"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_5.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_5.png"
   :position 5
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -40,7 +40,7 @@
   :code "22006"
   :flavor "... clack... clack... clack..."
   :illustrator "Adam S. Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_6.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_6.png"
   :position 6
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -48,7 +48,7 @@
   :code "22007"
   :flavor "Another man's treasure."
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_7.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_7.png"
   :position 7
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -56,7 +56,7 @@
   :code "22008"
   :flavor "\"You think you're the first to come after me?\""
   :illustrator "M. Zeilinger & A. Christensen"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_8.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_8.png"
   :position 8
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -64,14 +64,14 @@
   :code "22009"
   :flavor "\"We have you surrounded! For real, this time.\""
   :illustrator "Adam Schumpert"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_9.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_9.png"
   :position 9
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "paragon"
   :code "22010"
   :illustrator "Martin Diego Sádaba"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_10.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_10.png"
   :position 10
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -79,7 +79,7 @@
   :code "22011"
   :flavor "\"With the rise of crypto, banking has become much more complicated. Financial crime has not only kept pace, but exploded exponentially.\"\n-After the Flash: A History of the War-That-Wasn't"
   :illustrator "Andreas Zafiratos"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_11.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_11.png"
   :position 11
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -87,7 +87,7 @@
   :code "22012"
   :flavor "\"Any piece of ice is really just a paywall.\"\n-Liza Talking Thunder"
   :illustrator "Andreas Zafiratos"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_12.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_12.png"
   :position 12
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -95,7 +95,7 @@
   :code "22013"
   :flavor "A classy alibi."
   :illustrator "Marko Fiedler"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_13.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_13.png"
   :position 13
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -103,28 +103,28 @@
   :code "22014"
   :flavor "\"If I can't kill it, I know who can.\""
   :illustrator "Marko Fiedler"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_14.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_14.png"
   :position 14
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "akiko-nisei-head-case"
   :code "22015"
   :illustrator "M. Zeilinger and A. Christensen"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_15.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_15.png"
   :position 15
   :quantity 1
   :set-id "reign-and-reverie"}
  {:card-id "insight"
   :code "22016"
   :illustrator "Adam Schumpert"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_16.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_16.png"
   :position 16
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "mind-s-eye"
   :code "22017"
   :illustrator "JB Casacop"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_17.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_17.png"
   :position 17
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -132,7 +132,7 @@
   :code "22018"
   :flavor "\"What are you making?\"\n\"What <em>aren't</em> I making?\""
   :illustrator "Martin Diego Sádaba"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_18.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_18.png"
   :position 18
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -140,7 +140,7 @@
   :code "22019"
   :flavor "\"Running is all methaphor, all symbols and plumbing into the depths of the psyche. Sometimes that means tentacles.\" -Akiko Nisei"
   :illustrator "Andreas Zafiratos"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_19.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_19.png"
   :position 19
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -148,7 +148,7 @@
   :code "22020"
   :flavor "The journey is its own reward."
   :illustrator "Marius Siergiejew"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_20.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_20.png"
   :position 20
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -156,7 +156,7 @@
   :code "22021"
   :flavor "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko's tears away. \"What did you see?\"\n\"I...\" Akiko hesitated. \"Everything.\""
   :illustrator "Zefanya Langkan Maega"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_21.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_21.png"
   :position 21
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -164,14 +164,14 @@
   :code "22022"
   :flavor "\"When we're together, I feel like I can do anything!\""
   :illustrator "Lili Ibrahim"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_22.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_22.png"
   :position 22
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "reboot"
   :code "22023"
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_23.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_23.png"
   :position 23
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -179,14 +179,14 @@
   :code "22024"
   :flavor "\"So, Miriam, head anything good lately?\""
   :illustrator "James Cory Webster"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_24.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_24.png"
   :position 24
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "dj-fenris"
   :code "22025"
   :illustrator "Matthew Zeilinger"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_25.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_25.png"
   :position 25
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -194,7 +194,7 @@
   :code "22026"
   :flavor "Want It More."
   :illustrator "Viniciusde S Menezes"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_26.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_26.png"
   :position 26
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -202,7 +202,7 @@
   :code "22027"
   :flavor "\"Our analysis shows significant support from both the public and private sectors.\""
   :illustrator "Angga Satriohadi"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_27.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_27.png"
   :position 27
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -210,7 +210,7 @@
   :code "22028"
   :flavor "You don't cross it—it crosses you."
   :illustrator "Adam Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_28.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_28.png"
   :position 28
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -218,7 +218,7 @@
   :code "22029"
   :flavor "Banana who?"
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_29.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_29.png"
   :position 29
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -226,7 +226,7 @@
   :code "22030"
   :flavor "If that doesn't work, try reversing the polarity."
   :illustrator "Marius Siergiejew"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_30.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_30.png"
   :position 30
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -234,7 +234,7 @@
   :code "22031"
   :flavor "\"Oh, my! He's on fire!\""
   :illustrator "James Cory Webster"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_31.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_31.png"
   :position 31
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -242,7 +242,7 @@
   :code "22032"
   :flavor "Coach Walden's pep talks were renowned for improving in direct proportion to the amount by which his team was losing."
   :illustrator "Matthew Zeilinger"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_32.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_32.png"
   :position 32
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -250,14 +250,14 @@
   :code "22033"
   :flavor "The world changed. Concession prices did not."
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_33.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_33.png"
   :position 33
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "saraswati-mnemonics-endless-exploration"
   :code "22034"
   :illustrator "Ben Zweifel"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_34.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_34.png"
   :position 34
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -265,7 +265,7 @@
   :code "22035"
   :flavor "\"Jumon, all too Jumon...\""
   :illustrator "Mariusz Siergiejew"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_35.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_35.png"
   :position 35
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -273,14 +273,14 @@
   :code "22036"
   :flavor "\"Supersedure is all part of our scheduled maintenance.\""
   :illustrator "Aurore Folny"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_36.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_36.png"
   :position 36
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "neurostasis"
   :code "22037"
   :illustrator "Galen Dara"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_37.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_37.png"
   :position 37
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -288,7 +288,7 @@
   :code "22038"
   :flavor "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged"
   :illustrator "Adam Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_38.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_38.png"
   :position 38
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -296,28 +296,28 @@
   :code "22039"
   :flavor "Step right up!"
   :illustrator "Adam Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_39.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_39.png"
   :position 39
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "hangeki"
   :code "22040"
   :illustrator "Adam S. Doyle"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_40.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_40.png"
   :position 40
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "daruma"
   :code "22041"
   :illustrator "JB Casacop"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_41.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_41.png"
   :position 41
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "acme-consulting-the-truth-you-need"
   :code "22042"
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_42.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_42.png"
   :position 42
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -325,7 +325,7 @@
   :code "22043"
   :flavor "Only half as annoying as the real thing."
   :illustrator "Martin Diego Sadaba"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_43.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_43.png"
   :position 43
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -333,7 +333,7 @@
   :code "22044"
   :flavor "\"What's so special about the Special Investigations Unit?\"\n\"Their budget, for starters.\""
   :illustrator "Clark Huggins"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_44.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_44.png"
   :position 44
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -341,14 +341,14 @@
   :code "22045"
   :flavor "\"I lost the staring contest. And all seven rematches.\" -Kabonesa Wu"
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_45.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_45.png"
   :position 45
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "hydra"
   :code "22046"
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_46.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_46.png"
   :position 46
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -356,7 +356,7 @@
   :code "22047"
   :flavor "\"No, the audio is fine. It just never seems to turn off.\""
   :illustrator "Steve Hamilton"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_47.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_47.png"
   :position 47
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -364,7 +364,7 @@
   :code "22048"
   :flavor "\"Good news, ma'am. The compliance training was completed with little resistance.\""
   :illustrator "Priscilla Kim"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_48.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_48.png"
   :position 48
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -372,7 +372,7 @@
   :code "22049"
   :flavor "\"Cheers, Philbert.\""
   :illustrator "Matthew Zeilinger"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_49.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_49.png"
   :position 49
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -380,28 +380,28 @@
   :code "22050"
   :flavor "We do things our way."
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_50.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_50.png"
   :position 50
   :quantity 1
   :set-id "reign-and-reverie"}
  {:card-id "broad-daylight"
   :code "22051"
   :illustrator "Steve Hamilton"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_51.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_51.png"
   :position 51
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "drudge-work"
   :code "22052"
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_52.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_52.png"
   :position 52
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "blockchain"
   :code "22053"
   :illustrator "Marius Siergiejew"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_53.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_53.png"
   :position 53
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -409,7 +409,7 @@
   :code "22054"
   :flavor "A place of decay and death, a plane out of phase, a place of monsters."
   :illustrator "Liiga Smilshkalne"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_54.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_54.png"
   :position 54
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -417,7 +417,7 @@
   :code "22055"
   :flavor "\"It looks like a mistake but I'm pretty sure they leave the gaps on purpose.\" -Gnat"
   :illustrator "Ed Mattinian"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_55.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_55.png"
   :position 55
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -425,21 +425,21 @@
   :code "22056"
   :flavor "\"This is blackmail!\"\n\"No, this is <em>extortion.</em>\""
   :illustrator "Timur Shevtsov"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_56.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_56.png"
   :position 56
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "under-the-bus"
   :code "22057"
   :illustrator "Timur Shevtsov"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_57.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_57.png"
   :position 57
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "lady-liberty"
   :code "22058"
   :illustrator "Emilio Rodriguez"
-  :image-url "http://www.cardgamedb.com/forums/uploads/an/med_ADN56_58.png"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN56_58.png"
   :position 58
   :quantity 1
   :set-id "reign-and-reverie"}]

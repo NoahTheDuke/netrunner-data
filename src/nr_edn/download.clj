@@ -30,15 +30,14 @@
   (read-json-file (str base-path "/" filename ".json")))
 
 (defn read-card-dir
-  [base-path]
+  [base-path & _]
   (->> (str base-path "/pack")
        io/file
        file-seq
        (filter #(and (.isFile %)
                      (string/ends-with? % ".json")))
        (map read-json-file)
-       flatten
-       parse-response))
+       flatten))
 
 (defn translate-fields
   "Modify NRDB json data to our schema"

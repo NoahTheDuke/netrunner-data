@@ -627,7 +627,7 @@
   :set-id "system-core-2019"}
  {:card-id "ash-2x3zb9cy"
   :code "25082"
-  :flavor "\"Eyes forward please.\""
+  :flavor "\"Eyes forward, please.\""
   :illustrator "Antonio De Luca"
   :image-url "https://netrunnerdb.com/card_image/25082.png"
   :position 82
@@ -1092,7 +1092,7 @@
   :set-id "system-core-2019"}
  {:card-id "enigma"
   :code "25143"
-  :flavor "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
+  :flavor "\"Hey, hey! Wake up, man. You were under a long time. What'd you see?\"\n\"I…don't remember.\""
   :illustrator "Liiga Smilshkalne"
   :image-url "https://netrunnerdb.com/card_image/25143.png"
   :position 143

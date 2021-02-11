@@ -24,7 +24,7 @@
   :set-id "trace-amount"}
  {:card-id "e3-feedback-implants"
   :code "02024"
-  :flavor "CyberSolutions' e3 line of implants trade strictly in muscle memory and automatic responses, freeing the brain to focus entirely on cerebral tasks."
+  :flavor "CyberSolutions' e3 line of implants trade strictly in muscle memory and autonomic responses, freeing the brain to focus entirely on cerebral tasks."
   :illustrator "Mauricio Herrera"
   :image-url "https://netrunnerdb.com/card_image/02024.png"
   :position 24
