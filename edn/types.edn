@@ -9,7 +9,7 @@
  {:id :operation
   :name "Operation"}
  {:id :ice
-  :name "Ice"}
+  :name "ICE"}
  {:id :event
   :name "Event"}
  {:id :hardware
