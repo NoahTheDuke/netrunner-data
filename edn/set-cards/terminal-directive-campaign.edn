@@ -1,0 +1,127 @@
+[{:card-id "evidence-collection"
+  :code "14012"
+  :illustrator "Dmitry Burmak"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 1
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "investigator-inez-delgado"
+  :code "14023"
+  :illustrator "PxelSlayer"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 2
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "lt-todachine"
+  :code "14027"
+  :illustrator "Antonio José Manzanedo"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 3
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "trojan"
+  :code "14034"
+  :illustrator "Ethan Patrick Harris"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 4
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "security-leak"
+  :code "14044"
+  :illustrator "Jason Juta"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 5
+  :quantity 1
+  :set-id "terminal-directive-campaign"}
+ {:card-id "machicolation-a"
+  :code "14063"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 6
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "machicolation-b"
+  :code "14073"
+  :illustrator "Ed Mattinian"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 7
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "corporate-oversight-a"
+  :code "14093"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 8
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "corporate-oversight-b"
+  :code "14096"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 9
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "investigator-inez-delgado-resource"
+  :code "14112"
+  :illustrator "Matt Zeilinger"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 10
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "surveillance-network-key"
+  :code "14123"
+  :illustrator "Michał Miłkowski"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 11
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "bmi-buffer"
+  :code "14127"
+  :illustrator "Timur Shevtsov"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 12
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "shadow-team"
+  :code "14134"
+  :illustrator "Adam Schumpert"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 13
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "net-watchlist"
+  :code "14144"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 14
+  :quantity 1
+  :set-id "terminal-directive-campaign"}
+ {:card-id "the-masque-a"
+  :code "14163"
+  :illustrator "PxelSlayer"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 15
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "the-masque-b"
+  :code "14173"
+  :illustrator "PxelSlayer"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 16
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "sneakdoor-prime-a"
+  :code "14193"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 17
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ {:card-id "sneakdoor-prime-b"
+  :code "14196"
+  :illustrator "Dmitry Prosvirnin"
+  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
+  :position 18
+  :quantity 3
+  :set-id "terminal-directive-campaign"}
+ ]

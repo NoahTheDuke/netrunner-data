@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "investigator-inez-delgado"
+ :influence-cost 0
+ :side :corp
+ :subtype [:character]
+ :text "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda."
+ :title "Investigator Inez Delgado"
+ :trash-cost 5
+ :type :asset
+ :uniqueness true}

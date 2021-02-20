@@ -441,13 +441,23 @@
  {:code "td"
   :cycle-id "terminal-directive"
   :date-release "2017-04-27"
-  :deluxe true
+  :deluxe false
   :ffg-id 42
-  :id "terminal-directive"
-  :name "Terminal Directive"
+  :id "terminal-directive-cards"
+  :name "Terminal Directive Cards"
   :position 1
-  :set-type :campaign
+  :set-type :data-pack
   :size 57}
+ {:code "tdc"
+  :cycle-id "terminal-directive"
+  :date-release "2017-04-27"
+  :deluxe false
+  :ffg-id 42
+  :id "terminal-directive-campaign"
+  :name "Terminal Directive Campaign"
+  :position 2
+  :set-type :data-pack
+  :size 18}
  {:code "eas"
   :cycle-id "red-sand"
   :date-release "2017-05-25"
