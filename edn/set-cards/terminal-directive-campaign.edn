@@ -5,7 +5,7 @@
   :position 1
   :quantity 3
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado"
+ {:card-id "investigator-inez-delgado-a"
   :code "14023"
   :illustrator "PxelSlayer"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"
@@ -61,7 +61,7 @@
   :position 9
   :quantity 3
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado-resource"
+ {:card-id "investigator-inez-delgado"
   :code "14112"
   :illustrator "Matt Zeilinger"
   :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN42_1.png"

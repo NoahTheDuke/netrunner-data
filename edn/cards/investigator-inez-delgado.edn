@@ -1,12 +1,11 @@
 {:cost 0
  :deck-limit 3
- :faction :neutral-corp
+ :faction :neutral-runner
  :id "investigator-inez-delgado"
  :influence-cost 0
- :side :corp
- :subtype [:character]
- :text "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda."
+ :side :runner
+ :subtype [:connection]
+ :text "When you win a game with Investigator Inez Delgado in your score area, reveal set 2.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Expose all cards in a remote server. Use this only if you have stolean an agenda this turn."
  :title "Investigator Inez Delgado"
- :trash-cost 5
- :type :asset
+ :type :resource
  :uniqueness true}
