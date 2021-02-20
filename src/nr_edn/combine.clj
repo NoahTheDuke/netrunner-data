@@ -155,9 +155,7 @@
   [sides factions types subtypes sets formats mwls]
   (let [
         set-cards (load-edn-from-dir "edn/set-cards")
-        _ (println "set-cards")
         raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
-        _ (println "raw-cards")
         cards (merge-sets-and-cards set-cards raw-cards)
         card->formats (generate-formats sets cards formats mwls)
         ]
@@ -213,7 +211,6 @@
         cycles (load-data "cycles")
         sets (load-sets cycles)
         cards (load-cards sides factions types subtypes sets formats mwls)
-        _ (println "cards" (count cards))
         promos (read-edn-file "edn/promos.edn")
         ]
     (print "Writing edn/raw_data.edn...")
