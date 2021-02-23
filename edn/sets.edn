@@ -456,7 +456,7 @@
   :id "terminal-directive-campaign"
   :name "Terminal Directive Campaign"
   :position 2
-  :set-type :data-pack
+  :set-type :campaign
   :size 18}
  {:code "eas"
   :cycle-id "red-sand"
