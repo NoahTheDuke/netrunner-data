@@ -186,6 +186,7 @@
             :strength (get-strength card)
             :subtype (when (seq (:subtype card))
                        (string/join " - " (map #(print-null-subtypes subtypes card %) (:subtype card))))
+            :subtypes (mapv #(print-null-subtypes subtypes card %) (:subtype card))
             :text (:text card)
             :title (:title card)
             :trash (:trash-cost card)
