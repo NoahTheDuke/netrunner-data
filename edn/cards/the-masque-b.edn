@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "the-masque-b"
+ :influence-cost 0
+ :side :runner
+ :subtype [:connection]
+ :text "[click],[trash]: Make a run and gain [click]. If that run is successful when it ends, you may immediately make another run on another server."
+ :title "The Masque B"
+ :type :resource
+ :uniqueness true}

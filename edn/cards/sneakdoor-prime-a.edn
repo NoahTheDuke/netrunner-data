@@ -1,0 +1,11 @@
+{:cost 6
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "sneakdoor-prime-a"
+ :influence-cost 0
+ :memory-cost 2
+ :side :runner
+ :text "[click],[click]: Make a run on a remote server. If successful, instead treat it as a successful run on a central server."
+ :title "Sneakdoor Prime A"
+ :type :program
+ :uniqueness false}

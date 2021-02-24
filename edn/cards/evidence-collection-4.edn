@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "evidence-collection-4"
+ :influence-cost 0
+ :side :corp
+ :subtype [:research]
+ :text "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area."
+ :title "Evidence Collection 4"
+ :type :agenda
+ :uniqueness false}

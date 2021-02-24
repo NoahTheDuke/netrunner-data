@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "the-masque-a"
+ :influence-cost 0
+ :side :runner
+ :subtype [:connection]
+ :text "[click],[trash]: Make a run and gain [click]. If successful, draw 1 card."
+ :title "The Masque A"
+ :type :resource
+ :uniqueness true}

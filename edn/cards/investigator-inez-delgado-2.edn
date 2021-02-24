@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "investigator-inez-delgado-2"
+ :influence-cost 0
+ :side :runner
+ :subtype [:connection]
+ :text "When you win a game with Investigator Inez Delgado in your score area, reveal set 5.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal the top 3 cards in R&D. Use this only if you have stolean an agenda this turn."
+ :title "Investigator Inez Delgado 2"
+ :type :resource
+ :uniqueness true}

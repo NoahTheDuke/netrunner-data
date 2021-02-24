@@ -1,0 +1,10 @@
+{:cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "bmi-buffer"
+ :influence-cost 0
+ :side :runner
+ :text "Whenever a program is trashed from your grip, host it on BMI Buffer instead of adding it to your heap.\n[click][click]: Install 1 hosted program (paying all costs)."
+ :title "BMI Buffer"
+ :type :hardware
+ :uniqueness false}

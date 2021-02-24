@@ -1,0 +1,12 @@
+{:advancement-requirement 2
+ :agenda-points 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "corporate-oversight-a"
+ :influence-cost 0
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a remote server, ignoring all costs. Shuffle R&D.\nIf you win a game with Corporate Oversight in your score area, destroy it."
+ :title "Corporate Oversight A"
+ :type :agenda
+ :uniqueness false}
