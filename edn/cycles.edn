@@ -112,4 +112,14 @@
   :name "Salvaged Memories"
   :position 29
   :rotated false
+  :size 1}
+ {:id "system-gateway"
+  :name "System Gateway"
+  :position 30
+  :rotated false
+  :size 1}
+ {:id "system-update-2021"
+  :name "System Update 2021"
+  :position 31
+  :rotated false
   :size 1}]
