@@ -1,0 +1,10 @@
+{:base-link 0
+ :faction :shaper
+ :id "tao-salonga-telepresence-magician"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :text "Whenever an agenda is scored or stolen, you may swap 2 installed pieces of ice."
+ :title "Tao Salonga: Telepresence Magician"
+ :type :identity
+ :uniqueness false}

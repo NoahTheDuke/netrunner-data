@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "pantograph"
+ :influence-cost 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nWhenever an agenda is scored or stolen, you may gain 1[c]. Then, you may install 1 card.\nLimit 1 console per player."
+ :title "Pantograph"
+ :type :hardware
+ :uniqueness true}

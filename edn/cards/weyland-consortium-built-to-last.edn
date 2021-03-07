@@ -1,0 +1,9 @@
+{:faction :weyland-consortium
+ :id "weyland-consortium-built-to-last"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :corp
+ :text "Whenever you advance a card that does not have hosted advancement tokens, you may gain 2[credit]."
+ :title "Weyland Consortium: Built to Last"
+ :type :identity
+ :uniqueness false}
