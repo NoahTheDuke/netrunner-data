@@ -5,7 +5,7 @@
  :influence-cost 3
  :side :runner
  :subtype [:console]
- :text "+1[mu]\nWhenever an agenda is scored or stolen, you may gain 1[c]. Then, you may install 1 card.\nLimit 1 console per player."
+ :text "+1[mu]\nWhenever an agenda is scored or stolen, gain 1[credit]. Then, you may install 1 card from your grip.\nLimit 1 <strong>console</strong> per player."
  :title "Pantograph"
  :type :hardware
  :uniqueness true}

@@ -1,30 +1,42 @@
-[{:card-id "jean-loup-arcemont-party-animal"
+[{:card-id "rene-loup-arcemont-party-animal"
   :code "30001"
+  :flavor "Run wyld."
   :position 1
   :quantity 1
   :set-id "system-gateway"}
  {:card-id "tao-salonga-telepresence-magician"
   :code "30019"
+  :flavor "Sufficient skill is indistinguishable from magic."
   :position 19
   :quantity 1
   :set-id "system-gateway"}
  {:card-id "pantograph"
   :code "30023"
+  :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\" —Tāo"
   :position 23
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "jailbreak"
   :code "30028"
+  :flavor "\"We'll take the access codes from their own prisec—privilege escalation through local application of force.\" —The Catalyst"
   :position 28
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "haas-bioroid-precision-design"
+  :code "30035"
+  :flavor "Not an Atom Misplaced."
+  :position 35
+  :quantity 1
+  :set-id "system-gateway"}
  {:card-id "jinteki-restoring-humanity"
   :code "30043"
+  :flavor "An End to Suffering."
   :position 43
   :quantity 1
   :set-id "system-gateway"}
  {:card-id "weyland-consortium-built-to-last"
   :code "30059"
+  :flavor "Here to Stay."
   :position 59
   :quantity 1
   :set-id "system-gateway"}]

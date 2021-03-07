@@ -93,6 +93,12 @@
     "Revised Core" "Revised Core Set"
     (:name cy)))
 
+(defn get-json-text
+  [card]
+  (-> (:text card "")
+      (string/replace "[c]" "[credit]")
+      (not-empty)))
+
 (defn convert-to-json
   []
   (let [
@@ -162,7 +168,7 @@
                   :base_link (:base-link card)
                   :code (:code card)
                   :cost (get-json-cost card)
-                  :deck_limit (:deck-limit card)
+                  :deck_limit (:deck-limit card 1)
                   :faction_code (get-json-faction card)
                   :faction_cost (:influence-cost card)
                   :flavor (:flavor card)
@@ -178,7 +184,7 @@
                   :setname (:name s)
                   :side_code (:side card)
                   :strength (get-json-strength card)
-                  :text (:text card)
+                  :text (get-json-text card)
                   :title (:title card)
                   :trash_cost (:trash-cost card)
                   :type_code (:type card)
@@ -199,7 +205,9 @@
              (map #(dissoc % :setname))
              (map #(into (sorted-map) %))
              (into [])
-             (#(json/generate-string % pretty))
+             (#(if (empty? %)
+                 (str %)
+                 (json/generate-string % pretty)))
              (#(str % "\n"))
              (spit (io/file "json" "pack" (str (:code s) ".json")))))
       (println "Writing json files...Done!"))))

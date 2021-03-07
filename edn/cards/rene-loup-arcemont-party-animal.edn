@@ -1,0 +1,11 @@
+{:base-link 0
+ :faction :anarch
+ :id "rene-loup-arcemont-party-animal"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :subtype [:g-mod]
+ :text "The first time each turn you trash a card you are accessing, gain 1[credit] and draw 1 card."
+ :title "René \"Loup\" Arcemont: Party Animal"
+ :type :identity
+ :uniqueness false}
