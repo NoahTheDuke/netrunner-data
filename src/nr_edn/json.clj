@@ -192,11 +192,14 @@
                         card)))
                (sort-by :position)
                (group-by :setname))]
-      (doseq [[k pack] packs]
+      (doseq [s (vals sets)
+              :let [set-name (:name s)
+                    pack (get packs set-name)]]
         (->> pack
              (map #(dissoc % :setname))
              (map #(into (sorted-map) %))
+             (into [])
              (#(json/generate-string % pretty))
              (#(str % "\n"))
-             (spit (io/file "json" "pack" (str (:pack_code (first pack)) ".json")))))
+             (spit (io/file "json" "pack" (str (:code s) ".json")))))
       (println "Writing json files...Done!"))))
