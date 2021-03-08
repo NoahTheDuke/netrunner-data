@@ -4,6 +4,7 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :runner
+ :subtype [:natural]
  :text "Whenever an agenda is scored or stolen, you may swap 2 installed pieces of ice."
  :title "Tāo Salonga: Telepresence Magician"
  :type :identity

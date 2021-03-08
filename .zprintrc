@@ -1,0 +1,4 @@
+{:style :community
+ :map {:comma? false
+       :force-nl? true}
+ :width 1000}
