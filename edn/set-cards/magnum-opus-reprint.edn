@@ -2,7 +2,6 @@
   :code "28001"
   :flavor "<champion>Designed by 2017 European Champion Mike Sheehan</champion>"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/28001.png"
   :position 1
   :quantity 3
   :set-id "magnum-opus-reprint"}
@@ -10,7 +9,6 @@
   :code "28002"
   :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>"
   :illustrator "Patrick Burk/Mark Chandler"
-  :image-url "https://netrunnerdb.com/card_image/28002.png"
   :position 2
   :quantity 3
   :set-id "magnum-opus-reprint"}
@@ -18,7 +16,6 @@
   :code "28003"
   :flavor "<champion>Designed by 2016 GenCon Champion Dan D'Argenio</champion>"
   :illustrator "Kevin Tame"
-  :image-url "https://netrunnerdb.com/card_image/28003.png"
   :position 3
   :quantity 3
   :set-id "magnum-opus-reprint"}
@@ -26,7 +23,6 @@
   :code "28004"
   :flavor "<champion>Designed by 2017 World Champion Jess Horig</champion>"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/28004.png"
   :position 4
   :quantity 3
   :set-id "magnum-opus-reprint"}
@@ -34,7 +30,6 @@
   :code "28005"
   :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>"
   :illustrator "Akira J. Mitchell"
-  :image-url "https://netrunnerdb.com/card_image/28005.png"
   :position 5
   :quantity 3
   :set-id "magnum-opus-reprint"}
@@ -42,7 +37,6 @@
   :code "28006"
   :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>"
   :illustrator "Akira J. Mitchell"
-  :image-url "https://netrunnerdb.com/card_image/28006.png"
   :position 6
   :quantity 3
   :set-id "magnum-opus-reprint"}]

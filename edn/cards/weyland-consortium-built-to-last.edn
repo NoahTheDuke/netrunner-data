@@ -1,4 +1,5 @@
-{:faction :weyland-consortium
+{:deck-limit 1
+ :faction :weyland-consortium
  :id "weyland-consortium-built-to-last"
  :influence-limit 15
  :minimum-deck-size 40

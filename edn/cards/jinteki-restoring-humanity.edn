@@ -1,4 +1,5 @@
-{:faction :jinteki
+{:deck-limit 1
+ :faction :jinteki
  :id "jinteki-restoring-humanity"
  :influence-limit 15
  :minimum-deck-size 40

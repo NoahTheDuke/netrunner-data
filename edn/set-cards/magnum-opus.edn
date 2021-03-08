@@ -2,7 +2,6 @@
   :code "23001"
   :flavor "<champion>Designed by 2017 European Champion Mike Sheehan</champion>"
   :illustrator "Amelie Hutt"
-  :image-url "https://netrunnerdb.com/card_image/23001.png"
   :position 1
   :quantity 3
   :set-id "magnum-opus"}
@@ -10,7 +9,6 @@
   :code "23013"
   :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>"
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://netrunnerdb.com/card_image/23013.png"
   :position 2
   :quantity 3
   :set-id "magnum-opus"}
@@ -18,7 +16,6 @@
   :code "23045"
   :flavor "<champion>Designed by 2017 World Champion Jess Horig</champion>"
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/23045.png"
   :position 3
   :quantity 3
   :set-id "magnum-opus"}
@@ -26,7 +23,6 @@
   :code "23054"
   :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>"
   :illustrator "Adam S. Doyle"
-  :image-url "https://netrunnerdb.com/card_image/23054.png"
   :position 4
   :quantity 3
   :set-id "magnum-opus"}
@@ -34,7 +30,6 @@
   :code "23027"
   :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>"
   :illustrator "Matthew Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/23027.png"
   :position 5
   :quantity 3
   :set-id "magnum-opus"}
@@ -42,7 +37,6 @@
   :code "23011"
   :flavor "<champion>Designed by 2016 GenCon Champion Dan D'Argenio</champion>"
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://netrunnerdb.com/card_image/23011.png"
   :position 6
   :quantity 3
   :set-id "magnum-opus"}
@@ -50,7 +44,6 @@
   :code "23100"
   :flavor "<champion>Designed by the Day 1A players at Magnum Opus</champion>"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://netrunnerdb.com/card_image/23100.png"
   :position 7
   :quantity 1
   :set-id "magnum-opus"}
@@ -58,7 +51,6 @@
   :code "23101"
   :flavor "<champion>Designed by the Day 1B players at Magnum Opus</champion>"
   :illustrator "Matthew Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/23101.png"
   :position 8
   :quantity 1
   :set-id "magnum-opus"}]

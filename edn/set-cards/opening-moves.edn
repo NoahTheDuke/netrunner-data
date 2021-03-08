@@ -2,28 +2,24 @@
   :code "04001"
   :flavor "\"Bioroid intrusion isn't impossible, despite the bluster of Haas-Bioroid. But it is dangerous.\" -Noise"
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04001.png"
   :position 1
   :quantity 3
   :set-id "opening-moves"}
  {:card-id "pawn"
   :code "04002"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://netrunnerdb.com/card_image/04002.png"
   :position 2
   :quantity 3
   :set-id "opening-moves"}
  {:card-id "rook"
   :code "04003"
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04003.png"
   :position 3
   :quantity 3
   :set-id "opening-moves"}
  {:card-id "hostage"
   :code "04004"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/04004.png"
   :position 4
   :quantity 3
   :set-id "opening-moves"}
@@ -31,7 +27,6 @@
   :code "04005"
   :flavor "Simple in principle, a drip virus drains fractions of currency from their accounts into yours."
   :illustrator "Shawn Ye Zhongyi"
-  :image-url "https://netrunnerdb.com/card_image/04005.png"
   :position 5
   :quantity 3
   :set-id "opening-moves"}
@@ -39,7 +34,6 @@
   :code "04006"
   :flavor "\"I originally designed it for someone else, but it was so useful I decided to keep it for myself.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04006.png"
   :position 6
   :quantity 3
   :set-id "opening-moves"}
@@ -47,7 +41,6 @@
   :code "04007"
   :flavor "\"What if this ice wants to be free?\" -Rielle \"Kit\" Peddler"
   :illustrator "Anna Ignatieva"
-  :image-url "https://netrunnerdb.com/card_image/04007.png"
   :position 7
   :quantity 3
   :set-id "opening-moves"}
@@ -55,7 +48,6 @@
   :code "04008"
   :flavor "Normal people-sane people-do not embark on a life of cybercrime. Who can say what motivates the deranged mind? An imagined slight, personal failings blamed on external forces, or the ever-popular lust for money? -Michael Muhama, Musings on Cybercrime"
   :illustrator "JuanManuel Tumburus"
-  :image-url "https://netrunnerdb.com/card_image/04008.png"
   :position 8
   :quantity 3
   :set-id "opening-moves"}
@@ -63,7 +55,6 @@
   :code "04009"
   :flavor "\"I've been logging online with babes all day. Don't worry, the connections are clean. I guarantee it.\""
   :illustrator "Zefanya Langkan Maega"
-  :image-url "https://netrunnerdb.com/card_image/04009.png"
   :position 9
   :quantity 3
   :set-id "opening-moves"}
@@ -71,7 +62,6 @@
   :code "04010"
   :flavor "Who wants to start a war?"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://netrunnerdb.com/card_image/04010.png"
   :position 10
   :quantity 3
   :set-id "opening-moves"}
@@ -79,7 +69,6 @@
   :code "04011"
   :flavor "NEXT Design's ice provides the discerning business with a suite of ice that creates a daunting security presence for intruders."
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/04011.png"
   :position 11
   :quantity 3
   :set-id "opening-moves"}
@@ -87,7 +76,6 @@
   :code "04012"
   :flavor "When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody wanted one."
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/04012.png"
   :position 12
   :quantity 3
   :set-id "opening-moves"}
@@ -95,7 +83,6 @@
   :code "04013"
   :flavor "Himitsu-Bako is a simple ice barrier that appears as a digital puzzle box. What makes it special is the ease with which it can be uninstalled and installed in a different server, throwing up barriers in unexpected places and giving any intruder a curious feeling of déjà vu."
   :illustrator "Andrew Mar"
-  :image-url "https://netrunnerdb.com/card_image/04013.png"
   :position 13
   :quantity 3
   :set-id "opening-moves"}
@@ -103,7 +90,6 @@
   :code "04014"
   :flavor "\"The thing about journalism is there's always a better story around the corner. Soon, they smelled blood elsewhere, and the world forgot about me. But I didn't forget.\" -The Professor"
   :illustrator "Mike Nesbitt"
-  :image-url "https://netrunnerdb.com/card_image/04014.png"
   :position 14
   :quantity 3
   :set-id "opening-moves"}
@@ -111,14 +97,12 @@
   :code "04015"
   :flavor "\"It is my job to ensure our creations are the perfect companions and edutainment for tomorrow's consumers.\""
   :illustrator "JuanManuel Tumburus"
-  :image-url "https://netrunnerdb.com/card_image/04015.png"
   :position 15
   :quantity 3
   :set-id "opening-moves"}
  {:card-id "invasion-of-privacy"
   :code "04016"
   :illustrator "Del Borovic"
-  :image-url "https://netrunnerdb.com/card_image/04016.png"
   :position 16
   :quantity 3
   :set-id "opening-moves"}
@@ -126,14 +110,12 @@
   :code "04017"
   :flavor "Pumping water into deep sea thermal vents produced huge amounts of energy. A profitable side effect."
   :illustrator "Mike Nesbitt"
-  :image-url "https://netrunnerdb.com/card_image/04017.png"
   :position 17
   :quantity 3
   :set-id "opening-moves"}
  {:card-id "swarm"
   :code "04018"
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/04018.png"
   :position 18
   :quantity 3
   :set-id "opening-moves"}
@@ -141,7 +123,6 @@
   :code "04019"
   :flavor "Your free trial expired. Upgrade to the full version?"
   :illustrator "J. Zhang"
-  :image-url "https://netrunnerdb.com/card_image/04019.png"
   :position 19
   :quantity 3
   :set-id "opening-moves"}
@@ -149,7 +130,6 @@
   :code "04020"
   :flavor "\"The Grim of legend was one of many so-called 'black dog' myths common to Gaelic and English-speaking communities. What's fascinating is that it has propagated to the network, where it lives on as a program that, or so the story goes, hunts for the unwary.\" -The Professor"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://netrunnerdb.com/card_image/04020.png"
   :position 20
   :quantity 3
   :set-id "opening-moves"}]

@@ -2,7 +2,6 @@
   :code "11081"
   :flavor "\"These things are always there, under the surface, but no one wants to know the truth.\" -Omar Keung, the Flashpoint"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_81.png"
   :position 81
   :quantity 3
   :set-id "martial-law"}
@@ -10,7 +9,6 @@
   :code "11082"
   :flavor "\"Never, ever, overstay your welcome.\" -Andromeda"
   :illustrator "A. Jones"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_82.png"
   :position 82
   :quantity 3
   :set-id "martial-law"}
@@ -18,7 +16,6 @@
   :code "11083"
   :flavor "Her ability to analyze and adapt mid-run bordered on the paranormal."
   :illustrator "Hannah Christenson"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_83.png"
   :position 83
   :quantity 3
   :set-id "martial-law"}
@@ -26,7 +23,6 @@
   :code "11084"
   :flavor "It is only the illusion of choice."
   :illustrator "Michelle Lockamy"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_84.png"
   :position 84
   :quantity 3
   :set-id "martial-law"}
@@ -34,7 +30,6 @@
   :code "11085"
   :flavor "\"It's the most fundamental element of illusions and running both. In either case, it should be the first skill you master.\" -Ele \"Smoke\" Scovak"
   :illustrator "Michelle Lockamy"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_85.png"
   :position 85
   :quantity 3
   :set-id "martial-law"}
@@ -42,7 +37,6 @@
   :code "11086"
   :flavor "\"It had been hoped that the Network disruptions surrounding the conflict might also disrupt the phenomenon. Evidently, the reverse is true.\" -Joséo Greene, SYNC Analyst"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_86.png"
   :position 86
   :quantity 3
   :set-id "martial-law"}
@@ -50,7 +44,6 @@
   :code "11087"
   :flavor "This is my USMC-XOB32. There are many like it, but this one is mine."
   :illustrator "VIKO"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_87.png"
   :position 87
   :quantity 3
   :set-id "martial-law"}
@@ -58,14 +51,12 @@
   :code "11088"
   :flavor "\"She was riding in a great iron mortar and driving it with the pestle, and as she came she swept away her trail behind her with a kitchen broom.\" -Vasilissa the Beautiful"
   :illustrator "Shawn Ye Zhongyi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_88.png"
   :position 88
   :quantity 3
   :set-id "martial-law"}
  {:card-id "fairchild"
   :code "11089"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_89.png"
   :position 89
   :quantity 3
   :set-id "martial-law"}
@@ -73,28 +64,24 @@
   :code "11090"
   :flavor "Friends give friends advance warning before moving a carrier group down to enforce a no-fly zone."
   :illustrator "Simon Weaner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_90.png"
   :position 90
   :quantity 3
   :set-id "martial-law"}
  {:card-id "manta-grid"
   :code "11091"
   :illustrator "Simon Weaner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_91.png"
   :position 91
   :quantity 3
   :set-id "martial-law"}
  {:card-id "mind-game"
   :code "11092"
   :illustrator "Bon Bernardo"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_92.png"
   :position 92
   :quantity 3
   :set-id "martial-law"}
  {:card-id "nihongai-grid"
   :code "11093"
   :illustrator "VIKO"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_93.png"
   :position 93
   :quantity 3
   :set-id "martial-law"}
@@ -102,7 +89,6 @@
   :code "11094"
   :flavor "//Connection Terminated"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_94.png"
   :position 94
   :quantity 3
   :set-id "martial-law"}
@@ -110,7 +96,6 @@
   :code "11095"
   :flavor "Truth like the sunlight shines above all. "
   :illustrator "Kari Guenther"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_95.png"
   :position 95
   :quantity 3
   :set-id "martial-law"}
@@ -118,14 +103,12 @@
   :code "11096"
   :flavor "\"I don't get paid to be calm.\""
   :illustrator "Marko Fiedler"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_96.png"
   :position 96
   :quantity 3
   :set-id "martial-law"}
  {:card-id "mausolus"
   :code "11097"
   :illustrator "Yog Joshi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_97.png"
   :position 97
   :quantity 3
   :set-id "martial-law"}
@@ -133,7 +116,6 @@
   :code "11098"
   :flavor "There is a special place in hell for the first person who mined cyberspace."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_98.png"
   :position 98
   :quantity 3
   :set-id "martial-law"}
@@ -141,7 +123,6 @@
   :code "11099"
   :flavor "Walk loudly and carry a bigger stick."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_99.png"
   :position 99
   :quantity 3
   :set-id "martial-law"}
@@ -149,7 +130,6 @@
   :code "11100"
   :flavor "\"Get those civilians off the street. No more collateral damage.\" -Commissioner Dawn"
   :illustrator "Sander Mosk"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN40_100.png"
   :position 100
   :quantity 3
   :set-id "martial-law"}]

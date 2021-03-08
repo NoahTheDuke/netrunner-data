@@ -2,7 +2,6 @@
   :code "10058"
   :flavor "Sometimes in an instant you realize who your friends really are."
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_58.png"
   :position 58
   :quantity 3
   :set-id "salsette-island"}
@@ -10,7 +9,6 @@
   :code "10059"
   :flavor "\"Underestimate those people at your own peril.\" -Akshara Sareen"
   :illustrator "Amit Dutta"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_59.png"
   :position 59
   :quantity 3
   :set-id "salsette-island"}
@@ -18,7 +16,6 @@
   :code "10060"
   :flavor "The more parties she attended, the more they trusted her. The more they trusted her, the more entertaining her scams became."
   :illustrator "Caroline Gariba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_60.png"
   :position 60
   :quantity 6
   :set-id "salsette-island"}
@@ -26,21 +23,18 @@
   :code "10061"
   :flavor "The Preserver."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_61.png"
   :position 61
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "brahman"
   :code "10062"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_62.png"
   :position 62
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "patron"
   :code "10063"
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_63.png"
   :position 63
   :quantity 3
   :set-id "salsette-island"}
@@ -48,7 +42,6 @@
   :code "10064"
   :flavor "\"Check out my new ride.\" -2xTiger"
   :illustrator "BalanceSheet"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_64.png"
   :position 64
   :quantity 3
   :set-id "salsette-island"}
@@ -56,14 +49,12 @@
   :code "10065"
   :flavor "In these days of digital full-sim browsing and widely available nano-assembly, it takes a special kind of crazy person to go shopping in meatspace. There are millions of them."
   :illustrator "James Ives"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_65.png"
   :position 65
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "personality-profiles"
   :code "10066"
   :illustrator "Sander Mosk"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_66.png"
   :position 66
   :quantity 3
   :set-id "salsette-island"}
@@ -71,14 +62,12 @@
   :code "10067"
   :flavor "\"Very good, sir.\""
   :illustrator "Stéphane Gantiez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_67.png"
   :position 67
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "raman-rai"
   :code "10068"
   :illustrator "Kate Laird"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_68.png"
   :position 68
   :quantity 3
   :set-id "salsette-island"}
@@ -86,7 +75,6 @@
   :code "10069"
   :flavor "\"Connect two truths. Connect two programs. All is one.\""
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_69.png"
   :position 69
   :quantity 3
   :set-id "salsette-island"}
@@ -94,21 +82,18 @@
   :code "10070"
   :flavor "\"As the world shrinks, communications becomes the most essential technology.\" -Ramesh Gupta, One World Economy"
   :illustrator "Yog Joshi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_70.png"
   :position 70
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "salem-s-hospitality"
   :code "10071"
   :illustrator "Samuel Leung"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_71.png"
   :position 71
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "executive-search-firm"
   :code "10072"
   :illustrator "Diana Martinez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_72.png"
   :position 72
   :quantity 3
   :set-id "salsette-island"}
@@ -116,7 +101,6 @@
   :code "10073"
   :flavor "\"Wealth wisely invested is wealth earned.\" -The New Gospel of Wealth"
   :illustrator "Yog Joshi"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_73.png"
   :position 73
   :quantity 3
   :set-id "salsette-island"}
@@ -124,7 +108,6 @@
   :code "10074"
   :flavor "The naja naja is the king of all serpents."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_74.png"
   :position 74
   :quantity 3
   :set-id "salsette-island"}
@@ -132,14 +115,12 @@
   :code "10075"
   :flavor "It's the exact same coffee, but the price sure is different."
   :illustrator "Tim Durning"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_75.png"
   :position 75
   :quantity 3
   :set-id "salsette-island"}
  {:card-id "mumbad-virtual-tour"
   :code "10076"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN33_76.png"
   :position 76
   :quantity 3
   :set-id "salsette-island"}]

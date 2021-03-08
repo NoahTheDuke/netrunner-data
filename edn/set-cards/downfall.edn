@@ -2,7 +2,6 @@
   :code "26001"
   :flavor "With each passing day alone, Hoshiko found it harder to think. With each hour, the static grew louder."
   :illustrator "Photo Tammy Gann/Unsplash. Deep Dream"
-  :image-url "https://netrunnerdb.com/card_image/26001.png"
   :position 1
   :quantity 3
   :set-id "downfall"}
@@ -10,7 +9,6 @@
   :code "26002"
   :flavor "Step 1: Apply to Problem.\nStep 2: No more Problem!"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26002.png"
   :position 2
   :quantity 3
   :set-id "downfall"}
@@ -18,7 +16,6 @@
   :code "26003"
   :flavor "*tap* *tap* *tap*"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26003.png"
   :position 3
   :quantity 3
   :set-id "downfall"}
@@ -26,7 +23,6 @@
   :code "26004"
   :flavor "\"Net <em>space</em> is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.\" -z\\h/r"
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26004.png"
   :position 4
   :quantity 3
   :set-id "downfall"}
@@ -34,14 +30,12 @@
   :code "26005"
   :flavor "Sing, sing as your heart desires!"
   :illustrator "McGregor T. Crowley"
-  :image-url "https://netrunnerdb.com/card_image/26005.png"
   :position 5
   :quantity 3
   :set-id "downfall"}
  {:card-id "climactic-showdown"
   :code "26006"
   :illustrator "Diana Simonova (Antheia Vaulor)"
-  :image-url "https://netrunnerdb.com/card_image/26006.png"
   :position 6
   :quantity 3
   :set-id "downfall"}
@@ -49,7 +43,6 @@
   :code "26007"
   :flavor "Friends break your walls."
   :illustrator "Izzy Pruett"
-  :image-url "https://netrunnerdb.com/card_image/26007.png"
   :position 7
   :quantity 3
   :set-id "downfall"}
@@ -57,7 +50,6 @@
   :code "26008"
   :flavor "\"...well, <em>I'm</em> laughing.\""
   :illustrator "Wyn Lacabra"
-  :image-url "https://netrunnerdb.com/card_image/26008.png"
   :position 8
   :quantity 3
   :set-id "downfall"}
@@ -65,7 +57,6 @@
   :code "26009"
   :flavor "Friends hide your fears."
   :illustrator "Izzy Pruett"
-  :image-url "https://netrunnerdb.com/card_image/26009.png"
   :position 9
   :quantity 3
   :set-id "downfall"}
@@ -73,7 +64,6 @@
   :code "26010"
   :flavor "\"You're not listening.\""
   :illustrator "Luminita Pham"
-  :image-url "https://netrunnerdb.com/card_image/26010.png"
   :position 10
   :quantity 1
   :set-id "downfall"}
@@ -81,7 +71,6 @@
   :code "26011"
   :flavor "\"Everyone told me she was reliable in a pinch.\"\n -Az McCaffrey"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26011.png"
   :position 11
   :quantity 3
   :set-id "downfall"}
@@ -89,7 +78,6 @@
   :code "26012"
   :flavor "Blue flames burn the hottest!"
   :illustrator "Patrick Burk"
-  :image-url "https://netrunnerdb.com/card_image/26012.png"
   :position 12
   :quantity 3
   :set-id "downfall"}
@@ -97,7 +85,6 @@
   :code "26013"
   :flavor "BMI switches let runners surface without a true disconnect. Handy for a break... immediately."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26013.png"
   :position 13
   :quantity 3
   :set-id "downfall"}
@@ -105,7 +92,6 @@
   :code "26014"
   :flavor "Want to win a coinflip? Use a coin with two heads."
   :illustrator "Elizaveta Sokolova"
-  :image-url "https://netrunnerdb.com/card_image/26014.png"
   :position 14
   :quantity 3
   :set-id "downfall"}
@@ -113,7 +99,6 @@
   :code "26015"
   :flavor "v35: Springs to the mount ejectors (new feature)\nv36: Reduced power to springs (x5)"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26015.png"
   :position 15
   :quantity 3
   :set-id "downfall"}
@@ -121,7 +106,6 @@
   :code "26016"
   :flavor "\"Do the job. Get paid. Leave feelings at the door.\" -\"Baklan\" Bochkin"
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26016.png"
   :position 16
   :quantity 3
   :set-id "downfall"}
@@ -129,7 +113,6 @@
   :code "26017"
   :flavor "\"Psh, let them gossip. The cat knows whose meat it has eaten.\" -\"Baklan\" Bochkin"
   :illustrator "Janet Bruesselbach"
-  :image-url "https://netrunnerdb.com/card_image/26017.png"
   :position 17
   :quantity 3
   :set-id "downfall"}
@@ -137,14 +120,12 @@
   :code "26018"
   :flavor "\"...but I am without compare.\""
   :illustrator "Wyn Lacabra"
-  :image-url "https://netrunnerdb.com/card_image/26018.png"
   :position 18
   :quantity 3
   :set-id "downfall"}
  {:card-id "lat-ethical-freelancer"
   :code "26019"
   :illustrator "Luminita Pham"
-  :image-url "https://netrunnerdb.com/card_image/26019.png"
   :position 19
   :quantity 1
   :set-id "downfall"}
@@ -152,14 +133,12 @@
   :code "26020"
   :flavor "Do you know how many food deliveries I've missed this week?"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26020.png"
   :position 20
   :quantity 3
   :set-id "downfall"}
  {:card-id "khusyuk"
   :code "26021"
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26021.png"
   :position 21
   :quantity 3
   :set-id "downfall"}
@@ -167,7 +146,6 @@
   :code "26022"
   :flavor "\"There is never a wasted program. Someone, somewhere, will have a use for that code. Even corps are scrambling for quick fixes nowadays.\"\n-Lat"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26022.png"
   :position 22
   :quantity 3
   :set-id "downfall"}
@@ -175,7 +153,6 @@
   :code "26023"
   :flavor "The Net is boundless, but the right access port is worth a road trip."
   :illustrator "Elizaveta Sokolova"
-  :image-url "https://netrunnerdb.com/card_image/26023.png"
   :position 23
   :quantity 3
   :set-id "downfall"}
@@ -183,7 +160,6 @@
   :code "26024"
   :flavor "It is not knowledge, but the act of learning, not possession, but the act of getting there, which grants the greatest enjoyment."
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26024.png"
   :position 24
   :quantity 3
   :set-id "downfall"}
@@ -191,7 +167,6 @@
   :code "26025"
   :flavor "It makes sysops see red. And orange, yellow, green..."
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26025.png"
   :position 25
   :quantity 3
   :set-id "downfall"}
@@ -199,7 +174,6 @@
   :code "26026"
   :flavor "\"It takes such simple things to sustain us, the most important of which is to be thankful.\" -Lat"
   :illustrator "Jakuza"
-  :image-url "https://netrunnerdb.com/card_image/26026.png"
   :position 26
   :quantity 3
   :set-id "downfall"}
@@ -207,7 +181,6 @@
   :code "26027"
   :flavor "\"...then let me paint you a picture.\""
   :illustrator "Wyn Lacabra"
-  :image-url "https://netrunnerdb.com/card_image/26027.png"
   :position 27
   :quantity 3
   :set-id "downfall"}
@@ -215,7 +188,6 @@
   :code "26028"
   :flavor "Get into the ducts on the roof and keep crawling till you hit that old network root. Dirty work, I know, but it beats playing by the rules."
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26028.png"
   :position 28
   :quantity 3
   :set-id "downfall"}
@@ -223,7 +195,6 @@
   :code "26029"
   :flavor "I didn't say your hopper should be hauling garbage. I said it should be hauled away <em>as</em> garbage."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26029.png"
   :position 29
   :quantity 3
   :set-id "downfall"}
@@ -231,14 +202,12 @@
   :code "26030"
   :flavor "\"Corporations are made of people; just normal people doing their 6-to-6. The right truths, the right critique, and they can be redeemed.\" -Lat"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26030.png"
   :position 30
   :quantity 3
   :set-id "downfall"}
  {:card-id "mirrormorph-endless-iteration"
   :code "26031"
   :illustrator "Kira L. Nguyen"
-  :image-url "https://netrunnerdb.com/card_image/26031.png"
   :position 31
   :quantity 1
   :set-id "downfall"}
@@ -246,7 +215,6 @@
   :code "26032"
   :flavor "\"Early success should be rewarded, as it will encourage a culture of drive and competition.\"\n-Corporate Leadership for Dummies"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26032.png"
   :position 32
   :quantity 3
   :set-id "downfall"}
@@ -254,7 +222,6 @@
   :code "26033"
   :flavor "Unit is holding .78 asimovs of stress potential in all three directive logic traps. Psychiatric session mandated during next maintenance cycle."
   :illustrator "Kira L. Nguyen"
-  :image-url "https://netrunnerdb.com/card_image/26033.png"
   :position 33
   :quantity 3
   :set-id "downfall"}
@@ -262,7 +229,6 @@
   :code "26034"
   :flavor "At the scale where nanobots cut glass, quantum mechanics dictate error. A silicon atom here, an oxygen there, an erbium out of place. Each bioroid is born unique."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26034.png"
   :position 34
   :quantity 3
   :set-id "downfall"}
@@ -270,7 +236,6 @@
   :code "26035"
   :flavor "Old warriors have seen all the tricks; be forthright or fail."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26035.png"
   :position 35
   :quantity 3
   :set-id "downfall"}
@@ -278,7 +243,6 @@
   :code "26036"
   :flavor "Haas' unsecured servers were fortified just before the storm. Are their bioroid oracles that good, or were they tipped off?"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26036.png"
   :position 36
   :quantity 3
   :set-id "downfall"}
@@ -286,7 +250,6 @@
   :code "26037"
   :flavor "Not all secrets lie in vaults."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26037.png"
   :position 37
   :quantity 3
   :set-id "downfall"}
@@ -294,7 +257,6 @@
   :code "26038"
   :flavor "The Net abhors a vacuum. Any unexplained gap must be <em>made.</em>"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26038.png"
   :position 38
   :quantity 3
   :set-id "downfall"}
@@ -302,14 +264,12 @@
   :code "26039"
   :flavor "No Stone Unturned."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://netrunnerdb.com/card_image/26039.png"
   :position 39
   :quantity 1
   :set-id "downfall"}
  {:card-id "project-yagi-uda"
   :code "26040"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26040.png"
   :position 40
   :quantity 3
   :set-id "downfall"}
@@ -317,7 +277,6 @@
   :code "26041"
   :flavor "\"'It is my nature,' said the scorpion.\"\n-Conceptual Frameworks in Bio-Ethics and Synthetic Morality, Moser University Press"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26041.png"
   :position 41
   :quantity 3
   :set-id "downfall"}
@@ -325,7 +284,6 @@
   :code "26042"
   :flavor "Hyoubu is our vanguard in the battle for hearts and minds."
   :illustrator "Krembler/Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26042.png"
   :position 42
   :quantity 3
   :set-id "downfall"}
@@ -333,28 +291,24 @@
   :code "26043"
   :flavor "\"Memory is a tangle of emotional threads. Pull one, it twists a second, unravels a third!\" -Letheia Nisei"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26043.png"
   :position 43
   :quantity 3
   :set-id "downfall"}
  {:card-id "saisentan"
   :code "26044"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26044.png"
   :position 44
   :quantity 3
   :set-id "downfall"}
  {:card-id "complete-image"
   :code "26045"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26045.png"
   :position 45
   :quantity 3
   :set-id "downfall"}
  {:card-id "letheia-nisei"
   :code "26046"
   :illustrator "Diana Simonova (Antheia Vaulor)"
-  :image-url "https://netrunnerdb.com/card_image/26046.png"
   :position 46
   :quantity 3
   :set-id "downfall"}
@@ -362,14 +316,12 @@
   :code "26047"
   :flavor "Scrub-loving devs nerfed cannon rushes cause whiny bronzers complained. Left me four wins down in finals.\nAnyway I won."
   :illustrator "Deivis Goetten"
-  :image-url "https://netrunnerdb.com/card_image/26047.png"
   :position 47
   :quantity 3
   :set-id "downfall"}
  {:card-id "daily-quest"
   :code "26048"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26048.png"
   :position 48
   :quantity 3
   :set-id "downfall"}
@@ -377,7 +329,6 @@
   :code "26049"
   :flavor "Subscribe for 12 months to get that premium uplink you <em>need</em> to blaze ahead of the crowd!"
   :illustrator "N. Hopkins"
-  :image-url "https://netrunnerdb.com/card_image/26049.png"
   :position 49
   :quantity 3
   :set-id "downfall"}
@@ -385,7 +336,6 @@
   :code "26050"
   :flavor "You are the ONE BILLIONTH visitor!"
   :illustrator "Akira J. Mitchell"
-  :image-url "https://netrunnerdb.com/card_image/26050.png"
   :position 50
   :quantity 3
   :set-id "downfall"}
@@ -393,7 +343,6 @@
   :code "26051"
   :flavor "Though many countries attempted to regulate digital loot boxes in the early 21st century, GameNET has managed to circumvent any such laws via explicit, transparent percentage rates... and some very determined lobbyists."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26051.png"
   :position 51
   :quantity 3
   :set-id "downfall"}
@@ -401,7 +350,6 @@
   :code "26052"
   :flavor "\"There's gonna be catering, right?\""
   :illustrator "Dimik"
-  :image-url "https://netrunnerdb.com/card_image/26052.png"
   :position 52
   :quantity 3
   :set-id "downfall"}
@@ -409,7 +357,6 @@
   :code "26053"
   :flavor "It is pitch black. You are likely to be eaten by a Troll."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26053.png"
   :position 53
   :quantity 3
   :set-id "downfall"}
@@ -417,7 +364,6 @@
   :code "26054"
   :flavor "Ultra-Mythic chance ↑!↑!↑! Free Vorpal Tommy Gun [epic] and pinstripe suit [cosmetic] with 10x buy-in!"
   :illustrator "N. Hopkins/Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26054.png"
   :position 54
   :quantity 3
   :set-id "downfall"}
@@ -425,7 +371,6 @@
   :code "26055"
   :flavor "As the documents show, for eight months they have operated as an entirely independent fiscal entity. We are as appalled at the carelessness as you are, and fully support City Hall's investigation."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26055.png"
   :position 55
   :quantity 3
   :set-id "downfall"}
@@ -433,7 +378,6 @@
   :code "26056"
   :flavor "\"Drones are precision instruments. Collateral damage is merely an undisclosed target.\" -Chief \"Pinchy\" Wilson"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26056.png"
   :position 56
   :quantity 3
   :set-id "downfall"}
@@ -441,7 +385,6 @@
   :code "26057"
   :flavor "\"There's something about the human touch that androids will never replace.\" -Mila Braun"
   :illustrator "Olie Boldador"
-  :image-url "https://netrunnerdb.com/card_image/26057.png"
   :position 57
   :quantity 3
   :set-id "downfall"}
@@ -449,7 +392,6 @@
   :code "26058"
   :flavor "A choice occurs. The waveform collapses."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26058.png"
   :position 58
   :quantity 3
   :set-id "downfall"}
@@ -457,14 +399,12 @@
   :code "26059"
   :flavor "Effective, Cheap, Durable. Pick two."
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26059.png"
   :position 59
   :quantity 3
   :set-id "downfall"}
  {:card-id "trebuchet"
   :code "26060"
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26060.png"
   :position 60
   :quantity 3
   :set-id "downfall"}
@@ -472,14 +412,12 @@
   :code "26061"
   :flavor "Secure Servers. Contain Infections. Protect Data.\n-The SecTech Mantra"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26061.png"
   :position 61
   :quantity 3
   :set-id "downfall"}
  {:card-id "reduced-service"
   :code "26062"
   :illustrator "Krembler"
-  :image-url "https://netrunnerdb.com/card_image/26062.png"
   :position 62
   :quantity 3
   :set-id "downfall"}
@@ -487,7 +425,6 @@
   :code "26063"
   :flavor "The Fracture was no different from any other crisis. As always, Management's first instinct was to find someone to blame. Getting food up to Midway or He3 down to power Earthside hospitals are trivialities compared to the important work of salving Executive ego and keeping one's job."
   :illustrator "Iain Fairclough"
-  :image-url "https://netrunnerdb.com/card_image/26063.png"
   :position 63
   :quantity 3
   :set-id "downfall"}
@@ -495,14 +432,12 @@
   :code "26064"
   :flavor "\"By matching funds on your donations, the Space Elevator Authority has already planted over eight million trees on the Pacific coast. Together we can restore New Angeles to its former glory.\"\n-Elizabeth Mills"
   :illustrator "Elizaveta Sokolova"
-  :image-url "https://netrunnerdb.com/card_image/26064.png"
   :position 64
   :quantity 3
   :set-id "downfall"}
  {:card-id "rime"
   :code "26065"
   :illustrator "N. Hopkins"
-  :image-url "https://netrunnerdb.com/card_image/26065.png"
   :position 65
   :quantity 3
   :set-id "downfall"}]

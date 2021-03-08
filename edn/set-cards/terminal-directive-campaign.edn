@@ -1,197 +1,168 @@
 [{:card-id "evidence-collection"
   :code "14000"
   :illustrator "Dmitry Burmak"
-  :image-url "https://netrunnerdb.com/card_image/14000.png"
   :position 1
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "evidence-collection-2"
   :code "14001"
   :illustrator "Dmitry Burmak"
-  :image-url "https://netrunnerdb.com/card_image/14001.png"
   :position 2
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "evidence-collection-3"
   :code "14002"
   :illustrator "Dmitry Burmak"
-  :image-url "https://netrunnerdb.com/card_image/14002.png"
   :position 3
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "evidence-collection-4"
   :code "14003"
   :illustrator "Dmitry Burmak"
-  :image-url "https://netrunnerdb.com/card_image/14003.png"
   :position 4
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "investigator-inez-delgado-a"
   :code "14004"
   :illustrator "PxelSlayer"
-  :image-url "https://netrunnerdb.com/card_image/14004.png"
   :position 5
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "investigator-inez-delgado-a-2"
   :code "14005"
   :illustrator "PxelSlayer"
-  :image-url "https://netrunnerdb.com/card_image/14005.png"
   :position 6
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "lt-todachine"
   :code "14006"
   :illustrator "Antonio José Manzanedo"
-  :image-url "https://netrunnerdb.com/card_image/14006.png"
   :position 7
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "lt-todachine-2"
   :code "14007"
   :illustrator "Antonio José Manzanedo"
-  :image-url "https://netrunnerdb.com/card_image/14007.png"
   :position 8
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "trojan"
   :code "14008"
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://netrunnerdb.com/card_image/14008.png"
   :position 9
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "security-leak"
   :code "14009"
   :illustrator "Jason Juta"
-  :image-url "https://netrunnerdb.com/card_image/14009.png"
   :position 10
   :quantity 1
   :set-id "terminal-directive-campaign"}
  {:card-id "machicolation-a"
   :code "14010"
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/14010.png"
   :position 11
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "machicolation-b"
   :code "14011"
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/14011.png"
   :position 12
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "corporate-oversight-a"
   :code "14012"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/14012.png"
   :position 13
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "corporate-oversight-b"
   :code "14013"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/14013.png"
   :position 14
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "investigator-inez-delgado"
   :code "14014"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/14014.png"
   :position 15
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "investigator-inez-delgado-2"
   :code "14015"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/14015.png"
   :position 16
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "investigator-inez-delgado-3"
   :code "14016"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/14016.png"
   :position 17
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "investigator-inez-delgado-4"
   :code "14017"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/14017.png"
   :position 18
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "surveillance-network-key"
   :code "14018"
   :illustrator "Michał Miłkowski"
-  :image-url "https://netrunnerdb.com/card_image/14018.png"
   :position 19
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "surveillance-network-key-2"
   :code "14019"
   :illustrator "Michał Miłkowski"
-  :image-url "https://netrunnerdb.com/card_image/14019.png"
   :position 20
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "bmi-buffer"
   :code "14020"
   :illustrator "Timur Shevtsov"
-  :image-url "https://netrunnerdb.com/card_image/14020.png"
   :position 21
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "bmi-buffer-2"
   :code "14021"
   :illustrator "Timur Shevtsov"
-  :image-url "https://netrunnerdb.com/card_image/14021.png"
   :position 22
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "shadow-team"
   :code "14022"
   :illustrator "Adam Schumpert"
-  :image-url "https://netrunnerdb.com/card_image/14022.png"
   :position 23
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "net-watchlist"
   :code "14023"
   :illustrator "Adam S. Doyle"
-  :image-url "https://netrunnerdb.com/card_image/14023.png"
   :position 24
   :quantity 1
   :set-id "terminal-directive-campaign"}
  {:card-id "the-masque-a"
   :code "14024"
   :illustrator "PxelSlayer"
-  :image-url "https://netrunnerdb.com/card_image/14024.png"
   :position 25
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "the-masque-b"
   :code "14025"
   :illustrator "PxelSlayer"
-  :image-url "https://netrunnerdb.com/card_image/14025.png"
   :position 26
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "sneakdoor-prime-a"
   :code "14026"
   :illustrator "Dmitry Prosvirnin"
-  :image-url "https://netrunnerdb.com/card_image/14026.png"
   :position 27
   :quantity 3
   :set-id "terminal-directive-campaign"}
  {:card-id "sneakdoor-prime-b"
   :code "14027"
   :illustrator "Dmitry Prosvirnin"
-  :image-url "https://netrunnerdb.com/card_image/14027.png"
   :position 28
   :quantity 3
-  :set-id "terminal-directive-campaign"}
- ]
+  :set-id "terminal-directive-campaign"}]

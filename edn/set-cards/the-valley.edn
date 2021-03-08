@@ -1,7 +1,6 @@
 [{:card-id "clot"
   :code "08001"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_1.png"
   :position 1
   :quantity 3
   :set-id "the-valley"}
@@ -9,7 +8,6 @@
   :code "08002"
   :flavor "\"The Valley is littered with good ideas. You need the discipline to execute if you want to stay in my incubator.\""
   :illustrator "Wenjuinn Png"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_2.png"
   :position 2
   :quantity 3
   :set-id "the-valley"}
@@ -17,14 +15,12 @@
   :code "08003"
   :flavor "Turns a night owl into an early bird!"
   :illustrator "Crystal Ben"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_3.png"
   :position 3
   :quantity 3
   :set-id "the-valley"}
  {:card-id "spike"
   :code "08004"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_4.png"
   :position 4
   :quantity 3
   :set-id "the-valley"}
@@ -32,7 +28,6 @@
   :code "08005"
   :flavor "Watch out fellas, this little lady's on the prowl!"
   :illustrator "Diana Martinez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_5.png"
   :position 5
   :quantity 3
   :set-id "the-valley"}
@@ -40,7 +35,6 @@
   :code "08006"
   :flavor "\"These g-mods haven't hit the consumer market yet, but I can hook you up.\""
   :illustrator "James Ives"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_6.png"
   :position 6
   :quantity 3
   :set-id "the-valley"}
@@ -48,14 +42,12 @@
   :code "08007"
   :flavor "Your heart deserves the best."
   :illustrator "Ismael Bergara"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_7.png"
   :position 7
   :quantity 3
   :set-id "the-valley"}
  {:card-id "traffic-jam"
   :code "08008"
   :illustrator "BalanceSheet"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_8.png"
   :position 8
   :quantity 3
   :set-id "the-valley"}
@@ -63,7 +55,6 @@
   :code "08009"
   :flavor "Born for success!"
   :illustrator "Tim Durning"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_9.png"
   :position 9
   :quantity 3
   :set-id "the-valley"}
@@ -71,7 +62,6 @@
   :code "08010"
   :flavor "In the vast universe of memories, consciousness slumbers..."
   :illustrator "Maciej Rebisz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_10.png"
   :position 10
   :quantity 3
   :set-id "the-valley"}
@@ -79,14 +69,12 @@
   :code "08011"
   :flavor "\"God in Heinlein. What's next, NEXT Platinum?\" -John Masanori"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_11.png"
   :position 11
   :quantity 3
   :set-id "the-valley"}
  {:card-id "jinteki-biotech-life-imagined"
   :code "08012"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_12.png"
   :position 12
   :quantity 3
   :set-id "the-valley"}
@@ -94,7 +82,6 @@
   :code "08013"
   :flavor "\"The best part of our work is that nothing is ever wasted. A gene that is useful once will surely be useful again.\" -Wong Ya Ching"
   :illustrator "Rovina Cai"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_13.png"
   :position 13
   :quantity 3
   :set-id "the-valley"}
@@ -102,14 +89,12 @@
   :code "08014"
   :flavor "The more power a spike process can use, the harder it can hit. The really clever ones borrow the runner's own memory to iterate locally."
   :illustrator "Tadas Sidlauskas"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_14.png"
   :position 14
   :quantity 3
   :set-id "the-valley"}
  {:card-id "valley-grid"
   :code "08015"
   :illustrator "Simon Weaner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_15.png"
   :position 15
   :quantity 3
   :set-id "the-valley"}
@@ -117,14 +102,12 @@
   :code "08016"
   :flavor "\"It tracks you and logs you. If you get in you can just delete the log. But first you have to get in.\" -Gabriel Santiago"
   :illustrator "Seage"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_16.png"
   :position 16
   :quantity 3
   :set-id "the-valley"}
  {:card-id "predictive-algorithm"
   :code "08017"
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_17.png"
   :position 17
   :quantity 3
   :set-id "the-valley"}
@@ -132,7 +115,6 @@
   :code "08018"
   :flavor "Give a man money, and he is rich for a day. Teach a man how to invest, and he is rich for life."
   :illustrator "Lili Ibrahim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_18.png"
   :position 18
   :quantity 3
   :set-id "the-valley"}
@@ -140,7 +122,6 @@
   :code "08019"
   :flavor "\"Negotiation is an art, so never negotiate when you can intimidate instead.\" -Thiago Reyes, VP Strategic Operations"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_19.png"
   :position 19
   :quantity 3
   :set-id "the-valley"}
@@ -148,7 +129,6 @@
   :code "08020"
   :flavor "\"Don't worry. If this one fails, we can start a new one tomorrow.\""
   :illustrator "Del Borovic"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN23_20.png"
   :position 20
   :quantity 3
   :set-id "the-valley"}]

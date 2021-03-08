@@ -1,4 +1,5 @@
-{:faction :haas-bioroid
+{:deck-limit 1
+ :faction :haas-bioroid
  :id "haas-bioroid-precision-design"
  :influence-limit 15
  :minimum-deck-size 40

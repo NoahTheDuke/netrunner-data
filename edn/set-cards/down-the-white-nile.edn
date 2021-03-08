@@ -2,7 +2,6 @@
   :code "21021"
   :flavor "The system is so deeply rooted, who knows how far the cables run?"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_21.png"
   :position 21
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -10,7 +9,6 @@
   :code "21022"
   :flavor "Embedded in the mainframe, it proliferates and devours with each agitation."
   :illustrator "Ethan Patrick Harris"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_22.png"
   :position 22
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -18,7 +16,6 @@
   :code "21023"
   :flavor "The gap of 0.19 seconds was all he needed."
   :illustrator "Caravan Studio"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_23.png"
   :position 23
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -26,14 +23,12 @@
   :code "21024"
   :flavor "\"He's probably the best pet I've ever had but I'd still trade him for something better.\" - 419"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_24.png"
   :position 24
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "kabonesa-wu-netspace-thrillseeker"
   :code "21025"
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_25.png"
   :position 25
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -41,7 +36,6 @@
   :code "21026"
   :flavor "When standard breaking just doesn't cut it."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_26.png"
   :position 26
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -49,14 +43,12 @@
   :code "21027"
   :flavor "A winged terror, the Kongamato dives from above, rending its prey in one ferocious bite."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_27.png"
   :position 27
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "emergent-creativity"
   :code "21028"
   :illustrator "Caravan Studio"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_28.png"
   :position 28
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -64,7 +56,6 @@
   :code "21029"
   :flavor "Between nothing and infinity."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_29.png"
   :position 29
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -72,7 +63,6 @@
   :code "21030"
   :flavor "Witchcraft to the nescient; beauty to the wise."
   :illustrator "Galen Dara"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_30.png"
   :position 30
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -80,7 +70,6 @@
   :code "21031"
   :flavor "\"The site of the world's second beanstalk, or I'll die trying.\" - Miria Byanyima, Director of VSEP"
   :illustrator "Kirsten Zirngibl"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_31.png"
   :position 31
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -88,14 +77,12 @@
   :code "21032"
   :flavor "\"Starving, dehydrated, delirious, I picked a direction and ran, ran for days, maybe even weeks. I ran until my legs couldn't carry me. Then I crawled. When I was finally out, finally free of the shroud, I checked the time, the date. How long had I been gone, trapped in the all-encompassing blackness? Turns out, 3 minutes.\""
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_32.png"
   :position 32
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "bacterial-programming"
   :code "21033"
   :illustrator "Pavel Kolomeyets"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_33.png"
   :position 33
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -103,14 +90,12 @@
   :code "21034"
   :flavor "\"It wasn't until the spots cleared that I realized half of my rig was gone.\" - Kabonesa Wu"
   :illustrator "Mariusz Siergiejew"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_34.png"
   :position 34
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "threat-assessment"
   :code "21035"
   :illustrator "Martin de Diego Sádaba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_35.png"
   :position 35
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -118,21 +103,18 @@
   :code "21036"
   :flavor "He found it odd that three frozen yogurt shops, all less than a block from his, opened within the same week."
   :illustrator "Michał Miłkowski"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_36.png"
   :position 36
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "forced-connection"
   :code "21037"
   :illustrator "Josh Corpuz"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_37.png"
   :position 37
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "ssl-endorsement"
   :code "21038"
   :illustrator "Caravan Studio"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_38.png"
   :position 38
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -140,7 +122,6 @@
   :code "21039"
   :flavor "\"Who knew non-profits could be so profitable?\""
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_39.png"
   :position 39
   :quantity 3
   :set-id "down-the-white-nile"}
@@ -148,7 +129,6 @@
   :code "21040"
   :flavor "\"Food. Drinks. Entertainment. It doesn't take much to gratify the bourgeoisie.\""
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN51_40.png"
   :position 40
   :quantity 3
   :set-id "down-the-white-nile"}]

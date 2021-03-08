@@ -1,14 +1,12 @@
 [{:card-id "by-any-means"
   :code "21001"
   :illustrator "Le Vuong"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_1.png"
   :position 1
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "yusuf"
   :code "21002"
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_2.png"
   :position 2
   :quantity 3
   :set-id "sovereign-sight"}
@@ -16,14 +14,12 @@
   :code "21003"
   :flavor "Mounted holistic lenses download, recompile, and broadcast data faster than a corporate cover-up."
   :illustrator "Martin de Diego Sádaba"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_3.png"
   :position 3
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "puffer"
   :code "21004"
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_4.png"
   :position 4
   :quantity 3
   :set-id "sovereign-sight"}
@@ -31,7 +27,6 @@
   :code "21005"
   :flavor "Brought up in the slums of Jinja, Lewi made his fortune through back alley deals, well-placed bets, and savvy showmanship."
   :illustrator "PxelSlayer"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_5.png"
   :position 5
   :quantity 3
   :set-id "sovereign-sight"}
@@ -39,7 +34,6 @@
   :code "21006"
   :flavor "Optical computing still has its uses. But it's hard to explain them to people whose eyes glaze over when you bring up the double-slit experiment."
   :illustrator "Nasrul Hakim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_6.png"
   :position 6
   :quantity 3
   :set-id "sovereign-sight"}
@@ -47,7 +41,6 @@
   :code "21007"
   :flavor "New life through new understanding."
   :illustrator "Galen Dara"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_7.png"
   :position 7
   :quantity 3
   :set-id "sovereign-sight"}
@@ -55,14 +48,12 @@
   :code "21008"
   :flavor "\"Its only function seems to be repurposing code.\"\n\"Can you kill it?\" she asked.\n\"I can try,\" he said. Guiding his program dead center of the mass, he plunged, piercing the shell before an eruption sent his screen into static. He jacked out, his eyes wide. \"I... I think it absorbed my breaker. And everything else.\""
   :illustrator "Alexandr Elichev"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_8.png"
   :position 8
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "asa-group-security-through-vigilance"
   :code "21009"
   :illustrator "Johan Törnlund"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_9.png"
   :position 9
   :quantity 3
   :set-id "sovereign-sight"}
@@ -70,7 +61,6 @@
   :code "21010"
   :flavor "\"The average citizen of Nairobi speaks six languages. Every culture, language, ethnicity of the east of Africa collides here, collapses together. What happens slowly by nature can happen quickly in our lab. We will bring peace.\" - Dr. Muchina, Project Lead"
   :illustrator "Michał Miłkowski"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_10.png"
   :position 10
   :quantity 3
   :set-id "sovereign-sight"}
@@ -78,14 +68,12 @@
   :code "21011"
   :flavor "Earth and Sun, together as one."
   :illustrator "Andreas Zafiratos"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_11.png"
   :position 11
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "gene-splicer"
   :code "21012"
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_12.png"
   :position 12
   :quantity 3
   :set-id "sovereign-sight"}
@@ -93,7 +81,6 @@
   :code "21013"
   :flavor "Thin enough to pierce netspace. Deadly enough to pierce your mind."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_13.png"
   :position 13
   :quantity 3
   :set-id "sovereign-sight"}
@@ -101,7 +88,6 @@
   :code "21014"
   :flavor "Sometimes you have to break a few eggs to sequence a genome."
   :illustrator "Pavel Kolomeyets"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_14.png"
   :position 14
   :quantity 3
   :set-id "sovereign-sight"}
@@ -109,7 +95,6 @@
   :code "21015"
   :flavor "\"Capitalism runs on two things: amplified arrogance and censored dissent. With those, a corp can create any environment it wants.\" - Freedom Khumalo"
   :illustrator "Donald Crank"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_15.png"
   :position 15
   :quantity 3
   :set-id "sovereign-sight"}
@@ -117,7 +102,6 @@
   :code "21016"
   :flavor "Our patented ClearMind™ technology pacifies the trials and tribulations of everyday life."
   :illustrator "Limetown Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_16.png"
   :position 16
   :quantity 3
   :set-id "sovereign-sight"}
@@ -125,28 +109,24 @@
   :code "21017"
   :flavor "\"Once every week, we perform a drill. Except, I'm the only one who knows it's a drill.\""
   :illustrator "James Cory Webster"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_17.png"
   :position 17
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "urban-renewal"
   :code "21018"
   :illustrator "Johan Törnlund"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_18.png"
   :position 18
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "wake-up-call"
   :code "21019"
   :illustrator "James Cory Webster"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_19.png"
   :position 19
   :quantity 3
   :set-id "sovereign-sight"}
  {:card-id "reconstruction-contract"
   :code "21020"
   :illustrator "BalanceSheet"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN50_20.png"
   :position 20
   :quantity 3
   :set-id "sovereign-sight"}]

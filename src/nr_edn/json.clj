@@ -120,16 +120,16 @@
     (io/make-parents "json/pack/temp")
 
     ;; mwl.json
-    (->> (for [mwl mwls]
-           {:cards (into (sorted-map) (:cards mwl))
-            :code (:code mwl)
-            :date_start (:date-start mwl)
-            :name (:name mwl)})
-         (sort-by :date_start)
-         (map #(into (sorted-map) %))
-         (#(json/generate-string % pretty))
-         (#(str % "\n"))
-         (spit (io/file "json" "mwl.json")))
+    ; (->> (for [mwl mwls]
+    ;        {:cards (into (sorted-map) (:cards mwl))
+    ;         :code (:code mwl)
+    ;         :date_start (:date-start mwl)
+    ;         :name (:name mwl)})
+    ;      (sort-by :date_start)
+    ;      (map #(into (sorted-map) %))
+    ;      (#(json/generate-string % pretty))
+    ;      (#(str % "\n"))
+    ;      (spit (io/file "json" "mwl.json")))
 
     ;; cycles.json
     (->> (for [[k cy] cycles]
@@ -210,4 +210,4 @@
                  (json/generate-string % pretty)))
              (#(str % "\n"))
              (spit (io/file "json" "pack" (str (:code s) ".json")))))
-      (println "Writing json files...Done!"))))
+       (println "Writing json files...Done!"))))

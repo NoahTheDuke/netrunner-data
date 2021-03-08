@@ -2,7 +2,6 @@
   :code "06061"
   :flavor "<champion>Designed by 2012 World Champion Jeremy Zwirn</champion>"
   :illustrator "Samuel R. Shimota"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_61.png"
   :position 61
   :quantity 3
   :set-id "up-and-over"}
@@ -10,14 +9,12 @@
   :code "06062"
   :flavor "\"Servers fully-armed and operational.\""
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_62.png"
   :position 62
   :quantity 3
   :set-id "up-and-over"}
  {:card-id "labyrinthine-servers"
   :code "06063"
   :illustrator "Lili Ibrahim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_63.png"
   :position 63
   :quantity 3
   :set-id "up-and-over"}
@@ -25,14 +22,12 @@
   :code "06064"
   :flavor "The way past is to go a different way."
   :illustrator "Chris Newman"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_64.png"
   :position 64
   :quantity 3
   :set-id "up-and-over"}
  {:card-id "mamba"
   :code "06065"
   :illustrator "Eko Puteh"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_65.png"
   :position 65
   :quantity 3
   :set-id "up-and-over"}
@@ -40,7 +35,6 @@
   :code "06066"
   :flavor "Making a name for yourself has its perks. But it also makes you a target."
   :illustrator "Antonio De Luca"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_66.png"
   :position 66
   :quantity 3
   :set-id "up-and-over"}
@@ -48,7 +42,6 @@
   :code "06067"
   :flavor "\"It's a small one-time fee, apparently. Only I've paid it seventeen times.\""
   :illustrator "Ed Mattinian"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_67.png"
   :position 67
   :quantity 3
   :set-id "up-and-over"}
@@ -56,14 +49,12 @@
   :code "06068"
   :flavor "Unlimited Energy. Reasonable Prices."
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_68.png"
   :position 68
   :quantity 3
   :set-id "up-and-over"}
  {:card-id "changeling"
   :code "06069"
   :illustrator "Wylie Beckert"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_69.png"
   :position 69
   :quantity 3
   :set-id "up-and-over"}
@@ -71,21 +62,18 @@
   :code "06070"
   :flavor "If the clones were nervous about living in a repurposed fuel tank, they never mentioned it."
   :illustrator "Yip Lee"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_70.png"
   :position 70
   :quantity 3
   :set-id "up-and-over"}
  {:card-id "hades-fragment"
   :code "06071"
   :illustrator "Seage"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_71.png"
   :position 71
   :quantity 3
   :set-id "up-and-over"}
  {:card-id "docklands-crackdown"
   :code "06072"
   :illustrator "Alex Kim"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_72.png"
   :position 72
   :quantity 3
   :set-id "up-and-over"}
@@ -93,7 +81,6 @@
   :code "06073"
   :flavor "\"Knowledge comes in many different shapes and sizes.\" -Quetzal"
   :illustrator "Ralph Beisner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_73.png"
   :position 73
   :quantity 3
   :set-id "up-and-over"}
@@ -101,7 +88,6 @@
   :code "06074"
   :flavor "The earliest instances of data folding were inspired by the traditional art of origami. Just as a crease pattern is the blueprint of a paper crane, there is a sequence to data that must be considered in order to achieve the greatest result."
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_74.png"
   :position 74
   :quantity 3
   :set-id "up-and-over"}
@@ -109,7 +95,6 @@
   :code "06075"
   :flavor "\"You should have known better than to scratch it…\" -Quetzal"
   :illustrator "Adam S. Doyle"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_75.png"
   :position 75
   :quantity 3
   :set-id "up-and-over"}
@@ -117,7 +102,6 @@
   :code "06076"
   :flavor "It practically runs itself, unless you're in a pinch."
   :illustrator "Lucas Durham"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_76.png"
   :position 76
   :quantity 3
   :set-id "up-and-over"}
@@ -125,14 +109,12 @@
   :code "06077"
   :flavor "Small. Compact. Easy to slip by monitoring programs and it can do some damage."
   :illustrator "Chris Newman"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_77.png"
   :position 77
   :quantity 3
   :set-id "up-and-over"}
  {:card-id "trade-in"
   :code "06078"
   :illustrator "Ralph Beisner"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_78.png"
   :position 78
   :quantity 3
   :set-id "up-and-over"}
@@ -140,7 +122,6 @@
   :code "06079"
   :flavor "\"There is no better tool for charting the empty spaces of the net.\" -Nasir Meidan"
   :illustrator "Gong Studios"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_79.png"
   :position 79
   :quantity 3
   :set-id "up-and-over"}
@@ -148,7 +129,6 @@
   :code "06080"
   :flavor "\"Low gravity sports are wildly popular, so match-fixing has proven wildly profitable.\" -Leela Patel"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://www.cardgamedb.com/forums/uploads/an/med_ADN19_80.png"
   :position 80
   :quantity 3
   :set-id "up-and-over"}]

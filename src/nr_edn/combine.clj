@@ -120,20 +120,6 @@
                            :else
                            :rotated)}))}))))
 
-(defn make-image-url
-  "Create a URI to the card in CardGameDB"
-  [card s]
-  (if (:ffg-id s)
-    (str "https://www.cardgamedb.com/forums/uploads/an/med_ADN" (:ffg-id s) "_" (:position card) ".png")
-    (str "https://netrunnerdb.com/card_image/" (:code card) ".png")))
-
-(defn get-uri
-  "Figure out the card art image uri"
-  [card s]
-  (if (contains? card :image-url)
-    (:image-url card)
-    (make-image-url card s)))
-
 (defn link-previous-versions
   [[title cards]]
   (if (= 1 (count cards))
@@ -172,7 +158,6 @@
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-cost card)
             :format (get card->formats (:id card))
-            :image_url (get-uri card s)
             :influencelimit (:influence-limit card)
             :memoryunits (:memory-cost card)
             :minimumdecksize (:minimum-deck-size card)
@@ -186,7 +171,6 @@
             :strength (get-strength card)
             :subtype (when (seq (:subtype card))
                        (string/join " - " (map #(print-null-subtypes subtypes card %) (:subtype card))))
-            :subtypes (mapv #(print-null-subtypes subtypes card %) (:subtype card))
             :text (:text card)
             :title (:title card)
             :trash (:trash-cost card)

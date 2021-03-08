@@ -1,4 +1,5 @@
 {:base-link 0
+ :deck-limit 1
  :faction :anarch
  :id "rene-loup-arcemont-party-animal"
  :influence-limit 15

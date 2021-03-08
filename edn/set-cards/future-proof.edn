@@ -1,14 +1,12 @@
 [{:card-id "retrieval-run"
   :code "02101"
   :illustrator "Outland Entertainment LLC"
-  :image-url "https://netrunnerdb.com/card_image/02101.png"
   :position 101
   :quantity 3
   :set-id "future-proof"}
  {:card-id "darwin"
   :code "02102"
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://netrunnerdb.com/card_image/02102.png"
   :position 102
   :quantity 3
   :set-id "future-proof"}
@@ -16,7 +14,6 @@
   :code "02103"
   :flavor "A two-way solution to a one-way problem, the data leak reversal, or DLR for short, is a misnomer. There is no actual reversal of data, only the creation of a parallel peer-to-peer link with the initial source."
   :illustrator "Andrew Mar"
-  :image-url "https://netrunnerdb.com/card_image/02103.png"
   :position 103
   :quantity 3
   :set-id "future-proof"}
@@ -24,7 +21,6 @@
   :code "02104"
   :flavor "Do you believe in faeries?"
   :illustrator "Sara K. Diesel"
-  :image-url "https://netrunnerdb.com/card_image/02104.png"
   :position 104
   :quantity 3
   :set-id "future-proof"}
@@ -32,7 +28,6 @@
   :code "02105"
   :flavor "\"We're always happy to help, Mr. Santiago.\"\n\"I appreciate it, Mr. Li.\"\n\"We'll be in touch. And, Gabriel…\"\n\"Yes?\"\n\"Don't leave town.\""
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/02105.png"
   :position 105
   :quantity 3
   :set-id "future-proof"}
@@ -40,7 +35,6 @@
   :code "02106"
   :flavor "A little corporate restructuring is necessary once in a while."
   :illustrator "Mauricio Herrera"
-  :image-url "https://netrunnerdb.com/card_image/02106.png"
   :position 106
   :quantity 3
   :set-id "future-proof"}
@@ -48,14 +42,12 @@
   :code "02107"
   :flavor "Works best at your own desk."
   :illustrator "Reza Ilyasa"
-  :image-url "https://netrunnerdb.com/card_image/02107.png"
   :position 107
   :quantity 3
   :set-id "future-proof"}
  {:card-id "deep-thought"
   :code "02108"
   :illustrator "Anna Ignatieva"
-  :image-url "https://netrunnerdb.com/card_image/02108.png"
   :position 108
   :quantity 3
   :set-id "future-proof"}
@@ -63,7 +55,6 @@
   :code "02109"
   :flavor "\"New Angeles is the jewel of modern civilization, and its government the envy of nations.\" -Mayor Wells"
   :illustrator "Henning Ludvigsen"
-  :image-url "https://netrunnerdb.com/card_image/02109.png"
   :position 109
   :quantity 3
   :set-id "future-proof"}
@@ -71,7 +62,6 @@
   :code "02110"
   :flavor "\"That's against the rules. The Creators will be angry.\""
   :illustrator "Sandara Tang"
-  :image-url "https://netrunnerdb.com/card_image/02110.png"
   :position 110
   :quantity 3
   :set-id "future-proof"}
@@ -79,7 +69,6 @@
   :code "02111"
   :flavor "Known for luxury hoppers and a delectable sauerkraut."
   :illustrator "Yoann Boissonnet"
-  :image-url "https://netrunnerdb.com/card_image/02111.png"
   :position 111
   :quantity 3
   :set-id "future-proof"}
@@ -87,7 +76,6 @@
   :code "02112"
   :flavor "\"I will serve you…for a time.\""
   :illustrator "Adam S. Doyle"
-  :image-url "https://netrunnerdb.com/card_image/02112.png"
   :position 112
   :quantity 3
   :set-id "future-proof"}
@@ -95,28 +83,24 @@
   :code "02113"
   :flavor "\"Looks like someone is being naughty…\""
   :illustrator "RJ Palmer"
-  :image-url "https://netrunnerdb.com/card_image/02113.png"
   :position 113
   :quantity 3
   :set-id "future-proof"}
  {:card-id "nbn-the-world-is-yours"
   :code "02114"
   :flavor "*Some restrictions may apply. Scan this card to find out more."
-  :image-url "https://netrunnerdb.com/card_image/02114.png"
   :position 114
   :quantity 3
   :set-id "future-proof"}
  {:card-id "project-beale"
   :code "02115"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/02115.png"
   :position 115
   :quantity 3
   :set-id "future-proof"}
  {:card-id "midseason-replacements"
   :code "02116"
   :illustrator "Christina Davis"
-  :image-url "https://netrunnerdb.com/card_image/02116.png"
   :position 116
   :quantity 3
   :set-id "future-proof"}
@@ -124,7 +108,6 @@
   :code "02117"
   :flavor "A bright light blossomed, and then the console went dark. That's when she smelled smoke."
   :illustrator "Mike Nesbitt"
-  :image-url "https://netrunnerdb.com/card_image/02117.png"
   :position 117
   :quantity 3
   :set-id "future-proof"}
@@ -132,7 +115,6 @@
   :code "02118"
   :flavor "They don't call them dedicated for nothing."
   :illustrator "Reza Ilyasa"
-  :image-url "https://netrunnerdb.com/card_image/02118.png"
   :position 118
   :quantity 3
   :set-id "future-proof"}
@@ -140,7 +122,6 @@
   :code "02119"
   :flavor "\"If I had to describe the bugs in one word, it would be '****ing annoying.'\" -Whizzard"
   :illustrator "Reza Ilyasa"
-  :image-url "https://netrunnerdb.com/card_image/02119.png"
   :position 119
   :quantity 3
   :set-id "future-proof"}
@@ -148,7 +129,6 @@
   :code "02120"
   :flavor "There were several ways to win a corporate war. One of them was to bring out the bazookas."
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/02120.png"
   :position 120
   :quantity 3
   :set-id "future-proof"}]

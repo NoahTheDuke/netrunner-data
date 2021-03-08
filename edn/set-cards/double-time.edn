@@ -1,14 +1,12 @@
 [{:card-id "singularity"
   :code "04101"
   :illustrator "Adam S. Doyle"
-  :image-url "https://netrunnerdb.com/card_image/04101.png"
   :position 101
   :quantity 3
   :set-id "double-time"}
  {:card-id "queen-s-gambit"
   :code "04102"
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/04102.png"
   :position 102
   :quantity 3
   :set-id "double-time"}
@@ -16,7 +14,6 @@
   :code "04103"
   :flavor "The Dyson Fractal Generator is a useless lump of silicon; all it does is produce truly random results. What kind of madman slaps that in his rig? What's the use of a totally random number? -John Masanori"
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04103.png"
   :position 103
   :quantity 3
   :set-id "double-time"}
@@ -24,7 +21,6 @@
   :code "04104"
   :flavor "Take Moore's Law, iterate it over a century or two, and mix in quantum computing. You get to the point where you're developing the software on a hardware platform that you design at the same time. Tailor-made for each other. Exciting time to be alive! -William Knuth, The Tower of Babbage"
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04104.png"
   :position 104
   :quantity 3
   :set-id "double-time"}
@@ -32,7 +28,6 @@
   :code "04105"
   :flavor "\"Predictive algorithms that fetch you the program you need before you even know you need it. My second favorite lady.\" -Gabriel Santiago"
   :illustrator "RC Torres"
-  :image-url "https://netrunnerdb.com/card_image/04105.png"
   :position 105
   :quantity 3
   :set-id "double-time"}
@@ -40,7 +35,6 @@
   :code "04106"
   :flavor "There are good, honest, hardworking cops in the NAPD. Officers who do their best to bring justice to the guilty and protect the innocent. Fortunately for the criminals, they're outnumbered by the other kind. The kind who are much easier to work with."
   :illustrator "Agri Karuniawan"
-  :image-url "https://netrunnerdb.com/card_image/04106.png"
   :position 106
   :quantity 3
   :set-id "double-time"}
@@ -48,7 +42,6 @@
   :code "04107"
   :flavor "\"When I said I could hack it in my sleep, did you think I was joking?\" -Chaos Theory"
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04107.png"
   :position 107
   :quantity 3
   :set-id "double-time"}
@@ -56,7 +49,6 @@
   :code "04108"
   :flavor "\"Hand-made code is like hand-made art. You can see the brush strokes, which lets you see the artist. And then you can see everything in a new way.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Viktoria Gavrilenko"
-  :image-url "https://netrunnerdb.com/card_image/04108.png"
   :position 108
   :quantity 3
   :set-id "double-time"}
@@ -64,7 +56,6 @@
   :code "04109"
   :flavor "Data hunters always pay top dollar for old drives. The more useless the data, the higher the payout."
   :illustrator "Gong Studios"
-  :image-url "https://netrunnerdb.com/card_image/04109.png"
   :position 109
   :quantity 3
   :set-id "double-time"}
@@ -72,14 +63,12 @@
   :code "04110"
   :flavor "Once inside, the only way out is through your own mind."
   :illustrator "Liiga Smilshkalne"
-  :image-url "https://netrunnerdb.com/card_image/04110.png"
   :position 110
   :quantity 3
   :set-id "double-time"}
  {:card-id "reclamation-order"
   :code "04111"
   :illustrator "Emilio Rodriguez"
-  :image-url "https://netrunnerdb.com/card_image/04111.png"
   :position 111
   :quantity 3
   :set-id "double-time"}
@@ -87,7 +76,6 @@
   :code "04112"
   :flavor "Tourists have flocked to Broadcast Square in even greater numbers ever since the notorious Ho-meh's crime spree ended there in a hail of flechettes. Well, that's how it happened in the sensie."
   :illustrator "Henning Ludvigsen"
-  :image-url "https://netrunnerdb.com/card_image/04112.png"
   :position 112
   :quantity 3
   :set-id "double-time"}
@@ -95,7 +83,6 @@
   :code "04113"
   :flavor "The only thing worse than being fired and replaced by a younger, cheaper worker? Being replaced by an android."
   :illustrator "Agri Karuniawan"
-  :image-url "https://netrunnerdb.com/card_image/04113.png"
   :position 113
   :quantity 3
   :set-id "double-time"}
@@ -103,14 +90,12 @@
   :code "04114"
   :flavor "The first clone to serve as an NAPD detective."
   :illustrator "Matt Zeilinger"
-  :image-url "https://netrunnerdb.com/card_image/04114.png"
   :position 114
   :quantity 3
   :set-id "double-time"}
  {:card-id "shinobi"
   :code "04115"
   :illustrator "Chris Newman"
-  :image-url "https://netrunnerdb.com/card_image/04115.png"
   :position 115
   :quantity 3
   :set-id "double-time"}
@@ -118,14 +103,12 @@
   :code "04116"
   :flavor "\"It doesn't do anything in and of itself. It just marks you as an intruder and makes the next ice do all the work.\" -Kate \"Mac\" McCaffrey"
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/04116.png"
   :position 116
   :quantity 3
   :set-id "double-time"}
  {:card-id "hive"
   :code "04117"
   :illustrator "Ed Mattinian"
-  :image-url "https://netrunnerdb.com/card_image/04117.png"
   :position 117
   :quantity 3
   :set-id "double-time"}
@@ -133,14 +116,12 @@
   :code "04118"
   :flavor "\"Now, let's talk about how little you remember of the events of June sixth through sixteenth.\""
   :illustrator "Lorraine Schleter"
-  :image-url "https://netrunnerdb.com/card_image/04118.png"
   :position 118
   :quantity 3
   :set-id "double-time"}
  {:card-id "napd-contract"
   :code "04119"
   :illustrator "Viktoria Gavrilenko"
-  :image-url "https://netrunnerdb.com/card_image/04119.png"
   :position 119
   :quantity 3
   :set-id "double-time"}
@@ -148,7 +129,6 @@
   :code "04120"
   :flavor "It wants to have two subroutines when it grows up."
   :illustrator "Laura Wilson"
-  :image-url "https://netrunnerdb.com/card_image/04120.png"
   :position 120
   :quantity 3
   :set-id "double-time"}]

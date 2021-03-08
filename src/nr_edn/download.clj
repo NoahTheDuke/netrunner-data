@@ -5,7 +5,6 @@
             [org.httpkit.client :as http]
             [cheshire.core :as json]
             [zprint.core :as zp]
-            [nr-edn.combine :refer [get-uri make-image-url]]
             [nr-edn.utils :refer [slugify cards->map]]))
 
 (defn parse-response
@@ -30,14 +29,15 @@
   (read-json-file (str base-path "/" filename ".json")))
 
 (defn read-card-dir
-  [base-path & _]
+  [base-path]
   (->> (str base-path "/pack")
        io/file
        file-seq
        (filter #(and (.isFile %)
                      (string/ends-with? % ".json")))
        (map read-json-file)
-       flatten))
+       flatten
+       parse-response))
 
 (defn translate-fields
   "Modify NRDB json data to our schema"
@@ -160,7 +160,6 @@
    :code identity
    :flavor identity
    :illustrator identity
-   :image_url (rename :image-url)
    :pack_code (rename :pack-code)
    :position identity
    :quantity identity
@@ -175,8 +174,7 @@
         (dissoc :pack-code
                 (when (= (:text c) (:text (get cards (:card-id c))))
                   :text))
-        (assoc :image-url (get-uri c s)
-               :set-id (:id s)))))
+        (assoc :set-id (:id s)))))
 
 (def mwl-fields
   {:cards identity

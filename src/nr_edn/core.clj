@@ -5,8 +5,7 @@
             [nr-edn.combine :refer [combine-for-jnet]]
             [nr-edn.download :refer [download-from-nrdb]]
             [nr-edn.csv :refer [build-from-csv]]
-            [nr-edn.json :refer [convert-to-json]]
-            [nr-edn.scratch]))
+            [nr-edn.json :refer [convert-to-json]]))
 
 (defn -main
   [& args]
@@ -18,7 +17,7 @@
 
   (case (first args)
     nil (combine-for-jnet)
-    "download" (apply download-from-nrdb (rest args))
+    "download" (download-from-nrdb)
     "combine" (combine-for-jnet)
     "csv" (build-from-csv)
     "json" (convert-to-json)
