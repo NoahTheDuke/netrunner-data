@@ -14,14 +14,14 @@
   :set-id "system-gateway"}
  {:card-id "pantograph"
   :code "30023"
-  :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\"\n–Tāo"
+  :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\"\n—Tāo"
   :illustrator "Martin de Diego Sādaba"
   :position 23
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "jailbreak"
   :code "30028"
-  :flavor "\"We'll take the access codes from their own prisec—privilege escalation through local application of force.\"\n–The Catalyst"
+  :flavor "\"We'll take the access codes from their own prisec—privilege escalation through local application of force.\"\n—The Catalyst"
   :illustrator "David Lei"
   :position 28
   :quantity 3

@@ -28,27 +28,42 @@
       (card-title)
       (assoc :advancement-requirement (when (= :agenda (:type card))
                                         (or (:advancement-requirement card) (:cost card)))
-             :deck-limit (when-not (= :identity (:type card))
-                           (or (:deck-limit card)
-                               3))
+             :cost (if (= "X" (:cost card)) nil (:cost card))
+             :deck-limit (if (= :identity (:type card)) 1 (or (:deck-limit card) 3))
              :faction (if (= :neutral (:faction card))
-                        (if (= :corp (:side card))
-                          :neutral-corp
-                          :neutral-runner)
+                        (if-let [side (:side card)]
+                          (if (= :corp side) :neutral-corp :neutral-runner)
+                          (case (:type card)
+                            (:agenda :asset :ice :operation :upgrade) :neutral-corp
+                            (:event :hardware :program :resource) :neutral-runner
+                            (:identity) (if (:base-link card) :neutral-runner :neutral-corp)
+                            ; else
+                            (throw (Exception. (str "what side am i??? " card)))))
                         (:faction card))
              :influence-cost (when-not (= :identity (:type card))
-                               (or (:influence-value card) 0))
+                               (or (:influence-value card) (:influence-cost card) 0))
              :flavor (->> [(:flavor card)
                            (when (:attribution card)
                              (str "<champion>" (:attribution card) "</champion>"))]
                           (filter identity)
                           (string/join "\n")
-                          (not-empty)))
+                          (not-empty))
+             :side (or (:side card)
+                       (case (:type card)
+                         (:agenda :asset :ice :operation :upgrade) :corp
+                         (:event :hardware :program :resource) :runner
+                         (:identity) (if (:base-link card) :runner :corp)
+                         ; else
+                         (throw (Exception. (str "what side am i??? " card))))))
       (dissoc :attribution
+              :count
+              :english-name
+              :id-mu
               (when (= :agenda (:type card)) :cost)
               (when (and (= :agenda (:type card)) (not= :neutral (:faction card))) :influence-cost)
               :influence-value
-              :subtitle)))
+              :subtitle
+              )))
 
 (defn string-trim
   [s]
@@ -65,7 +80,9 @@
       (string/replace "{ra}" "")
       (string/replace "{/ra}" "")
       (string/replace "{c}" "[credit]")
+      (string/replace "{!}" "[interrupt]")
       (string/replace "{click}" "[click]")
+      (string/replace "{recurring}" "[recurring-credit]")
       (string/replace "{MU}" "[mu]")
       (string/replace "{trash}" "[trash]")
       (string/replace "{sub}" "[subroutine]")))
@@ -98,12 +115,12 @@
 
 (defn make-types-fn
   [types]
-  (fn [row-val]
-    (when (not-empty row-val)
-      (let [row-val (key-slug row-val)
+  (fn [raw-val]
+    (when (not-empty raw-val)
+      (let [row-val (key-slug raw-val)
             card-type (:code (get types row-val))]
         (or card-type
-            (println (str row-val " contains a malformed subtype")))))))
+            (println (str raw-val " contains a malformed type")))))))
 
 (defn make-subtypes-fn
   [subtypes]
@@ -125,6 +142,7 @@
    :deck-limit sc/->int
    :faction key-slug
    :influence-limit process-inf-limit
+   :influence-cost sc/->int
    :influence-value sc/->int
    :memory-cost sc/->int
    :minimum-deck-size sc/->int
@@ -154,6 +172,7 @@
 (defn build-cards
   [path cast-columns]
   (->> (sc/slurp-csv path)
+       ; (map #(select-keys % (keys (make-cast-fns nil nil))))
        (map cast-columns)
        (map add-fields)
        (map prune-null-fields)))
@@ -236,7 +255,7 @@
     (println "Writing cards")
     (doseq [card (map #(dissoc % :position) cards)
             :let [card (strip-set-fields card)]]
-      (spit (str "edn/cards/system-gateway-" (:id card) ".edn")
+      (spit (str "edn/cards/" (:id card) ".edn")
             (str (zp/zprint-str card) "\n")))
     (println "Done!")
     (System/exit 0)))
