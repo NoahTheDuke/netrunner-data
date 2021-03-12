@@ -11,4 +11,12 @@
  :text "When your turn ends, if you accessed at least 1 card this turn, gain 2[credit] and flip this identity.\nFlip side:\nWhen your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access at least 1 card this turn, flip this identity."
  :title "Hoshiko Shiro: Untold Protagonist"
  :type :identity
- :uniqueness false}
+ :uniqueness false
+ :flips {:1 {:title "Hoshiko Shiro: Untold Protagonist"
+             :text "When your turn ends, if you accessed at least 1 card this turn, gain 2[credit] and flip this identity."
+             :base-link 0
+             :subtype [:natural]}
+         :2 {:title "Hoshiko Shiro: Mahou Shoujo"
+             :text "When your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access at least 1 card this turn, flip this identity."
+             :base-link 1
+             :subtype [:digital]}}}

@@ -10,4 +10,8 @@
  :text "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability).\nFlip side:\n[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."
  :title "SYNC: Everything, Everywhere"
  :type :identity
- :uniqueness false}
+ :uniqueness false
+ :flips {:1 {:title "SYNC: Everything, Everywhere"
+             :text "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability)."}
+             :2 {:title "SYNC: Everything, Everywhere"
+                 :text "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."}}}
