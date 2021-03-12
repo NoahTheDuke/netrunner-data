@@ -195,9 +195,7 @@
         formats (load-data "formats")
         cycles (load-data "cycles")
         sets (load-sets cycles)
-        cards (load-cards sides factions types subtypes sets formats mwls)
-        promos (read-edn-file "edn/promos.edn")
-        ]
+        cards (load-cards sides factions types subtypes sets formats mwls)]
     (print "Writing edn/raw_data.edn...")
     (spit (io/file "edn" "raw_data.edn")
           (sorted-map
@@ -205,6 +203,5 @@
             :sets (vals->vec :position sets)
             :cards (vals->vec :code cards)
             :formats (vals->vec :date-release formats)
-            :mwls (vals->vec :date-start mwls)
-            :promos promos))
+            :mwls (vals->vec :date-start mwls)))
     (println "Done!")))
