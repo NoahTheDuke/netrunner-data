@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "nbn-reality-plus"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :corp
+ :subtype [:megacorp]
+ :text "The first time each turn the Runner takes a tag, gain 2[credit] or draw 2 cards."
+ :title "NBN: Reality Plus"
+ :type :identity
+ :uniqueness false}

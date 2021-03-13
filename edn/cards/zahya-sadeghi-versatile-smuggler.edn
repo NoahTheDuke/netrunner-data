@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "zahya-sadeghi-versatile-smuggler"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :subtype [:cyborg]
+ :text "Whenever a run on HQ or R&D ends, you may gain 1[credit] for each time you accessed a card during that run. Use this ability only once per turn."
+ :title "Zahya Sadeghi: Versatile Smuggler"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "anoetic-void"
+ :influence-cost 4
+ :side :corp
+ :text "Whenever the Runner approaches this server, you may pay 2[credit] and trash 2 cards from HQ. If you do, end the run."
+ :title "Anoetic Void"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness true}
