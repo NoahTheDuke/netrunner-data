@@ -5,6 +5,8 @@
  :id "show-of-force"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you score Show of Force, do 2 meat damage."
+ :stripped-title "Show of Force"
  :subtype [:security]
  :text "When you score Show of Force, do 2 meat damage."
  :title "Show of Force"

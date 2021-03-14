@@ -4,6 +4,8 @@
  :id "crisium-grid"
  :influence-cost 1
  :side :corp
+ :stripped-text "Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Limit 1 region per server. Errata from CR 1.3"
+ :stripped-title "Crisium Grid"
  :subtype [:region]
  :text "Runs against this server cannot be declared successful. <i>(This effect does not cause runs to become unsuccessful.)</i>\nLimit 1 <strong>region</strong> per server.\n<errata>Errata from CR 1.3</errata>"
  :title "Crisium Grid"

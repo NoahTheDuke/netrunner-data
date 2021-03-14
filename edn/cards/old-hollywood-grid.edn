@@ -4,6 +4,8 @@
  :id "old-hollywood-grid"
  :influence-cost 2
  :side :corp
+ :stripped-text "The Runner cannot steal agendas accessed from this server, even during the run on which they trash Old Hollywood Grid. Ignore this ability for any agenda the Runner has a copy of in their score area. Limit 1 region per server. Errata from CR 1.2"
+ :stripped-title "Old Hollywood Grid"
  :subtype [:region]
  :text "The Runner cannot steal agendas accessed from this server, even during the run on which they trash Old Hollywood Grid. Ignore this ability for any agenda the Runner has a copy of in their score area.\nLimit 1 <strong>region</strong> per server.\n<errata>Errata from CR 1.2</errata>"
  :title "Old Hollywood Grid"

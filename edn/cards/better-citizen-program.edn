@@ -4,6 +4,8 @@
  :faction :nbn
  :id "better-citizen-program"
  :side :corp
+ :stripped-text "The first time the Runner plays a run event or installs an icebreaker program each turn, you may give the Runner 1 tag."
+ :stripped-title "Better Citizen Program"
  :subtype [:initiative]
  :text "The first time the Runner plays a <strong>run</strong> event or installs an <strong>icebreaker</strong> program each turn, you may give the Runner 1 tag."
  :title "Better Citizen Program"

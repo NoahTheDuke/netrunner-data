@@ -4,6 +4,8 @@
  :id "medical-research-fundraiser"
  :influence-cost 1
  :side :corp
+ :stripped-text "Gain 8 credits. The Runner gains 3 credits."
+ :stripped-title "Medical Research Fundraiser"
  :subtype [:transaction]
  :text "Gain 8[credit]. The Runner gains 3[credit]."
  :title "Medical Research Fundraiser"

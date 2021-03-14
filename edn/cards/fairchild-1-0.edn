@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 2
+ :stripped-text "The Runner can spend click to break any subroutine on Fairchild 1.0. Subroutine The Runner must pay 1 credit or trash 1 of his or her installed cards. Subroutine The Runner must pay 1 credit or trash 1 of his or her installed cards."
+ :stripped-title "Fairchild 1.0"
  :subtype [:code-gate :bioroid]
  :text "The Runner can spend [click] to break any subroutine on Fairchild 1.0.\n[subroutine]The Runner must pay 1[credit] or trash 1 of his or her installed cards.\n[subroutine]The Runner must pay 1[credit] or trash 1 of his or her installed cards."
  :title "Fairchild 1.0"

@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "You draw a starting hand of 9 cards."
+ :stripped-title "Andromeda: Dispossessed Ristie"
  :subtype [:natural]
  :text "You draw a starting hand of 9 cards."
  :title "Andromeda: Dispossessed Ristie"

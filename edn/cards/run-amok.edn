@@ -4,6 +4,8 @@
  :id "run-amok"
  :influence-cost 3
  :side :runner
+ :stripped-text "Make a run. When the run ends, trash 1 piece of ice that was rezzed during this run."
+ :stripped-title "Run Amok"
  :subtype [:run :sabotage]
  :text "Make a run. When the run ends, trash 1 piece of ice that was rezzed during this run."
  :title "Run Amok"

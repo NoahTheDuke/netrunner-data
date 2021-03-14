@@ -4,6 +4,8 @@
  :id "moshing"
  :influence-cost 3
  :side :runner
+ :stripped-text "As an additional cost to play this event, trash 3 cards from your grip. Draw 3 cards and gain 3 credits."
+ :stripped-title "Moshing"
  :text "As an additional cost to play this event, trash 3 cards from your grip.\nDraw 3 cards and gain 3[credit]."
  :title "Moshing"
  :type :event

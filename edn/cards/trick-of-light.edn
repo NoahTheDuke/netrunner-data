@@ -4,6 +4,8 @@
  :id "trick-of-light"
  :influence-cost 3
  :side :corp
+ :stripped-text "Move up to 2 advancement tokens from a card to another installed card that can be advanced."
+ :stripped-title "Trick of Light"
  :text "Move up to 2 advancement tokens from a card to another installed card that can be advanced."
  :title "Trick of Light"
  :type :operation

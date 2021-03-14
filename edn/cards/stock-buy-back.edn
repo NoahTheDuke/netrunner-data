@@ -4,6 +4,8 @@
  :id "stock-buy-back"
  :influence-cost 2
  :side :corp
+ :stripped-text "After you resolve this operation, end your action phase. Gain 3 credits for each agenda in the Runner's score area."
+ :stripped-title "Stock Buy-Back"
  :subtype [:terminal :transaction]
  :text "After you resolve this operation, end your action phase.\nGain 3[credit] for each agenda in the Runner's score area."
  :title "Stock Buy-Back"

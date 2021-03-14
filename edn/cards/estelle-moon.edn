@@ -4,6 +4,8 @@
  :id "estelle-moon"
  :influence-cost 2
  :side :corp
+ :stripped-text "Whenever you install a card in a server, place 1 power counter on Estelle Moon. trash: Draw 1 card and gain 2 credits for each power counter on Estelle Moon."
+ :stripped-title "Estelle Moon"
  :subtype [:executive]
  :text "Whenever you install a card in a server, place 1 power counter on Estelle Moon.\n[trash]: Draw 1 card and gain 2[credit] for each power counter on Estelle Moon."
  :title "Estelle Moon"

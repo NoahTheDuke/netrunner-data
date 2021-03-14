@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "city-works-project"
  :side :corp
+ :stripped-text "Install City Works Project faceup. When the Runner accesses City Works Project while it is installed, do 2 meat damage and 1 additional meat damage for each advancement token on it."
+ :stripped-title "City Works Project"
  :subtype [:public]
  :text "Install City Works Project faceup.\nWhen the Runner accesses City Works Project while it is installed, do 2 meat damage and 1 additional meat damage for each advancement token on it."
  :title "City Works Project"

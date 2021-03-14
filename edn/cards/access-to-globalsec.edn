@@ -4,6 +4,8 @@
  :id "access-to-globalsec"
  :influence-cost 0
  :side :runner
+ :stripped-text "+1 link"
+ :stripped-title "Access to Globalsec"
  :subtype [:link]
  :text "+1[link]"
  :title "Access to Globalsec"

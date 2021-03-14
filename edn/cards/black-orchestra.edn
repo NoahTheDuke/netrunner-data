@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "Whenever you encounter a code gate, you may install Black Orchestra from your heap (paying its install cost). 3 credits: +2 strength. Break up to 2 code gate subroutines, if able."
+ :stripped-title "Black Orchestra"
  :subtype [:icebreaker :decoder]
  :text "Whenever you encounter a <strong>code gate</strong>, you may install Black Orchestra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>code gate</strong> subroutines, if able."
  :title "Black Orchestra"

@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 1
+ :stripped-text "Meru Mati has +3 strength while protecting HQ. Subroutine End the run."
+ :stripped-title "Meru Mati"
  :subtype [:barrier]
  :text "Meru Mati has +3 strength while protecting HQ.\n[subroutine] End the run."
  :title "Meru Mati"

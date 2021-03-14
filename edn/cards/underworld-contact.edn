@@ -4,6 +4,8 @@
  :id "underworld-contact"
  :influence-cost 0
  :side :runner
+ :stripped-text "When your turn begins, gain 1 credit if you have at least 2 link."
+ :stripped-title "Underworld Contact"
  :subtype [:connection]
  :text "When your turn begins, gain 1[credit] if you have at least 2[link]."
  :title "Underworld Contact"

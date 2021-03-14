@@ -4,6 +4,8 @@
  :id "echo-chamber"
  :influence-cost 4
  :side :corp
+ :stripped-text "click, click, click: Add Echo Chamber to your score area as an agenda worth 1 agenda point."
+ :stripped-title "Echo Chamber"
  :text "[click], [click], [click]: Add Echo Chamber to your score area as an agenda worth 1 agenda point."
  :title "Echo Chamber"
  :trash-cost 1

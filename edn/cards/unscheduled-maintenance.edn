@@ -4,6 +4,8 @@
  :id "unscheduled-maintenance"
  :influence-cost 2
  :side :runner
+ :stripped-text "This card is not trashed until another current is played or an agenda is scored. The Corp cannot install more than 1 piece of ice each turn."
+ :stripped-title "Unscheduled Maintenance"
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp cannot install more than 1 piece of ice each turn."
  :title "Unscheduled Maintenance"

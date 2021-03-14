@@ -4,6 +4,8 @@
  :id "cyberdelia"
  :influence-cost 3
  :side :runner
+ :stripped-text "+1 mu The first time you break all subroutines on a piece of ice each turn, you may gain 1 credit."
+ :stripped-title "Cyberdelia"
  :subtype [:chip]
  :text "+1[mu]\nThe first time you break all subroutines on a piece of ice each turn, you may gain 1[credit]."
  :title "Cyberdelia"

@@ -4,6 +4,8 @@
  :id "london-library"
  :influence-cost 2
  :side :runner
+ :stripped-text "Trash all programs hosted on London Library when your turn ends. click: Install a non-virus program from your grip on London Library, ignoring the install cost. click: Add a program on London Library to your grip."
+ :stripped-title "London Library"
  :subtype [:location]
  :text "Trash all programs hosted on London Library when your turn ends.\n[click]: Install a non-<strong>virus</strong> program from your grip on London Library, ignoring the install cost.\n[click]: Add a program on London Library to your grip."
  :title "London Library"

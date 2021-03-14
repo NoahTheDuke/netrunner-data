@@ -4,6 +4,8 @@
  :id "caldera"
  :influence-cost 1
  :side :runner
+ :stripped-text "3 credits: Prevent 1 net or brain damage."
+ :stripped-title "Caldera"
  :subtype [:virtual]
  :text "3[credit]: Prevent 1 net or brain damage."
  :title "Caldera"

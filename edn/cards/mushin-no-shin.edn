@@ -4,6 +4,8 @@
  :id "mushin-no-shin"
  :influence-cost 2
  :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Install an asset, agenda, or upgrade from HQ in a new remote server. Place 3 advancement tokens on that card. You cannot score or rez that card until your next turn begins."
+ :stripped-title "Mushin No Shin"
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nInstall an asset, agenda, or upgrade from HQ in a new remote server. Place 3 advancement tokens on that card. You cannot score or rez that card until your next turn begins."
  :title "Mushin No Shin"

@@ -4,6 +4,8 @@
  :id "levy-advanced-research-lab"
  :influence-cost 2
  :side :runner
+ :stripped-text "click: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order."
+ :stripped-title "Levy Advanced Research Lab"
  :subtype [:location :ritzy]
  :text "[click]: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order."
  :title "Levy Advanced Research Lab"

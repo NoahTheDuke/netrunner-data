@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "Study Guide has +1 strength for each power counter on it. 1 credit: Break code gate subroutine. 2 credits: Place 1 power counter on Study Guide."
+ :stripped-title "Study Guide"
  :subtype [:icebreaker :decoder]
  :text "Study Guide has +1 strength for each power counter on it.\n1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: Place 1 power counter on Study Guide."
  :title "Study Guide"

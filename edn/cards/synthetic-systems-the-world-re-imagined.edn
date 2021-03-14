@@ -4,6 +4,8 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :corp
+ :stripped-text "Draft format only. If you have more  cards rezzed than any other faction, when your turn begins, you may swap 2 pieces of installed ice."
+ :stripped-title "Synthetic Systems: The World Re-imagined"
  :subtype [:division]
  :text "Draft format only.\nIf you have more [jinteki] cards rezzed than any other faction, when your turn begins, you may swap 2 pieces of installed ice."
  :title "Synthetic Systems: The World Re-imagined"

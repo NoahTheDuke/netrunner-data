@@ -4,6 +4,8 @@
  :id "executive-wiretaps"
  :influence-cost 3
  :side :runner
+ :stripped-text "As an additional cost to play this event, spend click. Reveal all cards in HQ."
+ :stripped-title "Executive Wiretaps"
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nReveal all cards in HQ."
  :title "Executive Wiretaps"

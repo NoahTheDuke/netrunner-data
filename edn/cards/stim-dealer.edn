@@ -4,6 +4,8 @@
  :id "stim-dealer"
  :influence-cost 3
  :side :runner
+ :stripped-text "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain click."
+ :stripped-title "Stim Dealer"
  :subtype [:connection]
  :text "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click]."
  :title "Stim Dealer"

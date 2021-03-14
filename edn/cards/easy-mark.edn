@@ -4,6 +4,8 @@
  :id "easy-mark"
  :influence-cost 1
  :side :runner
+ :stripped-text "Gain 3 credits."
+ :stripped-title "Easy Mark"
  :subtype [:job]
  :text "Gain 3[credit]."
  :title "Easy Mark"

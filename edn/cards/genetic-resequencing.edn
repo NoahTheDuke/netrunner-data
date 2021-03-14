@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "genetic-resequencing"
  :side :corp
+ :stripped-text "When you score Genetic Resequencing, you may place 1 agenda counter on an agenda in your score area."
+ :stripped-title "Genetic Resequencing"
  :subtype [:research]
  :text "When you score Genetic Resequencing, you may place 1 agenda counter on an agenda in your score area."
  :title "Genetic Resequencing"

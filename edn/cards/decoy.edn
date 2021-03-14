@@ -4,6 +4,8 @@
  :id "decoy"
  :influence-cost 2
  :side :runner
+ :stripped-text "trash: Avoid receiving 1 tag."
+ :stripped-title "Decoy"
  :subtype [:connection]
  :text "[trash]: Avoid receiving 1 tag."
  :title "Decoy"

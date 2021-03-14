@@ -4,6 +4,8 @@
  :influence-limit 17
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "Whenever a Corp card ability causes the Runner to spend or lose at least 1 credit during a run, gain 1 credit."
+ :stripped-title "GameNET: Where Dreams are Real"
  :subtype [:division]
  :text "Whenever a Corp card ability causes the Runner to spend or lose at least 1[credit] during a run, gain 1[credit]."
  :title "GameNET: Where Dreams are Real"

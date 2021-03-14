@@ -4,6 +4,8 @@
  :id "precognition"
  :influence-cost 3
  :side :corp
+ :stripped-text "Look at the top 5 cards of R&D and arrange them in any order."
+ :stripped-title "Precognition"
  :text "Look at the top 5 cards of R&D and arrange them in any order."
  :title "Precognition"
  :type :operation

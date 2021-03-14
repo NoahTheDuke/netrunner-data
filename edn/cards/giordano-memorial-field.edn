@@ -4,6 +4,8 @@
  :id "giordano-memorial-field"
  :influence-cost 2
  :side :corp
+ :stripped-text "Whenever there is a successful run on this server, end the run unless the Runner pays 2 credits for each agenda in his or her score area."
+ :stripped-title "Giordano Memorial Field"
  :subtype [:facility]
  :text "Whenever there is a successful run on this server, end the run unless the Runner pays 2[credit] for each agenda in his or her score area."
  :title "Giordano Memorial Field"

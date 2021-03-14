@@ -4,6 +4,8 @@
  :id "spec-work"
  :influence-cost 1
  :side :runner
+ :stripped-text "As an additional cost to play this event, trash an installed program. Gain 4 credits and draw 2 cards."
+ :stripped-title "Spec Work"
  :subtype [:job]
  :text "As an additional cost to play this event, trash an installed program.\nGain 4[credit] and draw 2 cards."
  :title "Spec Work"

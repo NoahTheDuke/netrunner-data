@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 5
+ :stripped-text "The Runner can spend click click to break up to 2 subroutines on Viktor 2.0. Hosted power counter: Do 1 brain damage. Subroutine Trace 2 If successful, place 1 power counter on Viktor 2.0. Subroutine End the run."
+ :stripped-title "Viktor 2.0"
  :subtype [:code-gate :bioroid :tracer :ap]
  :text "The Runner can spend [click][click] to break up to 2 subroutines on Viktor 2.0.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[subroutine] <trace>Trace 2</trace> If successful, place 1 power counter on Viktor 2.0.\n[subroutine] End the run."
  :title "Viktor 2.0"

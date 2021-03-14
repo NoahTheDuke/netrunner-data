@@ -5,6 +5,8 @@
  :influence-limit 12
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Whenever you access cards from R&D, you and the Corp secretly spend 0 credits, 1 credit or 2 credits. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card from R&D."
+ :stripped-title "Akiko Nisei: Head Case"
  :subtype [:clone]
  :text "Whenever you access cards from R&D, you and the Corp secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card from R&D."
  :title "Akiko Nisei: Head Case"

@@ -4,6 +4,8 @@
  :id "satellite-uplink"
  :influence-cost 3
  :side :runner
+ :stripped-text "Expose up to 2 cards."
+ :stripped-title "Satellite Uplink"
  :text "Expose up to 2 cards."
  :title "Satellite Uplink"
  :type :event

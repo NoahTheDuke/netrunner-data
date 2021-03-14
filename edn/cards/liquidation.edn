@@ -4,6 +4,8 @@
  :id "liquidation"
  :influence-cost 1
  :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Trash any number of your rezzed cards and gain 3 credits for each card trashed."
+ :stripped-title "Liquidation"
  :subtype [:double :gray-ops :transaction]
  :text "As an additional cost to play this operation, spend [click].\nTrash any number of your rezzed cards and gain 3[credit] for each card trashed."
  :title "Liquidation"

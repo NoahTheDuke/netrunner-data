@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 6
+ :stripped-text "Subroutine Do 1 net damage. The Runner loses 2 credits. Subroutine Do 1 net damage. The Runner loses 2 credits. Subroutine Do 1 net damage. The Runner loses 2 credits."
+ :stripped-title "DNA Tracker"
  :subtype [:code-gate :ap]
  :text "[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit]."
  :title "DNA Tracker"

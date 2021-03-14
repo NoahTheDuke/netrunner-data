@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :runner
+ :stripped-text "The first time you make a successful run on HQ each turn, you may expose 1 card."
+ :stripped-title "Silhouette: Stealth Operative"
  :subtype [:natural]
  :text "The first time you make a successful run on HQ each turn, you may expose 1 card."
  :title "Silhouette: Stealth Operative"

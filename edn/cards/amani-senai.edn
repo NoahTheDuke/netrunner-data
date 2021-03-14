@@ -4,6 +4,8 @@
  :id "amani-senai"
  :influence-cost 4
  :side :corp
+ :stripped-text "Whenever an agenda is scored or stolen, you may trace X If successful, add an installed Runner card to the grip. X is the advancement requirement of the scored or stolen agenda."
+ :stripped-title "Amani Senai"
  :subtype [:character]
  :text "Whenever an agenda is scored or stolen, you may <trace>trace X</trace> If successful, add an installed Runner card to the grip. X is the advancement requirement of the scored or stolen agenda."
  :title "Amani Senai"

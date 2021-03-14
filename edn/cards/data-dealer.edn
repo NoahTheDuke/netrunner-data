@@ -4,6 +4,8 @@
  :id "data-dealer"
  :influence-cost 2
  :side :runner
+ :stripped-text "Forfeit an agenda, click: Gain 9 credits."
+ :stripped-title "Data Dealer"
  :subtype [:connection :seedy]
  :text "<strong>Forfeit an agenda,</strong> [click]: Gain 9[credit]."
  :title "Data Dealer"

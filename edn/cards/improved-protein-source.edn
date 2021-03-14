@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "improved-protein-source"
  :side :corp
+ :stripped-text "When Improved Protein Source is scored or stolen, the Runner gains 4 credits."
+ :stripped-title "Improved Protein Source"
  :subtype [:research]
  :text "When Improved Protein Source is scored or stolen, the Runner gains 4[credit]."
  :title "Improved Protein Source"

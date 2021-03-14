@@ -4,6 +4,8 @@
  :id "spooned"
  :influence-cost 3
  :side :runner
+ :stripped-text "Make a run. The first time you break all subroutines on a code gate during this run, trash that code gate."
+ :stripped-title "Spooned"
  :subtype [:run :sabotage]
  :text "Make a run. The first time you break all subroutines on a <strong>code gate</strong> during this run, trash that <strong>code gate</strong>."
  :title "Spooned"

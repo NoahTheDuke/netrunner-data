@@ -6,8 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "6 credits: Derez a sentry currently being encountered. 1 credit: +1 strength."
+ :stripped-title "Flashbang"
  :subtype [:icebreaker :killer]
- :text "6[credit]: Derez a sentry currently being encountered.\n1[credit]: +1 strength."
+ :text "6[credit]: Derez a <strong>sentry</strong> currently being encountered.\n1[credit]: +1 strength."
  :title "Flashbang"
  :type :program
  :uniqueness false}

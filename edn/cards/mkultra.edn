@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "Whenever you encounter a sentry, you may install MKUltra from your heap (paying its install cost). 3 credits: +2 strength. Break up to 2 sentry subroutines, if able."
+ :stripped-title "MKUltra"
  :subtype [:icebreaker :killer]
  :text "Whenever you encounter a <strong>sentry</strong>, you may install MKUltra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>sentry</strong> subroutines, if able."
  :title "MKUltra"

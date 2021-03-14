@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "mandatory-seed-replacement"
  :side :corp
+ :stripped-text "When you score Mandatory Seed Replacement, rearrange any number of ice protecting all servers."
+ :stripped-title "Mandatory Seed Replacement"
  :subtype [:security]
  :text "When you score Mandatory Seed Replacement, rearrange any number of ice protecting all servers."
  :title "Mandatory Seed Replacement"

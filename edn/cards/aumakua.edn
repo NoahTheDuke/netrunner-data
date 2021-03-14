@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "Whenever you expose a card or access cards and do not steal or trash any of them, place 1 virus counter on Aumakua. Aumakua has +1 strength for each virus counter on it. 1 credit: Break ice subroutine."
+ :stripped-title "Aumakua"
  :subtype [:icebreaker :ai :virus]
  :text "Whenever you expose a card or access cards and do not steal or trash any of them, place 1 virus counter on Aumakua.\nAumakua has +1 strength for each virus counter on it.\n1[credit]: Break ice subroutine."
  :title "Aumakua"

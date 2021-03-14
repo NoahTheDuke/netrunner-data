@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "Whenever you encounter a barrier, you may install Paperclip from your heap (paying its install cost). X credits: +X strength. Break up to X barrier subroutines, if able."
+ :stripped-title "Paperclip"
  :subtype [:icebreaker :fracter]
  :text "Whenever you encounter a <strong>barrier</strong>, you may install Paperclip from your heap (paying its install cost).\nX[credit]: +X strength. Break up to X <strong>barrier</strong> subroutines, if able."
  :title "Paperclip"

@@ -4,6 +4,8 @@
  :id "the-gauntlet"
  :influence-cost 1
  :side :runner
+ :stripped-text "+2 mu Whenever you access cards from HQ during a run, access 1 additional card for each piece of ice protecting HQ that you broke all subroutines on during this run. Limit 1 console per player."
+ :stripped-title "The Gauntlet"
  :subtype [:console]
  :text "+2[mu]\nWhenever you access cards from HQ during a run, access 1 additional card for each piece of ice protecting HQ that you broke all subroutines on during this run.\nLimit 1 <strong>console</strong> per player."
  :title "The Gauntlet"

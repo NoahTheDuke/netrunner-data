@@ -4,6 +4,8 @@
  :id "special-order"
  :influence-cost 2
  :side :runner
+ :stripped-text "Search your stack for an icebreaker, reveal it, and add it to your grip. Shuffle your stack."
+ :stripped-title "Special Order"
  :text "Search your stack for an <strong>icebreaker</strong>, reveal it, and add it to your grip. Shuffle your stack."
  :title "Special Order"
  :type :event

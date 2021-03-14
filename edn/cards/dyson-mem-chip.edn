@@ -4,6 +4,8 @@
  :id "dyson-mem-chip"
  :influence-cost 0
  :side :runner
+ :stripped-text "+1 mu, +1 link"
+ :stripped-title "Dyson Mem Chip"
  :subtype [:chip :link]
  :text "+1[mu], +1[link]"
  :title "Dyson Mem Chip"

@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "self-destruct-chips"
  :side :corp
+ :stripped-text "The Runner's maximum hand size is reduced by 1."
+ :stripped-title "Self-Destruct Chips"
  :subtype [:security]
  :text "The Runner's maximum hand size is reduced by 1."
  :title "Self-Destruct Chips"

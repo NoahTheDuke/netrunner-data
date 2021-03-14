@@ -5,6 +5,8 @@
  :influence-cost 5
  :side :corp
  :strength 7
+ :stripped-text "The Runner can spend click to break any subroutine on this ice. Each time they do, increase your allotted click for your next turn by 1. Subroutine Do 2 brain damage. Subroutine Trash 1 installed Runner card. Gain 3 credits. Subroutine End the run."
+ :stripped-title "Tyr"
  :subtype [:sentry :bioroid :ap :destroyer]
  :text "The Runner can spend [click] to break any subroutine on this ice. Each time they do, increase your allotted [click] for your next turn by 1.\n[subroutine] Do 2 brain damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run."
  :title "Týr"

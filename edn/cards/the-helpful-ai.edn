@@ -4,6 +4,8 @@
  :id "the-helpful-ai"
  :influence-cost 2
  :side :runner
+ :stripped-text "+1 link trash: Choose an icebreaker. That icebreaker has +2 strength until the end of the turn."
+ :stripped-title "The Helpful AI"
  :subtype [:connection :link :virtual]
  :text "+1[link]\n[trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn."
  :title "The Helpful AI"

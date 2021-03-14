@@ -4,6 +4,8 @@
  :id "interns"
  :influence-cost 0
  :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Install a non-operation card from Archives or HQ, ignoring the install cost."
+ :stripped-title "Interns"
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nInstall a non-operation card from Archives or HQ, ignoring the install cost."
  :title "Interns"

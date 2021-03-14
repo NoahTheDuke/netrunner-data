@@ -5,6 +5,8 @@
  :influence-cost 4
  :memory-cost 1
  :side :runner
+ :stripped-text "Place 3 power counters on D4v1d when it is installed. Hosted power counter: Break ice subroutine on a piece of ice that has a strength of 5 or greater."
+ :stripped-title "D4v1d"
  :text "Place 3 power counters on D4v1d when it is installed.\n<strong>Hosted power counter:</strong> Break ice subroutine on a piece of ice that has a strength of 5 or greater."
  :title "D4v1d"
  :type :program

@@ -4,6 +4,8 @@
  :id "hq-interface"
  :influence-cost 2
  :side :runner
+ :stripped-text "Whenever you access cards from HQ, access 1 additional card from HQ."
+ :stripped-title "HQ Interface"
  :text "Whenever you access cards from HQ, access 1 additional card from HQ."
  :title "HQ Interface"
  :type :hardware

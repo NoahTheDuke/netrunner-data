@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "When an encounter in which you used Nfr to break all subroutines on that piece of ice ends, place 1 power counter on Nfr. Nfr has +1 strength for each power counter on it. 1 credit: Break barrier subroutine."
+ :stripped-title "Nfr"
  :subtype [:icebreaker :fracter]
  :text "When an encounter in which you used Nfr to break all subroutines on that piece of ice ends, place 1 power counter on Nfr.\nNfr has +1 strength for each power counter on it.\n1[credit]: Break <strong>barrier</strong> subroutine."
  :title "Nfr"

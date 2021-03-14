@@ -4,6 +4,8 @@
  :id "capstone"
  :influence-cost 3
  :side :runner
+ :stripped-text "click: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card."
+ :stripped-title "Capstone"
  :text "[click]: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card."
  :title "Capstone"
  :type :hardware

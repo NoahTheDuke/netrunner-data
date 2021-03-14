@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 5
+ :stripped-text "Subroutine Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag."
+ :stripped-title "Bandwidth"
  :subtype [:code-gate]
  :text "[subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag."
  :title "Bandwidth"

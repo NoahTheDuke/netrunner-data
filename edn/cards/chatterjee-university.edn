@@ -4,6 +4,8 @@
  :id "chatterjee-university"
  :influence-cost 0
  :side :runner
+ :stripped-text "click: Place 1 power counter on Chatterjee University. click: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter."
+ :stripped-title "Chatterjee University"
  :subtype [:location :ritzy]
  :text "[click]: Place 1 power counter on Chatterjee University.\n[click]: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter."
  :title "Chatterjee University"

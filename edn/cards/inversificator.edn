@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "The first time you pass a piece of ice each turn after an encounter in which you used Inversificator to break all subroutines, you may swap that ice with another piece of ice. 1 credit: Break code gate subroutine. 1 credit: +1 strength. Errata from CR 1.0"
+ :stripped-title "Inversificator"
  :subtype [:icebreaker :decoder]
  :text "The first time you pass a piece of ice each turn after an encounter in which you used Inversificator to break all subroutines, you may swap that ice with another piece of ice.\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.\n<errata>Errata from CR 1.0</errata>"
  :title "Inversificator"

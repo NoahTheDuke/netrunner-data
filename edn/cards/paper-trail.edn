@@ -5,6 +5,8 @@
  :id "paper-trail"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you score Paper Trail, trace 6 If successful, trash all connection and job resources."
+ :stripped-title "Paper Trail"
  :subtype [:security]
  :text "When you score Paper Trail, <trace>trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources."
  :title "Paper Trail"

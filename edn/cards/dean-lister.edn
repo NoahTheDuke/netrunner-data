@@ -4,6 +4,8 @@
  :id "dean-lister"
  :influence-cost 0
  :side :runner
+ :stripped-text "trash: Choose an icebreaker. Until the end of the run, that icebreaker has +1 strength for each card in your grip."
+ :stripped-title "Dean Lister"
  :subtype [:connection]
  :text "[trash]: Choose an <strong>icebreaker</strong>. Until the end of the run, that <strong>icebreaker</strong> has +1 strength for each card in your grip."
  :title "Dean Lister"

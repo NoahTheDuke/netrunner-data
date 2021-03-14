@@ -4,6 +4,8 @@
  :id "keros-mcintyre"
  :influence-cost 3
  :side :runner
+ :stripped-text "The first time you derez a piece of ice each turn, gain 2 credits."
+ :stripped-title "Keros Mcintyre"
  :subtype [:connection]
  :text "The first time you derez a piece of ice each turn, gain 2[credit]."
  :title "Keros Mcintyre"

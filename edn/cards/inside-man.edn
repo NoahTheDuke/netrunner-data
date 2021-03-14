@@ -4,6 +4,8 @@
  :id "inside-man"
  :influence-cost 0
  :side :runner
+ :stripped-text "2 recurring credits Use these credits to install hardware."
+ :stripped-title "Inside Man"
  :subtype [:connection]
  :text "2[recurring-credit]\nUse these credits to install hardware."
  :title "Inside Man"

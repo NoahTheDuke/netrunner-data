@@ -4,6 +4,8 @@
  :id "the-root"
  :influence-cost 3
  :side :corp
+ :stripped-text "3 recurring credits Use these credits to advance, install, and rez cards."
+ :stripped-title "The Root"
  :subtype [:beanstalk]
  :text "3[recurring-credit]\nUse these credits to advance, install, and rez cards."
  :title "The Root"

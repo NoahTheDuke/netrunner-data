@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 1
+ :stripped-text "Subroutine Trash 1 program. Subroutine Do 2 net damage."
+ :stripped-title "Cobra"
  :subtype [:sentry :destroyer :ap]
  :text "[subroutine] Trash 1 program.\n[subroutine] Do 2 net damage."
  :title "Cobra"

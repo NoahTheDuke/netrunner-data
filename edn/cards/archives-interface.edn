@@ -4,6 +4,8 @@
  :id "archives-interface"
  :influence-cost 2
  :side :runner
+ :stripped-text "Whenever you access cards in Archives, you may remove 1 card in Archives from the game, instead of accessing it."
+ :stripped-title "Archives Interface"
  :text "Whenever you access cards in Archives, you may remove 1 card in Archives from the game, instead of accessing it."
  :title "Archives Interface"
  :type :hardware

@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "1 recurring credit Spend hosted credits to use hardware and programs."
+ :stripped-title "Mantle"
  :subtype [:stealth]
  :text "1[recurring-credit]\nSpend hosted credits to use hardware and programs."
  :title "Mantle"

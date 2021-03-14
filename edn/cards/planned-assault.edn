@@ -4,6 +4,8 @@
  :id "planned-assault"
  :influence-cost 2
  :side :runner
+ :stripped-text "As an additional cost to play this event, spend click. Search your stack for a run event and play that run event (paying its play cost), ignoring any additional costs. Shuffle your stack."
+ :stripped-title "Planned Assault"
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>run</strong> event and play that <strong>run</strong> event (paying its play cost), ignoring any additional costs. Shuffle your stack."
  :title "Planned Assault"

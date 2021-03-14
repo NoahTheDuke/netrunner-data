@@ -4,6 +4,8 @@
  :id "fear-the-masses"
  :influence-cost 2
  :side :runner
+ :stripped-text "Make a run on HQ. If successful, instead of accessing cards, force the Corp to trash the top card of R&D. You may reveal X copies of Fear the Masses from your grip to force the Corp to trash X additional cards. Limit 6 per deck."
+ :stripped-title "Fear the Masses"
  :subtype [:run :sabotage]
  :text "Make a run on HQ. If successful, instead of accessing cards, force the Corp to trash the top card of R&D. You may reveal X copies of Fear the Masses from your grip to force the Corp to trash X additional cards.\nLimit 6 per deck."
  :title "Fear the Masses"

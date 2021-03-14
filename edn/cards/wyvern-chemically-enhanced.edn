@@ -5,6 +5,8 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :runner
+ :stripped-text "Draft format only. If you have more anarch cards installed than any other faction, whenever you trash a Corp card, shuffle the top card of your heap into your stack. You must maintain the order of your heap. Errata from CR 1.0"
+ :stripped-title "Wyvern: Chemically Enhanced"
  :subtype [:g-mod]
  :text "Draft format only.\nIf you have more [anarch] cards installed than any other faction, whenever you trash a Corp card, shuffle the top card of your heap into your stack. You must maintain the order of your heap.\n<errata>Errata from CR 1.0</errata>"
  :title "Wyvern: Chemically Enhanced"

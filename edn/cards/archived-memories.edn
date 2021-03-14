@@ -4,6 +4,8 @@
  :id "archived-memories"
  :influence-cost 2
  :side :corp
+ :stripped-text "Add 1 card from Archives to HQ."
+ :stripped-title "Archived Memories"
  :text "Add 1 card from Archives to HQ."
  :title "Archived Memories"
  :type :operation

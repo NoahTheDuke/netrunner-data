@@ -4,6 +4,8 @@
  :id "hokusai-grid"
  :influence-cost 2
  :side :corp
+ :stripped-text "Whenever there is a successful run on this server, do 1 net damage. Limit 1 region per server."
+ :stripped-title "Hokusai Grid"
  :subtype [:region]
  :text "Whenever there is a successful run on this server, do 1 net damage.\nLimit 1 <strong>region</strong> per server."
  :title "Hokusai Grid"

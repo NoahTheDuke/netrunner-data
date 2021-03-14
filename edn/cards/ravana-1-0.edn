@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 5
+ :stripped-text "The Runner can spend click to break any subroutine on Ravana 1.0. Subroutine Resolve a subroutine on another piece of rezzed bioroid ice. Subroutine Resolve a subroutine on another piece of rezzed bioroid ice."
+ :stripped-title "Ravana 1.0"
  :subtype [:code-gate :bioroid]
  :text "The Runner can spend [click] to break any subroutine on Ravana 1.0.\n[subroutine] Resolve a subroutine on another piece of rezzed <strong>bioroid</strong> ice.\n[subroutine] Resolve a subroutine on another piece of rezzed <strong>bioroid</strong> ice."
  :title "Ravana 1.0"

@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 0
+ :stripped-text "Subroutine The Runner trashes an installed piece of hardware. Trash Lab Dog."
+ :stripped-title "Lab Dog"
  :subtype [:trap]
  :text "[subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog."
  :title "Lab Dog"

@@ -4,6 +4,8 @@
  :id "kongamato"
  :influence-cost 1
  :side :runner
+ :stripped-text "trash: Break the first subroutine on the encountered piece of ice."
+ :stripped-title "Kongamato"
  :subtype [:virtual]
  :text "[trash]: Break the first subroutine on the encountered piece of ice."
  :title "Kongamato"

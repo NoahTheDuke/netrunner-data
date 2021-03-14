@@ -4,6 +4,8 @@
  :id "itinerant-protesters"
  :influence-cost 2
  :side :runner
+ :stripped-text "This card is not trashed until another current is played or an agenda is scored. The Corp's maximum hand size is reduced by 1 for each bad publicity he or she has."
+ :stripped-title "Itinerant Protesters"
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's maximum hand size is reduced by 1 for each bad publicity he or she has."
  :title "Itinerant Protesters"

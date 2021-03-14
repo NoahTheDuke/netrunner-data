@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 0
+ :stripped-text "Subroutine End the run unless the Runner pays 1 credit. Subroutine End the run unless the Runner pays 1 credit. Subroutine End the run unless the Runner pays 1 credit. Subroutine End the run unless the Runner pays 1 credit. Subroutine End the run unless the Runner pays 1 credit. Subroutine End the run unless the Runner pays 1 credit."
+ :stripped-title "Endless EULA"
  :subtype [:barrier]
  :text "[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit]."
  :title "Endless EULA"

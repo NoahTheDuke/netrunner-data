@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 4
+ :stripped-text "When the Runner encounters Merlin, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Merlin gains the subroutines of the revealed ice in the order of your choice. Subroutine Do 2 net damage."
+ :stripped-title "Merlin"
  :subtype [:code-gate :grail :ap]
  :text "When the Runner encounters Merlin, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Merlin gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Do 2 net damage."
  :title "Merlin"

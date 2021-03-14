@@ -4,6 +4,8 @@
  :id "inside-job"
  :influence-cost 3
  :side :runner
+ :stripped-text "Make a run. Bypass the first piece of ice encountered during this run."
+ :stripped-title "Inside Job"
  :subtype [:run]
  :text "Make a run. Bypass the first piece of ice encountered during this run."
  :title "Inside Job"

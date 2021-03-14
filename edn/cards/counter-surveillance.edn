@@ -4,6 +4,8 @@
  :id "counter-surveillance"
  :influence-cost 3
  :side :runner
+ :stripped-text "click, trash: Make a run. If successful, instead of accessing, pay X credits to access up to X cards from this server, if able. X is the number of tags you have."
+ :stripped-title "Counter Surveillance"
  :subtype [:clan]
  :text "[click], [trash]: Make a run. If successful, instead of accessing, pay X[credit] to access up to X cards from this server, if able. X is the number of tags you have."
  :title "Counter Surveillance"

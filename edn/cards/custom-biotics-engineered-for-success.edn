@@ -4,6 +4,8 @@
  :influence-limit 22
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "You cannot include Jinteki cards in this deck."
+ :stripped-title "Custom Biotics: Engineered for Success"
  :subtype [:division]
  :text "You cannot include Jinteki cards in this deck."
  :title "Custom Biotics: Engineered for Success"

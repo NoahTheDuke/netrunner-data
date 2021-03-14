@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "1 credit: Break tracer subroutine. 2 credits: +3 strength."
+ :stripped-title "Gingerbread"
  :subtype [:icebreaker]
  :text "1[credit]: Break <strong>tracer</strong> subroutine.\n2[credit]: +3 strength."
  :title "Gingerbread"

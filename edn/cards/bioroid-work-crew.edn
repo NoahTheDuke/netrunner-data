@@ -4,6 +4,8 @@
  :id "bioroid-work-crew"
  :influence-cost 4
  :side :corp
+ :stripped-text "trash: Install 1 card, paying all costs. Use this ability only during the next paid ability window after playing and resolving an operation. Errata from FAQ 4.1"
+ :stripped-title "Bioroid Work Crew"
  :subtype [:bioroid]
  :text "[trash]: Install 1 card, paying all costs. Use this ability only during the next paid ability window after playing and resolving an operation.\n<errata>Errata from FAQ 4.1</errata>"
  :title "Bioroid Work Crew"

@@ -5,6 +5,7 @@
  :id "vanity-project"
  :influence-cost 1
  :side :corp
+ :stripped-title "Vanity Project"
  :title "Vanity Project"
  :type :agenda
  :uniqueness false}

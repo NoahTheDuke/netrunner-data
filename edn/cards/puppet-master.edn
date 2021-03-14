@@ -4,6 +4,8 @@
  :faction :nbn
  :id "puppet-master"
  :side :corp
+ :stripped-text "Whenever the Runner makes a successful run, you may place 1 advancement token on a card that can be advanced."
+ :stripped-title "Puppet Master"
  :subtype [:initiative]
  :text "Whenever the Runner makes a successful run, you may place 1 advancement token on a card that can be advanced."
  :title "Puppet Master"

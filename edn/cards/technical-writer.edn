@@ -4,6 +4,8 @@
  :id "technical-writer"
  :influence-cost 0
  :side :runner
+ :stripped-text "Whenever you install a piece of hardware or a program, place 1 credit from the bank on Technical Writer. click,trash: Take all credits from Technical Writer."
+ :stripped-title "Technical Writer"
  :text "Whenever you install a piece of hardware or a program, place 1[credit] from the bank on Technical Writer.\n[click],[trash]: Take all credits from Technical Writer."
  :title "Technical Writer"
  :type :resource

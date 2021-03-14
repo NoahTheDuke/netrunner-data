@@ -4,6 +4,8 @@
  :id "honeyfarm"
  :influence-cost 0
  :side :corp
+ :stripped-text "If Honeyfarm is accessed from R&D, the Runner must reveal it. When the Runner accesses Honeyfarm, he or she loses 1 credit."
+ :stripped-title "Honeyfarm"
  :subtype [:ambush]
  :text "If Honeyfarm is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Honeyfarm, he or she loses 1[credit]."
  :title "Honeyfarm"

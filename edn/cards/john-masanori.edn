@@ -4,6 +4,8 @@
  :id "john-masanori"
  :influence-cost 0
  :side :runner
+ :stripped-text "The first time you make a successful run each turn, draw 1 card. The first time you make an unsuccessful run each turn, take 1 tag."
+ :stripped-title "John Masanori"
  :subtype [:connection]
  :text "The first time you make a successful run each turn, draw 1 card.\nThe first time you make an unsuccessful run each turn, take 1 tag."
  :title "John Masanori"

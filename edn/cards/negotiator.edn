@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "The Runner can pay 2 credits to break any subroutine on Negotiator. Subroutine The Corp gains 2 credits. Subroutine Trash 1 program."
+ :stripped-title "Negotiator"
  :subtype [:sentry :destroyer]
  :text "The Runner can pay 2[credit] to break any subroutine on Negotiator.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program."
  :title "Negotiator"

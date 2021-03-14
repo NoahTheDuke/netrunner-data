@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "When your turn ends, if you accessed at least 1 card this turn, gain 2 credits and flip this identity. Flip side: When your turn begins, draw 1 card and lose 1 credit. When your turn ends, if you did not access at least 1 card this turn, flip this identity."
+ :stripped-title "Hoshiko Shiro: Untold Protagonist"
  :subtype [:natural]
  :text "When your turn ends, if you accessed at least 1 card this turn, gain 2[credit] and flip this identity.\nFlip side:\nWhen your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access at least 1 card this turn, flip this identity."
  :title "Hoshiko Shiro: Untold Protagonist"

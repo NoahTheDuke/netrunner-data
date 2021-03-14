@@ -4,6 +4,8 @@
  :id "nanoetching-matrix"
  :influence-cost 2
  :side :corp
+ :stripped-text "click: Gain 2 credits. Use this ability only once per turn. When the Runner trashes this asset, you may gain 2 credits."
+ :stripped-title "Nanoetching Matrix"
  :text "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may gain 2[credit]."
  :title "Nanoetching Matrix"
  :trash-cost 3

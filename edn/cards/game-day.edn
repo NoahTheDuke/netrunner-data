@@ -4,6 +4,8 @@
  :id "game-day"
  :influence-cost 3
  :side :runner
+ :stripped-text "As an additional cost to play this event, spend click. If you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size."
+ :stripped-title "Game Day"
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nIf you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size."
  :title "Game Day"

@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 1
+ :stripped-text "Subroutine The Runner cannot jack out for the remainder of this run. Trash Whirlpool."
+ :stripped-title "Whirlpool"
  :subtype [:trap]
  :text "[subroutine] The Runner cannot jack out for the remainder of this run. Trash Whirlpool."
  :title "Whirlpool"

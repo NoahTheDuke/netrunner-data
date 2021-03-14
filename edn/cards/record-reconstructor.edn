@@ -4,6 +4,8 @@
  :id "record-reconstructor"
  :influence-cost 1
  :side :runner
+ :stripped-text "Whenever you make a successful run on Archives, instead of accessing cards you may choose 1 faceup card from Archives and add it to the top of R&D."
+ :stripped-title "Record Reconstructor"
  :text "Whenever you make a successful run on Archives, instead of accessing cards you may choose 1 faceup card from Archives and add it to the top of R&D."
  :title "Record Reconstructor"
  :type :hardware

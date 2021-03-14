@@ -4,6 +4,8 @@
  :id "commercialization"
  :influence-cost 1
  :side :corp
+ :stripped-text "Choose a piece of ice. Gain 1 credit for each advancement token on that ice."
+ :stripped-title "Commercialization"
  :subtype [:transaction]
  :text "Choose a piece of ice. Gain 1[credit] for each advancement token on that ice."
  :title "Commercialization"

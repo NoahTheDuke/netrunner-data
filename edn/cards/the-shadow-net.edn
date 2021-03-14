@@ -4,6 +4,8 @@
  :id "the-shadow-net"
  :influence-cost 0
  :side :runner
+ :stripped-text "click, forfeit an agenda: Play an event from your heap, ignoring all costs."
+ :stripped-title "The Shadow Net"
  :subtype [:virtual]
  :text "[click]<strong>, forfeit an agenda:</strong> Play an event from your heap, ignoring all costs."
  :title "The Shadow Net"

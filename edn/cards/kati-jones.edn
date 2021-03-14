@@ -4,6 +4,8 @@
  :id "kati-jones"
  :influence-cost 0
  :side :runner
+ :stripped-text "You cannot use Kati Jones more than once per turn. click: Place 3 credits from the bank on Kati Jones. click: Take all credits from Kati Jones."
+ :stripped-title "Kati Jones"
  :subtype [:connection]
  :text "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones."
  :title "Kati Jones"

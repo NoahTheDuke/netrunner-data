@@ -4,6 +4,8 @@
  :id "inject"
  :influence-cost 2
  :side :runner
+ :stripped-text "Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1 credit for each program trashed, and add the rest of the revealed cards to your grip."
+ :stripped-title "Inject"
  :text "Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1[credit] for each program trashed, and add the rest of the revealed cards to your grip."
  :title "Inject"
  :type :event

@@ -4,6 +4,8 @@
  :id "dr-lovegood"
  :influence-cost 1
  :side :runner
+ :stripped-text "When your turn begins, choose one of your installed cards. The text box of that card is blank for the remainder of the turn."
+ :stripped-title "Dr. Lovegood"
  :subtype [:connection]
  :text "When your turn begins, choose one of your installed cards. The text box of that card is blank for the remainder of the turn."
  :title "Dr. Lovegood"

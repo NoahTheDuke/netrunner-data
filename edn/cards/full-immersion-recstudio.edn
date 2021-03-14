@@ -4,6 +4,8 @@
  :id "full-immersion-recstudio"
  :influence-cost 4
  :side :corp
+ :stripped-text "Full Immersion RecStudio can host up to 2 assets and/or agendas. The trash cost of Full Immersion RecStudio is increased by 3 for each card hosted on it."
+ :stripped-title "Full Immersion RecStudio"
  :subtype [:facility]
  :text "Full Immersion RecStudio can host up to 2 assets and/or agendas.\nThe trash cost of Full Immersion RecStudio is increased by 3 for each card hosted on it."
  :title "Full Immersion RecStudio"

@@ -4,6 +4,8 @@
  :id "feedback-filter"
  :influence-cost 1
  :side :runner
+ :stripped-text "3 credits: Prevent 1 net damage. trash: Prevent up to 2 brain damage."
+ :stripped-title "Feedback Filter"
  :subtype [:gear]
  :text "3[credit]: Prevent 1 net damage.\n[trash]: Prevent up to 2 brain damage."
  :title "Feedback Filter"

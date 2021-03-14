@@ -5,6 +5,8 @@
  :influence-limit 12
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "click: Run Archives. If that run would be declared successful, instead change the attacked server to R&D or HQ. Then, the run is declared successful. Use this ability only once per turn. Errata from CR 1.4"
+ :stripped-title "Omar Keung: Conspiracy Theorist"
  :subtype [:natural]
  :text "[click]: Run Archives. If that run would be declared successful, instead change the attacked server to R&D or HQ. Then, the run is declared successful. Use this ability only once per turn.\n<errata>Errata from CR 1.4</errata>"
  :title "Omar Keung: Conspiracy Theorist"

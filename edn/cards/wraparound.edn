@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 0
+ :stripped-text "If there is no installed fracter, Wraparound has +7 strength. Subroutine End the run."
+ :stripped-title "Wraparound"
  :subtype [:barrier]
  :text "If there is no installed <strong>fracter</strong>, Wraparound has +7 strength.\n[subroutine] End the run."
  :title "Wraparound"

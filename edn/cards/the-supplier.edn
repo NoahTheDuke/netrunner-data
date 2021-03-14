@@ -4,6 +4,8 @@
  :id "the-supplier"
  :influence-cost 2
  :side :runner
+ :stripped-text "click: Host a resource or piece of hardware from your grip on The Supplier. When your turn begins, you may install a hosted card, lowering the install cost by 2."
+ :stripped-title "The Supplier"
  :subtype [:connection]
  :text "[click]: Host a resource or piece of hardware from your grip on The Supplier.\nWhen your turn begins, you may install a hosted card, lowering the install cost by 2."
  :title "The Supplier"

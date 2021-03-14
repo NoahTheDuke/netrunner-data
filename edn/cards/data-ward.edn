@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 8
+ :stripped-text "When the Runner encounters Data Ward, he or she must pay 3 credits or take 1 tag. Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged."
+ :stripped-title "Data Ward"
  :subtype [:barrier]
  :text "When the Runner encounters Data Ward, he or she must pay 3[credit] or take 1 tag.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged."
  :title "Data Ward"

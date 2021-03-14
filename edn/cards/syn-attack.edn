@@ -4,6 +4,8 @@
  :id "syn-attack"
  :influence-cost 3
  :side :runner
+ :stripped-text "As an additional cost to play this event, spend click. The Corp must either discard 2 cards or draw 4 cards."
+ :stripped-title "SYN Attack"
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nThe Corp must either discard 2 cards or draw 4 cards."
  :title "SYN Attack"

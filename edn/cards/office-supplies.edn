@@ -4,6 +4,8 @@
  :id "office-supplies"
  :influence-cost 3
  :side :runner
+ :stripped-text "Reduce the play cost of Office Supplies by 1 for each link you have. Gain 4 credits or draw 4 cards."
+ :stripped-title "Office Supplies"
  :text "Reduce the play cost of Office Supplies by 1 for each [link] you have.\nGain 4[credit] or draw 4 cards."
  :title "Office Supplies"
  :type :event

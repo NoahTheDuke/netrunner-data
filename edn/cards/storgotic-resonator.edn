@@ -4,6 +4,8 @@
  :id "storgotic-resonator"
  :influence-cost 2
  :side :corp
+ :stripped-text "The first time each turn you trash (from any location) a card that matches the faction of the Runner's identity, place 1 power counter on this asset. click, hosted power counter: Do 1 net damage."
+ :stripped-title "Storgotic Resonator"
  :subtype [:hostile]
  :text "The first time each turn you trash <i>(from any location)</i> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage."
  :title "Storgotic Resonator"

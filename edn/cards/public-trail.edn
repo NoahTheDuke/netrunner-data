@@ -4,6 +4,8 @@
  :id "public-trail"
  :influence-cost 2
  :side :corp
+ :stripped-text "Play only if the Runner made a successful run during their last turn. Give the Runner 1 tag unless they pay 8 credits."
+ :stripped-title "Public Trail"
  :subtype [:gray-ops]
  :text "Play only if the Runner made a successful run during their last turn.\nGive the Runner 1 tag unless they pay 8[credit]."
  :title "Public Trail"

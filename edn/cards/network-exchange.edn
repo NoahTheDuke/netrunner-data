@@ -4,6 +4,8 @@
  :id "network-exchange"
  :influence-cost 2
  :side :runner
+ :stripped-text "The install cost of each piece of ice that is not installed in the innermost position is increased by 1."
+ :stripped-title "Network Exchange"
  :subtype [:virtual]
  :text "The install cost of each piece of ice that is not installed in the innermost position is increased by 1."
  :title "Network Exchange"

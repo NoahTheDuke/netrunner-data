@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "oaktown-renovation"
  :side :corp
+ :stripped-text "Install Oaktown Renovation faceup. Whenever you advance Oaktown Renovation, gain 2 credits (or 3 credits if there are 5 or more advancement tokens on Oaktown Renovation)."
+ :stripped-title "Oaktown Renovation"
  :subtype [:initiative :public]
  :text "Install Oaktown Renovation faceup.\nWhenever you advance Oaktown Renovation, gain 2[credit] (or 3[credit] if there are 5 or more advancement tokens on Oaktown Renovation)."
  :title "Oaktown Renovation"

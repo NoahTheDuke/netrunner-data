@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "underway-renovation"
  :side :corp
+ :stripped-text "Install Underway Renovation faceup. Whenever you advance Underway Renovation, trash the top card of the Runner's stack (or top 2 cards instead if there are 4 or more advancement tokens on Underway Renovation)."
+ :stripped-title "Underway Renovation"
  :subtype [:initiative :public]
  :text "Install Underway Renovation faceup.\nWhenever you advance Underway Renovation, trash the top card of the Runner's stack (or top 2 cards instead if there are 4 or more advancement tokens on Underway Renovation)."
  :title "Underway Renovation"

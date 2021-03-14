@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "1 credit: Break ice subroutine. 1 credit: +1 strength. click: Place 1 virus counter on Crypsis. When an encounter with a piece of ice in which you used Crypsis to break a subroutine ends, remove 1 hosted virus counter or trash Crypsis."
+ :stripped-title "Crypsis"
  :subtype [:icebreaker :ai :virus]
  :text "1[credit]: Break ice subroutine.\n1[credit]: +1 strength.\n[click]: Place 1 virus counter on Crypsis.\nWhen an encounter with a piece of ice in which you used Crypsis to break a subroutine ends, remove 1 hosted virus counter or trash Crypsis."
  :title "Crypsis"

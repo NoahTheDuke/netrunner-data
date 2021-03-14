@@ -5,6 +5,8 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
+ :stripped-text "2 recurring credits Use these credits to pay for using programs."
+ :stripped-title "Multithreader"
  :text "2[recurring-credit]\nUse these credits to pay for using programs."
  :title "Multithreader"
  :type :program

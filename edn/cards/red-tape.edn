@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 5
+ :stripped-text "Subroutine All ice has +3 strength for the remainder of this run."
+ :stripped-title "Red Tape"
  :subtype [:code-gate]
  :text "[subroutine] All ice has +3 strength for the remainder of this run."
  :title "Red Tape"

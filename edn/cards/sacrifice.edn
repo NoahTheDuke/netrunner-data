@@ -4,6 +4,8 @@
  :id "sacrifice"
  :influence-cost 1
  :side :corp
+ :stripped-text "As an additional cost to play this operation, forfeit an agenda. Remove 1 bad publicity per agenda point that the forfeited agenda was worth. Gain 1 credit for each bad publicity removed."
+ :stripped-title "Sacrifice"
  :text "As an additional cost to play this operation, forfeit an agenda.\nRemove 1 bad publicity per agenda point that the forfeited agenda was worth. Gain 1[credit] for each bad publicity removed."
  :title "Sacrifice"
  :type :operation

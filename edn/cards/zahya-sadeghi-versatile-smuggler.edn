@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :runner
+ :stripped-text "Whenever a run on HQ or R&D ends, you may gain 1 credit for each time you accessed a card during that run. Use this ability only once per turn."
+ :stripped-title "Zahya Sadeghi: Versatile Smuggler"
  :subtype [:cyborg]
  :text "Whenever a run on HQ or R&D ends, you may gain 1[credit] for each time you accessed a card during that run. Use this ability only once per turn."
  :title "Zahya Sadeghi: Versatile Smuggler"

@@ -5,6 +5,8 @@
  :influence-cost 4
  :side :corp
  :strength 5
+ :stripped-text "Subroutine Look at the top 3 cards of R&D and arrange them in any order. Subroutine The Runner accesses the top card of R&D unless the Corp pays 1 credit."
+ :stripped-title "Shiro"
  :subtype [:code-gate]
  :text "[subroutine] Look at the top 3 cards of R&D and arrange them in any order.\n[subroutine] The Runner accesses the top card of R&D unless the Corp pays 1[credit]."
  :title "Shiro"

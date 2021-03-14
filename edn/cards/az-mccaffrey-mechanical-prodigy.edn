@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "The first job resource, connection resource, or piece of hardware you install each turn costs 1 credit less to install."
+ :stripped-title "Az McCaffrey: Mechanical Prodigy"
  :subtype [:cyborg]
  :text "The first <strong>job</strong> resource, <strong>connection</strong> resource, or piece of hardware you install each turn costs 1[credit] less to install."
  :title "Az McCaffrey: Mechanical Prodigy"

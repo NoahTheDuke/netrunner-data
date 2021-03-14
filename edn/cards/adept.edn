@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 2
+ :stripped-text "Adept has +1 strength for each unused MU. 2 credits: Break sentry or barrier subroutine."
+ :stripped-title "Adept"
  :subtype [:icebreaker :fracter :killer]
  :text "Adept has +1 strength for each unused MU.\n2[credit]: Break <strong>sentry</strong> or <strong>barrier</strong> subroutine."
  :title "Adept"

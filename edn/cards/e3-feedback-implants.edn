@@ -4,6 +4,8 @@
  :id "e3-feedback-implants"
  :influence-cost 2
  :side :runner
+ :stripped-text "Whenever you break a subroutine on a piece of ice, you may pay 1 credit to break 1 subroutine on that ice. Errata from FAQ 3.0.1"
+ :stripped-title "e3 Feedback Implants"
  :subtype [:mod]
  :text "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice.\n<errata>Errata from FAQ 3.0.1</errata>"
  :title "e3 Feedback Implants"

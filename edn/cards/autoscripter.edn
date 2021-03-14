@@ -4,6 +4,8 @@
  :id "autoscripter"
  :influence-cost 3
  :side :runner
+ :stripped-text "The first time you install a program from your grip during your turn, gain click. Trash Autoscripter if you make an unsuccessful run."
+ :stripped-title "Autoscripter"
  :text "The first time you install a program from your grip during your turn, gain [click].\nTrash Autoscripter if you make an unsuccessful run."
  :title "Autoscripter"
  :type :hardware

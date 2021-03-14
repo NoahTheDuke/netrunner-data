@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "1 credit: Break any number of sentry subroutines. Use this ability only by spending a credit from a stealth card. 1 credit: +7 strength. Use this ability only by spending a credit from a stealth card."
+ :stripped-title "Switchblade"
  :subtype [:icebreaker :killer]
  :text "1[credit]: Break any number of <strong>sentry</strong> subroutines. Use this ability only by spending a credit from a <strong>stealth</strong> card.\n1[credit]: +7 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card."
  :title "Switchblade"

@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "Subroutine Do 3 net damage."
+ :stripped-title "Neural Katana"
  :subtype [:sentry :ap]
  :text "[subroutine] Do 3 net damage."
  :title "Neural Katana"

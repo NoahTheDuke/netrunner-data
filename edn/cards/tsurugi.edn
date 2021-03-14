@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 2
+ :stripped-text "Subroutine End the run unless the Corp pays 1 credit. Subroutine Do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage."
+ :stripped-title "Tsurugi"
  :subtype [:sentry :ap]
  :text "[subroutine] End the run unless the Corp pays 1[credit].\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage."
  :title "Tsurugi"

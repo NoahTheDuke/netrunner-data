@@ -4,6 +4,8 @@
  :id "friday-chip"
  :influence-cost 2
  :side :runner
+ :stripped-text "Whenever you trash a Corp card, you may place 1 virus counter on Friday Chip. When your turn begins, you may move 1 hosted virus counter to a virus program."
+ :stripped-title "Friday Chip"
  :subtype [:chip]
  :text "Whenever you trash a Corp card, you may place 1 virus counter on Friday Chip.\nWhen your turn begins, you may move 1 hosted virus counter to a <strong>virus</strong> program."
  :title "Friday Chip"

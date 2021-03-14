@@ -4,6 +4,8 @@
  :id "bmi-buffer-2"
  :influence-cost 0
  :side :runner
+ :stripped-text "Whenever a program is trashed from your grip, host it on BMI Buffer instead of adding it to your heap. click click: Install 1 hosted program, ignoring all costs."
+ :stripped-title "BMI Buffer 2"
  :text "Whenever a program is trashed from your grip, host it on BMI Buffer instead of adding it to your heap.\n[click][click]: Install 1 hosted program, ignoring all costs."
  :title "BMI Buffer 2"
  :type :hardware

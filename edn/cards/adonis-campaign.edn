@@ -4,6 +4,8 @@
  :id "adonis-campaign"
  :influence-cost 2
  :side :corp
+ :stripped-text "Put 12 credits from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it. Take 3 credits from Adonis Campaign when your turn begins."
+ :stripped-title "Adonis Campaign"
  :subtype [:advertisement]
  :text "Put 12[credit] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.\nTake 3[credit] from Adonis Campaign when your turn begins."
  :title "Adonis Campaign"

@@ -4,6 +4,8 @@
  :id "ice-carver"
  :influence-cost 3
  :side :runner
+ :stripped-text "All ice is encountered with its strength lowered by 1."
+ :stripped-title "Ice Carver"
  :subtype [:virtual]
  :text "All ice is encountered with its strength lowered by 1."
  :title "Ice Carver"

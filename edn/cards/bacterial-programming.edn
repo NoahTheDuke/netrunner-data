@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "bacterial-programming"
  :side :corp
+ :stripped-text "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order."
+ :stripped-title "Bacterial Programming"
  :subtype [:research]
  :text "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order."
  :title "Bacterial Programming"

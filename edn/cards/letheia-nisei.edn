@@ -4,6 +4,8 @@
  :id "letheia-nisei"
  :influence-cost 3
  :side :corp
+ :stripped-text "The first time each run the Runner approaches this server, you and the Runner secretly spend 0 credits, 1 credit or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you may trash this upgrade to force the Runner to approach the outermost piece of ice protecting this server."
+ :stripped-title "Letheia Nisei"
  :subtype [:psi :clone]
  :text "The first time each run the Runner approaches this server, you and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you may trash this upgrade to force the Runner to approach the outermost piece of ice protecting this server."
  :title "Letheia Nisei"

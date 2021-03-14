@@ -4,6 +4,8 @@
  :id "diesel"
  :influence-cost 2
  :side :runner
+ :stripped-text "Draw 3 cards."
+ :stripped-title "Diesel"
  :text "Draw 3 cards."
  :title "Diesel"
  :type :event

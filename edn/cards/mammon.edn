@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "Hosted power counter: Break ice subroutine. 2 credits: +2 strength. When your turn begins, you may pay X credits to place X power counters on Mammon. When your turn ends, remove all hosted power counters."
+ :stripped-title "Mammon"
  :subtype [:icebreaker :ai]
  :text "<strong>Hosted power counter</strong>: Break ice subroutine.\n2[credit]: +2 strength.\nWhen your turn begins, you may pay X[credit] to place X power counters on Mammon.\nWhen your turn ends, remove all hosted power counters."
  :title "Mammon"

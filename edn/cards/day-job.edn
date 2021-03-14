@@ -4,6 +4,8 @@
  :id "day-job"
  :influence-cost 1
  :side :runner
+ :stripped-text "As an additional cost to play this event, spend click click click. Gain 10 credits."
+ :stripped-title "Day Job"
  :text "As an additional cost to play this event, spend [click][click][click].\nGain 10[credit]."
  :title "Day Job"
  :type :event

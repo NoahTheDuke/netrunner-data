@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 5
+ :stripped-text "Subroutine Do 2 net damage. Subroutine End the run."
+ :stripped-title "Wall of Thorns"
  :subtype [:barrier :ap]
  :text "[subroutine] Do 2 net damage.\n[subroutine] End the run."
  :title "Wall of Thorns"

@@ -4,6 +4,8 @@
  :id "underway-grid"
  :influence-cost 0
  :side :corp
+ :stripped-text "Ice protecting this server cannot be bypassed. Cards in and protecting this server cannot be exposed. Limit 1 region per server."
+ :stripped-title "Underway Grid"
  :subtype [:region]
  :text "Ice protecting this server cannot be bypassed.\nCards in and protecting this server cannot be exposed.\nLimit 1 <strong>region</strong> per server."
  :title "Underway Grid"

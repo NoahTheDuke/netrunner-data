@@ -4,6 +4,8 @@
  :id "marked-accounts"
  :influence-cost 1
  :side :corp
+ :stripped-text "When your turn begins, take 1 credit from Marked Accounts, if able. click: Place 3 credits from the bank on Marked Accounts."
+ :stripped-title "Marked Accounts"
  :subtype [:transaction]
  :text "When your turn begins, take 1[credit] from Marked Accounts, if able.\n[click]: Place 3[credit] from the bank on Marked Accounts."
  :title "Marked Accounts"

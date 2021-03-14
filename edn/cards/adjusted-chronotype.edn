@@ -4,6 +4,8 @@
  :id "adjusted-chronotype"
  :influence-cost 2
  :side :runner
+ :stripped-text "The first time you lose click each turn, gain click."
+ :stripped-title "Adjusted Chronotype"
  :subtype [:genetics]
  :text "The first time you lose [click] each turn, gain [click]."
  :title "Adjusted Chronotype"

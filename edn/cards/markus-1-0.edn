@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 3
+ :stripped-text "The Runner may spend click to break any subroutine on Markus 1.0. Subroutine The Runner trashes 1 of his or her installed cards. Subroutine End the run."
+ :stripped-title "Markus 1.0"
  :subtype [:barrier :bioroid]
  :text "The Runner may spend [click] to break any subroutine on Markus 1.0.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] End the run."
  :title "Markus 1.0"

@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "sds-drone-deployment"
  :side :corp
+ :stripped-text "As an additional cost to steal this agenda, the Runner must trash an installed program. When you score this agenda, trash an installed program."
+ :stripped-title "SDS Drone Deployment"
  :subtype [:security]
  :text "As an additional cost to steal this agenda, the Runner must trash an installed program.\nWhen you score this agenda, trash an installed program."
  :title "SDS Drone Deployment"

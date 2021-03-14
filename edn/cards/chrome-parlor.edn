@@ -4,6 +4,8 @@
  :id "chrome-parlor"
  :influence-cost 1
  :side :runner
+ :stripped-text "Prevent all meat damage and brain damage from installing cybernetics."
+ :stripped-title "Chrome Parlor"
  :subtype [:location]
  :text "Prevent all meat damage and brain damage from installing <strong>cybernetics</strong>."
  :title "Chrome Parlor"

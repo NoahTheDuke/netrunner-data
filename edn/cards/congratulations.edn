@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "When the Runner passes this ice, gain 1 credit. Subroutine Gain 2 credits. The Runner gains 1 credit."
+ :stripped-title "Congratulations!"
  :subtype [:code-gate :advertisement]
  :text "When the Runner passes this ice, gain 1[credit].\n[subroutine]Gain 2[credit]. The Runner gains 1[credit]."
  :title "Congratulations!"

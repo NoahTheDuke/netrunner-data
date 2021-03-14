@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 4
+ :stripped-text "Tyrant can be advanced only while rezzed and gains \"Subroutine End the run.\" for each advancement token on it."
+ :stripped-title "Tyrant"
  :subtype [:barrier]
  :text "Tyrant can be advanced only while rezzed and gains \"[subroutine] End the run.\" for each advancement token on it."
  :title "Tyrant"

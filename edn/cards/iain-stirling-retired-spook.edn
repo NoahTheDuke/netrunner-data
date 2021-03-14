@@ -5,6 +5,8 @@
  :influence-limit 10
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "When your turn begins, gain 2 credits if the Corp has more scored agenda points than you."
+ :stripped-title "Iain Stirling: Retired Spook"
  :subtype [:natural]
  :text "When your turn begins, gain 2[credit] if the Corp has more scored agenda points than you."
  :title "Iain Stirling: Retired Spook"

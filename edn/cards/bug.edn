@@ -5,6 +5,8 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
+ :stripped-text "Install only if you made a successful run on HQ this turn. Interrupt  Whenever the Corp would draw a card, you may pay 2 credits to reveal that card. Errata from CR 1.4"
+ :stripped-title "Bug"
  :text "Install only if you made a successful run on HQ this turn.\n[interrupt] – Whenever the Corp would draw a card, you may pay 2[credit] to reveal that card.\n<errata>Errata from CR 1.4</errata>"
  :title "Bug"
  :type :program

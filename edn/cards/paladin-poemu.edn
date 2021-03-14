@@ -4,6 +4,8 @@
  :id "paladin-poemu"
  :influence-cost 3
  :side :runner
+ :stripped-text "When your turn begins or you steal an agenda, place 1 credit on this resource. Spend hosted credits to install non-connection cards. When your turn ends, if there are 3 or more hosted credits, you must trash 1 of your installed cards."
+ :stripped-title "Paladin Poemu"
  :subtype [:companion :virtual]
  :text "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to install non-<strong>connection</strong> cards.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 of your installed cards."
  :title "Paladin Poemu"

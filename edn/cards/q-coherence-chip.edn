@@ -4,6 +4,8 @@
  :id "q-coherence-chip"
  :influence-cost 0
  :side :runner
+ :stripped-text "+1 mu Trash Q-Coherence Chip when an installed program is trashed. Errata from FAQ 3.0.1"
+ :stripped-title "Q-Coherence Chip"
  :subtype [:chip]
  :text "+1[mu]\nTrash Q-Coherence Chip when an installed program is trashed.\n<errata>Errata from FAQ 3.0.1</errata>"
  :title "Q-Coherence Chip"

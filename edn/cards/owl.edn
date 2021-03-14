@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 1
+ :stripped-text "Subroutine Add 1 installed program to the top of the stack."
+ :stripped-title "Owl"
  :subtype [:sentry]
  :text "[subroutine] Add 1 installed program to the top of the stack."
  :title "Owl"

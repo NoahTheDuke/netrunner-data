@@ -4,6 +4,8 @@
  :faction :nbn
  :id "rebranding-team"
  :side :corp
+ :stripped-text "All assets gain advertisement."
+ :stripped-title "Rebranding Team"
  :subtype [:initiative]
  :text "All assets gain <strong>advertisement</strong>."
  :title "Rebranding Team"

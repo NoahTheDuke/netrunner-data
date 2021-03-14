@@ -4,6 +4,8 @@
  :id "net-analytics"
  :influence-cost 1
  :side :corp
+ :stripped-text "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card."
+ :stripped-title "Net Analytics"
  :text "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card."
  :title "Net Analytics"
  :trash-cost 3

@@ -4,6 +4,8 @@
  :id "mars-for-martians"
  :influence-cost 1
  :side :runner
+ :stripped-text "Play only as your first click. Draw 1 card for each installed clan resource. Gain 1 credit for each tag you have."
+ :stripped-title "Mars for Martians"
  :subtype [:priority]
  :text "Play only as your first [click].\nDraw 1 card for each installed <strong>clan</strong> resource. Gain 1[credit] for each tag you have."
  :title "Mars for Martians"

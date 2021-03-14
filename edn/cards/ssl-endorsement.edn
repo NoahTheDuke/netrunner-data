@@ -5,6 +5,8 @@
  :id "ssl-endorsement"
  :influence-cost 0
  :side :corp
+ :stripped-text "When SSL Endorsement is scored or stolen, place 9 credits from the bank on it. When the Corp's turn begins, he or she may take 3 credits from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area."
+ :stripped-title "SSL Endorsement"
  :subtype [:initiative]
  :text "When SSL Endorsement is scored or stolen, place 9[credit] from the bank on it.\nWhen the Corp's turn begins, he or she may take 3[credit] from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area."
  :title "SSL Endorsement"

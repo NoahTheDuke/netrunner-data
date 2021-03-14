@@ -4,6 +4,8 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :corp
+ :stripped-text "Draft format only. If you have more  cards rezzed than any other faction, when the Runner's turn begins, place an advancement token on a piece of ice."
+ :stripped-title "Fringe Applications: Tomorrow, Today"
  :subtype [:division]
  :text "Draft format only.\nIf you have more [weyland-consortium] cards rezzed than any other faction, when the Runner's turn begins, place an advancement token on a piece of ice."
  :title "Fringe Applications: Tomorrow, Today"

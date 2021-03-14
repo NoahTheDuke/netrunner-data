@@ -4,6 +4,8 @@
  :id "fumiko-yamamori"
  :influence-cost 2
  :side :corp
+ :stripped-text "Whenever you and the Runner reveal secretly spent credits, do 1 meat damage if you and the Runner spent a different number of credits."
+ :stripped-title "Fumiko Yamamori"
  :subtype [:character]
  :text "Whenever you and the Runner reveal secretly spent credits, do 1 meat damage if you and the Runner spent a different number of credits."
  :title "Fumiko Yamamori"

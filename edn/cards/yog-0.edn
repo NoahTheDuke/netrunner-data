@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 3
+ :stripped-text "0 credits: Break code gate subroutine."
+ :stripped-title "Yog.0"
  :subtype [:icebreaker :decoder]
  :text "0[credit]: Break <strong>code gate</strong> subroutine."
  :title "Yog.0"

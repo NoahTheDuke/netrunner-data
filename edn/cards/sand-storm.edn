@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 5
+ :stripped-text "Subroutine Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm."
+ :stripped-title "Sand Storm"
  :subtype [:trap :deflector]
  :text "[subroutine] Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm."
  :title "Sand Storm"

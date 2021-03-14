@@ -4,6 +4,8 @@
  :id "investigator-inez-delgado"
  :influence-cost 0
  :side :runner
+ :stripped-text "When you win a game with Investigator Inez Delgado in your score area, reveal set 2. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Expose all cards in a remote server. Use this only if you have stolean an agenda this turn."
+ :stripped-title "Investigator Inez Delgado"
  :subtype [:connection]
  :text "When you win a game with Investigator Inez Delgado in your score area, reveal set 2.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Expose all cards in a remote server. Use this only if you have stolean an agenda this turn."
  :title "Investigator Inez Delgado"

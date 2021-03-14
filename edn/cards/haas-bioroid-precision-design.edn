@@ -4,6 +4,8 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :corp
+ :stripped-text "You get +1 maximum hand size. Whenever you score an agenda, you may add 1 card from Archives to HQ."
+ :stripped-title "Haas-Bioroid: Precision Design"
  :subtype [:megacorp]
  :text "You get +1 maximum hand size.\nWhenever you score an agenda, you may add 1 card from Archives to HQ."
  :title "Haas-Bioroid: Precision Design"

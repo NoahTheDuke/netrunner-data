@@ -5,6 +5,8 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :runner
+ :stripped-text "Draft format only."
+ :stripped-title "The Masque: Cyber General"
  :subtype [:natural]
  :text "Draft format only."
  :title "The Masque: Cyber General"

@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 0
+ :stripped-text "Maven has +1 strength for each installed program. 2 credits: Break ice subroutine."
+ :stripped-title "Maven"
  :subtype [:icebreaker :ai]
  :text "Maven has +1 strength for each installed program.\n2[credit]: Break ice subroutine."
  :title "Maven"

@@ -4,6 +4,8 @@
  :id "akamatsu-mem-chip"
  :influence-cost 1
  :side :runner
+ :stripped-text "+1 mu"
+ :stripped-title "Akamatsu Mem Chip"
  :subtype [:chip]
  :text "+1[mu]"
  :title "Akamatsu Mem Chip"

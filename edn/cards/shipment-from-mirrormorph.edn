@@ -4,7 +4,9 @@
  :id "shipment-from-mirrormorph"
  :influence-cost 2
  :side :corp
- :text "Immediately install up to 3 cards (spending no clicks but paying all install costs)."
+ :stripped-text "Install up to 3 cards from HQ (one at a time and paying all install costs)."
+ :stripped-title "Shipment from MirrorMorph"
+ :text "Install up to 3 cards from HQ (one at a time and paying all install costs)."
  :title "Shipment from MirrorMorph"
  :type :operation
  :uniqueness false}

@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 5
+ :stripped-text "Subroutine You may place up to 3 advancement tokens on a card installed in a server. If you do, the Runner accesses that card unless he or she pays 3 credits."
+ :stripped-title "Otoroshi"
  :subtype [:sentry]
  :text "[subroutine] You may place up to 3 advancement tokens on a card installed in a server. If you do, the Runner accesses that card unless he or she pays 3[credit]."
  :title "Otoroshi"

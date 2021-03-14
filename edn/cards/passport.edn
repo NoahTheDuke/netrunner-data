@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "1 credit: Break code gate subroutine. 2 credits: +2 strength. Passport cannot be used on ice protecting a remote server."
+ :stripped-title "Passport"
  :subtype [:icebreaker :decoder]
  :text "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\nPassport cannot be used on ice protecting a remote server."
  :title "Passport"

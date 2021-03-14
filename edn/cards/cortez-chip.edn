@@ -4,6 +4,8 @@
  :id "cortez-chip"
  :influence-cost 2
  :side :runner
+ :stripped-text "trash: Choose a piece of ice. The Corp must pay 2 credits as an additional cost to rez that ice until the end of the turn."
+ :stripped-title "Cortez Chip"
  :subtype [:chip]
  :text "[trash]: Choose a piece of ice. The Corp must pay 2[credit] as an additional cost to rez that ice until the end of the turn."
  :title "Cortez Chip"

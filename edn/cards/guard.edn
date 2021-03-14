@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 2
+ :stripped-text "Guard cannot be bypassed. Subroutine End the run."
+ :stripped-title "Guard"
  :subtype [:sentry]
  :text "Guard cannot be bypassed.\n[subroutine] End the run."
  :title "Guard"

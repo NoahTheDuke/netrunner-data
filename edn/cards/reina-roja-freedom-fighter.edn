@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "The rez cost of the first piece of ice rezzed each turn is increased by 1."
+ :stripped-title "Reina Roja: Freedom Fighter"
  :subtype [:cyborg :g-mod]
  :text "The rez cost of the first piece of ice rezzed each turn is increased by 1."
  :title "Reina Roja: Freedom Fighter"

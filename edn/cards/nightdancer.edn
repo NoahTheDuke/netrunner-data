@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 4
+ :stripped-text "Subroutine The Runner loses click, if able. You have an additional click to spend during your next turn. Subroutine The Runner loses click, if able. You have an additional click to spend during your next turn."
+ :stripped-title "Nightdancer"
  :subtype [:code-gate]
  :text "[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn."
  :title "Nightdancer"

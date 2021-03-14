@@ -4,6 +4,8 @@
  :id "enforced-curfew"
  :influence-cost 0
  :side :corp
+ :stripped-text "This card is not trashed until another current is played or an agenda is stolen. The Runner's maximum hand size is reduced by 1."
+ :stripped-title "Enforced Curfew"
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's maximum hand size is reduced by 1."
  :title "Enforced Curfew"

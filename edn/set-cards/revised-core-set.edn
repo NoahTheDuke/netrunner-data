@@ -32,7 +32,7 @@
   :set-id "revised-core-set"}
  {:card-id "cyberfeeder"
   :code "20006"
-  :flavor "I feel almost naked without it"
+  :flavor "I feel almost naked without it."
   :illustrator "Gong Studios"
   :position 6
   :quantity 2
@@ -92,7 +92,7 @@
   :set-id "revised-core-set"}
  {:card-id "ice-carver"
   :code "20015"
-  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
+  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corps need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
   :illustrator "Adam S. Doyle"
   :position 15
   :quantity 1
@@ -263,7 +263,7 @@
   :set-id "revised-core-set"}
  {:card-id "modded"
   :code "20040"
-  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
+  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars, and single-minded determination. Cheaper, too."
   :illustrator "Kate Laird"
   :position 40
   :quantity 3
@@ -497,8 +497,7 @@
   :illustrator "Matt Zeilinger"
   :position 74
   :quantity 1
-  :set-id "revised-core-set"
-  :text "Install up to 3 cards from HQ (one at a time and paying all install costs)."}
+  :set-id "revised-core-set"}
  {:card-id "ash-2x3zb9cy"
   :code "20075"
   :flavor "\"Eyes forward, please.\""
@@ -857,7 +856,7 @@
   :set-id "revised-core-set"}
  {:card-id "pad-campaign"
   :code "20128"
-  :flavor "It is like the one you just bought, only better."
+  :flavor "It is just like the one you just bought, only better."
   :illustrator "Kate Laird"
   :position 128
   :quantity 3

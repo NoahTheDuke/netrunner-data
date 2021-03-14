@@ -4,6 +4,8 @@
  :id "fully-operational"
  :influence-cost 3
  :side :corp
+ :stripped-text "Gain 2 credits or draw 2 cards. Repeat this process for each remote server with at least 1 card in it and at least 1 piece of ice protecting it."
+ :stripped-title "Fully Operational"
  :text "Gain 2[credit] or draw 2 cards. Repeat this process for each remote server with at least 1 card in it and at least 1 piece of ice protecting it."
  :title "Fully Operational"
  :type :operation

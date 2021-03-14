@@ -4,6 +4,8 @@
  :id "trade-in"
  :influence-cost 2
  :side :runner
+ :stripped-text "As an additional cost to play this event, trash an installed piece of hardware. Gain credits equal to half the install cost of the trashed hardware (rounded down) and search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
+ :stripped-title "Trade-In"
  :text "As an additional cost to play this event, trash an installed piece of hardware.\nGain credits equal to half the install cost of the trashed hardware (rounded down) and search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
  :title "Trade-In"
  :type :event

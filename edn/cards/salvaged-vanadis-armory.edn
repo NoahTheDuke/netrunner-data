@@ -4,6 +4,8 @@
  :id "salvaged-vanadis-armory"
  :influence-cost 3
  :side :runner
+ :stripped-text "trash: The Corp trashes the top X cards of R&D. X is the amount of damage you have suffered this turn. Use this ability only during the next paid ability window after suffering any amount of damage. Errata from FAQ 4.1"
+ :stripped-title "Salvaged Vanadis Armory"
  :subtype [:clan]
  :text "[trash]: The Corp trashes the top X cards of R&D. X is the amount of damage you have suffered this turn. Use this ability only during the next paid ability window after suffering any amount of damage.\n<errata>Errata from FAQ 4.1</errata>"
  :title "Salvaged Vanadis Armory"

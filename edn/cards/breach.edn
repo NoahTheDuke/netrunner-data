@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "2 credits: Break up to 3 barrier subroutines. 2 credits: +4 strength. Breach cannot be used on ice protecting a remote server."
+ :stripped-title "Breach"
  :subtype [:icebreaker :fracter]
  :text "2[credit]: Break up to 3 <strong>barrier</strong> subroutines.\n2[credit]: +4 strength.\nBreach cannot be used on ice protecting a remote server."
  :title "Breach"

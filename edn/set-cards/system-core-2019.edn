@@ -46,7 +46,7 @@
   :set-id "system-core-2019"}
  {:card-id "cyberfeeder"
   :code "25008"
-  :flavor "I feel almost naked without it"
+  :flavor "I feel almost naked without it."
   :illustrator "Gong Studios"
   :position 8
   :quantity 2
@@ -99,7 +99,7 @@
   :set-id "system-core-2019"}
  {:card-id "ice-carver"
   :code "25016"
-  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
+  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corps need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
   :illustrator "Adam S. Doyle"
   :position 16
   :quantity 1
@@ -284,7 +284,7 @@
   :set-id "system-core-2019"}
  {:card-id "modded"
   :code "25043"
-  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
+  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars, and single-minded determination. Cheaper, too."
   :illustrator "Kate Laird"
   :position 43
   :quantity 2
@@ -943,7 +943,7 @@
   :set-id "system-core-2019"}
  {:card-id "pad-campaign"
   :code "25142"
-  :flavor "It is like the one you just bought, only better."
+  :flavor "It is just like the one you just bought, only better."
   :illustrator "Kate Laird"
   :position 142
   :quantity 3

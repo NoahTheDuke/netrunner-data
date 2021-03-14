@@ -4,6 +4,8 @@
  :id "cerebral-overwriter"
  :influence-cost 2
  :side :corp
+ :stripped-text "You can advance this asset. When the Runner accesses this asset, you may pay 3 credits. If you do, do 1 brain damage for each hosted advancement token."
+ :stripped-title "Cerebral Overwriter"
  :subtype [:ambush]
  :text "You can advance this asset.\nWhen the Runner accesses this asset, you may pay 3[credit]. If you do, do 1 brain damage for each hosted advancement token."
  :title "Cerebral Overwriter"

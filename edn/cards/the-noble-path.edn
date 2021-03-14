@@ -4,6 +4,8 @@
  :id "the-noble-path"
  :influence-cost 2
  :side :runner
+ :stripped-text "Trash your grip. Make a run. Prevent all damage during this run."
+ :stripped-title "The Noble Path"
  :subtype [:run]
  :text "Trash your grip. Make a run. Prevent all damage during this run."
  :title "The Noble Path"

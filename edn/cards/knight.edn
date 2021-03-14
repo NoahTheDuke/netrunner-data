@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 7
+ :stripped-text "2 credits: Break subroutine on host ice. click: Host Knight on a piece of ice not hosting a Caissa. If already hosted, Knight can be hosted only on ice that is not installed directly before or after the current piece of ice hosting Knight."
+ :stripped-title "Knight"
  :subtype [:icebreaker :ai :caissa]
  :text "2[credit]: Break subroutine on host ice.\n[click]: Host Knight on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Knight can be hosted only on ice that is not installed directly before or after the current piece of ice hosting Knight."
  :title "Knight"

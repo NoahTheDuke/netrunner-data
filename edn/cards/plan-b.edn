@@ -4,6 +4,8 @@
  :id "plan-b"
  :influence-cost 0
  :side :corp
+ :stripped-text "Plan B can be advanced. If the Runner accesses Plan B, you may reveal and score an agenda from HQ with an advancement requirement equal to or less than the number of advancement tokens on Plan B."
+ :stripped-title "Plan B"
  :subtype [:ambush]
  :text "Plan B can be advanced.\nIf the Runner accesses Plan B, you may reveal and score an agenda from HQ with an advancement requirement equal to or less than the number of advancement tokens on Plan B."
  :title "Plan B"

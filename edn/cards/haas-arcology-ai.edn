@@ -4,6 +4,8 @@
  :id "haas-arcology-ai"
  :influence-cost 4
  :side :corp
+ :stripped-text "Haas Arcology AI can be advanced only while unrezzed. click, hosted advancement token: Gain click click. Use this ability only once per turn."
+ :stripped-title "Haas Arcology AI"
  :text "Haas Arcology AI can be advanced only while unrezzed.\n[click], <strong>hosted advancement token:</strong> Gain [click][click]. Use this ability only once per turn."
  :title "Haas Arcology AI"
  :trash-cost 1

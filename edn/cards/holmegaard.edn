@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 5
+ :stripped-text "Subroutine Trace 4 If successful, the runner cannot access any cards during this run. Subroutine Trash 1 icebreaker. Errata from FAQ 4.0"
+ :stripped-title "Holmegaard"
  :subtype [:sentry :tracer :destroyer]
  :text "[subroutine] <trace>Trace 4</trace> If successful, the runner cannot access any cards during this run.\n[subroutine] Trash 1 <strong>icebreaker</strong>.\n<errata>Errata from FAQ 4.0</errata>"
  :title "Holmegaard"

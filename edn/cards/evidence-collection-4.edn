@@ -5,6 +5,8 @@
  :id "evidence-collection-4"
  :influence-cost 0
  :side :corp
+ :stripped-text "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area."
+ :stripped-title "Evidence Collection 4"
  :subtype [:research]
  :text "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area."
  :title "Evidence Collection 4"

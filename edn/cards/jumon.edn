@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "jumon"
  :side :corp
+ :stripped-text "When your turn ends, place 2 advancement tokens on a card installed in a server."
+ :stripped-title "Jumon"
  :subtype [:research]
  :text "When your turn ends, place 2 advancement tokens on a card installed in a server."
  :title "Jumon"

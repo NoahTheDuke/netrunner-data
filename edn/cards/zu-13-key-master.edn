@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "If you have at least 2 link, the memory cost of ZU.13 Key Master is 0, even if it is not installed. 1 credit: Break code gate subroutine. 1 credit: +1 strength."
+ :stripped-title "ZU.13 Key Master"
  :subtype [:icebreaker :decoder :cloud]
  :text "If you have at least 2[link], the memory cost of ZU.13 Key Master is 0, even if it is not installed.\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength."
  :title "ZU.13 Key Master"

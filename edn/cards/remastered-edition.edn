@@ -4,6 +4,8 @@
  :faction :nbn
  :id "remastered-edition"
  :side :corp
+ :stripped-text "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Place 1 advancement token on an installed card."
+ :stripped-title "Remastered Edition"
  :subtype [:expansion]
  :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter</strong>: Place 1 advancement token on an installed card."
  :title "Remastered Edition"

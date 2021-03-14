@@ -4,6 +4,8 @@
  :id "wyldside"
  :influence-cost 3
  :side :runner
+ :stripped-text "When your turn begins, draw 2 cards and lose click."
+ :stripped-title "Wyldside"
  :subtype [:location :seedy]
  :text "When your turn begins, draw 2 cards and lose [click]."
  :title "Wyldside"

@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "remote-enforcement"
  :side :corp
+ :stripped-text "When you score Remote Enforcement, you may search R&D for a piece of ice, install it protecting a remote server (paying its install cost), and rez it, ignoring its rez cost, then shuffle R&D."
+ :stripped-title "Remote Enforcement"
  :subtype [:security]
  :text "When you score Remote Enforcement, you may search R&D for a piece of ice, install it protecting a remote server (paying its install cost), and rez it, ignoring its rez cost, then shuffle R&D."
  :title "Remote Enforcement"

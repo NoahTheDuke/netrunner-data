@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 4
+ :stripped-text "Subroutine The Runner loses click, if able. Subroutine The Runner loses click, if able. Subroutine The Runner loses click, if able."
+ :stripped-title "Hourglass"
  :subtype [:code-gate]
  :text "[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able."
  :title "Hourglass"

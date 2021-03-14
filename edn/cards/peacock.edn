@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "2 credits: Break code gate subroutine. 2 credits: +3 strength."
+ :stripped-title "Peacock"
  :subtype [:icebreaker :decoder]
  :text "2[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +3 strength."
  :title "Peacock"

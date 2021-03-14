@@ -4,6 +4,8 @@
  :id "anonymous-tip"
  :influence-cost 1
  :side :corp
+ :stripped-text "Draw 3 cards."
+ :stripped-title "Anonymous Tip"
  :text "Draw 3 cards."
  :title "Anonymous Tip"
  :type :operation

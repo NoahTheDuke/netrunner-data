@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 6
+ :stripped-text "Asteroid Belt can be advanced and its rez cost is lowered by 3 for each advancement token on it. Subroutine End the run."
+ :stripped-title "Asteroid Belt"
  :subtype [:barrier]
  :text "Asteroid Belt can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] End the run."
  :title "Asteroid Belt"

@@ -4,6 +4,8 @@
  :id "emergency-shutdown"
  :influence-cost 2
  :side :runner
+ :stripped-text "Play only if you made a successful run on HQ this turn. Derez a piece of ice."
+ :stripped-title "Emergency Shutdown"
  :subtype [:sabotage]
  :text "Play only if you made a successful run on HQ this turn.\nDerez a piece of ice."
  :title "Emergency Shutdown"

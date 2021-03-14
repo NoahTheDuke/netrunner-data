@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "When the Runner encounters Turnpike, he or she loses 1 credit. Subroutine Trace 5 If successful, give the Runner 1 tag."
+ :stripped-title "Turnpike"
  :subtype [:sentry :tracer]
  :text "When the Runner encounters Turnpike, he or she loses 1[credit].\n[subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag."
  :title "Turnpike"

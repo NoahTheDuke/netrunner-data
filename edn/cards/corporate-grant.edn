@@ -4,6 +4,8 @@
  :id "corporate-grant"
  :influence-cost 3
  :side :runner
+ :stripped-text "This card is not trashed until another current is played or an agenda is scored. The first time you install a card each turn, the Corp loses 1 credit."
+ :stripped-title "Corporate \"Grant\""
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first time you install a card each turn, the Corp loses 1[credit]."
  :title "Corporate \"Grant\""

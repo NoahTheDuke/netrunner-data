@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "viral-weaponization"
  :side :corp
+ :stripped-text "When the turn on which you scored Viral Weaponization ends, do 1 net damage for each card in the grip."
+ :stripped-title "Viral Weaponization"
  :subtype [:research :security]
  :text "When the turn on which you scored Viral Weaponization ends, do 1 net damage for each card in the grip."
  :title "Viral Weaponization"

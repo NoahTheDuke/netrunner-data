@@ -4,6 +4,8 @@
  :id "fractal-threat-matrix"
  :influence-cost 3
  :side :corp
+ :stripped-text "Each time all the subroutines are broken on a piece of ice protecting this server, trash the top 2 cards of the stack."
+ :stripped-title "Fractal Threat Matrix"
  :subtype [:security-protocol]
  :text "Each time all the subroutines are broken on a piece of ice protecting this server, trash the top 2 cards of the stack."
  :title "Fractal Threat Matrix"

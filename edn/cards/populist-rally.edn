@@ -4,6 +4,8 @@
  :id "populist-rally"
  :influence-cost 0
  :side :runner
+ :stripped-text "Play only if you have at least 1 seedy card installed. The Corp has 1 fewer click to spend on his or her next turn."
+ :stripped-title "Populist Rally"
  :text "Play only if you have at least 1 <strong>seedy</strong> card installed.\nThe Corp has 1 fewer [click] to spend on his or her next turn."
  :title "Populist Rally"
  :type :event

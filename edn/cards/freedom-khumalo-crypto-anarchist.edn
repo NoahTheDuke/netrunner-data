@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Once per turn, you may remove any X virus counters from your installed cards to trash a non-agenda card you are accessing (even if it has no trash cost). X is that card's rez or play cost. Errata from CR 1.2"
+ :stripped-title "Freedom Khumalo: Crypto-Anarchist"
  :subtype [:cyborg]
  :text "Once per turn, you may remove any X virus counters from your installed cards to trash a non-agenda card you are accessing <em>(even if it has no trash cost)</em>. X is that card's rez or play cost.\n<errata>Errata from CR 1.2</errata>"
  :title "Freedom Khumalo: Crypto-Anarchist"

@@ -4,6 +4,8 @@
  :id "obelus"
  :influence-cost 3
  :side :runner
+ :stripped-text "+1 mu Your maximum hand size is increased by 1 for each tag you have. The first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run. Limit 1 console per player."
+ :stripped-title "Obelus"
  :subtype [:console]
  :text "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player."
  :title "Obelus"

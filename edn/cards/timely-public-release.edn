@@ -5,6 +5,8 @@
  :id "timely-public-release"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Install 1 piece of ice from HQ or Archives in any position protecting a server, ignoring all costs."
+ :stripped-title "Timely Public Release"
  :subtype [:initiative]
  :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter</strong>: Install 1 piece of ice from HQ or Archives in any position protecting a server, ignoring all costs."
  :title "Timely Public Release"

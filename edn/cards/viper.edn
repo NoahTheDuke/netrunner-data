@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 4
+ :stripped-text "Subroutine Trace 3 If successful, the Runner loses click, if able. Subroutine Trace 3 If successful, end the run."
+ :stripped-title "Viper"
  :subtype [:code-gate :tracer]
  :text "[subroutine] <trace>Trace 3</trace> If successful, the Runner loses [click], if able.\n[subroutine] <trace>Trace 3</trace> If successful, end the run."
  :title "Viper"

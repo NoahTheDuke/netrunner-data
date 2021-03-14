@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 4
+ :stripped-text "Subroutine Swap 2 other installed pieces of ice or 2 of your installed non-ice cards."
+ :stripped-title "Metamorph"
  :subtype [:code-gate :observer]
  :text "[subroutine] Swap 2 other installed pieces of ice or 2 of your installed non-ice cards."
  :title "Metamorph"

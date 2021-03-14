@@ -4,6 +4,8 @@
  :id "elizabeth-mills"
  :influence-cost 2
  :side :corp
+ :stripped-text "When you rez Elizabeth Mills, remove 1 bad publicity. click, trash: Trash 1 location. Take 1 bad publicity."
+ :stripped-title "Elizabeth Mills"
  :subtype [:executive]
  :text "When you rez Elizabeth Mills, remove 1 bad publicity.\n[click], [trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity."
  :title "Elizabeth Mills"

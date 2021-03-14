@@ -4,6 +4,8 @@
  :id "will-o-the-wisp"
  :influence-cost 0
  :side :corp
+ :stripped-text "Whenever there is a successful run on this server, you may trash Will-o'-the-Wisp. If you do, choose an icebreaker that was used to break at least 1 subroutine during this run. The Runner adds that icebreaker to the bottom of his or her stack."
+ :stripped-title "Will-o'-the-Wisp"
  :text "Whenever there is a successful run on this server, you may trash Will-o'-the-Wisp. If you do, choose an <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of his or her stack."
  :title "Will-o'-the-Wisp"
  :trash-cost 1

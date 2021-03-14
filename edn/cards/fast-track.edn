@@ -4,6 +4,8 @@
  :id "fast-track"
  :influence-cost 0
  :side :corp
+ :stripped-text "Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D."
+ :stripped-title "Fast Track"
  :text "Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D."
  :title "Fast Track"
  :type :operation

@@ -4,6 +4,8 @@
  :id "psych-mike"
  :influence-cost 4
  :side :runner
+ :stripped-text "The first time a successful run on R&D ends each turn, you may gain 1 credit for each card you accessed from R&D."
+ :stripped-title "Psych Mike"
  :subtype [:connection]
  :text "The first time a successful run on R&D ends each turn, you may gain 1[credit] for each card you accessed from R&D."
  :title "Psych Mike"

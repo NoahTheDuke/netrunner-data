@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "Subroutine Do 1 net damage. Subroutine End the run."
+ :stripped-title "Envelope"
  :subtype [:barrier :ap]
  :text "[subroutine] Do 1 net damage.\n[subroutine] End the run."
  :title "Envelope"

@@ -4,6 +4,8 @@
  :id "khusyuk"
  :influence-cost 2
  :side :runner
+ :stripped-text "Run R&D. If successful, instead of accessing cards, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access one of the revealed cards, then the Corp shuffles R&D. You cannot access any other cards in R&D this run."
+ :stripped-title "Khusyuk"
  :subtype [:run]
  :text "Run R&D. If successful, instead of accessing cards, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access one of the revealed cards, then the Corp shuffles R&D. You cannot access any other cards in R&D this run."
  :title "Khusyuk"

@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 1
+ :stripped-text "Subroutine Trace 4 If successful, do 1 brain damage. Errata from FAQ 4.0"
+ :stripped-title "Executive Functioning"
  :subtype [:code-gate :ap :tracer]
  :text "[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n<errata>Errata from FAQ 4.0</errata>"
  :title "Executive Functioning"

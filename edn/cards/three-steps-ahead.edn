@@ -4,6 +4,8 @@
  :id "three-steps-ahead"
  :influence-cost 2
  :side :runner
+ :stripped-text "Play only as your first click. When this turn ends, gain 2 credits for each successful run you made during it."
+ :stripped-title "Three Steps Ahead"
  :subtype [:priority]
  :text "Play only as your first [click].\nWhen this turn ends, gain 2[credit] for each successful run you made during it."
  :title "Three Steps Ahead"

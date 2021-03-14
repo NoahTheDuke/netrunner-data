@@ -4,6 +4,8 @@
  :id "amped-up"
  :influence-cost 3
  :side :runner
+ :stripped-text "Gain click click click and suffer 1 brain damage (cannot be prevented)."
+ :stripped-title "Amped Up"
  :text "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented)."
  :title "Amped Up"
  :type :event

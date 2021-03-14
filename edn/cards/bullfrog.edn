@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 4
+ :stripped-text "Subroutine You and the Runner secretly spend 0 credits, 1 credit or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, move Bullfrog so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server)."
+ :stripped-title "Bullfrog"
  :subtype [:code-gate :deflector :psi]
  :text "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, move Bullfrog so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server)."
  :title "Bullfrog"

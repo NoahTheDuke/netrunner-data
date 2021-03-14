@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 2
+ :stripped-text "Subroutine The Runner loses click, if able. Subroutine End the run."
+ :stripped-title "Enigma"
  :subtype [:code-gate]
  :text "[subroutine] The Runner loses [click], if able.\n[subroutine] End the run."
  :title "Enigma"

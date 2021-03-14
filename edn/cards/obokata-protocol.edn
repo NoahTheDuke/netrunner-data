@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "obokata-protocol"
  :side :corp
+ :stripped-text "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage."
+ :stripped-title "Obokata Protocol"
  :subtype [:ambush]
  :text "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage."
  :title "Obokata Protocol"

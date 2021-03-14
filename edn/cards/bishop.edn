@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "click: Host Bishop on a piece of ice not hosting a Caissa. If already hosted, Bishop can be hosted only on ice protecting a central server if Bishop is on ice protecting a remote server, or on ice protecting a remote server if Bishop is on ice protecting a central server. Host ice has -2 strength."
+ :stripped-title "Bishop"
  :subtype [:caissa]
  :text "[click]: Host Bishop on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Bishop can be hosted only on ice protecting a central server if Bishop is on ice protecting a remote server, or on ice protecting a remote server if Bishop is on ice protecting a central server.\nHost ice has -2 strength."
  :title "Bishop"

@@ -4,6 +4,8 @@
  :id "cybersolutions-mem-chip"
  :influence-cost 2
  :side :runner
+ :stripped-text "+2 mu"
+ :stripped-title "CyberSolutions Mem Chip"
  :subtype [:chip]
  :text "+2[mu]"
  :title "CyberSolutions Mem Chip"

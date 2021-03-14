@@ -4,8 +4,10 @@
  :id "divide-and-conquer"
  :influence-cost 4
  :side :runner
+ :stripped-text "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card of R&D."
+ :stripped-title "Divide and Conquer"
  :subtype [:run]
- :text "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card from R&D."
+ :text "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card of R&D."
  :title "Divide and Conquer"
  :type :event
  :uniqueness false}

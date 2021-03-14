@@ -4,6 +4,8 @@
  :id "order-of-sol"
  :influence-cost 1
  :side :runner
+ :stripped-text "The first time you have no credits in your credit pool each turn, gain 1 credit."
+ :stripped-title "Order of Sol"
  :subtype [:location]
  :text "The first time you have no credits in your credit pool each turn, gain 1[credit]."
  :title "Order of Sol"

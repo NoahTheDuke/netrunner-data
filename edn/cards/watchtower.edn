@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 3
+ :stripped-text "Subroutine Search R&D for a card and add it to HQ. Shuffle R&D."
+ :stripped-title "Watchtower"
  :subtype [:code-gate]
  :text "[subroutine] Search R&D for a card and add it to HQ. Shuffle R&D."
  :title "Watchtower"

@@ -4,6 +4,8 @@
  :id "ganked"
  :influence-cost 2
  :side :corp
+ :stripped-text "While the Runner is accessing this card from R&D, they must reveal it. When the Runner accesses this card, you may trash it to force the Runner to encounter a rezzed piece of ice protecting this server."
+ :stripped-title "Ganked!"
  :subtype [:ambush]
  :text "While the Runner is accessing this card from R&D, they must reveal it.\nWhen the Runner accesses this card, you may trash it to force the Runner to encounter a rezzed piece of ice protecting this server."
  :title "Ganked!"

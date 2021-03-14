@@ -4,6 +4,8 @@
  :id "reboot"
  :influence-cost 5
  :side :runner
+ :stripped-text "Make a run on Archives. If successful, instead of accessing cards, install up to 5 cards from your heap facedown. Remove Reboot from the game instead of trashing it."
+ :stripped-title "Reboot"
  :subtype [:run]
  :text "Make a run on Archives. If successful, instead of accessing cards, install up to 5 cards from your heap facedown. Remove Reboot from the game instead of trashing it."
  :title "Reboot"

@@ -4,6 +4,8 @@
  :id "clan-vengeance"
  :influence-cost 4
  :side :runner
+ :stripped-text "Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance. trash: Trash 1 card from HQ at random for each power counter on Clan Vengeance."
+ :stripped-title "Clan Vengeance"
  :subtype [:clan]
  :text "Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance.\n[trash]: Trash 1 card from HQ at random for each power counter on Clan Vengeance."
  :title "Clan Vengeance"

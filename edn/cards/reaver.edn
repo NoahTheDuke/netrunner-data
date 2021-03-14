@@ -5,6 +5,8 @@
  :influence-cost 4
  :memory-cost 1
  :side :runner
+ :stripped-text "The first time you trash an installed card each turn, draw 1 card."
+ :stripped-title "Reaver"
  :text "The first time you trash an installed card each turn, draw 1 card."
  :title "Reaver"
  :type :program

@@ -4,6 +4,8 @@
  :id "maya"
  :influence-cost 3
  :side :runner
+ :stripped-text "+2 mu Once per turn, immediately after you access a card from R&D, you may add that card to the bottom of R&D. If you do, take 1 tag. Limit 1 console per player."
+ :stripped-title "Maya"
  :subtype [:console]
  :text " +2[mu]\nOnce per turn, immediately after you access a card from R&D, you may add that card to the bottom of R&D. If you do, take 1 tag.\nLimit 1 <strong>console</strong> per player."
  :title "Maya"

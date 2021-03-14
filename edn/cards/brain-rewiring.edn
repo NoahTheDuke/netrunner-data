@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "brain-rewiring"
  :side :corp
+ :stripped-text "When you score Brain Rewiring, you may pay X credits to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card."
+ :stripped-title "Brain Rewiring"
  :subtype [:security]
  :text "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card."
  :title "Brain Rewiring"

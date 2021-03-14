@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "successful-field-test"
  :side :corp
+ :stripped-text "When you score Successful Field Test, install any number of cards from HQ, ignoring all costs."
+ :stripped-title "Successful Field Test"
  :subtype [:research]
  :text "When you score Successful Field Test, install any number of cards from HQ, ignoring all costs."
  :title "Successful Field Test"

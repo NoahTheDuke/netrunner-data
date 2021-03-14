@@ -4,6 +4,8 @@
  :id "freelance-coding-contract"
  :influence-cost 1
  :side :runner
+ :stripped-text "Trash up to 5 programs from your grip. Gain 2 credits for each program trashed."
+ :stripped-title "Freelance Coding Contract"
  :subtype [:job]
  :text "Trash up to 5 programs from your grip. Gain 2[credit] for each program trashed."
  :title "Freelance Coding Contract"

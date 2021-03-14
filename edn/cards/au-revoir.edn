@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "Gain 1 credit whenever you jack out."
+ :stripped-title "Au Revoir"
  :text "Gain 1[credit] whenever you jack out."
  :title "Au Revoir"
  :type :program

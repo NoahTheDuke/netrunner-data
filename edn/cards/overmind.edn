@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "Place 1 power counter on Overmind when it is installed for each unused MU. Hosted power counter: Break ice subroutine. 1 credit: +1 strength."
+ :stripped-title "Overmind"
  :subtype [:icebreaker :ai]
  :text "Place 1 power counter on Overmind when it is installed for each unused MU.\n<strong>Hosted power counter:</strong> Break ice subroutine.\n1[credit]: +1 strength."
  :title "Overmind"

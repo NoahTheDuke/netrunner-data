@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 5
+ :stripped-text "The Runner can spend click click to break up to 2 subroutines on Ichi 2.0. Subroutine Trash 1 program. Subroutine Trash 1 program. Subroutine Trace 3 If successful, give the Runner 1 tag and do 1 brain damage."
+ :stripped-title "Ichi 2.0"
  :subtype [:sentry :bioroid :destroyer :tracer]
  :text "The Runner can spend [click][click] to break up to 2 subroutines on Ichi 2.0.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag and do 1 brain damage."
  :title "Ichi 2.0"

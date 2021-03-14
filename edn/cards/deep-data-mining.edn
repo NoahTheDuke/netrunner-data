@@ -4,6 +4,8 @@
  :id "deep-data-mining"
  :influence-cost 4
  :side :runner
+ :stripped-text "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4."
+ :stripped-title "Deep Data Mining"
  :subtype [:run]
  :text "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4."
  :title "Deep Data Mining"

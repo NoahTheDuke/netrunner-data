@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "1 credit: Break sentry subroutine. 2 credits: +3 strength. Alias cannot be used on ice protecting a remote server."
+ :stripped-title "Alias"
  :subtype [:icebreaker :killer]
  :text "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.\nAlias cannot be used on ice protecting a remote server."
  :title "Alias"

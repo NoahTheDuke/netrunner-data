@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "labyrinthine-servers"
  :side :corp
+ :stripped-text "Place 2 power counters on Labyrinthine Servers when you score it. Hosted power counter: Prevent the Runner from jacking out. The Runner cannot jack out for the remainder of this run."
+ :stripped-title "Labyrinthine Servers"
  :subtype [:security]
  :text "Place 2 power counters on Labyrinthine Servers when you score it.\n<strong>Hosted power counter:</strong> Prevent the Runner from jacking out. The Runner cannot jack out for the remainder of this run."
  :title "Labyrinthine Servers"

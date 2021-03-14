@@ -5,6 +5,8 @@
  :id "the-future-is-now"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you score The Future is Now, search R&D for a card and add it to HQ. Shuffle R&D."
+ :stripped-title "The Future is Now"
  :subtype [:initiative]
  :text "When you score The Future is Now, search R&D for a card and add it to HQ. Shuffle R&D."
  :title "The Future is Now"

@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Interrupt  Avoid the first tag you would take during each run. Errata from CR 1.4"
+ :stripped-title "Jesminder Sareen: Girl Behind the Curtain"
  :subtype [:natural]
  :text "[interrupt] – Avoid the first tag you would take during each run.\n<errata>Errata from CR 1.4</errata>"
  :title "Jesminder Sareen: Girl Behind the Curtain"

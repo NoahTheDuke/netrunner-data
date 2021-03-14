@@ -4,6 +4,8 @@
  :id "mr-stone"
  :influence-cost 4
  :side :corp
+ :stripped-text "Whenever the Runner takes 1 or more tags, do 1 meat damage."
+ :stripped-title "Mr. Stone"
  :subtype [:executive]
  :text "Whenever the Runner takes 1 or more tags, do 1 meat damage."
  :title "Mr. Stone"

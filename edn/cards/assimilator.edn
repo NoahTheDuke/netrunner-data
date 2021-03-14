@@ -4,6 +4,8 @@
  :id "assimilator"
  :influence-cost 5
  :side :runner
+ :stripped-text "click,click: Turn one of your facedown installed cards faceup. If that card is an event, trash it."
+ :stripped-title "Assimilator"
  :subtype [:virtual]
  :text "[click],[click]: Turn one of your facedown installed cards faceup. If that card is an event, trash it."
  :title "Assimilator"

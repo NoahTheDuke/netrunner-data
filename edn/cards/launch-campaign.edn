@@ -4,6 +4,8 @@
  :id "launch-campaign"
  :influence-cost 0
  :side :corp
+ :stripped-text "Place 6 credits from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it. When your turn begins, take 2 credits from Launch Campaign."
+ :stripped-title "Launch Campaign"
  :subtype [:advertisement]
  :text "Place 6[credit] from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.\nWhen your turn begins, take 2[credit] from Launch Campaign."
  :title "Launch Campaign"

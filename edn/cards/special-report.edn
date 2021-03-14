@@ -4,6 +4,8 @@
  :id "special-report"
  :influence-cost 2
  :side :corp
+ :stripped-text "Shuffle any number of cards from HQ into R&D. Draw that number of cards."
+ :stripped-title "Special Report"
  :text "Shuffle any number of cards from HQ into R&D. Draw that number of cards."
  :title "Special Report"
  :type :operation

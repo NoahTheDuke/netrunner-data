@@ -4,6 +4,8 @@
  :id "dorm-computer"
  :influence-cost 1
  :side :runner
+ :stripped-text "Place 4 power counters on Dorm Computer when you install it. click, hosted power counter: Make a run. Avoid all tags for the remainder of the run."
+ :stripped-title "Dorm Computer"
  :text "Place 4 power counters on Dorm Computer when you install it.\n[click], <strong>hosted power counter:</strong> Make a run. Avoid all tags for the remainder of the run."
  :title "Dorm Computer"
  :type :hardware

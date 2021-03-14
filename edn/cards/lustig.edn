@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "1 credit: Break sentry subroutine. 3 credits: +5 strength. trash: Bypass a piece of sentry ice currently being encountered, even if it has strength greater than Lustig."
+ :stripped-title "Lustig"
  :subtype [:icebreaker :killer]
  :text "1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +5 strength.\n[trash]: Bypass a piece of <strong>sentry</strong> ice currently being encountered, even if it has strength greater than Lustig."
  :title "Lustig"

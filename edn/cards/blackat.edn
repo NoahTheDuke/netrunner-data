@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 3
+ :stripped-text "1 credit: Break 1 barrier subroutine (or up to 3 subroutines if you spent a credit from a stealth card). 2 credits: +1 strength (or +2 strength if you spent at least 1 credit from a stealth card)."
+ :stripped-title "BlacKat"
  :subtype [:icebreaker :fracter]
  :text "1[credit]: Break 1 <strong>barrier</strong> subroutine (or up to 3 subroutines if you spent a credit from a <strong>stealth</strong> card).\n2[credit]: +1 strength (or +2 strength if you spent at least 1 credit from a <strong>stealth</strong> card)."
  :title "BlacKat"

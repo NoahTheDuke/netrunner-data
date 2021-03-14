@@ -4,6 +4,8 @@
  :id "deuces-wild"
  :influence-cost 1
  :side :runner
+ :stripped-text "Resolve two of the following in any order: * Gain 3 credits. * Draw 2 cards. * Remove 1 tag. * Expose 1 piece of ice, then make a run."
+ :stripped-title "Deuces Wild"
  :text "Resolve two of the following in any order:<ul><li>Gain 3[credit].</li><li>Draw 2 cards.</li><li>Remove 1 tag.</li><li>Expose 1 piece of ice, then make a run.</li></ul>"
  :title "Deuces Wild"
  :type :event

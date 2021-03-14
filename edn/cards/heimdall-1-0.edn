@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 6
+ :stripped-text "The Runner can spend click to break any subroutine on Heimdall 1.0. Subroutine Do 1 brain damage. Subroutine End the run. Subroutine End the run."
+ :stripped-title "Heimdall 1.0"
  :subtype [:barrier :bioroid :ap]
  :text "The Runner can spend [click] to break any subroutine on Heimdall 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Heimdall 1.0"

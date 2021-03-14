@@ -4,6 +4,8 @@
  :id "sync-rerouting"
  :influence-cost 3
  :side :corp
+ :stripped-text "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. Whenever a run begins, the Runner must pay 4 credits or take 1 tag."
+ :stripped-title "SYNC Rerouting"
  :subtype [:lockdown]
  :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nWhenever a run begins, the Runner must pay 4[credit] or take 1 tag."
  :title "SYNC Rerouting"

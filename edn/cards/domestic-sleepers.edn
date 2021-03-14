@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "domestic-sleepers"
  :side :corp
+ :stripped-text "click,click,click: Place 1 agenda counter on Domestic Sleepers. Domestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it."
+ :stripped-title "Domestic Sleepers"
  :text "[click],[click],[click]: Place 1 agenda counter on Domestic Sleepers.\nDomestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it."
  :title "Domestic Sleepers"
  :type :agenda

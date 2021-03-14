@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "Whenever the Corp loses at least 1 credit, gain 1 credit. Trash Ixodidae if the Corp purges virus counters."
+ :stripped-title "Ixodidae"
  :subtype [:virus]
  :text "Whenever the Corp loses at least 1[credit], gain 1[credit].\nTrash Ixodidae if the Corp purges virus counters."
  :title "Ixodidae"

@@ -4,6 +4,8 @@
  :id "power-shutdown"
  :influence-cost 2
  :side :corp
+ :stripped-text "Play only if the Runner made a run during his or her last turn. Trash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less."
+ :stripped-title "Power Shutdown"
  :subtype [:gray-ops]
  :text "Play only if the Runner made a run during his or her last turn.\nTrash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less."
  :title "Power Shutdown"

@@ -4,6 +4,8 @@
  :id "political-dealings"
  :influence-cost 4
  :side :corp
+ :stripped-text "Interrupt  Whenever you would draw a card, look at that card. If it is an agenda, instead of adding it to HQ you may reveal and install it. Errata from CR 1.4"
+ :stripped-title "Political Dealings"
  :subtype [:seedy]
  :text "[interrupt] – Whenever you would draw a card, look at that card. If it is an agenda, instead of adding it to HQ you may reveal and install it.\n<errata>Errata from CR 1.4</errata>"
  :title "Political Dealings"

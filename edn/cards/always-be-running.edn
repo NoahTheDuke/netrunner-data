@@ -4,6 +4,8 @@
  :id "always-be-running"
  :influence-cost 3
  :side :runner
+ :stripped-text "Your first click each turn must be spent to make a run or play a run event. Once per turn, you can spend click click to break a subroutine on a piece of ice currently being encountered."
+ :stripped-title "Always Be Running"
  :subtype [:directive :virtual]
  :text "Your first [click] each turn must be spent to make a run or play a <strong>run</strong> event.\nOnce per turn, you can spend [click][click] to break a subroutine on a piece of ice currently being encountered."
  :title "Always Be Running"

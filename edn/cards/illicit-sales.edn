@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "illicit-sales"
  :side :corp
+ :stripped-text "When you score Illicit Sales, you may take 1 bad publicity. Gain 3 credits for each bad publicity that you have."
+ :stripped-title "Illicit Sales"
  :subtype [:expansion]
  :text "When you score Illicit Sales, you may take 1 bad publicity. Gain 3[credit] for each bad publicity that you have."
  :title "Illicit Sales"

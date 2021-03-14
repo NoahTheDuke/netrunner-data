@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 4
+ :stripped-text "Subroutine You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner loses 2 credits. Subroutine Resolve a subroutine on a piece of rezzed psi ice."
+ :stripped-title "Upayoga"
  :subtype [:code-gate :psi]
  :text "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner loses 2[credit].\n[subroutine] Resolve a subroutine on a piece of rezzed <strong>psi</strong> ice."
  :title "Upayoga"

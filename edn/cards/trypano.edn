@@ -5,6 +5,8 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
+ :stripped-text "Install Trypano only on a piece of ice. When Trypano has 5 or more virus counters on it, trash host ice. When your turn begins, you may place 1 virus counter on Trypano."
+ :stripped-title "Trypano"
  :subtype [:virus]
  :text "Install Trypano only on a piece of ice.\nWhen Trypano has 5 or more virus counters on it, trash host ice.\nWhen your turn begins, you may place 1 virus counter on Trypano."
  :title "Trypano"

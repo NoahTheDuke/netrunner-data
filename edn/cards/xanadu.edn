@@ -4,6 +4,8 @@
  :id "xanadu"
  :influence-cost 2
  :side :runner
+ :stripped-text "The rez cost of all ice is increased by 1."
+ :stripped-title "Xanadu"
  :subtype [:virtual]
  :text "The rez cost of all ice is increased by 1."
  :title "Xanadu"

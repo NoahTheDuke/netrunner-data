@@ -4,6 +4,8 @@
  :id "process-automation"
  :influence-cost 1
  :side :runner
+ :stripped-text "Gain 2 credits and draw 1 card."
+ :stripped-title "Process Automation"
  :text "Gain 2[credit] and draw 1 card."
  :title "Process Automation"
  :type :event

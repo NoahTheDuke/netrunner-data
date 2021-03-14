@@ -4,6 +4,8 @@
  :id "aesop-s-pawnshop"
  :influence-cost 2
  :side :runner
+ :stripped-text "When your turn begins, you may trash another of your installed cards to gain 3 credits."
+ :stripped-title "Aesop's Pawnshop"
  :subtype [:location :connection]
  :text "When your turn begins, you may trash another of your installed cards to gain 3[credit]."
  :title "Aesop's Pawnshop"

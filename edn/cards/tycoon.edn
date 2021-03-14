@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "Whenever an encounter with a piece of ice in which you used Tycoon to break a subroutine ends, the Corp gains 2 credits. 1 credit: Break up to 2 barrier subroutines. 2 credits: +3 strength."
+ :stripped-title "Tycoon"
  :subtype [:icebreaker :fracter]
  :text "Whenever an encounter with a piece of ice in which you used Tycoon to break a subroutine ends, the Corp gains 2[credit].\n1[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n2[credit]: +3 strength."
  :title "Tycoon"

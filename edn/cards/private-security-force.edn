@@ -5,6 +5,8 @@
  :id "private-security-force"
  :influence-cost 0
  :side :corp
+ :stripped-text "If the Runner is tagged, Private Security Force gains: \"click: Do 1 meat damage.\""
+ :stripped-title "Private Security Force"
  :subtype [:security]
  :text "If the Runner is tagged, Private Security Force gains: \"[click]: Do 1 meat damage.\""
  :title "Private Security Force"

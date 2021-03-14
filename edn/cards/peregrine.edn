@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "1 credit: Break code gate subroutine. 3 credits: +3 strength. 2 credits, return Peregrine to your grip: Derez a code gate. Use this ability only after using Peregrine to break all the subroutines on that code gate during a single encounter."
+ :stripped-title "Peregrine"
  :subtype [:icebreaker :decoder]
  :text "1[credit]: Break <strong>code gate</strong> subroutine.\n3[credit]: +3 strength.\n2[credit], <strong>return Peregrine to your grip</strong>: Derez a <strong>code gate</strong>. Use this ability only after using Peregrine to break all the subroutines on that <strong>code gate</strong> during a single encounter."
  :title "Peregrine"

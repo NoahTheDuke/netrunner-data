@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "Whenever you make a successful run on R&D, place 1 virus counter on Deep Thought. If there are at least 3 virus counters on Deep Thought, it gains \"When your turn begins, you may look at the top card of R&D.\""
+ :stripped-title "Deep Thought"
  :subtype [:virus]
  :text "Whenever you make a successful run on R&D, place 1 virus counter on Deep Thought.\nIf there are at least 3 virus counters on Deep Thought, it gains \"When your turn begins, you may look at the top card of R&D.\""
  :title "Deep Thought"

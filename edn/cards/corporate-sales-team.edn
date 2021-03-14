@@ -5,6 +5,8 @@
  :id "corporate-sales-team"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you score Corporate Sales Team, place 10 credits on it. When each player's turn begins, take 1 credit from Corporate Sales Team."
+ :stripped-title "Corporate Sales Team"
  :subtype [:expansion]
  :text "When you score Corporate Sales Team, place 10[credit] on it.\nWhen each player's turn begins, take 1[credit] from Corporate Sales Team."
  :title "Corporate Sales Team"

@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Whenever an agenda is scored or stolen, add 1 unrezzed card to HQ."
+ :stripped-title "Leela Patel: Trained Pragmatist"
  :subtype [:natural]
  :text "Whenever an agenda is scored or stolen, add 1 unrezzed card to HQ."
  :title "Leela Patel: Trained Pragmatist"

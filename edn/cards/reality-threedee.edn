@@ -4,6 +4,8 @@
  :id "reality-threedee"
  :influence-cost 2
  :side :corp
+ :stripped-text "When you rez Reality Threedee, take 1 bad publicity. When your turn begins, gain 1 credit (or 2 credits if the Runner is tagged)."
+ :stripped-title "Reality Threedee"
  :subtype [:illicit]
  :text "When you rez Reality Threedee, take 1 bad publicity.\nWhen your turn begins, gain 1[credit] (or 2[credit] if the Runner is tagged)."
  :title "Reality Threedee"

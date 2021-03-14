@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 0
+ :stripped-text "If you have at least 2 link, the memory cost of Spike is 0, even if it is not installed. Spike has +1 strength for each installed icebreaker. trash: Break up to 3 barrier subroutines."
+ :stripped-title "Spike"
  :subtype [:icebreaker :fracter :cloud]
  :text "If you have at least 2[link], the memory cost of Spike is 0, even if it is not installed.\nSpike has +1 strength for each installed <strong>icebreaker</strong>.\n[trash]: Break up to 3 <strong>barrier</strong> subroutines."
  :title "Spike"

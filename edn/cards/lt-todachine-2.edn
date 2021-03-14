@@ -4,6 +4,8 @@
  :id "lt-todachine-2"
  :influence-cost 0
  :side :corp
+ :stripped-text "Whenever you rez a piece of ice, give the Runner 1 tag. Whenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card)."
+ :stripped-title "Lt. Todachine 2"
  :subtype [:character]
  :text "Whenever you rez a piece of ice, give the Runner 1 tag.\nWhenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card)."
  :title "Lt. Todachine 2"

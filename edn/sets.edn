@@ -441,7 +441,7 @@
  {:code "td"
   :cycle-id "terminal-directive"
   :date-release "2017-04-27"
-  :deluxe false
+  :deluxe true
   :ffg-id 42
   :id "terminal-directive-cards"
   :name "Terminal Directive Cards"
@@ -451,7 +451,7 @@
  {:code "tdc"
   :cycle-id "terminal-directive"
   :date-release "2017-04-27"
-  :deluxe false
+  :deluxe true
   :ffg-id 42
   :id "terminal-directive-campaign"
   :name "Terminal Directive Campaign"
@@ -661,12 +661,12 @@
  {:code "sg"
   :cycle-id "system-gateway"
   :date-release "2021-03-28"
-  :deluxe false
+  :deluxe true
   :ffg-id nil
   :id "system-gateway"
   :name "System Gateway"
   :position 1
-  :set-type :expansion
+  :set-type :core
   :size 75}
  {:code "su21"
   :cycle-id "system-update-2021"

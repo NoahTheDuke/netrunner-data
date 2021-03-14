@@ -5,6 +5,8 @@
  :influence-cost 4
  :side :corp
  :strength 5
+ :stripped-text "Subroutine Remove a card in the heap from the game. Subroutine End the run."
+ :stripped-title "Hailstorm"
  :subtype [:barrier]
  :text "[subroutine] Remove a card in the heap from the game.\n[subroutine] End the run."
  :title "Hailstorm"

@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 2
+ :stripped-text "When you encounter a piece of ice, you may pay 2 credits to have it gain barrier until the end of the encounter. Use this ability only once per turn. 2 credits: Break any number of barrier subroutines. 3 credits: +6 strength."
+ :stripped-title "Laamb"
  :subtype [:icebreaker :fracter]
  :text "When you encounter a piece of ice, you may pay 2[credit] to have it gain <strong>barrier</strong> until the end of the encounter. Use this ability only once per turn.\n2[credit]: Break any number of <strong>barrier</strong> subroutines.\n3[credit]: +6 strength."
  :title "Laamb"

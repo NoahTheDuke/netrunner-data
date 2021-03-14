@@ -4,6 +4,8 @@
  :id "rolodex"
  :influence-cost 1
  :side :runner
+ :stripped-text "When you install Rolodex, look at the top 5 cards of your stack and arrange them in any order. When Rolodex is trashed, trash the top 3 cards of your stack."
+ :stripped-title "Rolodex"
  :subtype [:virtual]
  :text "When you install Rolodex, look at the top 5 cards of your stack and arrange them in any order.\nWhen Rolodex is trashed, trash the top 3 cards of your stack."
  :title "Rolodex"

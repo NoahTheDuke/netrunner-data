@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 5
+ :stripped-text "Cradle has -1 strength for each card in your grip. 2 credits: Break any number of code gate subroutines."
+ :stripped-title "Cradle"
  :subtype [:icebreaker :decoder]
  :text "Cradle has -1 strength for each card in your grip.\n2[credit]: Break any number of <strong>code gate</strong> subroutines."
  :title "Cradle"

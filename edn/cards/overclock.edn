@@ -4,6 +4,8 @@
  :id "overclock"
  :influence-cost 0
  :side :runner
+ :stripped-text "Place 5 credits on this event, then run any server. You can spend hosted credits during that run."
+ :stripped-title "Overclock"
  :subtype [:run]
  :text "Place 5[credit] on this event, then run any server. You can spend hosted credits during that run."
  :title "Overclock"

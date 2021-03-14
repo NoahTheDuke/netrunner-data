@@ -4,6 +4,8 @@
  :id "palana-agroplex"
  :influence-cost 2
  :side :corp
+ :stripped-text "When your turn begins, each player draws 1 card."
+ :stripped-title "Palana Agroplex"
  :subtype [:facility]
  :text "When your turn begins, each player draws 1 card. "
  :title "Pālanā Agroplex"

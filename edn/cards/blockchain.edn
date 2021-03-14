@@ -5,6 +5,8 @@
  :influence-cost 4
  :side :corp
  :strength 4
+ :stripped-text "Blockchain gains \"Subroutine The Corp gains 1 credit and the Runner loses 1 credit.\" before all its other subroutines for every 2 faceup transaction operations in Archives. Subroutine The Corp gains 1 credit and the Runner loses 1 credit. Subroutine End the run."
+ :stripped-title "Blockchain"
  :subtype [:barrier]
  :text "Blockchain gains \"[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\" before all its other subroutines for every 2 faceup <strong>transaction</strong> operations in Archives.\n[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\n[subroutine] End the run."
  :title "Blockchain"

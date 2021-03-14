@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "1 credit: Break sentry subroutine. 2 credits: +1 strength. click: Place 1 power counter on Puffer or remove 1 power counter from Puffer. Puffer's strength and memory cost are increased by 1 for each power counter on it."
+ :stripped-title "Puffer"
  :subtype [:icebreaker :killer]
  :text "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\n[click]: Place 1 power counter on Puffer or remove 1 power counter from Puffer.\nPuffer's strength and memory cost are increased by 1 for each power counter on it."
  :title "Puffer"

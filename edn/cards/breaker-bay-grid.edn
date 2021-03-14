@@ -4,6 +4,8 @@
  :id "breaker-bay-grid"
  :influence-cost 0
  :side :corp
+ :stripped-text "The rez cost of cards in this server is lowered by 5. Limit 1 region per server."
+ :stripped-title "Breaker Bay Grid"
  :subtype [:region]
  :text "The rez cost of cards in this server is lowered by 5.\nLimit 1 <strong>region</strong> per server."
  :title "Breaker Bay Grid"

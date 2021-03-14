@@ -4,6 +4,8 @@
  :id "illegal-arms-factory"
  :influence-cost 2
  :side :corp
+ :stripped-text "If the Runner trashes Illegal Arms Factory while it is installed, take 1 bad publicity. When your turn begins, gain 1 credit and draw 1 card."
+ :stripped-title "Illegal Arms Factory"
  :subtype [:facility :illicit]
  :text "If the Runner trashes Illegal Arms Factory while it is installed, take 1 bad publicity.\nWhen your turn begins, gain 1[credit] and draw 1 card."
  :title "Illegal Arms Factory"

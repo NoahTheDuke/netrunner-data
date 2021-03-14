@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "2 credits: Host Ika on a piece of ice. 1 credit: Break up to 2 subroutines on host sentry. 2 credits: +3 strength."
+ :stripped-title "Ika"
  :subtype [:icebreaker :killer]
  :text "2[credit]: Host Ika on a piece of ice.\n1[credit]: Break up to 2 subroutines on host <strong>sentry</strong>.\n2[credit]: +3 strength."
  :title "Ika"

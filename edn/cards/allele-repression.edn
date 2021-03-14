@@ -4,6 +4,8 @@
  :id "allele-repression"
  :influence-cost 3
  :side :corp
+ :stripped-text "Allele Repression can be advanced. trash: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression."
+ :stripped-title "Allele Repression"
  :text "Allele Repression can be advanced.\n[trash]: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression."
  :title "Allele Repression"
  :trash-cost 2

@@ -4,6 +4,8 @@
  :id "tenma-line"
  :influence-cost 3
  :side :corp
+ :stripped-text "click: Swap 2 pieces of installed ice."
+ :stripped-title "Tenma Line"
  :subtype [:clone]
  :text "[click]: Swap 2 pieces of installed ice."
  :title "Tenma Line"

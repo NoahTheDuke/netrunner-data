@@ -4,6 +4,8 @@
  :id "gebrselassie"
  :influence-cost 4
  :side :runner
+ :stripped-text "click: Host Gebrselassie on an installed non-AI icebreaker. Abilities that increase host icebreaker's strength last for the remainder of the turn instead of any other duration. Errata from CR 1.4"
+ :stripped-title "Gebrselassie"
  :subtype [:mod]
  :text "[click]: Host Gebrselassie on an installed non-<strong>AI icebreaker</strong>.\nAbilities that increase host <strong>icebreaker's</strong> strength last for the remainder of the turn instead of any other duration.\n<errata>Errata from CR 1.4</errata>"
  :title "Gebrselassie"

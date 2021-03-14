@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 4
+ :stripped-text "click: Move this piece of ice to the outermost position protecting any server. Subroutine Place 1 advancement token on a piece of ice protecting this server that can be advanced. Subroutine Place 1 advancement token on a piece of ice protecting this server that can be advanced."
+ :stripped-title "Builder"
  :subtype [:code-gate]
  :text "[click]: Move this piece of ice to the outermost position protecting any server.\n[subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.\n[subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced."
  :title "Builder"

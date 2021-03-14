@@ -4,6 +4,8 @@
  :influence-limit 12
  :minimum-deck-size 40
  :side :corp
+ :stripped-text "Each player needs 1 fewer agenda point to win the game."
+ :stripped-title "Harmony Medtech: Biomedical Pioneer"
  :subtype [:division]
  :text "Each player needs 1 fewer agenda point to win the game."
  :title "Harmony Medtech: Biomedical Pioneer"

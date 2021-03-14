@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 2
+ :stripped-text "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server. Subroutine End the run."
+ :stripped-title "Seidr Adaptive Barrier"
  :subtype [:barrier]
  :text "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.\n[subroutine] End the run."
  :title "Seidr Adaptive Barrier"

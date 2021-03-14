@@ -4,6 +4,8 @@
  :id "snare"
  :influence-cost 2
  :side :corp
+ :stripped-text "If Snare! is accessed from R&D, the Runner must reveal it. If you pay 4 credits when the Runner accesses Snare!, do 3 net damage and give the Runner 1 tag. Ignore this effect if the Runner accesses Snare! from Archives."
+ :stripped-title "Snare!"
  :subtype [:ambush]
  :text "If Snare! is accessed from R&D, the Runner must reveal it.\nIf you pay 4[credit] when the Runner accesses Snare!, do 3 net damage and give the Runner 1 tag. Ignore this effect if the Runner accesses Snare! from Archives."
  :title "Snare!"

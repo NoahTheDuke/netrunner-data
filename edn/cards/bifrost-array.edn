@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "bifrost-array"
  :side :corp
+ :stripped-text "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area."
+ :stripped-title "Bifrost Array"
  :subtype [:initiative]
  :text "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area."
  :title "Bifrost Array"

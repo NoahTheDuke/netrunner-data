@@ -4,6 +4,8 @@
  :id "psychographics"
  :influence-cost 3
  :side :corp
+ :stripped-text "X is equal to or less than the number of tags the Runner has. Place X advancement tokens on a card that can be advanced."
+ :stripped-title "Psychographics"
  :text "X is equal to or less than the number of tags the Runner has.\nPlace X advancement tokens on a card that can be advanced."
  :title "Psychographics"
  :type :operation

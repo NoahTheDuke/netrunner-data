@@ -4,6 +4,8 @@
  :id "siu"
  :influence-cost 3
  :side :corp
+ :stripped-text "When your turn begins, you may trash SIU to trace 3 If successful, give the Runner 1 tag."
+ :stripped-title "SIU"
  :text "When your turn begins, you may trash SIU to <trace>trace 3</trace> If successful, give the Runner 1 tag."
  :title "SIU"
  :trash-cost 1

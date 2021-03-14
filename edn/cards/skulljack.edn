@@ -4,6 +4,8 @@
  :id "skulljack"
  :influence-cost 2
  :side :runner
+ :stripped-text "When you install Skulljack, suffer 1 brain damage. The trash cost of all cards is lowered by 1."
+ :stripped-title "Skulljack"
  :subtype [:cybernetic]
  :text "When you install Skulljack, suffer 1 brain damage.\nThe trash cost of all cards is lowered by 1."
  :title "Skulljack"

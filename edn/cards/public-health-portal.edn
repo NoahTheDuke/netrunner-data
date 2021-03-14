@@ -4,6 +4,8 @@
  :id "public-health-portal"
  :influence-cost 1
  :side :corp
+ :stripped-text "When your turn begins, reveal the top card of R&D and gain 2 credits."
+ :stripped-title "Public Health Portal"
  :subtype [:facility]
  :text "When your turn begins, reveal the top card of R&D and gain 2[credit]."
  :title "Public Health Portal"

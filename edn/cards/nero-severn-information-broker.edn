@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Once per turn, you may jack out when you encounter a sentry."
+ :stripped-title "Nero Severn: Information Broker"
  :subtype [:natural]
  :text "Once per turn, you may jack out when you encounter a <strong>sentry</strong>."
  :title "Nero Severn: Information Broker"

@@ -4,6 +4,8 @@
  :id "toshiyuki-sakai"
  :influence-cost 2
  :side :corp
+ :stripped-text "Toshiyuki Sakai can be advanced. If Toshiyuki Sakai is accessed while installed, you may swap him with an agenda or asset from HQ. The new agenda or asset is installed unrezzed, and keeps all advancement tokens on Toshiyuki Sakai. The Runner can choose not to access the new card."
+ :stripped-title "Toshiyuki Sakai"
  :subtype [:executive]
  :text "Toshiyuki Sakai can be advanced.\nIf Toshiyuki Sakai is accessed while installed, you may swap him with an agenda or asset from HQ. The new agenda or asset is installed unrezzed, and keeps all advancement tokens on Toshiyuki Sakai. The Runner can choose not to access the new card."
  :title "Toshiyuki Sakai"

@@ -4,6 +4,8 @@
  :id "scrubber"
  :influence-cost 1
  :side :runner
+ :stripped-text "2 recurring credits Use these credits to trash cards."
+ :stripped-title "Scrubber"
  :subtype [:connection :seedy]
  :text "2[recurring-credit]\nUse these credits to trash cards."
  :title "Scrubber"

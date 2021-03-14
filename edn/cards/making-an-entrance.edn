@@ -4,6 +4,8 @@
  :id "making-an-entrance"
  :influence-cost 2
  :side :runner
+ :stripped-text "Play only as your first click. Look at the top 6 cards of your stack. You may trash any of those cards and arrange the rest in any order."
+ :stripped-title "Making an Entrance"
  :subtype [:priority]
  :text "Play only as your first [click].\nLook at the top 6 cards of your stack. You may trash any of those cards and arrange the rest in any order."
  :title "Making an Entrance"

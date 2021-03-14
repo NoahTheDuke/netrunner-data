@@ -4,6 +4,8 @@
  :id "black-level-clearance"
  :influence-cost 5
  :side :corp
+ :stripped-text "Whenever there is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5 credits, draw 1 card, and trash Black Level Clearance."
+ :stripped-title "Black Level Clearance"
  :subtype [:security-protocol]
  :text "Whenever there is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5[credit], draw 1 card, and trash Black Level Clearance."
  :title "Black Level Clearance"

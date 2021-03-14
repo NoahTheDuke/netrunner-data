@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 0
+ :stripped-text "NEXT Bronze has +1 strength for each rezzed piece of NEXT ice. Subroutine End the run."
+ :stripped-title "NEXT Bronze"
  :subtype [:code-gate :next]
  :text "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run."
  :title "NEXT Bronze"

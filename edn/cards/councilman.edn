@@ -4,6 +4,8 @@
  :id "councilman"
  :influence-cost 0
  :side :runner
+ :stripped-text "Whenever the Corp rezzes an asset or upgrade, you may pay credits equal to its rez cost and trash Councilman. If you do, derez that asset or upgrade. The Corp cannot rez it for the remainder of this turn."
+ :stripped-title "Councilman"
  :subtype [:connection]
  :text "Whenever the Corp rezzes an asset or upgrade, you may pay credits equal to its rez cost and trash Councilman. If you do, derez that asset or upgrade. The Corp cannot rez it for the remainder of this turn."
  :title "Councilman"

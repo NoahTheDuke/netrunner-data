@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "Subroutine The Corp may choose a card in HQ. The Runner accesses that card. If he or she does, trash Kitsune."
+ :stripped-title "Kitsune"
  :subtype [:mythic :trap]
  :text "[subroutine] The Corp may choose a card in HQ. The Runner accesses that card. If he or she does, trash Kitsune."
  :title "Kitsune"

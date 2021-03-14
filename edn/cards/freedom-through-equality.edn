@@ -4,6 +4,8 @@
  :id "freedom-through-equality"
  :influence-cost 0
  :side :runner
+ :stripped-text "This card is not trashed until another current is played or an agenda is scored. When you steal an agenda, add \"Freedom Through Equality\" to your score area as an agenda worth 1 agenda point."
+ :stripped-title "\"Freedom Through Equality\""
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhen you steal an agenda, add \"Freedom Through Equality\" to your score area as an agenda worth 1 agenda point."
  :title "\"Freedom Through Equality\""

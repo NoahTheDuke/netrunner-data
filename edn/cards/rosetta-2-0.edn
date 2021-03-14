@@ -4,6 +4,8 @@
  :id "rosetta-2-0"
  :influence-cost 4
  :side :runner
+ :stripped-text "click, remove an installed program from the game: Search your stack for a non-virus program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game."
+ :stripped-title "Rosetta 2.0"
  :subtype [:virtual]
  :text "[click], <strong>remove an installed program from the game</strong>: Search your stack for a non-<strong>virus</strong> program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game."
  :title "Rosetta 2.0"

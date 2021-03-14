@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 3
+ :stripped-text "Subroutine The Runner loses click, if able Subroutine The Runner trashes 1 card from his or her grip."
+ :stripped-title "Weir"
  :subtype [:code-gate]
  :text "[subroutine] The Runner loses [click], if able\n[subroutine] The Runner trashes 1 card from his or her grip."
  :title "Weir"

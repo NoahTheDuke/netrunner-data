@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :runner
+ :stripped-text "When your turn begins, gain 1 credit if you have 2 or fewer cards in your grip."
+ :stripped-title "Nathaniel \"Gnat\" Hall: One-of-a-Kind"
  :subtype [:natural]
  :text "When your turn begins, gain 1[credit] if you have 2 or fewer cards in your grip."
  :title "Nathaniel \"Gnat\" Hall: One-of-a-Kind"

@@ -4,6 +4,8 @@
  :id "memstrips"
  :influence-cost 2
  :side :runner
+ :stripped-text "+3 mu Use the MU on MemStrips only for virus programs."
+ :stripped-title "MemStrips"
  :subtype [:chip]
  :text "+3[mu]\nUse the MU on MemStrips only for <strong>virus</strong> programs."
  :title "MemStrips"

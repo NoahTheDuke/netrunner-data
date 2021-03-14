@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 2
+ :stripped-text "1 credit: Add Himitsu-Bako to HQ. Subroutine End the run."
+ :stripped-title "Himitsu-Bako"
  :subtype [:barrier]
  :text "1[credit]: Add Himitsu-Bako to HQ.\n[subroutine] End the run."
  :title "Himitsu-Bako"

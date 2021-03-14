@@ -4,6 +4,8 @@
  :id "duggar-s"
  :influence-cost 4
  :side :runner
+ :stripped-text "click,click,click,click: Draw 10 cards."
+ :stripped-title "Duggar's"
  :subtype [:location :seedy]
  :text "[click],[click],[click],[click]: Draw 10 cards."
  :title "Duggar's"

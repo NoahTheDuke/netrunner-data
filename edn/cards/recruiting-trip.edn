@@ -4,6 +4,8 @@
  :id "recruiting-trip"
  :influence-cost 1
  :side :corp
+ :stripped-text "Search R&D for up to X different sysops (by title), reveal them, and add them to HQ. Shuffle R&D."
+ :stripped-title "Recruiting Trip"
  :text "Search R&D for up to X different <strong>sysops</strong> (by title), reveal them, and add them to HQ. Shuffle R&D."
  :title "Recruiting Trip"
  :type :operation

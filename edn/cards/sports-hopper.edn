@@ -4,6 +4,8 @@
  :id "sports-hopper"
  :influence-cost 0
  :side :runner
+ :stripped-text "+1 link trash: Draw 3 cards."
+ :stripped-title "Sports Hopper"
  :subtype [:vehicle]
  :text " +1[link]\n[trash]: Draw 3 cards."
  :title "Sports Hopper"

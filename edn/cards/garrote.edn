@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 2
+ :stripped-text "1 credit: Break sentry subroutine. 1 credit: +1 strength."
+ :stripped-title "Garrote"
  :subtype [:icebreaker :killer]
  :text "1[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength."
  :title "Garrote"

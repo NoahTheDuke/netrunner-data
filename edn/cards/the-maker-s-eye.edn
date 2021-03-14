@@ -4,6 +4,8 @@
  :id "the-maker-s-eye"
  :influence-cost 2
  :side :runner
+ :stripped-text "Make a run on R&D. If successful, access 2 additional cards from R&D."
+ :stripped-title "The Maker's Eye"
  :subtype [:run]
  :text "Make a run on R&D. If successful, access 2 additional cards from R&D."
  :title "The Maker's Eye"

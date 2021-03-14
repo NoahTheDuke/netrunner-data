@@ -5,6 +5,8 @@
  :id "eden-fragment"
  :influence-cost 0
  :side :corp
+ :stripped-text "Ignore the install cost of the first piece of ice you install each turn. Limit 1 per deck."
+ :stripped-title "Eden Fragment"
  :subtype [:source]
  :text "Ignore the install cost of the first piece of ice you install each turn.\nLimit 1 per deck."
  :title "Eden Fragment"

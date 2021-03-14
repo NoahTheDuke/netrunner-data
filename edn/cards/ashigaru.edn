@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 4
+ :stripped-text "Ashigaru gains \"Subroutine End the run.\" for each card in HQ."
+ :stripped-title "Ashigaru"
  :subtype [:barrier]
  :text "Ashigaru gains \"[subroutine] End the run.\" for each card in HQ."
  :title "Ashigaru"

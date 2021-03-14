@@ -4,6 +4,8 @@
  :id "public-sympathy"
  :influence-cost 0
  :side :runner
+ :stripped-text "Your maximum hand size is increased by 2."
+ :stripped-title "Public Sympathy"
  :text "Your maximum hand size is increased by 2."
  :title "Public Sympathy"
  :type :resource

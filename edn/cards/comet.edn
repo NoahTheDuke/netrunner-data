@@ -4,6 +4,8 @@
  :id "comet"
  :influence-cost 2
  :side :runner
+ :stripped-text "+1 mu The first time you play an event each turn, you may play another event (without spending a click) after the first one resolves. Limit 1 console per player."
+ :stripped-title "Comet"
  :subtype [:console]
  :text "+1[mu]\nThe first time you play an event each turn, you may play another event (without spending a click) after the first one resolves.\nLimit 1 <strong>console</strong> per player."
  :title "Comet"

@@ -4,6 +4,8 @@
  :id "artist-colony"
  :influence-cost 3
  :side :runner
+ :stripped-text "Forfeit an agenda: Search your stack for a card and install it (paying the install cost). Shuffle your stack."
+ :stripped-title "Artist Colony"
  :subtype [:location]
  :text "<strong>Forfeit an agenda:</strong> Search your stack for a card and install it (paying the install cost). Shuffle your stack."
  :title "Artist Colony"

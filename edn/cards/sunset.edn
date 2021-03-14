@@ -4,6 +4,8 @@
  :id "sunset"
  :influence-cost 1
  :side :corp
+ :stripped-text "Choose a server. Arrange the ice protecting that server in any order."
+ :stripped-title "Sunset"
  :text "Choose a server. Arrange the ice protecting that server in any order."
  :title "Sunset"
  :type :operation

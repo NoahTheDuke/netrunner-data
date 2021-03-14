@@ -4,6 +4,8 @@
  :id "spot-the-prey"
  :influence-cost 2
  :side :runner
+ :stripped-text "Expose 1 non-ice card, then make a run."
+ :stripped-title "Spot the Prey"
  :text "Expose 1 non-ice card, then make a run."
  :title "Spot the Prey"
  :type :event

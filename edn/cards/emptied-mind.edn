@@ -4,6 +4,8 @@
  :id "emptied-mind"
  :influence-cost 3
  :side :runner
+ :stripped-text "When your turn begins, gain click if you have no cards in your grip."
+ :stripped-title "Emptied Mind"
  :text "When your turn begins, gain [click] if you have no cards in your grip."
  :title "Emptied Mind"
  :type :resource

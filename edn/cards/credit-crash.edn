@@ -4,6 +4,8 @@
  :id "credit-crash"
  :influence-cost 1
  :side :runner
+ :stripped-text "Make a run. Trash the first non-agenda card you access during this run at no cost. The Corp can spend credits equal to the rez or play cost of the accessed card to prevent this trash."
+ :stripped-title "Credit Crash"
  :subtype [:run]
  :text "Make a run. Trash the first non-agenda card you access during this run at no cost. The Corp can spend credits equal to the rez or play cost of the accessed card to prevent this trash."
  :title "Credit Crash"

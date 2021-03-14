@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "During each run, Na'Not'K has +1 strength for each piece of ice protecting the attacked server. 1 credit: Break sentry subroutine. 3 credits: +2 strength."
+ :stripped-title "Na'Not'K"
  :subtype [:icebreaker :killer]
  :text "During each run, Na'Not'K has +1 strength for each piece of ice protecting the attacked server.\n1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +2 strength."
  :title "Na'Not'K"

@@ -4,6 +4,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "Whenever an agenda is scored or stolen, gain 2 credits or draw 2 cards."
+ :stripped-title "Sportsmetal: Go Big or Go Home"
  :subtype [:subsidiary]
  :text "Whenever an agenda is scored or stolen, gain 2[credit] or draw 2 cards."
  :title "Sportsmetal: Go Big or Go Home"

@@ -4,6 +4,8 @@
  :id "charlatan"
  :influence-cost 4
  :side :runner
+ :stripped-text "click, click: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, bypass that ice the next time you encounter it this run. Errata from CR 1.0"
+ :stripped-title "Charlatan"
  :subtype [:virtual]
  :text "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, bypass that ice the next time you encounter it this run.\n<errata>Errata from CR 1.0</errata>"
  :title "Charlatan"

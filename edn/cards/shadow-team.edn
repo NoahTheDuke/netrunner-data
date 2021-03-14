@@ -4,6 +4,8 @@
  :id "shadow-team"
  :influence-cost 0
  :side :runner
+ :stripped-text "Whenever you draw a Shadow Team, immediately install it. Whenever you initiate a run, trash a card from your grip, if able. When you make a successful run on a central server, destroy Shadow Team."
+ :stripped-title "Shadow Team"
  :subtype [:connection]
  :text "Whenever you draw a Shadow Team, immediately install it.\nWhenever you initiate a run, trash a card from your grip, if able. When you make a successful run on a central server, destroy Shadow Team."
  :title "Shadow Team"

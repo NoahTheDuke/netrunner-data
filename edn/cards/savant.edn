@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 1
+ :stripped-text "Savant has +1 strength for each unused MU. 2 credits: Break 1 sentry or 2 code gate subroutines."
+ :stripped-title "Savant"
  :subtype [:icebreaker :killer :decoder]
  :text "Savant has +1 strength for each unused MU.\n2[credit]: Break 1 <strong>sentry</strong> or 2 <strong>code gate</strong> subroutines."
  :title "Savant"

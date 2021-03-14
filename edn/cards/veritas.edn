@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 2
+ :stripped-text "Subroutine The Corp gains 2 credits. Subroutine The Runner loses 2 credits. Subroutine Trace 2 If successful, give the Runner 1 tag."
+ :stripped-title "Veritas"
  :subtype [:sentry :tracer]
  :text "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag."
  :title "Veritas"

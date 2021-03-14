@@ -5,6 +5,8 @@
  :id "global-food-initiative"
  :influence-cost 1
  :side :corp
+ :stripped-text "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area."
+ :stripped-title "Global Food Initiative"
  :subtype [:initiative]
  :text "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area."
  :title "Global Food Initiative"

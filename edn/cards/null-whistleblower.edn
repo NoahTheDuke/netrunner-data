@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Once per turn, when you encounter a piece of ice, you may trash 1 card from your grip. If you do, that ice has -2 strength for the remainder of this run."
+ :stripped-title "Null: Whistleblower"
  :subtype [:natural]
  :text "Once per turn, when you encounter a piece of ice, you may trash 1 card from your grip. If you do, that ice has -2 strength for the remainder of this run."
  :title "Null: Whistleblower"

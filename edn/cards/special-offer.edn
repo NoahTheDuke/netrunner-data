@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "Subroutine The Corp gains 5 credits. Trash Special Offer."
+ :stripped-title "Special Offer"
  :subtype [:trap :advertisement]
  :text "[subroutine] The Corp gains 5[credit]. Trash Special Offer."
  :title "Special Offer"

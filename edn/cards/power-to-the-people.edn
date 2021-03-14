@@ -4,6 +4,8 @@
  :id "power-to-the-people"
  :influence-cost 2
  :side :runner
+ :stripped-text "Play only as your first click. The first time you access an agenda this turn, gain 7 credits."
+ :stripped-title "Power to the People"
  :subtype [:priority]
  :text "Play only as your first [click].\nThe first time you access an agenda this turn, gain 7[credit]."
  :title "Power to the People"

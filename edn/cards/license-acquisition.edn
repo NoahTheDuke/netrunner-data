@@ -4,6 +4,8 @@
  :faction :nbn
  :id "license-acquisition"
  :side :corp
+ :stripped-text "When you score License Acquisition, install and rez an asset or upgrade from Archives or HQ, ignoring all costs."
+ :stripped-title "License Acquisition"
  :subtype [:expansion]
  :text "When you score License Acquisition, install and rez an asset or upgrade from Archives or HQ, ignoring all costs."
  :title "License Acquisition"

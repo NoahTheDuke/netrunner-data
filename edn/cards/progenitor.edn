@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 0
  :side :runner
+ :stripped-text "You may host a single virus program on Progenitor. The memory cost of the hosted program does not count against your memory limit. Interrupt  Whenever virus counters would be purged, prevent 1 virus counter on host program from being removed. Errata from CR 1.4"
+ :stripped-title "Progenitor"
  :subtype [:daemon]
  :text "You may host a single <strong>virus</strong> program on Progenitor.\nThe memory cost of the hosted program does not count against your memory limit.\n[interrupt] – Whenever virus counters would be purged, prevent 1 virus counter on host program from being removed.\n<errata>Errata from CR 1.4</errata>"
  :title "Progenitor"

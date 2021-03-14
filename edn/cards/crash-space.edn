@@ -4,6 +4,8 @@
  :id "crash-space"
  :influence-cost 2
  :side :runner
+ :stripped-text "2 recurring credits Use these credits to pay for removing tags. trash: Prevent up to 3 meat damage."
+ :stripped-title "Crash Space"
  :subtype [:location]
  :text "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage."
  :title "Crash Space"

@@ -4,6 +4,8 @@
  :id "donut-taganes"
  :influence-cost 2
  :side :runner
+ :stripped-text "The play cost of operations and events is increased by 1."
+ :stripped-title "Donut Taganes"
  :subtype [:connection]
  :text "The play cost of operations and events is increased by 1."
  :title "Donut Taganes"

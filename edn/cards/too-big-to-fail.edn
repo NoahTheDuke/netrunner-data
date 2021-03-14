@@ -4,6 +4,8 @@
  :id "too-big-to-fail"
  :influence-cost 4
  :side :corp
+ :stripped-text "Play only if you have fewer than 10 credits. Gain 7 credits and take 1 bad publicity."
+ :stripped-title "Too Big to Fail"
  :subtype [:transaction :illicit]
  :text "Play only if you have fewer than 10[credit].\nGain 7[credit] and take 1 bad publicity."
  :title "Too Big to Fail"

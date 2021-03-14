@@ -4,6 +4,8 @@
  :id "levy-university"
  :influence-cost 0
  :side :corp
+ :stripped-text "click, 1 credit: Search R&D for a piece of ice, reveal it, and add it to HQ. Shuffle R&D."
+ :stripped-title "Levy University"
  :subtype [:ritzy]
  :text "[click], 1[credit]: Search R&D for a piece of ice, reveal it, and add it to HQ. Shuffle R&D."
  :title "Levy University"

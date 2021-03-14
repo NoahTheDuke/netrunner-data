@@ -4,6 +4,8 @@
  :id "rover-algorithm"
  :influence-cost 0
  :side :corp
+ :stripped-text "Install Rover Algorithm on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +1 strength for each power counter on Rover Algorithm. Whenever the Runner passes host ice, place 1 power counter on Rover Algorithm.\""
+ :stripped-title "Rover Algorithm"
  :text "Install Rover Algorithm on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +1 strength for each power counter on Rover Algorithm. Whenever the Runner passes host ice, place 1 power counter on Rover Algorithm.\""
  :title "Rover Algorithm"
  :type :operation

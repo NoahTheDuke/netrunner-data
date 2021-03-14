@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "medical-breakthrough"
  :side :corp
+ :stripped-text "Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area."
+ :stripped-title "Medical Breakthrough"
  :subtype [:research]
  :text "Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area."
  :title "Medical Breakthrough"

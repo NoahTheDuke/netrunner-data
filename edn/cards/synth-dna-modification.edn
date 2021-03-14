@@ -4,6 +4,8 @@
  :id "synth-dna-modification"
  :influence-cost 1
  :side :corp
+ :stripped-text "The first time a subroutine on a piece of AP ice is broken each turn, do 1 net damage."
+ :stripped-title "Synth DNA Modification"
  :text "The first time a subroutine on a piece of <strong>AP</strong> ice is broken each turn, do 1 net damage."
  :title "Synth DNA Modification"
  :trash-cost 2

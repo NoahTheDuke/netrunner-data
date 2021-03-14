@@ -4,6 +4,8 @@
  :id "net-police"
  :influence-cost 2
  :side :corp
+ :stripped-text "X recurring credits Use these credits during traces. X is the number of links the Runner has."
+ :stripped-title "Net Police"
  :text "X[recurring-credit]\nUse these credits during traces. X is the number of links the Runner has."
  :title "Net Police"
  :trash-cost 1

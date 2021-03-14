@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "vulcan-coverup"
  :side :corp
+ :stripped-text "When you score Vulcan Coverup, do 2 meat damage. When the Runner steals Vulcan Coverup, take 1 bad publicity."
+ :stripped-title "Vulcan Coverup"
  :subtype [:security]
  :text "When you score Vulcan Coverup, do 2 meat damage.\nWhen the Runner steals Vulcan Coverup, take 1 bad publicity."
  :title "Vulcan Coverup"

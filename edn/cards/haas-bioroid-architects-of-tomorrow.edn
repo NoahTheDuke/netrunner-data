@@ -4,6 +4,8 @@
  :influence-limit 12
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "The first time the Runner passes a rezzed piece of bioroid ice each turn, you may rez a bioroid, lowering its rez cost by 4."
+ :stripped-title "Haas-Bioroid: Architects of Tomorrow"
  :subtype [:megacorp]
  :text "The first time the Runner passes a rezzed piece of <strong>bioroid</strong> ice each turn, you may rez a <strong>bioroid</strong>, lowering its rez cost by 4."
  :title "Haas-Bioroid: Architects of Tomorrow"

@@ -4,6 +4,8 @@
  :id "scorched-earth"
  :influence-cost 4
  :side :corp
+ :stripped-text "Play only if the Runner is tagged. Do 4 meat damage."
+ :stripped-title "Scorched Earth"
  :subtype [:black-ops]
  :text "Play only if the Runner is tagged.\nDo 4 meat damage."
  :title "Scorched Earth"

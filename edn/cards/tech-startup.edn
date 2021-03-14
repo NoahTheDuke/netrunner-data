@@ -4,6 +4,8 @@
  :id "tech-startup"
  :influence-cost 0
  :side :corp
+ :stripped-text "When your turn begins, you may trash Tech Startup. If you do, search R&D for an asset, reveal it, and install it. Shuffle R&D."
+ :stripped-title "Tech Startup"
  :text "When your turn begins, you may trash Tech Startup. If you do, search R&D for an asset, reveal it, and install it. Shuffle R&D."
  :title "Tech Startup"
  :trash-cost 1

@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 0
  :side :runner
+ :stripped-text "Dhegdheer can host a single program. Lower the install cost of programs you install on Dhegdheer by 1. The memory cost of the hosted program does not count against your memory limit. Errata from FAQ 4.0"
+ :stripped-title "Dhegdheer"
  :subtype [:daemon]
  :text "Dhegdheer can host a single program.\nLower the install cost of programs you install on Dhegdheer by 1.\nThe memory cost of the hosted program does not count against your memory limit.\n<errata>Errata from FAQ 4.0</errata>"
  :title "Dhegdheer"

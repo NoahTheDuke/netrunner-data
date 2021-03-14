@@ -4,6 +4,8 @@
  :id "spinal-modem"
  :influence-cost 2
  :side :runner
+ :stripped-text "+1 mu, 2 recurring credits Use these credits to pay for using icebreakers. Whenever there is a successful trace during a run, suffer 1 brain damage. Limit 1 console per player."
+ :stripped-title "Spinal Modem"
  :subtype [:console]
  :text "+1[mu], 2[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 brain damage.\nLimit 1 <strong>console</strong> per player."
  :title "Spinal Modem"

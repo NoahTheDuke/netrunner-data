@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "2 credits: Break all subroutines. Use this ability only by spending credits from stealth cards. 1 credit: +1 strength."
+ :stripped-title "Dai V"
  :subtype [:icebreaker :ai]
  :text "2[credit]: Break all subroutines. Use this ability only by spending credits from <strong>stealth</strong> cards.\n1[credit]: +1 strength."
  :title "Dai V"

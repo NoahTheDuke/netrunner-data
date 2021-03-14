@@ -4,6 +4,8 @@
  :id "mumba-temple"
  :influence-cost 2
  :side :corp
+ :stripped-text "This card costs 0 influence if you have 15 or fewer ice in your deck. 2 recurring credits Use these credits to rez cards."
+ :stripped-title "Mumba Temple"
  :subtype [:alliance :facility]
  :text "This card costs 0 influence if you have 15 or fewer ice in your deck.\n2[recurring-credit]\nUse these credits to rez cards."
  :title "Mumba Temple"

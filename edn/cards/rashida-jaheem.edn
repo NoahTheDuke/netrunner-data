@@ -4,6 +4,8 @@
  :id "rashida-jaheem"
  :influence-cost 0
  :side :corp
+ :stripped-text "When your turn begins, you may trash Rashida Jaheem to gain 3 credits and draw 3 cards."
+ :stripped-title "Rashida Jaheem"
  :subtype [:character]
  :text "When your turn begins, you may trash Rashida Jaheem to gain 3[credit] and draw 3 cards."
  :title "Rashida Jaheem"

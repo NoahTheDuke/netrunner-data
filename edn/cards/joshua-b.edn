@@ -4,6 +4,8 @@
  :id "joshua-b"
  :influence-cost 3
  :side :runner
+ :stripped-text "When your turn begins, you may gain click. If you do, take 1 tag when this turn ends."
+ :stripped-title "Joshua B."
  :subtype [:connection]
  :text "When your turn begins, you may gain [click]. If you do, take 1 tag when this turn ends."
  :title "Joshua B."

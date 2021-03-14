@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 1
+ :stripped-text "If all subroutines on Paper Wall are broken during a single encounter, trash Paper Wall. Subroutine End the run."
+ :stripped-title "Paper Wall"
  :subtype [:barrier]
  :text "If all subroutines on Paper Wall are broken during a single encounter, trash Paper Wall.\n[subroutine] End the run."
  :title "Paper Wall"

@@ -4,6 +4,8 @@
  :id "wireless-net-pavilion"
  :influence-cost 0
  :side :runner
+ :stripped-text "As an additional cost to spend click to trash a resource (not through a card ability), the Corp must pay 2 credits. Errata from FAQ 3.0.1"
+ :stripped-title "Wireless Net Pavilion"
  :subtype [:location]
  :text "As an additional cost to spend [click] to trash a resource (not through a card ability), the Corp must pay 2[credit].\n<errata>Errata from FAQ 3.0.1</errata>"
  :title "Wireless Net Pavilion"

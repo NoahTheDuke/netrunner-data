@@ -4,6 +4,8 @@
  :id "titanium-ribs"
  :influence-cost 2
  :side :runner
+ :stripped-text "When you install Titanium Ribs, suffer 2 meat damage. You choose the card(s) from your grip to trash whenever you take damage (including the damage taken by installing Titanium Ribs)."
+ :stripped-title "Titanium Ribs"
  :subtype [:cybernetic]
  :text "When you install Titanium Ribs, suffer 2 meat damage.\nYou choose the card(s) from your grip to trash whenever you take damage (including the damage taken by installing Titanium Ribs)."
  :title "Titanium Ribs"

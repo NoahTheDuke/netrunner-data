@@ -5,6 +5,8 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
+ :stripped-text "When your turn begins, gain 1 credit."
+ :stripped-title "Rezeki"
  :text "When your turn begins, gain 1[credit]."
  :title "Rezeki"
  :type :program

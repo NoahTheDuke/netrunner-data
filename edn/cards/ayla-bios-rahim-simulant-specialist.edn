@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Before drawing your starting hand, look at the top 6 cards of your stack. Set 4 of them facedown, as NVRAM. Shuffle the rest into your stack. click: Add 1 card from NVRAM to your grip."
+ :stripped-title "Ayla \"Bios\" Rahim: Simulant Specialist"
  :subtype [:natural]
  :text "Before drawing your starting hand, look at the top 6 cards of your stack. Set 4 of them facedown, as NVRAM. Shuffle the rest into your stack.\n[click]: Add 1 card from NVRAM to your grip. "
  :title "Ayla \"Bios\" Rahim: Simulant Specialist"

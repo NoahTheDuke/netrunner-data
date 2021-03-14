@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 7
+ :stripped-text "Subroutine If not already running on Archives, the Runner is now running on Archives instead of passing Susanoo-no-Mikoto. The Runner cannot jack out until after he or she encounters a piece of ice."
+ :stripped-title "Susanoo-no-Mikoto"
  :subtype [:sentry :deflector]
  :text "[subroutine] If not already running on Archives, the Runner is now running on Archives instead of passing Susanoo-no-Mikoto. The Runner cannot jack out until after he or she encounters a piece of ice."
  :title "Susanoo-no-Mikoto"

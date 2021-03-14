@@ -4,6 +4,8 @@
  :id "executive-search-firm"
  :influence-cost 3
  :side :corp
+ :stripped-text "This card costs 0 influence if you have 6 or more non-alliance  cards in your deck. click: Search R&D for an executive, sysop, or character, reveal it, and add it to HQ. Shuffle R&D."
+ :stripped-title "Executive Search Firm"
  :subtype [:alliance :ritzy]
  :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [weyland-consortium] cards in your deck.\n[click]: Search R&D for an <strong>executive</strong>, <strong>sysop</strong>, or <strong>character</strong>, reveal it, and add it to HQ. Shuffle R&D."
  :title "Executive Search Firm"

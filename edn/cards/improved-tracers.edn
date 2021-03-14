@@ -4,6 +4,8 @@
  :faction :nbn
  :id "improved-tracers"
  :side :corp
+ :stripped-text "All tracer ice have +1 strength. The base trace strength of each subroutine is increased by 1."
+ :stripped-title "Improved Tracers"
  :subtype [:security]
  :text "All <strong>tracer</strong> ice have +1 strength.\nThe base trace strength of each subroutine is increased by 1."
  :title "Improved Tracers"

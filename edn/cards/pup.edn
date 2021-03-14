@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 0
+ :stripped-text "Subroutine Do 1 net damage unless the Runner pays 1 credit. Subroutine Do 1 net damage unless the Runner pays 1 credit."
+ :stripped-title "Pup"
  :subtype [:sentry :ap]
  :text "[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit]."
  :title "Pup"

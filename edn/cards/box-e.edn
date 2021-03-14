@@ -4,6 +4,8 @@
  :id "box-e"
  :influence-cost 1
  :side :runner
+ :stripped-text "+2 mu Your maximum hand size is increased by 2. Limit 1 console per player."
+ :stripped-title "Box-E"
  :subtype [:console]
  :text "+2[mu]\nYour maximum hand size is increased by 2.\nLimit 1 <strong>console</strong> per player."
  :title "Box-E"

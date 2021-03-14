@@ -4,6 +4,8 @@
  :id "drive-by"
  :influence-cost 2
  :side :runner
+ :stripped-text "As an additional cost to play this event, spend click. Expose 1 card installed in a remote server. Trash that card at no cost if it is an asset or upgrade."
+ :stripped-title "Drive By"
  :subtype [:double]
  :text "As an additional cost to play this event, spend [click].\nExpose 1 card installed in a remote server. Trash that card at no cost if it is an asset or upgrade."
  :title "Drive By"

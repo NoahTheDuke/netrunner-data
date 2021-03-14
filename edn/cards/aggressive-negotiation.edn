@@ -4,6 +4,8 @@
  :id "aggressive-negotiation"
  :influence-cost 1
  :side :corp
+ :stripped-text "Play only if you scored an agenda this turn. Search R&D for 1 card and add it to HQ. Shuffle R&D."
+ :stripped-title "Aggressive Negotiation"
  :text "Play only if you scored an agenda this turn.\nSearch R&D for 1 card and add it to HQ. Shuffle R&D."
  :title "Aggressive Negotiation"
  :type :operation

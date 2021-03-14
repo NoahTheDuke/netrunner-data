@@ -4,6 +4,8 @@
  :id "dedicated-processor"
  :influence-cost 3
  :side :runner
+ :stripped-text "Install Dedicated Processor on a non-AI icebreaker. Host icebreaker gains \"2 credits: +4 strength.\""
+ :stripped-title "Dedicated Processor"
  :subtype [:mod]
  :text "Install Dedicated Processor on a non-<strong>AI icebreaker</strong>.\nHost <strong>icebreaker</strong> gains \"2[credit]: +4 strength.\""
  :title "Dedicated Processor"

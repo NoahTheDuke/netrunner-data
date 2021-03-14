@@ -4,6 +4,8 @@
  :id "lakshmi-smartfabrics"
  :influence-cost 3
  :side :corp
+ :stripped-text "Whenever you rez a card, place 1 power counter on Lakshmi Smartfabrics. X hosted power counters: Reveal an agenda worth X points from HQ. The Runner cannot steal copies of that agenda for the remainder of this turn."
+ :stripped-title "Lakshmi Smartfabrics"
  :text "Whenever you rez a card, place 1 power counter on Lakshmi Smartfabrics.\n<strong>X hosted power counters:</strong> Reveal an agenda worth X points from HQ. The Runner cannot steal copies of that agenda for the remainder of this turn."
  :title "Lakshmi Smartfabrics"
  :trash-cost 3

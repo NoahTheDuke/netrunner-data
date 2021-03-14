@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :runner
+ :stripped-text "+1 mu"
+ :stripped-title "Chaos Theory: Wunderkind"
  :subtype [:g-mod]
  :text "+1[mu]"
  :title "Chaos Theory: Wünderkind"

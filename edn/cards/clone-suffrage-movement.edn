@@ -4,6 +4,8 @@
  :id "clone-suffrage-movement"
  :influence-cost 2
  :side :corp
+ :stripped-text "When your turn begins, you may add 1 operation from Archives to HQ if there is no ice protecting this server."
+ :stripped-title "Clone Suffrage Movement"
  :subtype [:political]
  :text "When your turn begins, you may add 1 operation from Archives to HQ if there is no ice protecting this server."
  :title "Clone Suffrage Movement"

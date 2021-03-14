@@ -4,6 +4,8 @@
  :id "mass-commercialization"
  :influence-cost 0
  :side :corp
+ :stripped-text "Gain 2 credits for each card with at least 1 advancement token on it."
+ :stripped-title "Mass Commercialization"
  :subtype [:transaction]
  :text "Gain 2[credit] for each card with at least 1 advancement token on it."
  :title "Mass Commercialization"

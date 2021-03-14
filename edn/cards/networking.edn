@@ -4,6 +4,8 @@
  :id "networking"
  :influence-cost 1
  :side :runner
+ :stripped-text "Remove 1 tag. You may pay 1 credit to add Networking to your grip instead of trashing it."
+ :stripped-title "Networking"
  :text "Remove 1 tag. You may pay 1[credit] to add Networking to your grip instead of trashing it."
  :title "Networking"
  :type :event

@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 3
+ :stripped-text "Hive loses an \"Subroutine End the run.\" subroutine for each agenda point in the Corp's score area. Subroutine End the run. Subroutine End the run. Subroutine End the run. Subroutine End the run. Subroutine End the run."
+ :stripped-title "Hive"
  :subtype [:barrier]
  :text "Hive loses an \"[subroutine] End the run.\" subroutine for each agenda point in the Corp's score area.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Hive"

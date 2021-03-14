@@ -4,6 +4,8 @@
  :id "knifed"
  :influence-cost 3
  :side :runner
+ :stripped-text "Make a run. The first time you break all subroutines on a barrier during this run, trash that barrier."
+ :stripped-title "Knifed"
  :subtype [:run :sabotage]
  :text "Make a run. The first time you break all subroutines on a <strong>barrier</strong> during this run, trash that <strong>barrier</strong>."
  :title "Knifed"

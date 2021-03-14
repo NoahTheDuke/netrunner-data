@@ -4,6 +4,8 @@
  :id "patch"
  :influence-cost 2
  :side :corp
+ :stripped-text "Install Patch on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +2 strength.\""
+ :stripped-title "Patch"
  :subtype [:condition]
  :text "Install Patch on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +2 strength.\""
  :title "Patch"

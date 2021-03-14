@@ -4,6 +4,8 @@
  :id "breached-dome"
  :influence-cost 2
  :side :corp
+ :stripped-text "If Breached Dome is accessed from R&D, the Runner must reveal it. When the Runner accesses Breached Dome, do 1 meat damage and trash the top card of the stack."
+ :stripped-title "Breached Dome"
  :subtype [:ambush]
  :text "If Breached Dome is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Breached Dome, do 1 meat damage and trash the top card of the stack."
  :title "Breached Dome"

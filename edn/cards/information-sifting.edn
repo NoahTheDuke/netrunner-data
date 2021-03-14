@@ -4,6 +4,8 @@
  :id "information-sifting"
  :influence-cost 3
  :side :runner
+ :stripped-text "Make a run on HQ. If successful, instead of accessing cards, the Corp separates all cards in HQ into 2 facedown piles. Access all of the cards in one of the piles; you cannot access any cards in the other pile this run."
+ :stripped-title "Information Sifting"
  :subtype [:run]
  :text "Make a run on HQ. If successful, instead of accessing cards, the Corp separates all cards in HQ into 2 facedown piles. Access all of the cards in one of the piles; you cannot access any cards in the other pile this run."
  :title "Information Sifting"

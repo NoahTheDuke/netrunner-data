@@ -4,6 +4,8 @@
  :id "heartbeat"
  :influence-cost 3
  :side :runner
+ :stripped-text "+1 mu Trash an installed card: Prevent 1 damage. Limit 1 console per player."
+ :stripped-title "Heartbeat"
  :subtype [:console]
  :text "+1[mu]\n<strong>Trash an installed card:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player."
  :title "Heartbeat"

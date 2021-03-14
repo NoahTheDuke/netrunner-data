@@ -4,6 +4,8 @@
  :id "bookmark"
  :influence-cost 2
  :side :runner
+ :stripped-text "click: Host up to 3 cards from your grip facedown on Bookmark (you may look at these cards at any time). click or trash: Add all cards on Bookmark to your grip."
+ :stripped-title "Bookmark"
  :text "[click]: Host up to 3 cards from your grip facedown on Bookmark (you may look at these cards at any time).\n[click] or [trash]: Add all cards on Bookmark to your grip."
  :title "Bookmark"
  :type :hardware

@@ -4,6 +4,8 @@
  :id "boom"
  :influence-cost 3
  :side :corp
+ :stripped-text "Play only if the Runner has at least 2 tags. As an additional cost to play this operation, spend click. Do 7 meat damage."
+ :stripped-title "BOOM!"
  :subtype [:double :black-ops]
  :text "Play only if the Runner has at least 2 tags.\nAs an additional cost to play this operation, spend [click].\nDo 7 meat damage."
  :title "BOOM!"

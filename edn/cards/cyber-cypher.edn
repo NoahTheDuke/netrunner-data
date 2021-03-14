@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 4
+ :stripped-text "1 credit: Break code gate subroutine. 1 credit: +1 strength. When you install Cyber-Cypher, choose a server. Cyber-Cypher can be used only during a run on the chosen server."
+ :stripped-title "Cyber-Cypher"
  :subtype [:icebreaker :decoder]
  :text "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.\nWhen you install Cyber-Cypher, choose a server. Cyber-Cypher can be used only during a run on the chosen server."
  :title "Cyber-Cypher"

@@ -4,6 +4,8 @@
  :id "trickster-taka"
  :influence-cost 3
  :side :runner
+ :stripped-text "When your turn begins or you steal an agenda, place 1 credit on this resource. Spend hosted credits to use programs during runs. When your turn ends, if there are 3 or more hosted credits, you must take 1 tag or trash this resource."
+ :stripped-title "Trickster Taka"
  :subtype [:stealth :companion :virtual]
  :text "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to use programs during runs.\nWhen your turn ends, if there are 3 or more hosted credits, you must take 1 tag or trash this resource."
  :title "Trickster Taka"

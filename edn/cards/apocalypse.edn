@@ -4,6 +4,8 @@
  :id "apocalypse"
  :influence-cost 3
  :side :runner
+ :stripped-text "Play only if you made a successful run on HQ, R&D and Archives this turn. Trash all installed Corp cards. Turn all installed Runner cards facedown."
+ :stripped-title "Apocalypse"
  :text "Play only if you made a successful run on HQ, R&D and Archives this turn.\nTrash all installed Corp cards. Turn all installed Runner cards facedown."
  :title "Apocalypse"
  :type :event

@@ -4,6 +4,8 @@
  :influence-limit 17
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "Whenever you score an agenda, you may place 1 agenda counter on it."
+ :stripped-title "Titan Transnational: Investing In Your Future"
  :subtype [:corp]
  :text "Whenever you score an agenda, you may place 1 agenda counter on it."
  :title "Titan Transnational: Investing In Your Future"

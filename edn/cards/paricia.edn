@@ -5,6 +5,8 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
+ :stripped-text "2 recurring credits Use these credits to trash assets."
+ :stripped-title "Paricia"
  :text "2[recurring-credit]\nUse these credits to trash assets."
  :title "Paricia"
  :type :program

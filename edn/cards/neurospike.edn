@@ -4,6 +4,8 @@
  :id "neurospike"
  :influence-cost 3
  :side :corp
+ :stripped-text "Do X net damage, where X is equal to the sum of the printed agenda points on agendas you scored this turn."
+ :stripped-title "Neurospike"
  :subtype [:gray-ops]
  :text "Do X net damage, where X is equal to the sum of the printed agenda points on agendas you scored this turn."
  :title "Neurospike"

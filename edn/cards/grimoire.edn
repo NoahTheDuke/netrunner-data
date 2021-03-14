@@ -4,6 +4,8 @@
  :id "grimoire"
  :influence-cost 2
  :side :runner
+ :stripped-text "+2 mu Whenever you install a virus program, place 1 virus counter on that program. Limit 1 console per player."
+ :stripped-title "Grimoire"
  :subtype [:console]
  :text "+2[mu]\nWhenever you install a <strong>virus</strong> program, place 1 virus counter on that program.\nLimit 1 <strong>console</strong> per player."
  :title "Grimoire"

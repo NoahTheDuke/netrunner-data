@@ -4,6 +4,8 @@
  :id "masterwork-v37"
  :influence-cost 4
  :side :runner
+ :stripped-text "+1 mu. The first time each turn you install a piece of hardware, draw 1 card. Whenever a run begins, you may install a piece of hardware, paying 1 credit more. Limit 1 console per player."
+ :stripped-title "Masterwork (v37)"
  :subtype [:console]
  :text "+1[mu].\nThe first time each turn you install a piece of hardware, draw 1 card.\nWhenever a run begins, you may install a piece of hardware, paying 1[credit] more.\nLimit 1 <strong>console</strong> per player."
  :title "Masterwork (v37)"

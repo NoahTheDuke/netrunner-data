@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "When you install Plague, choose a server. Whenever you make a successful run on the chosen server, you may place 2 virus counters on Plague."
+ :stripped-title "Plague"
  :subtype [:virus]
  :text "When you install Plague, choose a server.\nWhenever you make a successful run on the chosen server, you may place 2 virus counters on Plague."
  :title "Plague"

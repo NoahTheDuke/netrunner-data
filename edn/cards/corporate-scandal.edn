@@ -4,6 +4,8 @@
  :id "corporate-scandal"
  :influence-cost 1
  :side :runner
+ :stripped-text "This card is not trashed until another current is played or an agenda is scored. The Corp has 1 additional bad publicity (even if they have 0)."
+ :stripped-title "Corporate Scandal"
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp has 1 additional bad publicity (even if they have 0)."
  :title "Corporate Scandal"

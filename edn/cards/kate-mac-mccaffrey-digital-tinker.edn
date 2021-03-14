@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Lower the install cost of the first program or piece of hardware you install each turn by 1."
+ :stripped-title "Kate \"Mac\" McCaffrey: Digital Tinker"
  :subtype [:natural]
  :text "Lower the install cost of the first program or piece of hardware you install each turn by 1."
  :title "Kate \"Mac\" McCaffrey: Digital Tinker"

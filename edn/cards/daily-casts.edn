@@ -4,6 +4,8 @@
  :id "daily-casts"
  :influence-cost 0
  :side :runner
+ :stripped-text "When you install this resource, load 8 credits onto it. When it is empty, trash it. When your turn begins, take 2 credits from this resource."
+ :stripped-title "Daily Casts"
  :text "When you install this resource, load 8[credit] onto it. When it is empty, trash it.\nWhen your turn begins, take 2[credit] from this resource."
  :title "Daily Casts"
  :type :resource

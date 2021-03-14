@@ -4,6 +4,8 @@
  :id "legwork"
  :influence-cost 2
  :side :runner
+ :stripped-text "Make a run on HQ. If successful, access 2 additional cards from HQ."
+ :stripped-title "Legwork"
  :subtype [:run]
  :text "Make a run on HQ. If successful, access 2 additional cards from HQ."
  :title "Legwork"

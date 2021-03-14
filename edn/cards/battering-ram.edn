@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 3
+ :stripped-text "2 credits: Break up to 2 barrier subroutines. 1 credit: +1 strength for the remainder of this run."
+ :stripped-title "Battering Ram"
  :subtype [:icebreaker :fracter]
  :text "2[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n1[credit]: +1 strength for the remainder of this run."
  :title "Battering Ram"

@@ -4,6 +4,8 @@
  :id "pad-tap"
  :influence-cost 1
  :side :runner
+ :stripped-text "The first time the Corp gains credits through a card ability each turn, you may gain 1 credit. click, 3 credits: Trash PAD Tap. Only the Corp can use this ability."
+ :stripped-title "PAD Tap"
  :text "The first time the Corp gains credits through a card ability each turn, you may gain 1[credit].\n[click], 3[credit]: Trash PAD Tap. Only the Corp can use this ability."
  :title "PAD Tap"
  :type :resource

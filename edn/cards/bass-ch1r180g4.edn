@@ -4,6 +4,8 @@
  :id "bass-ch1r180g4"
  :influence-cost 3
  :side :corp
+ :stripped-text "click, trash: Gain click click."
+ :stripped-title "Bass CH1R180G4"
  :subtype [:bioroid]
  :text "[click], [trash]: Gain [click][click]."
  :title "Bass CH1R180G4"

@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "When you install this program, it gets +3 strength for the remainder of the turn. 1 credit: Break barrier subroutine. 2 credits: +2 strength."
+ :stripped-title "Gauss"
  :subtype [:icebreaker :fracter]
  :text "When you install this program, it gets +3 strength for the remainder of the turn.\n1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +2 strength."
  :title "Gauss"

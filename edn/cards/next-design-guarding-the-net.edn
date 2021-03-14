@@ -4,6 +4,8 @@
  :influence-limit 12
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ."
+ :stripped-title "NEXT Design: Guarding the Net"
  :subtype [:division]
  :text "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ."
  :title "NEXT Design: Guarding the Net"

@@ -4,6 +4,8 @@
  :id "corporate-troubleshooter"
  :influence-cost 1
  :side :corp
+ :stripped-text "X credits, trash: Choose a piece of rezzed ice protecting this server. That ice has +X strength until the end of the turn."
+ :stripped-title "Corporate Troubleshooter"
  :subtype [:connection]
  :text "X[credit], [trash]: Choose a piece of rezzed ice protecting this server. That ice has +X strength until the end of the turn."
  :title "Corporate Troubleshooter"

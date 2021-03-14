@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 0
+ :stripped-text "Subroutine End the run."
+ :stripped-title "Vanilla"
  :subtype [:barrier]
  :text "[subroutine] End the run."
  :title "Vanilla"

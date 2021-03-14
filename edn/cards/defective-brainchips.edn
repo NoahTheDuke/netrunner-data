@@ -4,6 +4,8 @@
  :id "defective-brainchips"
  :influence-cost 1
  :side :corp
+ :stripped-text "This card is not trashed until another current is played or an agenda is stolen. Interrupt  The first time each turn the Runner would suffer brain damage, increase the amount of damage by 1. Errata from CR 1.4"
+ :stripped-title "Defective Brainchips"
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\n[interrupt] – The first time each turn the Runner would suffer brain damage, increase the amount of damage by 1.\n<errata>Errata from CR 1.4</errata>"
  :title "Defective Brainchips"

@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "Trash a card from your grip: Break ice subroutine. Trash a card from your grip: +2 strength."
+ :stripped-title "Faust"
  :subtype [:icebreaker :ai]
  :text "<strong>Trash a card from your grip:</strong> Break ice subroutine.\n<strong>Trash a card from your grip:</strong> +2 strength."
  :title "Faust"

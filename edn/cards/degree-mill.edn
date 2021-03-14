@@ -4,6 +4,8 @@
  :faction :nbn
  :id "degree-mill"
  :side :corp
+ :stripped-text "As an additional cost to steal Degree Mill, the Runner must shuffle 2 installed Runner cards into the stack."
+ :stripped-title "Degree Mill"
  :subtype [:initiative]
  :text "As an additional cost to steal Degree Mill, the Runner must shuffle 2 installed Runner cards into the stack."
  :title "Degree Mill"

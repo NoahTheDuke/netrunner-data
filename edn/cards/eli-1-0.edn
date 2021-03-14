@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 4
+ :stripped-text "The Runner may spend click to break any subroutine on Eli 1.0. Subroutine End the run. Subroutine End the run."
+ :stripped-title "Eli 1.0"
  :subtype [:barrier :bioroid]
  :text "The Runner may spend [click] to break any subroutine on Eli 1.0.\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Eli 1.0"

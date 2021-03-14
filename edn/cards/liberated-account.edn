@@ -4,6 +4,8 @@
  :id "liberated-account"
  :influence-cost 2
  :side :runner
+ :stripped-text "Place 16 credits from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it. click: Take 4 credits from Liberated Account."
+ :stripped-title "Liberated Account"
  :text "Place 16[credit] from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.\n[click]: Take 4[credit] from Liberated Account."
  :title "Liberated Account"
  :type :resource

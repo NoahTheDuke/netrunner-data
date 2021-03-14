@@ -4,6 +4,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "When your turn ends, you may choose a piece of ice with no advancement tokens on it. If you do, place 1 advancement token on that piece of ice for each agenda point on all installed faceup agendas."
+ :stripped-title "SSO Industries: Fueling Innovation"
  :subtype [:division]
  :text "When your turn ends, you may choose a piece of ice with no advancement tokens on it. If you do, place 1 advancement token on that piece of ice for each agenda point on all installed faceup agendas."
  :title "SSO Industries: Fueling Innovation"

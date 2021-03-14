@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 1
+ :stripped-text "Subroutine Trash the top 3 cards of the stack. Trash Aimor."
+ :stripped-title "Aimor"
  :subtype [:trap]
  :text "[subroutine] Trash the top 3 cards of the stack. Trash Aimor."
  :title "Aimor"

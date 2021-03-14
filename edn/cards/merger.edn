@@ -5,6 +5,8 @@
  :id "merger"
  :influence-cost 1
  :side :corp
+ :stripped-text "Merger is worth 1 additional agenda point while in the Runner's score area."
+ :stripped-title "Merger"
  :subtype [:expansion]
  :text "Merger is worth 1 additional agenda point while in the Runner's score area."
  :title "Merger"

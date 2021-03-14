@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "mandatory-upgrades"
  :side :corp
+ :stripped-text "You have 1 additional click to spend each turn."
+ :stripped-title "Mandatory Upgrades"
  :subtype [:initiative]
  :text "You have 1 additional [click] to spend each turn."
  :title "Mandatory Upgrades"

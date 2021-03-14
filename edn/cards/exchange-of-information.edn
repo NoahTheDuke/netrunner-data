@@ -4,6 +4,8 @@
  :id "exchange-of-information"
  :influence-cost 2
  :side :corp
+ :stripped-text "Play only if the Runner is tagged. Swap an agenda in your score area with an agenda in the Runner's score area."
+ :stripped-title "Exchange of Information"
  :subtype [:gray-ops]
  :text "Play only if the Runner is tagged.\nSwap an agenda in your score area with an agenda in the Runner's score area."
  :title "Exchange of Information"

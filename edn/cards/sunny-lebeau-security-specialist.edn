@@ -5,6 +5,7 @@
  :influence-limit 25
  :minimum-deck-size 50
  :side :runner
+ :stripped-title "Sunny Lebeau: Security Specialist"
  :subtype [:natural]
  :title "Sunny Lebeau: Security Specialist"
  :type :identity

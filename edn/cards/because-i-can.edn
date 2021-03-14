@@ -4,6 +4,8 @@
  :id "because-i-can"
  :influence-cost 1
  :side :runner
+ :stripped-text "Make a run on a remote server. If successful, instead of accessing cards, you may force the Corp to shuffle all cards in that server into R&D."
+ :stripped-title "Because I Can"
  :subtype [:run]
  :text "Make a run on a remote server. If successful, instead of accessing cards, you may force the Corp to shuffle all cards in that server into R&D."
  :title "Because I Can"

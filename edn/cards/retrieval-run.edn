@@ -4,6 +4,8 @@
  :id "retrieval-run"
  :influence-cost 2
  :side :runner
+ :stripped-text "Make a run on Archives. If successful, instead of accessing cards you may install a program from your heap, ignoring all costs."
+ :stripped-title "Retrieval Run"
  :subtype [:run]
  :text "Make a run on Archives. If successful, instead of accessing cards you may install a program from your heap, ignoring all costs."
  :title "Retrieval Run"

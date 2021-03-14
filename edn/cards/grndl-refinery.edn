@@ -4,6 +4,8 @@
  :id "grndl-refinery"
  :influence-cost 2
  :side :corp
+ :stripped-text "GRNDL Refinery can be advanced. click, trash: Gain 4 credits for each advancement token on GRNDL Refinery."
+ :stripped-title "GRNDL Refinery"
  :subtype [:facility]
  :text "GRNDL Refinery can be advanced.\n[click], [trash]: Gain 4[credit] for each advancement token on GRNDL Refinery."
  :title "GRNDL Refinery"

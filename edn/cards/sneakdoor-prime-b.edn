@@ -5,6 +5,8 @@
  :influence-cost 0
  :memory-cost 2
  :side :runner
+ :stripped-text "click,click: Make a run on a central server. If successful, instead treat it as a successful run on a remote server."
+ :stripped-title "Sneakdoor Prime B"
  :text "[click],[click]: Make a run on a central server. If successful, instead treat it as a successful run on a remote server."
  :title "Sneakdoor Prime B"
  :type :program

@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "1 credit: Break sentry subroutine. X credits: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a stealth card."
+ :stripped-title "Fawkes"
  :subtype [:icebreaker :killer]
  :text "1[credit]: Break <strong>sentry</strong> subroutine.\nX[credit]: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card."
  :title "Fawkes"

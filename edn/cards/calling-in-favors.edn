@@ -4,6 +4,8 @@
  :id "calling-in-favors"
  :influence-cost 1
  :side :runner
+ :stripped-text "Gain 1 credit for each installed connection resource."
+ :stripped-title "Calling in Favors"
  :text "Gain 1[credit] for each installed <strong>connection</strong> resource."
  :title "Calling in Favors"
  :type :event

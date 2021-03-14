@@ -5,6 +5,8 @@
  :id "evidence-collection-2"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you win a game with Evidence Collection in your score area, reveal set 5."
+ :stripped-title "Evidence Collection 2"
  :subtype [:research]
  :text "When you win a game with Evidence Collection in your score area, reveal set 5."
  :title "Evidence Collection 2"

@@ -5,6 +5,8 @@
  :influence-cost 5
  :side :corp
  :strength 3
+ :stripped-text "When the Runner encounters Loki, choose another rezzed piece of ice. Until the end of the run, Loki gains the subtypes of that ice and the subroutines of that ice before all Loki's other subroutines. Subroutine End the run unless the Runner shuffles his or her grip into the stack."
+ :stripped-title "Loki"
  :subtype [:bioroid]
  :text "When the Runner encounters Loki, choose another rezzed piece of ice. Until the end of the run, Loki gains the subtypes of that ice and the subroutines of that ice before all Loki's other subroutines.\n[subroutine] End the run unless the Runner shuffles his or her grip into the stack."
  :title "Loki"

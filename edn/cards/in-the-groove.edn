@@ -4,6 +4,8 @@
  :id "in-the-groove"
  :influence-cost 4
  :side :runner
+ :stripped-text "Play only as your first click. Whenever you install a card with a printed install cost of 1 or greater this turn, draw 1 card or gain 1 credit."
+ :stripped-title "In the Groove"
  :subtype [:priority]
  :text "Play only as your first [click].\nWhenever you install a card with a printed install cost of 1 or greater this turn, draw 1 card or gain 1[credit]."
  :title "In the Groove"

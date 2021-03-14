@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 5
+ :stripped-text "The Runner can spend click to break any subroutine on Vikram 1.0. Subroutine The Runner cannot use programs for the remainder of this run. Subroutine Trace 4 If successful, do 1 brain damage. Subroutine Trace 4 If successful, do 1 brain damage."
+ :stripped-title "Vikram 1.0"
  :subtype [:sentry :bioroid :tracer :ap]
  :text "The Runner can spend [click] to break any subroutine on Vikram 1.0.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage."
  :title "Vikram 1.0"

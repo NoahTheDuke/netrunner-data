@@ -4,6 +4,8 @@
  :id "utopia-shard"
  :influence-cost 1
  :side :runner
+ :stripped-text "Whenever you make a successful run on HQ, instead of accessing cards, you may install Utopia Shard from your grip, ignoring all costs. trash: The Corp discards 2 cards from HQ at random. Limit 1 per deck."
+ :stripped-title "Utopia Shard"
  :subtype [:virtual :source]
  :text "Whenever you make a successful run on HQ, instead of accessing cards, you may install Utopia Shard from your grip, ignoring all costs.\n[trash]: The Corp discards 2 cards from HQ at random.\nLimit 1 per deck."
  :title "Utopia Shard"

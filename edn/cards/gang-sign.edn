@@ -4,6 +4,8 @@
  :id "gang-sign"
  :influence-cost 3
  :side :runner
+ :stripped-text "Whenever the Corp scores an agenda, access 1 card from HQ."
+ :stripped-title "Gang Sign"
  :subtype [:virtual]
  :text "Whenever the Corp scores an agenda, access 1 card from HQ."
  :title "Gang Sign"

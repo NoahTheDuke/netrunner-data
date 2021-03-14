@@ -4,6 +4,8 @@
  :id "deja-vu"
  :influence-cost 2
  :side :runner
+ :stripped-text "Add 1 card (or up to 2 virus cards) from your heap to your grip."
+ :stripped-title "Deja Vu"
  :text "Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap to your grip."
  :title "Déjà Vu"
  :type :event

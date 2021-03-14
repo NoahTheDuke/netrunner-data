@@ -27,7 +27,7 @@
   :set-id "core-set"}
  {:card-id "cyberfeeder"
   :code "01005"
-  :flavor "I feel almost naked without it"
+  :flavor "I feel almost naked without it."
   :illustrator "Gong Studios"
   :position 5
   :quantity 3
@@ -94,7 +94,7 @@
   :set-id "core-set"}
  {:card-id "ice-carver"
   :code "01015"
-  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
+  :flavor "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corps need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this."
   :illustrator "Mark Anthony Taduran"
   :position 15
   :quantity 1
@@ -229,7 +229,7 @@
   :set-id "core-set"}
  {:card-id "modded"
   :code "01035"
-  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too."
+  :flavor "There's no replacement for a home-grown program. Fed on late nights, oaty bars, and single-minded determination. Cheaper, too."
   :illustrator "Ralph Beisner"
   :position 35
   :quantity 2
@@ -401,7 +401,8 @@
   :illustrator "Matt Zeilinger"
   :position 60
   :quantity 2
-  :set-id "core-set"}
+  :set-id "core-set"
+  :text "Immediately install up to 3 cards (spending no clicks but paying all install costs)."}
  {:card-id "heimdall-1-0"
   :code "01061"
   :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."

@@ -5,6 +5,8 @@
  :influence-cost 0
  :side :corp
  :strength 3
+ :stripped-text "Subroutine The Runner cannot make another run this turn."
+ :stripped-title "Excalibur"
  :subtype [:mythic :grail]
  :text "[subroutine] The Runner cannot make another run this turn."
  :title "Excalibur"

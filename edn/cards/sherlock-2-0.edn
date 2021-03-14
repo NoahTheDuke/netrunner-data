@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 6
+ :stripped-text "The Runner can spend click click to break up to 2 subroutines on Sherlock 2.0. Subroutine Trace 4 If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Trace 4 If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Give the Runner 1 tag."
+ :stripped-title "Sherlock 2.0"
  :subtype [:sentry :bioroid :tracer]
  :text "The Runner can spend [click][click] to break up to 2 subroutines on Sherlock 2.0.\n[subroutine]<trace>Trace 4</trace> If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine]<trace>Trace 4</trace> If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine]Give the Runner 1 tag."
  :title "Sherlock 2.0"

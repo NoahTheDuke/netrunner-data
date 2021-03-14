@@ -4,6 +4,8 @@
  :id "advanced-assembly-lines"
  :influence-cost 2
  :side :corp
+ :stripped-text "When you rez Advanced Assembly Lines, gain 3 credits. trash: Install a non-agenda card from HQ (paying the install cost). You cannot use this ability during a run."
+ :stripped-title "Advanced Assembly Lines"
  :subtype [:facility]
  :text "When you rez Advanced Assembly Lines, gain 3[credit].\n[trash]: Install a non-agenda card from HQ (paying the install cost). You cannot use this ability during a run."
  :title "Advanced Assembly Lines"

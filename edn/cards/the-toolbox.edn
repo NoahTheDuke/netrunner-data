@@ -4,6 +4,8 @@
  :id "the-toolbox"
  :influence-cost 2
  :side :runner
+ :stripped-text "+2 mu +2 link 2 recurring credits Use these credits to pay for using icebreakers. Limit 1 console per player."
+ :stripped-title "The Toolbox"
  :subtype [:console]
  :text "+2[mu] +2[link]\n2[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nLimit 1 <strong>console</strong> per player."
  :title "The Toolbox"

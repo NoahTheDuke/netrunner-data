@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "hyperloop-extension"
  :side :corp
+ :stripped-text "When Hyperloop Extension is scored or stolen, the Corp gains 3 credits."
+ :stripped-title "Hyperloop Extension"
  :subtype [:expansion]
  :text "When Hyperloop Extension is scored or stolen, the Corp gains 3[credit]."
  :title "Hyperloop Extension"

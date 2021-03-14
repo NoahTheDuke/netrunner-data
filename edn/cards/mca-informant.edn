@@ -4,6 +4,8 @@
  :id "mca-informant"
  :influence-cost 2
  :side :corp
+ :stripped-text "After you resolve this operation, end your action phase. Install MCA Informant on a connection resource as a hosted condition counter with the text \"The Runner is considered to have 1 additional tag. The host connection gains 'click, 2 credits: Trash this card.'\" Errata from FAQ 4.0"
+ :stripped-title "MCA Informant"
  :subtype [:terminal]
  :text "After you resolve this operation, end your action phase.\nInstall MCA Informant on a <strong>connection</strong> resource as a hosted <strong>condition</strong> counter with the text \"The Runner is considered to have 1 additional tag. The host <strong>connection</strong> gains '[click], 2[credit]: Trash this card.'\"\n<errata>Errata from FAQ 4.0</errata>"
  :title "MCA Informant"

@@ -4,6 +4,8 @@
  :id "public-support"
  :influence-cost 3
  :side :corp
+ :stripped-text "Place 3 power counters on Public Support when it is rezzed. When there are no power counters left on Public Support, add it to your score area as an agenda worth 1 agenda point. When your turn begins, remove 1 power counter from Public Support."
+ :stripped-title "Public Support"
  :text "Place 3 power counters on Public Support when it is rezzed. When there are no power counters left on Public Support, add it to your score area as an agenda worth 1 agenda point.\nWhen your turn begins, remove 1 power counter from Public Support."
  :title "Public Support"
  :trash-cost 4

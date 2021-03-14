@@ -4,6 +4,8 @@
  :id "shipment-from-kaguya"
  :influence-cost 1
  :side :corp
+ :stripped-text "Place 1 advancement token on each of up to 2 different installed cards that can be advanced."
+ :stripped-title "Shipment from Kaguya"
  :text "Place 1 advancement token on each of up to 2 different installed cards that can be advanced."
  :title "Shipment from Kaguya"
  :type :operation

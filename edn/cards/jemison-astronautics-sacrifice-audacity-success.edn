@@ -4,6 +4,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth."
+ :stripped-title "Jemison Astronautics: Sacrifice. Audacity. Success."
  :subtype [:corporation]
  :text "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth."
  :title "Jemison Astronautics: Sacrifice. Audacity. Success."

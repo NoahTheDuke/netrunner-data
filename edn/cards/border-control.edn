@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 1
+ :stripped-text "trash: End the run. Use this ability only during a run on this server. Subroutine Gain 1 credit for each piece of ice protecting this server. Subroutine End the run."
+ :stripped-title "Border Control"
  :subtype [:barrier]
  :text "[trash]: End the run. Use this ability only during a run on this server.\n[subroutine] Gain 1[credit] for each piece of ice protecting this server.\n[subroutine] End the run."
  :title "Border Control"

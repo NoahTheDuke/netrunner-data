@@ -4,6 +4,8 @@
  :id "code-siphon"
  :influence-cost 4
  :side :runner
+ :stripped-text "Make a run on R&D. If successful, instead of accessing cards, you may search your stack for a program and install it, lowering the install cost by 3 for each piece of ice protecting R&D, and then take 1 tag. Shuffle your stack."
+ :stripped-title "Code Siphon"
  :subtype [:run]
  :text "Make a run on R&D. If successful, instead of accessing cards, you may search your stack for a program and install it, lowering the install cost by 3 for each piece of ice protecting R&D, and then take 1 tag. Shuffle your stack."
  :title "Code Siphon"

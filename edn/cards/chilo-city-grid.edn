@@ -4,6 +4,8 @@
  :id "chilo-city-grid"
  :influence-cost 2
  :side :corp
+ :stripped-text "Whenever there is a successful trace during a run on this server, give the Runner 1 tag. Limit 1 region per server."
+ :stripped-title "ChiLo City Grid"
  :subtype [:region]
  :text "Whenever there is a successful trace during a run on this server, give the Runner 1 tag.\nLimit 1 <strong>region</strong> per server."
  :title "ChiLo City Grid"

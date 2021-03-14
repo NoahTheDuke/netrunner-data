@@ -4,6 +4,8 @@
  :id "restructure"
  :influence-cost 0
  :side :corp
+ :stripped-text "Gain 15 credits."
+ :stripped-title "Restructure"
  :subtype [:transaction]
  :text "Gain 15[credit]."
  :title "Restructure"

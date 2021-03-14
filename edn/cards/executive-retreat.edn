@@ -5,6 +5,8 @@
  :id "executive-retreat"
  :influence-cost 0
  :side :corp
+ :stripped-text "When you score Executive Retreat, place 1 agenda counter on it and shuffle HQ into R&D. click, hosted agenda counter: Draw 5 cards."
+ :stripped-title "Executive Retreat"
  :text "When you score Executive Retreat, place 1 agenda counter on it and shuffle HQ into R&D.\n[click], <strong>hosted agenda counter:</strong> Draw 5 cards."
  :title "Executive Retreat"
  :type :agenda

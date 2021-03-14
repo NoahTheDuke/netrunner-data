@@ -4,6 +4,8 @@
  :id "net-ready-eyes"
  :influence-cost 2
  :side :runner
+ :stripped-text "When you install Net-Ready Eyes, suffer 2 meat damage. Whenever you initiate a run, choose an icebreaker. That icebreaker has +1 strength for the remainder of the run."
+ :stripped-title "Net-Ready Eyes"
  :subtype [:cybernetic]
  :text "When you install Net-Ready Eyes, suffer 2 meat damage.\nWhenever you initiate a run, choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +1 strength for the remainder of the run."
  :title "Net-Ready Eyes"

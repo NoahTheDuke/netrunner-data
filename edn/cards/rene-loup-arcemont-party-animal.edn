@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 40
  :side :runner
+ :stripped-text "The first time each turn you trash a card you are accessing, gain 1 credit and draw 1 card."
+ :stripped-title "Rene \"Loup\" Arcemont: Party Animal"
  :subtype [:g-mod]
  :text "The first time each turn you trash a card you are accessing, gain 1[credit] and draw 1 card."
  :title "René \"Loup\" Arcemont: Party Animal"

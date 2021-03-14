@@ -4,6 +4,8 @@
  :id "reversed-accounts"
  :influence-cost 1
  :side :corp
+ :stripped-text "Reversed Accounts can be advanced. click, trash: The Runner loses 4 credits for each advancement token on Reversed Accounts."
+ :stripped-title "Reversed Accounts"
  :subtype [:hostile]
  :text "Reversed Accounts can be advanced.\n[click], [trash]: The Runner loses 4[credit] for each advancement token on Reversed Accounts."
  :title "Reversed Accounts"

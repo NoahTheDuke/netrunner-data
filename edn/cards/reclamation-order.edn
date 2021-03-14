@@ -4,6 +4,8 @@
  :id "reclamation-order"
  :influence-cost 2
  :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Name a card other than Reclamation Order. Reveal any number of copies of the named card from Archives and add them to HQ."
+ :stripped-title "Reclamation Order"
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nName a card other than Reclamation Order. Reveal any number of copies of the named card from Archives and add them to HQ."
  :title "Reclamation Order"

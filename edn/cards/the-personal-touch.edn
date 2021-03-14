@@ -4,6 +4,8 @@
  :id "the-personal-touch"
  :influence-cost 2
  :side :runner
+ :stripped-text "Install The Personal Touch only on an icebreaker. Host icebreaker has +1 strength."
+ :stripped-title "The Personal Touch"
  :subtype [:mod]
  :text "Install The Personal Touch only on an <strong>icebreaker.</strong>\nHost <strong>icebreaker</strong> has +1 strength."
  :title "The Personal Touch"

@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 4
+ :stripped-text "Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged."
+ :stripped-title "Pachinko"
  :subtype [:barrier]
  :text "[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged."
  :title "Pachinko"

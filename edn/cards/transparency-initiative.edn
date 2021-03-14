@@ -4,6 +4,8 @@
  :id "transparency-initiative"
  :influence-cost 4
  :side :corp
+ :stripped-text "Turn an agenda faceup and install Transparency Initiative on that agenda as a hosted condition counter with the text \"Host agenda gains public. Whenever you advance host agenda, gain 1 credit.\""
+ :stripped-title "Transparency Initiative"
  :text "Turn an agenda faceup and install Transparency Initiative on that agenda as a hosted condition counter with the text \"Host agenda gains <strong>public</strong>. Whenever you advance host agenda, gain 1[credit].\""
  :title "Transparency Initiative"
  :type :operation

@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 1
+ :stripped-text "1 credit: Break ice subroutine. 1 credit: +1 strength. Use Alpha only on the outermost piece of ice protecting a server."
+ :stripped-title "Alpha"
  :subtype [:icebreaker :ai]
  :text "1[credit]: Break ice subroutine.\n1[credit]: +1 strength.\nUse Alpha only on the outermost piece of ice protecting a server."
  :title "Alpha"

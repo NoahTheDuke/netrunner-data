@@ -4,6 +4,8 @@
  :id "astrolabe"
  :influence-cost 2
  :side :runner
+ :stripped-text "+1 mu Draw 1 card whenever the Corp creates a server. Limit 1 console per player."
+ :stripped-title "Astrolabe"
  :subtype [:console]
  :text "+1[mu]\nDraw 1 card whenever the Corp creates a server.\nLimit 1 <strong>console</strong> per player."
  :title "Astrolabe"

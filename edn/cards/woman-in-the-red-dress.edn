@@ -4,6 +4,8 @@
  :id "woman-in-the-red-dress"
  :influence-cost 4
  :side :runner
+ :stripped-text "When your turn begins, reveal the top card of R&D. The Corp may draw that card."
+ :stripped-title "Woman in the Red Dress"
  :subtype [:connection :virtual]
  :text "When your turn begins, reveal the top card of R&D. The Corp may draw that card."
  :title "Woman in the Red Dress"

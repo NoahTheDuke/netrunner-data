@@ -4,6 +4,8 @@
  :id "director-haas"
  :influence-cost 5
  :side :corp
+ :stripped-text "You have 1 additional click to spend during your turn. If Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points. Errata from FAQ 3.1"
+ :stripped-title "Director Haas"
  :subtype [:executive]
  :text "You have 1 additional [click] to spend during your turn.\nIf Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.\n<errata>Errata from FAQ 3.1</errata>"
  :title "Director Haas"

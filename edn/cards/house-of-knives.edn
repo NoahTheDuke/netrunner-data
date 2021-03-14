@@ -4,6 +4,8 @@
  :faction :jinteki
  :id "house-of-knives"
  :side :corp
+ :stripped-text "Place 3 agenda counters on House of Knives when you score it. Hosted agenda counter: Do 1 net damage. Use this ability only during a run and only once per run."
+ :stripped-title "House of Knives"
  :subtype [:security]
  :text "Place 3 agenda counters on House of Knives when you score it.\n<strong>Hosted agenda counter:</strong> Do 1 net damage. Use this ability only during a run and only once per run."
  :title "House of Knives"

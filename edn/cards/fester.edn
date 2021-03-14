@@ -4,6 +4,8 @@
  :id "fester"
  :influence-cost 1
  :side :runner
+ :stripped-text "Whenever the Corp purges virus counters, he or she loses 2 credits, if able."
+ :stripped-title "Fester"
  :subtype [:virtual]
  :text "Whenever the Corp purges virus counters, he or she loses 2[credit], if able."
  :title "Fester"

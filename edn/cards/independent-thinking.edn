@@ -4,6 +4,8 @@
  :id "independent-thinking"
  :influence-cost 1
  :side :runner
+ :stripped-text "Trash up to 5 of your installed cards. Draw 1 card for each card trashed (or 2 cards for each card trashed if you trashed at least 1 directive)."
+ :stripped-title "Independent Thinking"
  :text "Trash up to 5 of your installed cards. Draw 1 card for each card trashed (or 2 cards for each card trashed if you trashed at least 1 <strong>directive</strong>)."
  :title "Independent Thinking"
  :type :event

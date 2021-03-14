@@ -5,6 +5,8 @@
  :influence-cost 1
  :side :corp
  :strength 5
+ :stripped-text "Subroutine For the remainder of this run, each piece of ice encountered except Sensei gains \"Subroutine End the run\" after all its other subroutines."
+ :stripped-title "Sensei"
  :subtype [:code-gate]
  :text "[subroutine] For the remainder of this run, each piece of ice encountered except Sensei gains \"[subroutine] End the run\" after all its other subroutines."
  :title "Sensei"

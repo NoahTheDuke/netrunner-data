@@ -6,6 +6,8 @@
  :memory-cost 4
  :side :runner
  :strength 11
+ :stripped-text "Trash an installed card: Break \"Subroutine End the run.\" subroutine."
+ :stripped-title "Endless Hunger"
  :subtype [:icebreaker]
  :text "<strong>Trash an installed card:</strong> Break \"[subroutine] End the run.\" subroutine."
  :title "Endless Hunger"

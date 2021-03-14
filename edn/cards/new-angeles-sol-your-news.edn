@@ -4,6 +4,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "Whenever an agenda is scored or stolen, you may play 1 current from HQ or Archives (paying its play cost)."
+ :stripped-title "New Angeles Sol: Your News"
  :subtype [:division]
  :text "Whenever an agenda is scored or stolen, you may play 1 <strong>current</strong> from HQ or Archives (paying its play cost)."
  :title "New Angeles Sol: Your News"

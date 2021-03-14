@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 4
+ :stripped-text "The Runner can spend click click to break up to 2 subroutines on Zed 2.0. Subroutine Trash 1 hardware. Subroutine Trash 1 hardware. Subroutine If the Runner has spent at least 1 click to break a subroutine during this run, do 2 brain damage."
+ :stripped-title "Zed 2.0"
  :subtype [:sentry :bioroid :ap :destroyer]
  :text "The Runner can spend [click][click] to break up to 2 subroutines on Zed 2.0.\n[subroutine] Trash 1 hardware.\n[subroutine] Trash 1 hardware.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 2 brain damage."
  :title "Zed 2.0"

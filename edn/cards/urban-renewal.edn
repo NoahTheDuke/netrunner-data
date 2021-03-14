@@ -4,6 +4,8 @@
  :id "urban-renewal"
  :influence-cost 4
  :side :corp
+ :stripped-text "Place 3 power counters on Urban Renewal when it is rezzed. When there are no power counters left on Urban Renewal, trash it and do 4 meat damage. When your turn begins, remove 1 power counter from Urban Renewal."
+ :stripped-title "Urban Renewal"
  :subtype [:hostile]
  :text "Place 3 power counters on Urban Renewal when it is rezzed. When there are no power counters left on Urban Renewal, trash it and do 4 meat damage.\nWhen your turn begins, remove 1 power counter from Urban Renewal."
  :title "Urban Renewal"

@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "When your turn begins, trash the top 2 cards of your stack. Draw 1 card."
+ :stripped-title "MaxX: Maximum Punk Rock"
  :subtype [:g-mod]
  :text "When your turn begins, trash the top 2 cards of your stack. Draw 1 card."
  :title "MaxX: Maximum Punk Rock"

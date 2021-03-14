@@ -4,6 +4,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
+ :stripped-text "When your turn begins, you may add 1 rezzed card to HQ and gain credits equal to its rez cost."
+ :stripped-title "Blue Sun: Powering the Future"
  :subtype [:corp]
  :text "When your turn begins, you may add 1 rezzed card to HQ and gain credits equal to its rez cost."
  :title "Blue Sun: Powering the Future"

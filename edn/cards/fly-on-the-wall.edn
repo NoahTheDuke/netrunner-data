@@ -4,6 +4,8 @@
  :faction :nbn
  :id "fly-on-the-wall"
  :side :corp
+ :stripped-text "When you score Fly on the Wall, give the Runner 1 tag."
+ :stripped-title "Fly on the Wall"
  :subtype [:initiative]
  :text "When you score Fly on the Wall, give the Runner 1 tag."
  :title "Fly on the Wall"

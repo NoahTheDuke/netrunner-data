@@ -5,6 +5,8 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
+ :stripped-text "Place 2 virus counters on Imp when it is installed. Once per turn, you may remove 1 hosted virus counter to trash a card you are accessing (even if it has no trash cost). Errata from CR 1.2"
+ :stripped-title "Imp"
  :subtype [:virus]
  :text "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you are accessing <em>(even if it has no trash cost)</em>.\n<errata>Errata from CR 1.2</errata>"
  :title "Imp"

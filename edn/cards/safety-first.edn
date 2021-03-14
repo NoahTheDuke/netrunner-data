@@ -4,6 +4,8 @@
  :id "safety-first"
  :influence-cost 3
  :side :runner
+ :stripped-text "Your maximum hand size is reduced by 2. When your turn ends, draw 1 card if you do not have cards in your grip equal to or greater than your maximum hand size."
+ :stripped-title "Safety First"
  :subtype [:directive :virtual]
  :text "Your maximum hand size is reduced by 2.\nWhen your turn ends, draw 1 card if you do not have cards in your grip equal to or greater than your maximum hand size."
  :title "Safety First"

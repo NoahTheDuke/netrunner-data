@@ -4,6 +4,8 @@
  :id "modded"
  :influence-cost 2
  :side :runner
+ :stripped-text "Install a program or piece of hardware, lowering the install cost by 3."
+ :stripped-title "Modded"
  :subtype [:mod]
  :text "Install a program or piece of hardware, lowering the install cost by 3."
  :title "Modded"

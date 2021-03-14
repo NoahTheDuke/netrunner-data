@@ -4,6 +4,8 @@
  :id "lag-time"
  :influence-cost 0
  :side :corp
+ :stripped-text "This operation is not trashed until another current is played or an agenda is stolen. All ice have +1 strength."
+ :stripped-title "Lag Time"
  :subtype [:current]
  :text "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAll <strong>ice</strong> have +1 strength."
  :title "Lag Time"

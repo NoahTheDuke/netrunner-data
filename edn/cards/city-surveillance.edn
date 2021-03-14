@@ -4,6 +4,8 @@
  :id "city-surveillance"
  :influence-cost 4
  :side :corp
+ :stripped-text "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1 credit."
+ :stripped-title "City Surveillance"
  :text "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1[credit]."
  :title "City Surveillance"
  :trash-cost 3

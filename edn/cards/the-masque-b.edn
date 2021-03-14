@@ -4,6 +4,8 @@
  :id "the-masque-b"
  :influence-cost 0
  :side :runner
+ :stripped-text "click,trash: Make a run and gain click. If that run is successful when it ends, you may immediately make another run on another server."
+ :stripped-title "The Masque B"
  :subtype [:connection]
  :text "[click],[trash]: Make a run and gain [click]. If that run is successful when it ends, you may immediately make another run on another server."
  :title "The Masque B"

@@ -4,6 +4,8 @@
  :id "leave-no-trace"
  :influence-cost 3
  :side :runner
+ :stripped-text "Make a run. When the run ends, derez all ice that was rezzed during this run."
+ :stripped-title "Leave No Trace"
  :subtype [:run]
  :text "Make a run. When the run ends, derez all ice that was rezzed during this run."
  :title "Leave No Trace"

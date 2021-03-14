@@ -4,6 +4,8 @@
  :id "mr-li"
  :influence-cost 2
  :side :runner
+ :stripped-text "click: Look at the top 2 cards of your stack. Add 1 of those cards to the bottom of your stack. Draw 1 card. Errata from CR 1.4"
+ :stripped-title "Mr. Li"
  :subtype [:connection]
  :text "[click]: Look at the top 2 cards of your stack. Add 1 of those cards to the bottom of your stack. Draw 1 card.\n<errata>Errata from CR 1.4</errata>"
  :title "Mr. Li"

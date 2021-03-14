@@ -4,6 +4,8 @@
  :id "k-p-lynn"
  :influence-cost 2
  :side :corp
+ :stripped-text "Whenever the Runner passes all of the ice protecting this server, he or she must either take 1 tag or end the run."
+ :stripped-title "K. P. Lynn"
  :subtype [:executive]
  :text "Whenever the Runner passes all of the ice protecting this server, he or she must either take 1 tag or end the run."
  :title "K. P. Lynn"

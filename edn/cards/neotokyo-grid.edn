@@ -4,6 +4,8 @@
  :id "neotokyo-grid"
  :influence-cost 2
  :side :corp
+ :stripped-text "The first time an advancement token is a placed on a card in this server each turn, gain 1 credit. Limit 1 region per server."
+ :stripped-title "NeoTokyo Grid"
  :subtype [:region]
  :text "The first time an advancement token is a placed on a card in this server each turn, gain 1[credit].\nLimit 1 <strong>region</strong> per server."
  :title "NeoTokyo Grid"

@@ -4,6 +4,8 @@
  :id "defense-construct"
  :influence-cost 3
  :side :corp
+ :stripped-text "Defense Construct can be advanced. trash: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives."
+ :stripped-title "Defense Construct"
  :text "Defense Construct can be advanced.\n[trash]: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives."
  :title "Defense Construct"
  :trash-cost 0

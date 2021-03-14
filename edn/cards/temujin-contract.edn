@@ -4,6 +4,8 @@
  :id "temujin-contract"
  :influence-cost 2
  :side :runner
+ :stripped-text "Choose a server and place 20 credits from the bank on Temujin Contract when you install it. When there are no credits left on Temujin Contract, trash it. Whenever you make a successful run on the chosen server, take 4 credits from Temujin Contract."
+ :stripped-title "Temujin Contract"
  :subtype [:job]
  :text "Choose a server and place 20[credit] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.\nWhenever you make a successful run on the chosen server, take 4[credit] from Temüjin Contract."
  :title "Temüjin Contract"

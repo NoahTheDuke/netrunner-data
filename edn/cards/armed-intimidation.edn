@@ -4,6 +4,8 @@
  :faction :weyland-consortium
  :id "armed-intimidation"
  :side :corp
+ :stripped-text "When you score Armed Intimidation, the Runner must either suffer 5 meat damage or take 2 tags."
+ :stripped-title "Armed Intimidation"
  :subtype [:security]
  :text "When you score Armed Intimidation, the Runner must either suffer 5 meat damage or take 2 tags."
  :title "Armed Intimidation"

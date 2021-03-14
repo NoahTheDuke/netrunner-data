@@ -6,6 +6,8 @@
  :memory-cost 2
  :side :runner
  :strength 2
+ :stripped-text "When you encounter a piece of ice, you may pay 2 credits to have it gain code gate until the end of the encounter. Use this ability only once per turn. 1 credit: Break code gate subroutine. 2 credits: +4 strength."
+ :stripped-title "Engolo"
  :subtype [:icebreaker :decoder]
  :text "When you encounter a piece of ice, you may pay 2[credit] to have it gain <strong>code gate</strong> until the end of the encounter. Use this ability only once per turn.\n1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +4 strength."
  :title "Engolo"

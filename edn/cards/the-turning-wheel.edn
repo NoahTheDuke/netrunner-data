@@ -4,6 +4,8 @@
  :id "the-turning-wheel"
  :influence-cost 1
  :side :runner
+ :stripped-text "Whenever a run on HQ or R&D ends, place 1 power counter on The Turning Wheel if you stole no agendas during the run. 2 hosted power counters: For the remainder of this run, access 1 additional card from HQ or R&D."
+ :stripped-title "The Turning Wheel"
  :subtype [:virtual]
  :text "Whenever a run on HQ or R&D ends, place 1 power counter on The Turning Wheel if you stole no agendas during the run.\n<strong>2 hosted power counters:</strong> For the remainder of this run, access 1 additional card from HQ or R&D."
  :title "The Turning Wheel"

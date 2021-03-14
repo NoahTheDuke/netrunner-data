@@ -4,6 +4,8 @@
  :id "forger"
  :influence-cost 1
  :side :runner
+ :stripped-text "+1 link Interrupt  trash: Avoid 1 tag. trash: Remove 1 tag. Limit 1 console per player. Errata from CR 1.4"
+ :stripped-title "Forger"
  :subtype [:console]
  :text "+1[link]\n[interrupt] – [trash]: Avoid 1 tag.\n[trash]: Remove 1 tag.\nLimit 1 <strong>console</strong> per player.\n<errata>Errata from CR 1.4</errata>"
  :title "Forger"

@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 10
+ :stripped-text "trash: Break any number of AP subroutines. trash: Prevent any amount of net damage."
+ :stripped-title "Deus X"
  :subtype [:icebreaker]
  :text "[trash]: Break any number of <strong>AP</strong> subroutines.\n[trash]: Prevent any amount of net damage."
  :title "Deus X"

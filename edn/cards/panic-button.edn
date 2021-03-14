@@ -4,6 +4,8 @@
  :id "panic-button"
  :influence-cost 1
  :side :corp
+ :stripped-text "Install only in the root of HQ. 1 credit: Draw 1 card. Use this ability only during a run on HQ."
+ :stripped-title "Panic Button"
  :text "Install only in the root of HQ.\n1[credit]: Draw 1 card. Use this ability only during a run on HQ."
  :title "Panic Button"
  :trash-cost 2

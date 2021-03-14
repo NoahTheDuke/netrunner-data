@@ -4,6 +4,8 @@
  :id "back-channels"
  :influence-cost 1
  :side :corp
+ :stripped-text "Choose a card installed in a server. Gain 3 credits for each advancement token on that card, then trash it. Errata from CR 1.4"
+ :stripped-title "Back Channels"
  :subtype [:transaction]
  :text "Choose a card installed in a server. Gain 3[credit] for each advancement token on that card, then trash it.\n<errata>Errata from CR 1.4</errata>"
  :title "Back Channels"

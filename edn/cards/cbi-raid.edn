@@ -4,6 +4,8 @@
  :id "cbi-raid"
  :influence-cost 2
  :side :runner
+ :stripped-text "Make a run on HQ. If successful, instead of accessing cards, the Corp adds all cards in HQ to the top of R&D in the order of his or her choice."
+ :stripped-title "CBI Raid"
  :subtype [:run :sabotage]
  :text "Make a run on HQ. If successful, instead of accessing cards, the Corp adds all cards in HQ to the top of R&D in the order of his or her choice."
  :title "CBI Raid"

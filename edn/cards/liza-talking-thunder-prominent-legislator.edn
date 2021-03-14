@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 50
  :side :runner
+ :stripped-text "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag."
+ :stripped-title "Liza Talking Thunder: Prominent Legislator"
  :subtype [:g-mod]
  :text "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag."
  :title "Liza Talking Thunder: Prominent Legislator"

@@ -4,6 +4,8 @@
  :id "o-shortage"
  :influence-cost 2
  :side :corp
+ :stripped-text "The Runner may trash 1 card from his or her grip at random. If he or she does not, gain click click."
+ :stripped-title "O Shortage"
  :text "The Runner may trash 1 card from his or her grip at random. If he or she does not, gain [click][click]."
  :title "O₂ Shortage"
  :type :operation

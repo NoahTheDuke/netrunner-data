@@ -4,6 +4,8 @@
  :faction :haas-bioroid
  :id "megaprix-qualifier"
  :side :corp
+ :stripped-text "If there is another copy of Megaprix Qualifier in either player's score area when you score this agenda, place 1 agenda counter on this agenda. This agenda is worth 1 more agenda point while it has a hosted agenda counter."
+ :stripped-title "Megaprix Qualifier"
  :text "If there is another copy of Megaprix Qualifier in either player's score area when you score this agenda, place 1 agenda counter on this agenda.\nThis agenda is worth 1 more agenda point while it has a hosted agenda counter."
  :title "Megaprix Qualifier"
  :type :agenda

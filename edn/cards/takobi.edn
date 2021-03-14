@@ -5,6 +5,8 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
+ :stripped-text "Whenever you break all subroutines on a piece of ice during a single encounter, you may place 1 power counter on Takobi. 2 hosted power counters: Choose a non-AI icebreaker. That icebreaker has +3 strength until the end of the current encounter."
+ :stripped-title "Takobi"
  :text "Whenever you break all subroutines on a piece of ice during a single encounter, you may place 1 power counter on Takobi.\n<strong>2 hosted power counters</strong>: Choose a non-<strong>AI icebreaker</strong>. That <strong>icebreaker</strong> has +3 strength until the end of the current encounter."
  :title "Takobi"
  :type :program

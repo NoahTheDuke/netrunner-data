@@ -4,6 +4,8 @@
  :id "pad-campaign"
  :influence-cost 0
  :side :corp
+ :stripped-text "Gain 1 credit when your turn begins."
+ :stripped-title "PAD Campaign"
  :subtype [:advertisement]
  :text "Gain 1[credit] when your turn begins."
  :title "PAD Campaign"

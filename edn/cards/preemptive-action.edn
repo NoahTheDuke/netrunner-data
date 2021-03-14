@@ -4,6 +4,8 @@
  :id "preemptive-action"
  :influence-cost 0
  :side :corp
+ :stripped-text "After you resolve this operation, end your action phase. Shuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it."
+ :stripped-title "Preemptive Action"
  :subtype [:terminal]
  :text "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it."
  :title "Preemptive Action"

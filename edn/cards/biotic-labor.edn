@@ -4,6 +4,8 @@
  :id "biotic-labor"
  :influence-cost 4
  :side :corp
+ :stripped-text "Gain click click."
+ :stripped-title "Biotic Labor"
  :text "Gain [click][click]."
  :title "Biotic Labor"
  :type :operation

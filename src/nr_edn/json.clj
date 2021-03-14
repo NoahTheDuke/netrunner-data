@@ -120,16 +120,17 @@
     (io/make-parents "json/pack/temp")
 
     ;; mwl.json
-    (->> (for [mwl mwls]
-           {:cards (into (sorted-map) (:cards mwl))
-            :code (:code mwl)
-            :date_start (:date-start mwl)
-            :name (:name mwl)})
-         (sort-by :date_start)
-         (map #(into (sorted-map) %))
-         (#(json/generate-string % pretty))
-         (#(str % "\n"))
-         (spit (io/file "json" "mwl.json")))
+
+    ; (->> (for [mwl mwls]
+    ;        {:cards (into (sorted-map) (:cards mwl))
+    ;         :code (:code mwl)
+    ;         :date_start (:date-start mwl)
+    ;         :name (:name mwl)})
+    ;      (sort-by :date_start)
+    ;      (map #(into (sorted-map) %))
+    ;      (#(json/generate-string % pretty))
+    ;      (#(str % "\n"))
+    ;      (spit (io/file "json" "mwl.json")))
 
     ;; cycles.json
     (->> (for [[k cy] cycles]
@@ -179,6 +180,8 @@
                   :memory_cost (:memory-cost card)
                   :minimum_deck_size (:minimum-deck-size card)
                   :pack_code (:code s)
+                  :stripped_text (:stripped-text card)
+                  :stripped_title (:stripped-title card)
                   :position (:position card)
                   :quantity (:quantity card)
                   :setname (:name s)

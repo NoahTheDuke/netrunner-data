@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "Whenever you install a program from your heap, draw 1 card."
+ :stripped-title "Exile: Streethawk"
  :subtype [:natural]
  :text "Whenever you install a program from your heap, draw 1 card."
  :title "Exile: Streethawk"

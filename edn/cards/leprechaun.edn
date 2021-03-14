@@ -5,6 +5,8 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
+ :stripped-text "Leprechaun can host up to 2 programs. The memory costs of hosted programs do not count against your memory limit."
+ :stripped-title "Leprechaun"
  :subtype [:daemon]
  :text "Leprechaun can host up to 2 programs. The memory costs of hosted programs do not count against your memory limit."
  :title "Leprechaun"

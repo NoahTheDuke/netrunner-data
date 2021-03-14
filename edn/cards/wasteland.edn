@@ -4,6 +4,8 @@
  :id "wasteland"
  :influence-cost 2
  :side :runner
+ :stripped-text "The first time each turn you trash 1 of your installed cards, gain 1 credit."
+ :stripped-title "Wasteland"
  :subtype [:location :virtual]
  :text "The first time each turn you trash 1 of your installed cards, gain 1[credit]."
  :title "Wasteland"

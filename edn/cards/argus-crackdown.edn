@@ -4,6 +4,8 @@
  :id "argus-crackdown"
  :influence-cost 3
  :side :corp
+ :stripped-text "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. Whenever the Runner makes a successful run on a server protected by ice, do 2 meat damage."
+ :stripped-title "Argus Crackdown"
  :subtype [:lockdown :gray-ops]
  :text "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nWhenever the Runner makes a successful run on a server protected by ice, do 2 meat damage."
  :title "Argus Crackdown"

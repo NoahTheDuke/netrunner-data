@@ -4,6 +4,8 @@
  :id "the-black-file"
  :influence-cost 4
  :side :runner
+ :stripped-text "The Corp cannot win the game except if you are flatlined. When your turn begins, place 1 power counter on The Black File. When there are 3 or more power counters on The Black File, remove it from the game. Limit 1 per deck. Errata from CR 1.2"
+ :stripped-title "The Black File"
  :subtype [:virtual]
  :text "The Corp cannot win the game except if you are flatlined.\nWhen your turn begins, place 1 power counter on The Black File. When there are 3 or more power counters on The Black File, remove it from the game.\nLimit 1 per deck.\n<errata>Errata from CR 1.2</errata>"
  :title "The Black File"

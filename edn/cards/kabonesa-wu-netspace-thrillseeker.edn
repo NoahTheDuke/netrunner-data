@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "click: Search your stack for a non-virus program and install it, lowering its install cost by 1 credit, then shuffle your stack. If that program is still installed when your turn ends, remove it from the game."
+ :stripped-title "Kabonesa Wu: Netspace Thrillseeker"
  :subtype [:g-mod]
  :text "[click]: Search your stack for a non-<strong>virus</strong> program and install it, lowering its install cost by 1[credit], then shuffle your stack. If that program is still installed when your turn ends, remove it from the game."
  :title "Kabonesa Wu: Netspace Thrillseeker"

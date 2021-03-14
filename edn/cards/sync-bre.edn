@@ -5,6 +5,8 @@
  :influence-cost 3
  :side :corp
  :strength 6
+ :stripped-text "Subroutine Trace 4 If successful, give the Runner 1 tag. Subroutine Trace 2 If successful, the Runner accesses 1 fewer card whenever he or she accesses cards for the remainder of this run. Errata from FAQ 4.0"
+ :stripped-title "SYNC BRE"
  :subtype [:sentry :tracer]
  :text "[subroutine]<trace>Trace 4</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace 2</trace> If successful, the Runner accesses 1 fewer card whenever he or she accesses cards for the remainder of this run.\n<errata>Errata from FAQ 4.0</errata>"
  :title "SYNC BRE"

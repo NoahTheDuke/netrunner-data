@@ -4,6 +4,8 @@
  :id "riot-suppression"
  :influence-cost 4
  :side :corp
+ :stripped-text "Play only if the Runner trashed at least 1 Corp card during his or her last turn. The Runner has 3 fewer click to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it."
+ :stripped-title "Riot Suppression"
  :subtype [:reprisal :gray-ops]
  :text "Play only if the Runner trashed at least 1 Corp card during his or her last turn.\nThe Runner has 3 fewer [click] to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it."
  :title "Riot Suppression"

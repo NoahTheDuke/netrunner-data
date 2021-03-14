@@ -4,6 +4,8 @@
  :id "paper-tripping"
  :influence-cost 2
  :side :runner
+ :stripped-text "Play only as your first click. Remove all tags."
+ :stripped-title "Paper Tripping"
  :subtype [:priority]
  :text "Play only as your first [click].\nRemove all tags."
  :title "Paper Tripping"

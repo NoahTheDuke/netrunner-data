@@ -5,6 +5,8 @@
  :id "false-lead"
  :influence-cost 0
  :side :corp
+ :stripped-text "Forfeit this agenda: If the Runner has 2 or more click remaining, they lose click click."
+ :stripped-title "False Lead"
  :subtype [:security]
  :text "<strong>Forfeit this agenda:</strong> If the Runner has 2 or more [click] remaining, they lose [click][click]."
  :title "False Lead"

@@ -4,6 +4,8 @@
  :id "street-peddler"
  :influence-cost 1
  :side :runner
+ :stripped-text "When you install Street Peddler, host the top 3 cards of your stack facedown on Street Peddler (you may look at these cards at any time). trash: Install 1 card hosted on Street Peddler, lowering its install cost by 1."
+ :stripped-title "Street Peddler"
  :subtype [:connection :seedy]
  :text "When you install Street Peddler, host the top 3 cards of your stack facedown on Street Peddler (you may look at these cards at any time).\n[trash]: Install 1 card hosted on Street Peddler, lowering its install cost by 1."
  :title "Street Peddler"

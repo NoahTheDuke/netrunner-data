@@ -4,6 +4,8 @@
  :id "isabel-mcguire"
  :influence-cost 1
  :side :corp
+ :stripped-text "click: Add 1 of your installed cards to HQ."
+ :stripped-title "Isabel McGuire"
  :subtype [:executive]
  :text "[click]: Add 1 of your installed cards to HQ."
  :title "Isabel McGuire"

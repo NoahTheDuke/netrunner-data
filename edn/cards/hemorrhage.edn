@@ -5,6 +5,8 @@
  :influence-cost 4
  :memory-cost 1
  :side :runner
+ :stripped-text "Whenever you make a successful run, place 1 virus counter on Hemorrhage. click, 2 hosted virus counters: The Corp trashes 1 card from HQ."
+ :stripped-title "Hemorrhage"
  :subtype [:virus]
  :text "Whenever you make a successful run, place 1 virus counter on Hemorrhage.\n[click], <strong>2 hosted virus counters:</strong> The Corp trashes 1 card from HQ."
  :title "Hemorrhage"

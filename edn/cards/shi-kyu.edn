@@ -4,6 +4,8 @@
  :id "shi-kyu"
  :influence-cost 4
  :side :corp
+ :stripped-text "When the Runner accesses Shi.Kyu, you may pay X credits. The Runner must take either X net damage or add Shi.Kyu to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyu from R&D."
+ :stripped-title "Shi.Kyu"
  :subtype [:ambush]
  :text "When the Runner accesses Shi.Kyū, you may pay X[credit]. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū from R&D."
  :title "Shi.Kyū"

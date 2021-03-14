@@ -4,6 +4,8 @@
  :id "code-replicator"
  :influence-cost 2
  :side :corp
+ :stripped-text "When the Runner passes a rezzed piece of ice protecting this server, you may trash Code Replicator to force the Runner to approach that piece of ice again."
+ :stripped-title "Code Replicator"
  :text "When the Runner passes a rezzed piece of ice protecting this server, you may trash Code Replicator to force the Runner to approach that piece of ice again."
  :title "Code Replicator"
  :trash-cost 2

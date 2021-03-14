@@ -4,6 +4,8 @@
  :id "localized-product-line"
  :influence-cost 3
  :side :corp
+ :stripped-text "Search R&D for any number of copies of a card, reveal them, and add them to HQ. Shuffle R&D."
+ :stripped-title "Localized Product Line"
  :text "Search R&D for any number of copies of a card, reveal them, and add them to HQ. Shuffle R&D."
  :title "Localized Product Line"
  :type :operation

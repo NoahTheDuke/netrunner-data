@@ -4,6 +4,8 @@
  :id "gene-conditioning-shoppe"
  :influence-cost 1
  :side :runner
+ :stripped-text "Genetics also trigger the second time each turn their trigger condition is met."
+ :stripped-title "Gene Conditioning Shoppe"
  :subtype [:location]
  :text "<strong>Genetics</strong> also trigger the second time each turn their trigger condition is met."
  :title "Gene Conditioning Shoppe"

@@ -5,6 +5,8 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
+ :stripped-text "3 recurring credits Use these credits to trash cards."
+ :stripped-title "Whizzard: Master Gamer"
  :subtype [:natural]
  :text "3[recurring-credit]\nUse these credits to trash cards."
  :title "Whizzard: Master Gamer"

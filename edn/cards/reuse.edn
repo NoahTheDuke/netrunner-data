@@ -4,6 +4,8 @@
  :id "reuse"
  :influence-cost 1
  :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Trash any number of cards from HQ. Gain 2 credits for each card trashed."
+ :stripped-title "Reuse"
  :subtype [:double]
  :text "As an additional cost to play this operation, spend [click].\nTrash any number of cards from HQ. Gain 2[credit] for each card trashed."
  :title "Reuse"

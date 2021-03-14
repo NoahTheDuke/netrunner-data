@@ -4,6 +4,8 @@
  :id "synthetic-blood"
  :influence-cost 2
  :side :runner
+ :stripped-text "The first time you take damage each turn, draw 1 card."
+ :stripped-title "Synthetic Blood"
  :subtype [:genetics]
  :text "The first time you take damage each turn, draw 1 card."
  :title "Synthetic Blood"

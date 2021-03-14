@@ -6,6 +6,8 @@
  :memory-cost 1
  :side :runner
  :strength 2
+ :stripped-text "1 credit: Break ice subroutine on a piece of ice that has a rez cost of 5 or greater. 1 credit: +1 strength. 2 credits: Swap Aghora with a deva program from your grip."
+ :stripped-title "Aghora"
  :subtype [:icebreaker :ai :deva]
  :text "1[credit]: Break ice subroutine on a piece of ice that has a rez cost of 5 or greater.\n1[credit]: +1 strength.\n2[credit]: Swap Aghora with a <strong>deva</strong> program from your grip."
  :title "Aghora"

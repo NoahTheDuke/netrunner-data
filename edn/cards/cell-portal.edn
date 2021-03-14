@@ -5,6 +5,8 @@
  :influence-cost 2
  :side :corp
  :strength 7
+ :stripped-text "Subroutine The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal."
+ :stripped-title "Cell Portal"
  :subtype [:code-gate :deflector]
  :text "[subroutine] The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal."
  :title "Cell Portal"

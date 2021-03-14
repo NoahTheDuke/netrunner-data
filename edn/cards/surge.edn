@@ -4,6 +4,8 @@
  :id "surge"
  :influence-cost 1
  :side :runner
+ :stripped-text "Play only if you placed at least 1 virus counter on a program this turn. Place 2 virus counters on that program."
+ :stripped-title "Surge"
  :text "Play only if you placed at least 1 virus counter on a program this turn.\nPlace 2 virus counters on that program."
  :title "Surge"
  :type :event
