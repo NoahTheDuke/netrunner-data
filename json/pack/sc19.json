@@ -2358,7 +2358,7 @@
     },
     {
         "code": "25118",
-        "cost": "X",
+        "cost": null,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 3,

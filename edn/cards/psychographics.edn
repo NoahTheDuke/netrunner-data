@@ -1,4 +1,4 @@
-{:cost X
+{:cost nil
  :deck-limit 3
  :faction :nbn
  :id "psychographics"
