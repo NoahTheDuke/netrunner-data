@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 4
- :stripped-text "The strength of Lotus Field cannot be lowered. Subroutine End the run."
+ :stripped-text "The strength of this ice cannot be lowered. Subroutine End the run."
  :stripped-title "Lotus Field"
  :subtype [:code-gate]
- :text "The strength of Lotus Field cannot be lowered.\n[subroutine] End the run."
+ :text "The strength of this ice cannot be lowered.\n[subroutine] End the run."
  :title "Lotus Field"
  :type :ice
  :uniqueness false}

@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 0
- :stripped-text "When you install Atman, you may pay X credits to place X power counters on Atman. Atman has +1 strength for each power counter on it. 1 credit: Break ice subroutine on a piece of ice that has strength equal to Atman's strength."
+ :stripped-text "When you install this program, you may pay X credits to place X power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface 1 credit: Break 1 subroutine."
  :stripped-title "Atman"
  :subtype [:icebreaker :ai]
- :text "When you install Atman, you may pay X[credit] to place X power counters on Atman.\nAtman has +1 strength for each power counter on it.\n1[credit]: Break ice subroutine on a piece of ice that has strength equal to Atman's strength."
+ :text "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface– 1[credit]: Break 1 subroutine."
  :title "Atman"
  :type :program
  :uniqueness false}

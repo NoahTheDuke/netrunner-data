@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 5
- :stripped-text "When the Runner encounters Tollbooth, he or she must pay 3 credits, if able. If the Runner cannot pay 3 credits, end the run. Subroutine End the run."
+ :stripped-text "When the Runner encounters this ice, they must pay 3 credits, if able. If they do not, end the run. Subroutine End the run."
  :stripped-title "Tollbooth"
  :subtype [:code-gate]
- :text "When the Runner encounters Tollbooth, he or she must pay 3[credit], if able. If the Runner cannot pay 3[credit], end the run.\n[subroutine] End the run."
+ :text "When the Runner encounters this ice, they must pay 3[credit], if able. If they do not, end the run.\n[subroutine] End the run."
  :title "Tollbooth"
  :type :ice
  :uniqueness false}

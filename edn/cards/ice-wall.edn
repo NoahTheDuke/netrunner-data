@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 1
- :stripped-text "Ice Wall can be advanced and has +1 strength for each advancement token on it. Subroutine End the run."
+ :stripped-text "You can advance this ice. It gets +1 strength for each hosted advancement counter. Subroutine End the run."
  :stripped-title "Ice Wall"
  :subtype [:barrier]
- :text "Ice Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run."
+ :text "You can advance this ice. It gets +1 strength for each hosted advancement counter.\n[subroutine] End the run."
  :title "Ice Wall"
  :type :ice
  :uniqueness false}

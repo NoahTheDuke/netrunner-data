@@ -4,10 +4,10 @@
  :id "inside-job"
  :influence-cost 3
  :side :runner
- :stripped-text "Make a run. Bypass the first piece of ice encountered during this run."
+ :stripped-text "Run any server. The first time this run you encounter a piece of ice, bypass it."
  :stripped-title "Inside Job"
  :subtype [:run]
- :text "Make a run. Bypass the first piece of ice encountered during this run."
+ :text "Run any server. The first time this run you encounter a piece of ice, bypass it."
  :title "Inside Job"
  :type :event
  :uniqueness false}

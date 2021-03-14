@@ -5,9 +5,9 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text "Install Egret only on a rezzed piece of ice. Host ice gains sentry, code gate and barrier."
+ :stripped-text "Install only on a rezzed piece of ice. Host ice gains barrier, code gate, and sentry."
  :stripped-title "Egret"
- :text "Install Egret only on a rezzed piece of ice.\nHost ice gains <strong>sentry</strong>, <strong>code gate</strong> and <strong>barrier</strong>."
+ :text "Install only on a rezzed piece of ice.\nHost ice gains <strong>barrier</strong>, <strong>code gate</strong>, and <strong>sentry</strong>."
  :title "Egret"
  :type :program
  :uniqueness false}

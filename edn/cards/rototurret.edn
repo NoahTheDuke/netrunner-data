@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 0
- :stripped-text "Subroutine Trash 1 program. Subroutine End the run."
+ :stripped-text "Subroutine Trash 1 installed program. Subroutine End the run."
  :stripped-title "Rototurret"
  :subtype [:sentry :destroyer]
- :text "[subroutine] Trash 1 program.\n[subroutine] End the run."
+ :text "[subroutine] Trash 1 installed program.\n[subroutine] End the run."
  :title "Rototurret"
  :type :ice
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "legwork"
  :influence-cost 2
  :side :runner
- :stripped-text "Make a run on HQ. If successful, access 2 additional cards from HQ."
+ :stripped-text "Run HQ. If successful, access 2 additional cards when you breach HQ."
  :stripped-title "Legwork"
  :subtype [:run]
- :text "Make a run on HQ. If successful, access 2 additional cards from HQ."
+ :text "Run HQ. If successful, access 2 additional cards when you breach HQ."
  :title "Legwork"
  :type :event
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 6
- :stripped-text "As an additional cost to rez Archer, the Corp must forfeit an agenda. Subroutine The Corp gains 2 credits. Subroutine Trash 1 program. Subroutine Trash 1 program. Subroutine End the run."
+ :stripped-text "As an additional cost to rez this ice, forfeit 1 agenda. Subroutine Gain 2 credits. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine End the run."
  :stripped-title "Archer"
  :subtype [:sentry :destroyer]
- :text "As an additional cost to rez Archer, the Corp must forfeit an agenda.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] End the run."
+ :text "As an additional cost to rez this ice, forfeit 1 agenda.\n[subroutine] Gain 2[credit].\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] End the run."
  :title "Archer"
  :type :ice
  :uniqueness false}

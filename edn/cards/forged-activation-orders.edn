@@ -4,10 +4,10 @@
  :id "forged-activation-orders"
  :influence-cost 2
  :side :runner
- :stripped-text "Choose an unrezzed piece of ice. The Corp must either rez that ice or trash it."
+ :stripped-text "Choose 1 unrezzed piece of ice. The Corp may rez that ice. If they do not, they trash it."
  :stripped-title "Forged Activation Orders"
  :subtype [:sabotage]
- :text "Choose an unrezzed piece of ice. The Corp must either rez that ice or trash it."
+ :text "Choose 1 unrezzed piece of ice. The Corp may rez that ice. If they do not, they trash it."
  :title "Forged Activation Orders"
  :type :event
  :uniqueness false}

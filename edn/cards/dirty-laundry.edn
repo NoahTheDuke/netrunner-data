@@ -4,10 +4,10 @@
  :id "dirty-laundry"
  :influence-cost 0
  :side :runner
- :stripped-text "Make a run. After the run is completed, gain 5 credits if it was successful."
+ :stripped-text "Run any server. When that run ends, if it was successful, gain 5 credits."
  :stripped-title "Dirty Laundry"
  :subtype [:run]
- :text "Make a run. After the run is completed, gain 5[credit] if it was successful."
+ :text "Run any server. When that run ends, if it was successful, gain 5[credit]."
  :title "Dirty Laundry"
  :type :event
  :uniqueness false}

@@ -4,9 +4,9 @@
  :id "corporate-town"
  :influence-cost 2
  :side :corp
- :stripped-text "As an additional cost to rez Corporate Town, the Corp must forfeit an agenda. When your turn begins, you may trash 1 resource (cannot be prevented)."
+ :stripped-text "As an additional cost to rez this asset, forfeit 1 agenda. When your turn begins, you may trash 1 installed resource. Trashing a resource this way cannot be prevented."
  :stripped-title "Corporate Town"
- :text "As an additional cost to rez Corporate Town, the Corp must forfeit an agenda.\nWhen your turn begins, you may trash 1 resource (cannot be prevented)."
+ :text "As an additional cost to rez this asset, forfeit 1 agenda.\nWhen your turn begins, you may trash 1 installed resource. Trashing a resource this way cannot be prevented."
  :title "Corporate Town"
  :trash-cost 5
  :type :asset

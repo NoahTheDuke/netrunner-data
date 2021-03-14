@@ -4,10 +4,10 @@
  :id "en-passant"
  :influence-cost 2
  :side :runner
- :stripped-text "Play only if you made a successful run this turn. Trash an unrezzed piece of ice you passed during the last run you made this turn."
+ :stripped-text "Play only if you made a successful run this turn. Trash 1 unrezzed piece of ice you passed during your last run."
  :stripped-title "En Passant"
  :subtype [:sabotage]
- :text "Play only if you made a successful run this turn.\nTrash an unrezzed piece of ice you passed during the last run you made this turn."
+ :text "Play only if you made a successful run this turn.\nTrash 1 unrezzed piece of ice you passed during your last run."
  :title "En Passant"
  :type :event
  :uniqueness false}

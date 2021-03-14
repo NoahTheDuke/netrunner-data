@@ -4,10 +4,10 @@
  :id "marilyn-campaign"
  :influence-cost 1
  :side :corp
- :stripped-text "Place 8 credits on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it. Take 2 credits from Marilyn Campaign when your turn begins. Interrupt  When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. (It is still considered trashed.) Errata from CR 1.4"
+ :stripped-text "When you rez this asset, load 8 credits onto it. When it is empty, trash it. When your turn begins, take 2 credits from this asset. Interrupt When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. (It is still considered trashed.)"
  :stripped-title "Marilyn Campaign"
  :subtype [:advertisement]
- :text "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\n[interrupt] – When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. <em>(It is still considered trashed.)</em>\n<errata>Errata from CR 1.4</errata>"
+ :text "When you rez this asset, load 8[credit] onto it. When it is empty, trash it.\nWhen your turn begins, take 2[credit] from this asset.\n[interrupt]– When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. <em>(It is still considered trashed.)</em>"
  :title "Marilyn Campaign"
  :trash-cost 3
  :type :asset

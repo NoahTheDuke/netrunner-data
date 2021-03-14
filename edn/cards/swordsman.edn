@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 2
- :stripped-text "The Runner cannot use AI programs to break subroutines on Swordsman. Subroutine Trash 1 AI program. Subroutine Do 1 net damage."
+ :stripped-text "The Runner cannot break subroutines on this ice using AI programs. Subroutine Trash 1 installed AI program. Subroutine Do 1 net damage."
  :stripped-title "Swordsman"
- :subtype [:sentry :destroyer :ap]
- :text "The Runner cannot use <strong>AI</strong> programs to break subroutines on Swordsman.\n[subroutine] Trash 1 <strong>AI</strong> program.\n[subroutine] Do 1 net damage."
+ :subtype [:sentry :ap :destroyer]
+ :text "The Runner cannot break subroutines on this ice using <strong>AI</strong> programs.\n[subroutine] Trash 1 installed <strong>AI</strong> program.\n[subroutine] Do 1 net damage."
  :title "Swordsman"
  :type :ice
  :uniqueness false}

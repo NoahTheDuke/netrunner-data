@@ -4,10 +4,10 @@
  :id "subliminal-messaging"
  :influence-cost 0
  :side :corp
- :stripped-text "Gain 1 credit. Gain click if you have not played another Subliminal Messaging this turn. If the Runner did not make a run during his or her last turn, you may add Subliminal Messaging to HQ from Archives when your turn begins."
+ :stripped-text "Gain 1 credit. The first time each turn you play a copy of Subliminal Messaging, gain click. When your turn begins, if this card is in Archives and the Runner did not initiate any runs during their last turn, you may reveal this card and add it to HQ."
  :stripped-title "Subliminal Messaging"
  :subtype [:gray-ops]
- :text "Gain 1[credit]. Gain [click] if you have not played another Subliminal Messaging this turn.\nIf the Runner did not make a run during his or her last turn, you may add Subliminal Messaging to HQ from Archives when your turn begins."
+ :text "Gain 1[credit].\nThe first time each turn you play a copy of Subliminal Messaging, gain [click].\nWhen your turn begins, if this card is in Archives and the Runner did not initiate any runs during their last turn, you may reveal this card and add it to HQ."
  :title "Subliminal Messaging"
  :type :operation
  :uniqueness false}

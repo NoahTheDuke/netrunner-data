@@ -21,21 +21,21 @@
   :set-id "system-gateway"}
  {:card-id "pantograph"
   :code "30023"
-  :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\"\n–Tāo"
+  :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\"\n—Tāo"
   :illustrator "Martin de Diego Sādaba"
   :position 23
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "jailbreak"
   :code "30028"
-  :flavor "\"We'll take the access codes from their own prisec—privilege escalation through local application of force.\"\n–The Catalyst"
+  :flavor "\"We'll take the access codes from their own prisec—privilege escalation through local application of force.\"\n—The Catalyst"
   :illustrator "David Lei"
   :position 28
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "overclock"
   :code "30029"
-  :flavor "\"After 381FS4 started acting independently all bets were off. Rethreading its own brain chip… even probing <strong>our</strong> nodes. I had to shut it down.\"\n—Linus Lovegood NBN Novelties&Acquisitions"
+  :flavor "\"After 381FS4 started acting independently, all bets were off. Rethreading its own brain chip… even probing <strong>our</strong> nodes. I had to shut it down.\"\n—Linus Lovegood, NBN Novelties&Acquisitions"
   :illustrator "Scott Uminga"
   :position 29
   :quantity 3
@@ -63,7 +63,7 @@
   :set-id "system-gateway"}
  {:card-id "anoetic-void"
   :code "30050"
-  :flavor "The self-evolving Net twists into spaces unthought and unthinkable: realms of gods and other infohazards mocking our sacrifices to petty causality.\n—Conceptual Frameworks for Applied Theology"
+  :flavor "The self-evolving Net twists into spaces unthought and unthinkable: realms of gods and other infohazards, mocking our sacrifices to petty causality.\n—Conceptual Frameworks for Applied Theology"
   :illustrator "Steve Hamilton"
   :position 50
   :quantity 3
@@ -77,7 +77,7 @@
   :set-id "system-gateway"}
  {:card-id "public-trail"
   :code "30057"
-  :flavor "\"A runner uses significant resources scrubbing their traces. Every cycle it's harder to pin them down. But the game changes. In Heinlein no one can last a day without brushing <strong>our</strong> AR-network.\"\n—Cassie LaRosa Lunar NetDefense Sysop"
+  :flavor "\"A runner uses significant resources scrubbing their traces. Every cycle, it's harder to pin them down. But the game changes. In Heinlein, no one can last a day without brushing <strong>our</strong> AR-network.\"\n—Cassie LaRosa, Lunar NetDefense Sysop"
   :illustrator "Bruno Balixa"
   :position 57
   :quantity 3

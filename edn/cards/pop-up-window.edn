@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 0
- :stripped-text "When the Runner encounters Pop-up Window, you gain 1 credit. Subroutine End the run unless the Runner pays 1 credit."
+ :stripped-text "When the Runner encounters this ice, gain 1 credit. Subroutine End the run unless the Runner pays 1 credit."
  :stripped-title "Pop-up Window"
  :subtype [:code-gate :advertisement]
- :text "When the Runner encounters Pop-up Window, you gain 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit]."
+ :text "When the Runner encounters this ice, gain 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit]."
  :title "Pop-up Window"
  :type :ice
  :uniqueness false}

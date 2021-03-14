@@ -1,12 +1,12 @@
-{:cost nil
+{:cost X
  :deck-limit 3
  :faction :nbn
  :id "psychographics"
  :influence-cost 3
  :side :corp
- :stripped-text "X is equal to or less than the number of tags the Runner has. Place X advancement tokens on a card that can be advanced."
+ :stripped-text "X must be equal to or less than the number of tags the Runner has. Place X advancement counters on 1 installed card you can advance."
  :stripped-title "Psychographics"
- :text "X is equal to or less than the number of tags the Runner has.\nPlace X advancement tokens on a card that can be advanced."
+ :text "X must be equal to or less than the number of tags the Runner has.\nPlace X advancement counters on 1 installed card you can advance."
  :title "Psychographics"
  :type :operation
  :uniqueness false}

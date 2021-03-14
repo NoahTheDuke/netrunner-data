@@ -4,10 +4,10 @@
  :id "xanadu"
  :influence-cost 2
  :side :runner
- :stripped-text "The rez cost of all ice is increased by 1."
+ :stripped-text "The rez cost of each piece of ice is increased by 1 credit."
  :stripped-title "Xanadu"
  :subtype [:virtual]
- :text "The rez cost of all ice is increased by 1."
+ :text "The rez cost of each piece of ice is increased by 1[credit]."
  :title "Xanadu"
  :type :resource
  :uniqueness true}

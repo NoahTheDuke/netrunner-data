@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "hostile-takeover"
  :side :corp
- :stripped-text "When you score Hostile Takeover, gain 7 credits and take 1 bad publicity."
+ :stripped-text "When you score this agenda, gain 7 credits and take 1 bad publicity."
  :stripped-title "Hostile Takeover"
  :subtype [:expansion]
- :text "When you score Hostile Takeover, gain 7[credit] and take 1 bad publicity."
+ :text "When you score this agenda, gain 7[credit] and take 1 bad publicity."
  :title "Hostile Takeover"
  :type :agenda
  :uniqueness false}
