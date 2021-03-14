@@ -5,6 +5,13 @@
   :position 1
   :quantity 1
   :set-id "system-gateway"}
+ {:card-id "zahya-sadeghi-versatile-smuggler"
+  :code "30010"
+  :flavor "I obtain your desire."
+  :illustrator "Benjamin Giletti"
+  :position 10
+  :quantity 1
+  :set-id "system-gateway"}
  {:card-id "tao-salonga-telepresence-magician"
   :code "30019"
   :flavor "Sufficient skill is indistinguishable from magic."
@@ -26,6 +33,13 @@
   :position 28
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "overclock"
+  :code "30029"
+  :flavor "\"After 381FS4 started acting independently all bets were off. Rethreading its own brain chip… even probing <strong>our</strong> nodes. I had to shut it down.\"\n—Linus Lovegood NBN Novelties&Acquisitions"
+  :illustrator "Scott Uminga"
+  :position 29
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "haas-bioroid-precision-design"
   :code "30035"
   :flavor "Not an Atom Misplaced."
@@ -39,6 +53,34 @@
   :illustrator "Emilio Rodriguez"
   :position 43
   :quantity 1
+  :set-id "system-gateway"}
+ {:card-id "neurospike"
+  :code "30049"
+  :flavor "Macroscale developments within the Net decouple the prior informational states—surplus entropy is then gifted where it will do the most good."
+  :illustrator "Steve Hamilton"
+  :position 49
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "anoetic-void"
+  :code "30050"
+  :flavor "The self-evolving Net twists into spaces unthought and unthinkable: realms of gods and other infohazards mocking our sacrifices to petty causality.\n—Conceptual Frameworks for Applied Theology"
+  :illustrator "Steve Hamilton"
+  :position 50
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "nbn-reality-plus"
+  :code "30051"
+  :flavor "Why Settle for Real?"
+  :illustrator "Emilio Rodriguez"
+  :position 51
+  :quantity 1
+  :set-id "system-gateway"}
+ {:card-id "public-trail"
+  :code "30057"
+  :flavor "\"A runner uses significant resources scrubbing their traces. Every cycle it's harder to pin them down. But the game changes. In Heinlein no one can last a day without brushing <strong>our</strong> AR-network.\"\n—Cassie LaRosa Lunar NetDefense Sysop"
+  :illustrator "Bruno Balixa"
+  :position 57
+  :quantity 3
   :set-id "system-gateway"}
  {:card-id "weyland-consortium-built-to-last"
   :code "30059"

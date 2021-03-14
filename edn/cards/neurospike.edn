@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "neurospike"
+ :influence-cost 3
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Do X net damage, where X is equal to the sum of the printed agenda points on agendas you scored this turn."
+ :title "Neurospike"
+ :type :operation
+ :uniqueness false}

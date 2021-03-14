@@ -1,0 +1,11 @@
+{:cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "public-trail"
+ :influence-cost 2
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Play only if the Runner made a successful run during their last turn.\nGive the Runner 1 tag unless they pay 8[credit]."
+ :title "Public Trail"
+ :type :operation
+ :uniqueness false}
