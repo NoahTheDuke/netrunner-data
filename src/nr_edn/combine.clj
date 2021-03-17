@@ -157,6 +157,7 @@
             :deck-limit (:deck-limit card)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-cost card)
+            :flips (:flips card)
             :format (get card->formats (:id card))
             :influencelimit (:influence-limit card)
             :memoryunits (:memory-cost card)
