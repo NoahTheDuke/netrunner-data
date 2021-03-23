@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :neutral-corp
+ :id "the-syndicate-profit-over-principle"
+ :influence-limit 0
+ :minimum-deck-size 30
+ :side :corp
+ :stripped-title "The Syndicate: Profit over Principle"
+ :subtype [:megacorp]
+ :title "The Syndicate: Profit over Principle"
+ :type :identity
+ :uniqueness false}

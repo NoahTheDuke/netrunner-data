@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "seamless-launch"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Place 2 advancement counters on 1 installed card that you did not install this turn."
+ :stripped-title "Seamless Launch"
+ :text "Place 2 advancement counters on 1 installed card that you did not install this turn."
+ :title "Seamless Launch"
+ :type :operation
+ :uniqueness false}

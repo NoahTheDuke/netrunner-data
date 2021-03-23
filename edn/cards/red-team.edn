@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 3
+ :faction :criminal
+ :id "red-team"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When you install this resource, load 12 credits onto it. When it is empty, trash it. click: Run a central server you have not run this turn. If successful, take 3 credits from this resource."
+ :stripped-title "Red Team"
+ :subtype [:job]
+ :text "When you install this resource, load 12[credit] onto it. When it is empty, trash it.\n[click]: Run a central server you have not run this turn. If successful, take 3[credit] from this resource."
+ :title "Red Team"
+ :type :resource
+ :uniqueness false}

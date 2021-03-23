@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "fermenter"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "When you install this program and when your turn begins, place 1 virus counter on this program. click, trash: Gain 2 credits for each hosted virus counter."
+ :stripped-title "Fermenter"
+ :subtype [:virus]
+ :text "When you install this program and when your turn begins, place 1 virus counter on this program.\n[click], [trash]: Gain 2[credit] for each hosted virus counter."
+ :title "Fermenter"
+ :type :program
+ :uniqueness false}

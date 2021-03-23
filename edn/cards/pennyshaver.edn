@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "pennyshaver"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "+1 mu Whenever you make a successful run, place 1 credit on this hardware. click: Place 1 credit on this hardware, then take all credits from it. Limit 1 console per player."
+ :stripped-title "Pennyshaver"
+ :subtype [:console]
+ :text "+1[mu]\nWhenever you make a successful run, place 1[credit] on this hardware.\n[click]: Place 1[credit] on this hardware, then take all credits from it.\nLimit 1 <strong>console</strong> per player."
+ :title "Pennyshaver"
+ :type :hardware
+ :uniqueness true}

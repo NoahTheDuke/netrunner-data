@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "wildcat-strike"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Resolve 1 of the following of the Corp's choice:  Gain 6 credits.  Draw 4 cards."
+ :stripped-title "Wildcat Strike"
+ :text "Resolve 1 of the following of the Corp's choice:\n• Gain 6[credit].\n• Draw 4 cards."
+ :title "Wildcat Strike"
+ :type :event
+ :uniqueness false}

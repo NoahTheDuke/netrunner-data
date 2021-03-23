@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "mutual-favor"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Search your stack for 1 icebreaker program and reveal it. (Shuffle your stack after searching it.) If you made a successful run this turn, you may install it. Otherwise, add it to your grip."
+ :stripped-title "Mutual Favor"
+ :text "Search your stack for 1 <strong>icebreaker</strong> program and reveal it. <em>(Shuffle your stack after searching it.)</em> If you made a successful run this turn, you may install it. Otherwise, add it to your grip."
+ :title "Mutual Favor"
+ :type :event
+ :uniqueness false}

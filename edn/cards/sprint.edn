@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "sprint"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Draw 3 cards. Shuffle 2 cards from HQ into R&D."
+ :stripped-title "Sprint"
+ :text "Draw 3 cards. Shuffle 2 cards from HQ into R&D."
+ :title "Sprint"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "clearinghouse"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "You can advance this asset. When your turn begins, you may trash this asset to do 1 meat damage for each hosted advancement counter."
+ :stripped-title "Clearinghouse"
+ :subtype [:hostile]
+ :text "You can advance this asset.\nWhen your turn begins, you may trash this asset to do 1 meat damage for each hosted advancement counter."
+ :title "Clearinghouse"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

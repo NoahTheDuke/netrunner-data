@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "above-the-law"
+ :side :corp
+ :stripped-text "When you score this agenda, you may trash 1 installed resource. Limit 1 per deck."
+ :stripped-title "Above the Law"
+ :subtype [:security]
+ :text "When you score this agenda, you may trash 1 installed resource.\nLimit 1 per deck."
+ :title "Above the Law"
+ :type :agenda
+ :uniqueness false}

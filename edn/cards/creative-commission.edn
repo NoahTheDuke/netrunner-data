@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "creative-commission"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Gain 5 credits. If you have any click remaining, lose click."
+ :stripped-title "Creative Commission"
+ :text "Gain 5[credit]. If you have any [click] remaining, lose [click]."
+ :title "Creative Commission"
+ :type :event
+ :uniqueness false}

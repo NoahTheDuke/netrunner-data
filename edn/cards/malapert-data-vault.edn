@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "malapert-data-vault"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "Whenever you score an agenda from this server, you may search R&D for 1 non-agenda card and reveal it. (Shuffle R&D after searching it.) Add that card to HQ."
+ :stripped-title "Malapert Data Vault"
+ :text "Whenever you score an agenda from this server, you may search R&D for 1 non-agenda card and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that card to HQ."
+ :title "Malapert Data Vault"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness true}

@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "vrcation"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Draw 4 cards. If you have any click remaining, lose click."
+ :stripped-title "VRcation"
+ :text "Draw 4 cards. If you have any [click] remaining, lose [click]."
+ :title "VRcation"
+ :type :event
+ :uniqueness false}

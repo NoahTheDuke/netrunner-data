@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "tread-lightly"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Run any server. During that run, the rez cost of each piece of ice is increased by 3 credits."
+ :stripped-title "Tread Lightly"
+ :subtype [:run]
+ :text "Run any server. During that run, the rez cost of each piece of ice is increased by 3[credit]."
+ :title "Tread Lightly"
+ :type :event
+ :uniqueness false}
