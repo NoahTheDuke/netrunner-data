@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 2
- :stripped-text "Interface 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength. trash: Bypass the code gate you are encountering."
+ :stripped-text "Interface > 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength. trash: Bypass the code gate you are encountering."
  :stripped-title "Abagnale"
  :subtype [:icebreaker :decoder]
- :text "Interface– 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass the <strong>code gate</strong> you are encountering."
+ :text "Interface > 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass the <strong>code gate</strong> you are encountering."
  :title "Abagnale"
  :type :program
  :uniqueness false}

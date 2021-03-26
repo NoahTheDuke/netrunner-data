@@ -1,0 +1,13 @@
+{:cost 10
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "government-subsidy"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Gain 15 credits."
+ :stripped-title "Government Subsidy"
+ :subtype [:transaction]
+ :text "Gain 15[credit]."
+ :title "Government Subsidy"
+ :type :operation
+ :uniqueness false}

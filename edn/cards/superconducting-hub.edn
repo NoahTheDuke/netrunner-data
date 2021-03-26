@@ -3,7 +3,6 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "superconducting-hub"
- :influence-cost 0
  :side :corp
  :stripped-text "When you score this agenda, you may draw 2 cards. You get +2 maximum hand size."
  :stripped-title "Superconducting Hub"

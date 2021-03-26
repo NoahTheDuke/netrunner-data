@@ -216,7 +216,7 @@
   :set-id "system-update-2021"}
  {:card-id "egret"
   :code "31032"
-  :flavor "\"Pallas Athena sent a heron gliding down the night. They could not see it passing, but they heard its cry.\"\n—The Illiad"
+  :flavor "\"Pallas Athena sent a heron gliding down the night. They could not see it passing, but they heard its cry.\"\n—The Iliad"
   :illustrator "N. Hopkins"
   :position 32
   :quantity 3
@@ -413,7 +413,7 @@
  {:card-id "near-earth-hub-broadcast-center"
   :code "31060"
   :flavor "Every Hour, Every Minute, Every Second."
-  :illustrator "Kira L Nguyen"
+  :illustrator "Kira L. Nguyen"
   :position 60
   :quantity 1
   :set-id "system-update-2021"}
@@ -441,7 +441,7 @@
  {:card-id "reversed-accounts"
   :code "31064"
   :flavor "Corporations can file chargebacks too."
-  :illustrator "0thmxma"
+  :illustrator "Philippe Laroche"
   :position 64
   :quantity 3
   :set-id "system-update-2021"}

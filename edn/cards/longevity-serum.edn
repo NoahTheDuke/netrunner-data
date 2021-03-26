@@ -1,6 +1,6 @@
 {:advancement-requirement 3
  :agenda-points 2
- :deck-limit 3
+ :deck-limit 1
  :faction :jinteki
  :id "longevity-serum"
  :side :corp

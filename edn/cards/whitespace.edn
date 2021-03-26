@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "whitespace"
+ :influence-cost 0
+ :side :corp
+ :strength 0
+ :stripped-text "Subroutine The Runner loses 3 credits. Subroutine If the Runner has 6 credits or less, end the run."
+ :stripped-title "Whitespace"
+ :subtype [:code-gate]
+ :text "[subroutine] The Runner loses 3[credit].\n[subroutine] If the Runner has 6[credit] or less, end the run."
+ :title "Whitespace"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "ballista"
+ :influence-cost 2
+ :side :corp
+ :strength 4
+ :stripped-text "Subroutine Trash 1 installed program or end the run."
+ :stripped-title "Ballista"
+ :subtype [:sentry :destroyer]
+ :text "[subroutine] Trash 1 installed program or end the run."
+ :title "Ballista"
+ :type :ice
+ :uniqueness false}

@@ -4,9 +4,9 @@
  :id "amaze-amusements"
  :influence-cost 3
  :side :corp
- :stripped-text "Persistent Whenever a run on this server ends, if the Runner stole any agendas during that run, give the Runner 2 tags. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
+ :stripped-text "Persistent > Whenever a run on this server ends, if the Runner stole any agendas during that run, give the Runner 2 tags. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
  :stripped-title "AMAZE Amusements"
- :text "Persistent– Whenever a run on this server ends, if the Runner stole any agendas during that run, give the Runner 2 tags. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>"
+ :text "Persistent > Whenever a run on this server ends, if the Runner stole any agendas during that run, give the Runner 2 tags. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>"
  :title "AMAZE Amusements"
  :trash-cost 3
  :type :upgrade

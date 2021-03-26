@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "regolith-mining-license"
+ :influence-cost 0
+ :side :corp
+ :stripped-text "When you rez this asset, load 15 credits onto it. When it is empty, trash it. click: Take 3 credits from this asset."
+ :stripped-title "Regolith Mining License"
+ :text "When you rez this asset, load 15[credit] onto it. When it is empty, trash it.\n[click]: Take 3[credit] from this asset."
+ :title "Regolith Mining License"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

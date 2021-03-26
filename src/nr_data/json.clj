@@ -1,31 +1,23 @@
-(ns nr-edn.json
-  (:require [clojure.string :as string]
-            [clojure.java.io :as io]
-            [clojure.edn :as edn]
-            [clojure.set :refer [rename-keys]]
-            [org.httpkit.client :as http]
-            [cheshire.core :as json]
-            [nr-edn.combine :refer [load-data load-sets load-edn-from-dir
-                                    generate-formats merge-sets-and-cards]]
-            [nr-edn.utils :refer [cards->map vals->vec prune-null-fields slugify]]))
-
-(defn build-system-core-2019
-  [[title cards]]
-  (when (= "System Core 2019" (:setname (last cards)))
-    (apply merge
-           (last cards)
-           (flatten
-             (map #(select-keys %
-                                [:flavor
-                                 :illustrator])
-                  (butlast cards))))))
+(ns nr-data.json
+  (:require
+    [clojure.string :as str]
+    [clojure.java.io :as io]
+    [clojure.edn :as edn]
+    [clojure.set :refer [rename-keys]]
+    [cond-plus.core :refer [cond+]]
+    [org.httpkit.client :as http]
+    [cheshire.core :as json]
+    [nr-data.combine :refer [load-data load-sets load-edn-from-dir
+                             generate-formats merge-sets-and-cards]]
+    [nr-data.utils :refer [cards->map vals->vec prune-null-fields slugify]]))
 
 (defn get-json-cost
   [card]
-  (or (:cost card)
-      (case (:type card)
-        (:asset :event :hardware :operation :program :resource :upgrade) "null"
-        nil)))
+  (cond+
+    [(= "X" (:cost card)) "null"]
+    [(:cost card)]
+    [(#{:asset :event :hardware :operation :program :resource :upgrade} (:type card))
+     "null"]))
 
 (defn get-json-faction
   [card]
@@ -96,11 +88,11 @@
 (defn get-json-text
   [card]
   (-> (:text card "")
-      (string/replace "[c]" "[credit]")
+      (str/replace "[c]" "[credit]")
       (not-empty)))
 
 (defn convert-to-json
-  []
+  [& _]
   (let [
         mwls (load-data "mwls" {:id :code})
         sides (load-data "sides")
@@ -176,7 +168,7 @@
                   :illustrator (:illustrator card)
                   :influence_limit (get-json-influence-limit card)
                   :keywords (when (seq (:subtype card))
-                              (string/join " - " (map #(:name (get subtypes %)) (:subtype card))))
+                              (str/join " - " (map #(:name (get subtypes %)) (:subtype card))))
                   :memory_cost (:memory-cost card)
                   :minimum_deck_size (:minimum-deck-size card)
                   :pack_code (:code s)
@@ -214,3 +206,7 @@
              (#(str % "\n"))
              (spit (io/file "json" "pack" (str (:code s) ".json")))))
        (println "Writing json files...Done!"))))
+
+(comment
+  (convert-to-json)
+  )

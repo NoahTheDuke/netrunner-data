@@ -4,10 +4,10 @@
  :id "daily-business-show"
  :influence-cost 1
  :side :corp
- :stripped-text "Interrupt The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D."
+ :stripped-text "Interrupt > The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D."
  :stripped-title "Daily Business Show"
  :subtype [:cast]
- :text "[interrupt]– The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D."
+ :text "[interrupt] > The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D."
  :title "Daily Business Show"
  :trash-cost 4
  :type :asset

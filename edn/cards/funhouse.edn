@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :nbn
+ :id "funhouse"
+ :influence-cost 2
+ :side :corp
+ :strength 4
+ :stripped-text "When the Runner encounters this ice, end the run unless the Runner takes 1 tag. Subroutine Give the Runner 1 tag unless they pay 4 credits."
+ :stripped-title "Funhouse"
+ :subtype [:code-gate]
+ :text "When the Runner encounters this ice, end the run unless the Runner takes 1 tag.\n[subroutine] Give the Runner 1 tag unless they pay 4[credit]."
+ :title "Funhouse"
+ :type :ice
+ :uniqueness false}

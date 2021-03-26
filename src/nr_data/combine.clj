@@ -1,11 +1,12 @@
-(ns nr-edn.combine
-  (:require [clojure.string :as string]
-            [clojure.java.io :as io]
-            [clojure.edn :as edn]
-            [clojure.set :refer [rename-keys union]]
-            [org.httpkit.client :as http]
-            [cheshire.core :as json]
-            [nr-edn.utils :refer [cards->map vals->vec prune-null-fields]]))
+(ns nr-data.combine
+  (:require
+    [clojure.string :as str]
+    [clojure.java.io :as io]
+    [clojure.edn :as edn]
+    [clojure.set :refer [rename-keys union]]
+    [org.httpkit.client :as http]
+    [cheshire.core :as json]
+    [nr-data.utils :refer [cards->map vals->vec prune-null-fields]]))
 
 (defn read-edn-file
   [file-path]
@@ -14,11 +15,11 @@
 (defn load-edn-from-dir
   [file-path]
   (->> (io/file file-path)
-       file-seq
+       (file-seq)
        (filter #(and (.isFile %)
-                     (string/ends-with? % ".edn")))
+                     (str/ends-with? % ".edn")))
        (map read-edn-file)
-       flatten
+       (flatten)
        (into [])))
 
 (defn load-data
@@ -157,7 +158,6 @@
             :deck-limit (:deck-limit card)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-cost card)
-            :flips (:flips card)
             :format (get card->formats (:id card))
             :influencelimit (:influence-limit card)
             :memoryunits (:memory-cost card)
@@ -171,7 +171,7 @@
             :side (:name (get sides (:side card)))
             :strength (get-strength card)
             :subtype (when (seq (:subtype card))
-                       (string/join " - " (map #(print-null-subtypes subtypes card %) (:subtype card))))
+                       (str/join " - " (map #(print-null-subtypes subtypes card %) (:subtype card))))
             :subtypes (mapv #(print-null-subtypes subtypes card %) (:subtype card))
             :text (:text card)
             :title (:title card)
@@ -186,7 +186,7 @@
          cards->map)))
 
 (defn combine-for-jnet
-  []
+  [& _]
   (let [
         mwls (load-data "mwls" {:id :code})
         sides (load-data "sides")
@@ -206,3 +206,7 @@
             :formats (vals->vec :date-release formats)
             :mwls (vals->vec :date-start mwls)))
     (println "Done!")))
+
+(comment
+  (combine-for-jnet)
+  )

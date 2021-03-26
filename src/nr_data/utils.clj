@@ -1,5 +1,6 @@
-(ns nr-edn.utils
-  (:require [clojure.string :as string]))
+(ns nr-data.utils
+  (:require
+    [clojure.string :as str]))
 
 (defmacro vals->vec
   ([coll]
@@ -16,8 +17,8 @@
   (some-> (not-empty s)
           (name)
           (java.text.Normalizer/normalize java.text.Normalizer$Form/NFD)
-          (string/replace #"[\P{ASCII}]+" "")
-          (string/trim)))
+          (str/replace #"[\P{ASCII}]+" "")
+          (str/trim)))
 
 (defn slugify
   "As defined here: https://you.tools/slugify/"
@@ -26,10 +27,10 @@
    (if (nil? s) ""
      (as-> s s
        (normalize-text s)
-       (string/lower-case s)
-       (string/split s #"[\p{Space}\p{Punct}]+")
+       (str/lower-case s)
+       (str/split s #"[\p{Space}\p{Punct}]+")
        (filter seq s)
-       (string/join sep s)))))
+       (str/join sep s)))))
 
 (defn prune-null-fields
   [card]

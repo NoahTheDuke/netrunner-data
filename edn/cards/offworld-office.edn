@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "offworld-office"
+ :side :corp
+ :stripped-text "When you score this agenda, gain 7 credits."
+ :stripped-title "Offworld Office"
+ :subtype [:expansion]
+ :text "When you score this agenda, gain 7[credit]."
+ :title "Offworld Office"
+ :type :agenda
+ :uniqueness false}

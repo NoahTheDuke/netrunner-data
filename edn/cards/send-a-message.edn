@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "send-a-message"
+ :side :corp
+ :stripped-text "When this agenda is scored or stolen, you may rez 1 installed piece of ice, ignoring all costs."
+ :stripped-title "Send a Message"
+ :subtype [:security]
+ :text "When this agenda is scored or stolen, you may rez 1 installed piece of ice, ignoring all costs."
+ :title "Send a Message"
+ :type :agenda
+ :uniqueness false}

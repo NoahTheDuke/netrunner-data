@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "t400-memory-diamond"
+ :influence-cost 0
+ :side :runner
+ :stripped-text "+1 mu You get +1 maximum hand size."
+ :stripped-title "T400 Memory Diamond"
+ :subtype [:chip]
+ :text "+1[mu]\nYou get +1 maximum hand size."
+ :title "T400 Memory Diamond"
+ :type :hardware
+ :uniqueness false}

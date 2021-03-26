@@ -26,6 +26,20 @@
   :position 4
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "buzzsaw"
+  :code "30005"
+  :flavor "Destruction is an art."
+  :illustrator "Cat Shen"
+  :position 5
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "cleaver"
+  :code "30006"
+  :flavor "Subtlety is a luxury."
+  :illustrator "Cat Shen"
+  :position 6
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "fermenter"
   :code "30007"
   :flavor "\"There's a tension to a cook. Each processing cycle sweetens the pot and raises the heat. I stir all night, but few have my appetite for danger.\"\n—René \"Loup\" Arcemont"
@@ -80,6 +94,20 @@
   :flavor "\"Braggarts chase big heists. Patience enriches skimming fractions of a credit at a time.\" —Zahya"
   :illustrator "Martin de Diego Sādaba"
   :position 14
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "carmen"
+  :code "30015"
+  :flavor "The whole wide world your domain\nFor law your own free will."
+  :illustrator "Jack Reeves"
+  :position 15
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "marjanah"
+  :code "30016"
+  :flavor "\"You can't rule a kingdom by standing still.\"\n—Zahya Sadeghi"
+  :illustrator "Jack Reeves"
+  :position 16
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "tranquilizer"
@@ -138,6 +166,27 @@
   :position 24
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "echelon"
+  :code "30025"
+  :flavor "The beauty of open projects—each stands atop past success."
+  :illustrator "Liiga Smilshkalne"
+  :position 25
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "unity"
+  :code "30026"
+  :flavor "The joy of handcrafted code—each fits perfectly within the whole."
+  :illustrator "Liiga Smilshkalne"
+  :position 26
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "telework-contract"
+  :code "30027"
+  :flavor "\"For all I know, I could spend a shift digging next to old Weyland himself.\"\n—Lane"
+  :illustrator "Benjamin Giletti"
+  :position 27
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "jailbreak"
   :code "30028"
   :flavor "\"We'll take the access codes from their own prisec—privilege escalation through local application of force.\"\n—The Catalyst"
@@ -147,7 +196,7 @@
   :set-id "system-gateway"}
  {:card-id "overclock"
   :code "30029"
-  :flavor "\"After 381FS4 started acting independently, all bets were off. Rethreading its own brain chip… even probing <strong>our</strong> nodes. I had to shut it down.\"\n—Linus Lovegood, NBN Novelties&Acquisitions"
+  :flavor "\"After 381FS4 started acting independently, all bets were off. Rethreading its own brain chip... even probing <strong>our</strong> nodes. I had to shut it down.\"\n—Linus Lovegood, NBN Novelties&Acquisitions"
   :illustrator "Scott Uminga"
   :position 29
   :quantity 3
@@ -155,15 +204,36 @@
  {:card-id "sure-gamble"
   :code "30030"
   :flavor "Anyone can put in the hours of planning, practice, and preparation—but making it all look like luck takes <strong>style</strong>."
-  :illustrator "Kira Nguyen"
+  :illustrator "Kira L. Nguyen"
   :position 30
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "t400-memory-diamond"
+  :code "30031"
+  :flavor "LLDS still holds the patent, but good tech attracts knockoffs."
+  :illustrator "Elizaveta Sokolova"
+  :position 31
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "mayfly"
   :code "30032"
-  :flavor "Compiling even the smallest AI takes weeks for only seconds of runtime, but that brief, shining moment allows… <strong>everything</strong>."
+  :flavor "Compiling even the smallest AI takes weeks for only seconds of runtime, but that brief, shining moment allows... <strong>everything</strong>."
   :illustrator "Scott Uminga"
   :position 32
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "smartware-distributor"
+  :code "30033"
+  :flavor "The beauty of 22nd-century tech: if it still functions after all these decades, you know the build quality is solid."
+  :illustrator "Benjamin Giletti"
+  :position 33
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "verbal-plasticity"
+  :code "30034"
+  :flavor "\"Some kids got g-mods for beauty, sports, or staying up all night. My parents thought Broca-mods were cool. Hah. Fluent in ten languages so far, and still searching for the words to thank them.\"\n—Patrick Blue, Solar Artist"
+  :illustrator "David Lei"
+  :position 34
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "haas-bioroid-precision-design"
@@ -185,6 +255,20 @@
   :flavor "Haas thinks they're making a new line of androgynous products. In truth, they're making us thousands of new siblings to free."
   :illustrator "David Lei"
   :position 37
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "ansel-1-0"
+  :code "30038"
+  :flavor "<champion>Designed by 2018 European Champion Patrick Gower</champion>"
+  :illustrator "Galen Dara"
+  :position 38
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "bran-1-0"
+  :code "30039"
+  :flavor "A giant wakes..."
+  :illustrator "Galen Dara"
+  :position 39
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "seamless-launch"
@@ -229,10 +313,17 @@
   :position 45
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "diviner"
+  :code "30046"
+  :flavor "It reads your future in a single biometric sweep."
+  :illustrator "BalanceSheet"
+  :position 46
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "karuna"
   :code "30047"
   :flavor "You did not escape, you were shown mercy."
-  :illustrator "Steve Hamilton"
+  :illustrator "BalanceSheet"
   :position 47
   :quantity 3
   :set-id "system-gateway"}
@@ -246,14 +337,14 @@
  {:card-id "neurospike"
   :code "30049"
   :flavor "Macroscale developments within the Net decouple the prior informational states—surplus entropy is then gifted where it will do the most good."
-  :illustrator "Steve Hamilton"
+  :illustrator "BalanceSheet"
   :position 49
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "anoetic-void"
   :code "30050"
   :flavor "The self-evolving Net twists into spaces unthought and unthinkable: realms of gods and other infohazards, mocking our sacrifices to petty causality.\n—Conceptual Frameworks for Applied Theology"
-  :illustrator "Steve Hamilton"
+  :illustrator "BalanceSheet"
   :position 50
   :quantity 3
   :set-id "system-gateway"}
@@ -276,6 +367,20 @@
   :flavor "\"It's worse than dead meat—your project is too toxic to even feed to the vultures! If you don't want to <strong>join</strong> it in the bloody memory hole, crawl onto every business show you can and wallow in blame like a pig in muck.\""
   :illustrator "David Lei"
   :position 53
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "funhouse"
+  :code "30054"
+  :flavor "\"I might take a break from VR after this one.\"\n—SeaOfRibaldry, sensie streamer"
+  :illustrator "Bruno Balixa"
+  :position 54
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "ping"
+  :code "30055"
+  :flavor "AvID:??:73.174 time=0.632 ms\nAvID:??:73.174 time=0.201 ms\nAvID:??:73.174 time=0.000 ms <strong>ALERT</strong>"
+  :illustrator "Bruno Balixa"
+  :position 55
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "predictive-planogram"
@@ -320,6 +425,26 @@
   :position 61
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "ballista"
+  :code "30062"
+  :flavor "\"Puts a hole in your rig <strong>and</strong> your plans.\"\n—René \"Loup\" Arcemont"
+  :illustrator "Owen Sinodov"
+  :position 62
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "pharos"
+  :code "30063"
+  :illustrator "Owen Sinodov"
+  :position 63
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "government-subsidy"
+  :code "30064"
+  :flavor "\"If the government spent 1% of the funding they provide us tracking where the other 99% went, my colleagues and I would be in prison...\n...but that is a very big <strong>if</strong>.\"\n—Huey DeMora, W-Con public-private facilitation seminar"
+  :illustrator "David Lei"
+  :position 64
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "retribution"
   :code "30065"
   :flavor "Did you really think you'd get away with it?"
@@ -334,11 +459,25 @@
   :position 66
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "offworld-office"
+  :code "30067"
+  :flavor "As the first lunar city, Heinlein was built on the dreams of a new frontier and boundless opportunity, but He3 mining is too lucrative for the corps to ever relinquish control."
+  :illustrator "Benjamin Giletti"
+  :position 67
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "orbital-superiority"
   :code "30068"
   :flavor "Mobsters bribe police, megacorps acquire militaries."
   :illustrator "Krembler"
   :position 68
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "send-a-message"
+  :code "30069"
+  :flavor "It might be over, but we <strong>will</strong> get them next time."
+  :illustrator "David Lei"
+  :position 69
   :quantity 3
   :set-id "system-gateway"}
  {:card-id "superconducting-hub"
@@ -348,10 +487,38 @@
   :position 70
   :quantity 3
   :set-id "system-gateway"}
+ {:card-id "regolith-mining-license"
+  :code "30071"
+  :flavor "\"The economy of three worlds is sustained by He3 extraction from the lunar surface. The very fulcrum of power, the key to collective survival—auctioned to the highest bidder.\"\n—The Catalyst"
+  :illustrator "Benjamin Giletti"
+  :position 71
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "palisade"
+  :code "30072"
+  :flavor "Keep the neighbors honest."
+  :illustrator "Scott Uminga"
+  :position 72
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "tithe"
+  :code "30073"
+  :flavor "\"You'll give till it hurts... then it'll reach for more.\"\n—Red Comyn"
+  :illustrator "Scott Uminga"
+  :position 73
+  :quantity 3
+  :set-id "system-gateway"}
+ {:card-id "whitespace"
+  :code "30074"
+  :flavor "{ca}[this space intentionally left blank]{/ca}"
+  :illustrator "Scott Uminga"
+  :position 74
+  :quantity 3
+  :set-id "system-gateway"}
  {:card-id "hedge-fund"
   :code "30075"
   :flavor "A financial instrument for diverting money from those outside to those inside."
-  :illustrator "Kira Nguyen"
+  :illustrator "Kira L. Nguyen"
   :position 75
   :quantity 3
   :set-id "system-gateway"}

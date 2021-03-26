@@ -1,8 +1,6 @@
 /target
 /classes
 /checkouts
-pom.xml
-pom.xml.asc
 *.jar
 *.class
 /.lein-*
@@ -11,3 +9,4 @@ pom.xml.asc
 .hg/
 .DS_Store
 raw_data.edn
+.cpcache

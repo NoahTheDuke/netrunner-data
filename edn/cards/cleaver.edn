@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "cleaver"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "Interface > 1 credit: Break up to 2 barrier subroutines. 2 credits: +1 strength."
+ :stripped-title "Cleaver"
+ :subtype [:icebreaker :fracter]
+ :text "Interface > 1[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n2[credit]: +1 strength."
+ :title "Cleaver"
+ :type :program
+ :uniqueness false}

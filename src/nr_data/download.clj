@@ -1,11 +1,12 @@
-(ns nr-edn.download
-  (:require [clojure.string :as string]
-            [clojure.java.io :as io]
-            [clojure.set :refer [rename-keys]]
-            [org.httpkit.client :as http]
-            [cheshire.core :as json]
-            [zprint.core :as zp]
-            [nr-edn.utils :refer [slugify cards->map]]))
+(ns nr-data.download
+  (:require
+    [clojure.string :as str]
+    [clojure.java.io :as io]
+    [clojure.set :refer [rename-keys]]
+    [org.httpkit.client :as http]
+    [cheshire.core :as json]
+    [zprint.core :as zp]
+    [nr-data.utils :refer [slugify cards->map]]))
 
 (defn parse-response
   [body]
@@ -34,7 +35,7 @@
        io/file
        file-seq
        (filter #(and (.isFile %)
-                     (string/ends-with? % ".json")))
+                     (str/ends-with? % ".json")))
        (map read-json-file)
        flatten
        parse-response))
@@ -118,7 +119,7 @@
 (defn convert-subtypes
   [subtype]
   (when (seq subtype)
-    (->> (string/split subtype #" - ")
+    (->> (str/split subtype #" - ")
          (map slugify)
          (map keyword)
          (into []))))
@@ -295,7 +296,7 @@
   (try
     (let [line-ending "\n"
           use-local (some #{"--local"} args)
-          localpath (first (remove #(string/starts-with? % "--") args))
+          localpath (first (remove #(str/starts-with? % "--") args))
           download-fn (if use-local
                         (partial read-local-data localpath)
                         download-nrdb-data)

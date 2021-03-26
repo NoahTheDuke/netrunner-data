@@ -1,4 +1,4 @@
-(ns nr-edn.quotes
+(ns nr-data.quotes
   (:require [clojure.string :as string]
             [semantic-csv.core :as sc]
             [medley.core :refer :all]
@@ -40,14 +40,5 @@
         runner (id-merger "jnet-runner-quotes.csv")
         ]
 
-    (zp/set-options!
-      {:style :community
-       :map {:comma? false
-             :force-nl? true}
-       :width 10})
-
-
     (spit "quotes/quotes-corp.edn" (str (zp/zprint-str corp) "\n"))
     (spit "quotes/quotes-runner.edn" (str (zp/zprint-str runner) "\n"))))
-
-(build-quotes)

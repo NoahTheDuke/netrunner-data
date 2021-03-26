@@ -4,10 +4,10 @@
  :id "carnivore"
  :influence-cost 3
  :side :runner
- :stripped-text "+1 mu Access Trash 2 cards from your grip: Trash the card you are accessing. Use this ability only once per turn. Limit 1 console per player."
+ :stripped-text "+1 mu Access > Trash 2 cards from your grip: Trash the card you are accessing. Use this ability only once per turn. Limit 1 console per player."
  :stripped-title "Carnivore"
  :subtype [:console]
- :text "+1[mu]\nAccess– Trash 2 cards from your grip: Trash the card you are accessing. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player."
+ :text "+1[mu]\nAccess > Trash 2 cards from your grip: Trash the card you are accessing. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player."
  :title "Carnivore"
  :type :hardware
  :uniqueness true}
