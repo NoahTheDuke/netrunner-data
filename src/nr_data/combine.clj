@@ -6,6 +6,7 @@
     [clojure.set :refer [rename-keys union]]
     [org.httpkit.client :as http]
     [cheshire.core :as json]
+    [cond-plus.core :refer [cond+]]
     [nr-data.utils :refer [cards->map vals->vec prune-null-fields]]))
 
 (defn read-edn-file
@@ -53,10 +54,13 @@
 
 (defn get-cost
   [card]
-  (or (:cost card)
-      (case (:type card)
-        (:asset :event :hardware :operation :program :resource :upgrade) 0
-        nil)))
+  (let [cost (:cost card)]
+    (cond+
+      [(= "X" cost) 0]
+      [cost]
+      [(case (:type card)
+         (:asset :event :hardware :operation :program :resource :upgrade) 0
+         nil)])))
 
 (defn get-strength
   [card]
