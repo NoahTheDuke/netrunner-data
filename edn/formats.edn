@@ -1,20 +1,25 @@
 [{:id "standard"
   :name "Standard"
-  :sets ["honor-and-profit"
-         "order-and-chaos"
-         "data-and-destiny"
+  :sets ["data-and-destiny"
          "reign-and-reverie"
-         "magnum-opus"
-         "system-core-2019"
          "magnum-opus-reprint"
-         "salvaged-memories"]
-  :cycles ["sansan"
-           "mumbad"
-           "flashpoint"
+         "system-gateway"
+         "system-update-2021"]
+  :cycles ["flashpoint"
            "red-sand"
            "kitara"
            "ashes"]
   :mwl "standard-ban-list-20-09"}
+ {:id "system-gateway"
+  :name "System Gateway"
+  :sets ["system-gateway"]
+  :mwl nil}
+ {:id "startup"
+  :name "Startup"
+  :sets ["system-gateway"
+         "system-update-2021"]
+  :cycles ["ashes"]
+  :mwl nil}
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
@@ -27,7 +32,8 @@
          "reign-and-reverie"
          "magnum-opus"
          "system-core-2019"
-         "magnum-opus-reprint"]
+         "magnum-opus-reprint"
+         "system-gateway"]
   :cycles ["genesis"
            "spin"
            "lunar"
@@ -38,10 +44,6 @@
            "kitara"
            "ashes"]
   :mwl "eternal-mwl-1-2"}
- {:id "core-experience"
-  :name "Core Experience"
-  :sets ["system-core-2019"]
-  :mwl nil}
  {:id "snapshot"
   :name "Snapshot"
   :sets ["creation-and-control"
@@ -75,17 +77,6 @@
            "kitara"
            "magnum-opus"]
   :mwl "napd-mwl-2-2"}
- {:id "socr"
-  :name "Stimhack Online Cache Refresh"
-  :sets ["honor-and-profit"
-         "order-and-chaos"
-         "data-and-destiny"
-         "reign-and-reverie"
-         "system-core-2019"
-         "magnum-opus"]
-  :cycles ["kitara"
-           "ashes"]
-  :mwl "standard-mwl-3-4-b"}
  {:id "classic"
   :name "Classic"
   :sets ["core-set"
