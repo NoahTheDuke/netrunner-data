@@ -1,7 +1,9 @@
 [{:id "standard"
   :name "Standard"
-  :sets ["data-and-destiny"
+  :sets ["order-and-chaos"
+         "data-and-destiny"
          "reign-and-reverie"
+         "magnum-opus"
          "magnum-opus-reprint"
          "system-gateway"
          "system-update-2021"]
