@@ -2,7 +2,7 @@
  :deck-limit 1
  :faction :neutral-runner
  :id "the-catalyst-convention-breaker"
- :influence-limit 0
+ :influence-limit nil
  :minimum-deck-size 30
  :side :runner
  :stripped-title "The Catalyst: Convention Breaker"
