@@ -133,7 +133,7 @@
            :previous-versions
            (->> cards
                 butlast
-                (mapv :code)))))
+                (mapv #(select-keys % [:code :set_code]))))))
 
 (defn print-null-subtypes
   [subtypes card subtype-keyword]
