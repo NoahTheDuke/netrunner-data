@@ -35,7 +35,7 @@
   :set-id "system-update-2021"}
  {:card-id "corroder"
   :code "31006"
-  :flavor "{ca}\"Oh, holy Rust,{/ca}\n{ca}Turn foundation into dust.{/ca}\n{ca}Oh, sacred Flood,{/ca}\n{ca}Wash away what we have become.\"{/ca}\n—Rent Strike"
+  :flavor "\"Oh, holy Rust,\nTurn foundation into dust.\nOh, sacred Flood,\nWash away what we have become.\"\n—Rent Strike"
   :illustrator "Zoe Cohen"
   :position 6
   :quantity 3

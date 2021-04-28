@@ -20,6 +20,8 @@
         :exec-fn build-from-csv}
   :json {:ns-default nr-data.json
          :exec-fn convert-to-json}
+  :nrdb {:ns-default nr-data.download
+         :exec-fn download-from-nrdb}
 
   :test {:extra-paths ["test"]
          :extra-deps {org.clojure/test.check {:mvn/version "1.1.0"}}}

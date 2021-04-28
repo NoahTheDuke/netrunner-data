@@ -8,7 +8,7 @@
  :stripped-text "When you install this program, place 2 virus counters on it. Access > Hosted virus counter: Trash the card you are accessing. Use this ability only once per turn."
  :stripped-title "Imp"
  :subtype [:virus]
- :text "When you install this program, place 2 virus counters on it.\nAccess > Hosted virus counter: Trash the card you are accessing. Use this ability only once per turn."
+ :text "When you install this program, place 2 virus counters on it.\nAccess > <strong>Hosted virus counter:</strong> Trash the card you are accessing. Use this ability only once per turn."
  :title "Imp"
  :type :program
  :uniqueness false}

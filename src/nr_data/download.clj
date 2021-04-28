@@ -6,6 +6,7 @@
     [org.httpkit.client :as http]
     [cheshire.core :as json]
     [zprint.core :as zp]
+    [nr-data.scratch :refer [clean-card-text]]
     [nr-data.utils :refer [slugify cards->map]]))
 
 (defn parse-response
@@ -98,14 +99,15 @@
 (defn set-type?
   [s]
   (case (slugify (:name s))
-    ("core-set" "revised-core-set" "system-core-2019") :core
+    ("core-set" "revised-core-set" "system-core-2019"
+     "system-gateway" "system-update-2021") :core
     ("creation-and-control" "honor-and-profit"
      "order-and-chaos" "data-and-destiny"
      "reign-and-reverie") :deluxe
     ("magnum-opus" "magnum-opus-reprint" "uprising-booster-pack") :expansion
     "draft" :draft
     "napd-multiplayer" :promo
-    "terminal-directive" :campaign
+    ("terminal-directive" "terminal-directive-campaign") :campaign
     ;; else
     :data-pack))
 
@@ -172,9 +174,7 @@
   [cards set-map c]
   (let [s (get set-map (:pack-code c))]
     (-> c
-        (dissoc :pack-code
-                (when (= (:text c) (:text (get cards (:card-id c))))
-                  :text))
+        (dissoc :pack-code :text)
         (assoc :set-id (:id s)))))
 
 (def mwl-fields
@@ -252,8 +252,9 @@
   [line-ending download-fn sets]
   (let [raw-cards (download-fn (-> tables :card :path))
         card-stub (fn [path] raw-cards)
-        cards (cards->map :id
-                          (fetch-data card-stub (:card tables) add-card-fields))
+        cards (->> (fetch-data card-stub (:card tables) add-card-fields)
+                   (clean-card-text)
+                   (cards->map :id))
         raw-set-cards (fetch-data card-stub
                                   (:set-card tables)
                                   (partial add-set-card-fields cards (cards->map sets)))]
@@ -288,37 +289,37 @@
     mwls))
 
 (defn download-from-nrdb
-  "Import data from NetrunnerDB.
-  Can accept `--local <path>` to use the `netrunner-card-json` project locally,
-  otherwise pulls data from NRDB.
-  Specifying `--no-card-images` will not attempt to download images for cards."
   [& args]
-  (try
-    (let [line-ending "\n"
-          use-local (some #{"--local"} args)
-          localpath (first (remove #(str/starts-with? % "--") args))
-          download-fn (if use-local
-                        (partial read-local-data localpath)
-                        download-nrdb-data)
+  (println "args" args)
+  (let [line-ending "\n"
+        use-local (some #{"--local"} args)
+        localpath (first (remove #(and % (str/starts-with? % "--")) args))
+        download-fn (if use-local
+                      (partial read-local-data localpath)
+                      download-nrdb-data)
 
-          cycles (cycle-handler line-ending download-fn)
+        cycles (cycle-handler line-ending download-fn)
 
-          sets (set-handler line-ending download-fn)
+        sets (set-handler line-ending download-fn)
 
-          _ (print "Downloading and processing cards...")
-          ;; So this is fucked up, because unlike the old jnet system, we need to keep
-          ;; some of the old fields around for splitting between cards and set-cards.
-          ;; Instead of downloading stuff twice, we can download it once, stub a dl
-          ;; function to return it, and pass that in to fetch-data. ezpz
-          card-download-fn (if use-local
-                             (partial read-card-dir localpath)
-                             download-nrdb-data)
+        _ (print "Downloading and processing cards... ")
+        ;; So this is fucked up, because unlike the old jnet system, we need to keep
+        ;; some of the old fields around for splitting between cards and set-cards.
+        ;; Instead of downloading stuff twice, we can download it once, stub a dl
+        ;; function to return it, and pass that in to fetch-data. ezpz
+        card-download-fn (if use-local
+                           (partial read-card-dir localpath)
+                           download-nrdb-data)
 
-          [cards raw-set-cards] (card-handler line-ending card-download-fn sets)
+        [cards raw-set-cards] (card-handler line-ending card-download-fn sets)
 
-          set-cards (set-cards-handler line-ending raw-set-cards)
+        set-cards (set-cards-handler line-ending raw-set-cards)
 
-          ; mwls (mwl-handler line-ending download-fn raw-set-cards)
-          ]
+        ; mwls (mwl-handler line-ending download-fn raw-set-cards)
+        ]
 
-      (println "Done!"))))
+    (println "Done!")))
+
+(comment
+  (download-from-nrdb)
+  ,)

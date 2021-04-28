@@ -401,8 +401,7 @@
   :illustrator "Matt Zeilinger"
   :position 60
   :quantity 2
-  :set-id "core-set"
-  :text "Immediately install up to 3 cards (spending no clicks but paying all install costs)."}
+  :set-id "core-set"}
  {:card-id "heimdall-1-0"
   :code "01061"
   :flavor "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden."

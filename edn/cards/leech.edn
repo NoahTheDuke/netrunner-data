@@ -8,7 +8,7 @@
  :stripped-text "Whenever you make a successful run on a central server, place 1 virus counter on this program. Hosted virus counter: The ice you are encountering gets -1 strength for the remainder of this encounter."
  :stripped-title "Leech"
  :subtype [:virus]
- :text "Whenever you make a successful run on a central server, place 1 virus counter on this program.\nHosted virus counter: The ice you are encountering gets -1 strength for the remainder of this encounter."
+ :text "Whenever you make a successful run on a central server, place 1 virus counter on this program.\n<strong>Hosted virus counter:</strong> The ice you are encountering gets -1 strength for the remainder of this encounter."
  :title "Leech"
  :type :program
  :uniqueness false}

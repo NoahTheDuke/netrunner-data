@@ -1,9 +1,9 @@
 {:cost 0
  :deck-limit 3
- :faction :neutral-runner
+ :faction :neutral-corp
  :id "net-watchlist"
  :influence-cost 0
- :side :runner
+ :side :corp
  :stripped-text "This card is not trashed until another current is played or an agenda is stolen. The Runner must pay 2 credits as an additional cost to use an icebreaker."
  :stripped-title "Net Watchlist"
  :subtype [:current]

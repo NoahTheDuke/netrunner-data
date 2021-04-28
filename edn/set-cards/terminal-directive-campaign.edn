@@ -52,9 +52,9 @@
   :position 9
   :quantity 3
   :set-id "terminal-directive-campaign"}
- {:card-id "security-leak"
-  :code "14009"
-  :illustrator "Jason Juta"
+ {:card-id "net-watchlist"
+  :code "14023"
+  :illustrator "Adam S. Doyle"
   :position 10
   :quantity 1
   :set-id "terminal-directive-campaign"}
@@ -136,9 +136,9 @@
   :position 23
   :quantity 3
   :set-id "terminal-directive-campaign"}
- {:card-id "net-watchlist"
-  :code "14023"
-  :illustrator "Adam S. Doyle"
+ {:card-id "security-leak"
+  :code "14009"
+  :illustrator "Jason Juta"
   :position 24
   :quantity 1
   :set-id "terminal-directive-campaign"}

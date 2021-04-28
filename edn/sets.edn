@@ -661,17 +661,17 @@
  {:code "sg"
   :cycle-id "system-gateway"
   :date-release "2021-03-28"
-  :deluxe true
+  :deluxe false
   :ffg-id nil
   :id "system-gateway"
   :name "System Gateway"
   :position 1
-  :set-type :core
-  :size 75}
+  :set-type :data-pack
+  :size 77}
  {:code "su21"
   :cycle-id "system-update-2021"
   :date-release "2021-03-28"
-  :deluxe true
+  :deluxe false
   :ffg-id nil
   :id "system-update-2021"
   :name "System Update 2021"

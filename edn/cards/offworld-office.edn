@@ -3,6 +3,7 @@
  :deck-limit 3
  :faction :neutral-corp
  :id "offworld-office"
+ :influence-cost 0
  :side :corp
  :stripped-text "When you score this agenda, gain 7 credits."
  :stripped-title "Offworld Office"

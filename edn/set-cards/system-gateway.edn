@@ -440,7 +440,7 @@
   :set-id "system-gateway"}
  {:card-id "government-subsidy"
   :code "30064"
-  :flavor "\"If the government spent 1% of the funding they provide us tracking where the other 99% went, my colleagues and I would be in prison...\n...but that is a very big <strong>if</strong>.\"\n—Huey DeMora, W-Con public-private facilitation seminar"
+  :flavor "\"If the government spent 1% of the funding they provide us tracking where the other 99% went, my colleagues and I would be in prison…\n…but that is a very big <strong>if</strong>.\"\n—Huey DeMora, W-Con public-private facilitation seminar"
   :illustrator "David Lei"
   :position 64
   :quantity 3
@@ -510,7 +510,7 @@
   :set-id "system-gateway"}
  {:card-id "whitespace"
   :code "30074"
-  :flavor "{ca}[this space intentionally left blank]{/ca}"
+  :flavor "[this space intentionally left blank]"
   :illustrator "Scott Uminga"
   :position 74
   :quantity 3

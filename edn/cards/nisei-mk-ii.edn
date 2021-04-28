@@ -7,7 +7,7 @@
  :stripped-text "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: End the run."
  :stripped-title "Nisei MK II"
  :subtype [:initiative]
- :text "When you score this agenda, place 1 agenda counter on it.\nHosted agenda counter: End the run."
+ :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> End the run."
  :title "Nisei MK II"
  :type :agenda
  :uniqueness false}
