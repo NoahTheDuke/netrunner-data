@@ -1,8 +1,9 @@
 (ns nr-data.quotes
-  (:require [clojure.string :as string]
-            [semantic-csv.core :as sc]
-            [medley.core :refer :all]
-            [zprint.core :as zp]))
+  (:require
+   [clojure.string :as string]
+   [medley.core :refer [filter-vals map-vals]]
+   [semantic-csv.core :as sc]
+   [zprint.core :as zp]))
 
 (defn quote-parser
   [quotes]
@@ -30,15 +31,18 @@
 
 
 
-(comment (get (id-merger "jnet-corp-quotes.csv") "Asa Group: Security Through Vigilance"))
-(comment (get (id-merger "jnet-runner-quotes.csv") "Sunny Lebeau: Security Specialist"))
+(comment (get (id-merger "quotes/quotes-corp.csv") "Asa Group: Security Through Vigilance"))
+(comment (get (id-merger "quotes/quotes-runner.csv") "Sunny Lebeau: Security Specialist"))
 
 
-(defn build-quotes []
+(defn build-quotes [& _]
   (let [
-        corp (id-merger "jnet-corp-quotes.csv")
-        runner (id-merger "jnet-runner-quotes.csv")
+        corp (id-merger "quotes/quotes-corp.csv")
+        runner (id-merger "quotes/quotes-runner.csv")
         ]
 
     (spit "quotes/quotes-corp.edn" (str (zp/zprint-str corp) "\n"))
     (spit "quotes/quotes-runner.edn" (str (zp/zprint-str runner) "\n"))))
+
+(comment
+  (build-quotes))

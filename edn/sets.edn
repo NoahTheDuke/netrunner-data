@@ -666,7 +666,7 @@
   :id "system-gateway"
   :name "System Gateway"
   :position 1
-  :set-type :data-pack
+  :set-type :core
   :size 77}
  {:code "su21"
   :cycle-id "system-update-2021"

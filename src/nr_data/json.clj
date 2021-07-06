@@ -1,15 +1,11 @@
 (ns nr-data.json
   (:require
-    [clojure.string :as str]
-    [clojure.java.io :as io]
-    [clojure.edn :as edn]
-    [clojure.set :refer [rename-keys]]
-    [cond-plus.core :refer [cond+]]
-    [org.httpkit.client :as http]
-    [cheshire.core :as json]
-    [nr-data.combine :refer [load-data load-sets load-edn-from-dir
-                             generate-formats merge-sets-and-cards]]
-    [nr-data.utils :refer [cards->map vals->vec prune-null-fields slugify]]))
+   [cheshire.core :as json]
+   [clojure.java.io :as io]
+   [clojure.string :as str]
+   [cond-plus.core :refer [cond+]]
+   [nr-data.combine :refer [generate-formats load-data load-edn-from-dir load-sets merge-sets-and-cards]]
+   [nr-data.utils :refer [cards->map prune-null-fields slugify]]))
 
 (defn get-json-cost
   [card]
@@ -91,70 +87,8 @@
       (str/replace "[c]" "[credit]")
       (not-empty)))
 
-(defn convert-to-json
-  [& _]
-  (let [
-        mwls (load-data "mwls" {:id :code})
-        sides (load-data "sides")
-        subtypes (load-data "subtypes")
-        formats (load-data "formats")
-        cycles (load-data "cycles")
-        sets (load-sets cycles)
-        set-cards (load-edn-from-dir "edn/set-cards")
-        raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
-        cards (merge-sets-and-cards set-cards raw-cards)
-        card->formats (generate-formats sets cards formats mwls)
-        mwls (get-json-mwl (group-by :card-id cards) mwls)
-        pretty {:pretty {:indentation 4
-                         :indent-arrays? true
-                         :object-field-value-separator ": "}}
-        ]
-    (io/make-parents "json/pack/temp")
-
-    ;; mwl.json
-
-    ; (->> (for [mwl mwls]
-    ;        {:cards (into (sorted-map) (:cards mwl))
-    ;         :code (:code mwl)
-    ;         :date_start (:date-start mwl)
-    ;         :name (:name mwl)})
-    ;      (sort-by :date_start)
-    ;      (map #(into (sorted-map) %))
-    ;      (#(json/generate-string % pretty))
-    ;      (#(str % "\n"))
-    ;      (spit (io/file "json" "mwl.json")))
-
-    ;; cycles.json
-    (->> (for [[k cy] cycles]
-           {:code (get-json-code cy)
-            :name (get-json-name cy)
-            :position (:position cy)
-            :rotated (:rotated cy)
-            :size (:size cy)})
-         (sort-by :position)
-         (map #(into (sorted-map) %))
-         (#(json/generate-string % pretty))
-         (#(str % "\n"))
-         (spit (io/file "json" "cycles.json")))
-
-    ;; packs.json
-    (->> (for [[k s] sets]
-           {:code (:code s)
-            :cycle_code (get-json-code {:code (:cycle_code s)})
-            :date_release (:date-release s)
-            :ffg_id (:ffg-id s)
-            :name (:name s)
-            :position (:position s)
-            :size (:size s)})
-         (sort-by :code)
-         (map #(into (sorted-map) %))
-         (#(json/generate-string % pretty))
-         (#(str % "\n"))
-         (spit (io/file "json" "packs.json")))
-
-    ;; pack/*.json
-    (let [packs
-          (->> (for [card cards
+(defn generate-pack-files [subtypes sets cards]
+  (->> (for [card cards
                      :let [s (get sets (:set-id card))]]
                  {:advancement_cost (:advancement-requirement card)
                   :agenda_points (:agenda-points card)
@@ -192,7 +126,79 @@
                         (apply assoc card pairs)
                         card)))
                (sort-by :position)
-               (group-by :setname))]
+               (group-by :setname)))
+
+(defn generate-cycles [cycles]
+  (for [cy (keys cycles)]
+           {:code (get-json-code cy)
+            :name (get-json-name cy)
+            :position (:position cy)
+            :rotated (:rotated cy)
+            :size (:size cy)}))
+
+(defn generate-packs [sets]
+  (for [s (keys sets)]
+           {:code (:code s)
+            :cycle_code (get-json-code {:code (:cycle_code s)})
+            :date_release (:date-release s)
+            :ffg_id (:ffg-id s)
+            :name (:name s)
+            :position (:position s)
+            :size (:size s)}))
+
+(defn generate-mwl [mwls]
+  (for [mwl mwls]
+           {:cards (into (sorted-map) (:cards mwl))
+            :code (:code mwl)
+            :date_start (:date-start mwl)
+            :name (:name mwl)}))
+
+(defn convert-to-json
+  [& _]
+  (let [
+        mwls (load-data "mwls" {:id :code})
+        _sides (load-data "sides")
+        subtypes (load-data "subtypes")
+        formats (load-data "formats")
+        cycles (load-data "cycles")
+        sets (load-sets cycles)
+        set-cards (load-edn-from-dir "edn/set-cards")
+        raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
+        cards (merge-sets-and-cards set-cards raw-cards)
+        _card->formats (generate-formats sets cards formats mwls)
+        _mwls (get-json-mwl (group-by :card-id cards) mwls)
+        pretty {:pretty {:indentation 4
+                         :indent-arrays? true
+                         :object-field-value-separator ": "}}
+        ]
+    (io/make-parents "json/pack/temp")
+
+    ;; mwl.json
+    ; (->> (generate-mwl mwls)
+    ;      (sort-by :date_start)
+    ;      (map #(into (sorted-map) %))
+    ;      (#(json/generate-string % pretty))
+    ;      (#(str % "\n"))
+    ;      (spit (io/file "json" "mwl.json")))
+
+    ;; cycles.json
+    (->> (generate-cycles cycles)
+         (sort-by :position)
+         (map #(into (sorted-map) %))
+         (#(json/generate-string % pretty))
+         (#(str % "\n"))
+         (spit (io/file "json" "cycles.json")))
+
+    ;; packs.json
+    (->> (generate-packs sets)
+         (sort-by :code)
+         (map #(into (sorted-map) %))
+         (#(json/generate-string % pretty))
+         (#(str % "\n"))
+         (spit (io/file "json" "packs.json")))
+
+    ;; pack/*.json
+    (let [packs (generate-pack-files subtypes sets cards)]
       (doseq [s (vals sets)
               :let [set-name (:name s)
                     pack (get packs set-name)]]

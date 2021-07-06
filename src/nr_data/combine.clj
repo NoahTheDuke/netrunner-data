@@ -1,13 +1,11 @@
 (ns nr-data.combine
   (:require
-    [clojure.string :as str]
-    [clojure.java.io :as io]
-    [clojure.edn :as edn]
-    [clojure.set :refer [rename-keys union]]
-    [org.httpkit.client :as http]
-    [cheshire.core :as json]
-    [cond-plus.core :refer [cond+]]
-    [nr-data.utils :refer [cards->map vals->vec prune-null-fields]]))
+   [clojure.edn :as edn]
+   [clojure.java.io :as io]
+   [clojure.set :refer [rename-keys union]]
+   [clojure.string :as str]
+   [cond-plus.core :refer [cond+]]
+   [nr-data.utils :refer [cards->map prune-null-fields vals->vec]]))
 
 (defn read-edn-file
   [file-path]

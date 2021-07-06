@@ -1,17 +1,17 @@
 (ns nr-data.csv
   (:require
-    [clojure.string :as str]
-    [clojure.edn :as edn]
-    [clojure.java.io :as io]
-    [clojure.set :as set]
-    [cond-plus.core :refer [cond+]]
-    [medley.core :refer [find-first]]
-    [semantic-csv.core :as sc]
-    [zprint.core :as zp]
-    [nr-data.combine :refer [load-data load-edn-from-dir]]
-    [nr-data.download :refer [convert-subtypes]]
-    [nr-data.scratch :refer [clean-card-text]]
-    [nr-data.utils :refer [cards->map slugify prune-null-fields]]))
+   [clojure.edn :as edn]
+   [clojure.java.io :as io]
+   [clojure.set :as set]
+   [clojure.string :as str]
+   [cond-plus.core :refer [cond+]]
+   [medley.core :refer [find-first]]
+   [nr-data.combine :refer [load-data]]
+   [nr-data.download :refer [convert-subtypes]]
+   [nr-data.scratch :refer [clean-card-text]]
+   [nr-data.utils :refer [prune-null-fields slugify]]
+   [semantic-csv.core :as sc]
+   [zprint.core :as zp]))
 
 (defn key-slug
   [v]
@@ -123,13 +123,13 @@
 (defn process-adv-req
   [s]
   (try (sc/->int s)
-       (catch Exception e
+       (catch Exception _
          0)))
 
 (defn process-inf-limit
   [s]
   (try (sc/->int s)
-       (catch Exception e
+       (catch Exception _
          0)))
 
 (defn make-types-fn

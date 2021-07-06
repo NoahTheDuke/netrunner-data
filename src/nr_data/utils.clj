@@ -1,6 +1,6 @@
 (ns nr-data.utils
   (:require
-    [clojure.string :as str]))
+   [clojure.string :as str]))
 
 (defmacro vals->vec
   ([coll]

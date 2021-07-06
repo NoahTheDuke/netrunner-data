@@ -1,13 +1,12 @@
 (ns nr-data.download
   (:require
-    [clojure.string :as str]
-    [clojure.java.io :as io]
-    [clojure.set :refer [rename-keys]]
-    [org.httpkit.client :as http]
-    [cheshire.core :as json]
-    [zprint.core :as zp]
-    [nr-data.scratch :refer [clean-card-text]]
-    [nr-data.utils :refer [slugify cards->map]]))
+   [cheshire.core :as json]
+   [clojure.java.io :as io]
+   [clojure.string :as str]
+   [nr-data.scratch :refer [clean-card-text]]
+   [nr-data.utils :refer [cards->map slugify]]
+   [org.httpkit.client :as http]
+   [zprint.core :as zp]))
 
 (defn parse-response
   [body]
@@ -16,7 +15,7 @@
 (defn download-nrdb-data
   [path]
   (let [data (http/get (str "http://www.netrunnerdb.com/api/2.0/public/" path))
-        {:keys [status body error] :as resp} @data]
+        {:keys [status body error]} @data]
     (cond
       error (throw (Exception. (str "Failed to download file " error)))
       (= 200 status) (:data (parse-response body))
@@ -171,7 +170,7 @@
    })
 
 (defn add-set-card-fields
-  [cards set-map c]
+  [_ set-map c]
   (let [s (get set-map (:pack-code c))]
     (-> c
         (dissoc :pack-code :text)
@@ -251,7 +250,7 @@
 (defn card-handler
   [line-ending download-fn sets]
   (let [raw-cards (download-fn (-> tables :card :path))
-        card-stub (fn [path] raw-cards)
+        card-stub (fn [_] raw-cards)
         cards (->> (fetch-data card-stub (:card tables) add-card-fields)
                    (clean-card-text)
                    (cards->map :id))
@@ -290,7 +289,6 @@
 
 (defn download-from-nrdb
   [& args]
-  (println "args" args)
   (let [line-ending "\n"
         use-local (some #{"--local"} args)
         localpath (first (remove #(and % (str/starts-with? % "--")) args))
@@ -298,7 +296,7 @@
                       (partial read-local-data localpath)
                       download-nrdb-data)
 
-        cycles (cycle-handler line-ending download-fn)
+        ; cycles (cycle-handler line-ending download-fn)
 
         sets (set-handler line-ending download-fn)
 
@@ -311,9 +309,9 @@
                            (partial read-card-dir localpath)
                            download-nrdb-data)
 
-        [cards raw-set-cards] (card-handler line-ending card-download-fn sets)
+        [_cards raw-set-cards] (card-handler line-ending card-download-fn sets)
 
-        set-cards (set-cards-handler line-ending raw-set-cards)
+        _set-cards (set-cards-handler line-ending raw-set-cards)
 
         ; mwls (mwl-handler line-ending download-fn raw-set-cards)
         ]
