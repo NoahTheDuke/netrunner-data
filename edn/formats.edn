@@ -46,7 +46,7 @@
            "red-sand"
            "kitara"
            "ashes"]
-  :mwl "eternal-mwl-1-2"}
+  :mwl "eternal-points-1-0"}
  {:id "snapshot"
   :name "Snapshot"
   :sets ["creation-and-control"

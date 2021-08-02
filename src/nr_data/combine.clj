@@ -113,15 +113,20 @@
                          (cond
                            ;; gotta check mwl first
                            (get-in mwls [mwl :cards id])
-                           (if (= :deck-limit (first (keys (get-in mwls [mwl :cards id]))))
-                             :banned
-                             :restricted)
+                           (let [restrictions (get-in mwls [mwl :cards id])]
+                             (merge
+                               (when (:deck-limit restrictions)
+                                 {:banned true})
+                               (when (:is-restricted restrictions)
+                                 {:legal true :restricted true})
+                               (when (:points restrictions)
+                                 {:legal true :points (:points restrictions)})))
                            ;; then we can check if the card is on the list
                            (contains? cs id)
-                           :legal
+                           {:legal true}
                            ;; neither mwl nor in the format
                            :else
-                           :rotated)}))}))))
+                           {:rotated true})}))}))))
 
 (defn link-previous-versions
   [[title cards]]
