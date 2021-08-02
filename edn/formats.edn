@@ -12,7 +12,7 @@
            "red-sand"
            "kitara"
            "ashes"]
-  :mwl "standard-ban-list-20-09"}
+  :mwl "standard-ban-list-21-06"}
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]
