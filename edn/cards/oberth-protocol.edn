@@ -4,9 +4,9 @@
  :id "oberth-protocol"
  :influence-cost 4
  :side :corp
- :stripped-text "As an additional cost to rez Oberth Protocol, forfeit an agenda. The first time you advance a card in or protecting this server each turn, place an additional advancement token on it."
+ :stripped-text "As an additional cost to rez this upgrade, forfeit 1 agenda. The first time each turn you advance a card in the root of or protecting this server, place 1 more advancement counter on that card."
  :stripped-title "Oberth Protocol"
- :text "As an additional cost to rez Oberth Protocol, forfeit an agenda.\nThe first time you advance a card in or protecting this server each turn, place an additional advancement token on it."
+ :text "As an additional cost to rez this upgrade, forfeit 1 agenda.\nThe first time each turn you advance a card in the root of or protecting this server, place 1 more advancement counter on that card."
  :title "Oberth Protocol"
  :trash-cost 2
  :type :upgrade

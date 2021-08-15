@@ -4,10 +4,10 @@
  :id "ben-musashi"
  :influence-cost 2
  :side :corp
- :stripped-text "Each time the Runner accesses an agenda from this server, he or she must suffer 2 net damage as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Ben Musashi."
+ :stripped-text "Persistent -> As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
  :stripped-title "Ben Musashi"
  :subtype [:clone]
- :text "Each time the Runner accesses an agenda from this server, he or she must suffer 2 net damage as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Ben Musashi."
+ :text "Persistent -> As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>"
  :title "Ben Musashi"
  :trash-cost 3
  :type :upgrade

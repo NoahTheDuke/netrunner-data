@@ -2,7 +2,8 @@
   (:require
    [clojure.string :as str]
    [nr-data.combine :refer [generate-formats load-cards load-data load-edn-from-dir load-sets merge-sets-and-cards]]
-   [nr-data.utils :refer [cards->map normalize-text]]
+   [nr-data.utils :refer [cards->map normalize-text slugify]]
+   [semantic-csv.core :as sc]
    [ubergraph.core :as uber]
    [zprint.core :as zp]))
 
@@ -117,4 +118,47 @@
   (println (keys (into {} c)))
   ; (save-cards c)
   ; (convert-to-json)
+  )
+
+(defn convert-tags [text]
+  (-> text
+      (str/replace "{b}" "<strong>")
+      (str/replace "{/b}" "</strong>")
+      (str/replace "{c}" "[click]")
+      (str/replace "{click}" "[click]")
+      (str/replace "{i}" "<em>")
+      (str/replace "{/i}" "</em>")
+      (str/replace "{recurring-credit}" "[recurring-credit]")
+      (str/replace "{trash}" "[trash]")
+      (str/replace "{interrupt}" "[interrupt]")
+      (str/replace "{sub}" "[subroutine]")
+      (str/replace "{mu}" "[mu]")
+      (str/replace "\\n" "\n")
+      (str/replace "→" "->")))
+
+(defn load-oracle-csv
+  []
+  (->> (sc/slurp-csv "oracle.csv")
+       (map #(update % :name slugify))
+       (map #(update % :text convert-tags))
+       (map (juxt :name :text))
+       (into {})))
+
+(defn save-oracle-cards [oracle-cards raw-cards]
+  (doseq [[id text] oracle-cards
+          :let [card (-> (get raw-cards id)
+                         (assoc :text text)
+                         (add-stripped-text))]]
+    (if (:id card)
+      (spit (str "edn/cards/" (:id card) ".edn")
+            (str (zp/zprint-str card) "\n"))
+      (prn card))))
+
+(def cs (raw-cards))
+(def oracle-cards (load-oracle-csv))
+
+(comment
+  (load-oracle-csv)
+  (raw-cards)
+  (save-oracle-cards oracle-cards cs)
   )

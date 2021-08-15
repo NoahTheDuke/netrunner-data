@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 1
- :stripped-text "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter this run do not resolve. 2 credits: Break code gate subroutine. 1 credit: +1 strength."
+ :stripped-text "Whenever this program fully breaks a piece of ice, the first 3 subroutines of the next encounter this run do not resolve. Interface -> 2click: Break 1 code gate subroutine. 1click: +1 strength."
  :stripped-title "Mass-Driver"
  :subtype [:icebreaker :decoder]
- :text "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter this run do not resolve.\n2[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength."
+ :text "Whenever this program fully breaks a piece of ice, the first 3 subroutines of the next encounter this run do not resolve.\nInterface -> <strong>2[click]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[click]:</strong> +1 strength."
  :title "Mass-Driver"
  :type :program
  :uniqueness false}

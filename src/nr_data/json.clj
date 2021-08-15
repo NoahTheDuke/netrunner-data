@@ -129,22 +129,22 @@
                (group-by :setname)))
 
 (defn generate-cycles [cycles]
-  (for [cy (keys cycles)]
-           {:code (get-json-code cy)
-            :name (get-json-name cy)
-            :position (:position cy)
-            :rotated (:rotated cy)
-            :size (:size cy)}))
+  (for [[n cy] cycles]
+    {:code (get-json-code cy)
+     :name (get-json-name cy)
+     :position (:position cy)
+     :rotated (:rotated cy)
+     :size (:size cy)}))
 
 (defn generate-packs [sets]
-  (for [s (keys sets)]
-           {:code (:code s)
-            :cycle_code (get-json-code {:code (:cycle_code s)})
-            :date_release (:date-release s)
-            :ffg_id (:ffg-id s)
-            :name (:name s)
-            :position (:position s)
-            :size (:size s)}))
+  (for [[n s] sets]
+    {:code (:code s)
+     :cycle_code (get-json-code {:code (:cycle_code s)})
+     :date_release (:date-release s)
+     :ffg_id (:ffg-id s)
+     :name (:name s)
+     :position (:position s)
+     :size (:size s)}))
 
 (defn generate-mwl [mwls]
   (for [mwl mwls]

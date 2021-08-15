@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 2
- :stripped-text "1 credit: Break ice subroutine on a piece of ice with 3 or more subtypes. 1 credit: +1 strength. 2 credits: Swap Sadyojata with a deva program from your grip."
+ :stripped-text "Interface -> 1click: Break 1 subroutine on a piece of ice with 3 or more subtypes. 1click: +1 strength. 2click: Swap this program with a deva program from your grip."
  :stripped-title "Sadyojata"
  :subtype [:icebreaker :ai :deva]
- :text "1[credit]: Break ice subroutine on a piece of ice with 3 or more subtypes.\n1[credit]: +1 strength.\n2[credit]: Swap Sadyojata with a <strong>deva</strong> program from your grip."
+ :text "Interface -> <strong>1[click]:</strong> Break 1 subroutine on a piece of ice with 3 or more subtypes.\n<strong>1[click]:</strong> +1 strength.\n<strong>2[click]:</strong> Swap this program with a <strong>deva</strong> program from your grip."
  :title "Sadyojata"
  :type :program
  :uniqueness true}

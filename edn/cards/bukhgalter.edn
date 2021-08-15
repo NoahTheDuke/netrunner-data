@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "1 credit: Break sentry subroutine. 1 credit: +1 strength. The first time each turn that you break all subroutines on a piece of ice you are encountering using only this program, gain 2 credits."
+ :stripped-text "Interface -> 1click: Break 1 sentry subroutine. 1click: +1 strength. The first time each turn this program fully breaks a piece of ice, gain 2click."
  :stripped-title "Bukhgalter"
  :subtype [:icebreaker :killer]
- :text "1[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nThe first time each turn that you break all subroutines on a piece of ice you are encountering using only this program, gain 2[credit]."
+ :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[click]:</strong> +1 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 2[click]."
  :title "Bukhgalter"
  :type :program
  :uniqueness false}

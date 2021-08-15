@@ -4,10 +4,10 @@
  :id "adjusted-matrix"
  :influence-cost 2
  :side :runner
- :stripped-text "Install Adjusted Matrix on an icebreaker. Host icebreaker gains AI and \"You may spend click to break any subroutine on a piece of ice currently being encountered.\" Errata from FAQ 4.1"
+ :stripped-text "Install only on an icebreaker. Host icebreaker gains AI and \"Interface -> Lose click: Break 1 subroutine.\""
  :stripped-title "Adjusted Matrix"
  :subtype [:mod]
- :text "Install Adjusted Matrix on an <strong>icebreaker</strong>. Host <strong>icebreaker</strong> gains <strong>AI</strong> and \"You may spend [click] to break any subroutine on a piece of ice currently being encountered.\"\n<errata>Errata from FAQ 4.1</errata>"
+ :text "Install only on an <strong>icebreaker</strong>.\nHost <strong>icebreaker</strong> gains <strong>AI</strong> and \"Interface -> <strong>Lose [click]:</strong> Break 1 subroutine.\""
  :title "Adjusted Matrix"
  :type :hardware
  :uniqueness false}

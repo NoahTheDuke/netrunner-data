@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 2
- :stripped-text "When you encounter a piece of ice, you may pay 2 credits to have it gain barrier until the end of the encounter. Use this ability only once per turn. 2 credits: Break any number of barrier subroutines. 3 credits: +6 strength."
+ :stripped-text "Whenever you encounter a piece of ice, you may pay 2click. If you do, it gains barrier for the remainder of that encounter. Use this ability only once per turn. Interface -> 2click: Break any number of barrier subroutines. 3click: +6 strength."
  :stripped-title "Laamb"
  :subtype [:icebreaker :fracter]
- :text "When you encounter a piece of ice, you may pay 2[credit] to have it gain <strong>barrier</strong> until the end of the encounter. Use this ability only once per turn.\n2[credit]: Break any number of <strong>barrier</strong> subroutines.\n3[credit]: +6 strength."
+ :text "Whenever you encounter a piece of ice, you may pay 2[click]. If you do, it gains <strong>barrier</strong> for the remainder of that encounter. Use this ability only once per turn.\nInterface -> <strong>2[click]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>3[click]:</strong> +6 strength."
  :title "Laamb"
  :type :program
  :uniqueness false}

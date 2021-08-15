@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 5
- :stripped-text "As an additional cost to rez Enforcer 1.0, the Corp must forfeit an agenda. The Runner can spend click to break any subroutine on Enforcer 1.0. Subroutine Trash 1 program. Subroutine Do 1 brain damage. Subroutine Trash 1 console. Subroutine Trash all virtual resources."
+ :stripped-text "As an additional cost to rez this ice, forfeit 1 agenda. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Do 1 brain damage. Subroutine Trash 1 installed console. Subroutine Trash all installed virtual resources."
  :stripped-title "Enforcer 1.0"
  :subtype [:sentry :bioroid :destroyer :ap]
- :text "As an additional cost to rez Enforcer 1.0, the Corp must forfeit an agenda.\nThe Runner can spend [click] to break any subroutine on Enforcer 1.0.\n[subroutine] Trash 1 program.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 <strong>console</strong>.\n[subroutine] Trash all <strong>virtual</strong> resources."
+ :text "As an additional cost to rez this ice, forfeit 1 agenda.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 installed <strong>console</strong>.\n[subroutine] Trash all installed <strong>virtual</strong> resources."
  :title "Enforcer 1.0"
  :type :ice
  :uniqueness false}

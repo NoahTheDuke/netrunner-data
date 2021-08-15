@@ -4,10 +4,10 @@
  :id "exploratory-romp"
  :influence-cost 2
  :side :runner
- :stripped-text "Make a run. If successful, instead of accessing cards, remove up to 3 advancement tokens from a single card in or protecting the attacked server."
+ :stripped-text "Run any server. If successful, instead of breaching that server, remove up to 3 advancement counters from 1 card in the root of or protecting the attacked server."
  :stripped-title "Exploratory Romp"
  :subtype [:run]
- :text "Make a run. If successful, instead of accessing cards, remove up to 3 advancement tokens from a single card in or protecting the attacked server."
+ :text "Run any server. If successful, instead of breaching that server, remove up to 3 advancement counters from 1 card in the root of or protecting the attacked server."
  :title "Exploratory Romp"
  :type :event
  :uniqueness false}

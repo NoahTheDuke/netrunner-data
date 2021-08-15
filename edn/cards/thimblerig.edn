@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 0
- :stripped-text "When your turn begins or whenever the Runner passes Thimblerig, you may swap Thimblerig with another installed piece of ice. Subroutine End the run."
+ :stripped-text "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice. Subroutine End the run."
  :stripped-title "Thimblerig"
  :subtype [:code-gate]
- :text "When your turn begins or whenever the Runner passes Thimblerig, you may swap Thimblerig with another installed piece of ice.\n[subroutine] End the run."
+ :text "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice.\n[subroutine] End the run."
  :title "Thimblerig"
  :type :ice
  :uniqueness false}

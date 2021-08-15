@@ -4,10 +4,10 @@
  :id "simone-diego"
  :influence-cost 2
  :side :corp
- :stripped-text "2 recurring credits Use these credits to advance cards in or protecting this server."
+ :stripped-text "2 recurring credits You can spend hosted credits to take the basic action to advance cards in the root of or protecting this server."
  :stripped-title "Simone Diego"
  :subtype [:sysop]
- :text "2[recurring-credit]\nUse these credits to advance cards in or protecting this server."
+ :text "2[recurring-credit]\nYou can spend hosted credits to take the basic action to advance cards in the root of or protecting this server."
  :title "Simone Diego"
  :trash-cost 3
  :type :upgrade

@@ -4,9 +4,9 @@
  :id "top-hat"
  :influence-cost 1
  :side :runner
- :stripped-text "Whenever you make a successful run on R&D, instead of accessing cards, you may choose 1 of the top 5 cards of R&D and access it. You cannot access any other cards in R&D during this run."
+ :stripped-text "Whenever you make a successful run on R&D, instead of breaching R&D, you may choose 1 of the top 5 cards in R&D and access it."
  :stripped-title "Top Hat"
- :text "Whenever you make a successful run on R&D, instead of accessing cards, you may choose 1 of the top 5 cards of R&D and access it. You cannot access any other cards in R&D during this run."
+ :text "Whenever you make a successful run on R&D, instead of breaching R&D, you may choose 1 of the top 5 cards in R&D and access it."
  :title "Top Hat"
  :type :hardware
  :uniqueness false}

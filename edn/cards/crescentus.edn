@@ -5,9 +5,9 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
- :stripped-text "trash: Derez a piece of ice. Use this ability only after breaking all the subroutines of that ice during a single encounter."
+ :stripped-text "trash: Derez 1 piece of ice you fully broke during this encounter."
  :stripped-title "Crescentus"
- :text "[trash]: Derez a piece of ice. Use this ability only after breaking all the subroutines of that ice during a single encounter."
+ :text "<strong>[trash]:</strong> Derez 1 piece of ice you fully broke during this encounter."
  :title "Crescentus"
  :type :program
  :uniqueness false}

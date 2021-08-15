@@ -4,10 +4,10 @@
  :id "calibration-testing"
  :influence-cost 3
  :side :corp
- :stripped-text "Install only in a remote server. trash: Place 1 advancement token on a card in this server."
+ :stripped-text "Remote server only. trash: Place 1 advancement counter on a card installed in the root of this server."
  :stripped-title "Calibration Testing"
  :subtype [:off-site]
- :text "Install only in a remote server.\n[trash]: Place 1 advancement token on a card in this server."
+ :text "Remote server only.\n<strong>[trash]:</strong> Place 1 advancement counter on a card installed in the root of this server."
  :title "Calibration Testing"
  :trash-cost 2
  :type :upgrade

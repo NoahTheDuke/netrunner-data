@@ -4,10 +4,10 @@
  :id "ultraviolet-clearance"
  :influence-cost 4
  :side :corp
- :stripped-text "As an additional cost to play this operation, spend click click. Gain 10 credits and draw 4 cards. You may install 1 card. Errata from CR 1.2"
+ :stripped-text "As an additional cost to play this operation, spend click click. Gain 10click and draw 4 cards. You may install 1 card from HQ."
  :stripped-title "Ultraviolet Clearance"
  :subtype [:transaction :triple]
- :text "As an additional cost to play this operation, spend [click][click].\nGain 10[credit] and draw 4 cards. You may install 1 card.\n<errata>Errata from CR 1.2</errata>"
+ :text "As an additional cost to play this operation, spend [click][click].\nGain 10[click] and draw 4 cards. You may install 1 card from HQ."
  :title "Ultraviolet Clearance"
  :type :operation
  :uniqueness false}

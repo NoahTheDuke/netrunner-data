@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 3
- :stripped-text "The Runner can spend click to break any subroutine on Viktor 1.0. Subroutine Do 1 brain damage. Subroutine End the run."
+ :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run."
  :stripped-title "Viktor 1.0"
  :subtype [:code-gate :bioroid :ap]
- :text "The Runner can spend [click] to break any subroutine on Viktor 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run."
+ :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run."
  :title "Viktor 1.0"
  :type :ice
  :uniqueness false}

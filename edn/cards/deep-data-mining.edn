@@ -4,10 +4,10 @@
  :id "deep-data-mining"
  :influence-cost 4
  :side :runner
- :stripped-text "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4."
+ :stripped-text "Run R&D. If successful, access X additional cards when you breach R&D. X is equal to your unused MU or 4, whichever is less."
  :stripped-title "Deep Data Mining"
  :subtype [:run]
- :text "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4."
+ :text "Run R&D. If successful, access X additional cards when you breach R&D. X is equal to your unused MU or 4, whichever is less."
  :title "Deep Data Mining"
  :type :event
  :uniqueness false}

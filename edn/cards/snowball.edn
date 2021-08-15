@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "1 credit: Break barrier subroutine. 1 credit: +1 strength. Whenever you use Snowball to break a subroutine, it has +1 strength for the remainder of the run."
+ :stripped-text "Interface -> 1click: Break 1 barrier subroutine. 1click: +1 strength. Whenever you use this program to break a subroutine, this program gets +1 strength for the remainder of this run."
  :stripped-title "Snowball"
  :subtype [:icebreaker :fracter]
- :text "1[credit]: Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.\nWhenever you use Snowball to break a subroutine, it has +1 strength for the remainder of the run."
+ :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[click]:</strong> +1 strength.\nWhenever you use this program to break a subroutine, this program gets +1 strength for the remainder of this run."
  :title "Snowball"
  :type :program
  :uniqueness false}

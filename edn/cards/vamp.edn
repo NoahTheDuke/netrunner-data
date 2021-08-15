@@ -4,10 +4,10 @@
  :id "vamp"
  :influence-cost 2
  :side :runner
- :stripped-text "Make a run on HQ. If successful, instead of accessing cards you may pay X credits to force the Corp to lose up to X credits, then take 1 tag."
+ :stripped-text "Run HQ. If successful, instead of breaching HQ, you may spend Xclick. If you do, the Corp loses Xclick. If you spent credits, take 1 tag."
  :stripped-title "Vamp"
  :subtype [:run :sabotage]
- :text "Make a run on HQ. If successful, instead of accessing cards you may pay X[credit] to force the Corp to lose up to X[credit], then take 1 tag."
+ :text "Run HQ. If successful, instead of breaching HQ, you may spend X[click]. If you do, the Corp loses X[click]. If you spent credits, take 1 tag."
  :title "Vamp"
  :type :event
  :uniqueness false}

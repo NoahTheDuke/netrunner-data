@@ -4,10 +4,10 @@
  :id "back-channels"
  :influence-cost 1
  :side :corp
- :stripped-text "Choose a card installed in a server. Gain 3 credits for each advancement token on that card, then trash it. Errata from CR 1.4"
+ :stripped-text "Choose 1 card in the root of a remote server. Gain 3click for each advancement counter on that card, then trash it."
  :stripped-title "Back Channels"
  :subtype [:transaction]
- :text "Choose a card installed in a server. Gain 3[credit] for each advancement token on that card, then trash it.\n<errata>Errata from CR 1.4</errata>"
+ :text "Choose 1 card in the root of a remote server. Gain 3[click] for each advancement counter on that card, then trash it."
  :title "Back Channels"
  :type :operation
  :uniqueness false}

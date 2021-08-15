@@ -4,10 +4,10 @@
  :id "demolition-run"
  :influence-cost 2
  :side :runner
- :stripped-text "Run HQ or R&D. During that run, you may pay 0 credits to trash any card you are accessing (even if it has no trash cost). Errata from CR 1.2"
+ :stripped-text "Run HQ or R&D. Access -> 0click: Trash the card you are accessing."
  :stripped-title "Demolition Run"
  :subtype [:run :sabotage]
- :text "Run HQ or R&D. During that run, you may pay 0[credit] to trash any card you are accessing (even if it has no trash cost).\n<errata>Errata from CR 1.2</errata>"
+ :text "Run HQ or R&D.\nAccess -> <strong>0[click]:</strong> Trash the card you are accessing."
  :title "Demolition Run"
  :type :event
  :uniqueness false}

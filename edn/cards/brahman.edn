@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 3
- :stripped-text "1 credit: Break up to 2 ice subroutines. 2 credits: +1 strength. Whenever an encounter with a piece of ice in which you used Brahman to break a subroutine ends, add 1 installed non-virus program to the top of your stack."
+ :stripped-text "Interface -> 1click: Break up to 2 subroutines. 2click: +1 strength. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, add 1 installed non-virus program to the top of your stack."
  :stripped-title "Brahman"
  :subtype [:icebreaker :ai]
- :text "1[credit]: Break up to 2 ice subroutines.\n2[credit]: +1 strength.\nWhenever an encounter with a piece of ice in which you used Brahman to break a subroutine ends, add 1 installed non-<strong>virus</strong> program to the top of your stack."
+ :text "Interface -> <strong>1[click]:</strong> Break up to 2 subroutines.\n<strong>2[click]:</strong> +1 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, add 1 installed non-<strong>virus</strong> program to the top of your stack."
  :title "Brahman"
  :type :program
  :uniqueness false}

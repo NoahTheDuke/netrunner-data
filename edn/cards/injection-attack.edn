@@ -4,10 +4,10 @@
  :id "injection-attack"
  :influence-cost 0
  :side :runner
- :stripped-text "Choose an icebreaker and run any server. During this run, the chosen icebreaker has +2 strength. Errata from CR 1.4"
+ :stripped-text "Choose 1 installed icebreaker and run any server. During that run, the chosen icebreaker gets +2 strength."
  :stripped-title "Injection Attack"
  :subtype [:run]
- :text "Choose an <strong>icebreaker</strong> and run any server. During this run, the chosen <strong>icebreaker</strong> has +2 strength.\n<errata>Errata from CR 1.4</errata>"
+ :text "Choose 1 installed <strong>icebreaker</strong> and run any server. During that run, the chosen <strong>icebreaker</strong> gets +2 strength."
  :title "Injection Attack"
  :type :event
  :uniqueness false}

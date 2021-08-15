@@ -4,10 +4,10 @@
  :id "divide-and-conquer"
  :influence-cost 4
  :side :runner
- :stripped-text "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card of R&D."
+ :stripped-text "Run Archives. If successful, after breaching Archives, breach HQ, then breach R&D. You cannot access cards in the root of HQ or R&D during these breaches."
  :stripped-title "Divide and Conquer"
  :subtype [:run]
- :text "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card of R&D."
+ :text "Run Archives. If successful, after breaching Archives, breach HQ, then breach R&D. You cannot access cards in the root of HQ or R&D during these breaches."
  :title "Divide and Conquer"
  :type :event
  :uniqueness false}

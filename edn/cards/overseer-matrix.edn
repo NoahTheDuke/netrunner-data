@@ -4,9 +4,9 @@
  :id "overseer-matrix"
  :influence-cost 4
  :side :corp
- :stripped-text "Whenever the Runner trashes a card in this server, you may pay 1 credit to give the Runner 1 tag. This applies even during the run on which the Runner trashes Overseer Matrix."
+ :stripped-text "Persistent -> Whenever the Runner trashes a card from this server, you may pay 1click to give the Runner 1 tag. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
  :stripped-title "Overseer Matrix"
- :text "Whenever the Runner trashes a card in this server, you may pay 1[credit] to give the Runner 1 tag. This applies even during the run on which the Runner trashes Overseer Matrix."
+ :text "Persistent -> Whenever the Runner trashes a card from this server, you may pay 1[click] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>"
  :title "Overseer Matrix"
  :trash-cost 2
  :type :upgrade

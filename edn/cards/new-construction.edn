@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "new-construction"
  :side :corp
- :stripped-text "Install New Construction faceup. Whenever you advance New Construction, you may install a card from HQ in a new server (and rez that card ignoring all costs if there are 5 or more advancement tokens on New Construction)."
+ :stripped-text "Install only faceup. (This agenda is neither rezzed nor unrezzed.) Whenever you advance this agenda, you may install 1 card from HQ in the root of a new server. If there are 5 or more hosted advancement counters, rez that card, ignoring all costs."
  :stripped-title "New Construction"
  :subtype [:public]
- :text "Install New Construction faceup.\nWhenever you advance New Construction, you may install a card from HQ in a new server (and rez that card ignoring all costs if there are 5 or more advancement tokens on New Construction). "
+ :text "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>\nWhenever you advance this agenda, you may install 1 card from HQ in the root of a new server. If there are 5 or more hosted advancement counters, rez that card, ignoring all costs."
  :title "New Construction"
  :type :agenda
  :uniqueness false}

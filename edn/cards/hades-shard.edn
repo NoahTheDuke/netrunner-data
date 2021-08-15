@@ -4,10 +4,10 @@
  :id "hades-shard"
  :influence-cost 1
  :side :runner
- :stripped-text "Whenever you make a successful run on Archives, instead of accessing cards, you may install Hades Shard from your grip, ignoring all costs. trash: Access all cards in Archives. Limit 1 per deck."
+ :stripped-text "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this program from your grip, ignoring all costs. trash: Breach Archives. You cannot access cards in the root of Archives during this breach. Limit 1 per deck."
  :stripped-title "Hades Shard"
  :subtype [:virtual :source]
- :text "Whenever you make a successful run on Archives, instead of accessing cards, you may install Hades Shard from your grip, ignoring all costs.\n[trash]: Access all cards in Archives.\nLimit 1 per deck."
+ :text "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this program from your grip, ignoring all costs.\n<strong>[trash]:</strong> Breach Archives. You cannot access cards in the root of Archives during this breach.\nLimit 1 per deck."
  :title "Hades Shard"
  :type :resource
  :uniqueness true}

@@ -4,10 +4,10 @@
  :faction :haas-bioroid
  :id "director-haas-pet-project"
  :side :corp
- :stripped-text "When you score Director Haas' Pet Project, you may create a new remote server by installing up to 3 cards from HQ and/or Archives in that server and/or protecting that server (one at a time), ignoring all install costs. Limit 1 Director Haas' Pet Project per deck."
+ :stripped-text "When you score this agenda, you may create a new remote server by installing up to 3 cards from HQ and/or Archives in the root of and/or protecting that server, ignoring all install costs. Limit 1 per deck."
  :stripped-title "Director Haas' Pet Project"
  :subtype [:initiative]
- :text "When you score Director Haas' Pet Project, you may create a new remote server by installing up to 3 cards from HQ and/or Archives in that server and/or protecting that server (one at a time), ignoring all install costs.\nLimit 1 Director Haas' Pet Project per deck."
+ :text "When you score this agenda, you may create a new remote server by installing up to 3 cards from HQ and/or Archives in the root of and/or protecting that server, ignoring all install costs.\nLimit 1 per deck."
  :title "Director Haas' Pet Project"
  :type :agenda
  :uniqueness true}

@@ -4,10 +4,10 @@
  :id "psych-mike"
  :influence-cost 4
  :side :runner
- :stripped-text "The first time a successful run on R&D ends each turn, you may gain 1 credit for each card you accessed from R&D."
+ :stripped-text "The first time each turn a successful run on R&D ends, you may gain 1click for each time you accessed a card in R&D during that run."
  :stripped-title "Psych Mike"
  :subtype [:connection]
- :text "The first time a successful run on R&D ends each turn, you may gain 1[credit] for each card you accessed from R&D."
+ :text "The first time each turn a successful run on R&D ends, you may gain 1[click] for each time you accessed a card in R&D during that run."
  :title "Psych Mike"
  :type :resource
  :uniqueness true}

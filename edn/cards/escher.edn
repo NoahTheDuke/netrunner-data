@@ -4,10 +4,10 @@
  :id "escher"
  :influence-cost 5
  :side :runner
- :stripped-text "Make a run on HQ. If successful, instead of accessing cards, rearrange any number of ice protecting all servers (without rezzing or derezzing the ice). The same number of ice must be protecting each server after the rearrangement as before."
+ :stripped-text "Run HQ. If successful, instead of breaching HQ, rearrange any number of ice protecting all servers. (Do not rez or derez any ice or change the number of ice protecting any server.)"
  :stripped-title "Escher"
  :subtype [:run]
- :text "Make a run on HQ. If successful, instead of accessing cards, rearrange any number of ice protecting all servers (without rezzing or derezzing the ice). The same number of ice must be protecting each server after the rearrangement as before."
+ :text "Run HQ. If successful, instead of breaching HQ, rearrange any number of ice protecting all servers. <em>(Do not rez or derez any ice or change the number of ice protecting any server.)</em>"
  :title "Escher"
  :type :event
  :uniqueness false}

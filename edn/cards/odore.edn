@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 0
- :stripped-text "2 credits: Break any number of sentry subroutines. 0 credits: Break sentry subroutine. Use this ability only if you have 3 or more installed virtual resources. 3 credits: +3 strength."
+ :stripped-text "Interface -> 2click: Break any number of sentry subroutines. Interface -> 0click: Break 1 sentry subroutine. Use this ability only if you have 3 or more installed virtual resources. 3click: +3 strength."
  :stripped-title "Odore"
  :subtype [:icebreaker :killer]
- :text "2[credit]: Break any number of <strong>sentry</strong> subroutines.\n0[credit]: Break <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n3[credit]: +3 strength."
+ :text "Interface -> <strong>2[click]:</strong> Break any number of <strong>sentry</strong> subroutines.\nInterface -> <strong>0[click]:</strong> Break 1 <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>3[click]:</strong> +3 strength."
  :title "Odore"
  :type :program
  :uniqueness false}

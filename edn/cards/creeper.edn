@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 2
- :stripped-text "If you have at least 2 link, the memory cost of Creeper is 0, even if it is not installed. 2 credits: Break sentry subroutine. 1 credit: +1 strength."
+ :stripped-text "If you have at least 2{link}, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 2click: Break 1 sentry subroutine. 1click: +1 strength."
  :stripped-title "Creeper"
  :subtype [:icebreaker :killer :cloud]
- :text "If you have at least 2[link], the memory cost of Creeper is 0, even if it is not installed.\n2[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength."
+ :text "If you have at least 2{link}, the memory cost of this program is 0[mu], even if it is not installed.\nInterface -> <strong>2[click]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[click]:</strong> +1 strength."
  :title "Creeper"
  :type :program
  :uniqueness false}

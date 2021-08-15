@@ -5,9 +5,9 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text "click: Make a run on HQ. If successful, instead of accessing cards, you may reveal all cards in HQ."
+ :stripped-text "click: Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ."
  :stripped-title "Expert Schedule Analyzer"
- :text "[click]: Make a run on HQ. If successful, instead of accessing cards, you may reveal all cards in HQ."
+ :text "<strong>[click]:</strong> Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ."
  :title "Expert Schedule Analyzer"
  :type :program
  :uniqueness false}

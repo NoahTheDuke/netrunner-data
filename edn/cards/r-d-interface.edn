@@ -4,9 +4,9 @@
  :id "r-d-interface"
  :influence-cost 2
  :side :runner
- :stripped-text "Whenever you access cards from R&D, access 1 additional card from R&D."
+ :stripped-text "Whenever you breach R&D, access 1 additional card."
  :stripped-title "R&D Interface"
- :text "Whenever you access cards from R&D, access 1 additional card from R&D."
+ :text "Whenever you breach R&D, access 1 additional card."
  :title "R&D Interface"
  :type :hardware
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "emergent-creativity"
  :influence-cost 5
  :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Trash any number of programs and/or pieces of hardware from your grip. Search your stack for a program or piece of hardware and install it, lowering its install cost by the total install cost of the trashed cards. Shuffle your stack. Errata from FAQ 4.2"
+ :stripped-text "As an additional cost to play this event, spend click. Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying Xclick less. X is equal to the total install cost of the trashed cards."
  :stripped-title "Emergent Creativity"
  :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for a program or piece of hardware and install it, lowering its install cost by the total install cost of the trashed cards. Shuffle your stack.\n<errata>Errata from FAQ 4.2</errata>"
+ :text "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[click] less. X is equal to the total install cost of the trashed cards."
  :title "Emergent Creativity"
  :type :event
  :uniqueness false}

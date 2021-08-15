@@ -4,10 +4,10 @@
  :id "neutralize-all-threats"
  :influence-cost 3
  :side :runner
- :stripped-text "The first time each turn you access a card with a trash cost, reveal it. You must trash that card by paying its trash cost, if able. Whenever you access cards from HQ, access 1 additional card. Errata from CR 1.2"
+ :stripped-text "The first time each turn you access a card with a trash cost, reveal it. You must trash that card by paying its trash cost, if able. Whenever you breach HQ, access 1 additional card."
  :stripped-title "Neutralize All Threats"
  :subtype [:directive :virtual]
- :text "The first time each turn you access a card with a trash cost, reveal it. You must trash that card by paying its trash cost, if able.\nWhenever you access cards from HQ, access 1 additional card.\n<errata>Errata from CR 1.2</errata>"
+ :text "The first time each turn you access a card with a trash cost, reveal it. You must trash that card by paying its trash cost, if able.\nWhenever you breach HQ, access 1 additional card."
  :title "Neutralize All Threats"
  :type :resource
  :uniqueness true}

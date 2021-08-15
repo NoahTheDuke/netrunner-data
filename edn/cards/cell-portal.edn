@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 7
- :stripped-text "Subroutine The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal."
+ :stripped-text "Subroutine The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice."
  :stripped-title "Cell Portal"
  :subtype [:code-gate :deflector]
- :text "[subroutine] The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal."
+ :text "[subroutine] The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice."
  :title "Cell Portal"
  :type :ice
  :uniqueness false}

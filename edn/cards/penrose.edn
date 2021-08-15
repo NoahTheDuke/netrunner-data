@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 2
- :stripped-text "When you install this program, for the remainder of the turn it gains \"1 credit: Break barrier subroutine.\" 1 credit: Break code gate subroutine. 1 credit: +3 strength. Use this ability only by spending a credit from a stealth card."
+ :stripped-text "When you install this program, for the remainder of the turn it gains \"Interface -> 1click: Break 1 barrier subroutine.\" Interface -> 1click: Break 1 code gate subroutine. 1click: +3 strength. Use this ability only by spending a credit from a stealth card."
  :stripped-title "Penrose"
  :subtype [:icebreaker :decoder :fracter]
- :text "When you install this program, for the remainder of the turn it gains \"1[credit]: Break <strong>barrier</strong> subroutine.\"\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card."
+ :text "When you install this program, for the remainder of the turn it gains \"Interface -> <strong>1[click]:</strong> Break 1 <strong>barrier</strong> subroutine.\"\nInterface -> <strong>1[click]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[click]:</strong> +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card."
  :title "Penrose"
  :type :program
  :uniqueness false}

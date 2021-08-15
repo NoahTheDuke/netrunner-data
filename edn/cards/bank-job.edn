@@ -4,10 +4,10 @@
  :id "bank-job"
  :influence-cost 2
  :side :runner
- :stripped-text "Place 8 credits from the bank on Bank Job when it is installed. When there are no credits left on Bank Job, trash it. Whenever you make a successful run on a remote server, instead of accessing cards you may take any number of credits from Bank Job."
+ :stripped-text "When you install this resource, load 8click on it. When it is empty, trash it. Whenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource."
  :stripped-title "Bank Job"
  :subtype [:job]
- :text "Place 8[credit] from the bank on Bank Job when it is installed. When there are no credits left on Bank Job, trash it.\nWhenever you make a successful run on a remote server, instead of accessing cards you may take any number of credits from Bank Job."
+ :text "When you install this resource, load 8[click] on it. When it is empty, trash it.\nWhenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource."
  :title "Bank Job"
  :type :resource
  :uniqueness false}

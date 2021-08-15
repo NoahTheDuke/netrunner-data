@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "2 credits: Break up to 2 sentry subroutines. 2 credits: +4 strength. 2 credits, return Golden to your grip: Derez a sentry. Use this ability only after using Golden to break all the subroutines on that sentry during a single encounter."
+ :stripped-text "Interface -> 2click: Break up to 2 sentry subroutines. 2click: +4 strength. 2click, add this program to your grip: Derez 1 sentry this program fully broke during this encounter."
  :stripped-title "Golden"
  :subtype [:icebreaker :killer]
- :text "2[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n2[credit]: +4 strength.\n2[credit], <strong>return Golden to your grip</strong>: Derez a <strong>sentry</strong>. Use this ability only after using Golden to break all the subroutines on that <strong>sentry</strong> during a single encounter."
+ :text "Interface -> 2[click]: Break up to 2 <strong>sentry</strong> subroutines.\n<strong>2[click]:</strong> +4 strength.\n<strong>2[click]</strong>, <strong>add this program to your grip:</strong> Derez 1 <strong>sentry</strong> this program fully broke during this encounter."
  :title "Golden"
  :type :program
  :uniqueness false}

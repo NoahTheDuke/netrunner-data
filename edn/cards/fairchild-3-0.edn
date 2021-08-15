@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 5
- :stripped-text "The Runner can spend click click click to break up to 3 subroutines on Fairchild 3.0. Subroutine The Runner must pay 3 credits or trash 1 of his or her installed cards. Subroutine The Runner must pay 3 credits or trash 1 of his or her installed cards. Subroutine Do 1 brain damage or end the run."
+ :stripped-text "Lose click click click: Break up to 3 subroutines on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 3click or trash 1 of their installed cards. Subroutine The Runner must pay 3click or trash 1 of their installed cards. Subroutine Do 1 brain damage or end the run."
  :stripped-title "Fairchild 3.0"
  :subtype [:code-gate :bioroid :ap]
- :text "The Runner can spend [click][click][click] to break up to 3 subroutines on Fairchild 3.0.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage or end the run."
+ :text "<strong>Lose [click][click][click]:</strong> Break up to 3 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 3[click] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 3[click] or trash 1 of their installed cards.\n[subroutine] Do 1 brain damage or end the run."
  :title "Fairchild 3.0"
  :type :ice
  :uniqueness false}

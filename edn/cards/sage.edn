@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 0
- :stripped-text "Sage has +1 strength for each unused MU. 2 credits: Break code gate or barrier subroutine."
+ :stripped-text "This program gets +1 strength for each unused MU. Interface -> 2click: Break 1 code gate or 1 barrier subroutine."
  :stripped-title "Sage"
  :subtype [:icebreaker :decoder :fracter]
- :text "Sage has +1 strength for each unused MU.\n2[credit]: Break <strong>code gate</strong> or <strong>barrier</strong> subroutine."
+ :text "This program gets +1 strength for each unused MU.\nInterface -> <strong>2[click]:</strong> Break 1 <strong>code gate</strong> or 1 <strong>barrier</strong> subroutine."
  :title "Sage"
  :type :program
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
- :stripped-text "Whenever you encounter a piece of ice that was just rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice."
+ :stripped-text "Whenever you encounter a piece of ice after an approach during which that ice was rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice."
  :stripped-title "Nasir Meidan: Cyber Explorer"
  :subtype [:cyborg]
- :text "Whenever you encounter a piece of ice that was just rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice."
+ :text "Whenever you encounter a piece of ice after an approach during which that ice was rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice."
  :title "Nasir Meidan: Cyber Explorer"
  :type :identity
  :uniqueness false}

@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 2
- :stripped-text "0 credits: Break sentry subroutine. 1 credit: +1 strength. When an encounter with a piece of ice in which you used Faerie to break a subroutine ends, trash Faerie."
+ :stripped-text "Interface -> 0click: Break 1 sentry subroutine. 1click: +1 strength. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program."
  :stripped-title "Faerie"
  :subtype [:icebreaker :killer]
- :text "0[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhen an encounter with a piece of ice in which you used Faerie to break a subroutine ends, trash Faerie."
+ :text "Interface -> 0[click]: Break 1 <strong>sentry</strong> subroutine.\n1[click]: +1 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program."
  :title "Faerie"
  :type :program
  :uniqueness false}

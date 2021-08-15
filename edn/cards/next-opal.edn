@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 3
- :stripped-text "NEXT Opal gains \"Subroutine You may install 1 card from HQ, paying all costs.\" for each rezzed piece of NEXT ice. Errata from FAQ 4.1"
+ :stripped-text "This ice gains \"Subroutine You may install 1 card from HQ.\" for each rezzed piece of NEXT ice."
  :stripped-title "NEXT Opal"
  :subtype [:code-gate :observer :next]
- :text "NEXT Opal gains \"[subroutine] You may install 1 card from HQ, paying all costs.\" for each rezzed piece of <strong>NEXT</strong> ice.\n<errata>Errata from FAQ 4.1</errata>"
+ :text "This ice gains \"[subroutine] You may install 1 card from HQ.\" for each rezzed piece of <strong>NEXT</strong> ice."
  :title "NEXT Opal"
  :type :ice
  :uniqueness false}

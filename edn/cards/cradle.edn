@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 5
- :stripped-text "Cradle has -1 strength for each card in your grip. 2 credits: Break any number of code gate subroutines."
+ :stripped-text "This program gets -1 strength for each card in your grip. Interface -> 2click: Break any number of code gate subroutines."
  :stripped-title "Cradle"
  :subtype [:icebreaker :decoder]
- :text "Cradle has -1 strength for each card in your grip.\n2[credit]: Break any number of <strong>code gate</strong> subroutines."
+ :text "This program gets -1 strength for each card in your grip.\nInterface -> <strong>2[click]:</strong> Break any number of <strong>code gate</strong> subroutines."
  :title "Cradle"
  :type :program
  :uniqueness false}

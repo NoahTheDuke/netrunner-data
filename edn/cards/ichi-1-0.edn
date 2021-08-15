@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 4
- :stripped-text "The Runner can spend click to break any subroutine on Ichi 1.0. Subroutine Trash 1 program. Subroutine Trash 1 program. Subroutine Trace 1 If successful, give the Runner 1 tag and do 1 brain damage."
+ :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage."
  :stripped-title "Ichi 1.0"
  :subtype [:sentry :bioroid :tracer :destroyer]
- :text "The Runner can spend [click] to break any subroutine on Ichi 1.0.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag and do 1 brain damage."
+ :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage."
  :title "Ichi 1.0"
  :type :ice
  :uniqueness false}

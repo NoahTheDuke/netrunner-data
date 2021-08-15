@@ -5,10 +5,10 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text "Whenever you make a successful run on HQ, place 1 virus counter on Nerve Agent. Each virus counter after the first on Nerve Agent allows you to access 1 additional card from HQ whenever you access cards from HQ."
+ :stripped-text "Whenever you make a successful run on HQ, place 1 virus counter on this program. Whenever you breach HQ, choose a number less than the number of hosted virus counters. Access that many additional cards."
  :stripped-title "Nerve Agent"
  :subtype [:virus]
- :text "Whenever you make a successful run on HQ, place 1 virus counter on Nerve Agent.\nEach virus counter after the first on Nerve Agent allows you to access 1 additional card from HQ whenever you access cards from HQ."
+ :text "Whenever you make a successful run on HQ, place 1 virus counter on this program.\nWhenever you breach HQ, choose a number less than the number of hosted virus counters. Access that many additional cards."
  :title "Nerve Agent"
  :type :program
  :uniqueness false}

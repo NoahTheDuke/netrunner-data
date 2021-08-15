@@ -4,10 +4,10 @@
  :id "rip-deal"
  :influence-cost 1
  :side :runner
- :stripped-text "Run HQ. If successful, each time you would access a card from HQ this run, add a card from your heap to your grip instead of accessing that card. You cannot access cards in the root of HQ this run. Remove this event from the game instead of trashing it. Errata from CR 1.4"
+ :stripped-text "Run HQ. If successful, when you determine the number of cards in HQ you are allowed to access during this run's breach of HQ, you may add that many cards from your heap to your grip. If you do, you cannot access any cards in HQ during this breach. (You can still access cards in the root of HQ.) When the run ends, remove this event from the game."
  :stripped-title "Rip Deal"
  :subtype [:run]
- :text "Run HQ. If successful, each time you would access a card from HQ this run, add a card from your heap to your grip instead of accessing that card. You cannot access cards in the root of HQ this run. Remove this event from the game instead of trashing it.\n<errata>Errata from CR 1.4</errata>"
+ :text "Run HQ. If successful, when you determine the number of cards in HQ you are allowed to access during this run's breach of HQ, you may add that many cards from your heap to your grip. If you do, you cannot access any cards in HQ during this breach. <em>(You can still access cards in the root of HQ.)</em>\nWhen the run ends, remove this event from the game."
  :title "Rip Deal"
  :type :event
  :uniqueness false}

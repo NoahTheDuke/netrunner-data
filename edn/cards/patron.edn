@@ -4,10 +4,10 @@
  :id "patron"
  :influence-cost 3
  :side :runner
- :stripped-text "When your turn begins, you may choose a server. The first time you make a successful run on that server this turn, instead of accessing cards, draw 2 cards."
+ :stripped-text "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards."
  :stripped-title "Patron"
  :subtype [:connection]
- :text "When your turn begins, you may choose a server.\nThe first time you make a successful run on that server this turn, instead of accessing cards, draw 2 cards."
+ :text "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards."
  :title "Patron"
  :type :resource
  :uniqueness false}

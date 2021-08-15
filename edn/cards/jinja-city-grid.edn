@@ -4,10 +4,10 @@
  :id "jinja-city-grid"
  :influence-cost 2
  :side :corp
- :stripped-text "Interrupt  Whenever you would draw a card, look at that card. If it is a piece of ice, instead of adding it to HQ you may reveal it and install it protecting this server, paying 4 credits less. Limit 1 region per server. Errata from CR 1.4"
+ :stripped-text "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4click less. Limit 1 region per server."
  :stripped-title "Jinja City Grid"
  :subtype [:region]
- :text "[interrupt] – Whenever you would draw a card, look at that card. If it is a piece of ice, instead of adding it to HQ you may reveal it and install it protecting this server, paying 4[credit] less.\nLimit 1 <strong>region</strong> per server.\n<errata>Errata from CR 1.4</errata>"
+ :text "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4[click] less.\nLimit 1 <strong>region</strong> per server."
  :title "Jinja City Grid"
  :trash-cost 5
  :type :upgrade

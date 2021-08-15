@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 3
- :stripped-text "Subroutine The Corp may choose a card in HQ. The Runner accesses that card. If he or she does, trash Kitsune."
+ :stripped-text "Subroutine You may choose 1 card in HQ. If you do, the Runner breaches HQ. During this breach, the Runner cannot access cards in the root of HQ, and the first card they access must be the chosen card. When the breach ends, trash this ice."
  :stripped-title "Kitsune"
  :subtype [:mythic :trap]
- :text "[subroutine] The Corp may choose a card in HQ. The Runner accesses that card. If he or she does, trash Kitsune."
+ :text "[subroutine] You may choose 1 card in HQ. If you do, the Runner breaches HQ. During this breach, the Runner cannot access cards in the root of HQ, and the first card they access must be the chosen card. When the breach ends, trash this ice."
  :title "Kitsune"
  :type :ice
  :uniqueness false}

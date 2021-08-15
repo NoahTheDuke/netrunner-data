@@ -4,10 +4,10 @@
  :id "account-siphon"
  :influence-cost 4
  :side :runner
- :stripped-text "Make a run on HQ. If successful, instead of accessing cards you may force the Corp to lose up to 5 credits, then you gain 2 credits for each credit lost and take 2 tags."
+ :stripped-text "Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5click, then you gain 2click for each credit lost and take 2 tags."
  :stripped-title "Account Siphon"
  :subtype [:run :sabotage]
- :text "Make a run on HQ. If successful, instead of accessing cards you may force the Corp to lose up to 5[credit], then you gain 2[credit] for each credit lost and take 2 tags."
+ :text "Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5[click], then you gain 2[click] for each credit lost and take 2 tags."
  :title "Account Siphon"
  :type :event
  :uniqueness false}

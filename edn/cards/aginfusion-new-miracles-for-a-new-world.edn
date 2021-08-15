@@ -4,10 +4,10 @@
  :influence-limit 17
  :minimum-deck-size 45
  :side :corp
- :stripped-text "Once per turn, instead of rezzing an approached piece of ice, you may trash it to choose another server. The Runner is now running on that server and encountering the outermost piece of ice, if any."
+ :stripped-text "Trash the unrezzed piece of ice the Runner is approaching: Choose a server. The Runner moves to the outermost position of that server and encounters any ice there. Use this ability only once per turn."
  :stripped-title "AgInfusion: New Miracles for a New World"
  :subtype [:division]
- :text "Once per turn, instead of rezzing an approached piece of ice, you may trash it to choose another server. The Runner is now running on that server and encountering the outermost piece of ice, if any."
+ :text "<strong>Trash the unrezzed piece of ice the Runner is approaching:</strong> Choose a server. The Runner moves to the outermost position of that server and encounters any ice there. Use this ability only once per turn."
  :title "AgInfusion: New Miracles for a New World"
  :type :identity
  :uniqueness false}

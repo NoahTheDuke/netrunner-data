@@ -4,10 +4,10 @@
  :id "immolation-script"
  :influence-cost 3
  :side :runner
- :stripped-text "Make a run on Archives. If successful, instead of accessing a piece of ice in Archives, trash a rezzed copy of that ice."
+ :stripped-text "Run Archives. If successful, whenever you would access a faceup piece of ice in Archives this run, you may instead trash 1 rezzed copy of that ice. Use this ability only once this run."
  :stripped-title "Immolation Script"
  :subtype [:run]
- :text "Make a run on Archives. If successful, instead of accessing a piece of ice in Archives, trash a rezzed copy of that ice."
+ :text "Run Archives. If successful, whenever you would access a faceup piece of ice in Archives this run, you may instead trash 1 rezzed copy of that ice. Use this ability only once this run."
  :title "Immolation Script"
  :type :event
  :uniqueness false}

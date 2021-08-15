@@ -4,10 +4,10 @@
  :id "navi-mumbai-city-grid"
  :influence-cost 2
  :side :corp
- :stripped-text "During a run on this server, the Runner cannot use paid abilities on non-icebreaker cards. Limit 1 region per server."
+ :stripped-text "During runs on this server, the Runner cannot use paid abilities on their installed cards except for mid-access abilities and abilities on icebreakers. Limit 1 region per server."
  :stripped-title "Navi Mumbai City Grid"
  :subtype [:region]
- :text "During a run on this server, the Runner cannot use paid abilities on non-<strong>icebreaker</strong> cards.\nLimit 1 <strong>region</strong> per server."
+ :text "During runs on this server, the Runner cannot use paid abilities on their installed cards except for mid-access abilities and abilities on <strong>icebreakers</strong>.\nLimit 1 <strong>region</strong> per server."
  :title "Navi Mumbai City Grid"
  :trash-cost 3
  :type :upgrade

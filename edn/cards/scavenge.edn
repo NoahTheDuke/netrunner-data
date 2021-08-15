@@ -4,9 +4,9 @@
  :id "scavenge"
  :influence-cost 2
  :side :runner
- :stripped-text "Trash an installed program. If you do, install a program from your grip or heap, lowering the install cost of that program by the cost of the program trashed. Errata from FAQ 4.0"
+ :stripped-text "Trash 1 installed program. If you do, install 1 program from your grip or heap, paying Xclick less. X is equal to the install cost of the program you trashed."
  :stripped-title "Scavenge"
- :text "Trash an installed program.\nIf you do, install a program from your grip or heap, lowering the install cost of that program by the cost of the program trashed.\n<errata>Errata from FAQ 4.0</errata>"
+ :text "Trash 1 installed program. If you do, install 1 program from your grip or heap, paying X[click] less. X is equal to the install cost of the program you trashed."
  :title "Scavenge"
  :type :event
  :uniqueness false}

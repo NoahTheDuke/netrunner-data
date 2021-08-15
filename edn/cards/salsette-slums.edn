@@ -4,10 +4,10 @@
  :id "salsette-slums"
  :influence-cost 2
  :side :runner
- :stripped-text "Once per turn, you may pay the trash cost of a card you access that is not in Archives to remove that card from the game. Errata from FAQ 4.1"
+ :stripped-text "Access -> Pay the trash cost of the card you are accessing: Remove it from the game. Use this ability only once per turn."
  :stripped-title "Salsette Slums"
  :subtype [:location :seedy]
- :text "Once per turn, you may pay the trash cost of a card you access that is not in Archives to remove that card from the game.\n<errata>Errata from FAQ 4.1</errata>"
+ :text "Access -> <strong>Pay the trash cost of the card you are accessing:</strong> Remove it from the game. Use this ability only once per turn."
  :title "Salsette Slums"
  :type :resource
  :uniqueness false}

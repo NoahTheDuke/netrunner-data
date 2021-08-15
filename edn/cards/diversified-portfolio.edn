@@ -4,10 +4,10 @@
  :id "diversified-portfolio"
  :influence-cost 0
  :side :corp
- :stripped-text "Gain 1 credit for each remote server with a card installed in it."
+ :stripped-text "Gain 1click for each remote server with a card in its root."
  :stripped-title "Diversified Portfolio"
  :subtype [:transaction]
- :text "Gain 1[credit] for each remote server with a card installed in it."
+ :text "Gain 1[click] for each remote server with a card in its root."
  :title "Diversified Portfolio"
  :type :operation
  :uniqueness false}

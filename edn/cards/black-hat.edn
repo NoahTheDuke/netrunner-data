@@ -4,9 +4,9 @@
  :id "black-hat"
  :influence-cost 5
  :side :runner
- :stripped-text "Force the Corp to \"Trace 4 If unsuccessful, the Runner accesses 2 additional cards whenever he or she accesses cards from HQ or R&D for the remainder of this turn\"."
+ :stripped-text "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D."
  :stripped-title "Black Hat"
- :text "Force the Corp to \"<trace>Trace 4</trace> If unsuccessful, the Runner accesses 2 additional cards whenever he or she accesses cards from HQ or R&D for the remainder of this turn\"."
+ :text "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D."
  :title "Black Hat"
  :type :event
  :uniqueness false}

@@ -4,9 +4,9 @@
  :id "code-replicator"
  :influence-cost 2
  :side :corp
- :stripped-text "When the Runner passes a rezzed piece of ice protecting this server, you may trash Code Replicator to force the Runner to approach that piece of ice again."
+ :stripped-text "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out."
  :stripped-title "Code Replicator"
- :text "When the Runner passes a rezzed piece of ice protecting this server, you may trash Code Replicator to force the Runner to approach that piece of ice again."
+ :text "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out."
  :title "Code Replicator"
  :trash-cost 2
  :type :upgrade

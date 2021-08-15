@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "1 credit: Break sentry subroutine. 3 credits: +5 strength. trash: Bypass a piece of sentry ice currently being encountered, even if it has strength greater than Lustig."
+ :stripped-text "Interface -> 1click: Break 1 sentry subroutine. 3click: +5 strength. trash: Bypass the sentry you are encountering."
  :stripped-title "Lustig"
  :subtype [:icebreaker :killer]
- :text "1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +5 strength.\n[trash]: Bypass a piece of <strong>sentry</strong> ice currently being encountered, even if it has strength greater than Lustig."
+ :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[click]:</strong> +5 strength.\n<strong>[trash]:</strong> Bypass the <strong>sentry</strong> you are encountering."
  :title "Lustig"
  :type :program
  :uniqueness false}

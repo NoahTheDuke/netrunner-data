@@ -4,10 +4,10 @@
  :id "unregistered-s-w-35"
  :influence-cost 3
  :side :runner
- :stripped-text "Use Unregistered S&W '35 only if you have made a successful run on HQ this turn. click, click: Trash 1 rezzed bioroid, clone, executive, or sysop in a server without paying its trash cost."
+ :stripped-text "Use this hardware only if you have made a successful run on HQ this turn. click click: Trash 1 rezzed bioroid, clone, executive, or sysop in the root of a remote server."
  :stripped-title "Unregistered S&W '35"
  :subtype [:weapon]
- :text "Use Unregistered S&W '35 only if you have made a successful run on HQ this turn.\n[click], [click]: Trash 1 rezzed <strong>bioroid</strong>, <strong>clone</strong>, <strong>executive</strong>, or <strong>sysop</strong> in a server without paying its trash cost."
+ :text "Use this hardware only if you have made a successful run on HQ this turn.\n<strong>[click][click]:</strong> Trash 1 rezzed <strong>bioroid</strong>, <strong>clone</strong>, <strong>executive</strong>, or <strong>sysop</strong> in the root of a remote server."
  :title "Unregistered S&W '35"
  :type :hardware
  :uniqueness false}

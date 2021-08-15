@@ -4,10 +4,10 @@
  :id "surat-city-grid"
  :influence-cost 2
  :side :corp
- :stripped-text "Whenever you rez a card in or protecting this server (not including Surat City Grid), you may rez another card, lowering the rez cost by 2. Limit 1 region per server."
+ :stripped-text "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2click less. Limit 1 region per server."
  :stripped-title "Surat City Grid"
  :subtype [:region]
- :text "Whenever you rez a card in or protecting this server (not including Surat City Grid), you may rez another card, lowering the rez cost by 2.\nLimit 1 <strong>region</strong> per server."
+ :text "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2[click] less.\nLimit 1 <strong>region</strong> per server."
  :title "Surat City Grid"
  :trash-cost 3
  :type :upgrade

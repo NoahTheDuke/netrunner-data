@@ -4,9 +4,9 @@
  :faction :weyland-consortium
  :id "standoff"
  :side :corp
- :stripped-text "When you score Standoff, each player, starting with the Runner, trashes 1 of his or her installed cards until 1 player declines to trash a card. If the Runner declines, draw 1 card and gain 5 credits. Errata from FAQ 4.1"
+ :stripped-text "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5click. Otherwise, you may trash 1 of your installed cards to repeat this process."
  :stripped-title "Standoff"
- :text "When you score Standoff, each player, starting with the Runner, trashes 1 of his or her installed cards until 1 player declines to trash a card. If the Runner declines, draw 1 card and gain 5[credit].\n<errata>Errata from FAQ 4.1</errata>"
+ :text "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5[click]. Otherwise, you may trash 1 of your installed cards to repeat this process."
  :title "Standoff"
  :type :agenda
  :uniqueness false}

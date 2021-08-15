@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength nil
- :stripped-text "2 credits: Break ice subroutine. X is the number of virus counters on Darwin. When your turn begins, you may pay 1 credit to place 1 virus counter on Darwin."
+ :stripped-text "Interface -> 2click: Break 1 subroutine. X is equal to the number of hosted virus counters. When your turn begins, you may pay 1click to place 1 virus counter on this program."
  :stripped-title "Darwin"
  :subtype [:icebreaker :ai :virus]
- :text "2[credit]: Break ice subroutine.\nX is the number of virus counters on Darwin.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on Darwin."
+ :text "Interface -> 2[click]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[click] to place 1 virus counter on this program."
  :title "Darwin"
  :type :program
  :uniqueness false}

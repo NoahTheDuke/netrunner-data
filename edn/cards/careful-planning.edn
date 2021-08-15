@@ -4,10 +4,10 @@
  :id "careful-planning"
  :influence-cost 4
  :side :runner
- :stripped-text "Play only as your first click. Choose a card in or protecting a remote server. That card cannot be rezzed this turn."
+ :stripped-text "Play only as your first click. Choose 1 card installed in the root of or protecting a remote server. That card cannot be rezzed this turn."
  :stripped-title "Careful Planning"
  :subtype [:priority]
- :text "Play only as your first [click].\nChoose a card in or protecting a remote server. That card cannot be rezzed this turn."
+ :text "Play only as your first [click].\nChoose 1 card installed in the root of or protecting a remote server. That card cannot be rezzed this turn."
  :title "Careful Planning"
  :type :event
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "political-operative"
  :influence-cost 1
  :side :runner
- :stripped-text "Install only if you made a successful run on HQ this turn. trash, pay the trash cost of a rezzed card: Trash that card."
+ :stripped-text "Install only if you made a successful run on HQ this turn. trash, Xclick: Trash 1 rezzed card with trash cost equal to X."
  :stripped-title "Political Operative"
  :subtype [:connection]
- :text "Install only if you made a successful run on HQ this turn.\n[trash], <strong>pay the trash cost of a rezzed card:</strong> Trash that card."
+ :text "Install only if you made a successful run on HQ this turn.\n<strong>[trash]<strong>, <strong>X[click]:</strong> Trash 1 rezzed card with trash cost equal to X."
  :title "Political Operative"
  :type :resource
  :uniqueness false}

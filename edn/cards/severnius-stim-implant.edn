@@ -4,10 +4,10 @@
  :id "severnius-stim-implant"
  :influence-cost 4
  :side :runner
- :stripped-text "click: Trash 2 or more cards from your grip. Run R&D or HQ. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed. Errata from CR 1.4"
+ :stripped-text "click: Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed."
  :stripped-title "Severnius Stim Implant"
  :subtype [:cybernetic]
- :text "[click]: Trash 2 or more cards from your grip. Run R&D or HQ. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed.\n<errata>Errata from CR 1.4</errata>"
+ :text "<strong>[click]:</strong> Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed."
  :title "Severnius Stim Implant"
  :type :hardware
  :uniqueness false}

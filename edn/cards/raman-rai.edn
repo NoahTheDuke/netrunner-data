@@ -4,10 +4,10 @@
  :id "raman-rai"
  :influence-cost 3
  :side :corp
- :stripped-text "This card costs 0 influence if you have 6 or more non-alliance  cards in your deck. Interrupt  Whenever you would draw a card, look at that card. Once per turn, you may lose click to reveal that card and a card in Archives of the same type, then swap those cards. (You will now draw the other card.) Errata from CR 1.4"
+ :stripped-text "This card costs 0 influence if you have 6 or more non-alliance {jinteki} cards in your deck. Whenever you draw a card, you may lose click. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards. Use this ability only once per turn."
  :stripped-title "Raman Rai"
  :subtype [:alliance :executive]
- :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [jinteki] cards in your deck.\n[interrupt] – Whenever you would draw a card, look at that card. Once per turn, you may lose [click] to reveal that card and a card in Archives of the same type, then swap those cards. <em>(You will now draw the other card.)</em>\n<errata>Errata from CR 1.4</errata>"
+ :text "This card costs 0 influence if you have 6 or more non-alliance {jinteki} cards in your deck.\nWhenever you draw a card, you may lose [click]. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards. Use this ability only once per turn."
  :title "Raman Rai"
  :trash-cost 3
  :type :asset

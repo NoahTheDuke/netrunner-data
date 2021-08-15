@@ -4,9 +4,9 @@
  :id "rubicon-switch"
  :influence-cost 3
  :side :runner
- :stripped-text "X credits,click: Derez a piece of ice rezzed this turn. X is its printed rez cost. Use this ability once per turn."
+ :stripped-text "click, Xclick: Derez 1 piece of ice with printed rez cost Xclick that was rezzed this turn. Use this ability only once per turn."
  :stripped-title "Rubicon Switch"
- :text "X[credit],[click]: Derez a piece of ice rezzed this turn. X is its printed rez cost. Use this ability once per turn."
+ :text "<strong>[click]</strong>, <strong>X[click]:</strong> Derez 1 piece of ice with printed rez cost X[click] that was rezzed this turn. Use this ability only once per turn."
  :title "Rubicon Switch"
  :type :hardware
  :uniqueness true}

@@ -4,10 +4,10 @@
  :id "respirocytes"
  :influence-cost 3
  :side :runner
- :stripped-text "When you install Respirocytes, suffer 1 meat damage. The first time you have 0 cards in your grip each turn, draw 1 card and place a power counter on Respirocytes. When Respirocytes has 3 or more power counters on it, trash it."
+ :stripped-text "When you install this hardware, suffer 1 meat damage. The first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware. When this hardware has 3 or more hosted power counters, trash it."
  :stripped-title "Respirocytes"
  :subtype [:cybernetic]
- :text "When you install Respirocytes, suffer 1 meat damage.\nThe first time you have 0 cards in your grip each turn, draw 1 card and place a power counter on Respirocytes. When Respirocytes has 3 or more power counters on it, trash it."
+ :text "When you install this hardware, suffer 1 meat damage.\nThe first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware.\nWhen this hardware has 3 or more hosted power counters, trash it."
  :title "Respirocytes"
  :type :hardware
  :uniqueness false}

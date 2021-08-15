@@ -4,10 +4,10 @@
  :id "diversion-of-funds"
  :influence-cost 5
  :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Make a run on HQ. If successful, instead of accessing cards, you may force the Corp to lose up to 5 credits, then you may gain 1 credit for each credit lost."
+ :stripped-text "As an additional cost to play this event, spend click. Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5click, then you may gain 1click for each credit lost."
  :stripped-title "Diversion of Funds"
  :subtype [:double :run :sabotage]
- :text "As an additional cost to play this event, spend [click].\nMake a run on HQ. If successful, instead of accessing cards, you may force the Corp to lose up to 5[credit], then you may gain 1[credit] for each credit lost."
+ :text "As an additional cost to play this event, spend [click].\nRun HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5[click], then you may gain 1[click] for each credit lost."
  :title "Diversion of Funds"
  :type :event
  :uniqueness false}

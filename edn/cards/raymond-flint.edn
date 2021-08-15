@@ -4,10 +4,10 @@
  :id "raymond-flint"
  :influence-cost 0
  :side :runner
- :stripped-text "Whenever the Corp takes at least 1 bad publicity, access 1 card from HQ. trash: Expose 1 card."
+ :stripped-text "Whenever the Corp takes bad publicity, breach HQ. trash: Expose 1 card."
  :stripped-title "Raymond Flint"
  :subtype [:connection]
- :text "Whenever the Corp takes at least 1 bad publicity, access 1 card from HQ.\n[trash]: Expose 1 card."
+ :text "Whenever the Corp takes bad publicity, breach HQ.\n<strong>[trash]:</strong> Expose 1 card."
  :title "Raymond Flint"
  :type :resource
  :uniqueness true}

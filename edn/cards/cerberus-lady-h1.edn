@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 3
- :stripped-text "Place 4 power counters on Cerberus \"Lady\" H1 when it is installed. Hosted power counter: Break up to 2 barrier subroutines. 1 credit: +1 strength."
+ :stripped-text "When you install this program, place 4 power counters on it. Interface -> Hosted power counter: Break up to 2 barrier subroutines. 1click: +1 strength."
  :stripped-title "Cerberus \"Lady\" H1"
  :subtype [:icebreaker :fracter]
- :text "Place 4 power counters on Cerberus \"Lady\" H1 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n1[credit]: +1 strength."
+ :text "When you install this program, place 4 power counters on it.\nInterface -> <strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[click]:</strong> +1 strength."
  :title "Cerberus \"Lady\" H1"
  :type :program
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 5
  :memory-cost 2
  :side :runner
- :stripped-text "Place 1 virus counter on Hivemind when it is installed. Virus counters on Hivemind are considered to be hosted on all other virus programs for the purposes of card effects (and can be spent as if on them)."
+ :stripped-text "When you install this program, place 1 virus counter on it. Each other virus program is considered to have 1 additional hosted virus counter for each virus counter on this program. You can spend hosted virus counters as if they were hosted on any other installed virus program."
  :stripped-title "Hivemind"
  :subtype [:virus]
- :text "Place 1 virus counter on Hivemind when it is installed.\nVirus counters on Hivemind are considered to be hosted on all other <strong>virus</strong> programs for the purposes of card effects (and can be spent as if on them)."
+ :text "When you install this program, place 1 virus counter on it.\nEach other <strong>virus</strong> program is considered to have 1 additional hosted virus counter for each virus counter on this program.\nYou can spend hosted virus counters as if they were hosted on any other installed <strong>virus</strong> program."
  :title "Hivemind"
  :type :program
  :uniqueness true}

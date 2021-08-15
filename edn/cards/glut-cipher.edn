@@ -4,10 +4,10 @@
  :id "glut-cipher"
  :influence-cost 4
  :side :runner
- :stripped-text "Make a run on Archives. If successful, instead of accessing cards, force the Corp to choose 5 cards from Archives and add them to HQ, if able, then trash that many cards from HQ at random."
+ :stripped-text "Run Archives. If successful, instead of breaching Archives, the Corp adds exactly 5 cards from Archives to HQ, if able. If they do, trash 5 cards from HQ at random."
  :stripped-title "Glut Cipher"
  :subtype [:run :sabotage]
- :text "Make a run on Archives. If successful, instead of accessing cards, force the Corp to choose 5 cards from Archives and add them to HQ, if able, then trash that many cards from HQ at random."
+ :text "Run Archives. If successful, instead of breaching Archives, the Corp adds exactly 5 cards from Archives to HQ, if able. If they do, trash 5 cards from HQ at random."
  :title "Glut Cipher"
  :type :event
  :uniqueness false}

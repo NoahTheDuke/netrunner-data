@@ -4,10 +4,10 @@
  :id "security-testing"
  :influence-cost 3
  :side :runner
- :stripped-text "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, gain 2 credits."
+ :stripped-text "When your turn begins, you may choose a server. The first time this turn you make a successful run on that server, instead of breaching it, gain 2click."
  :stripped-title "Security Testing"
  :subtype [:job]
- :text "When your turn begins, you may choose a server.\nThe first time this turn you make a successful run on the chosen server, instead of breaching it, gain 2[credit]."
+ :text "When your turn begins, you may choose a server. The first time this turn you make a successful run on that server, instead of breaching it, gain 2[click]."
  :title "Security Testing"
  :type :resource
  :uniqueness false}

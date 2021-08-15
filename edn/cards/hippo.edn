@@ -4,9 +4,9 @@
  :id "hippo"
  :influence-cost 5
  :side :runner
- :stripped-text "The first time you break all subroutines on the outermost piece of ice during a run each turn, you may remove Hippo from the game to trash that piece of ice."
+ :stripped-text "The first time each turn you fully break the outermost piece of ice protecting the attacked server during a run, you may remove this hardware from the game to trash that ice."
  :stripped-title "Hippo"
- :text "The first time you break all subroutines on the outermost piece of ice during a run each turn, you may remove Hippo from the game to trash that piece of ice."
+ :text "The first time each turn you fully break the outermost piece of ice protecting the attacked server during a run, you may remove this hardware from the game to trash that ice."
  :title "Hippo"
  :type :hardware
  :uniqueness true}

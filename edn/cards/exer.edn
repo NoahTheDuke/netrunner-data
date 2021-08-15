@@ -5,10 +5,10 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
- :stripped-text "Whenever you access cards from R&D, access 1 additional card. Trash eXer if the Corp purges virus counters."
+ :stripped-text "Whenever you breach R&D, access 1 additional card. When the Corp purges virus counters, trash this program."
  :stripped-title "eXer"
  :subtype [:virus]
- :text "Whenever you access cards from R&D, access 1 additional card.\nTrash eXer if the Corp purges virus counters."
+ :text "Whenever you breach R&D, access 1 additional card.\nWhen the Corp purges virus counters, trash this program."
  :title "eXer"
  :type :program
  :uniqueness false}

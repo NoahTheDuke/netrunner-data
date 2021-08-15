@@ -4,10 +4,10 @@
  :id "forked"
  :influence-cost 3
  :side :runner
- :stripped-text "Make a run. The first time you break all subroutines on a sentry during this run, trash that sentry."
+ :stripped-text "Run any server. The first time you fully break a sentry during that run, trash that sentry."
  :stripped-title "Forked"
  :subtype [:run :sabotage]
- :text "Make a run. The first time you break all subroutines on a <strong>sentry</strong> during this run, trash that <strong>sentry</strong>."
+ :text "Run any server. The first time you fully break a <strong>sentry</strong> during that run, trash that <strong>sentry</strong>."
  :title "Forked"
  :type :event
  :uniqueness false}

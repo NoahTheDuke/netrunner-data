@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 4
- :stripped-text "Subroutine The next piece of ice the Runner encounters during this run has +2 strength. When that encounter ends, if the Runner did not break all subroutines on that ice, do 3 net damage. Errata from CR 1.2"
+ :stripped-text "Subroutine The next piece of ice the Runner encounters during this run gets +2 strength. When that encounter ends, if the Runner did not fully break that ice, do 3 net damage."
  :stripped-title "Chum"
  :subtype [:code-gate]
- :text "[subroutine] The next piece of ice the Runner encounters during this run has +2 strength. When that encounter ends, if the Runner did not break all subroutines on that ice, do 3 net damage.\n<errata>Errata from CR 1.2</errata>"
+ :text "[subroutine] The next piece of ice the Runner encounters during this run gets +2 strength. When that encounter ends, if the Runner did not fully break that ice, do 3 net damage."
  :title "Chum"
  :type :ice
  :uniqueness false}

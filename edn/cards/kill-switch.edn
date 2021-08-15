@@ -4,10 +4,10 @@
  :id "kill-switch"
  :influence-cost 5
  :side :corp
- :stripped-text "If the Runner accesses an agenda from R&D, he or she must reveal it. This card is not trashed until another current is played or an agenda is stolen. Whenever an agenda is accessed or scored, trace 3 If successful, do 1 brain damage. Errata from FAQ 4.2"
+ :stripped-text "This card is not trashed until another current is played or an agenda is stolen. While the Runner is accessing an agenda from R&D, they must reveal it. Whenever an agenda is accessed or scored, trace[3]. If successful, do 1 brain damage."
  :stripped-title "Kill Switch"
  :subtype [:current]
- :text "If the Runner accesses an agenda from R&D, he or she must reveal it.\nThis card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhenever an agenda is accessed or scored, <trace>trace 3</trace> If successful, do 1 brain damage.\n<errata>Errata from FAQ 4.2</errata>"
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhile the Runner is accessing an agenda from R&D, they must reveal it.\nWhenever an agenda is accessed or scored, trace[3]. If successful, do 1 brain damage."
  :title "Kill Switch"
  :type :operation
  :uniqueness false}

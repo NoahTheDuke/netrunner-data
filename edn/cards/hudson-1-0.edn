@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 5
- :stripped-text "The Runner may spend click to break any subroutine on Hudson 1.0. Subroutine The Runner cannot access more than 1 card during this run. Subroutine The Runner cannot access more than 1 card during this run."
+ :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot access more than 1 card during this run. Subroutine The Runner cannot access more than 1 card during this run."
  :stripped-title "Hudson 1.0"
  :subtype [:code-gate :bioroid]
- :text "The Runner may spend [click] to break any subroutine on Hudson 1.0.\n[subroutine] The Runner cannot access more than 1 card during this run.\n[subroutine] The Runner cannot access more than 1 card during this run."
+ :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot access more than 1 card during this run.\n[subroutine] The Runner cannot access more than 1 card during this run."
  :title "Hudson 1.0"
  :type :ice
  :uniqueness false}

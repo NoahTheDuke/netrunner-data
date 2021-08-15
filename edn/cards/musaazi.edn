@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 1
- :stripped-text "Whenever you make a successful run, you may place 1 virus counter on Musaazi. Virus counter from any installed card: Break sentry subroutine. Virus counter from any installed card: +1 strength."
+ :stripped-text "Whenever you make a successful run, you may place 1 virus counter on this program. Interface -> Any virus counter: Break sentry subroutine. Any virus counter: +1 strength."
  :stripped-title "Musaazi"
  :subtype [:icebreaker :killer :virus]
- :text "Whenever you make a successful run, you may place 1 virus counter on Musaazi.\n<strong>Virus counter from any installed card</strong>: Break <strong>sentry</strong> subroutine.\n<strong>Virus counter from any installed card</strong>: +1 strength."
+ :text "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface -> <strong>Any virus counter:</strong> Break <strong>sentry</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength."
  :title "Musaazi"
  :type :program
  :uniqueness false}

@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 3
- :stripped-text "1 credit: Break barrier subroutine. 3 credits: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a stealth card."
+ :stripped-text "Interface -> 1click: Break 1 barrier subroutine. 3click: +4 strength for the remainder of this run. Use this ability only by  spending at least 1click from a stealth card."
  :stripped-title "Blackstone"
  :subtype [:icebreaker :fracter]
- :text "1[credit]: Break <strong>barrier</strong> subroutine.\n3[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card."
+ :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>3[click]:</strong> +4 strength for the remainder of this run. Use this ability only by \nspending at least 1[click] from a <strong>stealth</strong> card."
  :title "Blackstone"
  :type :program
  :uniqueness false}

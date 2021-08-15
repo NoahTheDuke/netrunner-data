@@ -5,10 +5,10 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
- :stripped-text "When Diwan is installed, choose a server. As an additional cost to install a card in or protecting that server, the Corp must pay 1 credit. Trash Diwan if the Corp purges virus counters."
+ :stripped-text "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1click. When the Corp purges virus counters, trash this program."
  :stripped-title "Diwan"
  :subtype [:virus]
- :text "When Diwan is installed, choose a server. As an additional cost to install a card in or protecting that server, the Corp must pay 1[credit].\nTrash Diwan if the Corp purges virus counters."
+ :text "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1[click].\nWhen the Corp purges virus counters, trash this program."
  :title "Diwan"
  :type :program
  :uniqueness false}

@@ -4,9 +4,9 @@
  :id "self-destruct"
  :influence-cost 0
  :side :corp
- :stripped-text "Install only in a remote server. trash: Trash all cards installed in or protecting this server and trace X if successful, do 3 net damage. X is the number of cards trashed. Use this ability only during a run on this server."
+ :stripped-text "Remote server only. trash: Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server."
  :stripped-title "Self-destruct"
- :text "Install only in a remote server.\n[trash]: Trash all cards installed in or protecting this server and <trace>trace X</trace> if successful, do 3 net damage. X is the number of cards trashed. Use this ability only during a run on this server."
+ :text "Remote server only.\n<strong>[trash]:</strong> Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server."
  :title "Self-destruct"
  :trash-cost 0
  :type :upgrade

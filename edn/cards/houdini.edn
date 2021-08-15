@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 2
- :stripped-text "1 credit: Break code gate subroutine. 2 credits: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a stealth card."
+ :stripped-text "Interface -> 1click: Break 1 code gate subroutine. 2click: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a stealth card."
  :stripped-title "Houdini"
  :subtype [:icebreaker :decoder]
- :text "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card."
+ :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[click]:</strong> +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card."
  :title "Houdini"
  :type :program
  :uniqueness false}

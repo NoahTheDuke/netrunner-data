@@ -4,9 +4,9 @@
  :id "archives-interface"
  :influence-cost 2
  :side :runner
- :stripped-text "Whenever you access cards in Archives, you may remove 1 card in Archives from the game, instead of accessing it."
+ :stripped-text "Interrupt -> Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives."
  :stripped-title "Archives Interface"
- :text "Whenever you access cards in Archives, you may remove 1 card in Archives from the game, instead of accessing it."
+ :text "[interrupt] -> Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives."
  :title "Archives Interface"
  :type :hardware
  :uniqueness false}
