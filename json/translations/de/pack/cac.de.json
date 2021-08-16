@@ -106,7 +106,7 @@
         "code": "03017",
         "flavor": "Das Spiel hat sich verändert.",
         "keywords": "Wächter - Bioroid - Zerstörer - Spürhund",
-        "text": "Der Runner kann [click][click] ausgeben um bis zu 2 Subroutinen auf  Ichi 2.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung und verursache 1 Hirn-Schaden.",
+        "text": "Der Runner kann [click][click] ausgeben um bis zu 2 Subroutinen auf Ichi 2.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung und verursache 1 Hirn-Schaden.",
         "title": "Ichi 2.0"
     },
     {

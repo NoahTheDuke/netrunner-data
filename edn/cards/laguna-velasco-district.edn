@@ -4,7 +4,7 @@
  :id "laguna-velasco-district"
  :influence-cost 2
  :side :runner
- :stripped-text "Interrupt  Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1. Errata from CR 1.4"
+ :stripped-text "Interrupt Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1. Errata from CR 1.4"
  :stripped-title "Laguna Velasco District"
  :subtype [:location :ritzy]
  :text "[interrupt] – Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1.\n<errata>Errata from CR 1.4</errata>"

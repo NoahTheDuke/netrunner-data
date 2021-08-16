@@ -5,7 +5,7 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :runner
- :stripped-text "Draft format only. If you have more  cards installed than any other faction, when your turn begins, remove 1 tag."
+ :stripped-text "Draft format only. If you have more cards installed than any other faction, when your turn begins, remove 1 tag."
  :stripped-title "Boris \"Syfr\" Kovac: Crafty Veteran"
  :subtype [:cyborg]
  :text "Draft format only.\nIf you have more [criminal] cards installed than any other faction, when your turn begins, remove 1 tag."

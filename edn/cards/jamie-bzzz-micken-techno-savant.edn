@@ -5,7 +5,7 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :runner
- :stripped-text "Draft format only. If you have more  cards installed than any other faction, when you install a card the first time each turn, draw 1 card."
+ :stripped-text "Draft format only. If you have more cards installed than any other faction, when you install a card the first time each turn, draw 1 card."
  :stripped-title "Jamie \"Bzzz\" Micken: Techno Savant"
  :subtype [:natural]
  :text "Draft format only.\nIf you have more [shaper] cards installed than any other faction, when you install a card the first time each turn, draw 1 card."

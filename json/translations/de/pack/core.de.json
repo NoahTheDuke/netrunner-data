@@ -371,7 +371,7 @@
     {
         "code": "01057",
         "keywords": "Hinterhalt",
-        "text": "Aggressiver Assistent kann entwickelt werden.\nWenn du 2[credit] zahlst, sobald der Runner auf Aggressiver Assistent zugreift, zerstöre 1 Programm für jeden Entwicklungsmarker auf  Aggressiver Assistent.",
+        "text": "Aggressiver Assistent kann entwickelt werden.\nWenn du 2[credit] zahlst, sobald der Runner auf Aggressiver Assistent zugreift, zerstöre 1 Programm für jeden Entwicklungsmarker auf Aggressiver Assistent.",
         "title": "Aggressiver Assistent"
     },
     {
@@ -533,7 +533,7 @@
     },
     {
         "code": "01082",
-        "text": "Wenn du die Punkte für Sondermeldung erzielst, verpasse dem Runner 2 Markierungen.\nWenn der Zug, in dem du die Punkte für Sondermeldung  erzielt hast, endet, verliert der Runner 2 Markierungen.",
+        "text": "Wenn du die Punkte für Sondermeldung erzielst, verpasse dem Runner 2 Markierungen.\nWenn der Zug, in dem du die Punkte für Sondermeldung erzielt hast, endet, verliert der Runner 2 Markierungen.",
         "title": "Sondermeldung"
     },
     {
