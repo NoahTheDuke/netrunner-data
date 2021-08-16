@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Whenever you encounter a sentry, you may install this program from your heap. 3click: +2 strength. Then, if this program can interface with the sentry you are encountering, break up to 2 subroutines."
+ :stripped-text "Whenever you encounter a sentry, you may install this program from your heap. 3 credits: +2 strength. Then, if this program can interface with the sentry you are encountering, break up to 2 subroutines."
  :stripped-title "MKUltra"
  :subtype [:icebreaker :killer]
- :text "Whenever you encounter a <strong>sentry</strong>, you may install this program from your heap.\n<strong>3[click]:</strong> +2 strength. Then, if this program can interface with the <strong>sentry</strong> you are encountering, break up to 2 subroutines."
+ :text "Whenever you encounter a <strong>sentry</strong>, you may install this program from your heap.\n<strong>3[credit]:</strong> +2 strength. Then, if this program can interface with the <strong>sentry</strong> you are encountering, break up to 2 subroutines."
  :title "MKUltra"
  :type :program
  :uniqueness false}

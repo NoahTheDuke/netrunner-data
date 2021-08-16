@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface -> 1click: Break 1 sentry subroutine. 2click: +3 strength. This program cannot interface with ice protecting a remote server."
+ :stripped-text "Interface -> 1 credit: Break 1 sentry subroutine. 2 credits: +3 strength. This program cannot interface with ice protecting a remote server."
  :stripped-title "Alias"
  :subtype [:icebreaker :killer]
- :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[click]:</strong> +3 strength.\nThis program cannot interface with ice protecting a remote server."
+ :text "Interface -> <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.\nThis program cannot interface with ice protecting a remote server."
  :title "Alias"
  :type :program
  :uniqueness false}

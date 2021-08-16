@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface -> 3click: Break 1 subroutine on a piece of ice with 0 or less strength. Interface -> 1click: The ice you are encountering gets -1 strength for the remainder of this encounter. 1click: +1 strength."
+ :stripped-text "Interface -> 3 credits: Break 1 subroutine on a piece of ice with 0 or less strength. Interface -> 1 credit: The ice you are encountering gets -1 strength for the remainder of this encounter. 1 credit: +1 strength."
  :stripped-title "Wyrm"
  :subtype [:icebreaker :ai]
- :text "Interface -> <strong>3[click]:</strong> Break 1 subroutine on a piece of ice with 0 or less strength.\nInterface -> <strong>1[click]:</strong> The ice you are encountering gets -1 strength for the remainder of this encounter.\n<strong>1[click]:</strong> +1 strength."
+ :text "Interface -> <strong>3[credit]:</strong> Break 1 subroutine on a piece of ice with 0 or less strength.\nInterface -> <strong>1[credit]:</strong> The ice you are encountering gets -1 strength for the remainder of this encounter.\n<strong>1[credit]:</strong> +1 strength."
  :title "Wyrm"
  :type :program
  :uniqueness false}

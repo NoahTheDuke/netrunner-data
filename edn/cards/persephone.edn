@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 1
- :stripped-text "Interface -> 2click: Break 1 sentry subroutine. 1click: +1 strength. Whenever you pass a sentry after encountering it, you may trash the top card of your stack. If you do, trash 1 card from the top of R&D for each subroutine on that sentry that resolved during that encounter."
+ :stripped-text "Interface -> 2 credits: Break 1 sentry subroutine. 1 credit: +1 strength. Whenever you pass a sentry after encountering it, you may trash the top card of your stack. If you do, trash 1 card from the top of R&D for each subroutine on that sentry that resolved during that encounter."
  :stripped-title "Persephone"
  :subtype [:icebreaker :killer]
- :text "Interface -> <strong>2[click]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[click]:</strong> +1 strength.\nWhenever you pass a <strong>sentry</strong> after encountering it, you may trash the top card of your stack. If you do, trash 1 card from the top of R&D for each subroutine on that <strong>sentry</strong> that resolved during that encounter."
+ :text "Interface -> <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.\nWhenever you pass a <strong>sentry</strong> after encountering it, you may trash the top card of your stack. If you do, trash 1 card from the top of R&D for each subroutine on that <strong>sentry</strong> that resolved during that encounter."
  :title "Persephone"
  :type :program
  :uniqueness false}

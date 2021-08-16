@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface -> 1click: Break up to 2 barrier subroutines. 2click: +3 strength. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2click."
+ :stripped-text "Interface -> 1 credit: Break up to 2 barrier subroutines. 2 credits: +3 strength. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2 credits."
  :stripped-title "Tycoon"
  :subtype [:icebreaker :fracter]
- :text "Interface -> <strong>1[click]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[click]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[click]."
+ :text "Interface -> <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[credit]."
  :title "Tycoon"
  :type :program
  :uniqueness false}

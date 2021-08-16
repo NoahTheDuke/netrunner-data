@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 3
- :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 2click or trash 1 of their installed cards. Subroutine The Runner must pay 2click or trash 1 of their installed cards. Subroutine Do 1 brain damage."
+ :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 2 credits or trash 1 of their installed cards. Subroutine The Runner must pay 2 credits or trash 1 of their installed cards. Subroutine Do 1 brain damage."
  :stripped-title "Fairchild 2.0"
  :subtype [:code-gate :bioroid :ap]
- :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 2[click] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 2[click] or trash 1 of their installed cards.\n[subroutine] Do 1 brain damage."
+ :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 2[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 2[credit] or trash 1 of their installed cards.\n[subroutine] Do 1 brain damage."
  :title "Fairchild 2.0"
  :type :ice
  :uniqueness false}

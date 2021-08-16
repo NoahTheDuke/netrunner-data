@@ -4,10 +4,10 @@
  :id "wireless-net-pavilion"
  :influence-cost 0
  :side :runner
- :stripped-text "As an additional cost to take the basic action to trash 1 resource, the Corp must pay 2click."
+ :stripped-text "As an additional cost to take the basic action to trash 1 resource, the Corp must pay 2 credits."
  :stripped-title "Wireless Net Pavilion"
  :subtype [:location]
- :text "As an additional cost to take the basic action to trash 1 resource, the Corp must pay 2[click]."
+ :text "As an additional cost to take the basic action to trash 1 resource, the Corp must pay 2[credit]."
  :title "Wireless Net Pavilion"
  :type :resource
  :uniqueness true}

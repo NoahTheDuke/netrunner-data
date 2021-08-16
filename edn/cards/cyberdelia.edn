@@ -4,10 +4,10 @@
  :id "cyberdelia"
  :influence-cost 3
  :side :runner
- :stripped-text "+1 mu The first time each turn you fully break a piece of ice, gain 1click."
+ :stripped-text "+1 mu The first time each turn you fully break a piece of ice, gain 1 credit."
  :stripped-title "Cyberdelia"
  :subtype [:chip]
- :text "+1[mu]\nThe first time each turn you fully break a piece of ice, gain 1[click]."
+ :text "+1[mu]\nThe first time each turn you fully break a piece of ice, gain 1[credit]."
  :title "Cyberdelia"
  :type :hardware
  :uniqueness false}

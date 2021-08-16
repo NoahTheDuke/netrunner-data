@@ -5,10 +5,10 @@
  :influence-limit 12
  :minimum-deck-size 45
  :side :runner
- :stripped-text "Whenever you breach R&D, you and the Corp secretly spend 0click, 1click, or 2click. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card."
+ :stripped-text "Whenever you breach R&D, you and the Corp secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card."
  :stripped-title "Akiko Nisei: Head Case"
  :subtype [:clone]
- :text "Whenever you breach R&D, you and the Corp secretly spend 0[click], 1[click], or 2[click]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card."
+ :text "Whenever you breach R&D, you and the Corp secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card."
  :title "Akiko Nisei: Head Case"
  :type :identity
  :uniqueness false}

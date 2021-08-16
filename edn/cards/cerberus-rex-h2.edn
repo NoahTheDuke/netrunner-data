@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "When you install this program, place 4 power counters on it. Interface -> Hosted power counter: Break up to 2 code gate subroutines. 1click: +1 strength."
+ :stripped-text "When you install this program, place 4 power counters on it. Interface -> Hosted power counter: Break up to 2 code gate subroutines. 1 credit: +1 strength."
  :stripped-title "Cerberus \"Rex\" H2"
  :subtype [:icebreaker :decoder]
- :text "When you install this program, place 4 power counters on it.\nInterface -> <strong>Hosted power counter:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[click]:</strong> +1 strength."
+ :text "When you install this program, place 4 power counters on it.\nInterface -> <strong>Hosted power counter:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength."
  :title "Cerberus \"Rex\" H2"
  :type :program
  :uniqueness false}

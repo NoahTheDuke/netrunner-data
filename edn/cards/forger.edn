@@ -4,10 +4,10 @@
  :id "forger"
  :influence-cost 1
  :side :runner
- :stripped-text "+1{link} Interrupt -> trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player."
+ :stripped-text "+1 link Interrupt -> trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player."
  :stripped-title "Forger"
  :subtype [:console]
- :text "+1{link}\n[interrupt] -> <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player."
+ :text "+1[link]\n[interrupt] -> <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player."
  :title "Forger"
  :type :hardware
  :uniqueness false}

@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface -> 1click: Break 1 barrier subroutine. 2click: +1 strength for the remainder of this run."
+ :stripped-text "Interface -> 1 credit: Break 1 barrier subroutine. 2 credits: +1 strength for the remainder of this run."
  :stripped-title "Inti"
  :subtype [:icebreaker :fracter]
- :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>2[click]:</strong> +1 strength for the remainder of this run."
+ :text "Interface -> <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>2[credit]:</strong> +1 strength for the remainder of this run."
  :title "Inti"
  :type :program
  :uniqueness false}

@@ -4,9 +4,9 @@
  :id "mu-safecracker"
  :influence-cost 3
  :side :runner
- :stripped-text "Use this hardware only by spending credits from stealth cards. Whenever you make a successful run on HQ, you may pay 1click to access 1 additional card when you breach HQ. Whenever you make a successful run on R&D, you may pay 2click to access 1 additional card when you breach R&D."
+ :stripped-text "Use this hardware only by spending credits from stealth cards. Whenever you make a successful run on HQ, you may pay 1 credit to access 1 additional card when you breach HQ. Whenever you make a successful run on R&D, you may pay 2 credits to access 1 additional card when you breach R&D."
  :stripped-title "Mu Safecracker"
- :text "Use this hardware only by spending credits from <strong>stealth</strong> cards.\nWhenever you make a successful run on HQ, you may pay 1[click] to access 1 additional card when you breach HQ.\nWhenever you make a successful run on R&D, you may pay 2[click] to access 1 additional card when you breach R&D."
+ :text "Use this hardware only by spending credits from <strong>stealth</strong> cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card when you breach HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card when you breach R&D."
  :title "Mu Safecracker"
  :type :hardware
  :uniqueness true}

@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 0
- :stripped-text "When you install this program, place 1 power counter on it for each unused MU. (Place counters after this program's MU cost applies.) Interface -> Hosted power counter: Break 1 subroutine. 1click: +1 strength."
+ :stripped-text "When you install this program, place 1 power counter on it for each unused MU. (Place counters after this program's MU cost applies.) Interface -> Hosted power counter: Break 1 subroutine. 1 credit: +1 strength."
  :stripped-title "Overmind"
  :subtype [:icebreaker :ai]
- :text "When you install this program, place 1 power counter on it for each unused MU. <em>(Place counters after this program's MU cost applies.)</em>\nInterface -> <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>1[click]:</strong> +1 strength."
+ :text "When you install this program, place 1 power counter on it for each unused MU. <em>(Place counters after this program's MU cost applies.)</em>\nInterface -> <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength."
  :title "Overmind"
  :type :program
  :uniqueness false}

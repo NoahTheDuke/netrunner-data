@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 0
- :stripped-text "Interface -> 1click: Break 1 code gate subroutine. 2click: Place 1 power counter on this program. This program gets +1 strength for each hosted power counter."
+ :stripped-text "Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: Place 1 power counter on this program. This program gets +1 strength for each hosted power counter."
  :stripped-title "Study Guide"
  :subtype [:icebreaker :decoder]
- :text "Interface -> <strong>1[click]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[click]:</strong> Place 1 power counter on this program.\nThis program gets +1 strength for each hosted power counter."
+ :text "Interface -> <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> Place 1 power counter on this program.\nThis program gets +1 strength for each hosted power counter."
  :title "Study Guide"
  :type :program
  :uniqueness false}

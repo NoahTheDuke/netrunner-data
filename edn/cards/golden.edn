@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface -> 2click: Break up to 2 sentry subroutines. 2click: +4 strength. 2click, add this program to your grip: Derez 1 sentry this program fully broke during this encounter."
+ :stripped-text "Interface -> 2 credits: Break up to 2 sentry subroutines. 2 credits: +4 strength. 2 credits, add this program to your grip: Derez 1 sentry this program fully broke during this encounter."
  :stripped-title "Golden"
  :subtype [:icebreaker :killer]
- :text "Interface -> 2[click]: Break up to 2 <strong>sentry</strong> subroutines.\n<strong>2[click]:</strong> +4 strength.\n<strong>2[click]</strong>, <strong>add this program to your grip:</strong> Derez 1 <strong>sentry</strong> this program fully broke during this encounter."
+ :text "Interface -> 2[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n<strong>2[credit]:</strong> +4 strength.\n<strong>2[credit]</strong>, <strong>add this program to your grip:</strong> Derez 1 <strong>sentry</strong> this program fully broke during this encounter."
  :title "Golden"
  :type :program
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 2
- :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 1click or trash 1 of their installed cards. Subroutine The Runner must pay 1click or trash 1 of their installed cards."
+ :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards."
  :stripped-title "Fairchild 1.0"
  :subtype [:code-gate :bioroid]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 1[click] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 1[click] or trash 1 of their installed cards."
+ :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards."
  :title "Fairchild 1.0"
  :type :ice
  :uniqueness false}

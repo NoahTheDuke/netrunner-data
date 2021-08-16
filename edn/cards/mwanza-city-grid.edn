@@ -4,10 +4,10 @@
  :id "mwanza-city-grid"
  :influence-cost 1
  :side :corp
- :stripped-text "Root of HQ or R&D only. Whenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2click for each time the Runner accessed a card during that breach. Limit 1 region per server."
+ :stripped-text "Root of HQ or R&D only. Whenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2 credits for each time the Runner accessed a card during that breach. Limit 1 region per server."
  :stripped-title "Mwanza City Grid"
  :subtype [:region]
- :text "Root of HQ or R&D only.\nWhenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2[click] for each time the Runner accessed a card during that breach.\nLimit 1 <strong>region</strong> per server."
+ :text "Root of HQ or R&D only.\nWhenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2[credit] for each time the Runner accessed a card during that breach.\nLimit 1 <strong>region</strong> per server."
  :title "Mwanza City Grid"
  :trash-cost 5
  :type :upgrade

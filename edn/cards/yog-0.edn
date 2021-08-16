@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 3
- :stripped-text "Interface -> 0click: Break 1 code gate subroutine."
+ :stripped-text "Interface -> 0 credits: Break 1 code gate subroutine."
  :stripped-title "Yog.0"
  :subtype [:icebreaker :decoder]
- :text "Interface -> <strong>0[click]:</strong> Break 1 <strong>code gate</strong> subroutine."
+ :text "Interface -> <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine."
  :title "Yog.0"
  :type :program
  :uniqueness false}
