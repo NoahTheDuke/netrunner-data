@@ -924,7 +924,7 @@
           "mti-mwekundu-life-improved" {:points 2}
           "mumbad-city-hall" {:points 2}
           "obokata-protocol" {:points 1}
-          "project-vacheron" {:points 2}
+          "project-vacheron" {:points 1}
           "scarcity-of-resources" {:points 1}
           "sensie-actors-union" {:points 2}
           "shock" {:points 1}
@@ -947,6 +947,7 @@
           "deja-vu" {:points 1}
           "employee-strike" {:points 2}
           "false-echo" {:points 2}
+          "film-critic" {:points 1}
           "hyperdriver" {:points 3}
           "mars-for-martians" {:points 2}
           "rumor-mill" {:points 1}
@@ -955,13 +956,12 @@
           "snitch" {:points 1}
           "tech-trader" {:points 2}
           "temujin-contract" {:points 3}
-          "vamp" {:points 1}
           "zer0" {:points 1}}
   :point-limit 7
-  :date-start "2021-07-21"
+  :date-start "2021-08-28"
   :format "eternal"
-  :id "eternal-points-1-0"
-  :name "Eternal Points 1.0"}
+  :id "eternal-points-2-0"
+  :name "Eternal Points 2.0"}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "accelerated-diagnostics" {:deck-limit 0}
