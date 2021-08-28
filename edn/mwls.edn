@@ -905,6 +905,57 @@
   :format "eternal"
   :id "eternal-mwl-1-2"
   :name "Eternal MWL 1.2"}
+ {:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:points 2}
+          "account-siphon" {:points 3}
+          "anoetic-void" {:points 1}
+          "bio-ethics-association" {:points 1}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 1}
+          "estelle-moon" {:points 2}
+          "false-echo" {:points 2}
+          "friends-in-high-places" {:points 2}
+          "hyperdriver" {:points 3}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 2}
+          "mumbad-city-hall" {:points 2}
+          "obokata-protocol" {:points 1}
+          "power-shutdown" {:points 2}
+          "rumor-mill" {:points 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 1}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 2}
+          "temujin-contract" {:points 3}
+          "vamp" {:points 1}
+          "violet-level-clearance" {:points 1}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :point-limit 7
+  :date-start "2021-07-21"
+  :format "eternal"
+  :id "eternal-points-1-0"
+  :name "Eternal Points 1.0"}
  {:cards {
           ;; Corp
           "24-7-news-cycle" {:points 1}
