@@ -9,7 +9,7 @@
  :stripped-text "Interface -> 2 credits: Break up to 2 code gate subroutines. 1 credit: +1 strength."
  :stripped-title "Force of Nature"
  :subtype [:icebreaker :decoder]
- :text "Interface -> <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength."
+ :text "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength."
  :title "Force of Nature"
  :type :program
  :uniqueness false}

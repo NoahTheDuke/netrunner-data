@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 3
- :stripped-text "Interface > 1 credit: Break 1 sentry subroutine."
+ :stripped-text "Interface -> 1 credit: Break 1 sentry subroutine."
  :stripped-title "Mimic"
  :subtype [:icebreaker :killer]
- :text "Interface > 1[credit]: Break 1 <strong>sentry</strong> subroutine."
+ :text "Interface → 1[credit]: Break 1 <strong>sentry</strong> subroutine."
  :title "Mimic"
  :type :program
  :uniqueness false}

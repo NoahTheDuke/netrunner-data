@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface > 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength for each installed icebreaker (including this one)."
+ :stripped-text "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength for each installed icebreaker (including this one)."
  :stripped-title "Unity"
  :subtype [:icebreaker :decoder]
- :text "Interface > 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>."
+ :text "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>."
  :title "Unity"
  :type :program
  :uniqueness false}

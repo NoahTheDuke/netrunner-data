@@ -9,7 +9,7 @@
  :stripped-text "Interface -> 2 credits: Break up to 3 barrier subroutines. 2 credits: +4 strength. This program cannot interface with ice protecting a remote server."
  :stripped-title "Breach"
  :subtype [:icebreaker :fracter]
- :text "Interface -> <strong>2[credit]:</strong> Break up to 3 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +4 strength.\nThis program cannot interface with ice protecting a remote server."
+ :text "Interface → <strong>2[credit]:</strong> Break up to 3 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +4 strength.\nThis program cannot interface with ice protecting a remote server."
  :title "Breach"
  :type :program
  :uniqueness false}

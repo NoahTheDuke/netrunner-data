@@ -77,6 +77,8 @@
           (str/replace #"</li>" "")
           (str/replace #"<li>" " * ")
           (str/replace #"\n" " ")
+          (str/replace "–" "-")
+          (str/replace "→" "->")
           (str/replace #"\[click\]\[click\]\[click\]" "click click click")
           (str/replace #"\[click\]\[click\]" "click click")
           (str/replace #"\[click\]" "click")
@@ -101,22 +103,36 @@
        (normalize-text)
        (assoc card :stripped-title)))
 
-(defn clean-card-text [cards]
+(defn add-stripped-card-text [cards]
   (->> cards
        (map add-stripped-text)
        (map add-stripped-title)))
 
+(defn fix-arrows [card]
+  (if (:text card)
+    (assoc card :text (-> (:text card)
+                          (str/replace " > " " → ")
+                          (str/replace " -> " " → ")
+                          (str/replace "[interrupt] -> " "[interrupt] – ")
+                          (str/replace "[interrupt] → " "[interrupt] – ")
+                          ))
+    card))
+
+(defn clean-card-text [cards]
+  (->> cards
+       (map fix-arrows)
+       (add-stripped-card-text)))
+
 (defn save-cards [cards]
-  (doseq [card (clean-card-text cards)
-          :let [card (dissoc card :plain-text :plain-title)]]
-    (spit (str "edn/cardstr/" (:id card) ".edn")
+  (doseq [card (clean-card-text cards)]
+    (spit (str "edn/cards/" (:id card) ".edn")
           (str (zp/zprint-str card) "\n"))))
 
 (def c (vals (raw-cards)))
 
 (comment
   (println (keys (into {} c)))
-  ; (save-cards c)
+  (save-cards (vals (raw-cards)))
   ; (convert-to-json)
   )
 

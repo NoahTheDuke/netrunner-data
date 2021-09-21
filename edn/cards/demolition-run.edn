@@ -7,7 +7,7 @@
  :stripped-text "Run HQ or R&D. Access -> 0 credits: Trash the card you are accessing."
  :stripped-title "Demolition Run"
  :subtype [:run :sabotage]
- :text "Run HQ or R&D.\nAccess -> <strong>0[credit]:</strong> Trash the card you are accessing."
+ :text "Run HQ or R&D.\nAccess → <strong>0[credit]:</strong> Trash the card you are accessing."
  :title "Demolition Run"
  :type :event
  :uniqueness false}

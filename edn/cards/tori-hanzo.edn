@@ -4,7 +4,7 @@
  :id "tori-hanzo"
  :influence-cost 4
  :side :corp
- :stripped-text "Interrupt The first time you would do 1 or more net damage during each run on this server, instead you may pay 2 credits to do 1 brain damage. Errata from CR 1.4"
+ :stripped-text "Interrupt - The first time you would do 1 or more net damage during each run on this server, instead you may pay 2 credits to do 1 brain damage. Errata from CR 1.4"
  :stripped-title "Tori Hanzo"
  :subtype [:sysop]
  :text "[interrupt] – The first time you would do 1 or more net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage.\n<errata>Errata from CR 1.4</errata>"

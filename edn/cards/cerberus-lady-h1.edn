@@ -9,7 +9,7 @@
  :stripped-text "When you install this program, place 4 power counters on it. Interface -> Hosted power counter: Break up to 2 barrier subroutines. 1 credit: +1 strength."
  :stripped-title "Cerberus \"Lady\" H1"
  :subtype [:icebreaker :fracter]
- :text "When you install this program, place 4 power counters on it.\nInterface -> <strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength."
+ :text "When you install this program, place 4 power counters on it.\nInterface → <strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength."
  :title "Cerberus \"Lady\" H1"
  :type :program
  :uniqueness false}

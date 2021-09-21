@@ -9,7 +9,7 @@
  :stripped-text "Interface -> 6 credits: Derez the sentry you are encountering. 1 credit: +1 strength."
  :stripped-title "Flashbang"
  :subtype [:icebreaker :killer]
- :text "Interface -> <strong>6[credit]:</strong> Derez the <strong>sentry</strong> you are encountering.\n<strong>1[credit]:</strong> +1 strength."
+ :text "Interface → <strong>6[credit]:</strong> Derez the <strong>sentry</strong> you are encountering.\n<strong>1[credit]:</strong> +1 strength."
  :title "Flashbang"
  :type :program
  :uniqueness false}

@@ -9,7 +9,7 @@
  :stripped-text "Interface -> 1 credit: Break 1 sentry subroutine. 3 credits: +5 strength. trash: Bypass the sentry you are encountering."
  :stripped-title "Lustig"
  :subtype [:icebreaker :killer]
- :text "Interface -> <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[credit]:</strong> +5 strength.\n<strong>[trash]:</strong> Bypass the <strong>sentry</strong> you are encountering."
+ :text "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[credit]:</strong> +5 strength.\n<strong>[trash]:</strong> Bypass the <strong>sentry</strong> you are encountering."
  :title "Lustig"
  :type :program
  :uniqueness false}

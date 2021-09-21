@@ -4,10 +4,10 @@
  :id "tyr-s-hand"
  :influence-cost 1
  :side :corp
- :stripped-text "Interrupt -> When a subroutine would be broken on a piece of bioroid ice protecting this server, you may rez this upgrade. Interrupt -> trash: Prevent 1 subroutine from being broken on a piece of bioroid ice protecting this server."
+ :stripped-text "Interrupt - When a subroutine would be broken on a piece of bioroid ice protecting this server, you may rez this upgrade. Interrupt - trash: Prevent 1 subroutine from being broken on a piece of bioroid ice protecting this server."
  :stripped-title "Tyr's Hand"
  :subtype [:hostile]
- :text "[interrupt] -> When a subroutine would be broken on a piece of <strong>bioroid</strong> ice protecting this server, you may rez this upgrade.\n[interrupt] -> <strong>[trash]:</strong> Prevent 1 subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server."
+ :text "[interrupt] – When a subroutine would be broken on a piece of <strong>bioroid</strong> ice protecting this server, you may rez this upgrade.\n[interrupt] – <strong>[trash]:</strong> Prevent 1 subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server."
  :title "Tyr's Hand"
  :trash-cost 1
  :type :upgrade

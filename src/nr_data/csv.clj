@@ -8,7 +8,7 @@
    [medley.core :refer [find-first]]
    [nr-data.combine :refer [load-data]]
    [nr-data.download :refer [convert-subtypes]]
-   [nr-data.scratch :refer [clean-card-text]]
+   [nr-data.scratch :refer [add-stripped-card-text]]
    [nr-data.utils :refer [prune-null-fields slugify]]
    [semantic-csv.core :as sc]
    [zprint.core :as zp]))
@@ -221,7 +221,7 @@
        (map cast-columns)
        (map add-fields)
        (map prune-null-fields)
-       (clean-card-text)))
+       (add-stripped-card-text)))
 
 (defn build-set-cards
   [cards code-num set-name]

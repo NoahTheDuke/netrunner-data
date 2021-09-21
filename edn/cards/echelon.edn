@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 0
- :stripped-text "This program gets +1 strength for each installed icebreaker (including this one). Interface > 1 credit: Break 1 sentry subroutine. 3 credits: +2 strength."
+ :stripped-text "This program gets +1 strength for each installed icebreaker (including this one). Interface -> 1 credit: Break 1 sentry subroutine. 3 credits: +2 strength."
  :stripped-title "Echelon"
  :subtype [:icebreaker :killer]
- :text "This program gets +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.\nInterface > 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n3[credit]: +2 strength."
+ :text "This program gets +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.\nInterface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n3[credit]: +2 strength."
  :title "Echelon"
  :type :program
  :uniqueness false}

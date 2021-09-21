@@ -9,7 +9,7 @@
  :stripped-text "Whenever you make a successful run, you may place 1 virus counter on this program. Interface -> Any virus counter: Break 1 barrier subroutine. Any virus counter: +1 strength."
  :stripped-title "Yusuf"
  :subtype [:icebreaker :fracter :virus]
- :text "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface -> <strong>Any virus counter:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength."
+ :text "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface → <strong>Any virus counter:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength."
  :title "Yusuf"
  :type :program
  :uniqueness false}

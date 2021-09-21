@@ -9,7 +9,7 @@
  :stripped-text "Whenever you encounter a piece of ice, you may pay 2 credits. If you do, it gains barrier for the remainder of that encounter. Use this ability only once per turn. Interface -> 2 credits: Break any number of barrier subroutines. 3 credits: +6 strength."
  :stripped-title "Laamb"
  :subtype [:icebreaker :fracter]
- :text "Whenever you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>barrier</strong> for the remainder of that encounter. Use this ability only once per turn.\nInterface -> <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>3[credit]:</strong> +6 strength."
+ :text "Whenever you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>barrier</strong> for the remainder of that encounter. Use this ability only once per turn.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>3[credit]:</strong> +6 strength."
  :title "Laamb"
  :type :program
  :uniqueness false}

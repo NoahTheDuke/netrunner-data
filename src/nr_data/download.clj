@@ -3,7 +3,7 @@
    [cheshire.core :as json]
    [clojure.java.io :as io]
    [clojure.string :as str]
-   [nr-data.scratch :refer [clean-card-text]]
+   [nr-data.scratch :refer [add-stripped-card-text]]
    [nr-data.utils :refer [cards->map slugify]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
@@ -252,7 +252,7 @@
   (let [raw-cards (download-fn (-> tables :card :path))
         card-stub (fn [_] raw-cards)
         cards (->> (fetch-data card-stub (:card tables) add-card-fields)
-                   (clean-card-text)
+                   (add-stripped-card-text)
                    (cards->map :id))
         raw-set-cards (fetch-data card-stub
                                   (:set-card tables)

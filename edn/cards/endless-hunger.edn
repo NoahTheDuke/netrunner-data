@@ -9,7 +9,7 @@
  :stripped-text "Interface -> Trash 1 installed card: Break 1 \"Subroutine End the run.\" subroutine."
  :stripped-title "Endless Hunger"
  :subtype [:icebreaker]
- :text "Interface -> <strong>Trash 1 installed card:</strong> Break 1 \"[subroutine] End the run.\" subroutine."
+ :text "Interface → <strong>Trash 1 installed card:</strong> Break 1 \"[subroutine] End the run.\" subroutine."
  :title "Endless Hunger"
  :type :program
  :uniqueness false}

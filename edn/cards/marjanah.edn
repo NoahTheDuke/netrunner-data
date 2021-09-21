@@ -6,10 +6,10 @@
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface > 2 credits: Break 1 barrier subroutine. If you made a successful run this turn, this ability costs 1 credit less to use. 1 credit: +1 strength."
+ :stripped-text "Interface -> 2 credits: Break 1 barrier subroutine. If you made a successful run this turn, this ability costs 1 credit less to use. 1 credit: +1 strength."
  :stripped-title "Marjanah"
  :subtype [:icebreaker :fracter]
- :text "Interface > 2[credit]: Break 1 <strong>barrier</strong> subroutine. If you made a successful run this turn, this ability costs 1[credit] less to use.\n1[credit]: +1 strength."
+ :text "Interface → 2[credit]: Break 1 <strong>barrier</strong> subroutine. If you made a successful run this turn, this ability costs 1[credit] less to use.\n1[credit]: +1 strength."
  :title "Marjanah"
  :type :program
  :uniqueness false}

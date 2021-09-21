@@ -9,7 +9,7 @@
  :stripped-text "Interface -> 1 credit: Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater. 1 credit: +1 strength. 2 credits: Swap this program with a deva program from your grip."
  :stripped-title "Aghora"
  :subtype [:icebreaker :ai :deva]
- :text "Interface -> <strong>1[credit]:</strong> Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater.\n<strong>1[credit]:</strong> +1 strength.\n<strong>2[credit]:</strong> Swap this program with a <strong>deva</strong> program from your grip."
+ :text "Interface → <strong>1[credit]:</strong> Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater.\n<strong>1[credit]:</strong> +1 strength.\n<strong>2[credit]:</strong> Swap this program with a <strong>deva</strong> program from your grip."
  :title "Aghora"
  :type :program
  :uniqueness true}

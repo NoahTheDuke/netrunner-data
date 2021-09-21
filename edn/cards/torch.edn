@@ -9,7 +9,7 @@
  :stripped-text "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength."
  :stripped-title "Torch"
  :subtype [:icebreaker :decoder]
- :text "Interface -> <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength."
+ :text "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength."
  :title "Torch"
  :type :program
  :uniqueness false}

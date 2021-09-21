@@ -7,7 +7,7 @@
  :stripped-text "Persistent -> As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
  :stripped-title "Ben Musashi"
  :subtype [:clone]
- :text "Persistent -> As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>"
+ :text "Persistent → As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>"
  :title "Ben Musashi"
  :trash-cost 3
  :type :upgrade

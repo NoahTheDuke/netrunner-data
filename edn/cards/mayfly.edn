@@ -6,10 +6,10 @@
  :memory-cost 2
  :side :runner
  :strength 1
- :stripped-text "Interface > 1 credit: Break 1 subroutine. When this run ends, trash this program. 1 credit: +1 strength."
+ :stripped-text "Interface -> 1 credit: Break 1 subroutine. When this run ends, trash this program. 1 credit: +1 strength."
  :stripped-title "Mayfly"
  :subtype [:icebreaker :ai]
- :text "Interface > 1[credit]: Break 1 subroutine. When this run ends, trash this program.\n1[credit]: +1 strength."
+ :text "Interface → 1[credit]: Break 1 subroutine. When this run ends, trash this program.\n1[credit]: +1 strength."
  :title "Mayfly"
  :type :program
  :uniqueness false}

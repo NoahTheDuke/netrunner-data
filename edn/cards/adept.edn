@@ -9,7 +9,7 @@
  :stripped-text "This program gets +1 strength for each unused MU. Interface -> 2 credits: Break 1 sentry or barrier subroutine."
  :stripped-title "Adept"
  :subtype [:icebreaker :fracter :killer]
- :text "This program gets +1 strength for each unused MU.\nInterface -> <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or <strong>barrier</strong> subroutine."
+ :text "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or <strong>barrier</strong> subroutine."
  :title "Adept"
  :type :program
  :uniqueness false}
