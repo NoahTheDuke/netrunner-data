@@ -147,17 +147,21 @@
       (str/replace "{interrupt}" "[interrupt]")
       (str/replace "{link}" "[link]")
       (str/replace "{mu}" "[mu]")
+      (str/replace "{MU}" "[mu]")
       (str/replace "{recurring-credit}" "[recurring-credit]")
       (str/replace "{sub}" "[subroutine]")
       (str/replace "{trash}" "[trash]")
-      (str/replace "\\n" "\n")
-      (str/replace "→" "->")))
+      (str/replace #"\{(haas-bioroid|jinteki|nbn|weyland-consortium)}" "[$1]")
+      (str/replace "\\n" "\n")))
 
-(defn load-oracle-csv
-  []
+(defn load-oracle-csv []
   (->> (sc/slurp-csv "oracle.csv")
-       (map #(update % :name slugify))
-       (map #(update % :text convert-tags))
+       (map #(-> %
+                 (assoc :name (slugify (:CardName %)))
+                 (dissoc :CardName)))
+       (map #(-> %
+                 (assoc :text (convert-tags (:CurrentOfficialText %)))
+                 (dissoc :CurrentOfficialText)))
        (map (juxt :name :text))
        (into {})))
 
@@ -171,11 +175,8 @@
             (str (zp/zprint-str card) "\n"))
       (prn card))))
 
-(def cs (raw-cards))
-(def oracle-cards (load-oracle-csv))
-
 (comment
   (load-oracle-csv)
   (raw-cards)
-  (save-oracle-cards oracle-cards cs)
+  (save-oracle-cards (load-oracle-csv) (raw-cards))
   )
