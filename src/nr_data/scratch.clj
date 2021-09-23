@@ -90,8 +90,8 @@
           (str/replace #"\[subroutine]\s*" "Subroutine ")
           (str/replace #"\[trash]" "trash")
           (str/replace #"\[interrupt]" "Interrupt")
-          (str/replace #"\[(anarch)]|\[(criminal)]|\[(shaper)]" "$1")
-          (str/replace #"\[(haas-bioroid)]|\[(jinteki)]|\[(nbn)]|\[(weyland-consortium)]" "$1")))
+          (str/replace #"\[(anarch|criminal|shaper)]" "$1")
+          (str/replace #"\[(haas-bioroid|jinteki|nbn|weyland-consortium)]" "$1")))
 
 (defn add-stripped-text [card]
   (if-let [plain-text (normalize-text (clean-text card))]
