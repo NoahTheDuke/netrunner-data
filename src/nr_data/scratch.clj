@@ -113,8 +113,6 @@
     (assoc card :text (-> (:text card)
                           (str/replace " > " " → ")
                           (str/replace " -> " " → ")
-                          (str/replace "[interrupt] -> " "[interrupt] – ")
-                          (str/replace "[interrupt] → " "[interrupt] – ")
                           ))
     card))
 

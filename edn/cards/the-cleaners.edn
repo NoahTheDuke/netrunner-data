@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "the-cleaners"
  :side :corp
- :stripped-text "Interrupt - Whenever you would do meat damage, increase that damage by 1. Errata from CR 1.4"
+ :stripped-text "Interrupt -> Whenever you would do meat damage, increase that damage by 1. Errata from CR 1.4"
  :stripped-title "The Cleaners"
  :subtype [:security]
- :text "[interrupt] – Whenever you would do meat damage, increase that damage by 1.\n<errata>Errata from CR 1.4</errata>"
+ :text "[interrupt] → Whenever you would do meat damage, increase that damage by 1.\n<errata>Errata from CR 1.4</errata>"
  :title "The Cleaners"
  :type :agenda
  :uniqueness false}
