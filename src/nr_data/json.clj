@@ -4,7 +4,7 @@
    [clojure.java.io :as io]
    [clojure.string :as str]
    [cond-plus.core :refer [cond+]]
-   [nr-data.combine :refer [generate-formats load-data load-edn-from-dir load-sets merge-sets-and-cards]]
+   [nr-data.data :as data]
    [nr-data.utils :refer [cards->map prune-null-fields slugify]]))
 
 (defn get-json-cost
@@ -156,17 +156,17 @@
 (defn convert-to-json
   [& _]
   (let [
-        mwls (load-data "mwls" {:id :code})
-        _sides (load-data "sides")
-        subtypes (load-data "subtypes")
-        formats (load-data "formats")
-        cycles (load-data "cycles")
-        sets (load-sets cycles)
-        set-cards (load-edn-from-dir "edn/set-cards")
-        raw-cards (cards->map :id (load-edn-from-dir "edn/cards"))
-        cards (merge-sets-and-cards set-cards raw-cards)
-        _card->formats (generate-formats sets cards formats mwls)
-        _mwls (get-json-mwl (group-by :card-id cards) mwls)
+        mwls (data/mwls)
+        sides (data/sides)
+        subtypes (data/subtypes)
+        formats (data/formats)
+        cycles (data/cycles)
+        sets (data/sets cycles)
+        set-cards (data/set-cards)
+        raw-cards (data/raw-cards)
+        cards (data/cards)
+        card->formats (data/card->formats)
+        mwls (get-json-mwl (group-by :card-id cards) mwls)
         pretty {:pretty {:indentation 4
                          :indent-arrays? true
                          :object-field-value-separator ": "}}

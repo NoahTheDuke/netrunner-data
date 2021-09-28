@@ -28,8 +28,8 @@
         :exec-fn build-from-csv}
   :json {:ns-default nr-data.json
          :exec-fn convert-to-json}
-  :nrdb {:ns-default nr-data.download
-         :exec-fn download-from-nrdb}
+  :download {:ns-default nr-data.download
+             :exec-fn download-from-nrdb}
 
   :quotes {:ns-default nr-data.quotes
            :exec-fn build-quotes}

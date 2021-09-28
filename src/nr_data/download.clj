@@ -3,7 +3,7 @@
    [cheshire.core :as json]
    [clojure.java.io :as io]
    [clojure.string :as str]
-   [nr-data.scratch :refer [add-stripped-card-text]]
+   [nr-data.text :refer [add-stripped-card-text]]
    [nr-data.utils :refer [cards->map slugify]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
@@ -32,13 +32,13 @@
 (defn read-card-dir
   [base-path]
   (->> (str base-path "/pack")
-       io/file
-       file-seq
+       (io/file)
+       (file-seq)
        (filter #(and (.isFile %)
                      (str/ends-with? % ".json")))
        (map read-json-file)
-       flatten
-       parse-response))
+       (flatten)
+       (parse-response)))
 
 (defn translate-fields
   "Modify NRDB json data to our schema"
