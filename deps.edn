@@ -14,7 +14,11 @@
  {
   :repl/rebel {:extra-deps {nrepl/nrepl {:mvn/version "0.8.3"}
                             cider/cider-nrepl {:mvn/version "0.26.0"}
-                            com.bhauman/rebel-readline {:mvn/version "0.1.4"}}
+                            com.bhauman/rebel-readline {:mvn/version "0.1.4"}
+                            criterium/criterium {:mvn/version "0.4.6"}
+                            com.clojure-goes-fast/clj-java-decompiler {:mvn/version "0.3.0"}
+                            }
+               :jvm-opts ["-Xmx6g"]
                :main-opts ["-m" "nrepl.cmdline"
                            "--middleware" "[cider.nrepl/cider-middleware]"
                            "-i"
@@ -28,8 +32,8 @@
         :exec-fn build-from-csv}
   :json {:ns-default nr-data.json
          :exec-fn convert-to-json}
-  :nrdb {:ns-default nr-data.download
-         :exec-fn download-from-nrdb}
+  :download {:ns-default nr-data.download
+             :exec-fn download-from-nrdb}
 
   :quotes {:ns-default nr-data.quotes
            :exec-fn build-quotes}

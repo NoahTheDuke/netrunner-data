@@ -4,9 +4,9 @@
  :id "prana-condenser"
  :influence-cost 3
  :side :corp
- :stripped-text "Interrupt - Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3 credits. click click,trash: Do 1 net damage for each hosted power counter."
+ :stripped-text "Interrupt -> Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3 credits. click click,trash: Do 1 net damage for each hosted power counter."
  :stripped-title "Prana Condenser"
- :text "[interrupt] – Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3[credit].\n<strong>[click][click]</strong>,<strong>[trash]:</strong> Do 1 net damage for each hosted power counter."
+ :text "[interrupt] → Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3[credit].\n<strong>[click][click]</strong>,<strong>[trash]:</strong> Do 1 net damage for each hosted power counter."
  :title "Prāna Condenser"
  :trash-cost 4
  :type :asset

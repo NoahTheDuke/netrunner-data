@@ -5,9 +5,9 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
- :stripped-text "Interrupt - The first time each turn you would take net damage, you may pay 1 credit to prevent 1 net damage. Errata from CR 1.4"
+ :stripped-text "Interrupt -> The first time each turn you would take net damage, you may pay 1 credit to prevent 1 net damage. Errata from CR 1.4"
  :stripped-title "Net Shield"
- :text "[interrupt] – The first time each turn you would take net damage, you may pay 1[credit] to prevent 1 net damage.\n<errata>Errata from CR 1.4</errata>"
+ :text "[interrupt] → The first time each turn you would take net damage, you may pay 1[credit] to prevent 1 net damage.\n<errata>Errata from CR 1.4</errata>"
  :title "Net Shield"
  :type :program
  :uniqueness false}
