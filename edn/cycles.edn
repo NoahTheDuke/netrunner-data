@@ -122,4 +122,9 @@
   :name "System Update 2021"
   :position 31
   :rotated false
-  :size 1}]
+  :size 1}
+ {:id "borealis"
+  :name "Borealis"
+  :position 32
+  :rotated false
+  :size 3}]

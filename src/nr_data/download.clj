@@ -296,7 +296,7 @@
                       (partial read-local-data localpath)
                       download-nrdb-data)
 
-        ; cycles (cycle-handler line-ending download-fn)
+        cycles (cycle-handler line-ending download-fn)
 
         sets (set-handler line-ending download-fn)
 
