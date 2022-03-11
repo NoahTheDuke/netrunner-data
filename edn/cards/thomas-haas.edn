@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "thomas-haas"
- :influence-cost 1
- :side :corp
- :stripped-text "Thomas Haas can be advanced. trash: Gain 2 credits for each advancement token on Thomas Haas."
- :stripped-title "Thomas Haas"
- :subtype [:executive]
- :text "Thomas Haas can be advanced.\n[trash]: Gain 2[credit] for each advancement token on Thomas Haas."
- :title "Thomas Haas"
- :trash-cost 1
- :type :asset
+{:cost 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "thomas-haas",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Thomas Haas can be advanced. trash: Gain 2 credits for each advancement token on Thomas Haas.",
+ :stripped-title "Thomas Haas",
+ :subtype [:executive],
+ :text
+   "Thomas Haas can be advanced.\n[trash]: Gain 2[credit] for each advancement token on Thomas Haas.",
+ :title "Thomas Haas",
+ :trash-cost 1,
+ :type :asset,
  :uniqueness true}

@@ -1,14 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "isabel-mcguire"
- :influence-cost 1
- :side :corp
- :stripped-text "click: Add 1 of your installed cards to HQ."
- :stripped-title "Isabel McGuire"
- :subtype [:executive]
- :text "[click]: Add 1 of your installed cards to HQ."
- :title "Isabel McGuire"
- :trash-cost 3
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "isabel-mcguire",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "click: Add 1 of your installed cards to HQ.",
+ :stripped-title "Isabel McGuire",
+ :subtype [:executive],
+ :text "[click]: Add 1 of your installed cards to HQ.",
+ :title "Isabel McGuire",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness true}

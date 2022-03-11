@@ -1,56 +1,57 @@
-[{:card-id "labor-rights"
-  :code "23001"
-  :flavor "<champion>Designed by 2017 European Champion Mike Sheehan</champion>"
-  :illustrator "Amelie Hutt"
-  :position 1
-  :quantity 3
+[{:card-id "labor-rights",
+  :code "23001",
+  :flavor
+    "<champion>Designed by 2017 European Champion Mike Sheehan</champion>",
+  :illustrator "Amelie Hutt",
+  :position 1,
+  :quantity 3,
   :set-id "magnum-opus"}
- {:card-id "crowdfunding"
-  :code "23013"
-  :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>"
-  :illustrator "Mariusz Siergiejew"
-  :position 2
-  :quantity 3
+ {:card-id "crowdfunding",
+  :code "23013",
+  :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>",
+  :illustrator "Mariusz Siergiejew",
+  :position 2,
+  :quantity 3,
   :set-id "magnum-opus"}
- {:card-id "slot-machine"
-  :code "23045"
-  :flavor "<champion>Designed by 2017 World Champion Jess Horig</champion>"
-  :illustrator "Ed Mattinian"
-  :position 3
-  :quantity 3
+ {:card-id "slot-machine",
+  :code "23045",
+  :flavor "<champion>Designed by 2017 World Champion Jess Horig</champion>",
+  :illustrator "Ed Mattinian",
+  :position 3,
+  :quantity 3,
   :set-id "magnum-opus"}
- {:card-id "border-control"
-  :code "23054"
-  :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>"
-  :illustrator "Adam S. Doyle"
-  :position 4
-  :quantity 3
+ {:card-id "border-control",
+  :code "23054",
+  :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>",
+  :illustrator "Adam S. Doyle",
+  :position 4,
+  :quantity 3,
   :set-id "magnum-opus"}
- {:card-id "timely-public-release"
-  :code "23027"
-  :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>"
-  :illustrator "Matthew Zeilinger"
-  :position 5
-  :quantity 3
+ {:card-id "timely-public-release",
+  :code "23027",
+  :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>",
+  :illustrator "Matthew Zeilinger",
+  :position 5,
+  :quantity 3,
   :set-id "magnum-opus"}
- {:card-id "embolus"
-  :code "23011"
-  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'Argenio</champion>"
-  :illustrator "Mariusz Siergiejew"
-  :position 6
-  :quantity 3
+ {:card-id "embolus",
+  :code "23011",
+  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'Argenio</champion>",
+  :illustrator "Mariusz Siergiejew",
+  :position 6,
+  :quantity 3,
   :set-id "magnum-opus"}
- {:card-id "watch-the-world-burn"
-  :code "23100"
-  :flavor "<champion>Designed by the Day 1A players at Magnum Opus</champion>"
-  :illustrator "Emilio Rodriguez"
-  :position 7
-  :quantity 1
+ {:card-id "watch-the-world-burn",
+  :code "23100",
+  :flavor "<champion>Designed by the Day 1A players at Magnum Opus</champion>",
+  :illustrator "Emilio Rodriguez",
+  :position 7,
+  :quantity 1,
   :set-id "magnum-opus"}
- {:card-id "hired-help"
-  :code "23101"
-  :flavor "<champion>Designed by the Day 1B players at Magnum Opus</champion>"
-  :illustrator "Matthew Zeilinger"
-  :position 8
-  :quantity 1
+ {:card-id "hired-help",
+  :code "23101",
+  :flavor "<champion>Designed by the Day 1B players at Magnum Opus</champion>",
+  :illustrator "Matthew Zeilinger",
+  :position 8,
+  :quantity 1,
   :set-id "magnum-opus"}]

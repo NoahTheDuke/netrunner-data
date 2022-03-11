@@ -1,12 +1,13 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "mass-install"
- :influence-cost 0
- :side :runner
- :stripped-text "Install up to 3 programs from your grip (paying the install costs)."
- :stripped-title "Mass Install"
- :text "Install up to 3 programs from your grip (paying the install costs)."
- :title "Mass Install"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "mass-install",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Install up to 3 programs from your grip (paying the install costs).",
+ :stripped-title "Mass Install",
+ :text "Install up to 3 programs from your grip (paying the install costs).",
+ :title "Mass Install",
+ :type :event,
  :uniqueness false}

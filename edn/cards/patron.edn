@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "patron"
- :influence-cost 3
- :side :runner
- :stripped-text "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards."
- :stripped-title "Patron"
- :subtype [:connection]
- :text "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards."
- :title "Patron"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "patron",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards.",
+ :stripped-title "Patron",
+ :subtype [:connection],
+ :text
+   "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards.",
+ :title "Patron",
+ :type :resource,
  :uniqueness false}

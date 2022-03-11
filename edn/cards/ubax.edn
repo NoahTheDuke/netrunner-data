@@ -1,13 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "ubax"
- :influence-cost 3
- :side :runner
- :stripped-text "+1 mu When your turn begins, draw 1 card. Limit 1 console per player."
- :stripped-title "Ubax"
- :subtype [:console]
- :text "+1[mu]\nWhen your turn begins, draw 1 card.\nLimit 1 <strong>console</strong> per player."
- :title "Ubax"
- :type :hardware
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "ubax",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "+1 mu When your turn begins, draw 1 card. Limit 1 console per player.",
+ :stripped-title "Ubax",
+ :subtype [:console],
+ :text
+   "+1[mu]\nWhen your turn begins, draw 1 card.\nLimit 1 <strong>console</strong> per player.",
+ :title "Ubax",
+ :type :hardware,
  :uniqueness true}

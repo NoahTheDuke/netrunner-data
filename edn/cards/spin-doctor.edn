@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "spin-doctor"
- :influence-cost 1
- :side :corp
- :stripped-text "When you rez this asset, draw 2 cards. Remove this asset from the game: Shuffle up to 2 cards from Archives into R&D."
- :stripped-title "Spin Doctor"
- :subtype [:character]
- :text "When you rez this asset, draw 2 cards.\n<strong>Remove this asset from the game:</strong> Shuffle up to 2 cards from Archives into R&D."
- :title "Spin Doctor"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "spin-doctor",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "When you rez this asset, draw 2 cards. Remove this asset from the game: Shuffle up to 2 cards from Archives into R&D.",
+ :stripped-title "Spin Doctor",
+ :subtype [:character],
+ :text
+   "When you rez this asset, draw 2 cards.\n<strong>Remove this asset from the game:</strong> Shuffle up to 2 cards from Archives into R&D.",
+ :title "Spin Doctor",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness true}

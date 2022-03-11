@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "employee-strike"
- :influence-cost 1
- :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. The Corp's identity text box is blank."
- :stripped-title "Employee Strike"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank."
- :title "Employee Strike"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "employee-strike",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is scored. The Corp's identity text box is blank.",
+ :stripped-title "Employee Strike",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank.",
+ :title "Employee Strike",
+ :type :event,
  :uniqueness false}

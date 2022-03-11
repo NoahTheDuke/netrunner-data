@@ -1,15 +1,17 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "knight"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :strength 7
- :stripped-text "Interface -> 2 credits: Break 1 subroutine on host ice. click: Host this program on a piece of ice that is not hosting a Caissa and is not directly inward or outward from this program's current host ice."
- :stripped-title "Knight"
- :subtype [:icebreaker :ai :caissa]
- :text "Interface → <strong>2[credit]:</strong> Break 1 subroutine on host ice.\n<strong>[click]:</strong> Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> and is not directly inward or outward from this program's current host ice."
- :title "Knight"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "knight",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :strength 7,
+ :stripped-text
+   "Interface -> 2 credits: Break 1 subroutine on host ice. click: Host this program on a piece of ice that is not hosting a Caissa and is not directly inward or outward from this program's current host ice.",
+ :stripped-title "Knight",
+ :subtype [:icebreaker :ai :caissa],
+ :text
+   "Interface → <strong>2[credit]:</strong> Break 1 subroutine on host ice.\n<strong>[click]:</strong> Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> and is not directly inward or outward from this program's current host ice.",
+ :title "Knight",
+ :type :program,
  :uniqueness false}

@@ -1,14 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "tiered-subscription"
- :influence-cost 1
- :side :corp
- :stripped-text "The first time each turn a run begins, gain 1 credit."
- :stripped-title "Tiered Subscription"
- :subtype [:advertisement]
- :text "The first time each turn a run begins, gain 1[credit]."
- :title "Tiered Subscription"
- :trash-cost 3
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "tiered-subscription",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "The first time each turn a run begins, gain 1 credit.",
+ :stripped-title "Tiered Subscription",
+ :subtype [:advertisement],
+ :text "The first time each turn a run begins, gain 1[credit].",
+ :title "Tiered Subscription",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

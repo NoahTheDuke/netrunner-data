@@ -1,12 +1,12 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "power-tap"
- :influence-cost 1
- :side :runner
- :stripped-text "Gain 1 credit whenever a trace is initiated."
- :stripped-title "Power Tap"
- :text "Gain 1[credit] whenever a trace is initiated."
- :title "Power Tap"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "power-tap",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text "Gain 1 credit whenever a trace is initiated.",
+ :stripped-title "Power Tap",
+ :text "Gain 1[credit] whenever a trace is initiated.",
+ :title "Power Tap",
+ :type :resource,
  :uniqueness false}

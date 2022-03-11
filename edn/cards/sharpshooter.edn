@@ -1,15 +1,17 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "sharpshooter"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :strength 3
- :stripped-text "Interface -> trash: Break any number of destroyer subroutines. 1 credit: +2 strength."
- :stripped-title "Sharpshooter"
- :subtype [:icebreaker]
- :text "Interface → <strong>[trash]:</strong> Break any number of <strong>destroyer</strong> subroutines.\n<strong>1[credit]:</strong> +2 strength."
- :title "Sharpshooter"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "sharpshooter",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :strength 3,
+ :stripped-text
+   "Interface -> trash: Break any number of destroyer subroutines. 1 credit: +2 strength.",
+ :stripped-title "Sharpshooter",
+ :subtype [:icebreaker],
+ :text
+   "Interface → <strong>[trash]:</strong> Break any number of <strong>destroyer</strong> subroutines.\n<strong>1[credit]:</strong> +2 strength.",
+ :title "Sharpshooter",
+ :type :program,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-corp
- :id "best-defense"
- :influence-cost 0
- :side :corp
- :stripped-text "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has."
- :stripped-title "Best Defense"
- :subtype [:gray-ops]
- :text "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has."
- :title "Best Defense"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "best-defense",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has.",
+ :stripped-title "Best Defense",
+ :subtype [:gray-ops],
+ :text
+   "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has.",
+ :title "Best Defense",
+ :type :operation,
  :uniqueness false}

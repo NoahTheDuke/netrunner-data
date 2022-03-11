@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "restoring-face"
- :influence-cost 2
- :side :corp
- :stripped-text "Trash one of your installed sysops, executives, or clones. If you do, remove up to 2 bad publicity."
- :stripped-title "Restoring Face"
- :text "Trash one of your installed <strong>sysops</strong>, <strong>executives</strong>, or <strong>clones</strong>. If you do, remove up to 2 bad publicity."
- :title "Restoring Face"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "restoring-face",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Trash one of your installed sysops, executives, or clones. If you do, remove up to 2 bad publicity.",
+ :stripped-title "Restoring Face",
+ :text
+   "Trash one of your installed <strong>sysops</strong>, <strong>executives</strong>, or <strong>clones</strong>. If you do, remove up to 2 bad publicity.",
+ :title "Restoring Face",
+ :type :operation,
  :uniqueness false}

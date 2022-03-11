@@ -1,14 +1,16 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :neutral-corp
- :id "corporate-war"
- :influence-cost 0
- :side :corp
- :stripped-text "If you have at least 7 credits when you score Corporate War, gain 7 credits; otherwise, lose all credits in your credit pool."
- :stripped-title "Corporate War"
- :subtype [:expansion]
- :text "If you have at least 7[credit] when you score Corporate War, gain 7[credit]; otherwise, lose all credits in your credit pool."
- :title "Corporate War"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "corporate-war",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "If you have at least 7 credits when you score Corporate War, gain 7 credits; otherwise, lose all credits in your credit pool.",
+ :stripped-title "Corporate War",
+ :subtype [:expansion],
+ :text
+   "If you have at least 7[credit] when you score Corporate War, gain 7[credit]; otherwise, lose all credits in your credit pool.",
+ :title "Corporate War",
+ :type :agenda,
  :uniqueness false}

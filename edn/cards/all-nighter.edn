@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "all-nighter"
- :influence-cost 2
- :side :runner
- :stripped-text "click, trash: Gain click click."
- :stripped-title "All-nighter"
- :text "[click], [trash]: Gain [click][click]."
- :title "All-nighter"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "all-nighter",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "click, trash: Gain click click.",
+ :stripped-title "All-nighter",
+ :text "[click], [trash]: Gain [click][click].",
+ :title "All-nighter",
+ :type :resource,
  :uniqueness false}

@@ -1,15 +1,17 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "battering-ram"
- :influence-cost 2
- :memory-cost 2
- :side :runner
- :strength 3
- :stripped-text "Interface -> 2 credits: Break up to 2 barrier subroutines. 1 credit: +1 strength for the remainder of this run."
- :stripped-title "Battering Ram"
- :subtype [:icebreaker :fracter]
- :text "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength for the remainder of this run."
- :title "Battering Ram"
- :type :program
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "battering-ram",
+ :influence-cost 2,
+ :memory-cost 2,
+ :side :runner,
+ :strength 3,
+ :stripped-text
+   "Interface -> 2 credits: Break up to 2 barrier subroutines. 1 credit: +1 strength for the remainder of this run.",
+ :stripped-title "Battering Ram",
+ :subtype [:icebreaker :fracter],
+ :text
+   "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength for the remainder of this run.",
+ :title "Battering Ram",
+ :type :program,
  :uniqueness false}

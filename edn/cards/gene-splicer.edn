@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "gene-splicer"
- :influence-cost 2
- :side :corp
- :stripped-text "Gene Splicer can be advanced. When the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer. click, 3 hosted advancement tokens: Add Gene Splicer to your score area as an agenda worth 1 agenda point."
- :stripped-title "Gene Splicer"
- :subtype [:ambush]
- :text "Gene Splicer can be advanced.\nWhen the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer.\n<strong>[click], 3 hosted advancement tokens:</strong> Add Gene Splicer to your score area as an agenda worth 1 agenda point."
- :title "Gene Splicer"
- :trash-cost 1
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "gene-splicer",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Gene Splicer can be advanced. When the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer. click, 3 hosted advancement tokens: Add Gene Splicer to your score area as an agenda worth 1 agenda point.",
+ :stripped-title "Gene Splicer",
+ :subtype [:ambush],
+ :text
+   "Gene Splicer can be advanced.\nWhen the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer.\n<strong>[click], 3 hosted advancement tokens:</strong> Add Gene Splicer to your score area as an agenda worth 1 agenda point.",
+ :title "Gene Splicer",
+ :trash-cost 1,
+ :type :asset,
  :uniqueness false}

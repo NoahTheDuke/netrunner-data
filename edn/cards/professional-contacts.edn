@@ -1,13 +1,13 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "professional-contacts"
- :influence-cost 2
- :side :runner
- :stripped-text "click: Gain 1 credit and draw 1 card."
- :stripped-title "Professional Contacts"
- :subtype [:connection]
- :text "[click]: Gain 1[credit] and draw 1 card."
- :title "Professional Contacts"
- :type :resource
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "professional-contacts",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "click: Gain 1 credit and draw 1 card.",
+ :stripped-title "Professional Contacts",
+ :subtype [:connection],
+ :text "[click]: Gain 1[credit] and draw 1 card.",
+ :title "Professional Contacts",
+ :type :resource,
  :uniqueness false}

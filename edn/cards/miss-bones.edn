@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "miss-bones"
- :influence-cost 2
- :side :runner
- :stripped-text "Place 12 credits from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her. Use these credits to trash installed cards."
- :stripped-title "Miss Bones"
- :subtype [:connection]
- :text "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards."
- :title "Miss Bones"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "miss-bones",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Place 12 credits from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her. Use these credits to trash installed cards.",
+ :stripped-title "Miss Bones",
+ :subtype [:connection],
+ :text
+   "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards.",
+ :title "Miss Bones",
+ :type :resource,
  :uniqueness true}

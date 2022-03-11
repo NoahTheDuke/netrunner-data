@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "scrubber"
- :influence-cost 1
- :side :runner
- :stripped-text "2 recurring credits (When you install this card and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits to pay trash costs."
- :stripped-title "Scrubber"
- :subtype [:connection :seedy]
- :text "2[recurring-credit] <em>(When you install this card and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits to pay trash costs."
- :title "Scrubber"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "scrubber",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "2 recurring credits (When you install this card and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits to pay trash costs.",
+ :stripped-title "Scrubber",
+ :subtype [:connection :seedy],
+ :text
+   "2[recurring-credit] <em>(When you install this card and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits to pay trash costs.",
+ :title "Scrubber",
+ :type :resource,
  :uniqueness false}

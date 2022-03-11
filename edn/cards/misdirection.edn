@@ -1,13 +1,13 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "misdirection"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "click, click, X credits: Remove X tags."
- :stripped-title "Misdirection"
- :text "[click], [click], X[credit]: Remove X tags."
- :title "Misdirection"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "misdirection",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text "click, click, X credits: Remove X tags.",
+ :stripped-title "Misdirection",
+ :text "[click], [click], X[credit]: Remove X tags.",
+ :title "Misdirection",
+ :type :program,
  :uniqueness false}

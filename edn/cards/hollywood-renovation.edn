@@ -1,13 +1,15 @@
-{:advancement-requirement 5
- :agenda-points 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "hollywood-renovation"
- :side :corp
- :stripped-text "Install Hollywood Renovation faceup. Whenever you advance Hollywood Renovation, you may place 1 advancement token on another card that can be advanced (or 2 advancement tokens instead if there are 6 or more advancement tokens on Hollywood Renovation)."
- :stripped-title "Hollywood Renovation"
- :subtype [:initiative :public]
- :text "Install Hollywood Renovation faceup.\nWhenever you advance Hollywood Renovation, you may place 1 advancement token on another card that can be advanced (or 2 advancement tokens instead if there are 6 or more advancement tokens on Hollywood Renovation)."
- :title "Hollywood Renovation"
- :type :agenda
+{:advancement-requirement 5,
+ :agenda-points 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "hollywood-renovation",
+ :side :corp,
+ :stripped-text
+   "Install Hollywood Renovation faceup. Whenever you advance Hollywood Renovation, you may place 1 advancement token on another card that can be advanced (or 2 advancement tokens instead if there are 6 or more advancement tokens on Hollywood Renovation).",
+ :stripped-title "Hollywood Renovation",
+ :subtype [:initiative :public],
+ :text
+   "Install Hollywood Renovation faceup.\nWhenever you advance Hollywood Renovation, you may place 1 advancement token on another card that can be advanced (or 2 advancement tokens instead if there are 6 or more advancement tokens on Hollywood Renovation).",
+ :title "Hollywood Renovation",
+ :type :agenda,
  :uniqueness false}

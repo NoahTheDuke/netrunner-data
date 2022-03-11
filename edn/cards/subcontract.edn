@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "subcontract"
- :influence-cost 3
- :side :corp
- :stripped-text "Play only if the Runner is tagged. Play up to 2 operations from HQ (paying all costs), resolving them one at a time."
- :stripped-title "Subcontract"
- :subtype [:gray-ops]
- :text "Play only if the Runner is tagged.\nPlay up to 2 operations from HQ (paying all costs), resolving them one at a time."
- :title "Subcontract"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "subcontract",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Play only if the Runner is tagged. Play up to 2 operations from HQ (paying all costs), resolving them one at a time.",
+ :stripped-title "Subcontract",
+ :subtype [:gray-ops],
+ :text
+   "Play only if the Runner is tagged.\nPlay up to 2 operations from HQ (paying all costs), resolving them one at a time.",
+ :title "Subcontract",
+ :type :operation,
  :uniqueness false}

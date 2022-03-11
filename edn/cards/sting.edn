@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :jinteki
- :id "sting"
- :side :corp
- :stripped-text "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1."
- :stripped-title "Sting!"
- :subtype [:ambush]
- :text "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1."
- :title "Sting!"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "sting",
+ :side :corp,
+ :stripped-text
+   "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1.",
+ :stripped-title "Sting!",
+ :subtype [:ambush],
+ :text
+   "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1.",
+ :title "Sting!",
+ :type :agenda,
  :uniqueness false}

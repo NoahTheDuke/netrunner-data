@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-runner
- :id "qianju-pt"
- :influence-cost 0
- :side :runner
- :stripped-text "When your turn begins, you may lose click. If you do, prevent the first tag you would take until your next turn begins."
- :stripped-title "Qianju PT"
- :subtype [:vehicle]
- :text "When your turn begins, you may lose [click]. If you do, prevent the first tag you would take until your next turn begins."
- :title "Qianju PT"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "qianju-pt",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, you may lose click. If you do, prevent the first tag you would take until your next turn begins.",
+ :stripped-title "Qianju PT",
+ :subtype [:vehicle],
+ :text
+   "When your turn begins, you may lose [click]. If you do, prevent the first tag you would take until your next turn begins.",
+ :title "Qianju PT",
+ :type :hardware,
  :uniqueness false}

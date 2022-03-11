@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :jinteki
- :id "chronos-protocol-selective-mind-mapping"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "For the first net damage the Runner suffers each turn, you may look at the Runner's grip and select the card that is trashed."
- :stripped-title "Chronos Protocol: Selective Mind-mapping"
- :subtype [:division]
- :text "For the first net damage the Runner suffers each turn, you may look at the Runner's grip and select the card that is trashed."
- :title "Chronos Protocol: Selective Mind-mapping"
- :type :identity
+{:deck-limit 1,
+ :faction :jinteki,
+ :id "chronos-protocol-selective-mind-mapping",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text
+   "For the first net damage the Runner suffers each turn, you may look at the Runner's grip and select the card that is trashed.",
+ :stripped-title "Chronos Protocol: Selective Mind-mapping",
+ :subtype [:division],
+ :text
+   "For the first net damage the Runner suffers each turn, you may look at the Runner's grip and select the card that is trashed.",
+ :title "Chronos Protocol: Selective Mind-mapping",
+ :type :identity,
  :uniqueness false}

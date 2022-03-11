@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :jinteki
- :id "crick"
- :influence-cost 3
- :side :corp
- :strength 3
- :stripped-text "Crick has +3 strength while protecting Archives. Subroutine Install a card from Archives (paying its install cost)."
- :stripped-title "Crick"
- :subtype [:code-gate]
- :text "Crick has +3 strength while protecting Archives.\n[subroutine] Install a card from Archives (paying its install cost)."
- :title "Crick"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "crick",
+ :influence-cost 3,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Crick has +3 strength while protecting Archives. Subroutine Install a card from Archives (paying its install cost).",
+ :stripped-title "Crick",
+ :subtype [:code-gate],
+ :text
+   "Crick has +3 strength while protecting Archives.\n[subroutine] Install a card from Archives (paying its install cost).",
+ :title "Crick",
+ :type :ice,
  :uniqueness false}

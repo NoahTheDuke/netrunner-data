@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "code-replicator"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out."
- :stripped-title "Code Replicator"
- :text "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out."
- :title "Code Replicator"
- :trash-cost 2
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "code-replicator",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out.",
+ :stripped-title "Code Replicator",
+ :text
+   "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out.",
+ :title "Code Replicator",
+ :trash-cost 2,
+ :type :upgrade,
  :uniqueness false}

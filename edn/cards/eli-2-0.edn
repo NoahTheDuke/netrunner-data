@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :haas-bioroid
- :id "eli-2-0"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine You may draw 1 card. Subroutine End the run. Subroutine End the run."
- :stripped-title "Eli 2.0"
- :subtype [:barrier :bioroid]
- :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] You may draw 1 card.\n[subroutine] End the run.\n[subroutine] End the run."
- :title "Eli 2.0"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "eli-2-0",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine You may draw 1 card. Subroutine End the run. Subroutine End the run.",
+ :stripped-title "Eli 2.0",
+ :subtype [:barrier :bioroid],
+ :text
+   "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] You may draw 1 card.\n[subroutine] End the run.\n[subroutine] End the run.",
+ :title "Eli 2.0",
+ :type :ice,
  :uniqueness false}

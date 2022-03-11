@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "crypt"
- :influence-cost 1
- :side :runner
- :stripped-text "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt. click, trash, 3 hosted virus counters: Search your stack for a virus program and install it (paying its install cost), then shuffle your stack."
- :stripped-title "Crypt"
- :subtype [:virtual]
- :text "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt.\n[click], [trash], <strong>3 hosted virus counters</strong>: Search your stack for a <strong>virus</strong> program and install it (paying its install cost), then shuffle your stack."
- :title "Crypt"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "crypt",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt. click, trash, 3 hosted virus counters: Search your stack for a virus program and install it (paying its install cost), then shuffle your stack.",
+ :stripped-title "Crypt",
+ :subtype [:virtual],
+ :text
+   "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt.\n[click], [trash], <strong>3 hosted virus counters</strong>: Search your stack for a <strong>virus</strong> program and install it (paying its install cost), then shuffle your stack.",
+ :title "Crypt",
+ :type :resource,
  :uniqueness false}

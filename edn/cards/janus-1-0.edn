@@ -1,14 +1,16 @@
-{:cost 15
- :deck-limit 3
- :faction :haas-bioroid
- :id "janus-1-0"
- :influence-cost 3
- :side :corp
- :strength 8
- :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage."
- :stripped-title "Janus 1.0"
- :subtype [:sentry :bioroid :ap]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage."
- :title "Janus 1.0"
- :type :ice
+{:cost 15,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "janus-1-0",
+ :influence-cost 3,
+ :side :corp,
+ :strength 8,
+ :stripped-text
+   "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage.",
+ :stripped-title "Janus 1.0",
+ :subtype [:sentry :bioroid :ap],
+ :text
+   "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.",
+ :title "Janus 1.0",
+ :type :ice,
  :uniqueness false}

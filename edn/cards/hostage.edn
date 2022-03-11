@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "hostage"
- :influence-cost 2
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Search your stack for a connection, reveal it, and add it to your grip. You may install that connection (paying its install cost). Shuffle your stack."
- :stripped-title "Hostage"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack."
- :title "Hostage"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "hostage",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Search your stack for a connection, reveal it, and add it to your grip. You may install that connection (paying its install cost). Shuffle your stack.",
+ :stripped-title "Hostage",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack.",
+ :title "Hostage",
+ :type :event,
  :uniqueness false}

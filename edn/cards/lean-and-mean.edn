@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "lean-and-mean"
- :influence-cost 1
- :side :runner
- :stripped-text "Make a run. If you have 3 or fewer programs installed, all icebreakers have +2 strength during this run."
- :stripped-title "Lean and Mean"
- :subtype [:run]
- :text "Make a run. If you have 3 or fewer programs installed, all <strong>icebreakers</strong> have +2 strength during this run."
- :title "Lean and Mean"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "lean-and-mean",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Make a run. If you have 3 or fewer programs installed, all icebreakers have +2 strength during this run.",
+ :stripped-title "Lean and Mean",
+ :subtype [:run],
+ :text
+   "Make a run. If you have 3 or fewer programs installed, all <strong>icebreakers</strong> have +2 strength during this run.",
+ :title "Lean and Mean",
+ :type :event,
  :uniqueness false}

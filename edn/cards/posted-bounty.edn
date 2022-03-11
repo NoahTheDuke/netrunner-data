@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "posted-bounty"
- :side :corp
- :stripped-text "When you score Posted Bounty, you may forfeit it to give the Runner 1 tag and take 1 bad publicity."
- :stripped-title "Posted Bounty"
- :subtype [:security]
- :text "When you score Posted Bounty, you may forfeit it to give the Runner 1 tag and take 1 bad publicity."
- :title "Posted Bounty"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "posted-bounty",
+ :side :corp,
+ :stripped-text
+   "When you score Posted Bounty, you may forfeit it to give the Runner 1 tag and take 1 bad publicity.",
+ :stripped-title "Posted Bounty",
+ :subtype [:security],
+ :text
+   "When you score Posted Bounty, you may forfeit it to give the Runner 1 tag and take 1 bad publicity.",
+ :title "Posted Bounty",
+ :type :agenda,
  :uniqueness false}

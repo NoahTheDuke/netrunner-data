@@ -1,14 +1,15 @@
-{:base-link 0
- :deck-limit 1
- :faction :criminal
- :id "ken-express-tenma-disappeared-clone"
- :influence-limit 17
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first time each turn you play a run event, gain 1 credit."
- :stripped-title "Ken \"Express\" Tenma: Disappeared Clone"
- :subtype [:clone]
- :text "The first time each turn you play a <strong>run</strong> event, gain 1[credit]."
- :title "Ken \"Express\" Tenma: Disappeared Clone"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :criminal,
+ :id "ken-express-tenma-disappeared-clone",
+ :influence-limit 17,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text "The first time each turn you play a run event, gain 1 credit.",
+ :stripped-title "Ken \"Express\" Tenma: Disappeared Clone",
+ :subtype [:clone],
+ :text
+   "The first time each turn you play a <strong>run</strong> event, gain 1[credit].",
+ :title "Ken \"Express\" Tenma: Disappeared Clone",
+ :type :identity,
  :uniqueness false}

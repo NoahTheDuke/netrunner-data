@@ -1,13 +1,13 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "magnum-opus"
- :influence-cost 2
- :memory-cost 2
- :side :runner
- :stripped-text "click: Gain 2 credits."
- :stripped-title "Magnum Opus"
- :text "[click]: Gain 2[credit]."
- :title "Magnum Opus"
- :type :program
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "magnum-opus",
+ :influence-cost 2,
+ :memory-cost 2,
+ :side :runner,
+ :stripped-text "click: Gain 2 credits.",
+ :stripped-title "Magnum Opus",
+ :text "[click]: Gain 2[credit].",
+ :title "Magnum Opus",
+ :type :program,
  :uniqueness false}

@@ -1,133 +1,141 @@
-[{:card-id "immolation-script"
-  :code "08041"
-  :flavor "The most potent scripts are indistinguishable from magic to the sysop on the other side."
-  :illustrator "Hannah Christenson"
-  :position 41
-  :quantity 3
+[{:card-id "immolation-script",
+  :code "08041",
+  :flavor
+    "The most potent scripts are indistinguishable from magic to the sysop on the other side.",
+  :illustrator "Hannah Christenson",
+  :position 41,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "skulljack"
-  :code "08042"
-  :flavor "The implanted brain-machine interface, or \"skulljack,\" is the single most common cybernetic enhancement that isn't a medical necessity."
-  :illustrator "Aaron Agregado"
-  :position 42
-  :quantity 3
+ {:card-id "skulljack",
+  :code "08042",
+  :flavor
+    "The implanted brain-machine interface, or \"skulljack,\" is the single most common cybernetic enhancement that isn't a medical necessity.",
+  :illustrator "Aaron Agregado",
+  :position 42,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "turntable"
-  :code "08043"
-  :illustrator "Sara K. Diesel"
-  :position 43
-  :quantity 3
+ {:card-id "turntable",
+  :code "08043",
+  :illustrator "Sara K. Diesel",
+  :position 43,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "chrome-parlor"
-  :code "08044"
-  :flavor "Picking a chopper might be the last decision you make. If you find a good one, stick with her for life."
-  :illustrator "James Ives"
-  :position 44
-  :quantity 3
+ {:card-id "chrome-parlor",
+  :code "08044",
+  :flavor
+    "Picking a chopper might be the last decision you make. If you find a good one, stick with her for life.",
+  :illustrator "James Ives",
+  :position 44,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "titanium-ribs"
-  :code "08045"
-  :illustrator "Matt Zeilinger"
-  :position 45
-  :quantity 3
+ {:card-id "titanium-ribs",
+  :code "08045",
+  :illustrator "Matt Zeilinger",
+  :position 45,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "crowbar"
-  :code "08046"
-  :illustrator "Ed Mattinian"
-  :position 46
-  :quantity 3
+ {:card-id "crowbar",
+  :code "08046",
+  :illustrator "Ed Mattinian",
+  :position 46,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "net-ready-eyes"
-  :code "08047"
-  :illustrator "Ethan Patrick Harris"
-  :position 47
-  :quantity 3
+ {:card-id "net-ready-eyes",
+  :code "08047",
+  :illustrator "Ethan Patrick Harris",
+  :position 47,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "analog-dreamers"
-  :code "08048"
-  :flavor "Sometimes progress means returning to the past."
-  :illustrator "Laura Wilson"
-  :position 48
-  :quantity 3
+ {:card-id "analog-dreamers",
+  :code "08048",
+  :flavor "Sometimes progress means returning to the past.",
+  :illustrator "Laura Wilson",
+  :position 48,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "brain-cage"
-  :code "08049"
-  :flavor "The skull is not one bone, but 22. The surgery is even more complex than it sounds."
-  :illustrator "Mike Nesbitt"
-  :position 49
-  :quantity 3
+ {:card-id "brain-cage",
+  :code "08049",
+  :flavor
+    "The skull is not one bone, but 22. The surgery is even more complex than it sounds.",
+  :illustrator "Mike Nesbitt",
+  :position 49,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "cybernetics-division-humanity-upgraded"
-  :code "08050"
-  :flavor "Define Yourself."
-  :illustrator "Greg Semkow"
-  :position 50
-  :quantity 3
+ {:card-id "cybernetics-division-humanity-upgraded",
+  :code "08050",
+  :flavor "Define Yourself.",
+  :illustrator "Greg Semkow",
+  :position 50,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "self-destruct-chips"
-  :code "08051"
-  :flavor "Cyber enhancements can be dangerous in the wrong hands."
-  :illustrator "Abrar Ajmal"
-  :position 51
-  :quantity 3
+ {:card-id "self-destruct-chips",
+  :code "08051",
+  :flavor "Cyber enhancements can be dangerous in the wrong hands.",
+  :illustrator "Abrar Ajmal",
+  :position 51,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "lab-dog"
-  :code "08052"
-  :flavor "\"Remember those FCC regulations about not creating harmful interference? No? Ah, before your time, I guess.\" -Cailan Heinrich, Senior Programmer"
-  :illustrator "Liiga Smilshkalne"
-  :position 52
-  :quantity 3
+ {:card-id "lab-dog",
+  :code "08052",
+  :flavor
+    "\"Remember those FCC regulations about not creating harmful interference? No? Ah, before your time, I guess.\" -Cailan Heinrich, Senior Programmer",
+  :illustrator "Liiga Smilshkalne",
+  :position 52,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "oaktown-grid"
-  :code "08053"
-  :flavor "Built Oaktown tough."
-  :illustrator "Maciej Rebisz"
-  :position 53
-  :quantity 3
+ {:card-id "oaktown-grid",
+  :code "08053",
+  :flavor "Built Oaktown tough.",
+  :illustrator "Maciej Rebisz",
+  :position 53,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "ryon-knight"
-  :code "08054"
-  :flavor "\"Bioroids recognize consciousness in others, but not in themselves.\""
-  :illustrator "Roderick Constance"
-  :position 54
-  :quantity 3
+ {:card-id "ryon-knight",
+  :code "08054",
+  :flavor
+    "\"Bioroids recognize consciousness in others, but not in themselves.\"",
+  :illustrator "Roderick Constance",
+  :position 54,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "clairvoyant-monitor"
-  :code "08055"
-  :illustrator "Seage"
-  :position 55
-  :quantity 3
+ {:card-id "clairvoyant-monitor",
+  :code "08055",
+  :illustrator "Seage",
+  :position 55,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "lockdown"
-  :code "08056"
-  :flavor "\"When your communications are disrupted, you are isolated from your resources. An attack will surely follow.\" -The Playbook"
-  :illustrator "Andreas Zafiratos"
-  :position 56
-  :quantity 3
+ {:card-id "lockdown",
+  :code "08056",
+  :flavor
+    "\"When your communications are disrupted, you are isolated from your resources. An attack will surely follow.\" -The Playbook",
+  :illustrator "Andreas Zafiratos",
+  :position 56,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "little-engine"
-  :code "08057"
-  :flavor "\"A sysop is not just a cog in the corporate machine. They have dreams—and nightmares—just like the rest of us.\" -Kate \"Mac\" McCaffrey"
-  :illustrator "Liiga Smilshkalne"
-  :position 57
-  :quantity 3
+ {:card-id "little-engine",
+  :code "08057",
+  :flavor
+    "\"A sysop is not just a cog in the corporate machine. They have dreams—and nightmares—just like the rest of us.\" -Kate \"Mac\" McCaffrey",
+  :illustrator "Liiga Smilshkalne",
+  :position 57,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "oaktown-renovation"
-  :code "08058"
-  :illustrator "Maciej Rebisz"
-  :position 58
-  :quantity 3
+ {:card-id "oaktown-renovation",
+  :code "08058",
+  :illustrator "Maciej Rebisz",
+  :position 58,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "corporate-town"
-  :code "08059"
-  :flavor "If you can't buy the city council, create a new city."
-  :illustrator "Matt Zeilinger"
-  :position 59
-  :quantity 3
+ {:card-id "corporate-town",
+  :code "08059",
+  :flavor "If you can't buy the city council, create a new city.",
+  :illustrator "Matt Zeilinger",
+  :position 59,
+  :quantity 3,
   :set-id "chrome-city"}
- {:card-id "quicksand"
-  :code "08060"
-  :illustrator "Dmitry Prosvirnin"
-  :position 60
-  :quantity 3
+ {:card-id "quicksand",
+  :code "08060",
+  :illustrator "Dmitry Prosvirnin",
+  :position 60,
+  :quantity 3,
   :set-id "chrome-city"}]

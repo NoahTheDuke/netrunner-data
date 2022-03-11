@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "psych-mike"
- :influence-cost 4
- :side :runner
- :stripped-text "The first time each turn a successful run on R&D ends, you may gain 1 credit for each time you accessed a card in R&D during that run."
- :stripped-title "Psych Mike"
- :subtype [:connection]
- :text "The first time each turn a successful run on R&D ends, you may gain 1[credit] for each time you accessed a card in R&D during that run."
- :title "Psych Mike"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "psych-mike",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "The first time each turn a successful run on R&D ends, you may gain 1 credit for each time you accessed a card in R&D during that run.",
+ :stripped-title "Psych Mike",
+ :subtype [:connection],
+ :text
+   "The first time each turn a successful run on R&D ends, you may gain 1[credit] for each time you accessed a card in R&D during that run.",
+ :title "Psych Mike",
+ :type :resource,
  :uniqueness true}

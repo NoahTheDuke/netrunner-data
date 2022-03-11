@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "spear-phishing"
- :influence-cost 3
- :side :runner
- :stripped-text "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it."
- :stripped-title "Spear Phishing"
- :subtype [:run]
- :text "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it."
- :title "Spear Phishing"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "spear-phishing",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it.",
+ :stripped-title "Spear Phishing",
+ :subtype [:run],
+ :text
+   "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it.",
+ :title "Spear Phishing",
+ :type :event,
  :uniqueness false}

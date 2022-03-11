@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :criminal
- :id "desperado"
- :influence-cost 3
- :side :runner
- :stripped-text "+1 mu Gain 1 credit whenever you make a successful run. Limit 1 console per player."
- :stripped-title "Desperado"
- :subtype [:console]
- :text "+1[mu]\nGain 1[credit] whenever you make a successful run.\nLimit 1 <strong>console</strong> per player."
- :title "Desperado"
- :type :hardware
+{:cost 3,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "desperado",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "+1 mu Gain 1 credit whenever you make a successful run. Limit 1 console per player.",
+ :stripped-title "Desperado",
+ :subtype [:console],
+ :text
+   "+1[mu]\nGain 1[credit] whenever you make a successful run.\nLimit 1 <strong>console</strong> per player.",
+ :title "Desperado",
+ :type :hardware,
  :uniqueness true}

@@ -1,12 +1,14 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "archives-interface"
- :influence-cost 2
- :side :runner
- :stripped-text "Interrupt -> Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives."
- :stripped-title "Archives Interface"
- :text "[interrupt] → Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives."
- :title "Archives Interface"
- :type :hardware
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "archives-interface",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Interrupt -> Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.",
+ :stripped-title "Archives Interface",
+ :text
+   "[interrupt] → Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.",
+ :title "Archives Interface",
+ :type :hardware,
  :uniqueness false}

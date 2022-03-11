@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "harmony-ar-therapy"
- :influence-cost 3
- :side :runner
- :stripped-text "Search your heap for up to 5 cards with different names. Shuffle those cards into your stack. Remove this card from the game instead of trashing it."
- :stripped-title "Harmony AR Therapy"
- :text "Search your heap for up to 5 cards with different names. Shuffle those cards into your stack. Remove this card from the game instead of trashing it."
- :title "Harmony AR Therapy"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "harmony-ar-therapy",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Search your heap for up to 5 cards with different names. Shuffle those cards into your stack. Remove this card from the game instead of trashing it.",
+ :stripped-title "Harmony AR Therapy",
+ :text
+   "Search your heap for up to 5 cards with different names. Shuffle those cards into your stack. Remove this card from the game instead of trashing it.",
+ :title "Harmony AR Therapy",
+ :type :event,
  :uniqueness false}

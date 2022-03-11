@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :weyland-consortium
- :id "weyland-consortium-built-to-last"
- :influence-limit 15
- :minimum-deck-size 40
- :side :corp
- :stripped-text "Whenever you advance a card, gain 2 credits if it had no advancement counters."
- :stripped-title "Weyland Consortium: Built to Last"
- :subtype [:megacorp]
- :text "Whenever you advance a card, gain 2[credit] if it had no advancement counters."
- :title "Weyland Consortium: Built to Last"
- :type :identity
+{:deck-limit 1,
+ :faction :weyland-consortium,
+ :id "weyland-consortium-built-to-last",
+ :influence-limit 15,
+ :minimum-deck-size 40,
+ :side :corp,
+ :stripped-text
+   "Whenever you advance a card, gain 2 credits if it had no advancement counters.",
+ :stripped-title "Weyland Consortium: Built to Last",
+ :subtype [:megacorp],
+ :text
+   "Whenever you advance a card, gain 2[credit] if it had no advancement counters.",
+ :title "Weyland Consortium: Built to Last",
+ :type :identity,
  :uniqueness false}

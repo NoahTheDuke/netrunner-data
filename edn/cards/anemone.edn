@@ -1,0 +1,16 @@
+{:cost 3,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "anemone",
+ :influence-cost 2,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage. Subroutine Do 1 net damage.",
+ :stripped-title "Anemone",
+ :subtype [:sentry :ap],
+ :text
+   "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage.\n[subroutine] Do 1 net damage.",
+ :title "Anemone",
+ :type :ice,
+ :uniqueness false}

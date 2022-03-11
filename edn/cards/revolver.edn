@@ -1,0 +1,17 @@
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "revolver",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :strength 1,
+ :stripped-text
+   "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credits: +3 strength.",
+ :stripped-title "Revolver",
+ :subtype [:icebreaker :killer :weapon],
+ :text
+   "When you install this program, place 6 power counters on it.\nInterface → [trash] or hosted power counter: Break 1 <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.",
+ :title "Revolver",
+ :type :program,
+ :uniqueness false}

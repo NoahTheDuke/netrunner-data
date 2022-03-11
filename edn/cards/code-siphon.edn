@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "code-siphon"
- :influence-cost 4
- :side :runner
- :stripped-text "Run R&D. If successful, instead of breaching R&D, you may search your stack for 1 program. Install it, paying 3 credits less for each piece of ice protecting R&D, and then take 1 tag."
- :stripped-title "Code Siphon"
- :subtype [:run]
- :text "Run R&D. If successful, instead of breaching R&D, you may search your stack for 1 program. Install it, paying 3[credit] less for each piece of ice protecting R&D, and then take 1 tag."
- :title "Code Siphon"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "code-siphon",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "Run R&D. If successful, instead of breaching R&D, you may search your stack for 1 program. Install it, paying 3 credits less for each piece of ice protecting R&D, and then take 1 tag.",
+ :stripped-title "Code Siphon",
+ :subtype [:run],
+ :text
+   "Run R&D. If successful, instead of breaching R&D, you may search your stack for 1 program. Install it, paying 3[credit] less for each piece of ice protecting R&D, and then take 1 tag.",
+ :title "Code Siphon",
+ :type :event,
  :uniqueness false}

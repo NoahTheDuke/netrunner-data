@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "encore"
- :influence-cost 4
- :side :runner
- :stripped-text "Play only if you made a successful run on R&D, HQ, and Archives this turn. Take an additional turn after this one. Remove Encore from the game instead of trashing it."
- :stripped-title "Encore"
- :text "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one. Remove Encore from the game instead of trashing it."
- :title "Encore"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "encore",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "Play only if you made a successful run on R&D, HQ, and Archives this turn. Take an additional turn after this one. Remove Encore from the game instead of trashing it.",
+ :stripped-title "Encore",
+ :text
+   "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one. Remove Encore from the game instead of trashing it.",
+ :title "Encore",
+ :type :event,
  :uniqueness false}

@@ -1,13 +1,13 @@
-{:cost 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "capital-investors"
- :influence-cost 2
- :side :corp
- :stripped-text "click: Gain 2 credits."
- :stripped-title "Capital Investors"
- :text "[click]: Gain 2[credit]."
- :title "Capital Investors"
- :trash-cost 2
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "capital-investors",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text "click: Gain 2 credits.",
+ :stripped-title "Capital Investors",
+ :text "[click]: Gain 2[credit].",
+ :title "Capital Investors",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

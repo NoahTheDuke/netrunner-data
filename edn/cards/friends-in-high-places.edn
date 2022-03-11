@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "friends-in-high-places"
- :influence-cost 1
- :side :corp
- :stripped-text "After you resolve this operation, end your action phase. Install up to 2 cards from Archives (paying all install costs)."
- :stripped-title "Friends in High Places"
- :subtype [:terminal]
- :text "After you resolve this operation, end your action phase.\nInstall up to 2 cards from Archives (paying all install costs)."
- :title "Friends in High Places"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "friends-in-high-places",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "After you resolve this operation, end your action phase. Install up to 2 cards from Archives (paying all install costs).",
+ :stripped-title "Friends in High Places",
+ :subtype [:terminal],
+ :text
+   "After you resolve this operation, end your action phase.\nInstall up to 2 cards from Archives (paying all install costs).",
+ :title "Friends in High Places",
+ :type :operation,
  :uniqueness false}

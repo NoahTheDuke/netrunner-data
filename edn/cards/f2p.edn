@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :nbn
- :id "f2p"
- :influence-cost 2
- :side :corp
- :strength 5
- :stripped-text "2 credits: Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged. Subroutine Add 1 installed Runner card to the grip. Subroutine Give the Runner 1 tag."
- :stripped-title "F2P"
- :subtype [:sentry]
- :text "2[credit]: Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged.\n[subroutine] Add 1 installed Runner card to the grip.\n[subroutine] Give the Runner 1 tag."
- :title "F2P"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "f2p",
+ :influence-cost 2,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "2 credits: Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged. Subroutine Add 1 installed Runner card to the grip. Subroutine Give the Runner 1 tag.",
+ :stripped-title "F2P",
+ :subtype [:sentry],
+ :text
+   "2[credit]: Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged.\n[subroutine] Add 1 installed Runner card to the grip.\n[subroutine] Give the Runner 1 tag.",
+ :title "F2P",
+ :type :ice,
  :uniqueness false}

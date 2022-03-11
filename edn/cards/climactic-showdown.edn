@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "climactic-showdown"
- :influence-cost 5
- :side :runner
- :stripped-text "When your turn begins, remove this resource from the game. Choose a server protected by ice. The Corp may trash 1 piece of ice protecting that server. If they do not, the first time this turn you breach either R&D or HQ, access 2 additional cards."
- :stripped-title "Climactic Showdown"
- :text "When your turn begins, remove this resource from the game. Choose a server protected by ice. The Corp may trash 1 piece of ice protecting that server. If they do not, the first time this turn you breach either R&D or HQ, access 2 additional cards."
- :title "Climactic Showdown"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "climactic-showdown",
+ :influence-cost 5,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, remove this resource from the game. Choose a server protected by ice. The Corp may trash 1 piece of ice protecting that server. If they do not, the first time this turn you breach either R&D or HQ, access 2 additional cards.",
+ :stripped-title "Climactic Showdown",
+ :text
+   "When your turn begins, remove this resource from the game. Choose a server protected by ice. The Corp may trash 1 piece of ice protecting that server. If they do not, the first time this turn you breach either R&D or HQ, access 2 additional cards.",
+ :title "Climactic Showdown",
+ :type :resource,
  :uniqueness true}

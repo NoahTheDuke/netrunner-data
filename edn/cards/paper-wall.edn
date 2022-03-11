@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "paper-wall"
- :influence-cost 0
- :side :corp
- :strength 1
- :stripped-text "When the Runner fully breaks this ice, trash it. Subroutine End the run."
- :stripped-title "Paper Wall"
- :subtype [:barrier]
- :text "When the Runner fully breaks this ice, trash it.\n[subroutine] End the run."
- :title "Paper Wall"
- :type :ice
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "paper-wall",
+ :influence-cost 0,
+ :side :corp,
+ :strength 1,
+ :stripped-text
+   "When the Runner fully breaks this ice, trash it. Subroutine End the run.",
+ :stripped-title "Paper Wall",
+ :subtype [:barrier],
+ :text
+   "When the Runner fully breaks this ice, trash it.\n[subroutine] End the run.",
+ :title "Paper Wall",
+ :type :ice,
  :uniqueness false}

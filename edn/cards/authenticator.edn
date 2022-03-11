@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :nbn
- :id "authenticator"
- :influence-cost 1
- :side :corp
- :strength 4
- :stripped-text "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it. Subroutine The Corp gains 2 credits. Subroutine End the run."
- :stripped-title "Authenticator"
- :subtype [:code-gate]
- :text "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it.\n[subroutine] The Corp gains 2[credit].\n[subroutine]End the run."
- :title "Authenticator"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "authenticator",
+ :influence-cost 1,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it. Subroutine The Corp gains 2 credits. Subroutine End the run.",
+ :stripped-title "Authenticator",
+ :subtype [:code-gate],
+ :text
+   "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it.\n[subroutine] The Corp gains 2[credit].\n[subroutine]End the run.",
+ :title "Authenticator",
+ :type :ice,
  :uniqueness false}

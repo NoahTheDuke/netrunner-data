@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "interdiction"
- :influence-cost 0
- :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. The Corp cannot rez non-ice cards during the Runner's turn."
- :stripped-title "Interdiction"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp cannot rez non-ice cards during the Runner's turn."
- :title "Interdiction"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "interdiction",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is scored. The Corp cannot rez non-ice cards during the Runner's turn.",
+ :stripped-title "Interdiction",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp cannot rez non-ice cards during the Runner's turn.",
+ :title "Interdiction",
+ :type :event,
  :uniqueness false}

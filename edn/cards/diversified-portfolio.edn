@@ -1,13 +1,13 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-corp
- :id "diversified-portfolio"
- :influence-cost 0
- :side :corp
- :stripped-text "Gain 1 credit for each remote server with a card in its root."
- :stripped-title "Diversified Portfolio"
- :subtype [:transaction]
- :text "Gain 1[credit] for each remote server with a card in its root."
- :title "Diversified Portfolio"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "diversified-portfolio",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text "Gain 1 credit for each remote server with a card in its root.",
+ :stripped-title "Diversified Portfolio",
+ :subtype [:transaction],
+ :text "Gain 1[credit] for each remote server with a card in its root.",
+ :title "Diversified Portfolio",
+ :type :operation,
  :uniqueness false}

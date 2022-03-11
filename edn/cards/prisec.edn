@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "prisec"
- :influence-cost 0
- :side :corp
- :stripped-text "If the Runner accesses Prisec while installed, you may pay 2 credits to give the Runner 1 tag and do 1 meat damage."
- :stripped-title "Prisec"
- :subtype [:ambush]
- :text "If the Runner accesses Prisec while installed, you may pay 2[credit] to give the Runner 1 tag and do 1 meat damage."
- :title "Prisec"
- :trash-cost 3
- :type :upgrade
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "prisec",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "If the Runner accesses Prisec while installed, you may pay 2 credits to give the Runner 1 tag and do 1 meat damage.",
+ :stripped-title "Prisec",
+ :subtype [:ambush],
+ :text
+   "If the Runner accesses Prisec while installed, you may pay 2[credit] to give the Runner 1 tag and do 1 meat damage.",
+ :title "Prisec",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness false}

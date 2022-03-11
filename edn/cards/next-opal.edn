@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :haas-bioroid
- :id "next-opal"
- :influence-cost 1
- :side :corp
- :strength 3
- :stripped-text "This ice gains \"Subroutine You may install 1 card from HQ.\" for each rezzed piece of NEXT ice."
- :stripped-title "NEXT Opal"
- :subtype [:code-gate :observer :next]
- :text "This ice gains \"[subroutine] You may install 1 card from HQ.\" for each rezzed piece of <strong>NEXT</strong> ice."
- :title "NEXT Opal"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "next-opal",
+ :influence-cost 1,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "This ice gains \"Subroutine You may install 1 card from HQ.\" for each rezzed piece of NEXT ice.",
+ :stripped-title "NEXT Opal",
+ :subtype [:code-gate :observer :next],
+ :text
+   "This ice gains \"[subroutine] You may install 1 card from HQ.\" for each rezzed piece of <strong>NEXT</strong> ice.",
+ :title "NEXT Opal",
+ :type :ice,
  :uniqueness false}

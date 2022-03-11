@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "because-i-can"
- :influence-cost 1
- :side :runner
- :stripped-text "Run a remote server. If successful, instead of breaching that server, you may force the Corp to shuffle all cards in the root of that server into R&D."
- :stripped-title "Because I Can"
- :subtype [:run]
- :text "Run a remote server. If successful, instead of breaching that server, you may force the Corp to shuffle all cards in the root of that server into R&D."
- :title "Because I Can"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "because-i-can",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Run a remote server. If successful, instead of breaching that server, you may force the Corp to shuffle all cards in the root of that server into R&D.",
+ :stripped-title "Because I Can",
+ :subtype [:run],
+ :text
+   "Run a remote server. If successful, instead of breaching that server, you may force the Corp to shuffle all cards in the root of that server into R&D.",
+ :title "Because I Can",
+ :type :event,
  :uniqueness false}

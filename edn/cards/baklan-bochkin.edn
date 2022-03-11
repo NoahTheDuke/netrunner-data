@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "baklan-bochkin"
- :influence-cost 3
- :side :runner
- :stripped-text "The first time each run you encounter a piece of ice, place 1 power counter on this resource. trash: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag."
- :stripped-title "\"Baklan\" Bochkin"
- :subtype [:connection]
- :text "The first time each run you encounter a piece of ice, place 1 power counter on this resource.\n[trash]: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag."
- :title "\"Baklan\" Bochkin"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "baklan-bochkin",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "The first time each run you encounter a piece of ice, place 1 power counter on this resource. trash: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag.",
+ :stripped-title "\"Baklan\" Bochkin",
+ :subtype [:connection],
+ :text
+   "The first time each run you encounter a piece of ice, place 1 power counter on this resource.\n[trash]: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag.",
+ :title "\"Baklan\" Bochkin",
+ :type :resource,
  :uniqueness true}

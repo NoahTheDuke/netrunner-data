@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "it-s-a-trap"
- :influence-cost 3
- :side :corp
- :strength 0
- :stripped-text "Whenever It's a Trap! is exposed, do 2 net damage. Subroutine The Runner trashes 1 of his or her installed cards. Trash It's a Trap!."
- :stripped-title "It's a Trap!"
- :subtype [:trap]
- :text "Whenever It's a Trap! is exposed, do 2 net damage.\n[subroutine] The Runner trashes 1 of his or her installed cards. Trash It's a Trap!."
- :title "It's a Trap!"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "it-s-a-trap",
+ :influence-cost 3,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "Whenever It's a Trap! is exposed, do 2 net damage. Subroutine The Runner trashes 1 of his or her installed cards. Trash It's a Trap!.",
+ :stripped-title "It's a Trap!",
+ :subtype [:trap],
+ :text
+   "Whenever It's a Trap! is exposed, do 2 net damage.\n[subroutine] The Runner trashes 1 of his or her installed cards. Trash It's a Trap!.",
+ :title "It's a Trap!",
+ :type :ice,
  :uniqueness false}

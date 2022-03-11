@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "shipment-from-tennin"
- :influence-cost 3
- :side :corp
- :stripped-text "Play only if the Runner did not make a successful run during his or her last turn. Place 2 advancement tokens on 1 card."
- :stripped-title "Shipment from Tennin"
- :text "Play only if the Runner did not make a successful run during his or her last turn.\nPlace 2 advancement tokens on 1 card."
- :title "Shipment from Tennin"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "shipment-from-tennin",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Play only if the Runner did not make a successful run during his or her last turn. Place 2 advancement tokens on 1 card.",
+ :stripped-title "Shipment from Tennin",
+ :text
+   "Play only if the Runner did not make a successful run during his or her last turn.\nPlace 2 advancement tokens on 1 card.",
+ :title "Shipment from Tennin",
+ :type :operation,
  :uniqueness false}

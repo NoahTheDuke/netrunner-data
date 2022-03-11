@@ -1,15 +1,17 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "zu-13-key-master"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :strength 1
- :stripped-text "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength."
- :stripped-title "ZU.13 Key Master"
- :subtype [:icebreaker :decoder :cloud]
- :text "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength."
- :title "ZU.13 Key Master"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "zu-13-key-master",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :strength 1,
+ :stripped-text
+   "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength.",
+ :stripped-title "ZU.13 Key Master",
+ :subtype [:icebreaker :decoder :cloud],
+ :text
+   "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
+ :title "ZU.13 Key Master",
+ :type :program,
  :uniqueness false}

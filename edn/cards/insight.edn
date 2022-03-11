@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "insight"
- :influence-cost 2
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. The Corp may look at the top 4 cards of R&D and arrange them in any order. Reveal the top 4 cards of R&D."
- :stripped-title "Insight"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D."
- :title "Insight"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "insight",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. The Corp may look at the top 4 cards of R&D and arrange them in any order. Reveal the top 4 cards of R&D.",
+ :stripped-title "Insight",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D.",
+ :title "Insight",
+ :type :event,
  :uniqueness false}

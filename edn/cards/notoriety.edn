@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "notoriety"
- :influence-cost 1
- :side :runner
- :stripped-text "Play only if you made a successful run on R&D, HQ, and Archives this turn. Add Notoriety to your score area as an agenda worth 1 agenda point."
- :stripped-title "Notoriety"
- :text "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAdd Notoriety to your score area as an agenda worth 1 agenda point."
- :title "Notoriety"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "notoriety",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Play only if you made a successful run on R&D, HQ, and Archives this turn. Add Notoriety to your score area as an agenda worth 1 agenda point.",
+ :stripped-title "Notoriety",
+ :text
+   "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAdd Notoriety to your score area as an agenda worth 1 agenda point.",
+ :title "Notoriety",
+ :type :event,
  :uniqueness false}

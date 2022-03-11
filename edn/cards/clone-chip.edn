@@ -1,13 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "clone-chip"
- :influence-cost 2
- :side :runner
- :stripped-text "trash: Install a program from your heap (paying the install cost)."
- :stripped-title "Clone Chip"
- :subtype [:chip]
- :text "[trash]: Install a program from your heap (paying the install cost)."
- :title "Clone Chip"
- :type :hardware
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "clone-chip",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "trash: Install a program from your heap (paying the install cost).",
+ :stripped-title "Clone Chip",
+ :subtype [:chip],
+ :text "[trash]: Install a program from your heap (paying the install cost).",
+ :title "Clone Chip",
+ :type :hardware,
  :uniqueness false}

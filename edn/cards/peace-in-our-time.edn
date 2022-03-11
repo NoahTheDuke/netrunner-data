@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "peace-in-our-time"
- :influence-cost 1
- :side :runner
- :stripped-text "Play only as your first click and only if the Corp scored no agendas during his or her last turn. Gain 10 credits. The Corp gains 5 credits. You cannot initiate any runs this turn."
- :stripped-title "Peace in Our Time"
- :subtype [:priority]
- :text "Play only as your first [click] and only if the Corp scored no agendas during his or her last turn.\nGain 10[credit]. The Corp gains 5[credit]. You cannot initiate any runs this turn."
- :title "Peace in Our Time"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "peace-in-our-time",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Play only as your first click and only if the Corp scored no agendas during his or her last turn. Gain 10 credits. The Corp gains 5 credits. You cannot initiate any runs this turn.",
+ :stripped-title "Peace in Our Time",
+ :subtype [:priority],
+ :text
+   "Play only as your first [click] and only if the Corp scored no agendas during his or her last turn.\nGain 10[credit]. The Corp gains 5[credit]. You cannot initiate any runs this turn.",
+ :title "Peace in Our Time",
+ :type :event,
  :uniqueness false}

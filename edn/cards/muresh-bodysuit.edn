@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "muresh-bodysuit"
- :influence-cost 1
- :side :runner
- :stripped-text "Interrupt -> The first time each turn you would take meat damage, prevent 1 meat damage. Errata from CR 1.4"
- :stripped-title "Muresh Bodysuit"
- :subtype [:gear]
- :text "[interrupt] → The first time each turn you would take meat damage, prevent 1 meat damage.\n<errata>Errata from CR 1.4</errata>"
- :title "Muresh Bodysuit"
- :type :hardware
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "muresh-bodysuit",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Interrupt -> The first time each turn you would take meat damage, prevent 1 meat damage. Errata from CR 1.4",
+ :stripped-title "Muresh Bodysuit",
+ :subtype [:gear],
+ :text
+   "[interrupt] → The first time each turn you would take meat damage, prevent 1 meat damage.\n<errata>Errata from CR 1.4</errata>",
+ :title "Muresh Bodysuit",
+ :type :hardware,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:advancement-requirement 5
- :agenda-points 3
- :deck-limit 3
- :faction :nbn
- :id "reeducation"
- :side :corp
- :stripped-text "When you score Reeducation, add any number of cards from HQ to the bottom of R&D and draw that many cards. The Runner randomly adds the same number of cards from his or her grip to the bottom of the stack, if able."
- :stripped-title "Reeducation"
- :subtype [:initiative]
- :text "When you score Reeducation, add any number of cards from HQ to the bottom of R&D and draw that many cards. The Runner randomly adds the same number of cards from his or her grip to the bottom of the stack, if able."
- :title "Reeducation"
- :type :agenda
+{:advancement-requirement 5,
+ :agenda-points 3,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "reeducation",
+ :side :corp,
+ :stripped-text
+   "When you score Reeducation, add any number of cards from HQ to the bottom of R&D and draw that many cards. The Runner randomly adds the same number of cards from his or her grip to the bottom of the stack, if able.",
+ :stripped-title "Reeducation",
+ :subtype [:initiative],
+ :text
+   "When you score Reeducation, add any number of cards from HQ to the bottom of R&D and draw that many cards. The Runner randomly adds the same number of cards from his or her grip to the bottom of the stack, if able.",
+ :title "Reeducation",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 4
- :deck-limit 3
- :faction :nbn
- :id "game-over"
- :influence-cost 3
- :side :corp
- :stripped-text "Play only if the Runner stole an agenda during their last turn. Choose a Runner card type. Trash all installed non-icebreaker cards of that type. The Runner may prevent any of those cards from being trashed by paying 3 credits each. Take 1 bad publicity."
- :stripped-title "Game Over"
- :subtype [:illicit :gray-ops]
- :text "Play only if the Runner stole an agenda during their last turn.\nChoose a Runner card type. Trash all installed non-<strong>icebreaker</strong> cards of that type. The Runner may prevent any of those cards from being trashed by paying 3[credit] each. Take 1 bad publicity."
- :title "Game Over"
- :type :operation
+{:cost 4,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "game-over",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Play only if the Runner stole an agenda during their last turn. Choose a Runner card type. Trash all installed non-icebreaker cards of that type. The Runner may prevent any of those cards from being trashed by paying 3 credits each. Take 1 bad publicity.",
+ :stripped-title "Game Over",
+ :subtype [:illicit :gray-ops],
+ :text
+   "Play only if the Runner stole an agenda during their last turn.\nChoose a Runner card type. Trash all installed non-<strong>icebreaker</strong> cards of that type. The Runner may prevent any of those cards from being trashed by paying 3[credit] each. Take 1 bad publicity.",
+ :title "Game Over",
+ :type :operation,
  :uniqueness false}

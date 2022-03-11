@@ -1,13 +1,15 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "advanced-concept-hopper"
- :side :corp
- :stripped-text "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1 credit."
- :stripped-title "Advanced Concept Hopper"
- :subtype [:research]
- :text "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1[credit]."
- :title "Advanced Concept Hopper"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "advanced-concept-hopper",
+ :side :corp,
+ :stripped-text
+   "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1 credit.",
+ :stripped-title "Advanced Concept Hopper",
+ :subtype [:research],
+ :text
+   "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1[credit].",
+ :title "Advanced Concept Hopper",
+ :type :agenda,
  :uniqueness false}

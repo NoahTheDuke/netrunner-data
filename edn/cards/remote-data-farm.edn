@@ -1,13 +1,13 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :nbn
- :id "remote-data-farm"
- :side :corp
- :stripped-text "Your maximum hand size is increased by 2."
- :stripped-title "Remote Data Farm"
- :subtype [:expansion]
- :text "Your maximum hand size is increased by 2."
- :title "Remote Data Farm"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "remote-data-farm",
+ :side :corp,
+ :stripped-text "Your maximum hand size is increased by 2.",
+ :stripped-title "Remote Data Farm",
+ :subtype [:expansion],
+ :text "Your maximum hand size is increased by 2.",
+ :title "Remote Data Farm",
+ :type :agenda,
  :uniqueness false}

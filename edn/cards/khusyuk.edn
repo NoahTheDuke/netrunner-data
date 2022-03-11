@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "khusyuk"
- :influence-cost 2
- :side :runner
- :stripped-text "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D."
- :stripped-title "Khusyuk"
- :subtype [:run]
- :text "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D."
- :title "Khusyuk"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "khusyuk",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D.",
+ :stripped-title "Khusyuk",
+ :subtype [:run],
+ :text
+   "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D.",
+ :title "Khusyuk",
+ :type :event,
  :uniqueness false}

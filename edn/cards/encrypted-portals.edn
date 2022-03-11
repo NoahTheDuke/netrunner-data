@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :jinteki
- :id "encrypted-portals"
- :side :corp
- :stripped-text "All code gate ice have +1 strength. When you score Encrypted Portals, gain 1 credit for each rezzed code gate."
- :stripped-title "Encrypted Portals"
- :subtype [:security]
- :text "All <strong>code gate</strong> ice have +1 strength.\nWhen you score Encrypted Portals, gain 1[credit] for each rezzed <strong>code gate</strong>."
- :title "Encrypted Portals"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "encrypted-portals",
+ :side :corp,
+ :stripped-text
+   "All code gate ice have +1 strength. When you score Encrypted Portals, gain 1 credit for each rezzed code gate.",
+ :stripped-title "Encrypted Portals",
+ :subtype [:security],
+ :text
+   "All <strong>code gate</strong> ice have +1 strength.\nWhen you score Encrypted Portals, gain 1[credit] for each rezzed <strong>code gate</strong>.",
+ :title "Encrypted Portals",
+ :type :agenda,
  :uniqueness false}

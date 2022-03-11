@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "drug-dealer"
- :influence-cost 1
- :side :runner
- :stripped-text "When your turn begins, lose 1 credit. When the Corp's turn begins, draw 1 card."
- :stripped-title "Drug Dealer"
- :subtype [:connection]
- :text "When your turn begins, lose 1[credit].\nWhen the Corp's turn begins, draw 1 card."
- :title "Drug Dealer"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "drug-dealer",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, lose 1 credit. When the Corp's turn begins, draw 1 card.",
+ :stripped-title "Drug Dealer",
+ :subtype [:connection],
+ :text
+   "When your turn begins, lose 1[credit].\nWhen the Corp's turn begins, draw 1 card.",
+ :title "Drug Dealer",
+ :type :resource,
  :uniqueness false}

@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "mutate"
- :influence-cost 3
- :side :corp
- :stripped-text "As an additional cost to play this operation, trash a rezzed piece of ice. Reveal cards from the top of R&D until you reveal a piece of ice. Install and rez that ice in the same position as the ice that was trashed, ignoring all costs. Shuffle R&D."
- :stripped-title "Mutate"
- :text "As an additional cost to play this operation, trash a rezzed piece of ice.\nReveal cards from the top of R&D until you reveal a piece of ice. Install and rez that ice in the same position as the ice that was trashed, ignoring all costs. Shuffle R&D."
- :title "Mutate"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "mutate",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play this operation, trash a rezzed piece of ice. Reveal cards from the top of R&D until you reveal a piece of ice. Install and rez that ice in the same position as the ice that was trashed, ignoring all costs. Shuffle R&D.",
+ :stripped-title "Mutate",
+ :text
+   "As an additional cost to play this operation, trash a rezzed piece of ice.\nReveal cards from the top of R&D until you reveal a piece of ice. Install and rez that ice in the same position as the ice that was trashed, ignoring all costs. Shuffle R&D.",
+ :title "Mutate",
+ :type :operation,
  :uniqueness false}

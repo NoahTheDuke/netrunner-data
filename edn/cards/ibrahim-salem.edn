@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :nbn
- :id "ibrahim-salem"
- :influence-cost 3
- :side :corp
- :stripped-text "This card costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. As an additional cost to rez Ibrahim Salem, forfeit an agenda. When your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type."
- :stripped-title "Ibrahim Salem"
- :subtype [:alliance :character]
- :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nAs an additional cost to rez Ibrahim Salem, forfeit an agenda.\nWhen your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type."
- :title "Ibrahim Salem"
- :trash-cost 5
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "ibrahim-salem",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "This card costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. As an additional cost to rez Ibrahim Salem, forfeit an agenda. When your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type.",
+ :stripped-title "Ibrahim Salem",
+ :subtype [:alliance :character],
+ :text
+   "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nAs an additional cost to rez Ibrahim Salem, forfeit an agenda.\nWhen your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type.",
+ :title "Ibrahim Salem",
+ :trash-cost 5,
+ :type :asset,
  :uniqueness true}

@@ -1,15 +1,17 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "berserker"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :strength 2
- :stripped-text "Whenever you encounter a barrier, for the remainder of that encounter this program gets +1 strength for each subroutine on that barrier. Interface -> 2 credits: Break up to 2 barrier subroutines."
- :stripped-title "Berserker"
- :subtype [:icebreaker :fracter]
- :text "Whenever you encounter a <strong>barrier</strong>, for the remainder of that encounter this program gets +1 strength for each subroutine on that <strong>barrier</strong>.\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines."
- :title "Berserker"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "berserker",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :strength 2,
+ :stripped-text
+   "Whenever you encounter a barrier, for the remainder of that encounter this program gets +1 strength for each subroutine on that barrier. Interface -> 2 credits: Break up to 2 barrier subroutines.",
+ :stripped-title "Berserker",
+ :subtype [:icebreaker :fracter],
+ :text
+   "Whenever you encounter a <strong>barrier</strong>, for the remainder of that encounter this program gets +1 strength for each subroutine on that <strong>barrier</strong>.\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.",
+ :title "Berserker",
+ :type :program,
  :uniqueness false}

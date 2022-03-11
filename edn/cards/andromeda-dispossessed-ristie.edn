@@ -1,14 +1,14 @@
-{:base-link 1
- :deck-limit 1
- :faction :criminal
- :id "andromeda-dispossessed-ristie"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "You draw a starting hand of 9 cards."
- :stripped-title "Andromeda: Dispossessed Ristie"
- :subtype [:natural]
- :text "You draw a starting hand of 9 cards."
- :title "Andromeda: Dispossessed Ristie"
- :type :identity
+{:base-link 1,
+ :deck-limit 1,
+ :faction :criminal,
+ :id "andromeda-dispossessed-ristie",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text "You draw a starting hand of 9 cards.",
+ :stripped-title "Andromeda: Dispossessed Ristie",
+ :subtype [:natural],
+ :text "You draw a starting hand of 9 cards.",
+ :title "Andromeda: Dispossessed Ristie",
+ :type :identity,
  :uniqueness false}

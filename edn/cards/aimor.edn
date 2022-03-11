@@ -1,14 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "aimor"
- :influence-cost 2
- :side :corp
- :strength 1
- :stripped-text "Subroutine Trash the top 3 cards of the stack. Trash Aimor."
- :stripped-title "Aimor"
- :subtype [:trap]
- :text "[subroutine] Trash the top 3 cards of the stack. Trash Aimor."
- :title "Aimor"
- :type :ice
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "aimor",
+ :influence-cost 2,
+ :side :corp,
+ :strength 1,
+ :stripped-text "Subroutine Trash the top 3 cards of the stack. Trash Aimor.",
+ :stripped-title "Aimor",
+ :subtype [:trap],
+ :text "[subroutine] Trash the top 3 cards of the stack. Trash Aimor.",
+ :title "Aimor",
+ :type :ice,
  :uniqueness false}

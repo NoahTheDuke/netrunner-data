@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :weyland-consortium
- :id "negotiator"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "The Runner can pay 2 credits to break any subroutine on Negotiator. Subroutine The Corp gains 2 credits. Subroutine Trash 1 program."
- :stripped-title "Negotiator"
- :subtype [:sentry :destroyer]
- :text "The Runner can pay 2[credit] to break any subroutine on Negotiator.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program."
- :title "Negotiator"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "negotiator",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "2 credits: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Corp gains 2 credits. Subroutine Trash 1 program.",
+ :stripped-title "Negotiator",
+ :subtype [:sentry :destroyer],
+ :text
+   "2[credit]: Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.",
+ :title "Negotiator",
+ :type :ice,
  :uniqueness false}

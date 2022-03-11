@@ -1,12 +1,12 @@
-{:base-link 0
- :deck-limit 1
- :faction :neutral-runner
- :id "the-catalyst-convention-breaker"
- :influence-limit nil
- :minimum-deck-size 30
- :side :runner
- :stripped-title "The Catalyst: Convention Breaker"
- :subtype [:natural]
- :title "The Catalyst: Convention Breaker"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :neutral-runner,
+ :id "the-catalyst-convention-breaker",
+ :influence-limit nil,
+ :minimum-deck-size 30,
+ :side :runner,
+ :stripped-title "The Catalyst: Convention Breaker",
+ :subtype [:natural],
+ :title "The Catalyst: Convention Breaker",
+ :type :identity,
  :uniqueness false}

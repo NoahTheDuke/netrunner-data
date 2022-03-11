@@ -1,14 +1,16 @@
-{:advancement-requirement 5
- :agenda-points 3
- :deck-limit 3
- :faction :neutral-corp
- :id "global-food-initiative"
- :influence-cost 1
- :side :corp
- :stripped-text "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area."
- :stripped-title "Global Food Initiative"
- :subtype [:initiative]
- :text "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area."
- :title "Global Food Initiative"
- :type :agenda
+{:advancement-requirement 5,
+ :agenda-points 3,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "global-food-initiative",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area.",
+ :stripped-title "Global Food Initiative",
+ :subtype [:initiative],
+ :text
+   "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area.",
+ :title "Global Food Initiative",
+ :type :agenda,
  :uniqueness false}

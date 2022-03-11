@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "diesel"
- :influence-cost 2
- :side :runner
- :stripped-text "Draw 3 cards."
- :stripped-title "Diesel"
- :text "Draw 3 cards."
- :title "Diesel"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "diesel",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "Draw 3 cards.",
+ :stripped-title "Diesel",
+ :text "Draw 3 cards.",
+ :title "Diesel",
+ :type :event,
  :uniqueness false}

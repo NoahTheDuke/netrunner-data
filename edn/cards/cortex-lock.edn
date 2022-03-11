@@ -1,14 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "cortex-lock"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "Subroutine Do 1 net damage for each unused MU the Runner has."
- :stripped-title "Cortex Lock"
- :subtype [:sentry :ap]
- :text "[subroutine] Do 1 net damage for each unused MU the Runner has."
- :title "Cortex Lock"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "cortex-lock",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text "Subroutine Do 1 net damage for each unused MU the Runner has.",
+ :stripped-title "Cortex Lock",
+ :subtype [:sentry :ap],
+ :text "[subroutine] Do 1 net damage for each unused MU the Runner has.",
+ :title "Cortex Lock",
+ :type :ice,
  :uniqueness false}

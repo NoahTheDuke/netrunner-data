@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :weyland-consortium
- :id "simone-diego"
- :influence-cost 2
- :side :corp
- :stripped-text "2 recurring credits You can spend hosted credits to take the basic action to advance cards in the root of or protecting this server."
- :stripped-title "Simone Diego"
- :subtype [:sysop]
- :text "2[recurring-credit]\nYou can spend hosted credits to take the basic action to advance cards in the root of or protecting this server."
- :title "Simone Diego"
- :trash-cost 3
- :type :upgrade
+{:cost 4,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "simone-diego",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "2 recurring credits You can spend hosted credits to take the basic action to advance cards in the root of or protecting this server.",
+ :stripped-title "Simone Diego",
+ :subtype [:sysop],
+ :text
+   "2[recurring-credit]\nYou can spend hosted credits to take the basic action to advance cards in the root of or protecting this server.",
+ :title "Simone Diego",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness true}

@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "feint"
- :influence-cost 3
- :side :runner
- :stripped-text "Run HQ. The first 2 times this run you encounter a piece of ice, bypass that ice. If successful, you cannot breach HQ."
- :stripped-title "Feint"
- :subtype [:run]
- :text "Run HQ. The first 2 times this run you encounter a piece of ice, bypass that ice. If successful, you cannot breach HQ."
- :title "Feint"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "feint",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run HQ. The first 2 times this run you encounter a piece of ice, bypass that ice. If successful, you cannot breach HQ.",
+ :stripped-title "Feint",
+ :subtype [:run],
+ :text
+   "Run HQ. The first 2 times this run you encounter a piece of ice, bypass that ice. If successful, you cannot breach HQ.",
+ :title "Feint",
+ :type :event,
  :uniqueness false}

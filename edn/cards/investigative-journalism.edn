@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "investigative-journalism"
- :influence-cost 1
- :side :runner
- :stripped-text "Install only if the Corp has at least 1 bad publicity. click,click,click,click,trash: Give the Corp 1 bad publicity."
- :stripped-title "Investigative Journalism"
- :text "Install only if the Corp has at least 1 bad publicity.\n[click],[click],[click],[click],[trash]: Give the Corp 1 bad publicity."
- :title "Investigative Journalism"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "investigative-journalism",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Install only if the Corp has at least 1 bad publicity. click,click,click,click,trash: Give the Corp 1 bad publicity.",
+ :stripped-title "Investigative Journalism",
+ :text
+   "Install only if the Corp has at least 1 bad publicity.\n[click],[click],[click],[click],[trash]: Give the Corp 1 bad publicity.",
+ :title "Investigative Journalism",
+ :type :resource,
  :uniqueness false}

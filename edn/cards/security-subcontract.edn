@@ -1,14 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "security-subcontract"
- :influence-cost 1
- :side :corp
- :stripped-text "click, trash a rezzed piece of ice: Gain 4 credits."
- :stripped-title "Security Subcontract"
- :subtype [:transaction]
- :text "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit]."
- :title "Security Subcontract"
- :trash-cost 3
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "security-subcontract",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "click, trash a rezzed piece of ice: Gain 4 credits.",
+ :stripped-title "Security Subcontract",
+ :subtype [:transaction],
+ :text "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit].",
+ :title "Security Subcontract",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

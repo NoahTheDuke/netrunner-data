@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "indian-union-stock-exchange"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1 credit."
- :stripped-title "Indian Union Stock Exchange"
- :text "Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1[credit]."
- :title "Indian Union Stock Exchange"
- :trash-cost 3
- :type :asset
+{:cost 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "indian-union-stock-exchange",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1 credit.",
+ :stripped-title "Indian Union Stock Exchange",
+ :text
+   "Whenever you rez or play an out-of-faction card (including Indian Union Stock Exchange), gain 1[credit].",
+ :title "Indian Union Stock Exchange",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

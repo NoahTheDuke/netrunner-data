@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "sensie-actors-union"
- :influence-cost 2
- :side :corp
- :stripped-text "When your turn begins, you may draw 3 cards if there is no ice protecting this server. If you do, add 1 card from HQ to the bottom of R&D."
- :stripped-title "Sensie Actors Union"
- :subtype [:political]
- :text "When your turn begins, you may draw 3 cards if there is no ice protecting this server. If you do, add 1 card from HQ to the bottom of R&D."
- :title "Sensie Actors Union"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "sensie-actors-union",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "When your turn begins, you may draw 3 cards if there is no ice protecting this server. If you do, add 1 card from HQ to the bottom of R&D.",
+ :stripped-title "Sensie Actors Union",
+ :subtype [:political],
+ :text
+   "When your turn begins, you may draw 3 cards if there is no ice protecting this server. If you do, add 1 card from HQ to the bottom of R&D.",
+ :title "Sensie Actors Union",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

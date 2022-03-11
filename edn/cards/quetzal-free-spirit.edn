@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :anarch
- :id "quetzal-free-spirit"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "0 credits: Break 1 barrier subroutine. Use this ability only once per turn."
- :stripped-title "Quetzal: Free Spirit"
- :subtype [:g-mod]
- :text "0[credit]: Break 1 <strong>barrier</strong> subroutine. Use this ability only once per turn."
- :title "Quetzal: Free Spirit"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :anarch,
+ :id "quetzal-free-spirit",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "0 credits: Break 1 barrier subroutine. Use this ability only once per turn.",
+ :stripped-title "Quetzal: Free Spirit",
+ :subtype [:g-mod],
+ :text
+   "0[credit]: Break 1 <strong>barrier</strong> subroutine. Use this ability only once per turn.",
+ :title "Quetzal: Free Spirit",
+ :type :identity,
  :uniqueness false}

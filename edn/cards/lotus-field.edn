@@ -1,14 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :jinteki
- :id "lotus-field"
- :influence-cost 1
- :side :corp
- :strength 4
- :stripped-text "The strength of this ice cannot be lowered. Subroutine End the run."
- :stripped-title "Lotus Field"
- :subtype [:code-gate]
- :text "The strength of this ice cannot be lowered.\n[subroutine] End the run."
- :title "Lotus Field"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "lotus-field",
+ :influence-cost 1,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "The strength of this ice cannot be lowered. Subroutine End the run.",
+ :stripped-title "Lotus Field",
+ :subtype [:code-gate],
+ :text "The strength of this ice cannot be lowered.\n[subroutine] End the run.",
+ :title "Lotus Field",
+ :type :ice,
  :uniqueness false}

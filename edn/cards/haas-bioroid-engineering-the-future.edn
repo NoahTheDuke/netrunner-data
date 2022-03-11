@@ -1,13 +1,13 @@
-{:deck-limit 1
- :faction :haas-bioroid
- :id "haas-bioroid-engineering-the-future"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "The first time you install a card each turn, gain 1 credit."
- :stripped-title "Haas-Bioroid: Engineering the Future"
- :subtype [:megacorp]
- :text "The first time you install a card each turn, gain 1[credit]."
- :title "Haas-Bioroid: Engineering the Future"
- :type :identity
+{:deck-limit 1,
+ :faction :haas-bioroid,
+ :id "haas-bioroid-engineering-the-future",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text "The first time you install a card each turn, gain 1 credit.",
+ :stripped-title "Haas-Bioroid: Engineering the Future",
+ :subtype [:megacorp],
+ :text "The first time you install a card each turn, gain 1[credit].",
+ :title "Haas-Bioroid: Engineering the Future",
+ :type :identity,
  :uniqueness false}

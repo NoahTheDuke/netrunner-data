@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "corporate-troubleshooter"
- :influence-cost 1
- :side :corp
- :stripped-text "X credits, trash: Choose 1 rezzed piece of ice protecting this server. That ice gets +X strength for the remainder of the turn."
- :stripped-title "Corporate Troubleshooter"
- :text "X[credit], [trash]: Choose 1 rezzed piece of ice protecting this server. That ice gets +X strength for the remainder of the turn."
- :title "Corporate Troubleshooter"
- :trash-cost 2
- :type :upgrade
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "corporate-troubleshooter",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "X credits, trash: Choose 1 rezzed piece of ice protecting this server. That ice gets +X strength for the remainder of the turn.",
+ :stripped-title "Corporate Troubleshooter",
+ :text
+   "X[credit], [trash]: Choose 1 rezzed piece of ice protecting this server. That ice gets +X strength for the remainder of the turn.",
+ :title "Corporate Troubleshooter",
+ :trash-cost 2,
+ :type :upgrade,
  :uniqueness false}

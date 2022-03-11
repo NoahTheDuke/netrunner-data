@@ -1,12 +1,12 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-runner
- :id "public-sympathy"
- :influence-cost 0
- :side :runner
- :stripped-text "Your maximum hand size is increased by 2."
- :stripped-title "Public Sympathy"
- :text "Your maximum hand size is increased by 2."
- :title "Public Sympathy"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "public-sympathy",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text "Your maximum hand size is increased by 2.",
+ :stripped-title "Public Sympathy",
+ :text "Your maximum hand size is increased by 2.",
+ :title "Public Sympathy",
+ :type :resource,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "bankroll"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever you make a successful run, you may place 1 credit from the bank on Bankroll. trash: Take all credits from Bankroll."
- :stripped-title "Bankroll"
- :text "Whenever you make a successful run, you may place 1[credit] from the bank on Bankroll.\n[trash]: Take all credits from Bankroll."
- :title "Bankroll"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "bankroll",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever you make a successful run, you may place 1 credit from the bank on Bankroll. trash: Take all credits from Bankroll.",
+ :stripped-title "Bankroll",
+ :text
+   "Whenever you make a successful run, you may place 1[credit] from the bank on Bankroll.\n[trash]: Take all credits from Bankroll.",
+ :title "Bankroll",
+ :type :program,
  :uniqueness false}

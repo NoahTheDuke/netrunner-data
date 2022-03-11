@@ -1,14 +1,16 @@
-{:advancement-requirement 5
- :agenda-points 3
- :deck-limit 3
- :faction :neutral-corp
- :id "priority-requisition"
- :influence-cost 0
- :side :corp
- :stripped-text "When you score Priority Requisition, you may rez a piece of ice ignoring all costs."
- :stripped-title "Priority Requisition"
- :subtype [:security]
- :text "When you score Priority Requisition, you may rez a piece of ice ignoring all costs."
- :title "Priority Requisition"
- :type :agenda
+{:advancement-requirement 5,
+ :agenda-points 3,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "priority-requisition",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "When you score Priority Requisition, you may rez a piece of ice ignoring all costs.",
+ :stripped-title "Priority Requisition",
+ :subtype [:security],
+ :text
+   "When you score Priority Requisition, you may rez a piece of ice ignoring all costs.",
+ :title "Priority Requisition",
+ :type :agenda,
  :uniqueness false}

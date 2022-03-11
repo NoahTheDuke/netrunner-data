@@ -1,130 +1,137 @@
-[{:card-id "system-outage"
-  :code "11001"
-  :illustrator "Meg Owenson"
-  :position 1
-  :quantity 3
+[{:card-id "system-outage",
+  :code "11001",
+  :illustrator "Meg Owenson",
+  :position 1,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "null-whistleblower"
-  :code "11002"
-  :illustrator "Matt Zeilinger"
-  :position 2
-  :quantity 3
+ {:card-id "null-whistleblower",
+  :code "11002",
+  :illustrator "Matt Zeilinger",
+  :position 2,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "gpi-net-tap"
-  :code "11003"
-  :flavor "Sometimes the itsy-bitsy data is most important."
-  :illustrator "Alexandr Elichev"
-  :position 3
-  :quantity 3
+ {:card-id "gpi-net-tap",
+  :code "11003",
+  :flavor "Sometimes the itsy-bitsy data is most important.",
+  :illustrator "Alexandr Elichev",
+  :position 3,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "hernando-cortez"
-  :code "11004"
-  :flavor "\"Take it from me, there is a point where you have so much money you stop caring. That's usually right before it all comes tumbling down.\""
-  :illustrator "Timur Shevtsov"
-  :position 4
-  :quantity 3
+ {:card-id "hernando-cortez",
+  :code "11004",
+  :flavor
+    "\"Take it from me, there is a point where you have so much money you stop caring. That's usually right before it all comes tumbling down.\"",
+  :illustrator "Timur Shevtsov",
+  :position 4,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "mirror"
-  :code "11005"
-  :illustrator "Kathryn Steele"
-  :position 5
-  :quantity 3
+ {:card-id "mirror",
+  :code "11005",
+  :illustrator "Kathryn Steele",
+  :position 5,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "dai-v"
-  :code "11006"
-  :flavor "In running, as in reality, all elements are connected."
-  :position 6
-  :quantity 3
+ {:card-id "dai-v",
+  :code "11006",
+  :flavor "In running, as in reality, all elements are connected.",
+  :position 6,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "another-day-another-paycheck"
-  :code "11007"
-  :illustrator "Caroline Gariba"
-  :position 7
-  :quantity 3
+ {:card-id "another-day-another-paycheck",
+  :code "11007",
+  :illustrator "Caroline Gariba",
+  :position 7,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "deuces-wild"
-  :code "11008"
-  :flavor "<champion>Designed by 2014 World Champion Dan D'Argenio</champion>"
-  :illustrator "Marjorie Davis"
-  :position 8
-  :quantity 3
+ {:card-id "deuces-wild",
+  :code "11008",
+  :flavor "<champion>Designed by 2014 World Champion Dan D'Argenio</champion>",
+  :illustrator "Marjorie Davis",
+  :position 8,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "injection-attack"
-  :code "11009"
-  :flavor "They call it \"running\" because jacking in is mentally and physically exhausting."
-  :illustrator "Chris Newman"
-  :position 9
-  :quantity 3
+ {:card-id "injection-attack",
+  :code "11009",
+  :flavor
+    "They call it \"running\" because jacking in is mentally and physically exhausting.",
+  :illustrator "Chris Newman",
+  :position 9,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "fairchild-1-0"
-  :code "11010"
-  :flavor "I foresee the end of all things..."
-  :illustrator "Liiga Smilshkalne"
-  :position 10
-  :quantity 3
+ {:card-id "fairchild-1-0",
+  :code "11010",
+  :flavor "I foresee the end of all things...",
+  :illustrator "Liiga Smilshkalne",
+  :position 10,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "sherlock-2-0"
-  :code "11011"
-  :illustrator "Hannah Christenson"
-  :position 11
-  :quantity 3
+ {:card-id "sherlock-2-0",
+  :code "11011",
+  :illustrator "Hannah Christenson",
+  :position 11,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "hyoubu-research-facility"
-  :code "11012"
-  :flavor "\"I'm telling you, free up the emergency accounts. Something's coming; I haven't seen a reaction like that since the tsunami. My god, the screaming...\""
-  :illustrator "Marya Yartseva"
-  :position 12
-  :quantity 3
+ {:card-id "hyoubu-research-facility",
+  :code "11012",
+  :flavor
+    "\"I'm telling you, free up the emergency accounts. Something's coming; I haven't seen a reaction like that since the tsunami. My god, the screaming...\"",
+  :illustrator "Marya Yartseva",
+  :position 12,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "chrysalis"
-  :code "11013"
-  :illustrator "Donald Crank"
-  :position 13
-  :quantity 3
+ {:card-id "chrysalis",
+  :code "11013",
+  :illustrator "Donald Crank",
+  :position 13,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "georgia-emelyov"
-  :code "11014"
-  :flavor "\"Your mistake is thinking that it's just business, when really it's a war.\""
-  :illustrator "Aurore Folny"
-  :position 14
-  :quantity 3
+ {:card-id "georgia-emelyov",
+  :code "11014",
+  :flavor
+    "\"Your mistake is thinking that it's just business, when really it's a war.\"",
+  :illustrator "Aurore Folny",
+  :position 14,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "watchdog"
-  :code "11015"
-  :flavor "\"Person of interest. Noun. Someone who is about to get ****ed by a corp.\" - Anarch's Dictionary, Volume Who's Counting"
-  :illustrator "Sam Guay"
-  :position 15
-  :quantity 3
+ {:card-id "watchdog",
+  :code "11015",
+  :flavor
+    "\"Person of interest. Noun. Someone who is about to get ****ed by a corp.\" - Anarch's Dictionary, Volume Who's Counting",
+  :illustrator "Sam Guay",
+  :position 15,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "hard-hitting-news"
-  :code "11016"
-  :illustrator "Sander Mosk"
-  :position 16
-  :quantity 3
+ {:card-id "hard-hitting-news",
+  :code "11016",
+  :illustrator "Sander Mosk",
+  :position 16,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "nbn-controlling-the-message"
-  :code "11017"
-  :position 17
-  :quantity 3
+ {:card-id "nbn-controlling-the-message",
+  :code "11017",
+  :position 17,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "crisis-management"
-  :code "11018"
-  :flavor "\"For the duration of the emergency\" is code for \"this is the way things are now.\""
-  :illustrator "Natalie Bernard"
-  :position 18
-  :quantity 3
+ {:card-id "crisis-management",
+  :code "11018",
+  :flavor
+    "\"For the duration of the emergency\" is code for \"this is the way things are now.\"",
+  :illustrator "Natalie Bernard",
+  :position 18,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "stock-buy-back"
-  :code "11019"
-  :flavor "A stock dropping sharply is bad for shareholders, but not neccessarily bad for the company."
-  :illustrator "RC Torres"
-  :position 19
-  :quantity 3
+ {:card-id "stock-buy-back",
+  :code "11019",
+  :flavor
+    "A stock dropping sharply is bad for shareholders, but not neccessarily bad for the company.",
+  :illustrator "RC Torres",
+  :position 19,
+  :quantity 3,
   :set-id "23-seconds"}
- {:card-id "sandburg"
-  :code "11020"
-  :flavor "Money is power."
-  :illustrator "Pavel Kolomeyets"
-  :position 20
-  :quantity 3
+ {:card-id "sandburg",
+  :code "11020",
+  :flavor "Money is power.",
+  :illustrator "Pavel Kolomeyets",
+  :position 20,
+  :quantity 3,
   :set-id "23-seconds"}]

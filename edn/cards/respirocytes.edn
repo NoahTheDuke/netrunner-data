@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "respirocytes"
- :influence-cost 3
- :side :runner
- :stripped-text "When you install this hardware, suffer 1 meat damage. The first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware. When this hardware has 3 or more hosted power counters, trash it."
- :stripped-title "Respirocytes"
- :subtype [:cybernetic]
- :text "When you install this hardware, suffer 1 meat damage.\nThe first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware.\nWhen this hardware has 3 or more hosted power counters, trash it."
- :title "Respirocytes"
- :type :hardware
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "respirocytes",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "When you install this hardware, suffer 1 meat damage. The first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware. When this hardware has 3 or more hosted power counters, trash it.",
+ :stripped-title "Respirocytes",
+ :subtype [:cybernetic],
+ :text
+   "When you install this hardware, suffer 1 meat damage.\nThe first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware.\nWhen this hardware has 3 or more hosted power counters, trash it.",
+ :title "Respirocytes",
+ :type :hardware,
  :uniqueness false}

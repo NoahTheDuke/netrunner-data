@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :jinteki
- :id "jinteki-potential-unleashed"
- :influence-limit 12
- :minimum-deck-size 45
- :side :corp
- :stripped-text "Whenever the Runner takes at least 1 net damage, trash the top card of the stack."
- :stripped-title "Jinteki: Potential Unleashed"
- :subtype [:megacorp]
- :text "Whenever the Runner takes at least 1 net damage, trash the top card of the stack."
- :title "Jinteki: Potential Unleashed"
- :type :identity
+{:deck-limit 1,
+ :faction :jinteki,
+ :id "jinteki-potential-unleashed",
+ :influence-limit 12,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner takes at least 1 net damage, trash the top card of the stack.",
+ :stripped-title "Jinteki: Potential Unleashed",
+ :subtype [:megacorp],
+ :text
+   "Whenever the Runner takes at least 1 net damage, trash the top card of the stack.",
+ :title "Jinteki: Potential Unleashed",
+ :type :identity,
  :uniqueness false}

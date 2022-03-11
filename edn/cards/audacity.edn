@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "audacity"
- :influence-cost 4
- :side :corp
- :stripped-text "Play only if there are at least 2 other cards in HQ. Trash all cards from HQ. Place a total of 2 advancement counters on installed cards you can advance."
- :stripped-title "Audacity"
- :text "Play only if there are at least 2 other cards in HQ.\nTrash all cards from HQ. Place a total of 2 advancement counters on installed cards you can advance."
- :title "Audacity"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "audacity",
+ :influence-cost 4,
+ :side :corp,
+ :stripped-text
+   "Play only if there are at least 2 other cards in HQ. Trash all cards from HQ. Place a total of 2 advancement counters on installed cards you can advance.",
+ :stripped-title "Audacity",
+ :text
+   "Play only if there are at least 2 other cards in HQ.\nTrash all cards from HQ. Place a total of 2 advancement counters on installed cards you can advance.",
+ :title "Audacity",
+ :type :operation,
  :uniqueness false}

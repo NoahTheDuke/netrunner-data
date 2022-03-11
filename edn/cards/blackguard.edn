@@ -1,13 +1,15 @@
-{:cost 11
- :deck-limit 3
- :faction :criminal
- :id "blackguard"
- :influence-cost 2
- :side :runner
- :stripped-text "+2 mu Whenever you expose a card, the Corp must rez it by paying its rez cost, if able. Limit 1 console per player."
- :stripped-title "Blackguard"
- :subtype [:console]
- :text "+2[mu]\nWhenever you expose a card, the Corp must rez it by paying its rez cost, if able.\nLimit 1 <strong>console</strong> per player."
- :title "Blackguard"
- :type :hardware
+{:cost 11,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "blackguard",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "+2 mu Whenever you expose a card, the Corp must rez it by paying its rez cost, if able. Limit 1 console per player.",
+ :stripped-title "Blackguard",
+ :subtype [:console],
+ :text
+   "+2[mu]\nWhenever you expose a card, the Corp must rez it by paying its rez cost, if able.\nLimit 1 <strong>console</strong> per player.",
+ :title "Blackguard",
+ :type :hardware,
  :uniqueness true}

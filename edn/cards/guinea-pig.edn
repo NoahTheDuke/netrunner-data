@@ -1,12 +1,12 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "guinea-pig"
- :influence-cost 3
- :side :runner
- :stripped-text "Trash your grip. Gain 10 credits."
- :stripped-title "Guinea Pig"
- :text "Trash your grip.\nGain 10[credit]."
- :title "Guinea Pig"
- :type :event
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "guinea-pig",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text "Trash your grip. Gain 10 credits.",
+ :stripped-title "Guinea Pig",
+ :text "Trash your grip.\nGain 10[credit].",
+ :title "Guinea Pig",
+ :type :event,
  :uniqueness false}

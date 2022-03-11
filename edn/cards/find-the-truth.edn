@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :adam
- :id "find-the-truth"
- :influence-cost 3
- :side :runner
- :stripped-text "Whenever you draw a card, reveal that card. The first time each turn you make a successful run, you may look at the top card of R&D."
- :stripped-title "Find the Truth"
- :subtype [:directive :virtual]
- :text "Whenever you draw a card, reveal that card.\nThe first time each turn you make a successful run, you may look at the top card of R&D."
- :title "Find the Truth"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :adam,
+ :id "find-the-truth",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Whenever you draw a card, reveal that card. The first time each turn you make a successful run, you may look at the top card of R&D.",
+ :stripped-title "Find the Truth",
+ :subtype [:directive :virtual],
+ :text
+   "Whenever you draw a card, reveal that card.\nThe first time each turn you make a successful run, you may look at the top card of R&D.",
+ :title "Find the Truth",
+ :type :resource,
  :uniqueness true}

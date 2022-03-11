@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "i-ve-had-worse"
- :influence-cost 2
- :side :runner
- :stripped-text "Draw 3 cards. Whenever I've Had Worse is trashed by taking net or meat damage, draw 3 cards."
- :stripped-title "I've Had Worse"
- :text "Draw 3 cards.\nWhenever I've Had Worse is trashed by taking net or meat damage, draw 3 cards."
- :title "I've Had Worse"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "i-ve-had-worse",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Draw 3 cards. Whenever I've Had Worse is trashed by taking net or meat damage, draw 3 cards.",
+ :stripped-title "I've Had Worse",
+ :text
+   "Draw 3 cards.\nWhenever I've Had Worse is trashed by taking net or meat damage, draw 3 cards.",
+ :title "I've Had Worse",
+ :type :event,
  :uniqueness false}

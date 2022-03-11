@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "traffic-analyzer"
- :influence-cost 1
- :side :corp
- :stripped-text "Whenever you rez a piece of ice protecting this server, Trace 2 If successful, the Corp gains 1 credit."
- :stripped-title "Traffic Analyzer"
- :text "Whenever you rez a piece of ice protecting this server, <trace>Trace 2</trace> If successful, the Corp gains 1[credit]."
- :title "Traffic Analyzer"
- :trash-cost 3
- :type :upgrade
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "traffic-analyzer",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Whenever you rez a piece of ice protecting this server, Trace 2 If successful, the Corp gains 1 credit.",
+ :stripped-title "Traffic Analyzer",
+ :text
+   "Whenever you rez a piece of ice protecting this server, <trace>Trace 2</trace> If successful, the Corp gains 1[credit].",
+ :title "Traffic Analyzer",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness false}

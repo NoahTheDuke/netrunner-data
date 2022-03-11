@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :weyland-consortium
- :id "hortum"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "You can advance this ice. If there are 3 or more hosted advancement counters, the Runner cannot break subroutines on this ice using AI programs. Subroutine Gain 1 credit. If there are 3 or more hosted advancement counters, instead gain 4 credits. Subroutine End the run. If there are 3 or more hosted advancement counters, instead search R&D for up to 2 cards. Add those cards to HQ, then end the run."
- :stripped-title "Hortum"
- :subtype [:code-gate]
- :text "You can advance this ice. If there are 3 or more hosted advancement counters, the Runner cannot break subroutines on this ice using <strong>AI</strong> programs.\n[subroutine] Gain 1[credit]. If there are 3 or more hosted advancement counters, instead gain 4[credit].\n[subroutine] End the run. If there are 3 or more hosted advancement counters, instead search R&D for up to 2 cards. Add those cards to HQ, then end the run."
- :title "Hortum"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "hortum",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "You can advance this ice. If there are 3 or more hosted advancement counters, the Runner cannot break subroutines on this ice using AI programs. Subroutine Gain 1 credit. If there are 3 or more hosted advancement counters, instead gain 4 credits. Subroutine End the run. If there are 3 or more hosted advancement counters, instead search R&D for up to 2 cards. Add those cards to HQ, then end the run.",
+ :stripped-title "Hortum",
+ :subtype [:code-gate],
+ :text
+   "You can advance this ice. If there are 3 or more hosted advancement counters, the Runner cannot break subroutines on this ice using <strong>AI</strong> programs.\n[subroutine] Gain 1[credit]. If there are 3 or more hosted advancement counters, instead gain 4[credit].\n[subroutine] End the run. If there are 3 or more hosted advancement counters, instead search R&D for up to 2 cards. Add those cards to HQ, then end the run.",
+ :title "Hortum",
+ :type :ice,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :haas-bioroid
- :id "architect"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "Players cannot trash this ice. Subroutine Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost. Subroutine You may install 1 card from Archives or HQ."
- :stripped-title "Architect"
- :subtype [:sentry]
- :text "Players cannot trash this ice.\n[subroutine] Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost.\n[subroutine] You may install 1 card from Archives or HQ."
- :title "Architect"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "architect",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Players cannot trash this ice. Subroutine Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost. Subroutine You may install 1 card from Archives or HQ.",
+ :stripped-title "Architect",
+ :subtype [:sentry],
+ :text
+   "Players cannot trash this ice.\n[subroutine] Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost.\n[subroutine] You may install 1 card from Archives or HQ.",
+ :title "Architect",
+ :type :ice,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :weyland-consortium
- :id "archer"
- :influence-cost 2
- :side :corp
- :strength 6
- :stripped-text "As an additional cost to rez this ice, forfeit 1 agenda. Subroutine Gain 2 credits. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine End the run."
- :stripped-title "Archer"
- :subtype [:sentry :destroyer]
- :text "As an additional cost to rez this ice, forfeit 1 agenda.\n[subroutine] Gain 2[credit].\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] End the run."
- :title "Archer"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "archer",
+ :influence-cost 2,
+ :side :corp,
+ :strength 6,
+ :stripped-text
+   "As an additional cost to rez this ice, forfeit 1 agenda. Subroutine Gain 2 credits. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine End the run.",
+ :stripped-title "Archer",
+ :subtype [:sentry :destroyer],
+ :text
+   "As an additional cost to rez this ice, forfeit 1 agenda.\n[subroutine] Gain 2[credit].\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] End the run.",
+ :title "Archer",
+ :type :ice,
  :uniqueness false}

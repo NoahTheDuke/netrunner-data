@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "paricia"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :stripped-text "2 recurring credits (When you install this card and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits to pay trash costs of assets."
- :stripped-title "Paricia"
- :text "2[recurring-credit] <em>(When you install this card and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits to pay trash costs of assets."
- :title "Paricia"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "paricia",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "2 recurring credits (When you install this card and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits to pay trash costs of assets.",
+ :stripped-title "Paricia",
+ :text
+   "2[recurring-credit] <em>(When you install this card and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits to pay trash costs of assets.",
+ :title "Paricia",
+ :type :program,
  :uniqueness false}

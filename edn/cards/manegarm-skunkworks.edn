@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "manegarm-skunkworks"
- :influence-cost 3
- :side :corp
- :stripped-text "Whenever the Runner approaches this server, end the run unless they either spend click click or pay 5 credits."
- :stripped-title "Manegarm Skunkworks"
- :text "Whenever the Runner approaches this server, end the run unless they either spend [click][click] or pay 5[credit]."
- :title "Manegarm Skunkworks"
- :trash-cost 3
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "manegarm-skunkworks",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner approaches this server, end the run unless they either spend click click or pay 5 credits.",
+ :stripped-title "Manegarm Skunkworks",
+ :text
+   "Whenever the Runner approaches this server, end the run unless they either spend [click][click] or pay 5[credit].",
+ :title "Manegarm Skunkworks",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness true}

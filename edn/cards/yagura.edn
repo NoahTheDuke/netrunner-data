@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :jinteki
- :id "yagura"
- :influence-cost 2
- :side :corp
- :strength 0
- :stripped-text "Subroutine Look at the top card of R&D. You may add that card to the bottom of R&D. Subroutine Do 1 net damage."
- :stripped-title "Yagura"
- :subtype [:code-gate :ap]
- :text "[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Do 1 net damage."
- :title "Yagura"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "yagura",
+ :influence-cost 2,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "Subroutine Look at the top card of R&D. You may add that card to the bottom of R&D. Subroutine Do 1 net damage.",
+ :stripped-title "Yagura",
+ :subtype [:code-gate :ap],
+ :text
+   "[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Do 1 net damage.",
+ :title "Yagura",
+ :type :ice,
  :uniqueness false}

@@ -1,12 +1,14 @@
-{:cost nil
- :deck-limit 3
- :faction :criminal
- :id "bug-out-bag"
- :influence-cost 2
- :side :runner
- :stripped-text "When you install this resource, place X power counters on it. When your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource."
- :stripped-title "Bug Out Bag"
- :text "When you install this resource, place X power counters on it.\nWhen your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource."
- :title "Bug Out Bag"
- :type :resource
+{:cost nil,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "bug-out-bag",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "When you install this resource, place X power counters on it. When your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource.",
+ :stripped-title "Bug Out Bag",
+ :text
+   "When you install this resource, place X power counters on it.\nWhen your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource.",
+ :title "Bug Out Bag",
+ :type :resource,
  :uniqueness false}

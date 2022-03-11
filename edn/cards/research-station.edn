@@ -1,14 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "research-station"
- :influence-cost 1
- :side :corp
- :stripped-text "Install only in the root of HQ. Your maximum hand size is +2."
- :stripped-title "Research Station"
- :subtype [:facility]
- :text "Install only in the root of HQ.\nYour maximum hand size is +2."
- :title "Research Station"
- :trash-cost 3
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "research-station",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "Install only in the root of HQ. Your maximum hand size is +2.",
+ :stripped-title "Research Station",
+ :subtype [:facility],
+ :text "Install only in the root of HQ.\nYour maximum hand size is +2.",
+ :title "Research Station",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness false}

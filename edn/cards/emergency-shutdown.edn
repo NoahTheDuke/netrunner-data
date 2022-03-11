@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "emergency-shutdown"
- :influence-cost 2
- :side :runner
- :stripped-text "Play only if you made a successful run on HQ this turn. Derez 1 installed piece of ice."
- :stripped-title "Emergency Shutdown"
- :subtype [:sabotage]
- :text "Play only if you made a successful run on HQ this turn.\nDerez 1 installed piece of ice."
- :title "Emergency Shutdown"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "emergency-shutdown",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Play only if you made a successful run on HQ this turn. Derez 1 installed piece of ice.",
+ :stripped-title "Emergency Shutdown",
+ :subtype [:sabotage],
+ :text
+   "Play only if you made a successful run on HQ this turn.\nDerez 1 installed piece of ice.",
+ :title "Emergency Shutdown",
+ :type :event,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "fan-site"
- :influence-cost 1
- :side :runner
- :stripped-text "Whenever the Corp scores an agenda, add Fan Site to your score area as an agenda worth 0 agenda points."
- :stripped-title "Fan Site"
- :subtype [:virtual]
- :text "Whenever the Corp scores an agenda, add Fan Site to your score area as an agenda worth 0 agenda points."
- :title "Fan Site"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "fan-site",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever the Corp scores an agenda, add Fan Site to your score area as an agenda worth 0 agenda points.",
+ :stripped-title "Fan Site",
+ :subtype [:virtual],
+ :text
+   "Whenever the Corp scores an agenda, add Fan Site to your score area as an agenda worth 0 agenda points.",
+ :title "Fan Site",
+ :type :resource,
  :uniqueness false}

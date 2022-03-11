@@ -1,14 +1,16 @@
-{:advancement-requirement 3
- :agenda-points 2
- :deck-limit 3
- :faction :neutral-corp
- :id "merger"
- :influence-cost 1
- :side :corp
- :stripped-text "Merger is worth 1 additional agenda point while in the Runner's score area."
- :stripped-title "Merger"
- :subtype [:expansion]
- :text "Merger is worth 1 additional agenda point while in the Runner's score area."
- :title "Merger"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "merger",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Merger is worth 1 additional agenda point while in the Runner's score area.",
+ :stripped-title "Merger",
+ :subtype [:expansion],
+ :text
+   "Merger is worth 1 additional agenda point while in the Runner's score area.",
+ :title "Merger",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "pushing-the-envelope"
- :influence-cost 2
- :side :runner
- :stripped-text "Make a run. If you have 2 or fewer cards in your grip, each installed icebreaker has +2 strength until the end of the run."
- :stripped-title "Pushing the Envelope"
- :subtype [:run]
- :text "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run."
- :title "Pushing the Envelope"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "pushing-the-envelope",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Make a run. If you have 2 or fewer cards in your grip, each installed icebreaker has +2 strength until the end of the run.",
+ :stripped-title "Pushing the Envelope",
+ :subtype [:run],
+ :text
+   "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run.",
+ :title "Pushing the Envelope",
+ :type :event,
  :uniqueness false}

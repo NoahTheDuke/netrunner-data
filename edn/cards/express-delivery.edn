@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "express-delivery"
- :influence-cost 1
- :side :runner
- :stripped-text "Look at the top 4 cards of your stack and add 1 of those cards to your grip. Shuffle your stack."
- :stripped-title "Express Delivery"
- :text "Look at the top 4 cards of your stack and add 1 of those cards to your grip. Shuffle your stack."
- :title "Express Delivery"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "express-delivery",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Look at the top 4 cards of your stack and add 1 of those cards to your grip. Shuffle your stack.",
+ :stripped-title "Express Delivery",
+ :text
+   "Look at the top 4 cards of your stack and add 1 of those cards to your grip. Shuffle your stack.",
+ :title "Express Delivery",
+ :type :event,
  :uniqueness false}

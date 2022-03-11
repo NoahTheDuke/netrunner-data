@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "predictive-planogram"
- :influence-cost 1
- :side :corp
- :stripped-text "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead. * Gain 3 credits. * Draw 3 cards."
- :stripped-title "Predictive Planogram"
- :subtype [:transaction]
- :text "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.<ul><li>Gain 3[credit].</li><li>Draw 3 cards.</li></ul>"
- :title "Predictive Planogram"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "predictive-planogram",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead. * Gain 3 credits. * Draw 3 cards.",
+ :stripped-title "Predictive Planogram",
+ :subtype [:transaction],
+ :text
+   "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.<ul><li>Gain 3[credit].</li><li>Draw 3 cards.</li></ul>",
+ :title "Predictive Planogram",
+ :type :operation,
  :uniqueness false}

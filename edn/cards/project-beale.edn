@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 2
- :deck-limit 3
- :faction :nbn
- :id "project-beale"
- :side :corp
- :stripped-text "When you score this agenda, place 1 agenda counter on it for every 2 hosted advancement counters past 3. This agenda is worth 1 more agenda point for each hosted agenda counter."
- :stripped-title "Project Beale"
- :subtype [:research]
- :text "When you score this agenda, place 1 agenda counter on it for every 2 hosted advancement counters past 3.\nThis agenda is worth 1 more agenda point for each hosted agenda counter."
- :title "Project Beale"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "project-beale",
+ :side :corp,
+ :stripped-text
+   "When you score this agenda, place 1 agenda counter on it for every 2 hosted advancement counters past 3. This agenda is worth 1 more agenda point for each hosted agenda counter.",
+ :stripped-title "Project Beale",
+ :subtype [:research],
+ :text
+   "When you score this agenda, place 1 agenda counter on it for every 2 hosted advancement counters past 3.\nThis agenda is worth 1 more agenda point for each hosted agenda counter.",
+ :title "Project Beale",
+ :type :agenda,
  :uniqueness false}

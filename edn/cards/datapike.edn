@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :neutral-corp
- :id "datapike"
- :influence-cost 0
- :side :corp
- :strength 2
- :stripped-text "Subroutine The Runner must pay 2 credits, if able. If the Runner cannot pay 2 credits, end the run. Subroutine End the run."
- :stripped-title "Datapike"
- :subtype [:code-gate]
- :text "[subroutine] The Runner must pay 2[credit], if able. If the Runner cannot pay 2[credit], end the run.\n[subroutine] End the run."
- :title "Datapike"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "datapike",
+ :influence-cost 0,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "Subroutine The Runner must pay 2 credits, if able. If the Runner cannot pay 2 credits, end the run. Subroutine End the run.",
+ :stripped-title "Datapike",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] The Runner must pay 2[credit], if able. If the Runner cannot pay 2[credit], end the run.\n[subroutine] End the run.",
+ :title "Datapike",
+ :type :ice,
  :uniqueness false}

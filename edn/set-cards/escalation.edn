@@ -1,134 +1,143 @@
-[{:card-id "obelus"
-  :code "11041"
-  :illustrator "Jenn Tran"
-  :position 41
-  :quantity 3
+[{:card-id "obelus",
+  :code "11041",
+  :illustrator "Jenn Tran",
+  :position 41,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "black-orchestra"
-  :code "11042"
-  :flavor "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint"
-  :illustrator "Adam S. Doyle"
-  :position 42
-  :quantity 3
+ {:card-id "black-orchestra",
+  :code "11042",
+  :flavor
+    "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint",
+  :illustrator "Adam S. Doyle",
+  :position 42,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "omar-keung-conspiracy-theorist"
-  :code "11043"
-  :illustrator "Matt Zeilinger"
-  :position 43
-  :quantity 3
+ {:card-id "omar-keung-conspiracy-theorist",
+  :code "11043",
+  :illustrator "Matt Zeilinger",
+  :position 43,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "peregrine"
-  :code "11044"
-  :flavor "Khan's avatar lifted her arm and the bird launched itself into the air."
-  :illustrator "Liiga Smilshkalne"
-  :position 44
-  :quantity 3
+ {:card-id "peregrine",
+  :code "11044",
+  :flavor
+    "Khan's avatar lifted her arm and the bird launched itself into the air.",
+  :illustrator "Liiga Smilshkalne",
+  :position 44,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "houdini"
-  :code "11045"
-  :flavor "My brain is the key that sets my mind free."
-  :illustrator "Galen Dara"
-  :position 45
-  :quantity 3
+ {:card-id "houdini",
+  :code "11045",
+  :flavor "My brain is the key that sets my mind free.",
+  :illustrator "Galen Dara",
+  :position 45,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "net-mercur"
-  :code "11046"
-  :flavor "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\""
-  :illustrator "Kathryn Steele"
-  :position 46
-  :quantity 3
+ {:card-id "net-mercur",
+  :code "11046",
+  :flavor
+    "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\"",
+  :illustrator "Kathryn Steele",
+  :position 46,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "find-the-truth"
-  :code "11047"
-  :flavor "All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero."
-  :illustrator "Ethan Patrick Harris"
-  :position 47
-  :quantity 3
+ {:card-id "find-the-truth",
+  :code "11047",
+  :flavor
+    "All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.",
+  :illustrator "Ethan Patrick Harris",
+  :position 47,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "first-responders"
-  :code "11048"
-  :flavor "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\""
-  :illustrator "Marko Fiedler"
-  :position 48
-  :quantity 3
+ {:card-id "first-responders",
+  :code "11048",
+  :flavor
+    "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\"",
+  :illustrator "Marko Fiedler",
+  :position 48,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "fairchild-3-0"
-  :code "11049"
-  :flavor "In battle, I take half the slain."
-  :illustrator "Liiga Smilshkalne"
-  :position 49
-  :quantity 3
+ {:card-id "fairchild-3-0",
+  :code "11049",
+  :flavor "In battle, I take half the slain.",
+  :illustrator "Liiga Smilshkalne",
+  :position 49,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "ark-lockdown"
-  :code "11050"
-  :flavor "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\""
-  :illustrator "Johan Törnlund"
-  :position 50
-  :quantity 3
+ {:card-id "ark-lockdown",
+  :code "11050",
+  :flavor
+    "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\"",
+  :illustrator "Johan Törnlund",
+  :position 50,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "hellion-beta-test"
-  :code "11051"
-  :flavor "\"Wait a minute, I don't even have a cat.\""
-  :illustrator "VIKO"
-  :position 51
-  :quantity 3
+ {:card-id "hellion-beta-test",
+  :code "11051",
+  :flavor "\"Wait a minute, I don't even have a cat.\"",
+  :illustrator "VIKO",
+  :position 51,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "project-kusanagi"
-  :code "11052"
-  :illustrator "Priscilla Kim"
-  :position 52
-  :quantity 3
+ {:card-id "project-kusanagi",
+  :code "11052",
+  :illustrator "Priscilla Kim",
+  :position 52,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "dna-tracker"
-  :code "11053"
-  :flavor "When your ID is flagged with your genetic profile, \"privacy\"  doesn't really exist."
-  :illustrator "A. Jones"
-  :position 53
-  :quantity 3
+ {:card-id "dna-tracker",
+  :code "11053",
+  :flavor
+    "When your ID is flagged with your genetic profile, \"privacy\"  doesn't really exist.",
+  :illustrator "A. Jones",
+  :position 53,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "jinteki-potential-unleashed"
-  :code "11054"
-  :flavor "Your better nature."
-  :position 54
-  :quantity 3
+ {:card-id "jinteki-potential-unleashed",
+  :code "11054",
+  :flavor "Your better nature.",
+  :position 54,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "alexa-belsky"
-  :code "11055"
-  :flavor "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson"
-  :illustrator "Kate Laird"
-  :position 55
-  :quantity 3
+ {:card-id "alexa-belsky",
+  :code "11055",
+  :flavor
+    "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson",
+  :illustrator "Kate Laird",
+  :position 55,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "observe-and-destroy"
-  :code "11056"
-  :flavor "Observing is fun, but it's just the appetizer."
-  :illustrator "Antonio De Luca"
-  :position 56
-  :quantity 3
+ {:card-id "observe-and-destroy",
+  :code "11056",
+  :flavor "Observing is fun, but it's just the appetizer.",
+  :illustrator "Antonio De Luca",
+  :position 56,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "service-outage"
-  :code "11057"
-  :illustrator "Samuel Leung"
-  :position 57
-  :quantity 3
+ {:card-id "service-outage",
+  :code "11057",
+  :illustrator "Samuel Leung",
+  :position 57,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "boom"
-  :code "11058"
-  :flavor "Game over."
-  :illustrator "JuanManuel Tumburus"
-  :position 58
-  :quantity 3
+ {:card-id "boom",
+  :code "11058",
+  :flavor "Game over.",
+  :illustrator "JuanManuel Tumburus",
+  :position 58,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "door-to-door"
-  :code "11059"
-  :illustrator "Maciej Rebisz"
-  :position 59
-  :quantity 3
+ {:card-id "door-to-door",
+  :code "11059",
+  :illustrator "Maciej Rebisz",
+  :position 59,
+  :quantity 3,
   :set-id "escalation"}
- {:card-id "scarcity-of-resources"
-  :code "11060"
-  :flavor "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible."
-  :illustrator "Maciej Rebisz"
-  :position 60
-  :quantity 3
+ {:card-id "scarcity-of-resources",
+  :code "11060",
+  :flavor
+    "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible.",
+  :illustrator "Maciej Rebisz",
+  :position 60,
+  :quantity 3,
   :set-id "escalation"}]

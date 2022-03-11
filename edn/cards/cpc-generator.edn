@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "cpc-generator"
- :influence-cost 3
- :side :corp
- :stripped-text "The first time the Runner spends click to gain 1 credit each turn (not through a card effect), gain 1 credit."
- :stripped-title "CPC Generator"
- :subtype [:advertisement]
- :text "The first time the Runner spends [click] to gain 1[credit] each turn (not through a card effect), gain 1[credit]."
- :title "CPC Generator"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "cpc-generator",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "The first time the Runner spends click to gain 1 credit each turn (not through a card effect), gain 1 credit.",
+ :stripped-title "CPC Generator",
+ :subtype [:advertisement],
+ :text
+   "The first time the Runner spends [click] to gain 1[credit] each turn (not through a card effect), gain 1[credit].",
+ :title "CPC Generator",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

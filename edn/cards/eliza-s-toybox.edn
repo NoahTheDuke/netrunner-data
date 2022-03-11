@@ -1,14 +1,14 @@
-{:cost 4
- :deck-limit 3
- :faction :haas-bioroid
- :id "eliza-s-toybox"
- :influence-cost 2
- :side :corp
- :stripped-text "click,click,click: Rez a card, ignoring all costs."
- :stripped-title "Eliza's Toybox"
- :subtype [:ritzy]
- :text "[click],[click],[click]: Rez a card, ignoring all costs."
- :title "Eliza's Toybox"
- :trash-cost 4
- :type :asset
+{:cost 4,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "eliza-s-toybox",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text "click,click,click: Rez a card, ignoring all costs.",
+ :stripped-title "Eliza's Toybox",
+ :subtype [:ritzy],
+ :text "[click],[click],[click]: Rez a card, ignoring all costs.",
+ :title "Eliza's Toybox",
+ :trash-cost 4,
+ :type :asset,
  :uniqueness true}

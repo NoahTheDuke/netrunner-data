@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "lawyer-up"
- :influence-cost 1
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Remove up to 2 tags and draw 3 cards."
- :stripped-title "Lawyer Up"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nRemove up to 2 tags and draw 3 cards."
- :title "Lawyer Up"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "lawyer-up",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Remove up to 2 tags and draw 3 cards.",
+ :stripped-title "Lawyer Up",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nRemove up to 2 tags and draw 3 cards.",
+ :title "Lawyer Up",
+ :type :event,
  :uniqueness false}

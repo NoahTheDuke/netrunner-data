@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :criminal
- :id "thunder-art-gallery"
- :influence-cost 2
- :side :runner
- :stripped-text "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1."
- :stripped-title "Thunder Art Gallery"
- :subtype [:location :ritzy]
- :text "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1."
- :title "Thunder Art Gallery"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "thunder-art-gallery",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1.",
+ :stripped-title "Thunder Art Gallery",
+ :subtype [:location :ritzy],
+ :text
+   "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1.",
+ :title "Thunder Art Gallery",
+ :type :resource,
  :uniqueness true}

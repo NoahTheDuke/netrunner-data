@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "starlight-crusade-funding"
- :influence-cost 0
- :side :runner
- :stripped-text "When your turn begins, lose click. Ignore any additional costs on each double event you play."
- :stripped-title "Starlight Crusade Funding"
- :text "When your turn begins, lose [click].\nIgnore any additional costs on each <strong>double</strong> event you play."
- :title "Starlight Crusade Funding"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "starlight-crusade-funding",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, lose click. Ignore any additional costs on each double event you play.",
+ :stripped-title "Starlight Crusade Funding",
+ :text
+   "When your turn begins, lose [click].\nIgnore any additional costs on each <strong>double</strong> event you play.",
+ :title "Starlight Crusade Funding",
+ :type :resource,
  :uniqueness false}

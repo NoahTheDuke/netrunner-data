@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "paywall-implementation"
- :influence-cost 2
- :side :corp
- :stripped-text "This card is not trashed until another current is played or an agenda is stolen. Gain 1 credit whenever the Runner makes a successful run."
- :stripped-title "Paywall Implementation"
- :subtype [:current :transaction]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nGain 1[credit] whenever the Runner makes a successful run."
- :title "Paywall Implementation"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "paywall-implementation",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is stolen. Gain 1 credit whenever the Runner makes a successful run.",
+ :stripped-title "Paywall Implementation",
+ :subtype [:current :transaction],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nGain 1[credit] whenever the Runner makes a successful run.",
+ :title "Paywall Implementation",
+ :type :operation,
  :uniqueness false}

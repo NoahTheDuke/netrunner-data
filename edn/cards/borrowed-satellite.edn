@@ -1,13 +1,13 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "borrowed-satellite"
- :influence-cost 2
- :side :runner
- :stripped-text "+1 link Your maximum hand size is increased by 1."
- :stripped-title "Borrowed Satellite"
- :subtype [:link]
- :text "+1[link]\nYour maximum hand size is increased by 1."
- :title "Borrowed Satellite"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "borrowed-satellite",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "+1 link Your maximum hand size is increased by 1.",
+ :stripped-title "Borrowed Satellite",
+ :subtype [:link],
+ :text "+1[link]\nYour maximum hand size is increased by 1.",
+ :title "Borrowed Satellite",
+ :type :resource,
  :uniqueness false}

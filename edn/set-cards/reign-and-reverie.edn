@@ -1,387 +1,399 @@
-[{:card-id "nathaniel-gnat-hall-one-of-a-kind"
-  :code "22001"
-  :flavor "\"Damn, I'm good.\""
-  :illustrator "M. Zeilinger and A. Christensen"
-  :position 1
-  :quantity 1
+[{:card-id "nathaniel-gnat-hall-one-of-a-kind",
+  :code "22001",
+  :flavor "\"Damn, I'm good.\"",
+  :illustrator "M. Zeilinger and A. Christensen",
+  :position 1,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "divide-and-conquer"
-  :code "22002"
-  :flavor "All roads lead to Rome."
-  :illustrator "Adam Doyle"
-  :position 2
-  :quantity 3
+ {:card-id "divide-and-conquer",
+  :code "22002",
+  :flavor "All roads lead to Rome.",
+  :illustrator "Adam Doyle",
+  :position 2,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "guinea-pig"
-  :code "22003"
-  :flavor "\"Worth it.\""
-  :illustrator "Reiko Murakami"
-  :position 3
-  :quantity 3
+ {:card-id "guinea-pig",
+  :code "22003",
+  :flavor "\"Worth it.\"",
+  :illustrator "Reiko Murakami",
+  :position 3,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "patchwork"
-  :code "22004"
-  :illustrator "Simon Boxer"
-  :position 4
-  :quantity 3
+ {:card-id "patchwork",
+  :code "22004",
+  :illustrator "Simon Boxer",
+  :position 4,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "hijacked-router"
-  :code "22005"
-  :illustrator "Angga Satriohadi"
-  :position 5
-  :quantity 3
+ {:card-id "hijacked-router",
+  :code "22005",
+  :illustrator "Angga Satriohadi",
+  :position 5,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "cradle"
-  :code "22006"
-  :flavor "... clack... clack... clack..."
-  :illustrator "Adam S. Doyle"
-  :position 6
-  :quantity 3
+ {:card-id "cradle",
+  :code "22006",
+  :flavor "... clack... clack... clack...",
+  :illustrator "Adam S. Doyle",
+  :position 6,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "district-99"
-  :code "22007"
-  :flavor "Another man's treasure."
-  :illustrator "Emilio Rodriguez"
-  :position 7
-  :quantity 3
+ {:card-id "district-99",
+  :code "22007",
+  :flavor "Another man's treasure.",
+  :illustrator "Emilio Rodriguez",
+  :position 7,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "liza-talking-thunder-prominent-legislator"
-  :code "22008"
-  :flavor "\"You think you're the first to come after me?\""
-  :illustrator "M. Zeilinger & A. Christensen"
-  :position 8
-  :quantity 1
+ {:card-id "liza-talking-thunder-prominent-legislator",
+  :code "22008",
+  :flavor "\"You think you're the first to come after me?\"",
+  :illustrator "M. Zeilinger & A. Christensen",
+  :position 8,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "hot-pursuit"
-  :code "22009"
-  :flavor "\"We have you surrounded! For real, this time.\""
-  :illustrator "Adam Schumpert"
-  :position 9
-  :quantity 3
+ {:card-id "hot-pursuit",
+  :code "22009",
+  :flavor "\"We have you surrounded! For real, this time.\"",
+  :illustrator "Adam Schumpert",
+  :position 9,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "paragon"
-  :code "22010"
-  :illustrator "Martin Diego Sádaba"
-  :position 10
-  :quantity 3
+ {:card-id "paragon",
+  :code "22010",
+  :illustrator "Martin Diego Sádaba",
+  :position 10,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "bankroll"
-  :code "22011"
-  :flavor "\"With the rise of crypto, banking has become much more complicated. Financial crime has not only kept pace, but exploded exponentially.\"\n-After the Flash: A History of the War-That-Wasn't"
-  :illustrator "Andreas Zafiratos"
-  :position 11
-  :quantity 3
+ {:card-id "bankroll",
+  :code "22011",
+  :flavor
+    "\"With the rise of crypto, banking has become much more complicated. Financial crime has not only kept pace, but exploded exponentially.\"\n-After the Flash: A History of the War-That-Wasn't",
+  :illustrator "Andreas Zafiratos",
+  :position 11,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "tycoon"
-  :code "22012"
-  :flavor "\"Any piece of ice is really just a paywall.\"\n-Liza Talking Thunder"
-  :illustrator "Andreas Zafiratos"
-  :position 12
-  :quantity 3
+ {:card-id "tycoon",
+  :code "22012",
+  :flavor
+    "\"Any piece of ice is really just a paywall.\"\n-Liza Talking Thunder",
+  :illustrator "Andreas Zafiratos",
+  :position 12,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "thunder-art-gallery"
-  :code "22013"
-  :flavor "A classy alibi."
-  :illustrator "Marko Fiedler"
-  :position 13
-  :quantity 3
+ {:card-id "thunder-art-gallery",
+  :code "22013",
+  :flavor "A classy alibi.",
+  :illustrator "Marko Fiedler",
+  :position 13,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "miss-bones"
-  :code "22014"
-  :flavor "\"If I can't kill it, I know who can.\""
-  :illustrator "Marko Fiedler"
-  :position 14
-  :quantity 3
+ {:card-id "miss-bones",
+  :code "22014",
+  :flavor "\"If I can't kill it, I know who can.\"",
+  :illustrator "Marko Fiedler",
+  :position 14,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "akiko-nisei-head-case"
-  :code "22015"
-  :illustrator "M. Zeilinger and A. Christensen"
-  :position 15
-  :quantity 1
+ {:card-id "akiko-nisei-head-case",
+  :code "22015",
+  :illustrator "M. Zeilinger and A. Christensen",
+  :position 15,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "insight"
-  :code "22016"
-  :illustrator "Adam Schumpert"
-  :position 16
-  :quantity 3
+ {:card-id "insight",
+  :code "22016",
+  :illustrator "Adam Schumpert",
+  :position 16,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "mind-s-eye"
-  :code "22017"
-  :illustrator "JB Casacop"
-  :position 17
-  :quantity 3
+ {:card-id "mind-s-eye",
+  :code "22017",
+  :illustrator "JB Casacop",
+  :position 17,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "mache"
-  :code "22018"
-  :flavor "\"What are you making?\"\n\"What <em>aren't</em> I making?\""
-  :illustrator "Martin Diego Sádaba"
-  :position 18
-  :quantity 3
+ {:card-id "mache",
+  :code "22018",
+  :flavor "\"What are you making?\"\n\"What <em>aren't</em> I making?\"",
+  :illustrator "Martin Diego Sádaba",
+  :position 18,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "ika"
-  :code "22019"
-  :flavor "\"Running is all methaphor, all symbols and plumbing into the depths of the psyche. Sometimes that means tentacles.\" -Akiko Nisei"
-  :illustrator "Andreas Zafiratos"
-  :position 19
-  :quantity 3
+ {:card-id "ika",
+  :code "22019",
+  :flavor
+    "\"Running is all methaphor, all symbols and plumbing into the depths of the psyche. Sometimes that means tentacles.\" -Akiko Nisei",
+  :illustrator "Andreas Zafiratos",
+  :position 19,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "kyuban"
-  :code "22020"
-  :flavor "The journey is its own reward."
-  :illustrator "Marius Siergiejew"
-  :position 20
-  :quantity 3
+ {:card-id "kyuban",
+  :code "22020",
+  :flavor "The journey is its own reward.",
+  :illustrator "Marius Siergiejew",
+  :position 20,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "psych-mike"
-  :code "22021"
-  :flavor "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko's tears away. \"What did you see?\"\n\"I...\" Akiko hesitated. \"Everything.\""
-  :illustrator "Zefanya Langkan Maega"
-  :position 21
-  :quantity 3
+ {:card-id "psych-mike",
+  :code "22021",
+  :flavor
+    "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko's tears away. \"What did you see?\"\n\"I...\" Akiko hesitated. \"Everything.\"",
+  :illustrator "Zefanya Langkan Maega",
+  :position 21,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "algernon"
-  :code "22022"
-  :flavor "\"When we're together, I feel like I can do anything!\""
-  :illustrator "Lili Ibrahim"
-  :position 22
-  :quantity 3
+ {:card-id "algernon",
+  :code "22022",
+  :flavor "\"When we're together, I feel like I can do anything!\"",
+  :illustrator "Lili Ibrahim",
+  :position 22,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "reboot"
-  :code "22023"
-  :illustrator "Liiga Smilshkalne"
-  :position 23
-  :quantity 3
+ {:card-id "reboot",
+  :code "22023",
+  :illustrator "Liiga Smilshkalne",
+  :position 23,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "office-supplies"
-  :code "22024"
-  :flavor "\"So, Miriam, hear anything good lately?\""
-  :illustrator "James Cory Webster"
-  :position 24
-  :quantity 3
+ {:card-id "office-supplies",
+  :code "22024",
+  :flavor "\"So, Miriam, hear anything good lately?\"",
+  :illustrator "James Cory Webster",
+  :position 24,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "dj-fenris"
-  :code "22025"
-  :illustrator "Matthew Zeilinger"
-  :position 25
-  :quantity 1
+ {:card-id "dj-fenris",
+  :code "22025",
+  :illustrator "Matthew Zeilinger",
+  :position 25,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "sportsmetal-go-big-or-go-home"
-  :code "22026"
-  :flavor "Want It More."
-  :illustrator "Viniciusde S Menezes"
-  :position 26
-  :quantity 1
+ {:card-id "sportsmetal-go-big-or-go-home",
+  :code "22026",
+  :flavor "Want It More.",
+  :illustrator "Viniciusde S Menezes",
+  :position 26,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "hyperloop-extension"
-  :code "22027"
-  :flavor "\"Our analysis shows significant support from both the public and private sectors.\""
-  :illustrator "Angga Satriohadi"
-  :position 27
-  :quantity 3
+ {:card-id "hyperloop-extension",
+  :code "22027",
+  :flavor
+    "\"Our analysis shows significant support from both the public and private sectors.\"",
+  :illustrator "Angga Satriohadi",
+  :position 27,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "meridian"
-  :code "22028"
-  :flavor "You don't cross it—it crosses you."
-  :illustrator "Adam Doyle"
-  :position 28
-  :quantity 3
+ {:card-id "meridian",
+  :code "22028",
+  :flavor "You don't cross it—it crosses you.",
+  :illustrator "Adam Doyle",
+  :position 28,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "gatekeeper"
-  :code "22029"
-  :flavor "Banana who?"
-  :illustrator "Liiga Smilshkalne"
-  :position 29
-  :quantity 3
+ {:card-id "gatekeeper",
+  :code "22029",
+  :flavor "Banana who?",
+  :illustrator "Liiga Smilshkalne",
+  :position 29,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "divert-power"
-  :code "22030"
-  :flavor "If that doesn't work, try reversing the polarity."
-  :illustrator "Marius Siergiejew"
-  :position 30
-  :quantity 3
+ {:card-id "divert-power",
+  :code "22030",
+  :flavor "If that doesn't work, try reversing the polarity.",
+  :illustrator "Marius Siergiejew",
+  :position 30,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "fast-break"
-  :code "22031"
-  :flavor "\"Oh, my! He's on fire!\""
-  :illustrator "James Cory Webster"
-  :position 31
-  :quantity 3
+ {:card-id "fast-break",
+  :code "22031",
+  :flavor "\"Oh, my! He's on fire!\"",
+  :illustrator "James Cory Webster",
+  :position 31,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "game-changer"
-  :code "22032"
-  :flavor "Coach Walden's pep talks were renowned for improving in direct proportion to the amount by which his team was losing."
-  :illustrator "Matthew Zeilinger"
-  :position 32
-  :quantity 3
+ {:card-id "game-changer",
+  :code "22032",
+  :flavor
+    "Coach Walden's pep talks were renowned for improving in direct proportion to the amount by which his team was losing.",
+  :illustrator "Matthew Zeilinger",
+  :position 32,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "giordano-memorial-field"
-  :code "22033"
-  :flavor "The world changed. Concession prices did not."
-  :illustrator "Emilio Rodriguez"
-  :position 33
-  :quantity 3
+ {:card-id "giordano-memorial-field",
+  :code "22033",
+  :flavor "The world changed. Concession prices did not.",
+  :illustrator "Emilio Rodriguez",
+  :position 33,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "saraswati-mnemonics-endless-exploration"
-  :code "22034"
-  :illustrator "Ben Zweifel"
-  :position 34
-  :quantity 1
+ {:card-id "saraswati-mnemonics-endless-exploration",
+  :code "22034",
+  :illustrator "Ben Zweifel",
+  :position 34,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "jumon"
-  :code "22035"
-  :flavor "\"Jumon, all too Jumon...\""
-  :illustrator "Mariusz Siergiejew"
-  :position 35
-  :quantity 3
+ {:card-id "jumon",
+  :code "22035",
+  :flavor "\"Jumon, all too Jumon...\"",
+  :illustrator "Mariusz Siergiejew",
+  :position 35,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "api-s-keeper-isobel"
-  :code "22036"
-  :flavor "\"Supersedure is all part of our scheduled maintenance.\""
-  :illustrator "Aurore Folny"
-  :position 36
-  :quantity 3
+ {:card-id "api-s-keeper-isobel",
+  :code "22036",
+  :flavor "\"Supersedure is all part of our scheduled maintenance.\"",
+  :illustrator "Aurore Folny",
+  :position 36,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "neurostasis"
-  :code "22037"
-  :illustrator "Galen Dara"
-  :position 37
-  :quantity 3
+ {:card-id "neurostasis",
+  :code "22037",
+  :illustrator "Galen Dara",
+  :position 37,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "otoroshi"
-  :code "22038"
-  :flavor "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged"
-  :illustrator "Adam Doyle"
-  :position 38
-  :quantity 3
+ {:card-id "otoroshi",
+  :code "22038",
+  :flavor
+    "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged",
+  :illustrator "Adam Doyle",
+  :position 38,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "thimblerig"
-  :code "22039"
-  :flavor "Step right up!"
-  :illustrator "Adam Doyle"
-  :position 39
-  :quantity 3
+ {:card-id "thimblerig",
+  :code "22039",
+  :flavor "Step right up!",
+  :illustrator "Adam Doyle",
+  :position 39,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "hangeki"
-  :code "22040"
-  :illustrator "Adam S. Doyle"
-  :position 40
-  :quantity 3
+ {:card-id "hangeki",
+  :code "22040",
+  :illustrator "Adam S. Doyle",
+  :position 40,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "daruma"
-  :code "22041"
-  :illustrator "JB Casacop"
-  :position 41
-  :quantity 3
+ {:card-id "daruma",
+  :code "22041",
+  :illustrator "JB Casacop",
+  :position 41,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "acme-consulting-the-truth-you-need"
-  :code "22042"
-  :illustrator "Emilio Rodriguez"
-  :position 42
-  :quantity 1
+ {:card-id "acme-consulting-the-truth-you-need",
+  :code "22042",
+  :illustrator "Emilio Rodriguez",
+  :position 42,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "fly-on-the-wall"
-  :code "22043"
-  :flavor "Only half as annoying as the real thing."
-  :illustrator "Martin Diego Sadaba"
-  :position 43
-  :quantity 3
+ {:card-id "fly-on-the-wall",
+  :code "22043",
+  :flavor "Only half as annoying as the real thing.",
+  :illustrator "Martin Diego Sadaba",
+  :position 43,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "siu"
-  :code "22044"
-  :flavor "\"What's so special about the Special Investigations Unit?\"\n\"Their budget, for starters.\""
-  :illustrator "Clark Huggins"
-  :position 44
-  :quantity 3
+ {:card-id "siu",
+  :code "22044",
+  :flavor
+    "\"What's so special about the Special Investigations Unit?\"\n\"Their budget, for starters.\"",
+  :illustrator "Clark Huggins",
+  :position 44,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "peeping-tom"
-  :code "22045"
-  :flavor "\"I lost the staring contest. And all seven rematches.\" -Kabonesa Wu"
-  :illustrator "Liiga Smilshkalne"
-  :position 45
-  :quantity 3
+ {:card-id "peeping-tom",
+  :code "22045",
+  :flavor
+    "\"I lost the staring contest. And all seven rematches.\" -Kabonesa Wu",
+  :illustrator "Liiga Smilshkalne",
+  :position 45,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "hydra"
-  :code "22046"
-  :illustrator "Liiga Smilshkalne"
-  :position 46
-  :quantity 3
+ {:card-id "hydra",
+  :code "22046",
+  :illustrator "Liiga Smilshkalne",
+  :position 46,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "eavesdrop"
-  :code "22047"
-  :flavor "\"No, the audio is fine. It just never seems to turn off.\""
-  :illustrator "Steve Hamilton"
-  :position 47
-  :quantity 3
+ {:card-id "eavesdrop",
+  :code "22047",
+  :flavor "\"No, the audio is fine. It just never seems to turn off.\"",
+  :illustrator "Steve Hamilton",
+  :position 47,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "attitude-adjustment"
-  :code "22048"
-  :flavor "\"Good news, ma'am. The compliance training was completed with little resistance.\""
-  :illustrator "Priscilla Kim"
-  :position 48
-  :quantity 3
+ {:card-id "attitude-adjustment",
+  :code "22048",
+  :flavor
+    "\"Good news, ma'am. The compliance training was completed with little resistance.\"",
+  :illustrator "Priscilla Kim",
+  :position 48,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "arella-salvatore"
-  :code "22049"
-  :flavor "\"Cheers, Philbert.\""
-  :illustrator "Matthew Zeilinger"
-  :position 49
-  :quantity 3
+ {:card-id "arella-salvatore",
+  :code "22049",
+  :flavor "\"Cheers, Philbert.\"",
+  :illustrator "Matthew Zeilinger",
+  :position 49,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "the-outfit-family-owned-and-operated"
-  :code "22050"
-  :flavor "We do things our way."
-  :illustrator "Emilio Rodriguez"
-  :position 50
-  :quantity 1
+ {:card-id "the-outfit-family-owned-and-operated",
+  :code "22050",
+  :flavor "We do things our way.",
+  :illustrator "Emilio Rodriguez",
+  :position 50,
+  :quantity 1,
   :set-id "reign-and-reverie"}
- {:card-id "broad-daylight"
-  :code "22051"
-  :illustrator "Steve Hamilton"
-  :position 51
-  :quantity 3
+ {:card-id "broad-daylight",
+  :code "22051",
+  :illustrator "Steve Hamilton",
+  :position 51,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "drudge-work"
-  :code "22052"
-  :illustrator "Emilio Rodriguez"
-  :position 52
-  :quantity 3
+ {:card-id "drudge-work",
+  :code "22052",
+  :illustrator "Emilio Rodriguez",
+  :position 52,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "blockchain"
-  :code "22053"
-  :illustrator "Marius Siergiejew"
-  :position 53
-  :quantity 3
+ {:card-id "blockchain",
+  :code "22053",
+  :illustrator "Marius Siergiejew",
+  :position 53,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "formicary"
-  :code "22054"
-  :flavor "A place of decay and death, a plane out of phase, a place of monsters."
-  :illustrator "Liiga Smilshkalne"
-  :position 54
-  :quantity 3
+ {:card-id "formicary",
+  :code "22054",
+  :flavor
+    "A place of decay and death, a plane out of phase, a place of monsters.",
+  :illustrator "Liiga Smilshkalne",
+  :position 54,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "building-blocks"
-  :code "22055"
-  :flavor "\"It looks like a mistake but I'm pretty sure they leave the gaps on purpose.\" -Gnat"
-  :illustrator "Ed Mattinian"
-  :position 55
-  :quantity 3
+ {:card-id "building-blocks",
+  :code "22055",
+  :flavor
+    "\"It looks like a mistake but I'm pretty sure they leave the gaps on purpose.\" -Gnat",
+  :illustrator "Ed Mattinian",
+  :position 55,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "too-big-to-fail"
-  :code "22056"
-  :flavor "\"This is blackmail!\"\n\"No, this is <em>extortion.</em>\""
-  :illustrator "Timur Shevtsov"
-  :position 56
-  :quantity 3
+ {:card-id "too-big-to-fail",
+  :code "22056",
+  :flavor "\"This is blackmail!\"\n\"No, this is <em>extortion.</em>\"",
+  :illustrator "Timur Shevtsov",
+  :position 56,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "under-the-bus"
-  :code "22057"
-  :illustrator "Timur Shevtsov"
-  :position 57
-  :quantity 3
+ {:card-id "under-the-bus",
+  :code "22057",
+  :illustrator "Timur Shevtsov",
+  :position 57,
+  :quantity 3,
   :set-id "reign-and-reverie"}
- {:card-id "lady-liberty"
-  :code "22058"
-  :illustrator "Emilio Rodriguez"
-  :position 58
-  :quantity 1
+ {:card-id "lady-liberty",
+  :code "22058",
+  :illustrator "Emilio Rodriguez",
+  :position 58,
+  :quantity 1,
   :set-id "reign-and-reverie"}]

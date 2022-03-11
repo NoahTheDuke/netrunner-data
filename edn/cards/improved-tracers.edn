@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :nbn
- :id "improved-tracers"
- :side :corp
- :stripped-text "All tracer ice have +1 strength. The base trace strength of each subroutine is increased by 1."
- :stripped-title "Improved Tracers"
- :subtype [:security]
- :text "All <strong>tracer</strong> ice have +1 strength.\nThe base trace strength of each subroutine is increased by 1."
- :title "Improved Tracers"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "improved-tracers",
+ :side :corp,
+ :stripped-text
+   "All tracer ice have +1 strength. The base trace strength of each subroutine is increased by 1.",
+ :stripped-title "Improved Tracers",
+ :subtype [:security],
+ :text
+   "All <strong>tracer</strong> ice have +1 strength.\nThe base trace strength of each subroutine is increased by 1.",
+ :title "Improved Tracers",
+ :type :agenda,
  :uniqueness false}

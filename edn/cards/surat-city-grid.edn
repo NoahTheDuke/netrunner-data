@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "surat-city-grid"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2 credits less. Limit 1 region per server."
- :stripped-title "Surat City Grid"
- :subtype [:region]
- :text "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2[credit] less.\nLimit 1 <strong>region</strong> per server."
- :title "Surat City Grid"
- :trash-cost 3
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "surat-city-grid",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2 credits less. Limit 1 region per server.",
+ :stripped-title "Surat City Grid",
+ :subtype [:region],
+ :text
+   "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2[credit] less.\nLimit 1 <strong>region</strong> per server.",
+ :title "Surat City Grid",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness false}

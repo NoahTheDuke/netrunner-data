@@ -1,13 +1,13 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "street-magic"
- :influence-cost 1
- :side :runner
- :stripped-text "Unbroken subroutines resolve in the order of your choice."
- :stripped-title "Street Magic"
- :subtype [:virtual]
- :text "Unbroken subroutines resolve in the order of your choice."
- :title "Street Magic"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "street-magic",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text "Unbroken subroutines resolve in the order of your choice.",
+ :stripped-title "Street Magic",
+ :subtype [:virtual],
+ :text "Unbroken subroutines resolve in the order of your choice.",
+ :title "Street Magic",
+ :type :resource,
  :uniqueness false}

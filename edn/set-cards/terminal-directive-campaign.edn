@@ -1,168 +1,168 @@
-[{:card-id "evidence-collection"
-  :code "14000"
-  :illustrator "Dmitry Burmak"
-  :position 1
-  :quantity 3
+[{:card-id "evidence-collection",
+  :code "14000",
+  :illustrator "Dmitry Burmak",
+  :position 1,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "evidence-collection-2"
-  :code "14001"
-  :illustrator "Dmitry Burmak"
-  :position 2
-  :quantity 3
+ {:card-id "evidence-collection-2",
+  :code "14001",
+  :illustrator "Dmitry Burmak",
+  :position 2,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "evidence-collection-3"
-  :code "14002"
-  :illustrator "Dmitry Burmak"
-  :position 3
-  :quantity 3
+ {:card-id "evidence-collection-3",
+  :code "14002",
+  :illustrator "Dmitry Burmak",
+  :position 3,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "evidence-collection-4"
-  :code "14003"
-  :illustrator "Dmitry Burmak"
-  :position 4
-  :quantity 3
+ {:card-id "evidence-collection-4",
+  :code "14003",
+  :illustrator "Dmitry Burmak",
+  :position 4,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado-a"
-  :code "14004"
-  :illustrator "PxelSlayer"
-  :position 5
-  :quantity 3
+ {:card-id "investigator-inez-delgado-a",
+  :code "14004",
+  :illustrator "PxelSlayer",
+  :position 5,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado-a-2"
-  :code "14005"
-  :illustrator "PxelSlayer"
-  :position 6
-  :quantity 3
+ {:card-id "investigator-inez-delgado-a-2",
+  :code "14005",
+  :illustrator "PxelSlayer",
+  :position 6,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "lt-todachine"
-  :code "14006"
-  :illustrator "Antonio José Manzanedo"
-  :position 7
-  :quantity 3
+ {:card-id "lt-todachine",
+  :code "14006",
+  :illustrator "Antonio José Manzanedo",
+  :position 7,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "lt-todachine-2"
-  :code "14007"
-  :illustrator "Antonio José Manzanedo"
-  :position 8
-  :quantity 3
+ {:card-id "lt-todachine-2",
+  :code "14007",
+  :illustrator "Antonio José Manzanedo",
+  :position 8,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "trojan"
-  :code "14008"
-  :illustrator "Ethan Patrick Harris"
-  :position 9
-  :quantity 3
+ {:card-id "trojan",
+  :code "14008",
+  :illustrator "Ethan Patrick Harris",
+  :position 9,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "net-watchlist"
-  :code "14023"
-  :illustrator "Adam S. Doyle"
-  :position 10
-  :quantity 1
+ {:card-id "net-watchlist",
+  :code "14023",
+  :illustrator "Adam S. Doyle",
+  :position 10,
+  :quantity 1,
   :set-id "terminal-directive-campaign"}
- {:card-id "machicolation-a"
-  :code "14010"
-  :illustrator "Ed Mattinian"
-  :position 11
-  :quantity 3
+ {:card-id "machicolation-a",
+  :code "14010",
+  :illustrator "Ed Mattinian",
+  :position 11,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "machicolation-b"
-  :code "14011"
-  :illustrator "Ed Mattinian"
-  :position 12
-  :quantity 3
+ {:card-id "machicolation-b",
+  :code "14011",
+  :illustrator "Ed Mattinian",
+  :position 12,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "corporate-oversight-a"
-  :code "14012"
-  :illustrator "Matt Zeilinger"
-  :position 13
-  :quantity 3
+ {:card-id "corporate-oversight-a",
+  :code "14012",
+  :illustrator "Matt Zeilinger",
+  :position 13,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "corporate-oversight-b"
-  :code "14013"
-  :illustrator "Matt Zeilinger"
-  :position 14
-  :quantity 3
+ {:card-id "corporate-oversight-b",
+  :code "14013",
+  :illustrator "Matt Zeilinger",
+  :position 14,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado"
-  :code "14014"
-  :illustrator "Matt Zeilinger"
-  :position 15
-  :quantity 3
+ {:card-id "investigator-inez-delgado",
+  :code "14014",
+  :illustrator "Matt Zeilinger",
+  :position 15,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado-2"
-  :code "14015"
-  :illustrator "Matt Zeilinger"
-  :position 16
-  :quantity 3
+ {:card-id "investigator-inez-delgado-2",
+  :code "14015",
+  :illustrator "Matt Zeilinger",
+  :position 16,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado-3"
-  :code "14016"
-  :illustrator "Matt Zeilinger"
-  :position 17
-  :quantity 3
+ {:card-id "investigator-inez-delgado-3",
+  :code "14016",
+  :illustrator "Matt Zeilinger",
+  :position 17,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "investigator-inez-delgado-4"
-  :code "14017"
-  :illustrator "Matt Zeilinger"
-  :position 18
-  :quantity 3
+ {:card-id "investigator-inez-delgado-4",
+  :code "14017",
+  :illustrator "Matt Zeilinger",
+  :position 18,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "surveillance-network-key"
-  :code "14018"
-  :illustrator "Michał Miłkowski"
-  :position 19
-  :quantity 3
+ {:card-id "surveillance-network-key",
+  :code "14018",
+  :illustrator "Michał Miłkowski",
+  :position 19,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "surveillance-network-key-2"
-  :code "14019"
-  :illustrator "Michał Miłkowski"
-  :position 20
-  :quantity 3
+ {:card-id "surveillance-network-key-2",
+  :code "14019",
+  :illustrator "Michał Miłkowski",
+  :position 20,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "bmi-buffer"
-  :code "14020"
-  :illustrator "Timur Shevtsov"
-  :position 21
-  :quantity 3
+ {:card-id "bmi-buffer",
+  :code "14020",
+  :illustrator "Timur Shevtsov",
+  :position 21,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "bmi-buffer-2"
-  :code "14021"
-  :illustrator "Timur Shevtsov"
-  :position 22
-  :quantity 3
+ {:card-id "bmi-buffer-2",
+  :code "14021",
+  :illustrator "Timur Shevtsov",
+  :position 22,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "shadow-team"
-  :code "14022"
-  :illustrator "Adam Schumpert"
-  :position 23
-  :quantity 3
+ {:card-id "shadow-team",
+  :code "14022",
+  :illustrator "Adam Schumpert",
+  :position 23,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "security-leak"
-  :code "14009"
-  :illustrator "Jason Juta"
-  :position 24
-  :quantity 1
+ {:card-id "security-leak",
+  :code "14009",
+  :illustrator "Jason Juta",
+  :position 24,
+  :quantity 1,
   :set-id "terminal-directive-campaign"}
- {:card-id "the-masque-a"
-  :code "14024"
-  :illustrator "PxelSlayer"
-  :position 25
-  :quantity 3
+ {:card-id "the-masque-a",
+  :code "14024",
+  :illustrator "PxelSlayer",
+  :position 25,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "the-masque-b"
-  :code "14025"
-  :illustrator "PxelSlayer"
-  :position 26
-  :quantity 3
+ {:card-id "the-masque-b",
+  :code "14025",
+  :illustrator "PxelSlayer",
+  :position 26,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "sneakdoor-prime-a"
-  :code "14026"
-  :illustrator "Dmitry Prosvirnin"
-  :position 27
-  :quantity 3
+ {:card-id "sneakdoor-prime-a",
+  :code "14026",
+  :illustrator "Dmitry Prosvirnin",
+  :position 27,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}
- {:card-id "sneakdoor-prime-b"
-  :code "14027"
-  :illustrator "Dmitry Prosvirnin"
-  :position 28
-  :quantity 3
+ {:card-id "sneakdoor-prime-b",
+  :code "14027",
+  :illustrator "Dmitry Prosvirnin",
+  :position 28,
+  :quantity 3,
   :set-id "terminal-directive-campaign"}]

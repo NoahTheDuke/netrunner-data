@@ -1,15 +1,17 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "cradle"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :strength 5
- :stripped-text "This program gets -1 strength for each card in your grip. Interface -> 2 credits: Break any number of code gate subroutines."
- :stripped-title "Cradle"
- :subtype [:icebreaker :decoder]
- :text "This program gets -1 strength for each card in your grip.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines."
- :title "Cradle"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "cradle",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :strength 5,
+ :stripped-text
+   "This program gets -1 strength for each card in your grip. Interface -> 2 credits: Break any number of code gate subroutines.",
+ :stripped-title "Cradle",
+ :subtype [:icebreaker :decoder],
+ :text
+   "This program gets -1 strength for each card in your grip.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.",
+ :title "Cradle",
+ :type :program,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "ngo-front"
- :influence-cost 0
- :side :corp
- :stripped-text "NGO Front can be advanced. trash,1 hosted advancement token: Gain 5 credits. trash,2 hosted advancement tokens: Gain 8 credits."
- :stripped-title "NGO Front"
- :text "NGO Front can be advanced.\n[trash],<strong>1 hosted advancement token</strong>: Gain 5[credit].\n[trash],<strong>2 hosted advancement tokens</strong>: Gain 8[credit]."
- :title "NGO Front"
- :trash-cost 1
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "ngo-front",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "NGO Front can be advanced. trash,1 hosted advancement token: Gain 5 credits. trash,2 hosted advancement tokens: Gain 8 credits.",
+ :stripped-title "NGO Front",
+ :text
+   "NGO Front can be advanced.\n[trash],<strong>1 hosted advancement token</strong>: Gain 5[credit].\n[trash],<strong>2 hosted advancement tokens</strong>: Gain 8[credit].",
+ :title "NGO Front",
+ :trash-cost 1,
+ :type :asset,
  :uniqueness false}

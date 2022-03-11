@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :jinteki
- :id "gemini"
- :influence-cost 2
- :side :corp
- :strength 5
- :stripped-text "Subroutine Trace 2 If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage."
- :stripped-title "Gemini"
- :subtype [:sentry :tracer :ap]
- :text "[subroutine] <trace>Trace 2</trace> If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage."
- :title "Gemini"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "gemini",
+ :influence-cost 2,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Subroutine Trace 2 If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.",
+ :stripped-title "Gemini",
+ :subtype [:sentry :tracer :ap],
+ :text
+   "[subroutine] <trace>Trace 2</trace> If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.",
+ :title "Gemini",
+ :type :ice,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :nbn
- :id "drone-screen"
- :influence-cost 2
- :side :corp
- :stripped-text "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, Trace 3 If successful, do 1 meat damage (cannot be prevented).\""
- :stripped-title "Drone Screen"
- :text "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>Trace 3</trace> If successful, do 1 meat damage (cannot be prevented).\""
- :title "Drone Screen"
- :trash-cost 4
- :type :upgrade
+{:cost 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "drone-screen",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, Trace 3 If successful, do 1 meat damage (cannot be prevented).\"",
+ :stripped-title "Drone Screen",
+ :text
+   "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>Trace 3</trace> If successful, do 1 meat damage (cannot be prevented).\"",
+ :title "Drone Screen",
+ :trash-cost 4,
+ :type :upgrade,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :neutral-corp
- :id "private-contracts"
- :influence-cost 0
- :side :corp
- :stripped-text "Place 14 credits from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it. click: Take 2 credits from Private Contracts."
- :stripped-title "Private Contracts"
- :subtype [:transaction]
- :text "Place 14[credit] from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it.\n[click]: Take 2[credit] from Private Contracts."
- :title "Private Contracts"
- :trash-cost 5
- :type :asset
+{:cost 3,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "private-contracts",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Place 14 credits from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it. click: Take 2 credits from Private Contracts.",
+ :stripped-title "Private Contracts",
+ :subtype [:transaction],
+ :text
+   "Place 14[credit] from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it.\n[click]: Take 2[credit] from Private Contracts.",
+ :title "Private Contracts",
+ :trash-cost 5,
+ :type :asset,
  :uniqueness false}

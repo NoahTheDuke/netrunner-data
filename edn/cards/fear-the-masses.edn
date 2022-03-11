@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 6
- :faction :anarch
- :id "fear-the-masses"
- :influence-cost 2
- :side :runner
- :stripped-text "Run HQ. If successful, instead of breaching HQ, reveal any number of copies of Fear the Masses from your grip. The Corp trashes X cards from the top of R&D, where X is equal to 1 plus the number of cards you revealed. Limit 6 per deck."
- :stripped-title "Fear the Masses"
- :subtype [:run :sabotage]
- :text "Run HQ. If successful, instead of breaching HQ, reveal any number of copies of Fear the Masses from your grip. The Corp trashes X cards from the top of R&D, where X is equal to 1 plus the number of cards you revealed.\nLimit 6 per deck."
- :title "Fear the Masses"
- :type :event
+{:cost 1,
+ :deck-limit 6,
+ :faction :anarch,
+ :id "fear-the-masses",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Run HQ. If successful, instead of breaching HQ, reveal any number of copies of Fear the Masses from your grip. The Corp trashes X cards from the top of R&D, where X is equal to 1 plus the number of cards you revealed. Limit 6 per deck.",
+ :stripped-title "Fear the Masses",
+ :subtype [:run :sabotage],
+ :text
+   "Run HQ. If successful, instead of breaching HQ, reveal any number of copies of Fear the Masses from your grip. The Corp trashes X cards from the top of R&D, where X is equal to 1 plus the number of cards you revealed.\nLimit 6 per deck.",
+ :title "Fear the Masses",
+ :type :event,
  :uniqueness false}

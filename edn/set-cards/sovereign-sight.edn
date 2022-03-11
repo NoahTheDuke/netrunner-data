@@ -1,132 +1,140 @@
-[{:card-id "by-any-means"
-  :code "21001"
-  :illustrator "Le Vuong"
-  :position 1
-  :quantity 3
+[{:card-id "by-any-means",
+  :code "21001",
+  :illustrator "Le Vuong",
+  :position 1,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "yusuf"
-  :code "21002"
-  :illustrator "Alexandr Elichev"
-  :position 2
-  :quantity 3
+ {:card-id "yusuf",
+  :code "21002",
+  :illustrator "Alexandr Elichev",
+  :position 2,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "zamba"
-  :code "21003"
-  :flavor "Mounted holistic lenses download, recompile, and broadcast data faster than a corporate cover-up."
-  :illustrator "Martin de Diego Sádaba"
-  :position 3
-  :quantity 3
+ {:card-id "zamba",
+  :code "21003",
+  :flavor
+    "Mounted holistic lenses download, recompile, and broadcast data faster than a corporate cover-up.",
+  :illustrator "Martin de Diego Sádaba",
+  :position 3,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "puffer"
-  :code "21004"
-  :illustrator "Andreas Zafiratos"
-  :position 4
-  :quantity 3
+ {:card-id "puffer",
+  :code "21004",
+  :illustrator "Andreas Zafiratos",
+  :position 4,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "lewi-guilherme"
-  :code "21005"
-  :flavor "Brought up in the slums of Jinja, Lewi made his fortune through back alley deals, well-placed bets, and savvy showmanship."
-  :illustrator "PxelSlayer"
-  :position 5
-  :quantity 3
+ {:card-id "lewi-guilherme",
+  :code "21005",
+  :flavor
+    "Brought up in the slums of Jinja, Lewi made his fortune through back alley deals, well-placed bets, and savvy showmanship.",
+  :illustrator "PxelSlayer",
+  :position 5,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "cyberdelia"
-  :code "21006"
-  :flavor "Optical computing still has its uses. But it's hard to explain them to people whose eyes glaze over when you bring up the double-slit experiment."
-  :illustrator "Nasrul Hakim"
-  :position 6
-  :quantity 3
+ {:card-id "cyberdelia",
+  :code "21006",
+  :flavor
+    "Optical computing still has its uses. But it's hard to explain them to people whose eyes glaze over when you bring up the double-slit experiment.",
+  :illustrator "Nasrul Hakim",
+  :position 6,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "upya"
-  :code "21007"
-  :flavor "New life through new understanding."
-  :illustrator "Galen Dara"
-  :position 7
-  :quantity 3
+ {:card-id "upya",
+  :code "21007",
+  :flavor "New life through new understanding.",
+  :illustrator "Galen Dara",
+  :position 7,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "assimilator"
-  :code "21008"
-  :flavor "\"Its only function seems to be repurposing code.\"\n\"Can you kill it?\" she asked.\n\"I can try,\" he said. Guiding his program dead center of the mass, he plunged, piercing the shell before an eruption sent his screen into static. He jacked out, his eyes wide. \"I... I think it absorbed my breaker. And everything else.\""
-  :illustrator "Alexandr Elichev"
-  :position 8
-  :quantity 3
+ {:card-id "assimilator",
+  :code "21008",
+  :flavor
+    "\"Its only function seems to be repurposing code.\"\n\"Can you kill it?\" she asked.\n\"I can try,\" he said. Guiding his program dead center of the mass, he plunged, piercing the shell before an eruption sent his screen into static. He jacked out, his eyes wide. \"I... I think it absorbed my breaker. And everything else.\"",
+  :illustrator "Alexandr Elichev",
+  :position 8,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "asa-group-security-through-vigilance"
-  :code "21009"
-  :illustrator "Johan Törnlund"
-  :position 9
-  :quantity 3
+ {:card-id "asa-group-security-through-vigilance",
+  :code "21009",
+  :illustrator "Johan Törnlund",
+  :position 9,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "ikawah-project"
-  :code "21010"
-  :flavor "\"The average citizen of Nairobi speaks six languages. Every culture, language, ethnicity of the east of Africa collides here, collapses together. What happens slowly by nature can happen quickly in our lab. We will bring peace.\" - Dr. Muchina, Project Lead"
-  :illustrator "Michał Miłkowski"
-  :position 10
-  :quantity 3
+ {:card-id "ikawah-project",
+  :code "21010",
+  :flavor
+    "\"The average citizen of Nairobi speaks six languages. Every culture, language, ethnicity of the east of Africa collides here, collapses together. What happens slowly by nature can happen quickly in our lab. We will bring peace.\" - Dr. Muchina, Project Lead",
+  :illustrator "Michał Miłkowski",
+  :position 10,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "najja-1-0"
-  :code "21011"
-  :flavor "Earth and Sun, together as one."
-  :illustrator "Andreas Zafiratos"
-  :position 11
-  :quantity 3
+ {:card-id "najja-1-0",
+  :code "21011",
+  :flavor "Earth and Sun, together as one.",
+  :illustrator "Andreas Zafiratos",
+  :position 11,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "gene-splicer"
-  :code "21012"
-  :illustrator "Ed Mattinian"
-  :position 12
-  :quantity 3
+ {:card-id "gene-splicer",
+  :code "21012",
+  :illustrator "Ed Mattinian",
+  :position 12,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "mganga"
-  :code "21013"
-  :flavor "Thin enough to pierce netspace. Deadly enough to pierce your mind."
-  :illustrator "Liiga Smilshkalne"
-  :position 13
-  :quantity 3
+ {:card-id "mganga",
+  :code "21013",
+  :flavor "Thin enough to pierce netspace. Deadly enough to pierce your mind.",
+  :illustrator "Liiga Smilshkalne",
+  :position 13,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "genotyping"
-  :code "21014"
-  :flavor "Sometimes you have to break a few eggs to sequence a genome."
-  :illustrator "Pavel Kolomeyets"
-  :position 14
-  :quantity 3
+ {:card-id "genotyping",
+  :code "21014",
+  :flavor "Sometimes you have to break a few eggs to sequence a genome.",
+  :illustrator "Pavel Kolomeyets",
+  :position 14,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "echo-chamber"
-  :code "21015"
-  :flavor "\"Capitalism runs on two things: amplified arrogance and censored dissent. With those, a corp can create any environment it wants.\" - Freedom Khumalo"
-  :illustrator "Donald Crank"
-  :position 15
-  :quantity 3
+ {:card-id "echo-chamber",
+  :code "21015",
+  :flavor
+    "\"Capitalism runs on two things: amplified arrogance and censored dissent. With those, a corp can create any environment it wants.\" - Freedom Khumalo",
+  :illustrator "Donald Crank",
+  :position 15,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "self-growth-program"
-  :code "21016"
-  :flavor "Our patented ClearMind™ technology pacifies the trials and tribulations of everyday life."
-  :illustrator "Limetown Studios"
-  :position 16
-  :quantity 3
+ {:card-id "self-growth-program",
+  :code "21016",
+  :flavor
+    "Our patented ClearMind™ technology pacifies the trials and tribulations of everyday life.",
+  :illustrator "Limetown Studios",
+  :position 16,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "calibration-testing"
-  :code "21017"
-  :flavor "\"Once every week, we perform a drill. Except, I'm the only one who knows it's a drill.\""
-  :illustrator "James Cory Webster"
-  :position 17
-  :quantity 3
+ {:card-id "calibration-testing",
+  :code "21017",
+  :flavor
+    "\"Once every week, we perform a drill. Except, I'm the only one who knows it's a drill.\"",
+  :illustrator "James Cory Webster",
+  :position 17,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "urban-renewal"
-  :code "21018"
-  :illustrator "Johan Törnlund"
-  :position 18
-  :quantity 3
+ {:card-id "urban-renewal",
+  :code "21018",
+  :illustrator "Johan Törnlund",
+  :position 18,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "wake-up-call"
-  :code "21019"
-  :illustrator "James Cory Webster"
-  :position 19
-  :quantity 3
+ {:card-id "wake-up-call",
+  :code "21019",
+  :illustrator "James Cory Webster",
+  :position 19,
+  :quantity 3,
   :set-id "sovereign-sight"}
- {:card-id "reconstruction-contract"
-  :code "21020"
-  :illustrator "BalanceSheet"
-  :position 20
-  :quantity 3
+ {:card-id "reconstruction-contract",
+  :code "21020",
+  :illustrator "BalanceSheet",
+  :position 20,
+  :quantity 3,
   :set-id "sovereign-sight"}]

@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "reversed-accounts"
- :influence-cost 1
- :side :corp
- :stripped-text "You can advance this asset. click, trash: The Runner loses 4 credits for each hosted advancement counter."
- :stripped-title "Reversed Accounts"
- :subtype [:hostile]
- :text "You can advance this asset.\n[click], [trash]: The Runner loses 4[credit] for each hosted advancement counter."
- :title "Reversed Accounts"
- :trash-cost 3
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "reversed-accounts",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "You can advance this asset. click, trash: The Runner loses 4 credits for each hosted advancement counter.",
+ :stripped-title "Reversed Accounts",
+ :subtype [:hostile],
+ :text
+   "You can advance this asset.\n[click], [trash]: The Runner loses 4[credit] for each hosted advancement counter.",
+ :title "Reversed Accounts",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

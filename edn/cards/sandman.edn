@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :nbn
- :id "sandman"
- :influence-cost 3
- :side :corp
- :strength 3
- :stripped-text "Subroutine Add an installed Runner card to the grip. Subroutine Add an installed Runner card to the grip."
- :stripped-title "Sandman"
- :subtype [:code-gate]
- :text "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip."
- :title "Sandman"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "sandman",
+ :influence-cost 3,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Subroutine Add an installed Runner card to the grip. Subroutine Add an installed Runner card to the grip.",
+ :stripped-title "Sandman",
+ :subtype [:code-gate],
+ :text
+   "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip.",
+ :title "Sandman",
+ :type :ice,
  :uniqueness false}

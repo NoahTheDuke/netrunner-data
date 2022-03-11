@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "fairchild-1-0"
- :influence-cost 1
- :side :corp
- :strength 2
- :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards."
- :stripped-title "Fairchild 1.0"
- :subtype [:code-gate :bioroid]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards."
- :title "Fairchild 1.0"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "fairchild-1-0",
+ :influence-cost 1,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards.",
+ :stripped-title "Fairchild 1.0",
+ :subtype [:code-gate :bioroid],
+ :text
+   "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards.",
+ :title "Fairchild 1.0",
+ :type :ice,
  :uniqueness false}

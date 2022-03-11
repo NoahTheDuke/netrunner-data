@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "investigator-inez-delgado-a-2"
- :influence-cost 0
- :side :corp
- :stripped-text "Whenever the Runner steals an agenda, you may resolve the \"when scored\" ability on that agenda, then swap it with an agenda in your scored area."
- :stripped-title "Investigator Inez Delgado A 2"
- :subtype [:character]
- :text "Whenever the Runner steals an agenda, you may resolve the \"when scored\" ability on that agenda, then swap it with an agenda in your scored area."
- :title "Investigator Inez Delgado A 2"
- :trash-cost 5
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "investigator-inez-delgado-a-2",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner steals an agenda, you may resolve the \"when scored\" ability on that agenda, then swap it with an agenda in your scored area.",
+ :stripped-title "Investigator Inez Delgado A 2",
+ :subtype [:character],
+ :text
+   "Whenever the Runner steals an agenda, you may resolve the \"when scored\" ability on that agenda, then swap it with an agenda in your scored area.",
+ :title "Investigator Inez Delgado A 2",
+ :trash-cost 5,
+ :type :asset,
  :uniqueness true}

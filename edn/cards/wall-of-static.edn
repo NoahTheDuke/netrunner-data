@@ -1,14 +1,14 @@
-{:cost 3
- :deck-limit 3
- :faction :neutral-corp
- :id "wall-of-static"
- :influence-cost 0
- :side :corp
- :strength 3
- :stripped-text "Subroutine End the run."
- :stripped-title "Wall of Static"
- :subtype [:barrier]
- :text "[subroutine] End the run."
- :title "Wall of Static"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "wall-of-static",
+ :influence-cost 0,
+ :side :corp,
+ :strength 3,
+ :stripped-text "Subroutine End the run.",
+ :stripped-title "Wall of Static",
+ :subtype [:barrier],
+ :text "[subroutine] End the run.",
+ :title "Wall of Static",
+ :type :ice,
  :uniqueness false}

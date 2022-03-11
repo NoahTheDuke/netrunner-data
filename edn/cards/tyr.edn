@@ -1,14 +1,16 @@
-{:cost 10
- :deck-limit 3
- :faction :haas-bioroid
- :id "tyr"
- :influence-cost 5
- :side :corp
- :strength 7
- :stripped-text "Lose click: Break 1 subroutine on this ice. The Corp gets +1 allotted click for their next turn. Only the Runner can use this ability. Subroutine Do 2 brain damage. Subroutine Trash 1 installed Runner card. Gain 3 credits. Subroutine End the run."
- :stripped-title "Tyr"
- :subtype [:sentry :bioroid :ap :destroyer]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. The Corp gets +1 allotted [click] for their next turn. Only the Runner can use this ability.\n[subroutine] Do 2 brain damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run."
- :title "Týr"
- :type :ice
+{:cost 10,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "tyr",
+ :influence-cost 5,
+ :side :corp,
+ :strength 7,
+ :stripped-text
+   "Lose click: Break 1 subroutine on this ice. The Corp gets +1 allotted click for their next turn. Only the Runner can use this ability. Subroutine Do 2 brain damage. Subroutine Trash 1 installed Runner card. Gain 3 credits. Subroutine End the run.",
+ :stripped-title "Tyr",
+ :subtype [:sentry :bioroid :ap :destroyer],
+ :text
+   "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. The Corp gets +1 allotted [click] for their next turn. Only the Runner can use this ability.\n[subroutine] Do 2 brain damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run.",
+ :title "Týr",
+ :type :ice,
  :uniqueness true}

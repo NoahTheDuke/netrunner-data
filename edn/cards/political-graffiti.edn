@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "political-graffiti"
- :influence-cost 3
- :side :runner
- :stripped-text "Run Archives. If successful, instead of breaching Archives, add this operation to an agenda in the Corp's score area as a hosted condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\""
- :stripped-title "Political Graffiti"
- :subtype [:run]
- :text "Run Archives. If successful, instead of breaching Archives, add this operation to an agenda in the Corp's score area as a hosted condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\""
- :title "Political Graffiti"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "political-graffiti",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run Archives. If successful, instead of breaching Archives, add this event to an agenda in the Corp's score area as a hosted condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\"",
+ :stripped-title "Political Graffiti",
+ :subtype [:run],
+ :text
+   "Run Archives. If successful, instead of breaching Archives, add this event to an agenda in the Corp's score area as a hosted condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\"",
+ :title "Political Graffiti",
+ :type :event,
  :uniqueness false}

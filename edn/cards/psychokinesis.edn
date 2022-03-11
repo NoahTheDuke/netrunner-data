@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :jinteki
- :id "psychokinesis"
- :influence-cost 2
- :side :corp
- :stripped-text "After you resolve this operation, end your action phase. Look at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server."
- :stripped-title "Psychokinesis"
- :subtype [:terminal]
- :text "After you resolve this operation, end your action phase.\nLook at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server."
- :title "Psychokinesis"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "psychokinesis",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "After you resolve this operation, end your action phase. Look at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server.",
+ :stripped-title "Psychokinesis",
+ :subtype [:terminal],
+ :text
+   "After you resolve this operation, end your action phase.\nLook at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server.",
+ :title "Psychokinesis",
+ :type :operation,
  :uniqueness false}

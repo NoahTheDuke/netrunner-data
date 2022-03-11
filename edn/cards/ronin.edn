@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "ronin"
- :influence-cost 4
- :side :corp
- :stripped-text "You can advance this asset. click, trash: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters."
- :stripped-title "Ronin"
- :subtype [:hostile]
- :text "You can advance this asset.\n[click], [trash]: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters."
- :title "Ronin"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "ronin",
+ :influence-cost 4,
+ :side :corp,
+ :stripped-text
+   "You can advance this asset. click, trash: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
+ :stripped-title "Ronin",
+ :subtype [:hostile],
+ :text
+   "You can advance this asset.\n[click], [trash]: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
+ :title "Ronin",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

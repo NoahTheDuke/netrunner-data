@@ -1,15 +1,17 @@
-{:cost 6
- :deck-limit 3
- :faction :shaper
- :id "dai-v"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :strength 1
- :stripped-text "Interface -> 2 credits: Break all subroutines. Use this ability only by spending credits from stealth cards. 1 credit: +1 strength."
- :stripped-title "Dai V"
- :subtype [:icebreaker :ai]
- :text "Interface → <strong>2[credit]:</strong> Break all subroutines. Use this ability only by spending credits from <strong>stealth</strong> cards.\n<strong>1[credit]:</strong> +1 strength."
- :title "Dai V"
- :type :program
+{:cost 6,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "dai-v",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :strength 1,
+ :stripped-text
+   "Interface -> 2 credits: Break all subroutines. Use this ability only by spending credits from stealth cards. 1 credit: +1 strength.",
+ :stripped-title "Dai V",
+ :subtype [:icebreaker :ai],
+ :text
+   "Interface → <strong>2[credit]:</strong> Break all subroutines. Use this ability only by spending credits from <strong>stealth</strong> cards.\n<strong>1[credit]:</strong> +1 strength.",
+ :title "Dai V",
+ :type :program,
  :uniqueness false}

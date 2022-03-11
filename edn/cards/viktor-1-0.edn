@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :haas-bioroid
- :id "viktor-1-0"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run."
- :stripped-title "Viktor 1.0"
- :subtype [:code-gate :bioroid :ap]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run."
- :title "Viktor 1.0"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "viktor-1-0",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run.",
+ :stripped-title "Viktor 1.0",
+ :subtype [:code-gate :bioroid :ap],
+ :text
+   "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
+ :title "Viktor 1.0",
+ :type :ice,
  :uniqueness false}

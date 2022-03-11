@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :criminal
- :id "laramy-fisk-savvy-investor"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first time you make a successful run on a central server each turn, you may force the Corp to draw 1 card."
- :stripped-title "Laramy Fisk: Savvy Investor"
- :subtype [:natural]
- :text "The first time you make a successful run on a central server each turn, you may force the Corp to draw 1 card."
- :title "Laramy Fisk: Savvy Investor"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :criminal,
+ :id "laramy-fisk-savvy-investor",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "The first time you make a successful run on a central server each turn, you may force the Corp to draw 1 card.",
+ :stripped-title "Laramy Fisk: Savvy Investor",
+ :subtype [:natural],
+ :text
+   "The first time you make a successful run on a central server each turn, you may force the Corp to draw 1 card.",
+ :title "Laramy Fisk: Savvy Investor",
+ :type :identity,
  :uniqueness false}

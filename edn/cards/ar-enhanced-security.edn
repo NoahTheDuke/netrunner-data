@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :nbn
- :id "ar-enhanced-security"
- :side :corp
- :stripped-text "The first time the Runner trashes a Corp card each turn, give him or her 1 tag."
- :stripped-title "AR-Enhanced Security"
- :subtype [:security]
- :text "The first time the Runner trashes a Corp card each turn, give him or her 1 tag."
- :title "AR-Enhanced Security"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "ar-enhanced-security",
+ :side :corp,
+ :stripped-text
+   "The first time the Runner trashes a Corp card each turn, give him or her 1 tag.",
+ :stripped-title "AR-Enhanced Security",
+ :subtype [:security],
+ :text
+   "The first time the Runner trashes a Corp card each turn, give him or her 1 tag.",
+ :title "AR-Enhanced Security",
+ :type :agenda,
  :uniqueness false}

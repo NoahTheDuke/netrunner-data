@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-corp
- :id "dedicated-technician-team"
- :influence-cost 0
- :side :corp
- :stripped-text "2 recurring credits Use these credits to install ice protecting this server."
- :stripped-title "Dedicated Technician Team"
- :text "2[recurring-credit]\nUse these credits to install ice protecting this server."
- :title "Dedicated Technician Team"
- :trash-cost 1
- :type :upgrade
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "dedicated-technician-team",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "2 recurring credits Use these credits to install ice protecting this server.",
+ :stripped-title "Dedicated Technician Team",
+ :text
+   "2[recurring-credit]\nUse these credits to install ice protecting this server.",
+ :title "Dedicated Technician Team",
+ :trash-cost 1,
+ :type :upgrade,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "dinosaurus"
- :influence-cost 2
- :side :runner
- :stripped-text "Dinosaurus can host a single non-AI icebreaker. The memory cost of the hosted icebreaker does not count against your memory limit. Hosted icebreaker has +2 strength. Limit 1 console per player."
- :stripped-title "Dinosaurus"
- :subtype [:console]
- :text "Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The memory cost of the hosted <strong>icebreaker</strong> does not count against your memory limit.\nHosted <strong>icebreaker</strong> has +2 strength.\nLimit 1 <strong>console</strong> per player."
- :title "Dinosaurus"
- :type :hardware
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "dinosaurus",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Dinosaurus can host a single non-AI icebreaker. The memory cost of the hosted icebreaker does not count against your memory limit. Hosted icebreaker has +2 strength. Limit 1 console per player.",
+ :stripped-title "Dinosaurus",
+ :subtype [:console],
+ :text
+   "Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The memory cost of the hosted <strong>icebreaker</strong> does not count against your memory limit.\nHosted <strong>icebreaker</strong> has +2 strength.\nLimit 1 <strong>console</strong> per player.",
+ :title "Dinosaurus",
+ :type :hardware,
  :uniqueness true}

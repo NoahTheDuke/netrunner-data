@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :haas-bioroid
- :id "hourglass"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "Subroutine The Runner loses click, if able. Subroutine The Runner loses click, if able. Subroutine The Runner loses click, if able."
- :stripped-title "Hourglass"
- :subtype [:code-gate]
- :text "[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able."
- :title "Hourglass"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "hourglass",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Subroutine The Runner loses click, if able. Subroutine The Runner loses click, if able. Subroutine The Runner loses click, if able.",
+ :stripped-title "Hourglass",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.",
+ :title "Hourglass",
+ :type :ice,
  :uniqueness false}

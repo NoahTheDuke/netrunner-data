@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "lucky-charm"
- :influence-cost 2
- :side :runner
- :stripped-text "Remove this hardware from the game: Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn."
- :stripped-title "Lucky Charm"
- :text "<strong>Remove this hardware from the game:</strong> Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn."
- :title "Lucky Charm"
- :type :hardware
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "lucky-charm",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Remove this hardware from the game: Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn.",
+ :stripped-title "Lucky Charm",
+ :text
+   "<strong>Remove this hardware from the game:</strong> Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn.",
+ :title "Lucky Charm",
+ :type :hardware,
  :uniqueness true}

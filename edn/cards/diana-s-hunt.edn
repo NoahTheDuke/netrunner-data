@@ -1,13 +1,15 @@
-{:cost 4
- :deck-limit 3
- :faction :shaper
- :id "diana-s-hunt"
- :influence-cost 4
- :side :runner
- :stripped-text "Make a run. Whenever you encounter a piece of ice during this run, you may install a program from your grip, ignoring all costs. When this run ends, trash all programs installed using Diana's Hunt."
- :stripped-title "Diana's Hunt"
- :subtype [:run]
- :text "Make a run. Whenever you encounter a piece of ice during this run, you may install a program from your grip, ignoring all costs. When this run ends, trash all programs installed using Diana's Hunt."
- :title "Diana's Hunt"
- :type :event
+{:cost 4,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "diana-s-hunt",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "Make a run. Whenever you encounter a piece of ice during this run, you may install a program from your grip, ignoring all costs. When this run ends, trash all programs installed using Diana's Hunt.",
+ :stripped-title "Diana's Hunt",
+ :subtype [:run],
+ :text
+   "Make a run. Whenever you encounter a piece of ice during this run, you may install a program from your grip, ignoring all costs. When this run ends, trash all programs installed using Diana's Hunt.",
+ :title "Diana's Hunt",
+ :type :event,
  :uniqueness false}

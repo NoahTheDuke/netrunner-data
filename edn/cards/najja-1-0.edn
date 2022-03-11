@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "najja-1-0"
- :influence-cost 2
- :side :corp
- :strength 2
- :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine End the run. Subroutine End the run."
- :stripped-title "Najja 1.0"
- :subtype [:barrier :bioroid]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] End the run.\n[subroutine] End the run."
- :title "Najja 1.0"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "najja-1-0",
+ :influence-cost 2,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine End the run. Subroutine End the run.",
+ :stripped-title "Najja 1.0",
+ :subtype [:barrier :bioroid],
+ :text
+   "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] End the run.\n[subroutine] End the run.",
+ :title "Najja 1.0",
+ :type :ice,
  :uniqueness false}

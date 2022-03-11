@@ -1,56 +1,56 @@
-[{:card-id "the-shadow-pulling-the-strings"
-  :code "00005"
-  :flavor "The Past is the Future."
-  :illustrator "Sławomir Maniak"
-  :position 5
-  :quantity 1
+[{:card-id "the-shadow-pulling-the-strings",
+  :code "00005",
+  :flavor "The Past is the Future.",
+  :illustrator "Sławomir Maniak",
+  :position 5,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "the-masque-cyber-general"
-  :code "00006"
-  :flavor "\"This war is far from over.\""
-  :illustrator "Imaginary FS Pte Ltd"
-  :position 6
-  :quantity 1
+ {:card-id "the-masque-cyber-general",
+  :code "00006",
+  :flavor "\"This war is far from over.\"",
+  :illustrator "Imaginary FS Pte Ltd",
+  :position 6,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "wyvern-chemically-enhanced"
-  :code "00007"
-  :illustrator "Rachel Borovic"
-  :position 7
-  :quantity 1
+ {:card-id "wyvern-chemically-enhanced",
+  :code "00007",
+  :illustrator "Rachel Borovic",
+  :position 7,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "boris-syfr-kovac-crafty-veteran"
-  :code "00008"
-  :illustrator "Clark Huggins"
-  :position 8
-  :quantity 1
+ {:card-id "boris-syfr-kovac-crafty-veteran",
+  :code "00008",
+  :illustrator "Clark Huggins",
+  :position 8,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "jamie-bzzz-micken-techno-savant"
-  :code "00009"
-  :illustrator "Ralph Beisner"
-  :position 9
-  :quantity 1
+ {:card-id "jamie-bzzz-micken-techno-savant",
+  :code "00009",
+  :illustrator "Ralph Beisner",
+  :position 9,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "strategic-innovations-future-forward"
-  :code "00010"
-  :illustrator "Timothy Ben Zweifel"
-  :position 10
-  :quantity 1
+ {:card-id "strategic-innovations-future-forward",
+  :code "00010",
+  :illustrator "Timothy Ben Zweifel",
+  :position 10,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "synthetic-systems-the-world-re-imagined"
-  :code "00011"
-  :illustrator "Emilio Rodriguez"
-  :position 11
-  :quantity 1
+ {:card-id "synthetic-systems-the-world-re-imagined",
+  :code "00011",
+  :illustrator "Emilio Rodriguez",
+  :position 11,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "information-dynamics-all-you-need-to-know"
-  :code "00012"
-  :illustrator "Amelie Hutt"
-  :position 12
-  :quantity 1
+ {:card-id "information-dynamics-all-you-need-to-know",
+  :code "00012",
+  :illustrator "Amelie Hutt",
+  :position 12,
+  :quantity 1,
   :set-id "draft"}
- {:card-id "fringe-applications-tomorrow-today"
-  :code "00013"
-  :illustrator "Emilio Rodriguez"
-  :position 13
-  :quantity 1
+ {:card-id "fringe-applications-tomorrow-today",
+  :code "00013",
+  :illustrator "Emilio Rodriguez",
+  :position 13,
+  :quantity 1,
   :set-id "draft"}]

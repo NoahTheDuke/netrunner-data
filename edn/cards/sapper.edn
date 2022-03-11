@@ -1,15 +1,17 @@
-{:cost 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "sapper"
- :influence-cost 2
- :side :corp
- :strength 2
- :stripped-text "If Sapper is accessed from R&D, the runner must reveal it. When the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives. Subroutine Trash 1 program."
- :stripped-title "Sapper"
- :subtype [:sentry :destroyer]
- :text "If Sapper is accessed from R&D, the runner must reveal it.\nWhen the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives.\n[subroutine] Trash 1 program."
- :title "Sapper"
- :trash-cost 2
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "sapper",
+ :influence-cost 2,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "If Sapper is accessed from R&D, the runner must reveal it. When the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives. Subroutine Trash 1 program.",
+ :stripped-title "Sapper",
+ :subtype [:sentry :destroyer],
+ :text
+   "If Sapper is accessed from R&D, the runner must reveal it.\nWhen the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives.\n[subroutine] Trash 1 program.",
+ :title "Sapper",
+ :trash-cost 2,
+ :type :ice,
  :uniqueness false}

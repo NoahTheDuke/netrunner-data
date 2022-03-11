@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-corp
- :id "self-destruct"
- :influence-cost 0
- :side :corp
- :stripped-text "Remote server only. trash: Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server."
- :stripped-title "Self-destruct"
- :text "Remote server only.\n<strong>[trash]:</strong> Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server."
- :title "Self-destruct"
- :trash-cost 0
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "self-destruct",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Remote server only. trash: Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
+ :stripped-title "Self-destruct",
+ :text
+   "Remote server only.\n<strong>[trash]:</strong> Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
+ :title "Self-destruct",
+ :trash-cost 0,
+ :type :upgrade,
  :uniqueness false}

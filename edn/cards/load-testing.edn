@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "load-testing"
- :influence-cost 5
- :side :corp
- :stripped-text "When the Runner's next turn begins, he or she loses click."
- :stripped-title "Load Testing"
- :text "When the Runner's next turn begins, he or she loses [click]."
- :title "Load Testing"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "load-testing",
+ :influence-cost 5,
+ :side :corp,
+ :stripped-text "When the Runner's next turn begins, he or she loses click.",
+ :stripped-title "Load Testing",
+ :text "When the Runner's next turn begins, he or she loses [click].",
+ :title "Load Testing",
+ :type :operation,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-runner
- :id "surveillance-network-key-2"
- :influence-cost 0
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever the Corp spends click to draw 1 or more cards (including through a card ability), reveal the first card drawn. 2[credits]: For the remainder of this run, access 1 additional card whenever you access cards from HQ or R&D. Use this ability only once per turn."
- :stripped-title "Surveillance Network Key 2"
- :text "Whenever the Corp spends [click] to draw 1 or more cards (including through a card ability), reveal the first card drawn.\n2[credits]: For the remainder of this run, access 1 additional card whenever you access cards from HQ or R&D. Use this ability only once per turn."
- :title "Surveillance Network Key 2"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "surveillance-network-key-2",
+ :influence-cost 0,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever the Corp spends click to draw 1 or more cards (including through a card ability), reveal the first card drawn. 2[credits]: For the remainder of this run, access 1 additional card whenever you access cards from HQ or R&D. Use this ability only once per turn.",
+ :stripped-title "Surveillance Network Key 2",
+ :text
+   "Whenever the Corp spends [click] to draw 1 or more cards (including through a card ability), reveal the first card drawn.\n2[credits]: For the remainder of this run, access 1 additional card whenever you access cards from HQ or R&D. Use this ability only once per turn.",
+ :title "Surveillance Network Key 2",
+ :type :program,
  :uniqueness false}

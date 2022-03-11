@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "financial-collapse"
- :influence-cost 0
- :side :corp
- :stripped-text "Play only if the Runner has at least 6 credits. The Runner loses 2 credits for each installed resource. The Runner can trash a resource to prevent this."
- :stripped-title "Financial Collapse"
- :text "Play only if the Runner has at least 6[credit].\nThe Runner loses 2[credit] for each installed resource. The Runner can trash a resource to prevent this."
- :title "Financial Collapse"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "financial-collapse",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Play only if the Runner has at least 6 credits. The Runner loses 2 credits for each installed resource. The Runner can trash a resource to prevent this.",
+ :stripped-title "Financial Collapse",
+ :text
+   "Play only if the Runner has at least 6[credit].\nThe Runner loses 2[credit] for each installed resource. The Runner can trash a resource to prevent this.",
+ :title "Financial Collapse",
+ :type :operation,
  :uniqueness false}

@@ -1,13 +1,13 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :nbn
- :id "fly-on-the-wall"
- :side :corp
- :stripped-text "When you score Fly on the Wall, give the Runner 1 tag."
- :stripped-title "Fly on the Wall"
- :subtype [:initiative]
- :text "When you score Fly on the Wall, give the Runner 1 tag."
- :title "Fly on the Wall"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "fly-on-the-wall",
+ :side :corp,
+ :stripped-text "When you score Fly on the Wall, give the Runner 1 tag.",
+ :stripped-title "Fly on the Wall",
+ :subtype [:initiative],
+ :text "When you score Fly on the Wall, give the Runner 1 tag.",
+ :title "Fly on the Wall",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :jinteki
- :id "hostile-infrastructure"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage."
- :stripped-title "Hostile Infrastructure"
- :text "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage."
- :title "Hostile Infrastructure"
- :trash-cost 5
- :type :asset
+{:cost 5,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "hostile-infrastructure",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage.",
+ :stripped-title "Hostile Infrastructure",
+ :text
+   "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage.",
+ :title "Hostile Infrastructure",
+ :trash-cost 5,
+ :type :asset,
  :uniqueness false}

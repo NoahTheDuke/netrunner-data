@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-runner
- :id "dirty-laundry"
- :influence-cost 0
- :side :runner
- :stripped-text "Run any server. When that run ends, if it was successful, gain 5 credits."
- :stripped-title "Dirty Laundry"
- :subtype [:run]
- :text "Run any server. When that run ends, if it was successful, gain 5[credit]."
- :title "Dirty Laundry"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "dirty-laundry",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Run any server. When that run ends, if it was successful, gain 5 credits.",
+ :stripped-title "Dirty Laundry",
+ :subtype [:run],
+ :text
+   "Run any server. When that run ends, if it was successful, gain 5[credit].",
+ :title "Dirty Laundry",
+ :type :event,
  :uniqueness false}

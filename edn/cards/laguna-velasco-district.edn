@@ -1,13 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "laguna-velasco-district"
- :influence-cost 2
- :side :runner
- :stripped-text "Interrupt -> Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1. Errata from CR 1.4"
- :stripped-title "Laguna Velasco District"
- :subtype [:location :ritzy]
- :text "[interrupt] → Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1.\n<errata>Errata from CR 1.4</errata>"
- :title "Laguna Velasco District"
- :type :resource
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "laguna-velasco-district",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Whenever you take the basic action to draw cards, increase the number of cards you draw by 1.",
+ :stripped-title "Laguna Velasco District",
+ :subtype [:location :ritzy],
+ :text
+   "Whenever you take the basic action to draw cards, increase the number of cards you draw by 1.",
+ :title "Laguna Velasco District",
+ :type :resource,
  :uniqueness true}

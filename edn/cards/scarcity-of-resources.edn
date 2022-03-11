@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-corp
- :id "scarcity-of-resources"
- :influence-cost 0
- :side :corp
- :stripped-text "This card is not trashed until another current is played or an agenda is stolen. The install cost of each resource is increased by 2."
- :stripped-title "Scarcity of Resources"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe install cost of each resource is increased by 2."
- :title "Scarcity of Resources"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "scarcity-of-resources",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is stolen. The install cost of each resource is increased by 2.",
+ :stripped-title "Scarcity of Resources",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe install cost of each resource is increased by 2.",
+ :title "Scarcity of Resources",
+ :type :operation,
  :uniqueness false}

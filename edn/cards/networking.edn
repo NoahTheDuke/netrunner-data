@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "networking"
- :influence-cost 1
- :side :runner
- :stripped-text "Remove 1 tag. Then, you may pay 1 credit to add this event to your grip."
- :stripped-title "Networking"
- :text "Remove 1 tag. Then, you may pay 1[credit] to add this event to your grip."
- :title "Networking"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "networking",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Remove 1 tag. Then, you may pay 1 credit to add this event to your grip.",
+ :stripped-title "Networking",
+ :text
+   "Remove 1 tag. Then, you may pay 1[credit] to add this event to your grip.",
+ :title "Networking",
+ :type :event,
  :uniqueness false}

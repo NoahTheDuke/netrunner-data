@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "embezzle"
- :influence-cost 3
- :side :runner
- :stripped-text "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4 credits for each card trashed this way."
- :stripped-title "Embezzle"
- :subtype [:run :sabotage]
- :text "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4[credit] for each card trashed this way."
- :title "Embezzle"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "embezzle",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4 credits for each card trashed this way.",
+ :stripped-title "Embezzle",
+ :subtype [:run :sabotage],
+ :text
+   "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4[credit] for each card trashed this way.",
+ :title "Embezzle",
+ :type :event,
  :uniqueness false}

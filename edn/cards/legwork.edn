@@ -1,13 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "legwork"
- :influence-cost 2
- :side :runner
- :stripped-text "Run HQ. If successful, access 2 additional cards when you breach HQ."
- :stripped-title "Legwork"
- :subtype [:run]
- :text "Run HQ. If successful, access 2 additional cards when you breach HQ."
- :title "Legwork"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "legwork",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Run HQ. If successful, access 2 additional cards when you breach HQ.",
+ :stripped-title "Legwork",
+ :subtype [:run],
+ :text "Run HQ. If successful, access 2 additional cards when you breach HQ.",
+ :title "Legwork",
+ :type :event,
  :uniqueness false}

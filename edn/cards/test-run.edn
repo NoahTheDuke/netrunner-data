@@ -1,12 +1,14 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "test-run"
- :influence-cost 3
- :side :runner
- :stripped-text "Search either your stack or your heap for 1 program. (Shuffle your stack if you searched it.) Install that program, ignoring all costs. When your turn ends, if that program has not been uninstalled, add it to the top of your stack."
- :stripped-title "Test Run"
- :text "Search either your stack or your heap for 1 program. <em>(Shuffle your stack if you searched it.)</em> Install that program, ignoring all costs. When your turn ends, if that program has not been uninstalled, add it to the top of your stack."
- :title "Test Run"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "test-run",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Search either your stack or your heap for 1 program. (Shuffle your stack if you searched it.) Install that program, ignoring all costs. When your turn ends, if that program has not been uninstalled, add it to the top of your stack.",
+ :stripped-title "Test Run",
+ :text
+   "Search either your stack or your heap for 1 program. <em>(Shuffle your stack if you searched it.)</em> Install that program, ignoring all costs. When your turn ends, if that program has not been uninstalled, add it to the top of your stack.",
+ :title "Test Run",
+ :type :event,
  :uniqueness false}

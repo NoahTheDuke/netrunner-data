@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "expert-schedule-analyzer"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "click: Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ."
- :stripped-title "Expert Schedule Analyzer"
- :text "<strong>[click]:</strong> Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ."
- :title "Expert Schedule Analyzer"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "expert-schedule-analyzer",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "click: Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ.",
+ :stripped-title "Expert Schedule Analyzer",
+ :text
+   "<strong>[click]:</strong> Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ.",
+ :title "Expert Schedule Analyzer",
+ :type :program,
  :uniqueness false}

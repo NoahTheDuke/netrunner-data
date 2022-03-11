@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "early-bird"
- :influence-cost 2
- :side :runner
- :stripped-text "Play only as your first click. Gain click. Run any server. Errata from CR 1.4"
- :stripped-title "Early Bird"
- :subtype [:priority :run]
- :text "Play only as your first click.\nGain [click]. Run any server.\n<errata>Errata from CR 1.4</errata>"
- :title "Early Bird"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "early-bird",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Play only as your first click. Gain click. Run any server. Errata from CR 1.4",
+ :stripped-title "Early Bird",
+ :subtype [:priority :run],
+ :text
+   "Play only as your first click.\nGain [click]. Run any server.\n<errata>Errata from CR 1.4</errata>",
+ :title "Early Bird",
+ :type :event,
  :uniqueness false}

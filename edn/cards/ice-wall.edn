@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "ice-wall"
- :influence-cost 1
- :side :corp
- :strength 1
- :stripped-text "You can advance this ice. It gets +1 strength for each hosted advancement counter. Subroutine End the run."
- :stripped-title "Ice Wall"
- :subtype [:barrier]
- :text "You can advance this ice. It gets +1 strength for each hosted advancement counter.\n[subroutine] End the run."
- :title "Ice Wall"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "ice-wall",
+ :influence-cost 1,
+ :side :corp,
+ :strength 1,
+ :stripped-text
+   "You can advance this ice. It gets +1 strength for each hosted advancement counter. Subroutine End the run.",
+ :stripped-title "Ice Wall",
+ :subtype [:barrier],
+ :text
+   "You can advance this ice. It gets +1 strength for each hosted advancement counter.\n[subroutine] End the run.",
+ :title "Ice Wall",
+ :type :ice,
  :uniqueness false}

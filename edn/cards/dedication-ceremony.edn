@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "dedication-ceremony"
- :influence-cost 3
- :side :corp
- :stripped-text "Place 3 advancement tokens on a faceup card. You cannot score that card until your next turn begins."
- :stripped-title "Dedication Ceremony"
- :text "Place 3 advancement tokens on a faceup card. You cannot score that card until your next turn begins."
- :title "Dedication Ceremony"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "dedication-ceremony",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Place 3 advancement tokens on a faceup card. You cannot score that card until your next turn begins.",
+ :stripped-title "Dedication Ceremony",
+ :text
+   "Place 3 advancement tokens on a faceup card. You cannot score that card until your next turn begins.",
+ :title "Dedication Ceremony",
+ :type :operation,
  :uniqueness false}

@@ -1,14 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "turtlebacks"
- :influence-cost 1
- :side :corp
- :stripped-text "Gain 1 credit whenever you create a server."
- :stripped-title "Turtlebacks"
- :subtype [:clone]
- :text "Gain 1[credit] whenever you create a server."
- :title "Turtlebacks"
- :trash-cost 4
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "turtlebacks",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "Gain 1 credit whenever you create a server.",
+ :stripped-title "Turtlebacks",
+ :subtype [:clone],
+ :text "Gain 1[credit] whenever you create a server.",
+ :title "Turtlebacks",
+ :trash-cost 4,
+ :type :asset,
  :uniqueness false}

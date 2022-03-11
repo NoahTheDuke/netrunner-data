@@ -1,127 +1,138 @@
-[{:card-id "run-amok"
-  :code "10001"
-  :flavor "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy"
-  :illustrator "RC Torres"
-  :position 1
-  :quantity 3
+[{:card-id "run-amok",
+  :code "10001",
+  :flavor
+    "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy",
+  :illustrator "RC Torres",
+  :position 1,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "ramujan-reliant-550-bmi"
-  :code "10002"
-  :illustrator "Kate Laird"
-  :position 2
-  :quantity 6
+ {:card-id "ramujan-reliant-550-bmi",
+  :code "10002",
+  :illustrator "Kate Laird",
+  :position 2,
+  :quantity 6,
   :set-id "kala-ghoda"}
- {:card-id "street-magic"
-  :code "10003"
-  :flavor "The greatest trick is not the trick itself, but in making someone believe that it is no trick at all. To your average sysop, it's magic. To your average runner, it's a closely held trade secret."
-  :illustrator "Shawn Ye Zhongyi"
-  :position 3
-  :quantity 3
+ {:card-id "street-magic",
+  :code "10003",
+  :flavor
+    "The greatest trick is not the trick itself, but in making someone believe that it is no trick at all. To your average sysop, it's magic. To your average runner, it's a closely held trade secret.",
+  :illustrator "Shawn Ye Zhongyi",
+  :position 3,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "high-stakes-job"
-  :code "10004"
-  :illustrator "Adam S. Doyle"
-  :position 4
-  :quantity 3
+ {:card-id "high-stakes-job",
+  :code "10004",
+  :illustrator "Adam S. Doyle",
+  :position 4,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "mongoose"
-  :code "10005"
-  :flavor "It is the hardest thing in the world to frighten a mongoose, because he is eaten up from nose to tail with curiosity. The motto of all the mongoose family is \"Run and find out\". -Rudyard Kipling, Rikki-Tikki-Tavi"
-  :illustrator "Hannah Christenson"
-  :position 5
-  :quantity 3
+ {:card-id "mongoose",
+  :code "10005",
+  :flavor
+    "It is the hardest thing in the world to frighten a mongoose, because he is eaten up from nose to tail with curiosity. The motto of all the mongoose family is \"Run and find out\". -Rudyard Kipling, Rikki-Tikki-Tavi",
+  :illustrator "Hannah Christenson",
+  :position 5,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "jesminder-sareen-girl-behind-the-curtain"
-  :code "10006"
-  :flavor "\"Mirrormode on.\""
-  :illustrator "Adam Schumpert"
-  :position 6
-  :quantity 3
+ {:card-id "jesminder-sareen-girl-behind-the-curtain",
+  :code "10006",
+  :flavor "\"Mirrormode on.\"",
+  :illustrator "Adam Schumpert",
+  :position 6,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "maya"
-  :code "10007"
-  :illustrator "Adam Schumpert"
-  :position 7
-  :quantity 3
+ {:card-id "maya",
+  :code "10007",
+  :illustrator "Adam Schumpert",
+  :position 7,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "panchatantra"
-  :code "10008"
-  :flavor "\"The basics should be like the stories you learned as a child—unconscious, never forgotten, and suddenly relevant at the most random times.\" -g00ru"
-  :illustrator "Hannah Christenson"
-  :position 8
-  :quantity 3
+ {:card-id "panchatantra",
+  :code "10008",
+  :flavor
+    "\"The basics should be like the stories you learned as a child—unconscious, never forgotten, and suddenly relevant at the most random times.\" -g00ru",
+  :illustrator "Hannah Christenson",
+  :position 8,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "artist-colony"
-  :code "10009"
-  :flavor "\"We can forgive a man for making a useful thing as long as he does not admire it. The only excuse for making a useless thing is that one admires it intensely.\" -Oscar Wilde"
-  :illustrator "Johan Törnlund"
-  :position 9
-  :quantity 3
+ {:card-id "artist-colony",
+  :code "10009",
+  :flavor
+    "\"We can forgive a man for making a useful thing as long as he does not admire it. The only excuse for making a useless thing is that one admires it intensely.\" -Oscar Wilde",
+  :illustrator "Johan Törnlund",
+  :position 9,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "chatterjee-university"
-  :code "10010"
-  :flavor "Legions of software engineers have been manufactured within its halls."
-  :illustrator "Johan Törnlund"
-  :position 10
-  :quantity 3
+ {:card-id "chatterjee-university",
+  :code "10010",
+  :flavor
+    "Legions of software engineers have been manufactured within its halls.",
+  :illustrator "Johan Törnlund",
+  :position 10,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "advanced-concept-hopper"
-  :code "10011"
-  :flavor "\"I don't want a hopper. I've never even owned one. But every time I jack in, that same damn ad loads.\" -2xTiger"
-  :illustrator "BalanceSheet"
-  :position 11
-  :quantity 3
+ {:card-id "advanced-concept-hopper",
+  :code "10011",
+  :flavor
+    "\"I don't want a hopper. I've never even owned one. But every time I jack in, that same damn ad loads.\" -2xTiger",
+  :illustrator "BalanceSheet",
+  :position 11,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "vikram-1-0"
-  :code "10012"
-  :illustrator "Donald Crank"
-  :position 12
-  :quantity 3
+ {:card-id "vikram-1-0",
+  :code "10012",
+  :illustrator "Donald Crank",
+  :position 12,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "heritage-committee"
-  :code "10013"
-  :flavor "It is only by respecting the past that we can build a better future."
-  :illustrator "Anastasia Ovchinnikova"
-  :position 13
-  :quantity 3
+ {:card-id "heritage-committee",
+  :code "10013",
+  :flavor
+    "It is only by respecting the past that we can build a better future.",
+  :illustrator "Anastasia Ovchinnikova",
+  :position 13,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "mumbad-city-grid"
-  :code "10014"
-  :illustrator "Zach Graves"
-  :position 14
-  :quantity 3
+ {:card-id "mumbad-city-grid",
+  :code "10014",
+  :illustrator "Zach Graves",
+  :position 14,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "kala-ghoda-real-tv"
-  :code "10015"
-  :flavor "\"A new property has two, maybe three hours. If it doesn't sell, cut it and move on.\""
-  :illustrator "Stéphane Gantiez"
-  :position 15
-  :quantity 3
+ {:card-id "kala-ghoda-real-tv",
+  :code "10015",
+  :flavor
+    "\"A new property has two, maybe three hours. If it doesn't sell, cut it and move on.\"",
+  :illustrator "Stéphane Gantiez",
+  :position 15,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "interrupt-0"
-  :code "10016"
-  :illustrator "Adam S. Doyle"
-  :position 16
-  :quantity 3
+ {:card-id "interrupt-0",
+  :code "10016",
+  :illustrator "Adam S. Doyle",
+  :position 16,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "dedication-ceremony"
-  :code "10017"
-  :flavor "\"Never cut the ribbon until you have something to show off.\" -Eta Shah, VP Global Expansion"
-  :illustrator "Odera Igbokwe"
-  :position 17
-  :quantity 3
+ {:card-id "dedication-ceremony",
+  :code "10017",
+  :flavor
+    "\"Never cut the ribbon until you have something to show off.\" -Eta Shah, VP Global Expansion",
+  :illustrator "Odera Igbokwe",
+  :position 17,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "mumba-temple"
-  :code "10018"
-  :flavor "Those who are the wisest know the least."
-  :illustrator "Yog Joshi"
-  :position 18
-  :quantity 3
+ {:card-id "mumba-temple",
+  :code "10018",
+  :flavor "Those who are the wisest know the least.",
+  :illustrator "Yog Joshi",
+  :position 18,
+  :quantity 3,
   :set-id "kala-ghoda"}
- {:card-id "museum-of-history"
-  :code "10019"
-  :flavor "\"And here we see the Polar Bear, once the largest land carnivore on Earth.\""
-  :illustrator "Sander Mosk"
-  :position 19
-  :quantity 3
+ {:card-id "museum-of-history",
+  :code "10019",
+  :flavor
+    "\"And here we see the Polar Bear, once the largest land carnivore on Earth.\"",
+  :illustrator "Sander Mosk",
+  :position 19,
+  :quantity 3,
   :set-id "kala-ghoda"}]

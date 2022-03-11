@@ -1,14 +1,16 @@
-{:cost 6
- :deck-limit 3
- :faction :nbn
- :id "sansan-city-grid"
- :influence-cost 3
- :side :corp
- :stripped-text "Each agenda in the root of this server gets -1 advancement requirement. Limit 1 region per server."
- :stripped-title "SanSan City Grid"
- :subtype [:region]
- :text "Each agenda in the root of this server gets -1 advancement requirement.\nLimit 1 <strong>region</strong> per server."
- :title "SanSan City Grid"
- :trash-cost 5
- :type :upgrade
+{:cost 6,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "sansan-city-grid",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Each agenda in the root of this server gets -1 advancement requirement. Limit 1 region per server.",
+ :stripped-title "SanSan City Grid",
+ :subtype [:region],
+ :text
+   "Each agenda in the root of this server gets -1 advancement requirement.\nLimit 1 <strong>region</strong> per server.",
+ :title "SanSan City Grid",
+ :trash-cost 5,
+ :type :upgrade,
  :uniqueness false}

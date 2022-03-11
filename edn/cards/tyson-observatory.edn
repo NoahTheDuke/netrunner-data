@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "tyson-observatory"
- :influence-cost 2
- :side :runner
- :stripped-text "click, click: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
- :stripped-title "Tyson Observatory"
- :subtype [:location]
- :text "[click], [click]: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
- :title "Tyson Observatory"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "tyson-observatory",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "click, click: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack.",
+ :stripped-title "Tyson Observatory",
+ :subtype [:location],
+ :text
+   "[click], [click]: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack.",
+ :title "Tyson Observatory",
+ :type :resource,
  :uniqueness true}

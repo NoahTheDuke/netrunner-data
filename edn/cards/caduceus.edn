@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "caduceus"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "Subroutine Trace 3 If successful, the Corp gains 3 credits. Subroutine Trace 2 If successful, end the run."
- :stripped-title "Caduceus"
- :subtype [:sentry :tracer]
- :text "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run."
- :title "Caduceus"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "caduceus",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Subroutine Trace 3 If successful, the Corp gains 3 credits. Subroutine Trace 2 If successful, end the run.",
+ :stripped-title "Caduceus",
+ :subtype [:sentry :tracer],
+ :text
+   "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run.",
+ :title "Caduceus",
+ :type :ice,
  :uniqueness false}

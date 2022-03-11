@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "spoilers"
- :influence-cost 3
- :side :runner
- :stripped-text "Whenever the Corp scores an agenda, he or she trashes the top card of R&D."
- :stripped-title "Spoilers"
- :subtype [:virtual]
- :text "Whenever the Corp scores an agenda, he or she trashes the top card of R&D."
- :title "Spoilers"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "spoilers",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Whenever the Corp scores an agenda, he or she trashes the top card of R&D.",
+ :stripped-title "Spoilers",
+ :subtype [:virtual],
+ :text
+   "Whenever the Corp scores an agenda, he or she trashes the top card of R&D.",
+ :title "Spoilers",
+ :type :resource,
  :uniqueness false}

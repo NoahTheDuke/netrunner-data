@@ -1,13 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :criminal
- :id "charlatan"
- :influence-cost 4
- :side :runner
- :stripped-text "click click: Run any server. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, when you encounter that ice after this approach, bypass it."
- :stripped-title "Charlatan"
- :subtype [:virtual]
- :text "<strong>[click][click]:</strong> Run any server. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, when you encounter that ice after this approach, bypass it."
- :title "Charlatan"
- :type :resource
+{:cost 5,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "charlatan",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "click click: Run any server. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, when you encounter that ice after this approach, bypass it.",
+ :stripped-title "Charlatan",
+ :subtype [:virtual],
+ :text
+   "<strong>[click][click]:</strong> Run any server. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, when you encounter that ice after this approach, bypass it.",
+ :title "Charlatan",
+ :type :resource,
  :uniqueness false}

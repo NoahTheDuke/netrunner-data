@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "hasty-relocation"
- :influence-cost 2
- :side :corp
- :stripped-text "As an additional cost to play this operation, trash the top card of R&D. Draw 3 cards. Add 3 cards from HQ to the top of R&D in any order."
- :stripped-title "Hasty Relocation"
- :text "As an additional cost to play this operation, trash the top card of R&D.\nDraw 3 cards. Add 3 cards from HQ to the top of R&D in any order."
- :title "Hasty Relocation"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "hasty-relocation",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play this operation, trash the top card of R&D. Draw 3 cards. Add 3 cards from HQ to the top of R&D in any order.",
+ :stripped-title "Hasty Relocation",
+ :text
+   "As an additional cost to play this operation, trash the top card of R&D.\nDraw 3 cards. Add 3 cards from HQ to the top of R&D in any order.",
+ :title "Hasty Relocation",
+ :type :operation,
  :uniqueness false}

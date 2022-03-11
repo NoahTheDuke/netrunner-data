@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "swift"
- :influence-cost 2
- :side :runner
- :stripped-text "+1 mu The first time each turn you play a run event, gain click. Limit 1 console per player."
- :stripped-title "Swift"
- :subtype [:console :vehicle]
- :text "+1[mu]\nThe first time each turn you play a <strong>run</strong> event, gain [click].\nLimit 1 <strong>console</strong> per player."
- :title "Swift"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "swift",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "+1 mu The first time each turn you play a run event, gain click. Limit 1 console per player.",
+ :stripped-title "Swift",
+ :subtype [:console :vehicle],
+ :text
+   "+1[mu]\nThe first time each turn you play a <strong>run</strong> event, gain [click].\nLimit 1 <strong>console</strong> per player.",
+ :title "Swift",
+ :type :hardware,
  :uniqueness true}

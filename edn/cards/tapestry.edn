@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :haas-bioroid
- :id "tapestry"
- :influence-cost 1
- :side :corp
- :strength 6
- :stripped-text "Subroutine The Runner loses click, if able. Subroutine The Corp may draw 1 card. Subroutine The Corp may add 1 card from HQ to the top of R&D."
- :stripped-title "Tapestry"
- :subtype [:code-gate]
- :text "[subroutine] The Runner loses [click], if able.\n[subroutine] The Corp may draw 1 card.\n[subroutine] The Corp may add 1 card from HQ to the top of R&D."
- :title "Tapestry"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "tapestry",
+ :influence-cost 1,
+ :side :corp,
+ :strength 6,
+ :stripped-text
+   "Subroutine The Runner loses click, if able. Subroutine The Corp may draw 1 card. Subroutine The Corp may add 1 card from HQ to the top of R&D.",
+ :stripped-title "Tapestry",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] The Runner loses [click], if able.\n[subroutine] The Corp may draw 1 card.\n[subroutine] The Corp may add 1 card from HQ to the top of R&D.",
+ :title "Tapestry",
+ :type :ice,
  :uniqueness false}

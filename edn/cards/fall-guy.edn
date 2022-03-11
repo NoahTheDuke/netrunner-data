@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "fall-guy"
- :influence-cost 1
- :side :runner
- :stripped-text "trash: Prevent another installed resource from being trashed. trash: Gain 2 credits."
- :stripped-title "Fall Guy"
- :subtype [:connection]
- :text "[trash]: Prevent another installed resource from being trashed.\n[trash]: Gain 2[credit]."
- :title "Fall Guy"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "fall-guy",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "trash: Prevent another installed resource from being trashed. trash: Gain 2 credits.",
+ :stripped-title "Fall Guy",
+ :subtype [:connection],
+ :text
+   "[trash]: Prevent another installed resource from being trashed.\n[trash]: Gain 2[credit].",
+ :title "Fall Guy",
+ :type :resource,
  :uniqueness false}

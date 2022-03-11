@@ -1,14 +1,14 @@
-{:base-link 0
- :deck-limit 1
- :faction :anarch
- :id "whizzard-master-gamer"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "3 recurring credits Use these credits to trash cards."
- :stripped-title "Whizzard: Master Gamer"
- :subtype [:natural]
- :text "3[recurring-credit]\nUse these credits to trash cards."
- :title "Whizzard: Master Gamer"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :anarch,
+ :id "whizzard-master-gamer",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text "3 recurring credits Use these credits to trash cards.",
+ :stripped-title "Whizzard: Master Gamer",
+ :subtype [:natural],
+ :text "3[recurring-credit]\nUse these credits to trash cards.",
+ :title "Whizzard: Master Gamer",
+ :type :identity,
  :uniqueness false}

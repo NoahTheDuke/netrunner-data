@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :jinteki
- :id "komainu"
- :influence-cost 4
- :side :corp
- :strength 1
- :stripped-text "When the Runner encounters Komainu, it gains \"Subroutine Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run."
- :stripped-title "Komainu"
- :subtype [:sentry :ap]
- :text "When the Runner encounters Komainu, it gains \"[subroutine] Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run."
- :title "Komainu"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "komainu",
+ :influence-cost 4,
+ :side :corp,
+ :strength 1,
+ :stripped-text
+   "When the Runner encounters Komainu, it gains \"Subroutine Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run.",
+ :stripped-title "Komainu",
+ :subtype [:sentry :ap],
+ :text
+   "When the Runner encounters Komainu, it gains \"[subroutine] Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run.",
+ :title "Komainu",
+ :type :ice,
  :uniqueness false}

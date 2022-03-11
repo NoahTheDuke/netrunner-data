@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "mining-accident"
- :influence-cost 2
- :side :runner
- :stripped-text "Play only if you made a successful run on a central server this turn. The Corp must pay 5 credits or take 1 bad publicity. Remove Mining Accident from the game instead of trashing it."
- :stripped-title "Mining Accident"
- :text "Play only if you made a successful run on a central server this turn.\nThe Corp must pay 5[credit] or take 1 bad publicity. Remove Mining Accident from the game instead of trashing it."
- :title "Mining Accident"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "mining-accident",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Play only if you made a successful run on a central server this turn. The Corp must pay 5 credits or take 1 bad publicity. Remove Mining Accident from the game instead of trashing it.",
+ :stripped-title "Mining Accident",
+ :text
+   "Play only if you made a successful run on a central server this turn.\nThe Corp must pay 5[credit] or take 1 bad publicity. Remove Mining Accident from the game instead of trashing it.",
+ :title "Mining Accident",
+ :type :event,
  :uniqueness false}

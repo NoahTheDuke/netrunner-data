@@ -1,13 +1,13 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "duggar-s"
- :influence-cost 4
- :side :runner
- :stripped-text "click,click,click,click: Draw 10 cards."
- :stripped-title "Duggar's"
- :subtype [:location :seedy]
- :text "[click],[click],[click],[click]: Draw 10 cards."
- :title "Duggar's"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "duggar-s",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text "click,click,click,click: Draw 10 cards.",
+ :stripped-title "Duggar's",
+ :subtype [:location :seedy],
+ :text "[click],[click],[click],[click]: Draw 10 cards.",
+ :title "Duggar's",
+ :type :resource,
  :uniqueness true}

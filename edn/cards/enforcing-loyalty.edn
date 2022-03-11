@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "enforcing-loyalty"
- :influence-cost 1
- :side :corp
- :stripped-text "As an additional cost to play this operation, spend click. Trace 3 If successful, trash an installed card that does not match the faction of the Runner's identity."
- :stripped-title "Enforcing Loyalty"
- :subtype [:double :gray-ops]
- :text "As an additional cost to play this operation, spend [click].\n<trace>Trace 3</trace> If successful, trash an installed card that does not match the faction of the Runner's identity."
- :title "Enforcing Loyalty"
- :trash-cost 1
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "enforcing-loyalty",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play this operation, spend click. Trace 3 If successful, trash an installed card that does not match the faction of the Runner's identity.",
+ :stripped-title "Enforcing Loyalty",
+ :subtype [:double :gray-ops],
+ :text
+   "As an additional cost to play this operation, spend [click].\n<trace>Trace 3</trace> If successful, trash an installed card that does not match the faction of the Runner's identity.",
+ :title "Enforcing Loyalty",
+ :trash-cost 1,
+ :type :operation,
  :uniqueness false}

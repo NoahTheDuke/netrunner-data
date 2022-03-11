@@ -1,131 +1,137 @@
-[{:card-id "zer0"
-  :code "21101"
-  :flavor "Eat. Code. Sleep. Eat. Code. Sleep. Eat. Code. Eat. Code. Sleep. Eat. Code. Code. Sleep. Code. Code. Code. Eat. Code. Code. Code. Code. Code. Code."
-  :illustrator "Martin de Diego Sádaba"
-  :position 101
-  :quantity 3
+[{:card-id "zer0",
+  :code "21101",
+  :flavor
+    "Eat. Code. Sleep. Eat. Code. Sleep. Eat. Code. Eat. Code. Sleep. Eat. Code. Code. Sleep. Code. Code. Code. Eat. Code. Code. Code. Code. Code. Code.",
+  :illustrator "Martin de Diego Sádaba",
+  :position 101,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "musaazi"
-  :code "21102"
-  :illustrator "Liiga Smilshkalne"
-  :position 102
-  :quantity 3
+ {:card-id "musaazi",
+  :code "21102",
+  :illustrator "Liiga Smilshkalne",
+  :position 102,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "hippo"
-  :code "21103"
-  :flavor "Getting it up the stairs was enough for him to know that if he ever moved, it was staying."
-  :illustrator "Juan Novelletto"
-  :position 103
-  :quantity 3
+ {:card-id "hippo",
+  :code "21103",
+  :flavor
+    "Getting it up the stairs was enough for him to know that if he ever moved, it was staying.",
+  :illustrator "Juan Novelletto",
+  :position 103,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "amina"
-  :code "21104"
-  :flavor "Her gallop, thunder; her blade, lightning."
-  :illustrator "Ethan Patrick Harris"
-  :position 104
-  :quantity 3
+ {:card-id "amina",
+  :code "21104",
+  :flavor "Her gallop, thunder; her blade, lightning.",
+  :illustrator "Ethan Patrick Harris",
+  :position 104,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "diversion-of-funds"
-  :code "21105"
-  :illustrator "Fei F. Ou"
-  :position 105
-  :quantity 3
+ {:card-id "diversion-of-funds",
+  :code "21105",
+  :illustrator "Fei F. Ou",
+  :position 105,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "pad-tap"
-  :code "21106"
-  :flavor "\"You called me, sir?\"\n\"Why does my PAD keep flashing 'Sensitive Information Transfer'?!\"\n\"Hmm, that's strange. Mine only does that on Tuesdays.\""
-  :illustrator "Caravan Studio"
-  :position 106
-  :quantity 3
+ {:card-id "pad-tap",
+  :code "21106",
+  :flavor
+    "\"You called me, sir?\"\n\"Why does my PAD keep flashing 'Sensitive Information Transfer'?!\"\n\"Hmm, that's strange. Mine only does that on Tuesdays.\"",
+  :illustrator "Caravan Studio",
+  :position 106,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "reclaim"
-  :code "21107"
-  :flavor "It was a deal, to be sure. She just didn't know for which party."
-  :illustrator "Josh Corpuz"
-  :position 107
-  :quantity 3
+ {:card-id "reclaim",
+  :code "21107",
+  :flavor "It was a deal, to be sure. She just didn't know for which party.",
+  :illustrator "Josh Corpuz",
+  :position 107,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "engolo"
-  :code "21108"
-  :illustrator "Andreas Zafiratos"
-  :position 108
-  :quantity 3
+ {:card-id "engolo",
+  :code "21108",
+  :illustrator "Andreas Zafiratos",
+  :position 108,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "flame-out"
-  :code "21109"
-  :illustrator "Caravan Studio"
-  :position 109
-  :quantity 3
+ {:card-id "flame-out",
+  :code "21109",
+  :illustrator "Caravan Studio",
+  :position 109,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "black-hat"
-  :code "21110"
-  :flavor "\"The way I see it, I'm teaching them a lesson in the importance of basic security.\" - Sunny Lebeau"
-  :illustrator "Ed Mattinian"
-  :position 110
-  :quantity 3
+ {:card-id "black-hat",
+  :code "21110",
+  :flavor
+    "\"The way I see it, I'm teaching them a lesson in the importance of basic security.\" - Sunny Lebeau",
+  :illustrator "Ed Mattinian",
+  :position 110,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "kasi-string"
-  :code "21111"
-  :illustrator "Mariusz Siergiejew"
-  :position 111
-  :quantity 3
+ {:card-id "kasi-string",
+  :code "21111",
+  :illustrator "Mariusz Siergiejew",
+  :position 111,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "next-diamond"
-  :code "21112"
-  :flavor "Defenses that last forever."
-  :illustrator "Ed Mattinian"
-  :position 112
-  :quantity 3
+ {:card-id "next-diamond",
+  :code "21112",
+  :flavor "Defenses that last forever.",
+  :illustrator "Ed Mattinian",
+  :position 112,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "riot-suppression"
-  :code "21113"
-  :illustrator "Adam Schumpert"
-  :position 113
-  :quantity 3
+ {:card-id "riot-suppression",
+  :code "21113",
+  :illustrator "Adam Schumpert",
+  :position 113,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "mti-mwekundu-life-improved"
-  :code "21114"
-  :illustrator "Emilio Rodriguez"
-  :position 114
-  :quantity 3
+ {:card-id "mti-mwekundu-life-improved",
+  :code "21114",
+  :illustrator "Emilio Rodriguez",
+  :position 114,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "mlinzi"
-  :code "21115"
-  :illustrator "Andreas Zafiratos"
-  :position 115
-  :quantity 3
+ {:card-id "mlinzi",
+  :code "21115",
+  :illustrator "Andreas Zafiratos",
+  :position 115,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "better-citizen-program"
-  :code "21116"
-  :flavor "\"Deep down, everyone wants to be good. We ensure that desire is met.\" - Taavi Gyula"
-  :illustrator "BalanceSheet"
-  :position 116
-  :quantity 3
+ {:card-id "better-citizen-program",
+  :code "21116",
+  :flavor
+    "\"Deep down, everyone wants to be good. We ensure that desire is met.\" - Taavi Gyula",
+  :illustrator "BalanceSheet",
+  :position 116,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "market-forces"
-  :code "21117"
-  :flavor "\"Once we have enough data, we can make the Invisible Hand more like an Invisible Fist.\""
-  :illustrator "Caravan Studio"
-  :position 117
-  :quantity 3
+ {:card-id "market-forces",
+  :code "21117",
+  :flavor
+    "\"Once we have enough data, we can make the Invisible Hand more like an Invisible Fist.\"",
+  :illustrator "Caravan Studio",
+  :position 117,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "surveyor"
-  :code "21118"
-  :flavor "INTRUDER ALERT!\nINTRUDER ALERT!\nINTRUDER NEUTRALIZED!"
-  :illustrator "Andreas Zafiratos"
-  :position 118
-  :quantity 3
+ {:card-id "surveyor",
+  :code "21118",
+  :flavor "INTRUDER ALERT!\nINTRUDER ALERT!\nINTRUDER NEUTRALIZED!",
+  :illustrator "Andreas Zafiratos",
+  :position 118,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "high-profile-target"
-  :code "21119"
-  :flavor "\"You can't do thi...\""
-  :illustrator "Fei F. Ou"
-  :position 119
-  :quantity 3
+ {:card-id "high-profile-target",
+  :code "21119",
+  :flavor "\"You can't do thi...\"",
+  :illustrator "Fei F. Ou",
+  :position 119,
+  :quantity 3,
   :set-id "kampala-ascendent"}
- {:card-id "false-flag"
-  :code "21120"
-  :illustrator "Nasrul Hakim"
-  :position 120
-  :quantity 3
+ {:card-id "false-flag",
+  :code "21120",
+  :illustrator "Nasrul Hakim",
+  :position 120,
+  :quantity 3,
   :set-id "kampala-ascendent"}]

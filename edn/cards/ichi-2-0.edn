@@ -1,14 +1,16 @@
-{:cost 8
- :deck-limit 3
- :faction :haas-bioroid
- :id "ichi-2-0"
- :influence-cost 3
- :side :corp
- :strength 5
- :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage."
- :stripped-title "Ichi 2.0"
- :subtype [:sentry :bioroid :destroyer :tracer]
- :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage."
- :title "Ichi 2.0"
- :type :ice
+{:cost 8,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "ichi-2-0",
+ :influence-cost 3,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage.",
+ :stripped-title "Ichi 2.0",
+ :subtype [:sentry :bioroid :destroyer :tracer],
+ :text
+   "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage.",
+ :title "Ichi 2.0",
+ :type :ice,
  :uniqueness false}

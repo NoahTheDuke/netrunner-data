@@ -1,13 +1,15 @@
-{:cost 4
- :deck-limit 3
- :faction :criminal
- :id "zamba"
- :influence-cost 3
- :side :runner
- :stripped-text "+2 mu Whenever a Corp card is exposed, you may gain 1 credit. Limit 1 console per player."
- :stripped-title "Zamba"
- :subtype [:console]
- :text "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player."
- :title "Zamba"
- :type :hardware
+{:cost 4,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "zamba",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "+2 mu Whenever a Corp card is exposed, you may gain 1 credit. Limit 1 console per player.",
+ :stripped-title "Zamba",
+ :subtype [:console],
+ :text
+   "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
+ :title "Zamba",
+ :type :hardware,
  :uniqueness true}

@@ -1,14 +1,16 @@
-{:cost 6
- :deck-limit 3
- :faction :neutral-corp
- :id "machicolation-b"
- :influence-cost 0
- :side :corp
- :strength 4
- :stripped-text "Subroutine Trash 1 resource. Subroutine Trash 1 resource. Subroutine Do 1 net damage. Subroutine The Runner loses click, if able. End the run."
- :stripped-title "Machicolation B"
- :subtype [:code-gate :destroyer :ap]
- :text "[subroutine] Trash 1 resource.\n[subroutine] Trash 1 resource.\n[subroutine] Do 1 net damage.\n[subroutine] The Runner loses [click], if able. End the run."
- :title "Machicolation B"
- :type :ice
+{:cost 6,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "machicolation-b",
+ :influence-cost 0,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Subroutine Trash 1 resource. Subroutine Trash 1 resource. Subroutine Do 1 net damage. Subroutine The Runner loses click, if able. End the run.",
+ :stripped-title "Machicolation B",
+ :subtype [:code-gate :destroyer :ap],
+ :text
+   "[subroutine] Trash 1 resource.\n[subroutine] Trash 1 resource.\n[subroutine] Do 1 net damage.\n[subroutine] The Runner loses [click], if able. End the run.",
+ :title "Machicolation B",
+ :type :ice,
  :uniqueness false}

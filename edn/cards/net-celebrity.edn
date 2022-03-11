@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "net-celebrity"
- :influence-cost 1
- :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. 1 recurring credit Use this credit during a run."
- :stripped-title "Net Celebrity"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n1[recurring-credit]\nUse this credit during a run."
- :title "Net Celebrity"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "net-celebrity",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is scored. 1 recurring credit Use this credit during a run.",
+ :stripped-title "Net Celebrity",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n1[recurring-credit]\nUse this credit during a run.",
+ :title "Net Celebrity",
+ :type :event,
  :uniqueness false}

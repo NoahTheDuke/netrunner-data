@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :apex
- :id "apex-invasive-predator"
- :influence-limit 25
- :minimum-deck-size 45
- :side :runner
- :stripped-text "You cannot install non-virtual resources. When your turn begins, you may install 1 card from your grip facedown."
- :stripped-title "Apex: Invasive Predator"
- :subtype [:digital]
- :text "You cannot install non-<strong>virtual</strong> resources.\nWhen your turn begins, you may install 1 card from your grip facedown."
- :title "Apex: Invasive Predator"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :apex,
+ :id "apex-invasive-predator",
+ :influence-limit 25,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "You cannot install non-virtual resources. When your turn begins, you may install 1 card from your grip facedown.",
+ :stripped-title "Apex: Invasive Predator",
+ :subtype [:digital],
+ :text
+   "You cannot install non-<strong>virtual</strong> resources.\nWhen your turn begins, you may install 1 card from your grip facedown.",
+ :title "Apex: Invasive Predator",
+ :type :identity,
  :uniqueness false}

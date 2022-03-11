@@ -1,13 +1,15 @@
-{:cost nil
- :deck-limit 3
- :faction :criminal
- :id "brute-force-hack"
- :influence-cost 3
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Derez a piece of ice that has a rez cost of X or lower."
- :stripped-title "Brute-Force-Hack"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nDerez a piece of ice that has a rez cost of X or lower."
- :title "Brute-Force-Hack"
- :type :event
+{:cost nil,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "brute-force-hack",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Derez a piece of ice that has a rez cost of X or lower.",
+ :stripped-title "Brute-Force-Hack",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nDerez a piece of ice that has a rez cost of X or lower.",
+ :title "Brute-Force-Hack",
+ :type :event,
  :uniqueness false}

@@ -1,13 +1,13 @@
-{:advancement-requirement 9
- :agenda-points 6
- :deck-limit 1
- :faction :weyland-consortium
- :id "government-takeover"
- :side :corp
- :stripped-text "click: Gain 3 credits. Limit 1 Government Takeover per deck."
- :stripped-title "Government Takeover"
- :subtype [:expansion]
- :text "[click]: Gain 3[credit].\nLimit 1 Government Takeover per deck."
- :title "Government Takeover"
- :type :agenda
+{:advancement-requirement 9,
+ :agenda-points 6,
+ :deck-limit 1,
+ :faction :weyland-consortium,
+ :id "government-takeover",
+ :side :corp,
+ :stripped-text "click: Gain 3 credits. Limit 1 Government Takeover per deck.",
+ :stripped-title "Government Takeover",
+ :subtype [:expansion],
+ :text "[click]: Gain 3[credit].\nLimit 1 Government Takeover per deck.",
+ :title "Government Takeover",
+ :type :agenda,
  :uniqueness true}

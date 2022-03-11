@@ -1,15 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "mimic"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :strength 3
- :stripped-text "Interface -> 1 credit: Break 1 sentry subroutine."
- :stripped-title "Mimic"
- :subtype [:icebreaker :killer]
- :text "Interface → 1[credit]: Break 1 <strong>sentry</strong> subroutine."
- :title "Mimic"
- :type :program
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "mimic",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :strength 3,
+ :stripped-text "Interface -> 1 credit: Break 1 sentry subroutine.",
+ :stripped-title "Mimic",
+ :subtype [:icebreaker :killer],
+ :text "Interface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.",
+ :title "Mimic",
+ :type :program,
  :uniqueness false}

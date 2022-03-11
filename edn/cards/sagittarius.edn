@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :haas-bioroid
- :id "sagittarius"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "Subroutine Trace 2 If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program."
- :stripped-title "Sagittarius"
- :subtype [:sentry :tracer :destroyer]
- :text "[subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program."
- :title "Sagittarius"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "sagittarius",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Subroutine Trace 2 If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
+ :stripped-title "Sagittarius",
+ :subtype [:sentry :tracer :destroyer],
+ :text
+   "[subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
+ :title "Sagittarius",
+ :type :ice,
  :uniqueness false}

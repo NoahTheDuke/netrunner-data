@@ -1,13 +1,14 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "ice-carver"
- :influence-cost 3
- :side :runner
- :stripped-text "While you are encountering a piece of ice, it gets -1 strength."
- :stripped-title "Ice Carver"
- :subtype [:virtual]
- :text "While you are encountering a piece of ice, it gets -1 strength."
- :title "Ice Carver"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "ice-carver",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "While you are encountering a piece of ice, it gets -1 strength.",
+ :stripped-title "Ice Carver",
+ :subtype [:virtual],
+ :text "While you are encountering a piece of ice, it gets -1 strength.",
+ :title "Ice Carver",
+ :type :resource,
  :uniqueness true}

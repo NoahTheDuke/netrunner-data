@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :nbn
- :id "salem-s-hospitality"
- :influence-cost 4
- :side :corp
- :stripped-text "This card costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. Name a card. The Runner reveals his or her grip and trashes all copies of the named card from his or her grip."
- :stripped-title "Salem's Hospitality"
- :subtype [:alliance :gray-ops]
- :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nName a card. The Runner reveals his or her grip and trashes all copies of the named card from his or her grip."
- :title "Salem's Hospitality"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "salem-s-hospitality",
+ :influence-cost 4,
+ :side :corp,
+ :stripped-text
+   "This card costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. Name a card. The Runner reveals his or her grip and trashes all copies of the named card from his or her grip.",
+ :stripped-title "Salem's Hospitality",
+ :subtype [:alliance :gray-ops],
+ :text
+   "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nName a card. The Runner reveals his or her grip and trashes all copies of the named card from his or her grip.",
+ :title "Salem's Hospitality",
+ :type :operation,
  :uniqueness false}

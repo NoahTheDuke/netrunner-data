@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "crowdfunding"
- :influence-cost 3
- :side :runner
- :stripped-text "When you install this resource, load 3 credits onto it. When it is empty, trash it and draw 1 card. When your turn begins, take 1 credit from this resource. When your turn ends, if you made at least 3 successful runs this turn and this card is in your heap, you may install it, ignoring all costs."
- :stripped-title "Crowdfunding"
- :subtype [:seedy :virtual]
- :text "When you install this resource, load 3[credit] onto it. When it is empty, trash it and draw 1 card.\nWhen your turn begins, take 1[credit] from this resource.\nWhen your turn ends, if you made at least 3 successful runs this turn and this card is in your heap, you may install it, ignoring all costs."
- :title "Crowdfunding"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "crowdfunding",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "When you install this resource, load 3 credits onto it. When it is empty, trash it and draw 1 card. When your turn begins, take 1 credit from this resource. When your turn ends, if you made at least 3 successful runs this turn and this card is in your heap, you may install it, ignoring all costs.",
+ :stripped-title "Crowdfunding",
+ :subtype [:seedy :virtual],
+ :text
+   "When you install this resource, load 3[credit] onto it. When it is empty, trash it and draw 1 card.\nWhen your turn begins, take 1[credit] from this resource.\nWhen your turn ends, if you made at least 3 successful runs this turn and this card is in your heap, you may install it, ignoring all costs.",
+ :title "Crowdfunding",
+ :type :resource,
  :uniqueness false}

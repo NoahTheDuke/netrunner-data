@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "origami"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "Your maximum hand size is increased by 1 for each copy of Origami installed."
- :stripped-title "Origami"
- :text "Your maximum hand size is increased by 1 for each copy of Origami installed."
- :title "Origami"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "origami",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Your maximum hand size is increased by 1 for each copy of Origami installed.",
+ :stripped-title "Origami",
+ :text
+   "Your maximum hand size is increased by 1 for each copy of Origami installed.",
+ :title "Origami",
+ :type :program,
  :uniqueness false}

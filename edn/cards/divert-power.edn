@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "divert-power"
- :influence-cost 1
- :side :corp
- :stripped-text "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way."
- :stripped-title "Divert Power"
- :text "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way."
- :title "Divert Power"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "divert-power",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way.",
+ :stripped-title "Divert Power",
+ :text
+   "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way.",
+ :title "Divert Power",
+ :type :operation,
  :uniqueness false}

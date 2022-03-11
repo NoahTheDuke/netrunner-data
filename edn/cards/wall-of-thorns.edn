@@ -1,14 +1,14 @@
-{:cost 8
- :deck-limit 3
- :faction :jinteki
- :id "wall-of-thorns"
- :influence-cost 1
- :side :corp
- :strength 5
- :stripped-text "Subroutine Do 2 net damage. Subroutine End the run."
- :stripped-title "Wall of Thorns"
- :subtype [:barrier :ap]
- :text "[subroutine] Do 2 net damage.\n[subroutine] End the run."
- :title "Wall of Thorns"
- :type :ice
+{:cost 8,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "wall-of-thorns",
+ :influence-cost 1,
+ :side :corp,
+ :strength 5,
+ :stripped-text "Subroutine Do 2 net damage. Subroutine End the run.",
+ :stripped-title "Wall of Thorns",
+ :subtype [:barrier :ap],
+ :text "[subroutine] Do 2 net damage.\n[subroutine] End the run.",
+ :title "Wall of Thorns",
+ :type :ice,
  :uniqueness false}

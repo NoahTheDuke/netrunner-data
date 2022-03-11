@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :nbn
- :id "free-lunch"
- :influence-cost 3
- :side :corp
- :strength 4
- :stripped-text "Hosted power counter: The Runner loses 1 credit. Subroutine Place 1 power counter on Free Lunch. Subroutine Place 1 power counter on Free Lunch."
- :stripped-title "Free Lunch"
- :subtype [:code-gate]
- :text "<strong>Hosted power counter:</strong> The Runner loses 1[credit].\n[subroutine] Place 1 power counter on Free Lunch.\n[subroutine] Place 1 power counter on Free Lunch."
- :title "Free Lunch"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "free-lunch",
+ :influence-cost 3,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Hosted power counter: The Runner loses 1 credit. Subroutine Place 1 power counter on Free Lunch. Subroutine Place 1 power counter on Free Lunch.",
+ :stripped-title "Free Lunch",
+ :subtype [:code-gate],
+ :text
+   "<strong>Hosted power counter:</strong> The Runner loses 1[credit].\n[subroutine] Place 1 power counter on Free Lunch.\n[subroutine] Place 1 power counter on Free Lunch.",
+ :title "Free Lunch",
+ :type :ice,
  :uniqueness false}

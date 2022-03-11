@@ -1,15 +1,17 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "paperclip"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :strength 1
- :stripped-text "Whenever you encounter a barrier, you may install this program from your heap. X credits: +X strength. Then, if this program can interface with the barrier you are encountering, break up to X subroutines."
- :stripped-title "Paperclip"
- :subtype [:icebreaker :fracter]
- :text "Whenever you encounter a <strong>barrier</strong>, you may install this program from your heap.\n<strong>X[credit]:</strong> +X strength. Then, if this program can interface with the <strong>barrier</strong> you are encountering, break up to X subroutines."
- :title "Paperclip"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "paperclip",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :strength 1,
+ :stripped-text
+   "Whenever you encounter a barrier, you may install this program from your heap. X credits: +X strength. Then, if this program can interface with the barrier you are encountering, break up to X subroutines.",
+ :stripped-title "Paperclip",
+ :subtype [:icebreaker :fracter],
+ :text
+   "Whenever you encounter a <strong>barrier</strong>, you may install this program from your heap.\n<strong>X[credit]:</strong> +X strength. Then, if this program can interface with the <strong>barrier</strong> you are encountering, break up to X subroutines.",
+ :title "Paperclip",
+ :type :program,
  :uniqueness false}

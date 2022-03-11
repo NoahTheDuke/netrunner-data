@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :haas-bioroid
- :id "next-silver"
- :influence-cost 2
- :side :corp
- :strength 1
- :stripped-text "NEXT Silver gains \"Subroutine End the run.\" for each rezzed piece of NEXT ice."
- :stripped-title "NEXT Silver"
- :subtype [:barrier :next]
- :text "NEXT Silver gains \"[subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice."
- :title "NEXT Silver"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "next-silver",
+ :influence-cost 2,
+ :side :corp,
+ :strength 1,
+ :stripped-text
+   "NEXT Silver gains \"Subroutine End the run.\" for each rezzed piece of NEXT ice.",
+ :stripped-title "NEXT Silver",
+ :subtype [:barrier :next],
+ :text
+   "NEXT Silver gains \"[subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice.",
+ :title "NEXT Silver",
+ :type :ice,
  :uniqueness false}

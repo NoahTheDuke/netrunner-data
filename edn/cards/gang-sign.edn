@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "gang-sign"
- :influence-cost 3
- :side :runner
- :stripped-text "Whenever the Corp scores an agenda, breach HQ. You cannot access cards in the root of HQ during this breach."
- :stripped-title "Gang Sign"
- :subtype [:virtual]
- :text "Whenever the Corp scores an agenda, breach HQ. You cannot access cards in the root of HQ during this breach."
- :title "Gang Sign"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "gang-sign",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Whenever the Corp scores an agenda, breach HQ. You cannot access cards in the root of HQ during this breach.",
+ :stripped-title "Gang Sign",
+ :subtype [:virtual],
+ :text
+   "Whenever the Corp scores an agenda, breach HQ. You cannot access cards in the root of HQ during this breach.",
+ :title "Gang Sign",
+ :type :resource,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:advancement-requirement 2
- :agenda-points 1
- :deck-limit 3
- :faction :jinteki
- :id "clone-retirement"
- :side :corp
- :stripped-text "When you score Clone Retirement, you may remove 1 bad publicity. When the Runner steals Clone Retirement, the Corp takes 1 bad publicity."
- :stripped-title "Clone Retirement"
- :subtype [:initiative]
- :text "When you score Clone Retirement, you may remove 1 bad publicity.\nWhen the Runner steals Clone Retirement, the Corp takes 1 bad publicity."
- :title "Clone Retirement"
- :type :agenda
+{:advancement-requirement 2,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "clone-retirement",
+ :side :corp,
+ :stripped-text
+   "When you score Clone Retirement, you may remove 1 bad publicity. When the Runner steals Clone Retirement, the Corp takes 1 bad publicity.",
+ :stripped-title "Clone Retirement",
+ :subtype [:initiative],
+ :text
+   "When you score Clone Retirement, you may remove 1 bad publicity.\nWhen the Runner steals Clone Retirement, the Corp takes 1 bad publicity.",
+ :title "Clone Retirement",
+ :type :agenda,
  :uniqueness false}

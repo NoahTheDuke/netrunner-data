@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "slipstream"
- :influence-cost 2
- :side :runner
- :stripped-text "Whenever you pass a rezzed piece of ice, you may trash this resource. If you do, choose 1 piece of ice protecting a central server in the same position as the passed ice. Move to that ice and approach it. You may jack out."
- :stripped-title "Slipstream"
- :subtype [:virtual]
- :text "Whenever you pass a rezzed piece of ice, you may trash this resource. If you do, choose 1 piece of ice protecting a central server in the same position as the passed ice. Move to that ice and approach it. You may jack out."
- :title "Slipstream"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "slipstream",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Whenever you pass a rezzed piece of ice, you may trash this resource. If you do, choose 1 piece of ice protecting a central server in the same position as the passed ice. Move to that ice and approach it. You may jack out.",
+ :stripped-title "Slipstream",
+ :subtype [:virtual],
+ :text
+   "Whenever you pass a rezzed piece of ice, you may trash this resource. If you do, choose 1 piece of ice protecting a central server in the same position as the passed ice. Move to that ice and approach it. You may jack out.",
+ :title "Slipstream",
+ :type :resource,
  :uniqueness false}

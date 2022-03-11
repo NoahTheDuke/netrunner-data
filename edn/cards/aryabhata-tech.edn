@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :nbn
- :id "aryabhata-tech"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever there is a successful trace, gain 1 credit and the Runner loses 1 credit."
- :stripped-title "Aryabhata Tech"
- :subtype [:ritzy]
- :text "Whenever there is a successful trace, gain 1[credit] and the Runner loses 1[credit]."
- :title "Aryabhata Tech"
- :trash-cost 3
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "aryabhata-tech",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever there is a successful trace, gain 1 credit and the Runner loses 1 credit.",
+ :stripped-title "Aryabhata Tech",
+ :subtype [:ritzy],
+ :text
+   "Whenever there is a successful trace, gain 1[credit] and the Runner loses 1[credit].",
+ :title "Aryabhata Tech",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "dadiana-chacon"
- :influence-cost 0
- :side :runner
- :stripped-text "When your turn begins, gain 1 credit if you have fewer than 6 credits. Whenever you have 0 credits, trash Dadiana Chacon and take 3 meat damage."
- :stripped-title "Dadiana Chacon"
- :subtype [:connection]
- :text "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage."
- :title "Dadiana Chacon"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "dadiana-chacon",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, gain 1 credit if you have fewer than 6 credits. Whenever you have 0 credits, trash Dadiana Chacon and take 3 meat damage.",
+ :stripped-title "Dadiana Chacon",
+ :subtype [:connection],
+ :text
+   "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage.",
+ :title "Dadiana Chacon",
+ :type :resource,
  :uniqueness true}

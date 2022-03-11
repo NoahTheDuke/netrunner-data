@@ -1,15 +1,17 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "corroder"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :strength 2
- :stripped-text "Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength."
- :stripped-title "Corroder"
- :subtype [:icebreaker :fracter]
- :text "Interface → 1[credit]: Break 1 <strong>barrier</strong> subroutine.\n1[credit]: +1 strength."
- :title "Corroder"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "corroder",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :strength 2,
+ :stripped-text
+   "Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength.",
+ :stripped-title "Corroder",
+ :subtype [:icebreaker :fracter],
+ :text
+   "Interface → 1[credit]: Break 1 <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.",
+ :title "Corroder",
+ :type :program,
  :uniqueness false}

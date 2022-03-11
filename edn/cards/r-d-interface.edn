@@ -1,12 +1,12 @@
-{:cost 4
- :deck-limit 3
- :faction :shaper
- :id "r-d-interface"
- :influence-cost 2
- :side :runner
- :stripped-text "Whenever you breach R&D, access 1 additional card."
- :stripped-title "R&D Interface"
- :text "Whenever you breach R&D, access 1 additional card."
- :title "R&D Interface"
- :type :hardware
+{:cost 4,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "r-d-interface",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "Whenever you breach R&D, access 1 additional card.",
+ :stripped-title "R&D Interface",
+ :text "Whenever you breach R&D, access 1 additional card.",
+ :title "R&D Interface",
+ :type :hardware,
  :uniqueness false}

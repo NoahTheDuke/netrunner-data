@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "injection-attack"
- :influence-cost 0
- :side :runner
- :stripped-text "Choose 1 installed icebreaker and run any server. During that run, the chosen icebreaker gets +2 strength."
- :stripped-title "Injection Attack"
- :subtype [:run]
- :text "Choose 1 installed <strong>icebreaker</strong> and run any server. During that run, the chosen <strong>icebreaker</strong> gets +2 strength."
- :title "Injection Attack"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "injection-attack",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Choose 1 installed icebreaker and run any server. During that run, the chosen icebreaker gets +2 strength.",
+ :stripped-title "Injection Attack",
+ :subtype [:run],
+ :text
+   "Choose 1 installed <strong>icebreaker</strong> and run any server. During that run, the chosen <strong>icebreaker</strong> gets +2 strength.",
+ :title "Injection Attack",
+ :type :event,
  :uniqueness false}

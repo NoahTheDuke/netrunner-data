@@ -1,13 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "hot-pursuit"
- :influence-cost 2
- :side :runner
- :stripped-text "Make a run on HQ. If successful, gain 9 credits and take 1 tag."
- :stripped-title "Hot Pursuit"
- :subtype [:run]
- :text "Make a run on HQ. If successful, gain 9[credit] and take 1 tag."
- :title "Hot Pursuit"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "hot-pursuit",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Make a run on HQ. If successful, gain 9 credits and take 1 tag.",
+ :stripped-title "Hot Pursuit",
+ :subtype [:run],
+ :text "Make a run on HQ. If successful, gain 9[credit] and take 1 tag.",
+ :title "Hot Pursuit",
+ :type :event,
  :uniqueness false}

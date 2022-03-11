@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "expo-grid"
- :influence-cost 3
- :side :corp
- :stripped-text "When your turn begins, gain 1 credit if there is a rezzed asset installed in the root of this server. Limit 1 region per server."
- :stripped-title "Expo Grid"
- :subtype [:region]
- :text "When your turn begins, gain 1[credit] if there is a rezzed asset installed in the root of this server.\nLimit 1 <strong>region</strong> per server."
- :title "Expo Grid"
- :trash-cost 3
- :type :upgrade
+{:cost 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "expo-grid",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "When your turn begins, gain 1 credit if there is a rezzed asset installed in the root of this server. Limit 1 region per server.",
+ :stripped-title "Expo Grid",
+ :subtype [:region],
+ :text
+   "When your turn begins, gain 1[credit] if there is a rezzed asset installed in the root of this server.\nLimit 1 <strong>region</strong> per server.",
+ :title "Expo Grid",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :neutral-corp
- :id "the-shadow-pulling-the-strings"
- :influence-limit nil
- :minimum-deck-size 30
- :side :corp
- :stripped-text "Draft format only. You can use agendas from all factions in this deck."
- :stripped-title "The Shadow: Pulling the Strings"
- :subtype [:megacorp]
- :text "Draft format only.\nYou can use agendas from all factions in this deck."
- :title "The Shadow: Pulling the Strings"
- :type :identity
+{:deck-limit 1,
+ :faction :neutral-corp,
+ :id "the-shadow-pulling-the-strings",
+ :influence-limit nil,
+ :minimum-deck-size 30,
+ :side :corp,
+ :stripped-text
+   "Draft format only. You can use agendas from all factions in this deck.",
+ :stripped-title "The Shadow: Pulling the Strings",
+ :subtype [:megacorp],
+ :text
+   "Draft format only.\nYou can use agendas from all factions in this deck.",
+ :title "The Shadow: Pulling the Strings",
+ :type :identity,
  :uniqueness false}

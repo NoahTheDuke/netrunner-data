@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :jinteki
- :id "inazuma"
- :influence-cost 2
- :side :corp
- :strength 5
- :stripped-text "Subroutine The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run. Subroutine The Runner cannot jack out until after encountering the next piece of ice during this run."
- :stripped-title "Inazuma"
- :subtype [:code-gate]
- :text "[subroutine] The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.\n[subroutine] The Runner cannot jack out until after encountering the next piece of ice during this run."
- :title "Inazuma"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "inazuma",
+ :influence-cost 2,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Subroutine The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run. Subroutine The Runner cannot jack out until after encountering the next piece of ice during this run.",
+ :stripped-title "Inazuma",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.\n[subroutine] The Runner cannot jack out until after encountering the next piece of ice during this run.",
+ :title "Inazuma",
+ :type :ice,
  :uniqueness false}

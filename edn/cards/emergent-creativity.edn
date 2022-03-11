@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :adam
- :id "emergent-creativity"
- :influence-cost 5
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X credits less. X is equal to the total install cost of the trashed cards."
- :stripped-title "Emergent Creativity"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[credit] less. X is equal to the total install cost of the trashed cards."
- :title "Emergent Creativity"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :adam,
+ :id "emergent-creativity",
+ :influence-cost 5,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X credits less. X is equal to the total install cost of the trashed cards.",
+ :stripped-title "Emergent Creativity",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[credit] less. X is equal to the total install cost of the trashed cards.",
+ :title "Emergent Creativity",
+ :type :event,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "gravedigger"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger. click, hosted virus counter: The Corp trashes the top card of R&D."
- :stripped-title "Gravedigger"
- :subtype [:virus]
- :text "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D."
- :title "Gravedigger"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "gravedigger",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger. click, hosted virus counter: The Corp trashes the top card of R&D.",
+ :stripped-title "Gravedigger",
+ :subtype [:virus],
+ :text
+   "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D.",
+ :title "Gravedigger",
+ :type :program,
  :uniqueness false}

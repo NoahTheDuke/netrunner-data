@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "student-loans"
- :influence-cost 2
- :side :corp
- :stripped-text "As an additional cost to play an event that there is a copy of in his or her heap, the Runner must pay 2 credits."
- :stripped-title "Student Loans"
- :text "As an additional cost to play an event that there is a copy of in his or her heap, the Runner must pay 2[credit]."
- :title "Student Loans"
- :trash-cost 3
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "student-loans",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play an event that there is a copy of in his or her heap, the Runner must pay 2 credits.",
+ :stripped-title "Student Loans",
+ :text
+   "As an additional cost to play an event that there is a copy of in his or her heap, the Runner must pay 2[credit].",
+ :title "Student Loans",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

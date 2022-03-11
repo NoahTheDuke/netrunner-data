@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "wendigo"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "Wendigo can be advanced. While Wendigo has an odd number of advancement tokens on it, it gains barrier and loses code gate. Subroutine Choose a program. The Runner cannot use the chosen program for the remainder of this run."
- :stripped-title "Wendigo"
- :subtype [:code-gate :morph]
- :text "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[subroutine] Choose a program. The Runner cannot use the chosen program for the remainder of this run."
- :title "Wendigo"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "wendigo",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Wendigo can be advanced. While Wendigo has an odd number of advancement tokens on it, it gains barrier and loses code gate. Subroutine Choose a program. The Runner cannot use the chosen program for the remainder of this run.",
+ :stripped-title "Wendigo",
+ :subtype [:code-gate :morph],
+ :text
+   "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[subroutine] Choose a program. The Runner cannot use the chosen program for the remainder of this run.",
+ :title "Wendigo",
+ :type :ice,
  :uniqueness false}

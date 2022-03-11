@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "armitage-codebusting"
- :influence-cost 0
- :side :runner
- :stripped-text "Place 12 credits from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it. click: Take 2 credits from Armitage Codebusting."
- :stripped-title "Armitage Codebusting"
- :subtype [:job]
- :text "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n[click]: Take 2[credit] from Armitage Codebusting."
- :title "Armitage Codebusting"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "armitage-codebusting",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Place 12 credits from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it. click: Take 2 credits from Armitage Codebusting.",
+ :stripped-title "Armitage Codebusting",
+ :subtype [:job],
+ :text
+   "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n[click]: Take 2[credit] from Armitage Codebusting.",
+ :title "Armitage Codebusting",
+ :type :resource,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "signal-jamming"
- :influence-cost 0
- :side :corp
- :stripped-text "trash: Cards cannot be installed until the end of the run. Use this ability only during a run on this server."
- :stripped-title "Signal Jamming"
- :text "[trash]: Cards cannot be installed until the end of the run. Use this ability only during a run on this server."
- :title "Signal Jamming"
- :trash-cost 2
- :type :upgrade
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "signal-jamming",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "trash: Cards cannot be installed until the end of the run. Use this ability only during a run on this server.",
+ :stripped-title "Signal Jamming",
+ :text
+   "[trash]: Cards cannot be installed until the end of the run. Use this ability only during a run on this server.",
+ :title "Signal Jamming",
+ :trash-cost 2,
+ :type :upgrade,
  :uniqueness false}

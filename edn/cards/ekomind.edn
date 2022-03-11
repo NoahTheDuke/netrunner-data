@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "ekomind"
- :influence-cost 3
- :side :runner
- :stripped-text "Your memory limit is equal to the number of cards in your grip. Limit 1 console per player."
- :stripped-title "Ekomind"
- :subtype [:console]
- :text "Your memory limit is equal to the number of cards in your grip.\nLimit 1 <strong>console</strong> per player."
- :title "Ekomind"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "ekomind",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Your memory limit is equal to the number of cards in your grip. Limit 1 console per player.",
+ :stripped-title "Ekomind",
+ :subtype [:console],
+ :text
+   "Your memory limit is equal to the number of cards in your grip.\nLimit 1 <strong>console</strong> per player.",
+ :title "Ekomind",
+ :type :hardware,
  :uniqueness true}

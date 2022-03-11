@@ -1,14 +1,14 @@
-{:cost 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "battlement"
- :influence-cost 4
- :side :corp
- :strength 2
- :stripped-text "Subroutine End the run. Subroutine End the run."
- :stripped-title "Battlement"
- :subtype [:barrier]
- :text "[subroutine]End the run.\n[subroutine]End the run."
- :title "Battlement"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "battlement",
+ :influence-cost 4,
+ :side :corp,
+ :strength 2,
+ :stripped-text "Subroutine End the run. Subroutine End the run.",
+ :stripped-title "Battlement",
+ :subtype [:barrier],
+ :text "[subroutine]End the run.\n[subroutine]End the run.",
+ :title "Battlement",
+ :type :ice,
  :uniqueness false}

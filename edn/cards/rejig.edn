@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "rejig"
- :influence-cost 0
- :side :runner
- :stripped-text "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X credits less. X is equal to the printed install cost of the uninstalled card."
- :stripped-title "Rejig"
- :text "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X[credit] less. X is equal to the printed install cost of the uninstalled card."
- :title "Rejig"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "rejig",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X credits less. X is equal to the printed install cost of the uninstalled card.",
+ :stripped-title "Rejig",
+ :text
+   "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X[credit] less. X is equal to the printed install cost of the uninstalled card.",
+ :title "Rejig",
+ :type :event,
  :uniqueness false}

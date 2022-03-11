@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-runner
- :id "prepaid-voicepad"
- :influence-cost 0
- :side :runner
- :stripped-text "1 recurring credit (When you install this card and before your turn begins, refill to 1 hosted credit.) You can spend hosted credits to play events."
- :stripped-title "Prepaid VoicePAD"
- :subtype [:gear]
- :text "1[recurring-credit] <em>(When you install this card and before your turn begins, refill to 1 hosted credit.)</em>\nYou can spend hosted credits to play events."
- :title "Prepaid VoicePAD"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "prepaid-voicepad",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "1 recurring credit (When you install this card and before your turn begins, refill to 1 hosted credit.) You can spend hosted credits to play events.",
+ :stripped-title "Prepaid VoicePAD",
+ :subtype [:gear],
+ :text
+   "1[recurring-credit] <em>(When you install this card and before your turn begins, refill to 1 hosted credit.)</em>\nYou can spend hosted credits to play events.",
+ :title "Prepaid VoicePAD",
+ :type :hardware,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :criminal
- :id "snitch"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "Once per run, you may expose an unrezzed piece of ice when you approach it. You may then jack out."
- :stripped-title "Snitch"
- :text "Once per run, you may expose an unrezzed piece of ice when you approach it. You may then jack out."
- :title "Snitch"
- :type :program
+{:cost 3,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "snitch",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Once per run, you may expose an unrezzed piece of ice when you approach it. You may then jack out.",
+ :stripped-title "Snitch",
+ :text
+   "Once per run, you may expose an unrezzed piece of ice when you approach it. You may then jack out.",
+ :title "Snitch",
+ :type :program,
  :uniqueness false}

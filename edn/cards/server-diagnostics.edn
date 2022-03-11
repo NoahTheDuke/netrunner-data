@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :neutral-corp
- :id "server-diagnostics"
- :influence-cost 0
- :side :corp
- :stripped-text "Gain 2 credits when your turn begins. Trash Server Diagnostics when you install a piece of ice."
- :stripped-title "Server Diagnostics"
- :text "Gain 2[credit] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice."
- :title "Server Diagnostics"
- :trash-cost 2
- :type :asset
+{:cost 3,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "server-diagnostics",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Gain 2 credits when your turn begins. Trash Server Diagnostics when you install a piece of ice.",
+ :stripped-title "Server Diagnostics",
+ :text
+   "Gain 2[credit] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice.",
+ :title "Server Diagnostics",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

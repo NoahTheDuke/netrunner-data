@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 6
- :faction :shaper
- :id "out-of-the-ashes"
- :influence-cost 2
- :side :runner
- :stripped-text "Make a run. When your turn begins, if Out of the Ashes is in your heap, you may remove it from the game to make a run. Limit 6 per deck."
- :stripped-title "Out of the Ashes"
- :subtype [:run]
- :text "Make a run.\nWhen your turn begins, if Out of the Ashes is in your heap, you may remove it from the game to make a run.\nLimit 6 per deck."
- :title "Out of the Ashes"
- :type :event
+{:cost 1,
+ :deck-limit 6,
+ :faction :shaper,
+ :id "out-of-the-ashes",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Make a run. When your turn begins, if Out of the Ashes is in your heap, you may remove it from the game to make a run. Limit 6 per deck.",
+ :stripped-title "Out of the Ashes",
+ :subtype [:run],
+ :text
+   "Make a run.\nWhen your turn begins, if Out of the Ashes is in your heap, you may remove it from the game to make a run.\nLimit 6 per deck.",
+ :title "Out of the Ashes",
+ :type :event,
  :uniqueness false}

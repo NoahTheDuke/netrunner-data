@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "cerebral-static"
- :influence-cost 2
- :side :corp
- :stripped-text "This card is not trashed until another current is played or an agenda is stolen. The Runner's identity text box is blank."
- :stripped-title "Cerebral Static"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's identity text box is blank."
- :title "Cerebral Static"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "cerebral-static",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is stolen. The Runner's identity text box is blank.",
+ :stripped-title "Cerebral Static",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's identity text box is blank.",
+ :title "Cerebral Static",
+ :type :operation,
  :uniqueness false}

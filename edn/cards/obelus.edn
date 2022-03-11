@@ -1,13 +1,15 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "obelus"
- :influence-cost 3
- :side :runner
- :stripped-text "+1 mu You get +1 maximum hand size for each tag you have. The first time each turn a successful run on HQ or R&D ends, draw 1 card for each time you accessed a card during that run. Limit 1 console per player."
- :stripped-title "Obelus"
- :subtype [:console]
- :text "+1[mu]\nYou get +1 maximum hand size for each tag you have.\nThe first time each turn a successful run on HQ or R&D ends, draw 1 card for each time you accessed a card during that run.\nLimit 1 <strong>console</strong> per player."
- :title "Obelus"
- :type :hardware
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "obelus",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "+1 mu You get +1 maximum hand size for each tag you have. The first time each turn a successful run on HQ or R&D ends, draw 1 card for each time you accessed a card during that run. Limit 1 console per player.",
+ :stripped-title "Obelus",
+ :subtype [:console],
+ :text
+   "+1[mu]\nYou get +1 maximum hand size for each tag you have.\nThe first time each turn a successful run on HQ or R&D ends, draw 1 card for each time you accessed a card during that run.\nLimit 1 <strong>console</strong> per player.",
+ :title "Obelus",
+ :type :hardware,
  :uniqueness true}

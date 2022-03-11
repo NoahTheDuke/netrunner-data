@@ -1,14 +1,14 @@
-{:base-link 1
- :deck-limit 1
- :faction :criminal
- :id "armand-geist-walker-tech-lord"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "Whenever you use a trash ability, draw 1 card."
- :stripped-title "Armand \"Geist\" Walker: Tech Lord"
- :subtype [:g-mod]
- :text "Whenever you use a [trash] ability, draw 1 card."
- :title "Armand \"Geist\" Walker: Tech Lord"
- :type :identity
+{:base-link 1,
+ :deck-limit 1,
+ :faction :criminal,
+ :id "armand-geist-walker-tech-lord",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text "Whenever you use a trash ability, draw 1 card.",
+ :stripped-title "Armand \"Geist\" Walker: Tech Lord",
+ :subtype [:g-mod],
+ :text "Whenever you use a [trash] ability, draw 1 card.",
+ :title "Armand \"Geist\" Walker: Tech Lord",
+ :type :identity,
  :uniqueness false}

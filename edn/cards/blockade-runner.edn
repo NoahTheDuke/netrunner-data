@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "blockade-runner"
- :influence-cost 1
- :side :runner
- :stripped-text "click,click: Draw 3 cards. Shuffle 1 card from your grip into your stack."
- :stripped-title "Blockade Runner"
- :subtype [:connection]
- :text "[click],[click]: Draw 3 cards. Shuffle 1 card from your grip into your stack."
- :title "Blockade Runner"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "blockade-runner",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "click,click: Draw 3 cards. Shuffle 1 card from your grip into your stack.",
+ :stripped-title "Blockade Runner",
+ :subtype [:connection],
+ :text
+   "[click],[click]: Draw 3 cards. Shuffle 1 card from your grip into your stack.",
+ :title "Blockade Runner",
+ :type :resource,
  :uniqueness false}

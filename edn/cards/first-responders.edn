@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-runner
- :id "first-responders"
- :influence-cost 0
- :side :runner
- :stripped-text "2 credits: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn."
- :stripped-title "First Responders"
- :subtype [:connection]
- :text "2[credit]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn."
- :title "First Responders"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "first-responders",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "2 credits: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.",
+ :stripped-title "First Responders",
+ :subtype [:connection],
+ :text
+   "2[credit]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.",
+ :title "First Responders",
+ :type :resource,
  :uniqueness false}

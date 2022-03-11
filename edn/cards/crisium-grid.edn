@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "crisium-grid"
- :influence-cost 1
- :side :corp
- :stripped-text "Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Limit 1 region per server."
- :stripped-title "Crisium Grid"
- :subtype [:region]
- :text "Runs against this server cannot be declared successful. <em>(This effect does not cause runs to become unsuccessful.)</em>\nLimit 1 <strong>region</strong> per server."
- :title "Crisium Grid"
- :trash-cost 5
- :type :upgrade
+{:cost 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "crisium-grid",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Limit 1 region per server.",
+ :stripped-title "Crisium Grid",
+ :subtype [:region],
+ :text
+   "Runs against this server cannot be declared successful. <em>(This effect does not cause runs to become unsuccessful.)</em>\nLimit 1 <strong>region</strong> per server.",
+ :title "Crisium Grid",
+ :trash-cost 5,
+ :type :upgrade,
  :uniqueness false}

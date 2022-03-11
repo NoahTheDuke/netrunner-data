@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "clot"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "The Corp cannot score an agenda during the same turn they installed that agenda. When the Corp purges virus counters, trash this program."
- :stripped-title "Clot"
- :subtype [:virus]
- :text "The Corp cannot score an agenda during the same turn they installed that agenda.\nWhen the Corp purges virus counters, trash this program."
- :title "Clot"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "clot",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "The Corp cannot score an agenda during the same turn they installed that agenda. When the Corp purges virus counters, trash this program.",
+ :stripped-title "Clot",
+ :subtype [:virus],
+ :text
+   "The Corp cannot score an agenda during the same turn they installed that agenda.\nWhen the Corp purges virus counters, trash this program.",
+ :title "Clot",
+ :type :program,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "mumbad-virtual-tour"
- :influence-cost 2
- :side :corp
- :stripped-text "This card costs 0 influence if you have 7 or more assets in your deck. If the Runner accesses Mumbad Virtual Tour while it is installed, he or she must trash it, if able."
- :stripped-title "Mumbad Virtual Tour"
- :subtype [:alliance]
- :text "This card costs 0 influence if you have 7 or more assets in your deck.\nIf the Runner accesses Mumbad Virtual Tour while it is installed, he or she must trash it, if able."
- :title "Mumbad Virtual Tour"
- :trash-cost 5
- :type :upgrade
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "mumbad-virtual-tour",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "This card costs 0 influence if you have 7 or more assets in your deck. If the Runner accesses Mumbad Virtual Tour while it is installed, he or she must trash it, if able.",
+ :stripped-title "Mumbad Virtual Tour",
+ :subtype [:alliance],
+ :text
+   "This card costs 0 influence if you have 7 or more assets in your deck.\nIf the Runner accesses Mumbad Virtual Tour while it is installed, he or she must trash it, if able.",
+ :title "Mumbad Virtual Tour",
+ :trash-cost 5,
+ :type :upgrade,
  :uniqueness false}

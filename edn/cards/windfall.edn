@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "windfall"
- :influence-cost 0
- :side :runner
- :stripped-text "Shuffle your stack. Trash the top card of your stack. Gain X credits where X is equal to the install cost of that card."
- :stripped-title "Windfall"
- :text "Shuffle your stack. Trash the top card of your stack. Gain X[credit] where X is equal to the install cost of that card."
- :title "Windfall"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "windfall",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Shuffle your stack. Trash the top card of your stack. Gain X credits where X is equal to the install cost of that card.",
+ :stripped-title "Windfall",
+ :text
+   "Shuffle your stack. Trash the top card of your stack. Gain X[credit] where X is equal to the install cost of that card.",
+ :title "Windfall",
+ :type :event,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :shaper
- :id "the-professor-keeper-of-knowledge"
- :influence-limit 1
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first copy of each program in this deck does not count against your influence limit."
- :stripped-title "The Professor: Keeper of Knowledge"
- :subtype [:natural]
- :text "The first copy of each program in this deck does not count against your influence limit."
- :title "The Professor: Keeper of Knowledge"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :shaper,
+ :id "the-professor-keeper-of-knowledge",
+ :influence-limit 1,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "The first copy of each program in this deck does not count against your influence limit.",
+ :stripped-title "The Professor: Keeper of Knowledge",
+ :subtype [:natural],
+ :text
+   "The first copy of each program in this deck does not count against your influence limit.",
+ :title "The Professor: Keeper of Knowledge",
+ :type :identity,
  :uniqueness false}

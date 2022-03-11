@@ -1,13 +1,15 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "oaktown-renovation"
- :side :corp
- :stripped-text "Install only faceup. (This agenda is neither rezzed nor unrezzed.) Whenever you advance this agenda, gain 2 credits. If there are 5 or more hosted advancement counters (including the counter just placed), gain 3 credits instead."
- :stripped-title "Oaktown Renovation"
- :subtype [:public :initiative]
- :text "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>\nWhenever you advance this agenda, gain 2[credit]. If there are 5 or more hosted advancement counters <em>(including the counter just placed)</em>, gain 3[credit] instead."
- :title "Oaktown Renovation"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "oaktown-renovation",
+ :side :corp,
+ :stripped-text
+   "Install only faceup. (This agenda is neither rezzed nor unrezzed.) Whenever you advance this agenda, gain 2 credits. If there are 5 or more hosted advancement counters (including the counter just placed), gain 3 credits instead.",
+ :stripped-title "Oaktown Renovation",
+ :subtype [:public :initiative],
+ :text
+   "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>\nWhenever you advance this agenda, gain 2[credit]. If there are 5 or more hosted advancement counters <em>(including the counter just placed)</em>, gain 3[credit] instead.",
+ :title "Oaktown Renovation",
+ :type :agenda,
  :uniqueness false}

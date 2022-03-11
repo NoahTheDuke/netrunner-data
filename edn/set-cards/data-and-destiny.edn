@@ -1,370 +1,394 @@
-[{:card-id "sync-everything-everywhere"
-  :code "09001"
-  :illustrator "Maciej Rebisz"
-  :position 1
-  :quantity 3
+[{:card-id "sync-everything-everywhere",
+  :code "09001",
+  :illustrator "Maciej Rebisz",
+  :position 1,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "new-angeles-sol-your-news"
-  :code "09002"
-  :flavor "Nothing but the Truth."
-  :illustrator "Maciej Rebisz"
-  :position 2
-  :quantity 3
+ {:card-id "new-angeles-sol-your-news",
+  :code "09002",
+  :flavor "Nothing but the Truth.",
+  :illustrator "Maciej Rebisz",
+  :position 2,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "spark-agency-worldswide-reach"
-  :code "09003"
-  :flavor "We're ready to start the fire."
-  :illustrator "Emilio Rodriguez"
-  :position 3
-  :quantity 3
+ {:card-id "spark-agency-worldswide-reach",
+  :code "09003",
+  :flavor "We're ready to start the fire.",
+  :illustrator "Emilio Rodriguez",
+  :position 3,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "15-minutes"
-  :code "09004"
-  :flavor "You had your shot, and you blew it."
-  :illustrator "Hannah Christenson"
-  :position 4
-  :quantity 3
+ {:card-id "15-minutes",
+  :code "09004",
+  :flavor "You had your shot, and you blew it.",
+  :illustrator "Hannah Christenson",
+  :position 4,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "improved-tracers"
-  :code "09005"
-  :flavor "\"The trick isn't software, it's hardware. Cyberspace is a collection of physical machines. If we control the machines, we control it all.\" -KR Kane, \"Our Future\""
-  :illustrator "Adam S. Doyle"
-  :position 5
-  :quantity 3
+ {:card-id "improved-tracers",
+  :code "09005",
+  :flavor
+    "\"The trick isn't software, it's hardware. Cyberspace is a collection of physical machines. If we control the machines, we control it all.\" -KR Kane, \"Our Future\"",
+  :illustrator "Adam S. Doyle",
+  :position 5,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "rebranding-team"
-  :code "09006"
-  :flavor "\"Nobody ever lost a dollar by underestimating the taste of the public.\" -Phineas Taylor Barnum"
-  :illustrator "Tiffany Turrill"
-  :position 6
-  :quantity 3
+ {:card-id "rebranding-team",
+  :code "09006",
+  :flavor
+    "\"Nobody ever lost a dollar by underestimating the taste of the public.\" -Phineas Taylor Barnum",
+  :illustrator "Tiffany Turrill",
+  :position 6,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "quantum-predictive-model"
-  :code "09007"
-  :flavor "\"Yes <strong>and</strong> No.\""
-  :illustrator "Liiga Smilshkalne"
-  :position 7
-  :quantity 3
+ {:card-id "quantum-predictive-model",
+  :code "09007",
+  :flavor "\"Yes <strong>and</strong> No.\"",
+  :illustrator "Liiga Smilshkalne",
+  :position 7,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "lily-lockwell"
-  :code "09008"
-  :flavor "\"Live from New Angeles, this is Lily Lockwell.\""
-  :illustrator "Matt Zeilinger"
-  :position 8
-  :quantity 3
+ {:card-id "lily-lockwell",
+  :code "09008",
+  :flavor "\"Live from New Angeles, this is Lily Lockwell.\"",
+  :illustrator "Matt Zeilinger",
+  :position 8,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "news-team"
-  :code "09009"
-  :illustrator "Jessada Sutthi"
-  :position 9
-  :quantity 3
+ {:card-id "news-team",
+  :code "09009",
+  :illustrator "Jessada Sutthi",
+  :position 9,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "shannon-claire"
-  :code "09010"
-  :flavor "No one can bury a story better."
-  :illustrator "Rebecca Sorge"
-  :position 10
-  :quantity 3
+ {:card-id "shannon-claire",
+  :code "09010",
+  :flavor "No one can bury a story better.",
+  :illustrator "Rebecca Sorge",
+  :position 10,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "victoria-jenkins"
-  :code "09011"
-  :illustrator "Matt Zeilinger"
-  :position 11
-  :quantity 3
+ {:card-id "victoria-jenkins",
+  :code "09011",
+  :illustrator "Matt Zeilinger",
+  :position 11,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "reality-threedee"
-  :code "09012"
-  :flavor "\"They're gonna try and make you a star. Whether you want it or not.\" -MaxX"
-  :illustrator "Kate Laird"
-  :position 12
-  :quantity 3
+ {:card-id "reality-threedee",
+  :code "09012",
+  :flavor
+    "\"They're gonna try and make you a star. Whether you want it or not.\" -MaxX",
+  :illustrator "Kate Laird",
+  :position 12,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "archangel"
-  :code "09013"
-  :illustrator "Liiga Smilshkalne"
-  :position 13
-  :quantity 3
+ {:card-id "archangel",
+  :code "09013",
+  :illustrator "Liiga Smilshkalne",
+  :position 13,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "news-hound"
-  :code "09014"
-  :flavor "\"Most reporting these days can be done by AI. We just need the talent for the name recognition.\""
-  :illustrator "Darren Waud"
-  :position 14
-  :quantity 3
+ {:card-id "news-hound",
+  :code "09014",
+  :flavor
+    "\"Most reporting these days can be done by AI. We just need the talent for the name recognition.\"",
+  :illustrator "Darren Waud",
+  :position 14,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "resistor"
-  :code "09015"
-  :flavor "\"In the Olden Times, a 'resistor' was a vital component of practically all electronic equipment. You know, back when dinosaurs roamed the Earth.\" -Chaos Theory"
-  :illustrator "Mariusz Siergiejew"
-  :position 15
-  :quantity 3
+ {:card-id "resistor",
+  :code "09015",
+  :flavor
+    "\"In the Olden Times, a 'resistor' was a vital component of practically all electronic equipment. You know, back when dinosaurs roamed the Earth.\" -Chaos Theory",
+  :illustrator "Mariusz Siergiejew",
+  :position 15,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "special-offer"
-  :code "09016"
-  :flavor "\"If I didn't know better, I'd say they got the better end of that deal.\" -John Masanori"
-  :illustrator "Hannah Christenson"
-  :position 16
-  :quantity 3
+ {:card-id "special-offer",
+  :code "09016",
+  :flavor
+    "\"If I didn't know better, I'd say they got the better end of that deal.\" -John Masanori",
+  :illustrator "Hannah Christenson",
+  :position 16,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "tl-dr"
-  :code "09017"
-  :flavor "//tl;dr duplicate the subs on the next piece of ice"
-  :illustrator "Ed Mattinian"
-  :position 17
-  :quantity 3
+ {:card-id "tl-dr",
+  :code "09017",
+  :flavor "//tl;dr duplicate the subs on the next piece of ice",
+  :illustrator "Ed Mattinian",
+  :position 17,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "turnpike"
-  :code "09018"
-  :flavor "\"Stay out of the fast lanes! If speed's your only concern, you're already tagged and halfway to fragged.\" -g00ru"
-  :illustrator "Donald Crank"
-  :position 18
-  :quantity 3
+ {:card-id "turnpike",
+  :code "09018",
+  :flavor
+    "\"Stay out of the fast lanes! If speed's your only concern, you're already tagged and halfway to fragged.\" -g00ru",
+  :illustrator "Donald Crank",
+  :position 18,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "24-7-news-cycle"
-  :code "09019"
-  :flavor "The only thing worse than bad news..."
-  :illustrator "Thomas Williams"
-  :position 19
-  :quantity 3
+ {:card-id "24-7-news-cycle",
+  :code "09019",
+  :flavor "The only thing worse than bad news...",
+  :illustrator "Thomas Williams",
+  :position 19,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "ad-blitz"
-  :code "09020"
-  :illustrator "Johan Törnlund"
-  :position 20
-  :quantity 3
+ {:card-id "ad-blitz",
+  :code "09020",
+  :illustrator "Johan Törnlund",
+  :position 20,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "media-blitz"
-  :code "09021"
-  :illustrator "Dmitry Prosvirnin"
-  :position 21
-  :quantity 3
+ {:card-id "media-blitz",
+  :code "09021",
+  :illustrator "Dmitry Prosvirnin",
+  :position 21,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "the-all-seeing-i"
-  :code "09022"
-  :flavor "\"Only with perfect information can we develop the perfect strategy.\" -The Playbook"
-  :illustrator "Matt Zeilinger"
-  :position 22
-  :quantity 3
+ {:card-id "the-all-seeing-i",
+  :code "09022",
+  :flavor
+    "\"Only with perfect information can we develop the perfect strategy.\" -The Playbook",
+  :illustrator "Matt Zeilinger",
+  :position 22,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "surveillance-sweep"
-  :code "09023"
-  :illustrator "Simon Weaner"
-  :position 23
-  :quantity 3
+ {:card-id "surveillance-sweep",
+  :code "09023",
+  :illustrator "Simon Weaner",
+  :position 23,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "keegan-lane"
-  :code "09024"
-  :flavor "\"We use ice on our servers. More runners should ice their own rigs.\""
-  :illustrator "Joshua Meehan"
-  :position 24
-  :quantity 3
+ {:card-id "keegan-lane",
+  :code "09024",
+  :flavor
+    "\"We use ice on our servers. More runners should ice their own rigs.\"",
+  :illustrator "Joshua Meehan",
+  :position 24,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "rutherford-grid"
-  :code "09025"
-  :flavor "To the worlds sitting on the couch and watching threedee, Rutherford District might as well be all of New Angeles."
-  :illustrator "Johan Törnlund"
-  :position 25
-  :quantity 3
+ {:card-id "rutherford-grid",
+  :code "09025",
+  :flavor
+    "To the worlds sitting on the couch and watching threedee, Rutherford District might as well be all of New Angeles.",
+  :illustrator "Johan Törnlund",
+  :position 25,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "global-food-initiative"
-  :code "09026"
-  :flavor "\"Corporations are made up of people. It's ridiculous to think they'd be either all good or all bad.\" -Sunny Lebeau"
-  :illustrator "Meg Owenson"
-  :position 26
-  :quantity 3
+ {:card-id "global-food-initiative",
+  :code "09026",
+  :flavor
+    "\"Corporations are made up of people. It's ridiculous to think they'd be either all good or all bad.\" -Sunny Lebeau",
+  :illustrator "Meg Owenson",
+  :position 26,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "launch-campaign"
-  :code "09027"
-  :illustrator "Elisabeth Alba"
-  :position 27
-  :quantity 3
+ {:card-id "launch-campaign",
+  :code "09027",
+  :illustrator "Elisabeth Alba",
+  :position 27,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "assassin"
-  :code "09028"
-  :flavor "Bounce rate is a well-understood measure of ice strength. But it is not the only measure."
-  :illustrator "Andreas Zafiratos"
-  :position 28
-  :quantity 3
+ {:card-id "assassin",
+  :code "09028",
+  :flavor
+    "Bounce rate is a well-understood measure of ice strength. But it is not the only measure.",
+  :illustrator "Andreas Zafiratos",
+  :position 28,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "apex-invasive-predator"
-  :code "09029"
-  :illustrator "Liiga Smilshkalne"
-  :position 29
-  :quantity 3
+ {:card-id "apex-invasive-predator",
+  :code "09029",
+  :illustrator "Liiga Smilshkalne",
+  :position 29,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "apocalypse"
-  :code "09030"
-  :illustrator "Shawn Ye Zhongyi"
-  :position 30
-  :quantity 3
+ {:card-id "apocalypse",
+  :code "09030",
+  :illustrator "Shawn Ye Zhongyi",
+  :position 30,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "prey"
-  :code "09031"
-  :illustrator "Ethan Patrick Harris"
-  :position 31
-  :quantity 3
+ {:card-id "prey",
+  :code "09031",
+  :illustrator "Ethan Patrick Harris",
+  :position 31,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "heartbeat"
-  :code "09032"
-  :flavor "\"Meantime the hellish tattoo of the heart increased. It grew quicker and quicker, and louder and louder every instant.\" -Edgar Allan Poe"
-  :illustrator "Thomas Williams"
-  :position 32
-  :quantity 3
+ {:card-id "heartbeat",
+  :code "09032",
+  :flavor
+    "\"Meantime the hellish tattoo of the heart increased. It grew quicker and quicker, and louder and louder every instant.\" -Edgar Allan Poe",
+  :illustrator "Thomas Williams",
+  :position 32,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "endless-hunger"
-  :code "09033"
-  :flavor "\"I've been monitoring the anomaly's activity across the New Angeles Pacifica and Andea trunk lines and associated nodes. I have yet to detect a predictable pattern or even to formulate a theory as to the anomaly's nature.\" -Joséo Greene, SYNC Analyst"
-  :illustrator "Hannah Christenson"
-  :position 33
-  :quantity 3
+ {:card-id "endless-hunger",
+  :code "09033",
+  :flavor
+    "\"I've been monitoring the anomaly's activity across the New Angeles Pacifica and Andea trunk lines and associated nodes. I have yet to detect a predictable pattern or even to formulate a theory as to the anomaly's nature.\" -Joséo Greene, SYNC Analyst",
+  :illustrator "Hannah Christenson",
+  :position 33,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "harbinger"
-  :code "09034"
-  :illustrator "Adam S. Doyle"
-  :position 34
-  :quantity 3
+ {:card-id "harbinger",
+  :code "09034",
+  :illustrator "Adam S. Doyle",
+  :position 34,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "hunting-grounds"
-  :code "09035"
-  :flavor "\"There's parts of the Network now that are different from how they used to be. I can't put my finger on it; just something twitching at my ganglion through my BMI.\" -Reeve"
-  :illustrator "Adam S. Doyle"
-  :position 35
-  :quantity 3
+ {:card-id "hunting-grounds",
+  :code "09035",
+  :flavor
+    "\"There's parts of the Network now that are different from how they used to be. I can't put my finger on it; just something twitching at my ganglion through my BMI.\" -Reeve",
+  :illustrator "Adam S. Doyle",
+  :position 35,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "wasteland"
-  :code "09036"
-  :flavor "Data goes in. Nothing comes out."
-  :illustrator "Simon Weaner"
-  :position 36
-  :quantity 3
+ {:card-id "wasteland",
+  :code "09036",
+  :flavor "Data goes in. Nothing comes out.",
+  :illustrator "Simon Weaner",
+  :position 36,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "adam-compulsive-hacker"
-  :code "09037"
-  :illustrator "Matt Zeilinger"
-  :position 37
-  :quantity 3
+ {:card-id "adam-compulsive-hacker",
+  :code "09037",
+  :illustrator "Matt Zeilinger",
+  :position 37,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "independent-thinking"
-  :code "09038"
-  :flavor "Adam raised the hammer. He was free."
-  :illustrator "Del Borovic"
-  :position 38
-  :quantity 3
+ {:card-id "independent-thinking",
+  :code "09038",
+  :flavor "Adam raised the hammer. He was free.",
+  :illustrator "Del Borovic",
+  :position 38,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "brain-chip"
-  :code "09039"
-  :illustrator "Jessada Sutthi"
-  :position 39
-  :quantity 3
+ {:card-id "brain-chip",
+  :code "09039",
+  :illustrator "Jessada Sutthi",
+  :position 39,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "multithreader"
-  :code "09040"
-  :flavor "Bioroids have two brains running in parallel, each capable of running sophisticated programming. There are certain advantages to the setup."
-  :illustrator "Lili Ibrahim"
-  :position 40
-  :quantity 3
+ {:card-id "multithreader",
+  :code "09040",
+  :flavor
+    "Bioroids have two brains running in parallel, each capable of running sophisticated programming. There are certain advantages to the setup.",
+  :illustrator "Lili Ibrahim",
+  :position 40,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "always-be-running"
-  :code "09041"
-  :flavor "The Second Directive requires a bioroid to complete its primary function above all other considerations, save the First Directive."
-  :illustrator "Lili Ibrahim"
-  :position 41
-  :quantity 3
+ {:card-id "always-be-running",
+  :code "09041",
+  :flavor
+    "The Second Directive requires a bioroid to complete its primary function above all other considerations, save the First Directive.",
+  :illustrator "Lili Ibrahim",
+  :position 41,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "dr-lovegood"
-  :code "09042"
-  :flavor "\"You look tore up, kid. Have a seat, I'll fire up the arc welder.\""
-  :illustrator "Tiffany Turrill"
-  :position 42
-  :quantity 3
+ {:card-id "dr-lovegood",
+  :code "09042",
+  :flavor
+    "\"You look tore up, kid. Have a seat, I'll fire up the arc welder.\"",
+  :illustrator "Tiffany Turrill",
+  :position 42,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "neutralize-all-threats"
-  :code "09043"
-  :flavor "The Third Directive requires a bioroid to preserve its ability to function and report frequently to Haas-Bioroid for repairs and updates."
-  :illustrator "Tadas Sidlauskas"
-  :position 43
-  :quantity 3
+ {:card-id "neutralize-all-threats",
+  :code "09043",
+  :flavor
+    "The Third Directive requires a bioroid to preserve its ability to function and report frequently to Haas-Bioroid for repairs and updates.",
+  :illustrator "Tadas Sidlauskas",
+  :position 43,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "safety-first"
-  :code "09044"
-  :flavor "The First Directive forbids a bioroid from harming, or through inaction allowing harm to befall, a human being."
-  :illustrator "Timur Shevtsov"
-  :position 44
-  :quantity 3
+ {:card-id "safety-first",
+  :code "09044",
+  :flavor
+    "The First Directive forbids a bioroid from harming, or through inaction allowing harm to befall, a human being.",
+  :illustrator "Timur Shevtsov",
+  :position 44,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "sunny-lebeau-security-specialist"
-  :code "09045"
-  :flavor "\"Mommy will be home soon, sweetie. She has to kick some ass first.\""
-  :illustrator "Matt Zeilinger"
-  :position 45
-  :quantity 3
+ {:card-id "sunny-lebeau-security-specialist",
+  :code "09045",
+  :flavor
+    "\"Mommy will be home soon, sweetie. She has to kick some ass first.\"",
+  :illustrator "Matt Zeilinger",
+  :position 45,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "security-chip"
-  :code "09046"
-  :flavor "Fortunately, Globalsec buys them by the case."
-  :illustrator "Lucas Durham"
-  :position 46
-  :quantity 3
+ {:card-id "security-chip",
+  :code "09046",
+  :flavor "Fortunately, Globalsec buys them by the case.",
+  :illustrator "Lucas Durham",
+  :position 46,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "security-nexus"
-  :code "09047"
-  :illustrator "Lili Ibrahim"
-  :position 47
-  :quantity 3
+ {:card-id "security-nexus",
+  :code "09047",
+  :illustrator "Lili Ibrahim",
+  :position 47,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "gs-striker-m1"
-  :code "09048"
-  :flavor "Bigger."
-  :illustrator "Ethan Patrick Harris"
-  :position 48
-  :quantity 3
+ {:card-id "gs-striker-m1",
+  :code "09048",
+  :flavor "Bigger.",
+  :illustrator "Ethan Patrick Harris",
+  :position 48,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "gs-shrike-m2"
-  :code "09049"
-  :flavor "Badder."
-  :illustrator "Donald Crank"
-  :position 49
-  :quantity 3
+ {:card-id "gs-shrike-m2",
+  :code "09049",
+  :flavor "Badder.",
+  :illustrator "Donald Crank",
+  :position 49,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "gs-sherman-m3"
-  :code "09050"
-  :flavor "Boom."
-  :illustrator "Ethan Patrick Harris"
-  :position 50
-  :quantity 3
+ {:card-id "gs-sherman-m3",
+  :code "09050",
+  :flavor "Boom.",
+  :illustrator "Ethan Patrick Harris",
+  :position 50,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "globalsec-security-clearance"
-  :code "09051"
-  :flavor "She approached the server, flashed her credentials, and passed straight through. She wondered what it said about her that doing things the legal way felt like cheating."
-  :illustrator "Andreas Zafiratos"
-  :position 51
-  :quantity 3
+ {:card-id "globalsec-security-clearance",
+  :code "09051",
+  :flavor
+    "She approached the server, flashed her credentials, and passed straight through. She wondered what it said about her that doing things the legal way felt like cheating.",
+  :illustrator "Andreas Zafiratos",
+  :position 51,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "jak-sinclair"
-  :code "09052"
-  :flavor "\"I got an early start today...or maybe I forgot to go home last night.\""
-  :illustrator "Joshua Meehan"
-  :position 52
-  :quantity 3
+ {:card-id "jak-sinclair",
+  :code "09052",
+  :flavor
+    "\"I got an early start today...or maybe I forgot to go home last night.\"",
+  :illustrator "Joshua Meehan",
+  :position 52,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "employee-strike"
-  :code "09053"
-  :flavor "\"Are you crazy? We can't send in prisec until the media gets bored and goes home.\""
-  :illustrator "Dmitry Prosvirnin"
-  :position 53
-  :quantity 3
+ {:card-id "employee-strike",
+  :code "09053",
+  :flavor
+    "\"Are you crazy? We can't send in prisec until the media gets bored and goes home.\"",
+  :illustrator "Dmitry Prosvirnin",
+  :position 53,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "windfall"
-  :code "09054"
-  :flavor "She tried to remember who he was. Not that it mattered anymore."
-  :illustrator "Rebecca Sorge"
-  :position 54
-  :quantity 3
+ {:card-id "windfall",
+  :code "09054",
+  :flavor "She tried to remember who he was. Not that it mattered anymore.",
+  :illustrator "Rebecca Sorge",
+  :position 54,
+  :quantity 3,
   :set-id "data-and-destiny"}
- {:card-id "technical-writer"
-  :code "09055"
-  :flavor "Technically correct: the best kind of correct."
-  :illustrator "Elisabeth Alba"
-  :position 55
-  :quantity 3
+ {:card-id "technical-writer",
+  :code "09055",
+  :flavor "Technically correct: the best kind of correct.",
+  :illustrator "Elisabeth Alba",
+  :position 55,
+  :quantity 3,
   :set-id "data-and-destiny"}]

@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "information-sifting"
- :influence-cost 3
- :side :runner
- :stripped-text "Run HQ. If successful, instead of breaching HQ, the Corp separates all cards in HQ into 2 facedown piles. Choose 1 of the piles. Access each card in the chosen pile."
- :stripped-title "Information Sifting"
- :subtype [:run]
- :text "Run HQ. If successful, instead of breaching HQ, the Corp separates all cards in HQ into 2 facedown piles. Choose 1 of the piles. Access each card in the chosen pile."
- :title "Information Sifting"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "information-sifting",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run HQ. If successful, instead of breaching HQ, the Corp separates all cards in HQ into 2 facedown piles. Choose 1 of the piles. Access each card in the chosen pile.",
+ :stripped-title "Information Sifting",
+ :subtype [:run],
+ :text
+   "Run HQ. If successful, instead of breaching HQ, the Corp separates all cards in HQ into 2 facedown piles. Choose 1 of the piles. Access each card in the chosen pile.",
+ :title "Information Sifting",
+ :type :event,
  :uniqueness false}

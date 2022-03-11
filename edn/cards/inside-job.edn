@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "inside-job"
- :influence-cost 3
- :side :runner
- :stripped-text "Run any server. The first time this run you encounter a piece of ice, bypass it."
- :stripped-title "Inside Job"
- :subtype [:run]
- :text "Run any server. The first time this run you encounter a piece of ice, bypass it."
- :title "Inside Job"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "inside-job",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run any server. The first time this run you encounter a piece of ice, bypass it.",
+ :stripped-title "Inside Job",
+ :subtype [:run],
+ :text
+   "Run any server. The first time this run you encounter a piece of ice, bypass it.",
+ :title "Inside Job",
+ :type :event,
  :uniqueness false}

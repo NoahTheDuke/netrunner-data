@@ -1,13 +1,15 @@
-{:cost 7
- :deck-limit 1
- :faction :neutral-runner
- :id "eden-shard"
- :influence-cost 1
- :side :runner
- :stripped-text "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs. trash: The Corp draws 2 cards. Limit 1 per deck."
- :stripped-title "Eden Shard"
- :subtype [:virtual :source]
- :text "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs.\n<strong>[trash]:</strong> The Corp draws 2 cards.\nLimit 1 per deck."
- :title "Eden Shard"
- :type :resource
+{:cost 7,
+ :deck-limit 1,
+ :faction :neutral-runner,
+ :id "eden-shard",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs. trash: The Corp draws 2 cards. Limit 1 per deck.",
+ :stripped-title "Eden Shard",
+ :subtype [:virtual :source],
+ :text
+   "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs.\n<strong>[trash]:</strong> The Corp draws 2 cards.\nLimit 1 per deck.",
+ :title "Eden Shard",
+ :type :resource,
  :uniqueness true}

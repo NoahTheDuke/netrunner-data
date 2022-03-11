@@ -1,135 +1,148 @@
-[{:card-id "bishop"
-  :code "04021"
-  :illustrator "Adam S. Doyle"
-  :position 21
-  :quantity 3
+[{:card-id "bishop",
+  :code "04021",
+  :illustrator "Adam S. Doyle",
+  :position 21,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "scheherazade"
-  :code "04022"
-  :flavor "Installing 1001 programs puts you in the hacker hall of fame, or would if such an institution actually existed."
-  :illustrator "Tim Durning"
-  :position 22
-  :quantity 3
+ {:card-id "scheherazade",
+  :code "04022",
+  :flavor
+    "Installing 1001 programs puts you in the hacker hall of fame, or would if such an institution actually existed.",
+  :illustrator "Tim Durning",
+  :position 22,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "hard-at-work"
-  :code "04023"
-  :flavor "Noise decided to go back to school. He applied for research grants at fifteen of the most prestigious universities. Then he hacked in and approved his applications. Breakfast time."
-  :illustrator "Matt Zeilinger"
-  :position 23
-  :quantity 3
+ {:card-id "hard-at-work",
+  :code "04023",
+  :flavor
+    "Noise decided to go back to school. He applied for research grants at fifteen of the most prestigious universities. Then he hacked in and approved his applications. Breakfast time.",
+  :illustrator "Matt Zeilinger",
+  :position 23,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "recon"
-  :code "04024"
-  :flavor "Just like in the real world, sometimes it is best to send in the clone to do the dirty work."
-  :illustrator "Irys Ching"
-  :position 24
-  :quantity 3
+ {:card-id "recon",
+  :code "04024",
+  :flavor
+    "Just like in the real world, sometimes it is best to send in the clone to do the dirty work.",
+  :illustrator "Irys Ching",
+  :position 24,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "copycat"
-  :code "04025"
-  :flavor "The copycat function should be used with extreme caution, or you might end up on the wrong side of cyberspace."
-  :illustrator "Gong Studios"
-  :position 25
-  :quantity 3
+ {:card-id "copycat",
+  :code "04025",
+  :flavor
+    "The copycat function should be used with extreme caution, or you might end up on the wrong side of cyberspace.",
+  :illustrator "Gong Studios",
+  :position 25,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "leviathan"
-  :code "04026"
-  :flavor "It's efficient as all hell, for certain very large values of \"efficient\". The whale avatar is either a nice touch or a tragic misapplication of programmer man-hour, depending on who you ask. -BT's Guide to Icebreaking"
-  :illustrator "Teuku Muharra"
-  :position 26
-  :quantity 3
+ {:card-id "leviathan",
+  :code "04026",
+  :flavor
+    "It's efficient as all hell, for certain very large values of \"efficient\". The whale avatar is either a nice touch or a tragic misapplication of programmer man-hour, depending on who you ask. -BT's Guide to Icebreaking",
+  :illustrator "Teuku Muharra",
+  :position 26,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "eureka"
-  :code "04027"
-  :flavor "\"I've got a surprise for you.\""
-  :illustrator "Del Borovic"
-  :position 27
-  :quantity 3
+ {:card-id "eureka",
+  :code "04027",
+  :flavor "\"I've got a surprise for you.\"",
+  :illustrator "Del Borovic",
+  :position 27,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "record-reconstructor"
-  :code "04028"
-  :flavor "\"Why is data deleted? Maybe they don't want it to be found. Or maybe it's just useless. The useless data is the kind you want.\" -The Professor"
-  :illustrator "Lucas Durham"
-  :position 28
-  :quantity 3
+ {:card-id "record-reconstructor",
+  :code "04028",
+  :flavor
+    "\"Why is data deleted? Maybe they don't want it to be found. Or maybe it's just useless. The useless data is the kind you want.\" -The Professor",
+  :illustrator "Lucas Durham",
+  :position 28,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "prepaid-voicepad"
-  :code "04029"
-  :flavor "A VoicePAD is a personal access device with most of its functions ripped out. Just about all it's good for is making voice-calls and managing your contacts. The only reason to even have one is for its anonymity, which for a certain kind of person is all the reason one needs."
-  :illustrator "Mike Nesbitt"
-  :position 29
-  :quantity 3
+ {:card-id "prepaid-voicepad",
+  :code "04029",
+  :flavor
+    "A VoicePAD is a personal access device with most of its functions ripped out. Just about all it's good for is making voice-calls and managing your contacts. The only reason to even have one is for its anonymity, which for a certain kind of person is all the reason one needs.",
+  :illustrator "Mike Nesbitt",
+  :position 29,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "wotan"
-  :code "04030"
-  :illustrator "Christina Davis"
-  :position 30
-  :quantity 3
+ {:card-id "wotan",
+  :code "04030",
+  :illustrator "Christina Davis",
+  :position 30,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "hellion-alpha-test"
-  :code "04031"
-  :illustrator "Isuardi Therianto"
-  :position 31
-  :quantity 3
+ {:card-id "hellion-alpha-test",
+  :code "04031",
+  :illustrator "Isuardi Therianto",
+  :position 31,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "clone-retirement"
-  :code "04032"
-  :flavor "\"They call it 'retirement'. I call it 'euthanasia'.\" -Ken \"Express\" Tenma"
-  :illustrator "Gong Studios"
-  :position 32
-  :quantity 3
+ {:card-id "clone-retirement",
+  :code "04032",
+  :flavor
+    "\"They call it 'retirement'. I call it 'euthanasia'.\" -Ken \"Express\" Tenma",
+  :illustrator "Gong Studios",
+  :position 32,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "swordsman"
-  :code "04033"
-  :flavor "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail."
-  :illustrator "Adam S. Doyle"
-  :position 33
-  :quantity 3
+ {:card-id "swordsman",
+  :code "04033",
+  :flavor
+    "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail.",
+  :illustrator "Adam S. Doyle",
+  :position 33,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "shipment-from-sansan"
-  :code "04034"
-  :flavor "He signed for it, hand shaking in anticipation."
-  :illustrator "Agri Karuniawan"
-  :position 34
-  :quantity 3
+ {:card-id "shipment-from-sansan",
+  :code "04034",
+  :flavor "He signed for it, hand shaking in anticipation.",
+  :illustrator "Agri Karuniawan",
+  :position 34,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "muckraker"
-  :code "04035"
-  :illustrator "Ed Mattinian"
-  :position 35
-  :quantity 3
+ {:card-id "muckraker",
+  :code "04035",
+  :illustrator "Ed Mattinian",
+  :position 35,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "the-cleaners"
-  :code "04036"
-  :flavor "\"I use bioroids because I can wipe their memories or just blow their brains out when the job is done. No witnesses means no witnesses.\""
-  :illustrator "Gong Studios"
-  :position 36
-  :quantity 3
+ {:card-id "the-cleaners",
+  :code "04036",
+  :flavor
+    "\"I use bioroids because I can wipe their memories or just blow their brains out when the job is done. No witnesses means no witnesses.\"",
+  :illustrator "Gong Studios",
+  :position 36,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "elizabeth-mills"
-  :code "04037"
-  :flavor "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\""
-  :illustrator "Del Borovic"
-  :position 37
-  :quantity 3
+ {:card-id "elizabeth-mills",
+  :code "04037",
+  :flavor
+    "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\"",
+  :illustrator "Del Borovic",
+  :position 37,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "off-the-grid"
-  :code "04038"
-  :illustrator "Zefanya Langkan Maega"
-  :position 38
-  :quantity 3
+ {:card-id "off-the-grid",
+  :code "04038",
+  :illustrator "Zefanya Langkan Maega",
+  :position 38,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "profiteering"
-  :code "04039"
-  :flavor "It was surprisingly easy to make creds…if you didn't care about how you made them."
-  :illustrator "JuanManuel Tumburus"
-  :position 39
-  :quantity 3
+ {:card-id "profiteering",
+  :code "04039",
+  :flavor
+    "It was surprisingly easy to make creds…if you didn't care about how you made them.",
+  :illustrator "JuanManuel Tumburus",
+  :position 39,
+  :quantity 3,
   :set-id "second-thoughts"}
- {:card-id "restructure"
-  :code "04040"
-  :flavor "There are many names for those in the Administration Department. But if you like your job, you just refer to them as \"sir\" and \"ma'am\"."
-  :illustrator "Isuardi Therianto"
-  :position 40
-  :quantity 3
+ {:card-id "restructure",
+  :code "04040",
+  :flavor
+    "There are many names for those in the Administration Department. But if you like your job, you just refer to them as \"sir\" and \"ma'am\".",
+  :illustrator "Isuardi Therianto",
+  :position 40,
+  :quantity 3,
   :set-id "second-thoughts"}]

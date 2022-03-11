@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "surfer"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :stripped-text "2 credits: Swap a piece of barrier ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice."
- :stripped-title "Surfer"
- :text "2[credit]: Swap a piece of <strong>barrier</strong> ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice."
- :title "Surfer"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "surfer",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "2 credits: Swap a piece of barrier ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice.",
+ :stripped-title "Surfer",
+ :text
+   "2[credit]: Swap a piece of <strong>barrier</strong> ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice.",
+ :title "Surfer",
+ :type :program,
  :uniqueness false}

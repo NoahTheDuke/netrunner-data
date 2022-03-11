@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :jinteki
- :id "water-monopoly"
- :side :corp
- :stripped-text "The install cost of each non-virtual resource is increased by 1."
- :stripped-title "Water Monopoly"
- :subtype [:initiative]
- :text "The install cost of each non-<strong>virtual</strong> resource is increased by 1."
- :title "Water Monopoly"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "water-monopoly",
+ :side :corp,
+ :stripped-text
+   "The install cost of each non-virtual resource is increased by 1.",
+ :stripped-title "Water Monopoly",
+ :subtype [:initiative],
+ :text
+   "The install cost of each non-<strong>virtual</strong> resource is increased by 1.",
+ :title "Water Monopoly",
+ :type :agenda,
  :uniqueness false}

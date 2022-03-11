@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "replicator"
- :influence-cost 2
- :side :runner
- :stripped-text "Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack."
- :stripped-title "Replicator"
- :text "Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack."
- :title "Replicator"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "replicator",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack.",
+ :stripped-title "Replicator",
+ :text
+   "Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack.",
+ :title "Replicator",
+ :type :hardware,
  :uniqueness false}

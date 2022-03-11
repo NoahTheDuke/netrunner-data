@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "deep-red"
- :influence-cost 1
- :side :runner
- :stripped-text "+3 mu Use the MU on Deep Red only for Caissa programs. Whenever you install a Caissa program, you may trigger its click ability without spending click. Limit 1 console per player."
- :stripped-title "Deep Red"
- :subtype [:console]
- :text "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player."
- :title "Deep Red"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "deep-red",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "+3 mu Use the MU on Deep Red only for Caissa programs. Whenever you install a Caissa program, you may trigger its click ability without spending click. Limit 1 console per player.",
+ :stripped-title "Deep Red",
+ :subtype [:console],
+ :text
+   "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player.",
+ :title "Deep Red",
+ :type :hardware,
  :uniqueness true}

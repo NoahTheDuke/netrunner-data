@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "takobi"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever you fully break a piece of ice, you may place 1 power counter on this program. 2 hosted power counters: Choose 1 installed non-AI icebreaker. That icebreaker gets +3 strength for the remainder of the current encounter."
- :stripped-title "Takobi"
- :text "Whenever you fully break a piece of ice, you may place 1 power counter on this program.\n<strong>2 hosted power counters:</strong> Choose 1 installed non-<strong>AI</strong> <strong>icebreaker</strong>. That <strong>icebreaker</strong> gets +3 strength for the remainder of the current encounter."
- :title "Takobi"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "takobi",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever you fully break a piece of ice, you may place 1 power counter on this program. 2 hosted power counters: Choose 1 installed non-AI icebreaker. That icebreaker gets +3 strength for the remainder of the current encounter.",
+ :stripped-title "Takobi",
+ :text
+   "Whenever you fully break a piece of ice, you may place 1 power counter on this program.\n<strong>2 hosted power counters:</strong> Choose 1 installed non-<strong>AI</strong> <strong>icebreaker</strong>. That <strong>icebreaker</strong> gets +3 strength for the remainder of the current encounter.",
+ :title "Takobi",
+ :type :program,
  :uniqueness true}

@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :neutral-corp
- :id "quicksand"
- :influence-cost 0
- :side :corp
- :strength 0
- :stripped-text "When the Runner encounters Quicksand, place 1 power counter on Quicksand. Quicksand has +1 strength for each power counter on it. Subroutine End the run."
- :stripped-title "Quicksand"
- :subtype [:barrier]
- :text "When the Runner encounters Quicksand, place 1 power counter on Quicksand.\nQuicksand has +1 strength for each power counter on it.\n[subroutine] End the run."
- :title "Quicksand"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "quicksand",
+ :influence-cost 0,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "When the Runner encounters Quicksand, place 1 power counter on Quicksand. Quicksand has +1 strength for each power counter on it. Subroutine End the run.",
+ :stripped-title "Quicksand",
+ :subtype [:barrier],
+ :text
+   "When the Runner encounters Quicksand, place 1 power counter on Quicksand.\nQuicksand has +1 strength for each power counter on it.\n[subroutine] End the run.",
+ :title "Quicksand",
+ :type :ice,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "artist-colony"
- :influence-cost 3
- :side :runner
- :stripped-text "Forfeit 1 agenda: Search your stack for 1 program, resource, or piece of hardware. Install that card."
- :stripped-title "Artist Colony"
- :subtype [:location]
- :text "<strong>Forfeit 1 agenda:</strong> Search your stack for 1 program, resource, or piece of hardware. Install that card."
- :title "Artist Colony"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "artist-colony",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Forfeit 1 agenda: Search your stack for 1 program, resource, or piece of hardware. Install that card.",
+ :stripped-title "Artist Colony",
+ :subtype [:location],
+ :text
+   "<strong>Forfeit 1 agenda:</strong> Search your stack for 1 program, resource, or piece of hardware. Install that card.",
+ :title "Artist Colony",
+ :type :resource,
  :uniqueness false}

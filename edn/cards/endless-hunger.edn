@@ -1,15 +1,17 @@
-{:cost 0
- :deck-limit 3
- :faction :apex
- :id "endless-hunger"
- :influence-cost 2
- :memory-cost 4
- :side :runner
- :strength 11
- :stripped-text "Interface -> Trash 1 installed card: Break 1 \"Subroutine End the run.\" subroutine."
- :stripped-title "Endless Hunger"
- :subtype [:icebreaker]
- :text "Interface → <strong>Trash 1 installed card:</strong> Break 1 \"[subroutine] End the run.\" subroutine."
- :title "Endless Hunger"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :apex,
+ :id "endless-hunger",
+ :influence-cost 2,
+ :memory-cost 4,
+ :side :runner,
+ :strength 11,
+ :stripped-text
+   "Interface -> Trash 1 installed card: Break 1 \"Subroutine End the run.\" subroutine.",
+ :stripped-title "Endless Hunger",
+ :subtype [:icebreaker],
+ :text
+   "Interface → <strong>Trash 1 installed card:</strong> Break 1 \"[subroutine] End the run.\" subroutine.",
+ :title "Endless Hunger",
+ :type :program,
  :uniqueness false}

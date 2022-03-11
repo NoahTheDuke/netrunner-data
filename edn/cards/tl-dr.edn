@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :nbn
- :id "tl-dr"
- :influence-cost 2
- :side :corp
- :strength 4
- :stripped-text "Subroutine When the Runner encounters the next piece of ice during this run, that ice gains a second copy of each subroutine on it (after the original subroutine) for the remainder of the encounter."
- :stripped-title "TL;DR"
- :subtype [:code-gate]
- :text "[subroutine] When the Runner encounters the next piece of ice during this run, that ice gains a second copy of each subroutine on it (after the original subroutine) for the remainder of the encounter."
- :title "TL;DR"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "tl-dr",
+ :influence-cost 2,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Subroutine When the Runner encounters the next piece of ice during this run, that ice gains a second copy of each subroutine on it (after the original subroutine) for the remainder of the encounter.",
+ :stripped-title "TL;DR",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] When the Runner encounters the next piece of ice during this run, that ice gains a second copy of each subroutine on it (after the original subroutine) for the remainder of the encounter.",
+ :title "TL;DR",
+ :type :ice,
  :uniqueness false}

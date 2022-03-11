@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :criminal
- :id "mr-li"
- :influence-cost 2
- :side :runner
- :stripped-text "click: Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack."
- :stripped-title "Mr. Li"
- :subtype [:connection]
- :text "<strong>[click]:</strong> Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack."
- :title "Mr. Li"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "mr-li",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "click: Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack.",
+ :stripped-title "Mr. Li",
+ :subtype [:connection],
+ :text
+   "<strong>[click]:</strong> Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack.",
+ :title "Mr. Li",
+ :type :resource,
  :uniqueness true}

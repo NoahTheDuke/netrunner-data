@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "ash-2x3zb9cy"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever there is a successful run on this server, trace 4 if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run."
- :stripped-title "Ash 2X3ZB9CY"
- :subtype [:bioroid]
- :text "Whenever there is a successful run on this server, <trace>trace 4</trace> if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run."
- :title "Ash 2X3ZB9CY"
- :trash-cost 3
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "ash-2x3zb9cy",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever there is a successful run on this server, trace 4 if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+ :stripped-title "Ash 2X3ZB9CY",
+ :subtype [:bioroid],
+ :text
+   "Whenever there is a successful run on this server, <trace>trace 4</trace> if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+ :title "Ash 2X3ZB9CY",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness true}

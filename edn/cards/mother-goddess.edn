@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :neutral-corp
- :id "mother-goddess"
- :influence-cost 0
- :side :corp
- :strength 4
- :stripped-text "Mother Goddess gains the subtypes of all other rezzed ice. Subroutine End the run."
- :stripped-title "Mother Goddess"
- :subtype [:mythic]
- :text "Mother Goddess gains the subtypes of all other rezzed ice.\n[subroutine] End the run."
- :title "Mother Goddess"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "mother-goddess",
+ :influence-cost 0,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "Mother Goddess gains the subtypes of all other rezzed ice. Subroutine End the run.",
+ :stripped-title "Mother Goddess",
+ :subtype [:mythic],
+ :text
+   "Mother Goddess gains the subtypes of all other rezzed ice.\n[subroutine] End the run.",
+ :title "Mother Goddess",
+ :type :ice,
  :uniqueness true}

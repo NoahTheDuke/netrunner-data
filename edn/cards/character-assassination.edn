@@ -1,13 +1,15 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :nbn
- :id "character-assassination"
- :side :corp
- :stripped-text "When you score Character Assassination, trash 1 resource (cannot be prevented)."
- :stripped-title "Character Assassination"
- :subtype [:security]
- :text "When you score Character Assassination, trash 1 resource (cannot be prevented)."
- :title "Character Assassination"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "character-assassination",
+ :side :corp,
+ :stripped-text
+   "When you score Character Assassination, trash 1 resource (cannot be prevented).",
+ :stripped-title "Character Assassination",
+ :subtype [:security],
+ :text
+   "When you score Character Assassination, trash 1 resource (cannot be prevented).",
+ :title "Character Assassination",
+ :type :agenda,
  :uniqueness false}

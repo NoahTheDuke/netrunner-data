@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "acacia"
- :influence-cost 1
- :side :runner
- :stripped-text "Whenever the Corp purges virus counters, you may gain 1 credit for each virus counter removed and trash Acacia."
- :stripped-title "Acacia"
- :text "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia."
- :title "Acacia"
- :type :hardware
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "acacia",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever the Corp purges virus counters, you may gain 1 credit for each virus counter removed and trash Acacia.",
+ :stripped-title "Acacia",
+ :text
+   "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia.",
+ :title "Acacia",
+ :type :hardware,
  :uniqueness false}

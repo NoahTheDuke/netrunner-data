@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :nbn
- :id "ping"
- :influence-cost 2
- :side :corp
- :strength 1
- :stripped-text "When you rez this ice during a run against this server, give the Runner 1 tag. Subroutine End the run."
- :stripped-title "Ping"
- :subtype [:barrier]
- :text "When you rez this ice during a run against this server, give the Runner 1 tag.\n[subroutine] End the run."
- :title "Ping"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "ping",
+ :influence-cost 2,
+ :side :corp,
+ :strength 1,
+ :stripped-text
+   "When you rez this ice during a run against this server, give the Runner 1 tag. Subroutine End the run.",
+ :stripped-title "Ping",
+ :subtype [:barrier],
+ :text
+   "When you rez this ice during a run against this server, give the Runner 1 tag.\n[subroutine] End the run.",
+ :title "Ping",
+ :type :ice,
  :uniqueness false}

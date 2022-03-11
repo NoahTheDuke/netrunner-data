@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :nbn
- :id "information-dynamics-all-you-need-to-know"
- :influence-limit nil
- :minimum-deck-size 30
- :side :corp
- :stripped-text "Draft format only. If you have more nbn cards rezzed than any other faction, whenever an agenda is scored or stolen, give the runner 1 tag."
- :stripped-title "Information Dynamics: All You Need To Know"
- :subtype [:division]
- :text "Draft format only.\nIf you have more [nbn] cards rezzed than any other faction, whenever an agenda is scored or stolen, give the runner 1 tag."
- :title "Information Dynamics: All You Need To Know"
- :type :identity
+{:deck-limit 1,
+ :faction :nbn,
+ :id "information-dynamics-all-you-need-to-know",
+ :influence-limit nil,
+ :minimum-deck-size 30,
+ :side :corp,
+ :stripped-text
+   "Draft format only. If you have more nbn cards rezzed than any other faction, whenever an agenda is scored or stolen, give the runner 1 tag.",
+ :stripped-title "Information Dynamics: All You Need To Know",
+ :subtype [:division],
+ :text
+   "Draft format only.\nIf you have more [nbn] cards rezzed than any other faction, whenever an agenda is scored or stolen, give the runner 1 tag.",
+ :title "Information Dynamics: All You Need To Know",
+ :type :identity,
  :uniqueness false}

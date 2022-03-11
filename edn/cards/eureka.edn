@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "eureka"
- :influence-cost 1
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Reveal the top card of your stack. You may install that card, lowering the install cost by 10 credits, if able; otherwise, trash it."
- :stripped-title "Eureka!"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nReveal the top card of your stack. You may install that card, lowering the install cost by 10[credit], if able; otherwise, trash it."
- :title "Eureka!"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "eureka",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Reveal the top card of your stack. You may install that card, lowering the install cost by 10 credits, if able; otherwise, trash it.",
+ :stripped-title "Eureka!",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nReveal the top card of your stack. You may install that card, lowering the install cost by 10[credit], if able; otherwise, trash it.",
+ :title "Eureka!",
+ :type :event,
  :uniqueness false}

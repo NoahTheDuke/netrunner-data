@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "urtica-cipher"
- :influence-cost 2
- :side :corp
- :stripped-text "You can advance this asset. When the Runner accesses this asset while it is installed, do 2 net damage plus 1 net damage for each hosted advancement counter."
- :stripped-title "Urtica Cipher"
- :subtype [:ambush]
- :text "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, do 2 net damage plus 1 net damage for each hosted advancement counter."
- :title "Urtica Cipher"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "urtica-cipher",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "You can advance this asset. When the Runner accesses this asset while it is installed, do 2 net damage plus 1 net damage for each hosted advancement counter.",
+ :stripped-title "Urtica Cipher",
+ :subtype [:ambush],
+ :text
+   "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, do 2 net damage plus 1 net damage for each hosted advancement counter.",
+ :title "Urtica Cipher",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

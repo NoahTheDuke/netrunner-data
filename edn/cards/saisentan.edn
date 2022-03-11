@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :jinteki
- :id "saisentan"
- :influence-cost 3
- :side :corp
- :strength 2
- :stripped-text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage."
- :stripped-title "Saisentan"
- :subtype [:sentry :ap :observer]
- :text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage."
- :title "Saisentan"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "saisentan",
+ :influence-cost 3,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage.",
+ :stripped-title "Saisentan",
+ :subtype [:sentry :ap :observer],
+ :text
+   "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
+ :title "Saisentan",
+ :type :ice,
  :uniqueness false}

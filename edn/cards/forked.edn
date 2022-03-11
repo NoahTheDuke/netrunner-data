@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "forked"
- :influence-cost 3
- :side :runner
- :stripped-text "Run any server. The first time you fully break a sentry during that run, trash that sentry."
- :stripped-title "Forked"
- :subtype [:run :sabotage]
- :text "Run any server. The first time you fully break a <strong>sentry</strong> during that run, trash that <strong>sentry</strong>."
- :title "Forked"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "forked",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run any server. The first time you fully break a sentry during that run, trash that sentry.",
+ :stripped-title "Forked",
+ :subtype [:run :sabotage],
+ :text
+   "Run any server. The first time you fully break a <strong>sentry</strong> during that run, trash that <strong>sentry</strong>.",
+ :title "Forked",
+ :type :event,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "tranquilizer"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :stripped-text "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice."
- :stripped-title "Tranquilizer"
- :subtype [:virus]
- :text "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice."
- :title "Tranquilizer"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "tranquilizer",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice.",
+ :stripped-title "Tranquilizer",
+ :subtype [:virus],
+ :text
+   "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice.",
+ :title "Tranquilizer",
+ :type :program,
  :uniqueness false}

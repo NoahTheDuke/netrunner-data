@@ -1,11 +1,11 @@
-{:advancement-requirement 6
- :agenda-points 4
- :deck-limit 3
- :faction :neutral-corp
- :id "vanity-project"
- :influence-cost 1
- :side :corp
- :stripped-title "Vanity Project"
- :title "Vanity Project"
- :type :agenda
+{:advancement-requirement 6,
+ :agenda-points 4,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "vanity-project",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-title "Vanity Project",
+ :title "Vanity Project",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "reconstruction-contract"
- :influence-cost 4
- :side :corp
- :stripped-text "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract. trash: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced."
- :stripped-title "Reconstruction Contract"
- :text "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract.\n[trash]: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced."
- :title "Reconstruction Contract"
- :trash-cost 4
- :type :asset
+{:cost 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "reconstruction-contract",
+ :influence-cost 4,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract. trash: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced.",
+ :stripped-title "Reconstruction Contract",
+ :text
+   "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract.\n[trash]: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced.",
+ :title "Reconstruction Contract",
+ :trash-cost 4,
+ :type :asset,
  :uniqueness false}

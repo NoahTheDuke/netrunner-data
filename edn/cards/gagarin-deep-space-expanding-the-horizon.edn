@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :weyland-consortium
- :id "gagarin-deep-space-expanding-the-horizon"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "As an additional cost to access a card in the root of a remote server, the Runner must pay 1 credit."
- :stripped-title "Gagarin Deep Space: Expanding the Horizon"
- :subtype [:corp]
- :text "As an additional cost to access a card in the root of a remote server, the Runner must pay 1[credit]."
- :title "Gagarin Deep Space: Expanding the Horizon"
- :type :identity
+{:deck-limit 1,
+ :faction :weyland-consortium,
+ :id "gagarin-deep-space-expanding-the-horizon",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to access a card in the root of a remote server, the Runner must pay 1 credit.",
+ :stripped-title "Gagarin Deep Space: Expanding the Horizon",
+ :subtype [:corp],
+ :text
+   "As an additional cost to access a card in the root of a remote server, the Runner must pay 1[credit].",
+ :title "Gagarin Deep Space: Expanding the Horizon",
+ :type :identity,
  :uniqueness false}

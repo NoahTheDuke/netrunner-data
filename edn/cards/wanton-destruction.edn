@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "wanton-destruction"
- :influence-cost 4
- :side :runner
- :stripped-text "Run HQ. If successful, instead of breaching HQ, you may spend any number of click to force the Corp to trash that many cards from HQ at random."
- :stripped-title "Wanton Destruction"
- :subtype [:run :sabotage]
- :text "Run HQ. If successful, instead of breaching HQ, you may spend any number of [click] to force the Corp to trash that many cards from HQ at random."
- :title "Wanton Destruction"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "wanton-destruction",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "Run HQ. If successful, instead of breaching HQ, you may spend any number of click to force the Corp to trash that many cards from HQ at random.",
+ :stripped-title "Wanton Destruction",
+ :subtype [:run :sabotage],
+ :text
+   "Run HQ. If successful, instead of breaching HQ, you may spend any number of [click] to force the Corp to trash that many cards from HQ at random.",
+ :title "Wanton Destruction",
+ :type :event,
  :uniqueness false}

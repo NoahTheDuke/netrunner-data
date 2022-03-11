@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "lab-dog"
- :influence-cost 2
- :side :corp
- :strength 0
- :stripped-text "Subroutine The Runner trashes an installed piece of hardware. Trash Lab Dog."
- :stripped-title "Lab Dog"
- :subtype [:trap]
- :text "[subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog."
- :title "Lab Dog"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "lab-dog",
+ :influence-cost 2,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "Subroutine The Runner trashes an installed piece of hardware. Trash Lab Dog.",
+ :stripped-title "Lab Dog",
+ :subtype [:trap],
+ :text
+   "[subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog.",
+ :title "Lab Dog",
+ :type :ice,
  :uniqueness false}

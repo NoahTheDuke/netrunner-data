@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "engram-flush"
- :influence-cost 1
- :side :corp
- :strength 5
- :stripped-text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip with a subroutine on this ice, you may trash 1 revealed card of that type. Subroutine Reveal the grip. Subroutine Reveal the grip. Errata from CR 1.4"
- :stripped-title "Engram Flush"
- :subtype [:code-gate :observer]
- :text "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip with a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip.\n<errata>Errata from CR 1.4</errata>"
- :title "Engram Flush"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "engram-flush",
+ :influence-cost 1,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "When the Runner encounters this ice, choose a card type. For the remainder of this encounter, whenever you reveal the grip with a subroutine on this ice, you may trash 1 revealed card of that type. Subroutine Reveal the grip. Subroutine Reveal the grip.",
+ :stripped-title "Engram Flush",
+ :subtype [:code-gate :observer],
+ :text
+   "When the Runner encounters this ice, choose a card type. For the remainder of this encounter, whenever you reveal the grip with a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip.",
+ :title "Engram Flush",
+ :type :ice,
  :uniqueness false}

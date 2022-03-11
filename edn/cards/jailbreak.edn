@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "jailbreak"
- :influence-cost 0
- :side :runner
- :stripped-text "Run HQ or R&D. If successful, draw 1 card and when you breach the attacked server, access 1 additional card."
- :stripped-title "Jailbreak"
- :subtype [:run]
- :text "Run HQ or R&D. If successful, draw 1 card and when you breach the attacked server, access 1 additional card."
- :title "Jailbreak"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "jailbreak",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Run HQ or R&D. If successful, draw 1 card and when you breach the attacked server, access 1 additional card.",
+ :stripped-title "Jailbreak",
+ :subtype [:run],
+ :text
+   "Run HQ or R&D. If successful, draw 1 card and when you breach the attacked server, access 1 additional card.",
+ :title "Jailbreak",
+ :type :event,
  :uniqueness false}

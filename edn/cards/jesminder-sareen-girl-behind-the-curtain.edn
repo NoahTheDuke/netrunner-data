@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :shaper
- :id "jesminder-sareen-girl-behind-the-curtain"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "Interrupt -> The first time each run you would take 1 or more tags, prevent 1 tag."
- :stripped-title "Jesminder Sareen: Girl Behind the Curtain"
- :subtype [:natural]
- :text "[interrupt] → The first time each run you would take 1 or more tags, prevent 1 tag."
- :title "Jesminder Sareen: Girl Behind the Curtain"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :shaper,
+ :id "jesminder-sareen-girl-behind-the-curtain",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "Interrupt -> The first time each run you would take 1 or more tags, prevent 1 tag.",
+ :stripped-title "Jesminder Sareen: Girl Behind the Curtain",
+ :subtype [:natural],
+ :text
+   "[interrupt] → The first time each run you would take 1 or more tags, prevent 1 tag.",
+ :title "Jesminder Sareen: Girl Behind the Curtain",
+ :type :identity,
  :uniqueness false}

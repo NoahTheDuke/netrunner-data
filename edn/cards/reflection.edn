@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "reflection"
- :influence-cost 2
- :side :runner
- :stripped-text "+1 mu +1 link Whenever you jack out, the Corp reveals 1 card from HQ at random. Limit 1 console per player."
- :stripped-title "Reflection"
- :subtype [:console]
- :text " +1[mu] +1[link]\nWhenever you jack out, the Corp reveals 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player."
- :title "Reflection"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "reflection",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "+1 mu +1 link Whenever you jack out, the Corp reveals 1 card from HQ at random. Limit 1 console per player.",
+ :stripped-title "Reflection",
+ :subtype [:console],
+ :text
+   " +1[mu] +1[link]\nWhenever you jack out, the Corp reveals 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
+ :title "Reflection",
+ :type :hardware,
  :uniqueness true}

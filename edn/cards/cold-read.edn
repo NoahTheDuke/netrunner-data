@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "cold-read"
- :influence-cost 1
- :side :runner
- :stripped-text "Place 4 credits on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented."
- :stripped-title "Cold Read"
- :subtype [:run :stealth]
- :text "Place 4[credit] on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented."
- :title "Cold Read"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "cold-read",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Place 4 credits on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented.",
+ :stripped-title "Cold Read",
+ :subtype [:run :stealth],
+ :text
+   "Place 4[credit] on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented.",
+ :title "Cold Read",
+ :type :event,
  :uniqueness false}

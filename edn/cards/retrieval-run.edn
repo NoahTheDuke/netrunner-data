@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "retrieval-run"
- :influence-cost 2
- :side :runner
- :stripped-text "Run Archives. If successful, instead of breaching Archives, you may install 1 program from your heap, ignoring all costs."
- :stripped-title "Retrieval Run"
- :subtype [:run]
- :text "Run Archives. If successful, instead of breaching Archives, you may install 1 program from your heap, ignoring all costs."
- :title "Retrieval Run"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "retrieval-run",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Run Archives. If successful, instead of breaching Archives, you may install 1 program from your heap, ignoring all costs.",
+ :stripped-title "Retrieval Run",
+ :subtype [:run],
+ :text
+   "Run Archives. If successful, instead of breaching Archives, you may install 1 program from your heap, ignoring all costs.",
+ :title "Retrieval Run",
+ :type :event,
  :uniqueness false}

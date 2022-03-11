@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "wetwork-refit"
- :influence-cost 2
- :side :corp
- :stripped-text "Install Wetwork Refit on a rezzed piece of bioroid ice as a condition counter with the text \"Host ice gains \"Subroutine Do 1 brain damage.\" before all its other subroutines.\""
- :stripped-title "Wetwork Refit"
- :subtype [:condition]
- :text "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\""
- :title "Wetwork Refit"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "wetwork-refit",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Install Wetwork Refit on a rezzed piece of bioroid ice as a condition counter with the text \"Host ice gains \"Subroutine Do 1 brain damage.\" before all its other subroutines.\"",
+ :stripped-title "Wetwork Refit",
+ :subtype [:condition],
+ :text
+   "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\"",
+ :title "Wetwork Refit",
+ :type :operation,
  :uniqueness false}

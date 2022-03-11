@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :nbn
- :id "eavesdrop"
- :influence-cost 2
- :side :corp
- :stripped-text "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, trace 3 If successful, give the Runner 1 tag.\""
- :stripped-title "Eavesdrop"
- :subtype [:gray-ops :condition]
- :text "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, <trace>trace 3</trace> If successful, give the Runner 1 tag.\""
- :title "Eavesdrop"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "eavesdrop",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, trace 3 If successful, give the Runner 1 tag.\"",
+ :stripped-title "Eavesdrop",
+ :subtype [:gray-ops :condition],
+ :text
+   "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, <trace>trace 3</trace> If successful, give the Runner 1 tag.\"",
+ :title "Eavesdrop",
+ :type :operation,
  :uniqueness false}

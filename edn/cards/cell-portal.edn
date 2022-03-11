@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :jinteki
- :id "cell-portal"
- :influence-cost 2
- :side :corp
- :strength 7
- :stripped-text "Subroutine The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice."
- :stripped-title "Cell Portal"
- :subtype [:code-gate :deflector]
- :text "[subroutine] The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice."
- :title "Cell Portal"
- :type :ice
+{:cost 5,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "cell-portal",
+ :influence-cost 2,
+ :side :corp,
+ :strength 7,
+ :stripped-text
+   "Subroutine The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice.",
+ :stripped-title "Cell Portal",
+ :subtype [:code-gate :deflector],
+ :text
+   "[subroutine] The Runner moves to the outermost position of the attacked server. They may jack out. Derez this ice.",
+ :title "Cell Portal",
+ :type :ice,
  :uniqueness false}

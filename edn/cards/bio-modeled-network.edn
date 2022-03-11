@@ -1,13 +1,13 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "bio-modeled-network"
- :influence-cost 2
- :side :runner
- :stripped-text "trash: Prevent all but 1 net damage."
- :stripped-title "Bio-Modeled Network"
- :subtype [:virtual]
- :text "[trash]: Prevent all but 1 net damage."
- :title "Bio-Modeled Network"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "bio-modeled-network",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "trash: Prevent all but 1 net damage.",
+ :stripped-title "Bio-Modeled Network",
+ :subtype [:virtual],
+ :text "[trash]: Prevent all but 1 net damage.",
+ :title "Bio-Modeled Network",
+ :type :resource,
  :uniqueness false}

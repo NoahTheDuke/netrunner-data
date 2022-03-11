@@ -1,13 +1,13 @@
-{:advancement-requirement 6
- :agenda-points 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "mandatory-upgrades"
- :side :corp
- :stripped-text "You have 1 additional click to spend each turn."
- :stripped-title "Mandatory Upgrades"
- :subtype [:initiative]
- :text "You have 1 additional [click] to spend each turn."
- :title "Mandatory Upgrades"
- :type :agenda
+{:advancement-requirement 6,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "mandatory-upgrades",
+ :side :corp,
+ :stripped-text "You have 1 additional click to spend each turn.",
+ :stripped-title "Mandatory Upgrades",
+ :subtype [:initiative],
+ :text "You have 1 additional [click] to spend each turn.",
+ :title "Mandatory Upgrades",
+ :type :agenda,
  :uniqueness false}

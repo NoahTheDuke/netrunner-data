@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :nbn
- :id "threat-level-alpha"
- :influence-cost 2
- :side :corp
- :stripped-text "As an additional cost to play this operation, spend click. Trace[1]. If successful, give the Runner 1 tag for each tag they have or, if the Runner has no tags, give them 1 tag."
- :stripped-title "Threat Level Alpha"
- :subtype [:double]
- :text "As an additional cost to play this operation, spend [click].\nTrace[1]. If successful, give the Runner 1 tag for each tag they have or, if the Runner has no tags, give them 1 tag."
- :title "Threat Level Alpha"
- :type :operation
+{:cost 3,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "threat-level-alpha",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play this operation, spend click. Trace[1]. If successful, give the Runner 1 tag for each tag they have or, if the Runner has no tags, give them 1 tag.",
+ :stripped-title "Threat Level Alpha",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this operation, spend [click].\nTrace[1]. If successful, give the Runner 1 tag for each tag they have or, if the Runner has no tags, give them 1 tag.",
+ :title "Threat Level Alpha",
+ :type :operation,
  :uniqueness false}

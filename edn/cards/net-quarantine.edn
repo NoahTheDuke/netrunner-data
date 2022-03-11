@@ -1,13 +1,15 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :nbn
- :id "net-quarantine"
- :side :corp
- :stripped-text "The Runner's base link strength is reduced to 0 during the first trace each turn. Whenever the Runner increases his or her link strength by spending credits, gain 1 credit for every 2 credits spent."
- :stripped-title "Net Quarantine"
- :subtype [:security]
- :text "The Runner's base link strength is reduced to 0 during the first trace each turn.\nWhenever the Runner increases his or her link strength by spending credits, gain 1[credit] for every 2[credit] spent."
- :title "Net Quarantine"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "net-quarantine",
+ :side :corp,
+ :stripped-text
+   "The Runner's base link strength is reduced to 0 during the first trace each turn. Whenever the Runner increases his or her link strength by spending credits, gain 1 credit for every 2 credits spent.",
+ :stripped-title "Net Quarantine",
+ :subtype [:security],
+ :text
+   "The Runner's base link strength is reduced to 0 during the first trace each turn.\nWhenever the Runner increases his or her link strength by spending credits, gain 1[credit] for every 2[credit] spent.",
+ :title "Net Quarantine",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "early-premiere"
- :influence-cost 3
- :side :corp
- :stripped-text "When your turn begins, you may pay 1 credit. If you do, place 1 advancement counter on 1 card you can advance in the root of a server."
- :stripped-title "Early Premiere"
- :text "When your turn begins, you may pay 1[credit]. If you do, place 1 advancement counter on 1 card you can advance in the root of a server."
- :title "Early Premiere"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "early-premiere",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "When your turn begins, you may pay 1 credit. If you do, place 1 advancement counter on 1 card you can advance in the root of a server.",
+ :stripped-title "Early Premiere",
+ :text
+   "When your turn begins, you may pay 1[credit]. If you do, place 1 advancement counter on 1 card you can advance in the root of a server.",
+ :title "Early Premiere",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

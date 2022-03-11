@@ -1,13 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "self-modifying-code"
- :influence-cost 3
- :memory-cost 2
- :side :runner
- :stripped-text "2 credits, trash: Search your stack for a program. Install it."
- :stripped-title "Self-modifying Code"
- :text "2[credit], [trash]: Search your stack for a program. Install it."
- :title "Self-modifying Code"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "self-modifying-code",
+ :influence-cost 3,
+ :memory-cost 2,
+ :side :runner,
+ :stripped-text
+   "2 credits, trash: Search your stack for a program. Install it.",
+ :stripped-title "Self-modifying Code",
+ :text "2[credit], [trash]: Search your stack for a program. Install it.",
+ :title "Self-modifying Code",
+ :type :program,
  :uniqueness false}

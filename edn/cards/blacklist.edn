@@ -1,13 +1,13 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "blacklist"
- :influence-cost 1
- :side :corp
- :stripped-text "Cards cannot leave the Runner's heap for any reason."
- :stripped-title "Blacklist"
- :text "Cards cannot leave the Runner's heap for any reason."
- :title "Blacklist"
- :trash-cost 3
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "blacklist",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "Cards cannot leave the Runner's heap for any reason.",
+ :stripped-title "Blacklist",
+ :text "Cards cannot leave the Runner's heap for any reason.",
+ :title "Blacklist",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

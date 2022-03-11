@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :haas-bioroid
- :id "drafter"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "Subroutine You may add 1 card from Archives to HQ. Subroutine You may install 1 card from Archives or HQ, ignoring all costs."
- :stripped-title "Drafter"
- :subtype [:sentry]
- :text "[subroutine] You may add 1 card from Archives to HQ.\n[subroutine] You may install 1 card from Archives or HQ, ignoring all costs."
- :title "Drafter"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "drafter",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Subroutine You may add 1 card from Archives to HQ. Subroutine You may install 1 card from Archives or HQ, ignoring all costs.",
+ :stripped-title "Drafter",
+ :subtype [:sentry],
+ :text
+   "[subroutine] You may add 1 card from Archives to HQ.\n[subroutine] You may install 1 card from Archives or HQ, ignoring all costs.",
+ :title "Drafter",
+ :type :ice,
  :uniqueness false}

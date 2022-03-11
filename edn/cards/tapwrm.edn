@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "tapwrm"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :stripped-text "Install only if you made a successful run on a central server this turn. When your turn begins, gain 1 credit for every 5 credits in the Corp's credit pool. Trash Tapwrm if the Corp purges virus counters."
- :stripped-title "Tapwrm"
- :subtype [:virus]
- :text "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters."
- :title "Tapwrm"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "tapwrm",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Install only if you made a successful run on a central server this turn. When your turn begins, gain 1 credit for every 5 credits in the Corp's credit pool. Trash Tapwrm if the Corp purges virus counters.",
+ :stripped-title "Tapwrm",
+ :subtype [:virus],
+ :text
+   "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters.",
+ :title "Tapwrm",
+ :type :program,
  :uniqueness false}

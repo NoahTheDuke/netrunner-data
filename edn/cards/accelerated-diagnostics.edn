@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "accelerated-diagnostics"
- :influence-cost 1
- :side :corp
- :stripped-text "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at."
- :stripped-title "Accelerated Diagnostics"
- :text "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at."
- :title "Accelerated Diagnostics"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "accelerated-diagnostics",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at.",
+ :stripped-title "Accelerated Diagnostics",
+ :text
+   "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at.",
+ :title "Accelerated Diagnostics",
+ :type :operation,
  :uniqueness false}

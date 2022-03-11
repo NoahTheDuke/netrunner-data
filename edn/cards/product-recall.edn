@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "product-recall"
- :influence-cost 2
- :side :corp
- :stripped-text "This card costs 0 influence if you have 6 or more non-alliancehaas-bioroid cards in your deck. Trash a rezzed asset or upgrade. If you do, gain credits equal to its trash cost."
- :stripped-title "Product Recall"
- :subtype [:alliance]
- :text "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [haas-bioroid] cards in your deck.\nTrash a rezzed asset or upgrade. If you do, gain credits equal to its trash cost."
- :title "Product Recall"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "product-recall",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "This card costs 0 influence if you have 6 or more non-alliancehaas-bioroid cards in your deck. Trash a rezzed asset or upgrade. If you do, gain credits equal to its trash cost.",
+ :stripped-title "Product Recall",
+ :subtype [:alliance],
+ :text
+   "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [haas-bioroid] cards in your deck.\nTrash a rezzed asset or upgrade. If you do, gain credits equal to its trash cost.",
+ :title "Product Recall",
+ :type :operation,
  :uniqueness false}

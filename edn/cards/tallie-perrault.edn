@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "tallie-perrault"
- :influence-cost 3
- :side :runner
- :stripped-text "Whenever a gray ops or black ops operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag. trash: Draw 1 card for each bad publicity the Corp has."
- :stripped-title "Tallie Perrault"
- :subtype [:connection]
- :text "Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag.\n[trash]: Draw 1 card for each bad publicity the Corp has."
- :title "Tallie Perrault"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "tallie-perrault",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Whenever a gray ops or black ops operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag. trash: Draw 1 card for each bad publicity the Corp has.",
+ :stripped-title "Tallie Perrault",
+ :subtype [:connection],
+ :text
+   "Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag.\n[trash]: Draw 1 card for each bad publicity the Corp has.",
+ :title "Tallie Perrault",
+ :type :resource,
  :uniqueness true}

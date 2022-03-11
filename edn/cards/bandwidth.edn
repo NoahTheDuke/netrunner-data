@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "bandwidth"
- :influence-cost 1
- :side :corp
- :strength 5
- :stripped-text "Subroutine Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag."
- :stripped-title "Bandwidth"
- :subtype [:code-gate]
- :text "[subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag."
- :title "Bandwidth"
- :type :ice
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "bandwidth",
+ :influence-cost 1,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Subroutine Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.",
+ :stripped-title "Bandwidth",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.",
+ :title "Bandwidth",
+ :type :ice,
  :uniqueness false}

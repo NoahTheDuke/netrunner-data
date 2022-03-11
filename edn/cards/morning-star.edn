@@ -1,15 +1,17 @@
-{:cost 8
- :deck-limit 3
- :faction :anarch
- :id "morning-star"
- :influence-cost 4
- :memory-cost 2
- :side :runner
- :strength 5
- :stripped-text "Interface -> 1 credit: Break any number of barrier subroutines."
- :stripped-title "Morning Star"
- :subtype [:icebreaker :fracter]
- :text "Interface → <strong>1[credit]:</strong> Break any number of <strong>barrier</strong> subroutines."
- :title "Morning Star"
- :type :program
+{:cost 8,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "morning-star",
+ :influence-cost 4,
+ :memory-cost 2,
+ :side :runner,
+ :strength 5,
+ :stripped-text
+   "Interface -> 1 credit: Break any number of barrier subroutines.",
+ :stripped-title "Morning Star",
+ :subtype [:icebreaker :fracter],
+ :text
+   "Interface → <strong>1[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.",
+ :title "Morning Star",
+ :type :program,
  :uniqueness false}

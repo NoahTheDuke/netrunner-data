@@ -1,13 +1,15 @@
-{:cost 8
- :deck-limit 3
- :faction :neutral-runner
- :id "rachel-beckman"
- :influence-cost 1
- :side :runner
- :stripped-text "You have +1 allotted click on your turn. If you are tagged, trash this resource."
- :stripped-title "Rachel Beckman"
- :subtype [:connection]
- :text "You have +1 allotted [click] on your turn.\nIf you are tagged, trash this resource."
- :title "Rachel Beckman"
- :type :resource
+{:cost 8,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "rachel-beckman",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "You have +1 allotted click on your turn. If you are tagged, trash this resource.",
+ :stripped-title "Rachel Beckman",
+ :subtype [:connection],
+ :text
+   "You have +1 allotted [click] on your turn.\nIf you are tagged, trash this resource.",
+ :title "Rachel Beckman",
+ :type :resource,
  :uniqueness true}

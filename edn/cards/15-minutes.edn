@@ -1,12 +1,14 @@
-{:advancement-requirement 2
- :agenda-points 1
- :deck-limit 1
- :faction :nbn
- :id "15-minutes"
- :side :corp
- :stripped-text "click: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area. Limit 1 per deck."
- :stripped-title "15 Minutes"
- :text "[click]: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area.\nLimit 1 per deck."
- :title "15 Minutes"
- :type :agenda
+{:advancement-requirement 2,
+ :agenda-points 1,
+ :deck-limit 1,
+ :faction :nbn,
+ :id "15-minutes",
+ :side :corp,
+ :stripped-text
+   "click: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area. Limit 1 per deck.",
+ :stripped-title "15 Minutes",
+ :text
+   "[click]: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area.\nLimit 1 per deck.",
+ :title "15 Minutes",
+ :type :agenda,
  :uniqueness true}

@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :nbn
- :id "azmari-edtech-shaping-the-future"
- :influence-limit 15
- :minimum-deck-size 40
- :side :corp
- :stripped-text "When your turn ends, you may name a card type. Gain 2 credits the first time each turn the Runner plays or installs a card that has the type you last named this way."
- :stripped-title "Azmari EdTech: Shaping the Future"
- :subtype [:division]
- :text "When your turn ends, you may name a card type. Gain 2[credit] the first time each turn the Runner plays or installs a card that has the type you last named this way."
- :title "Azmari EdTech: Shaping the Future"
- :type :identity
+{:deck-limit 1,
+ :faction :nbn,
+ :id "azmari-edtech-shaping-the-future",
+ :influence-limit 15,
+ :minimum-deck-size 40,
+ :side :corp,
+ :stripped-text
+   "When your turn ends, you may name a card type. Gain 2 credits the first time each turn the Runner plays or installs a card that has the type you last named this way.",
+ :stripped-title "Azmari EdTech: Shaping the Future",
+ :subtype [:division],
+ :text
+   "When your turn ends, you may name a card type. Gain 2[credit] the first time each turn the Runner plays or installs a card that has the type you last named this way.",
+ :title "Azmari EdTech: Shaping the Future",
+ :type :identity,
  :uniqueness false}

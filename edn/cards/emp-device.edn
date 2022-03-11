@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "emp-device"
- :influence-cost 4
- :side :runner
- :stripped-text "trash: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run."
- :stripped-title "EMP Device"
- :subtype [:bomb]
- :text "[trash]: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run."
- :title "EMP Device"
- :type :hardware
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "emp-device",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "trash: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run.",
+ :stripped-title "EMP Device",
+ :subtype [:bomb],
+ :text
+   "[trash]: The Corp cannot rez more than 1 piece of ice for the remainder of this run. Use this ability only during a run.",
+ :title "EMP Device",
+ :type :hardware,
  :uniqueness false}

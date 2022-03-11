@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "hyperdriver"
- :influence-cost 3
- :memory-cost 3
- :side :runner
- :stripped-text "When your turn begins, you may remove Hyperdriver from the game and gain click click click."
- :stripped-title "Hyperdriver"
- :text "When your turn begins, you may remove Hyperdriver from the game and gain [click][click][click]."
- :title "Hyperdriver"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "hyperdriver",
+ :influence-cost 3,
+ :memory-cost 3,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, you may remove Hyperdriver from the game and gain click click click.",
+ :stripped-title "Hyperdriver",
+ :text
+   "When your turn begins, you may remove Hyperdriver from the game and gain [click][click][click].",
+ :title "Hyperdriver",
+ :type :program,
  :uniqueness false}

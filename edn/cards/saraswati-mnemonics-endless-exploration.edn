@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :jinteki
- :id "saraswati-mnemonics-endless-exploration"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "click, 1 credit: Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins."
- :stripped-title "Saraswati Mnemonics: Endless Exploration"
- :subtype [:division]
- :text "<strong>[click]</strong>, <strong>1[credit]:</strong> Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins."
- :title "Saraswati Mnemonics: Endless Exploration"
- :type :identity
+{:deck-limit 1,
+ :faction :jinteki,
+ :id "saraswati-mnemonics-endless-exploration",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text
+   "click, 1 credit: Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.",
+ :stripped-title "Saraswati Mnemonics: Endless Exploration",
+ :subtype [:division],
+ :text
+   "<strong>[click]</strong>, <strong>1[credit]:</strong> Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.",
+ :title "Saraswati Mnemonics: Endless Exploration",
+ :type :identity,
  :uniqueness false}

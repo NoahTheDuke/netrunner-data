@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "bazaar"
- :influence-cost 0
- :side :runner
- :stripped-text "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs)."
- :stripped-title "Bazaar"
- :subtype [:location :ritzy]
- :text "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs)."
- :title "Bazaar"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "bazaar",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
+ :stripped-title "Bazaar",
+ :subtype [:location :ritzy],
+ :text
+   "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
+ :title "Bazaar",
+ :type :resource,
  :uniqueness false}

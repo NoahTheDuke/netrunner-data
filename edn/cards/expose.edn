@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :nbn
- :id "expose"
- :influence-cost 2
- :side :corp
- :stripped-text "Expose can be advanced. trash: Remove 1 bad publicity for each advancement token on Expose."
- :stripped-title "Expose"
- :text "Exposé can be advanced.\n[trash]: Remove 1 bad publicity for each advancement token on Exposé."
- :title "Exposé"
- :trash-cost 2
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "expose",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Expose can be advanced. trash: Remove 1 bad publicity for each advancement token on Expose.",
+ :stripped-title "Expose",
+ :text
+   "Exposé can be advanced.\n[trash]: Remove 1 bad publicity for each advancement token on Exposé.",
+ :title "Exposé",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

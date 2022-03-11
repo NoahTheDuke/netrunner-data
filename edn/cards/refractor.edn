@@ -1,15 +1,17 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "refractor"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :strength 2
- :stripped-text "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +3 strength. Use this ability only by spending a credit from a stealth card."
- :stripped-title "Refractor"
- :subtype [:icebreaker :decoder]
- :text "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card."
- :title "Refractor"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "refractor",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :strength 2,
+ :stripped-text
+   "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +3 strength. Use this ability only by spending a credit from a stealth card.",
+ :stripped-title "Refractor",
+ :subtype [:icebreaker :decoder],
+ :text
+   "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+ :title "Refractor",
+ :type :program,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 14
- :deck-limit 3
- :faction :weyland-consortium
- :id "curtain-wall"
- :influence-cost 2
- :side :corp
- :strength 6
- :stripped-text "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength. Subroutine End the run. Subroutine End the run. Subroutine End the run."
- :stripped-title "Curtain Wall"
- :subtype [:barrier]
- :text "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run."
- :title "Curtain Wall"
- :type :ice
+{:cost 14,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "curtain-wall",
+ :influence-cost 2,
+ :side :corp,
+ :strength 6,
+ :stripped-text
+   "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength. Subroutine End the run. Subroutine End the run. Subroutine End the run.",
+ :stripped-title "Curtain Wall",
+ :subtype [:barrier],
+ :text
+   "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
+ :title "Curtain Wall",
+ :type :ice,
  :uniqueness false}

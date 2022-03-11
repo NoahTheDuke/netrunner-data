@@ -1,12 +1,13 @@
-{:cost 2
- :deck-limit 3
- :faction :criminal
- :id "docklands-pass"
- :influence-cost 2
- :side :runner
- :stripped-text "The first time each turn you breach HQ, access 1 additional card."
- :stripped-title "Docklands Pass"
- :text "The first time each turn you breach HQ, access 1 additional card."
- :title "Docklands Pass"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "docklands-pass",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "The first time each turn you breach HQ, access 1 additional card.",
+ :stripped-title "Docklands Pass",
+ :text "The first time each turn you breach HQ, access 1 additional card.",
+ :title "Docklands Pass",
+ :type :hardware,
  :uniqueness true}

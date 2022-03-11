@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :jinteki
- :id "karuna"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "Subroutine Do 2 net damage. The Runner may jack out. Subroutine Do 2 net damage."
- :stripped-title "Karuna"
- :subtype [:sentry :ap]
- :text "[subroutine] Do 2 net damage. The Runner may jack out.\n[subroutine] Do 2 net damage."
- :title "Karunā"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "karuna",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Subroutine Do 2 net damage. The Runner may jack out. Subroutine Do 2 net damage.",
+ :stripped-title "Karuna",
+ :subtype [:sentry :ap],
+ :text
+   "[subroutine] Do 2 net damage. The Runner may jack out.\n[subroutine] Do 2 net damage.",
+ :title "Karunā",
+ :type :ice,
  :uniqueness false}

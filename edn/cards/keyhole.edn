@@ -1,13 +1,15 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "keyhole"
- :influence-cost 3
- :memory-cost 2
- :side :runner
- :stripped-text "click: Run R&D. If successful, instead of breaching R&D, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D."
- :stripped-title "Keyhole"
- :text "<strong>[click]:</strong> Run R&D. If successful, instead of breaching R&D, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D.\n"
- :title "Keyhole"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "keyhole",
+ :influence-cost 3,
+ :memory-cost 2,
+ :side :runner,
+ :stripped-text
+   "click: Run R&D. If successful, instead of breaching R&D, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D.",
+ :stripped-title "Keyhole",
+ :text
+   "<strong>[click]:</strong> Run R&D. If successful, instead of breaching R&D, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D.\n",
+ :title "Keyhole",
+ :type :program,
  :uniqueness false}

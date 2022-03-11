@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "savoir-faire"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :stripped-text "You cannot use Savoir-faire more than once each turn. 2 credits: Install a program from your grip, paying the install cost."
- :stripped-title "Savoir-faire"
- :text "You cannot use Savoir-faire more than once each turn.\n2[credit]: Install a program from your grip, paying the install cost."
- :title "Savoir-faire"
- :type :program
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "savoir-faire",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "You cannot use Savoir-faire more than once each turn. 2 credits: Install a program from your grip, paying the install cost.",
+ :stripped-title "Savoir-faire",
+ :text
+   "You cannot use Savoir-faire more than once each turn.\n2[credit]: Install a program from your grip, paying the install cost.",
+ :title "Savoir-faire",
+ :type :program,
  :uniqueness false}

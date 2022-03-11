@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "investigator-inez-delgado-a"
- :influence-cost 0
- :side :corp
- :stripped-text "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda."
- :stripped-title "Investigator Inez Delgado A"
- :subtype [:character]
- :text "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda."
- :title "Investigator Inez Delgado A"
- :trash-cost 5
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "investigator-inez-delgado-a",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda.",
+ :stripped-title "Investigator Inez Delgado A",
+ :subtype [:character],
+ :text
+   "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda.",
+ :title "Investigator Inez Delgado A",
+ :trash-cost 5,
+ :type :asset,
  :uniqueness true}

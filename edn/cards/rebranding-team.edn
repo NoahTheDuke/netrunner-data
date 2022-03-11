@@ -1,13 +1,13 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :nbn
- :id "rebranding-team"
- :side :corp
- :stripped-text "All assets gain advertisement."
- :stripped-title "Rebranding Team"
- :subtype [:initiative]
- :text "All assets gain <strong>advertisement</strong>."
- :title "Rebranding Team"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "rebranding-team",
+ :side :corp,
+ :stripped-text "All assets gain advertisement.",
+ :stripped-title "Rebranding Team",
+ :subtype [:initiative],
+ :text "All assets gain <strong>advertisement</strong>.",
+ :title "Rebranding Team",
+ :type :agenda,
  :uniqueness false}

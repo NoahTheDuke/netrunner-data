@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :criminal
- :id "steve-cambridge-master-grifter"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first time each turn you make a successful run on HQ, you may choose 2 cards in your heap. If you do, the Corp removes 1 of those cards from the game, then you add the other card to your grip."
- :stripped-title "Steve Cambridge: Master Grifter"
- :subtype [:g-mod]
- :text "The first time each turn you make a successful run on HQ, you may choose 2 cards in your heap. If you do, the Corp removes 1 of those cards from the game, then you add the other card to your grip."
- :title "Steve Cambridge: Master Grifter"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :criminal,
+ :id "steve-cambridge-master-grifter",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "The first time each turn you make a successful run on HQ, you may choose 2 cards in your heap. If you do, the Corp removes 1 of those cards from the game, then you add the other card to your grip.",
+ :stripped-title "Steve Cambridge: Master Grifter",
+ :subtype [:g-mod],
+ :text
+   "The first time each turn you make a successful run on HQ, you may choose 2 cards in your heap. If you do, the Corp removes 1 of those cards from the game, then you add the other card to your grip.",
+ :title "Steve Cambridge: Master Grifter",
+ :type :identity,
  :uniqueness false}

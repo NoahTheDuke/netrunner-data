@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "sandstone"
- :influence-cost 2
- :side :corp
- :strength 6
- :stripped-text "When the Runner encounters this ice, place 1 virus counter on it. This ice has -1 strength for each hosted virus counter. Subroutine End the run."
- :stripped-title "Sandstone"
- :subtype [:barrier]
- :text "When the Runner encounters this ice, place 1 virus counter on it.\nThis ice has -1 strength for each hosted virus counter.\n[subroutine]End the run."
- :title "Sandstone"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "sandstone",
+ :influence-cost 2,
+ :side :corp,
+ :strength 6,
+ :stripped-text
+   "When the Runner encounters this ice, place 1 virus counter on it. This ice has -1 strength for each hosted virus counter. Subroutine End the run.",
+ :stripped-title "Sandstone",
+ :subtype [:barrier],
+ :text
+   "When the Runner encounters this ice, place 1 virus counter on it.\nThis ice has -1 strength for each hosted virus counter.\n[subroutine]End the run.",
+ :title "Sandstone",
+ :type :ice,
  :uniqueness false}

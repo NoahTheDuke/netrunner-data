@@ -1,14 +1,14 @@
-{:cost 4
- :deck-limit 3
- :faction :jinteki
- :id "neural-katana"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "Subroutine Do 3 net damage."
- :stripped-title "Neural Katana"
- :subtype [:sentry :ap]
- :text "[subroutine] Do 3 net damage."
- :title "Neural Katana"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "neural-katana",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text "Subroutine Do 3 net damage.",
+ :stripped-title "Neural Katana",
+ :subtype [:sentry :ap],
+ :text "[subroutine] Do 3 net damage.",
+ :title "Neural Katana",
+ :type :ice,
  :uniqueness false}

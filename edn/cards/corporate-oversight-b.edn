@@ -1,14 +1,16 @@
-{:advancement-requirement 2
- :agenda-points 0
- :deck-limit 3
- :faction :neutral-corp
- :id "corporate-oversight-b"
- :influence-cost 0
- :side :corp
- :stripped-text "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a central server, ignoring all costs. Shuffle R&D. If you win a game with Corporate Oversight in your score area, destroy it."
- :stripped-title "Corporate Oversight B"
- :subtype [:initiative]
- :text "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a central server, ignoring all costs. Shuffle R&D.\nIf you win a game with Corporate Oversight in your score area, destroy it."
- :title "Corporate Oversight B"
- :type :agenda
+{:advancement-requirement 2,
+ :agenda-points 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "corporate-oversight-b",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a central server, ignoring all costs. Shuffle R&D. If you win a game with Corporate Oversight in your score area, destroy it.",
+ :stripped-title "Corporate Oversight B",
+ :subtype [:initiative],
+ :text
+   "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a central server, ignoring all costs. Shuffle R&D.\nIf you win a game with Corporate Oversight in your score area, destroy it.",
+ :title "Corporate Oversight B",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,13 @@
-{:deck-limit 1
- :faction :jinteki
- :id "jinteki-personal-evolution"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "Whenever an agenda is scored or stolen, do 1 net damage."
- :stripped-title "Jinteki: Personal Evolution"
- :subtype [:megacorp]
- :text "Whenever an agenda is scored or stolen, do 1 net damage."
- :title "Jinteki: Personal Evolution"
- :type :identity
+{:deck-limit 1,
+ :faction :jinteki,
+ :id "jinteki-personal-evolution",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text "Whenever an agenda is scored or stolen, do 1 net damage.",
+ :stripped-title "Jinteki: Personal Evolution",
+ :subtype [:megacorp],
+ :text "Whenever an agenda is scored or stolen, do 1 net damage.",
+ :title "Jinteki: Personal Evolution",
+ :type :identity,
  :uniqueness false}

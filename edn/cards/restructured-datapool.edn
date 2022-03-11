@@ -1,13 +1,13 @@
-{:advancement-requirement 5
- :agenda-points 3
- :deck-limit 3
- :faction :nbn
- :id "restructured-datapool"
- :side :corp
- :stripped-text "click: Trace 2 If successful, give the Runner 1 tag."
- :stripped-title "Restructured Datapool"
- :subtype [:initiative]
- :text "[click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag."
- :title "Restructured Datapool"
- :type :agenda
+{:advancement-requirement 5,
+ :agenda-points 3,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "restructured-datapool",
+ :side :corp,
+ :stripped-text "click: Trace 2 If successful, give the Runner 1 tag.",
+ :stripped-title "Restructured Datapool",
+ :subtype [:initiative],
+ :text "[click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+ :title "Restructured Datapool",
+ :type :agenda,
  :uniqueness false}

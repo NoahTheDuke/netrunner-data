@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :nbn
- :id "daily-quest"
- :influence-cost 3
- :side :corp
- :stripped-text "Rez only during your action phase. Whenever the Runner makes a successful run on this server, they gain 2 credits. When your turn begins, gain 3 credits if the Runner did not make any successful runs on this server during their last turn."
- :stripped-title "Daily Quest"
- :text "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they gain 2[credit].\nWhen your turn begins, gain 3[credit] if the Runner did not make any successful runs on this server during their last turn."
- :title "Daily Quest"
- :trash-cost 3
- :type :asset
+{:cost 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "daily-quest",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Rez only during your action phase. Whenever the Runner makes a successful run on this server, they gain 2 credits. When your turn begins, gain 3 credits if the Runner did not make any successful runs on this server during their last turn.",
+ :stripped-title "Daily Quest",
+ :text
+   "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they gain 2[credit].\nWhen your turn begins, gain 3[credit] if the Runner did not make any successful runs on this server during their last turn.",
+ :title "Daily Quest",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

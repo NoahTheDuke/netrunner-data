@@ -1,13 +1,13 @@
-{:cost 10
- :deck-limit 3
- :faction :neutral-corp
- :id "restructure"
- :influence-cost 0
- :side :corp
- :stripped-text "Gain 15 credits."
- :stripped-title "Restructure"
- :subtype [:transaction]
- :text "Gain 15[credit]."
- :title "Restructure"
- :type :operation
+{:cost 10,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "restructure",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text "Gain 15 credits.",
+ :stripped-title "Restructure",
+ :subtype [:transaction],
+ :text "Gain 15[credit].",
+ :title "Restructure",
+ :type :operation,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 5
- :deck-limit 3
- :faction :haas-bioroid
- :id "violet-level-clearance"
- :influence-cost 3
- :side :corp
- :stripped-text "After you resolve this operation, end your action phase. Gain 8 credits and draw 4 cards."
- :stripped-title "Violet Level Clearance"
- :subtype [:terminal :transaction]
- :text "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards."
- :title "Violet Level Clearance"
- :trash-cost 1
- :type :operation
+{:cost 5,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "violet-level-clearance",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "After you resolve this operation, end your action phase. Gain 8 credits and draw 4 cards.",
+ :stripped-title "Violet Level Clearance",
+ :subtype [:terminal :transaction],
+ :text
+   "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards.",
+ :title "Violet Level Clearance",
+ :trash-cost 1,
+ :type :operation,
  :uniqueness false}

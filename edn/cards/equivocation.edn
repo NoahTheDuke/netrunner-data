@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "equivocation"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever you make a successful run on R&D, you may reveal the top card of R&D. If you do, you may force the Corp to draw that card."
- :stripped-title "Equivocation"
- :text "Whenever you make a successful run on R&D, you may reveal the top card of R&D. If you do, you may force the Corp to draw that card."
- :title "Equivocation"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "equivocation",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever you make a successful run on R&D, you may reveal the top card of R&D. If you do, you may force the Corp to draw that card.",
+ :stripped-title "Equivocation",
+ :text
+   "Whenever you make a successful run on R&D, you may reveal the top card of R&D. If you do, you may force the Corp to draw that card.",
+ :title "Equivocation",
+ :type :program,
  :uniqueness true}

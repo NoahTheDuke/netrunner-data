@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "recon"
- :influence-cost 2
- :side :runner
- :stripped-text "Make a run. You may jack out when you encounter the first piece of ice."
- :stripped-title "Recon"
- :subtype [:run]
- :text "Make a run. You may jack out when you encounter the first piece of ice."
- :title "Recon"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "recon",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Make a run. You may jack out when you encounter the first piece of ice.",
+ :stripped-title "Recon",
+ :subtype [:run],
+ :text
+   "Make a run. You may jack out when you encounter the first piece of ice.",
+ :title "Recon",
+ :type :event,
  :uniqueness false}

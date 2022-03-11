@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :adam
- :id "brain-chip"
- :influence-cost 3
- :side :runner
- :stripped-text "+X mu Your maximum hand size is increased by X. X is equal to the number of agenda points you have. Limit 1 console per player."
- :stripped-title "Brain Chip"
- :subtype [:console]
- :text "+X[mu]\nYour maximum hand size is increased by X.\nX is equal to the number of agenda points you have.\nLimit 1 <strong>console</strong> per player."
- :title "Brain Chip"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :adam,
+ :id "brain-chip",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "+X mu Your maximum hand size is increased by X. X is equal to the number of agenda points you have. Limit 1 console per player.",
+ :stripped-title "Brain Chip",
+ :subtype [:console],
+ :text
+   "+X[mu]\nYour maximum hand size is increased by X.\nX is equal to the number of agenda points you have.\nLimit 1 <strong>console</strong> per player.",
+ :title "Brain Chip",
+ :type :hardware,
  :uniqueness true}

@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-corp
- :id "pad-factory"
- :influence-cost 2
- :side :corp
- :stripped-text "This card costs 0 influence if you have 3 PAD Campaigns in your deck. click: Place 1 advancement token on a card. You cannot score that card until your next turn begins."
- :stripped-title "PAD Factory"
- :subtype [:alliance :facility]
- :text "This card costs 0 influence if you have 3 PAD Campaigns in your deck.\n[click]: Place 1 advancement token on a card. You cannot score that card until your next turn begins."
- :title "PAD Factory"
- :trash-cost 3
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "pad-factory",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "This card costs 0 influence if you have 3 PAD Campaigns in your deck. click: Place 1 advancement token on a card. You cannot score that card until your next turn begins.",
+ :stripped-title "PAD Factory",
+ :subtype [:alliance :facility],
+ :text
+   "This card costs 0 influence if you have 3 PAD Campaigns in your deck.\n[click]: Place 1 advancement token on a card. You cannot score that card until your next turn begins.",
+ :title "PAD Factory",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness false}

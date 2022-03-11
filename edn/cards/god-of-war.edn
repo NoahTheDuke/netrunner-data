@@ -1,15 +1,17 @@
-{:cost 4
- :deck-limit 3
- :faction :anarch
- :id "god-of-war"
- :influence-cost 3
- :memory-cost 1
- :side :runner
- :strength 0
- :stripped-text "When your turn begins, you may take 1 tag to place 2 virus counters on this program. Interface -> Hosted virus counter: Break 1 subroutine. 2 credits: +1 strength."
- :stripped-title "God of War"
- :subtype [:icebreaker :ai :virus]
- :text "When your turn begins, you may take 1 tag to place 2 virus counters on this program.\nInterface → <strong>Hosted virus counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +1 strength."
- :title "God of War"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "god-of-war",
+ :influence-cost 3,
+ :memory-cost 1,
+ :side :runner,
+ :strength 0,
+ :stripped-text
+   "When your turn begins, you may take 1 tag to place 2 virus counters on this program. Interface -> Hosted virus counter: Break 1 subroutine. 2 credits: +1 strength.",
+ :stripped-title "God of War",
+ :subtype [:icebreaker :ai :virus],
+ :text
+   "When your turn begins, you may take 1 tag to place 2 virus counters on this program.\nInterface → <strong>Hosted virus counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +1 strength.",
+ :title "God of War",
+ :type :program,
  :uniqueness false}

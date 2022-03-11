@@ -1,14 +1,14 @@
-{:base-link 0
- :deck-limit 1
- :faction :anarch
- :id "valencia-estevez-the-angel-of-cayambe"
- :influence-limit 15
- :minimum-deck-size 50
- :side :runner
- :stripped-text "The Corp starts the game with 1 bad publicity."
- :stripped-title "Valencia Estevez: The Angel of Cayambe"
- :subtype [:natural]
- :text "The Corp starts the game with 1 bad publicity."
- :title "Valencia Estevez: The Angel of Cayambe"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :anarch,
+ :id "valencia-estevez-the-angel-of-cayambe",
+ :influence-limit 15,
+ :minimum-deck-size 50,
+ :side :runner,
+ :stripped-text "The Corp starts the game with 1 bad publicity.",
+ :stripped-title "Valencia Estevez: The Angel of Cayambe",
+ :subtype [:natural],
+ :text "The Corp starts the game with 1 bad publicity.",
+ :title "Valencia Estevez: The Angel of Cayambe",
+ :type :identity,
  :uniqueness false}

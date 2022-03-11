@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "preemptive-action"
- :influence-cost 0
- :side :corp
- :stripped-text "After you resolve this operation, end your action phase. Shuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it."
- :stripped-title "Preemptive Action"
- :subtype [:terminal]
- :text "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it."
- :title "Preemptive Action"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "preemptive-action",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "After you resolve this operation, end your action phase. Shuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it.",
+ :stripped-title "Preemptive Action",
+ :subtype [:terminal],
+ :text
+   "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it.",
+ :title "Preemptive Action",
+ :type :operation,
  :uniqueness false}

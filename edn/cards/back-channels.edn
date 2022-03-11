@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "back-channels"
- :influence-cost 1
- :side :corp
- :stripped-text "Choose 1 card in the root of a remote server. Gain 3 credits for each advancement counter on that card, then trash it."
- :stripped-title "Back Channels"
- :subtype [:transaction]
- :text "Choose 1 card in the root of a remote server. Gain 3[credit] for each advancement counter on that card, then trash it."
- :title "Back Channels"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "back-channels",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Choose 1 card in the root of a remote server. Gain 3 credits for each advancement counter on that card, then trash it.",
+ :stripped-title "Back Channels",
+ :subtype [:transaction],
+ :text
+   "Choose 1 card in the root of a remote server. Gain 3[credit] for each advancement counter on that card, then trash it.",
+ :title "Back Channels",
+ :type :operation,
  :uniqueness false}

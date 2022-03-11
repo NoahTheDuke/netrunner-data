@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "mark-yale"
- :influence-cost 1
- :side :corp
- :stripped-text "Whenever you spend an agenda counter, gain 1 credit. trash or any agenda counter: Gain 2 credits."
- :stripped-title "Mark Yale"
- :subtype [:executive]
- :text "Whenever you spend an agenda counter, gain 1[credit].\n[trash] or <strong>any agenda counter:</strong> Gain 2[credit]."
- :title "Mark Yale"
- :trash-cost 3
- :type :asset
+{:cost 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "mark-yale",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Whenever you spend an agenda counter, gain 1 credit. trash or any agenda counter: Gain 2 credits.",
+ :stripped-title "Mark Yale",
+ :subtype [:executive],
+ :text
+   "Whenever you spend an agenda counter, gain 1[credit].\n[trash] or <strong>any agenda counter:</strong> Gain 2[credit].",
+ :title "Mark Yale",
+ :trash-cost 3,
+ :type :asset,
  :uniqueness true}

@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "exploratory-romp"
- :influence-cost 2
- :side :runner
- :stripped-text "Run any server. If successful, instead of breaching that server, remove up to 3 advancement counters from 1 card in the root of or protecting the attacked server."
- :stripped-title "Exploratory Romp"
- :subtype [:run]
- :text "Run any server. If successful, instead of breaching that server, remove up to 3 advancement counters from 1 card in the root of or protecting the attacked server."
- :title "Exploratory Romp"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "exploratory-romp",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Run any server. If successful, instead of breaching that server, remove up to 3 advancement counters from 1 card in the root of or protecting the attacked server.",
+ :stripped-title "Exploratory Romp",
+ :subtype [:run],
+ :text
+   "Run any server. If successful, instead of breaching that server, remove up to 3 advancement counters from 1 card in the root of or protecting the attacked server.",
+ :title "Exploratory Romp",
+ :type :event,
  :uniqueness false}

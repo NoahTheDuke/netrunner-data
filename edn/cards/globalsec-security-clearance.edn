@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :sunny-lebeau
- :id "globalsec-security-clearance"
- :influence-cost 2
- :side :runner
- :stripped-text "Install only if you have at least 2 link. When your turn begins, you may lose click. If you do, look at the top card of R&D."
- :stripped-title "Globalsec Security Clearance"
- :subtype [:virtual]
- :text "Install only if you have at least 2[link].\nWhen your turn begins, you may lose [click]. If you do, look at the top card of R&D."
- :title "Globalsec Security Clearance"
- :type :resource
+{:cost 2,
+ :deck-limit 3,
+ :faction :sunny-lebeau,
+ :id "globalsec-security-clearance",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Install only if you have at least 2 link. When your turn begins, you may lose click. If you do, look at the top card of R&D.",
+ :stripped-title "Globalsec Security Clearance",
+ :subtype [:virtual],
+ :text
+   "Install only if you have at least 2[link].\nWhen your turn begins, you may lose [click]. If you do, look at the top card of R&D.",
+ :title "Globalsec Security Clearance",
+ :type :resource,
  :uniqueness false}

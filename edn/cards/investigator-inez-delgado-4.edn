@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "investigator-inez-delgado-4"
- :influence-cost 0
- :side :runner
- :stripped-text "Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn."
- :stripped-title "Investigator Inez Delgado 4"
- :subtype [:connection]
- :text "<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn."
- :title "Investigator Inez Delgado 4"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "investigator-inez-delgado-4",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn.",
+ :stripped-title "Investigator Inez Delgado 4",
+ :subtype [:connection],
+ :text
+   "<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn.",
+ :title "Investigator Inez Delgado 4",
+ :type :resource,
  :uniqueness true}

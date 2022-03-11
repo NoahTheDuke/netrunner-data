@@ -1,13 +1,15 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "broad-daylight"
- :side :corp
- :stripped-text "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have. click, hosted agenda counter: Do 2 meat damage. Use this ability only once per turn."
- :stripped-title "Broad Daylight"
- :subtype [:security]
- :text "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have.\n[click], <strong>hosted agenda counter</strong>: Do 2 meat damage. Use this ability only once per turn."
- :title "Broad Daylight"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "broad-daylight",
+ :side :corp,
+ :stripped-text
+   "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have. click, hosted agenda counter: Do 2 meat damage. Use this ability only once per turn.",
+ :stripped-title "Broad Daylight",
+ :subtype [:security],
+ :text
+   "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have.\n[click], <strong>hosted agenda counter</strong>: Do 2 meat damage. Use this ability only once per turn.",
+ :title "Broad Daylight",
+ :type :agenda,
  :uniqueness false}

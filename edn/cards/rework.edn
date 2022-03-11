@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "rework"
- :influence-cost 1
- :side :corp
- :stripped-text "Shuffle 1 card from HQ into R&D."
- :stripped-title "Rework"
- :text "Shuffle 1 card from HQ into R&D."
- :title "Rework"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "rework",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "Shuffle 1 card from HQ into R&D.",
+ :stripped-title "Rework",
+ :text "Shuffle 1 card from HQ into R&D.",
+ :title "Rework",
+ :type :operation,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "bifrost-array"
- :side :corp
- :stripped-text "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area."
- :stripped-title "Bifrost Array"
- :subtype [:initiative]
- :text "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area."
- :title "Bifrost Array"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "bifrost-array",
+ :side :corp,
+ :stripped-text
+   "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area.",
+ :stripped-title "Bifrost Array",
+ :subtype [:initiative],
+ :text
+   "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area.",
+ :title "Bifrost Array",
+ :type :agenda,
  :uniqueness false}

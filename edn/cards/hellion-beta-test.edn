@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "hellion-beta-test"
- :influence-cost 3
- :side :corp
- :stripped-text "Play only if the Runner trashed an accessed Corp card during his or her last turn. Trace 2 If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity."
- :stripped-title "Hellion Beta Test"
- :subtype [:black-ops]
- :text "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity."
- :title "Hellion Beta Test"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "hellion-beta-test",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Play only if the Runner trashed an accessed Corp card during his or her last turn. Trace 2 If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+ :stripped-title "Hellion Beta Test",
+ :subtype [:black-ops],
+ :text
+   "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+ :title "Hellion Beta Test",
+ :type :operation,
  :uniqueness false}

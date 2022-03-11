@@ -1,14 +1,16 @@
-{:cost 7
- :deck-limit 3
- :faction :haas-bioroid
- :id "sherlock-2-0"
- :influence-cost 3
- :side :corp
- :strength 6
- :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Give the Runner 1 tag."
- :stripped-title "Sherlock 2.0"
- :subtype [:sentry :bioroid :tracer]
- :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Give the Runner 1 tag."
- :title "Sherlock 2.0"
- :type :ice
+{:cost 7,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "sherlock-2-0",
+ :influence-cost 3,
+ :side :corp,
+ :strength 6,
+ :stripped-text
+   "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Give the Runner 1 tag.",
+ :stripped-title "Sherlock 2.0",
+ :subtype [:sentry :bioroid :tracer],
+ :text
+   "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Give the Runner 1 tag.",
+ :title "Sherlock 2.0",
+ :type :ice,
  :uniqueness false}

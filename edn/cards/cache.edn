@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "cache"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :stripped-text "Place 3 virus counters on Cache when it is installed. Hosted virus counter: Gain 1 credit."
- :stripped-title "Cache"
- :subtype [:virus]
- :text "Place 3 virus counters on Cache when it is installed.\n<strong>Hosted virus counter:</strong> Gain 1[credit]."
- :title "Cache"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "cache",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Place 3 virus counters on Cache when it is installed. Hosted virus counter: Gain 1 credit.",
+ :stripped-title "Cache",
+ :subtype [:virus],
+ :text
+   "Place 3 virus counters on Cache when it is installed.\n<strong>Hosted virus counter:</strong> Gain 1[credit].",
+ :title "Cache",
+ :type :program,
  :uniqueness false}

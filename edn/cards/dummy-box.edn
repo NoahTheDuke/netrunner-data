@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :shaper
- :id "dummy-box"
- :influence-cost 2
- :side :runner
- :stripped-text "Trash a card from your grip: Prevent an installed card of the same type from being trashed by the Corp."
- :stripped-title "Dummy Box"
- :subtype [:virtual]
- :text "<strong>Trash a card from your grip:</strong> Prevent an installed card of the same type from being trashed by the Corp."
- :title "Dummy Box"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "dummy-box",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Trash a card from your grip: Prevent an installed card of the same type from being trashed by the Corp.",
+ :stripped-title "Dummy Box",
+ :subtype [:virtual],
+ :text
+   "<strong>Trash a card from your grip:</strong> Prevent an installed card of the same type from being trashed by the Corp.",
+ :title "Dummy Box",
+ :type :resource,
  :uniqueness false}

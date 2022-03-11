@@ -1,12 +1,12 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "quality-time"
- :influence-cost 1
- :side :runner
- :stripped-text "Draw 5 cards."
- :stripped-title "Quality Time"
- :text "Draw 5 cards."
- :title "Quality Time"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "quality-time",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text "Draw 5 cards.",
+ :stripped-title "Quality Time",
+ :text "Draw 5 cards.",
+ :title "Quality Time",
+ :type :event,
  :uniqueness false}

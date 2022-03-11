@@ -1,14 +1,16 @@
-{:cost 3
- :deck-limit 3
- :faction :jinteki
- :id "konjin"
- :influence-cost 3
- :side :corp
- :strength 3
- :stripped-text "When the Runner encounters this ice, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. (When that encounter ends, if the run has not ended, finish encountering this ice.)"
- :stripped-title "Konjin"
- :subtype [:mythic :psi]
- :text "When the Runner encounters this ice, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. <em>(When that encounter ends, if the run has not ended, finish encountering this ice.)</em>"
- :title "Konjin"
- :type :ice
+{:cost 3,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "konjin",
+ :influence-cost 3,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "When the Runner encounters this ice, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. (When that encounter ends, if the run has not ended, finish encountering this ice.)",
+ :stripped-title "Konjin",
+ :subtype [:mythic :psi],
+ :text
+   "When the Runner encounters this ice, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. <em>(When that encounter ends, if the run has not ended, finish encountering this ice.)</em>",
+ :title "Konjin",
+ :type :ice,
  :uniqueness true}

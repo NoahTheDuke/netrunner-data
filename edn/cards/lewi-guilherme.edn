@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "lewi-guilherme"
- :influence-cost 4
- :side :runner
- :stripped-text "When your turn begins, either lose 1 credit or trash Lewi Guilherme. The Corp's maximum hand size is reduced by 1."
- :stripped-title "Lewi Guilherme"
- :subtype [:connection]
- :text "When your turn begins, either lose 1[credit] or trash Lewi Guilherme.\nThe Corp's maximum hand size is reduced by 1."
- :title "Lewi Guilherme"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "lewi-guilherme",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, either lose 1 credit or trash Lewi Guilherme. The Corp's maximum hand size is reduced by 1.",
+ :stripped-title "Lewi Guilherme",
+ :subtype [:connection],
+ :text
+   "When your turn begins, either lose 1[credit] or trash Lewi Guilherme.\nThe Corp's maximum hand size is reduced by 1.",
+ :title "Lewi Guilherme",
+ :type :resource,
  :uniqueness true}

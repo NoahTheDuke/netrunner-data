@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "anonymous-tip"
- :influence-cost 1
- :side :corp
- :stripped-text "Draw 3 cards."
- :stripped-title "Anonymous Tip"
- :text "Draw 3 cards."
- :title "Anonymous Tip"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "anonymous-tip",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "Draw 3 cards.",
+ :stripped-title "Anonymous Tip",
+ :text "Draw 3 cards.",
+ :title "Anonymous Tip",
+ :type :operation,
  :uniqueness false}

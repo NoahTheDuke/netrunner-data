@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "enhanced-vision"
- :influence-cost 3
- :side :runner
- :stripped-text "The first time you make a successful run each turn, the Corp reveals 1 card at random from HQ."
- :stripped-title "Enhanced Vision"
- :subtype [:genetics]
- :text "The first time you make a successful run each turn, the Corp reveals 1 card at random from HQ."
- :title "Enhanced Vision"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "enhanced-vision",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "The first time you make a successful run each turn, the Corp reveals 1 card at random from HQ.",
+ :stripped-title "Enhanced Vision",
+ :subtype [:genetics],
+ :text
+   "The first time you make a successful run each turn, the Corp reveals 1 card at random from HQ.",
+ :title "Enhanced Vision",
+ :type :resource,
  :uniqueness true}

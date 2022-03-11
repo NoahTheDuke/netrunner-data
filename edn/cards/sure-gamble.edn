@@ -1,12 +1,12 @@
-{:cost 5
- :deck-limit 3
- :faction :neutral-runner
- :id "sure-gamble"
- :influence-cost 0
- :side :runner
- :stripped-text "Gain 9 credits."
- :stripped-title "Sure Gamble"
- :text "Gain 9[credit]."
- :title "Sure Gamble"
- :type :event
+{:cost 5,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "sure-gamble",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text "Gain 9 credits.",
+ :stripped-title "Sure Gamble",
+ :text "Gain 9[credit].",
+ :title "Sure Gamble",
+ :type :event,
  :uniqueness false}

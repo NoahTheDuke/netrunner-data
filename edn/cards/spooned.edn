@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "spooned"
- :influence-cost 3
- :side :runner
- :stripped-text "Run any server. The first time you fully break a code gate during that run, trash that code gate."
- :stripped-title "Spooned"
- :subtype [:run :sabotage]
- :text "Run any server. The first time you fully break a <strong>code gate</strong> during that run, trash that <strong>code gate</strong>."
- :title "Spooned"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "spooned",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run any server. The first time you fully break a code gate during that run, trash that code gate.",
+ :stripped-title "Spooned",
+ :subtype [:run :sabotage],
+ :text
+   "Run any server. The first time you fully break a <strong>code gate</strong> during that run, trash that <strong>code gate</strong>.",
+ :title "Spooned",
+ :type :event,
  :uniqueness false}

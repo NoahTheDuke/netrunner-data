@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "neural-emp"
- :influence-cost 2
- :side :corp
- :stripped-text "Play only if the Runner made a run during his or her last turn. Do 1 net damage."
- :stripped-title "Neural EMP"
- :subtype [:gray-ops]
- :text "Play only if the Runner made a run during his or her last turn.\nDo 1 net damage."
- :title "Neural EMP"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "neural-emp",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Play only if the Runner made a run during his or her last turn. Do 1 net damage.",
+ :stripped-title "Neural EMP",
+ :subtype [:gray-ops],
+ :text
+   "Play only if the Runner made a run during his or her last turn.\nDo 1 net damage.",
+ :title "Neural EMP",
+ :type :operation,
  :uniqueness false}

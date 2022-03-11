@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "rabbit-hole"
- :influence-cost 1
- :side :runner
- :stripped-text "+1 link When Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack."
- :stripped-title "Rabbit Hole"
- :subtype [:link]
- :text "+1[link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack."
- :title "Rabbit Hole"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "rabbit-hole",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "+1 link When Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
+ :stripped-title "Rabbit Hole",
+ :subtype [:link],
+ :text
+   "+1[link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
+ :title "Rabbit Hole",
+ :type :hardware,
  :uniqueness false}

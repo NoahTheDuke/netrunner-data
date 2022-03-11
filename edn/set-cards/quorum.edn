@@ -1,131 +1,136 @@
-[{:card-id "sifr"
-  :code "11101"
-  :illustrator "Yog Joshi"
-  :position 101
-  :quantity 3
+[{:card-id "sifr",
+  :code "11101",
+  :illustrator "Yog Joshi",
+  :position 101,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "sunya"
-  :code "11102"
-  :flavor "Open yourself to the universe."
-  :illustrator "Lale Ann"
-  :position 102
-  :quantity 3
+ {:card-id "sunya",
+  :code "11102",
+  :flavor "Open yourself to the universe.",
+  :illustrator "Lale Ann",
+  :position 102,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "recon-drone"
-  :code "11103"
-  :flavor "\"A little birdie told me...\" -Khan"
-  :illustrator "Matt Zeilinger"
-  :position 103
-  :quantity 3
+ {:card-id "recon-drone",
+  :code "11103",
+  :flavor "\"A little birdie told me...\" -Khan",
+  :illustrator "Matt Zeilinger",
+  :position 103,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "tapwrm"
-  :code "11104"
-  :illustrator "Donald Crank"
-  :position 104
-  :quantity 3
+ {:card-id "tapwrm",
+  :code "11104",
+  :illustrator "Donald Crank",
+  :position 104,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "tracker"
-  :code "11105"
-  :flavor "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan"
-  :illustrator "Alexandr Elichev"
-  :position 105
-  :quantity 3
+ {:card-id "tracker",
+  :code "11105",
+  :flavor
+    "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan",
+  :illustrator "Alexandr Elichev",
+  :position 105,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "aaron-marron"
-  :code "11106"
-  :flavor "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\""
-  :illustrator "Aurore Folny"
-  :position 106
-  :quantity 3
+ {:card-id "aaron-marron",
+  :code "11106",
+  :flavor
+    "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\"",
+  :illustrator "Aurore Folny",
+  :position 106,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "encore"
-  :code "11107"
-  :illustrator "Aurore Folny"
-  :position 107
-  :quantity 3
+ {:card-id "encore",
+  :code "11107",
+  :illustrator "Aurore Folny",
+  :position 107,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "fawkes"
-  :code "11108"
-  :flavor "Faster than the eye can follow."
-  :illustrator "Shawn Ye Zhongyi"
-  :position 108
-  :quantity 3
+ {:card-id "fawkes",
+  :code "11108",
+  :flavor "Faster than the eye can follow.",
+  :illustrator "Shawn Ye Zhongyi",
+  :position 108,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "peace-in-our-time"
-  :code "11109"
-  :illustrator "Alexandr Elichev"
-  :position 109
-  :quantity 3
+ {:card-id "peace-in-our-time",
+  :code "11109",
+  :illustrator "Alexandr Elichev",
+  :position 109,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "sensor-net-activation"
-  :code "11110"
-  :illustrator "Samuel Leung"
-  :position 110
-  :quantity 3
+ {:card-id "sensor-net-activation",
+  :code "11110",
+  :illustrator "Samuel Leung",
+  :position 110,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "violet-level-clearance"
-  :code "11111"
-  :flavor "It required a hexadecimal code along with biometrics, delivered by way of BMI."
-  :illustrator "Andreas Zafiratos"
-  :position 111
-  :quantity 3
+ {:card-id "violet-level-clearance",
+  :code "11111",
+  :flavor
+    "It required a hexadecimal code along with biometrics, delivered by way of BMI.",
+  :illustrator "Andreas Zafiratos",
+  :position 111,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "chiyashi"
-  :code "11112"
-  :flavor "\"Ice is not meant to kill; just slow or cripple the Runner. Killing is my job.\" - Tori Hanzō"
-  :illustrator "Yog Joshi"
-  :position 112
-  :quantity 3
+ {:card-id "chiyashi",
+  :code "11112",
+  :flavor
+    "\"Ice is not meant to kill; just slow or cripple the Runner. Killing is my job.\" - Tori Hanzō",
+  :illustrator "Yog Joshi",
+  :position 112,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "psychokinesis"
-  :code "11113"
-  :illustrator "Dmitry Burmak"
-  :position 113
-  :quantity 3
+ {:card-id "psychokinesis",
+  :code "11113",
+  :illustrator "Dmitry Burmak",
+  :position 113,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "net-quarantine"
-  :code "11114"
-  :illustrator "Yog Joshi"
-  :position 114
-  :quantity 3
+ {:card-id "net-quarantine",
+  :code "11114",
+  :illustrator "Yog Joshi",
+  :position 114,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "herald"
-  :code "11115"
-  :illustrator "Adam S. Doyle"
-  :position 115
-  :quantity 3
+ {:card-id "herald",
+  :code "11115",
+  :illustrator "Adam S. Doyle",
+  :position 115,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "veritas"
-  :code "11116"
-  :flavor "The truth hurts."
-  :illustrator "Liiga Smilshkalne"
-  :position 116
-  :quantity 3
+ {:card-id "veritas",
+  :code "11116",
+  :flavor "The truth hurts.",
+  :illustrator "Liiga Smilshkalne",
+  :position 116,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "bryan-stinson"
-  :code "11117"
-  :flavor "\"My job? I provide legal exculpation and sign everything. It pays very well.\""
-  :illustrator "Priscilla Kim"
-  :position 117
-  :quantity 3
+ {:card-id "bryan-stinson",
+  :code "11117",
+  :flavor
+    "\"My job? I provide legal exculpation and sign everything. It pays very well.\"",
+  :illustrator "Priscilla Kim",
+  :position 117,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "nasx"
-  :code "11118"
-  :illustrator "Emilio Rodriguez"
-  :position 118
-  :quantity 3
+ {:card-id "nasx",
+  :code "11118",
+  :illustrator "Emilio Rodriguez",
+  :position 118,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "macrophage"
-  :code "11119"
-  :flavor "One way to get rid of a virus is to get a nastier virus."
-  :illustrator "Mariusz Siergiejew"
-  :position 119
-  :quantity 3
+ {:card-id "macrophage",
+  :code "11119",
+  :flavor "One way to get rid of a virus is to get a nastier virus.",
+  :illustrator "Mariusz Siergiejew",
+  :position 119,
+  :quantity 3,
   :set-id "quorum"}
- {:card-id "tribunal"
-  :code "11120"
-  :flavor "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\""
-  :illustrator "Odera Igbokwe"
-  :position 120
-  :quantity 3
+ {:card-id "tribunal",
+  :code "11120",
+  :flavor "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\"",
+  :illustrator "Odera Igbokwe",
+  :position 120,
+  :quantity 3,
   :set-id "quorum"}]

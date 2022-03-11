@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "diwan"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :stripped-text "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1 credit. When the Corp purges virus counters, trash this program."
- :stripped-title "Diwan"
- :subtype [:virus]
- :text "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1[credit].\nWhen the Corp purges virus counters, trash this program."
- :title "Diwan"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "diwan",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1 credit. When the Corp purges virus counters, trash this program.",
+ :stripped-title "Diwan",
+ :subtype [:virus],
+ :text
+   "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1[credit].\nWhen the Corp purges virus counters, trash this program.",
+ :title "Diwan",
+ :type :program,
  :uniqueness false}

@@ -1,13 +1,13 @@
-{:cost 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "green-level-clearance"
- :influence-cost 1
- :side :corp
- :stripped-text "Gain 3 credits and draw 1 card."
- :stripped-title "Green Level Clearance"
- :subtype [:transaction]
- :text "Gain 3[credit] and draw 1 card."
- :title "Green Level Clearance"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "green-level-clearance",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text "Gain 3 credits and draw 1 card.",
+ :stripped-title "Green Level Clearance",
+ :subtype [:transaction],
+ :text "Gain 3[credit] and draw 1 card.",
+ :title "Green Level Clearance",
+ :type :operation,
  :uniqueness false}

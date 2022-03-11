@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :anarch
- :id "isolation"
- :influence-cost 1
- :side :runner
- :stripped-text "As an additional cost to play this event, trash an installed resource. Gain 7 credits."
- :stripped-title "Isolation"
- :text "As an additional cost to play this event, trash an installed resource.\nGain 7[credit]."
- :title "Isolation"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "isolation",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, trash an installed resource. Gain 7 credits.",
+ :stripped-title "Isolation",
+ :text
+   "As an additional cost to play this event, trash an installed resource.\nGain 7[credit].",
+ :title "Isolation",
+ :type :event,
  :uniqueness false}

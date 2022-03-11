@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-corp
- :id "galahad"
- :influence-cost 1
- :side :corp
- :strength 1
- :stripped-text "When the Runner encounters Galahad, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice. Subroutine End the run."
- :stripped-title "Galahad"
- :subtype [:barrier :grail]
- :text "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] End the run."
- :title "Galahad"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "galahad",
+ :influence-cost 1,
+ :side :corp,
+ :strength 1,
+ :stripped-text
+   "When the Runner encounters Galahad, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice. Subroutine End the run.",
+ :stripped-title "Galahad",
+ :subtype [:barrier :grail],
+ :text
+   "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] End the run.",
+ :title "Galahad",
+ :type :ice,
  :uniqueness false}

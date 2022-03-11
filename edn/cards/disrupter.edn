@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "disrupter"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :stripped-text "Interrupt -> trash: Reduce the base trace strength of a trace to 0. Errata from CR 1.4"
- :stripped-title "Disrupter"
- :text "[interrupt] → [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>"
- :title "Disrupter"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "disrupter",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Interrupt -> trash: Reduce the base trace strength of a trace to 0. Errata from CR 1.4",
+ :stripped-title "Disrupter",
+ :text
+   "[interrupt] → [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>",
+ :title "Disrupter",
+ :type :program,
  :uniqueness false}

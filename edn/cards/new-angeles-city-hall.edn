@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :neutral-runner
- :id "new-angeles-city-hall"
- :influence-cost 0
- :side :runner
- :stripped-text "2 credits: Avoid 1 tag. Trash New Angeles City Hall when you steal an agenda."
- :stripped-title "New Angeles City Hall"
- :subtype [:location :government]
- :text "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda."
- :title "New Angeles City Hall"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "new-angeles-city-hall",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "2 credits: Avoid 1 tag. Trash New Angeles City Hall when you steal an agenda.",
+ :stripped-title "New Angeles City Hall",
+ :subtype [:location :government],
+ :text
+   "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda.",
+ :title "New Angeles City Hall",
+ :type :resource,
  :uniqueness true}

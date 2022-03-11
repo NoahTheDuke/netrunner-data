@@ -1,14 +1,16 @@
-{:cost 7
- :deck-limit 3
- :faction :haas-bioroid
- :id "holmegaard"
- :influence-cost 2
- :side :corp
- :strength 5
- :stripped-text "Subroutine Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run. Subroutine Trash 1 installed icebreaker."
- :stripped-title "Holmegaard"
- :subtype [:sentry :tracer :destroyer]
- :text "[subroutine] Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.\n[subroutine] Trash 1 installed <strong>icebreaker</strong>."
- :title "Holmegaard"
- :type :ice
+{:cost 7,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "holmegaard",
+ :influence-cost 2,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Subroutine Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run. Subroutine Trash 1 installed icebreaker.",
+ :stripped-title "Holmegaard",
+ :subtype [:sentry :tracer :destroyer],
+ :text
+   "[subroutine] Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.\n[subroutine] Trash 1 installed <strong>icebreaker</strong>.",
+ :title "Holmegaard",
+ :type :ice,
  :uniqueness false}

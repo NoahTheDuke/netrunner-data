@@ -1,13 +1,13 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "freelancer"
- :influence-cost 0
- :side :corp
- :stripped-text "Play only if the Runner is tagged. Trash up to 2 resources."
- :stripped-title "Freelancer"
- :subtype [:gray-ops]
- :text "Play only if the Runner is tagged.\nTrash up to 2 resources."
- :title "Freelancer"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "freelancer",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text "Play only if the Runner is tagged. Trash up to 2 resources.",
+ :stripped-title "Freelancer",
+ :subtype [:gray-ops],
+ :text "Play only if the Runner is tagged.\nTrash up to 2 resources.",
+ :title "Freelancer",
+ :type :operation,
  :uniqueness false}

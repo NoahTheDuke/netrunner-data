@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :haas-bioroid
- :id "fenris"
- :influence-cost 2
- :side :corp
- :strength 2
- :stripped-text "When you rez Fenris, take 1 bad publicity. Subroutine Do 1 brain damage. Subroutine End the run."
- :stripped-title "Fenris"
- :subtype [:sentry :ap :illicit]
- :text "When you rez Fenris, take 1 bad publicity.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run."
- :title "Fenris"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "fenris",
+ :influence-cost 2,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "When you rez Fenris, take 1 bad publicity. Subroutine Do 1 brain damage. Subroutine End the run.",
+ :stripped-title "Fenris",
+ :subtype [:sentry :ap :illicit],
+ :text
+   "When you rez Fenris, take 1 bad publicity.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
+ :title "Fenris",
+ :type :ice,
  :uniqueness false}

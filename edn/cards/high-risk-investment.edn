@@ -1,13 +1,15 @@
-{:advancement-requirement 5
- :agenda-points 3
- :deck-limit 3
- :faction :weyland-consortium
- :id "high-risk-investment"
- :side :corp
- :stripped-text "Place 1 agenda counter on High-Risk Investment when you score it. click, hosted agenda counter: Gain 1 credit for each credit in the Runner's credit pool."
- :stripped-title "High-Risk Investment"
- :subtype [:expansion]
- :text "Place 1 agenda counter on High-Risk Investment when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 1[credit] for each credit in the Runner's credit pool."
- :title "High-Risk Investment"
- :type :agenda
+{:advancement-requirement 5,
+ :agenda-points 3,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "high-risk-investment",
+ :side :corp,
+ :stripped-text
+   "Place 1 agenda counter on High-Risk Investment when you score it. click, hosted agenda counter: Gain 1 credit for each credit in the Runner's credit pool.",
+ :stripped-title "High-Risk Investment",
+ :subtype [:expansion],
+ :text
+   "Place 1 agenda counter on High-Risk Investment when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 1[credit] for each credit in the Runner's credit pool.",
+ :title "High-Risk Investment",
+ :type :agenda,
  :uniqueness false}

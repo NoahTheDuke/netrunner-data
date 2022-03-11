@@ -1,14 +1,16 @@
-{:advancement-requirement 3
- :agenda-points 2
- :deck-limit 3
- :faction :neutral-corp
- :id "evidence-collection-3"
- :influence-cost 0
- :side :corp
- :stripped-text "When you win a game with Evidence Collection in your score area, reveal set 8."
- :stripped-title "Evidence Collection 3"
- :subtype [:research]
- :text "When you win a game with Evidence Collection in your score area, reveal set 8."
- :title "Evidence Collection 3"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "evidence-collection-3",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "When you win a game with Evidence Collection in your score area, reveal set 8.",
+ :stripped-title "Evidence Collection 3",
+ :subtype [:research],
+ :text
+   "When you win a game with Evidence Collection in your score area, reveal set 8.",
+ :title "Evidence Collection 3",
+ :type :agenda,
  :uniqueness false}

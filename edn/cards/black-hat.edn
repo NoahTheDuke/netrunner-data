@@ -1,12 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :sunny-lebeau
- :id "black-hat"
- :influence-cost 5
- :side :runner
- :stripped-text "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D."
- :stripped-title "Black Hat"
- :text "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D."
- :title "Black Hat"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :sunny-lebeau,
+ :id "black-hat",
+ :influence-cost 5,
+ :side :runner,
+ :stripped-text
+   "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
+ :stripped-title "Black Hat",
+ :text
+   "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
+ :title "Black Hat",
+ :type :event,
  :uniqueness false}

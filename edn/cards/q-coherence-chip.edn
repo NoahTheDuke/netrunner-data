@@ -1,13 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "q-coherence-chip"
- :influence-cost 0
- :side :runner
- :stripped-text "+1 mu When an installed program is trashed, trash this hardware."
- :stripped-title "Q-Coherence Chip"
- :subtype [:chip]
- :text "+1[mu]\nWhen an installed program is trashed, trash this hardware."
- :title "Q-Coherence Chip"
- :type :hardware
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "q-coherence-chip",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "+1 mu When an installed program is trashed, trash this hardware.",
+ :stripped-title "Q-Coherence Chip",
+ :subtype [:chip],
+ :text "+1[mu]\nWhen an installed program is trashed, trash this hardware.",
+ :title "Q-Coherence Chip",
+ :type :hardware,
  :uniqueness false}

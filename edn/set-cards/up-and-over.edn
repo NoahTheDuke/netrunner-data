@@ -1,134 +1,141 @@
-[{:card-id "architect"
-  :code "06061"
-  :flavor "<champion>Designed by 2012 World Champion Jeremy Zwirn</champion>"
-  :illustrator "Samuel R. Shimota"
-  :position 61
-  :quantity 3
+[{:card-id "architect",
+  :code "06061",
+  :flavor "<champion>Designed by 2012 World Champion Jeremy Zwirn</champion>",
+  :illustrator "Samuel R. Shimota",
+  :position 61,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "peak-efficiency"
-  :code "06062"
-  :flavor "\"Servers fully-armed and operational.\""
-  :illustrator "Adam S. Doyle"
-  :position 62
-  :quantity 3
+ {:card-id "peak-efficiency",
+  :code "06062",
+  :flavor "\"Servers fully-armed and operational.\"",
+  :illustrator "Adam S. Doyle",
+  :position 62,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "labyrinthine-servers"
-  :code "06063"
-  :illustrator "Lili Ibrahim"
-  :position 63
-  :quantity 3
+ {:card-id "labyrinthine-servers",
+  :code "06063",
+  :illustrator "Lili Ibrahim",
+  :position 63,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "ashigaru"
-  :code "06064"
-  :flavor "The way past is to go a different way."
-  :illustrator "Chris Newman"
-  :position 64
-  :quantity 3
+ {:card-id "ashigaru",
+  :code "06064",
+  :flavor "The way past is to go a different way.",
+  :illustrator "Chris Newman",
+  :position 64,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "mamba"
-  :code "06065"
-  :illustrator "Eko Puteh"
-  :position 65
-  :quantity 3
+ {:card-id "mamba",
+  :code "06065",
+  :illustrator "Eko Puteh",
+  :position 65,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "reversed-accounts"
-  :code "06066"
-  :flavor "Making a name for yourself has its perks. But it also makes you a target."
-  :illustrator "Antonio De Luca"
-  :position 66
-  :quantity 3
+ {:card-id "reversed-accounts",
+  :code "06066",
+  :flavor
+    "Making a name for yourself has its perks. But it also makes you a target.",
+  :illustrator "Antonio De Luca",
+  :position 66,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "universal-connectivity-fee"
-  :code "06067"
-  :flavor "\"It's a small one-time fee, apparently. Only I've paid it seventeen times.\""
-  :illustrator "Ed Mattinian"
-  :position 67
-  :quantity 3
+ {:card-id "universal-connectivity-fee",
+  :code "06067",
+  :flavor
+    "\"It's a small one-time fee, apparently. Only I've paid it seventeen times.\"",
+  :illustrator "Ed Mattinian",
+  :position 67,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "blue-sun-powering-the-future"
-  :code "06068"
-  :flavor "Unlimited Energy. Reasonable Prices."
-  :illustrator "Emilio Rodriguez"
-  :position 68
-  :quantity 3
+ {:card-id "blue-sun-powering-the-future",
+  :code "06068",
+  :flavor "Unlimited Energy. Reasonable Prices.",
+  :illustrator "Emilio Rodriguez",
+  :position 68,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "changeling"
-  :code "06069"
-  :illustrator "Wylie Beckert"
-  :position 69
-  :quantity 3
+ {:card-id "changeling",
+  :code "06069",
+  :illustrator "Wylie Beckert",
+  :position 69,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "reuse"
-  :code "06070"
-  :flavor "If the clones were nervous about living in a repurposed fuel tank, they never mentioned it."
-  :illustrator "Yip Lee"
-  :position 70
-  :quantity 3
+ {:card-id "reuse",
+  :code "06070",
+  :flavor
+    "If the clones were nervous about living in a repurposed fuel tank, they never mentioned it.",
+  :illustrator "Yip Lee",
+  :position 70,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "hades-fragment"
-  :code "06071"
-  :illustrator "Seage"
-  :position 71
-  :quantity 3
+ {:card-id "hades-fragment",
+  :code "06071",
+  :illustrator "Seage",
+  :position 71,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "docklands-crackdown"
-  :code "06072"
-  :illustrator "Alex Kim"
-  :position 72
-  :quantity 3
+ {:card-id "docklands-crackdown",
+  :code "06072",
+  :illustrator "Alex Kim",
+  :position 72,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "inject"
-  :code "06073"
-  :flavor "\"Knowledge comes in many different shapes and sizes.\" -Quetzal"
-  :illustrator "Ralph Beisner"
-  :position 73
-  :quantity 3
+ {:card-id "inject",
+  :code "06073",
+  :flavor "\"Knowledge comes in many different shapes and sizes.\" -Quetzal",
+  :illustrator "Ralph Beisner",
+  :position 73,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "origami"
-  :code "06074"
-  :flavor "The earliest instances of data folding were inspired by the traditional art of origami. Just as a crease pattern is the blueprint of a paper crane, there is a sequence to data that must be considered in order to achieve the greatest result."
-  :illustrator "Adam S. Doyle"
-  :position 74
-  :quantity 3
+ {:card-id "origami",
+  :code "06074",
+  :flavor
+    "The earliest instances of data folding were inspired by the traditional art of origami. Just as a crease pattern is the blueprint of a paper crane, there is a sequence to data that must be considered in order to achieve the greatest result.",
+  :illustrator "Adam S. Doyle",
+  :position 74,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "fester"
-  :code "06075"
-  :flavor "\"You should have known better than to scratch it…\" -Quetzal"
-  :illustrator "Adam S. Doyle"
-  :position 75
-  :quantity 3
+ {:card-id "fester",
+  :code "06075",
+  :flavor "\"You should have known better than to scratch it…\" -Quetzal",
+  :illustrator "Adam S. Doyle",
+  :position 75,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "autoscripter"
-  :code "06076"
-  :flavor "It practically runs itself, unless you're in a pinch."
-  :illustrator "Lucas Durham"
-  :position 76
-  :quantity 3
+ {:card-id "autoscripter",
+  :code "06076",
+  :flavor "It practically runs itself, unless you're in a pinch.",
+  :illustrator "Lucas Durham",
+  :position 76,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "switchblade"
-  :code "06077"
-  :flavor "Small. Compact. Easy to slip by monitoring programs and it can do some damage."
-  :illustrator "Chris Newman"
-  :position 77
-  :quantity 3
+ {:card-id "switchblade",
+  :code "06077",
+  :flavor
+    "Small. Compact. Easy to slip by monitoring programs and it can do some damage.",
+  :illustrator "Chris Newman",
+  :position 77,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "trade-in"
-  :code "06078"
-  :illustrator "Ralph Beisner"
-  :position 78
-  :quantity 3
+ {:card-id "trade-in",
+  :code "06078",
+  :illustrator "Ralph Beisner",
+  :position 78,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "astrolabe"
-  :code "06079"
-  :flavor "\"There is no better tool for charting the empty spaces of the net.\" -Nasir Meidan"
-  :illustrator "Gong Studios"
-  :position 79
-  :quantity 3
+ {:card-id "astrolabe",
+  :code "06079",
+  :flavor
+    "\"There is no better tool for charting the empty spaces of the net.\" -Nasir Meidan",
+  :illustrator "Gong Studios",
+  :position 79,
+  :quantity 3,
   :set-id "up-and-over"}
- {:card-id "angel-arena"
-  :code "06080"
-  :flavor "\"Low gravity sports are wildly popular, so match-fixing has proven wildly profitable.\" -Leela Patel"
-  :illustrator "Emilio Rodriguez"
-  :position 80
-  :quantity 3
+ {:card-id "angel-arena",
+  :code "06080",
+  :flavor
+    "\"Low gravity sports are wildly popular, so match-fixing has proven wildly profitable.\" -Leela Patel",
+  :illustrator "Emilio Rodriguez",
+  :position 80,
+  :quantity 3,
   :set-id "up-and-over"}]

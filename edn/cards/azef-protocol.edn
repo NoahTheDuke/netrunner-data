@@ -1,0 +1,15 @@
+{:advancement-requirement 3,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "azef-protocol",
+ :side :corp,
+ :stripped-text
+   "As an additional cost to score this agenda, trash 1 of your other installed cards. When you score this agenda, do 2 meat damage.",
+ :stripped-title "Azef Protocol",
+ :subtype [:security],
+ :text
+   "As an additional cost to score this agenda, trash 1 of your other installed cards.\nWhen you score this agenda, do 2 meat damage.",
+ :title "Azef Protocol",
+ :type :agenda,
+ :uniqueness false}

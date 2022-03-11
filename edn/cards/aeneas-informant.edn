@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "aeneas-informant"
- :influence-cost 1
- :side :runner
- :stripped-text "Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1 credit."
- :stripped-title "Aeneas Informant"
- :subtype [:connection]
- :text "Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1[credit]."
- :title "Aeneas Informant"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "aeneas-informant",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1 credit.",
+ :stripped-title "Aeneas Informant",
+ :subtype [:connection],
+ :text
+   "Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1[credit].",
+ :title "Aeneas Informant",
+ :type :resource,
  :uniqueness false}

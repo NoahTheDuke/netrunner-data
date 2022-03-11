@@ -1,12 +1,14 @@
-{:advancement-requirement 2
- :agenda-points 0
- :deck-limit 3
- :faction :weyland-consortium
- :id "standoff"
- :side :corp
- :stripped-text "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5 credits. Otherwise, you may trash 1 of your installed cards to repeat this process."
- :stripped-title "Standoff"
- :text "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5[credit]. Otherwise, you may trash 1 of your installed cards to repeat this process."
- :title "Standoff"
- :type :agenda
+{:advancement-requirement 2,
+ :agenda-points 0,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "standoff",
+ :side :corp,
+ :stripped-text
+   "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5 credits. Otherwise, you may trash 1 of your installed cards to repeat this process.",
+ :stripped-title "Standoff",
+ :text
+   "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5[credit]. Otherwise, you may trash 1 of your installed cards to repeat this process.",
+ :title "Standoff",
+ :type :agenda,
  :uniqueness false}

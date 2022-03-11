@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "bioroid-work-crew"
- :influence-cost 4
- :side :corp
- :stripped-text "trash: Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation."
- :stripped-title "Bioroid Work Crew"
- :subtype [:bioroid]
- :text "<strong>[trash]:</strong> Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation."
- :title "Bioroid Work Crew"
- :trash-cost 4
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "bioroid-work-crew",
+ :influence-cost 4,
+ :side :corp,
+ :stripped-text
+   "trash: Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation.",
+ :stripped-title "Bioroid Work Crew",
+ :subtype [:bioroid],
+ :text
+   "<strong>[trash]:</strong> Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation.",
+ :title "Bioroid Work Crew",
+ :trash-cost 4,
+ :type :asset,
  :uniqueness false}

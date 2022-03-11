@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "rime"
- :influence-cost 0
- :side :corp
- :strength 0
- :stripped-text "During runs on this server, you can rez this ice any time you could rez non-ice cards. Each piece of ice protecting this server has +1 strength. Subroutine The Runner loses 1 credit."
- :stripped-title "Rime"
- :subtype [:mythic]
- :text "During runs on this server, you can rez this ice any time you could rez non-ice cards.\nEach piece of ice protecting this server has +1 strength.\n[subroutine] The Runner loses 1[credit]."
- :title "Rime"
- :type :ice
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "rime",
+ :influence-cost 0,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "During runs on this server, you can rez this ice any time you could rez non-ice cards. Each piece of ice protecting this server has +1 strength. Subroutine The Runner loses 1 credit.",
+ :stripped-title "Rime",
+ :subtype [:mythic],
+ :text
+   "During runs on this server, you can rez this ice any time you could rez non-ice cards.\nEach piece of ice protecting this server has +1 strength.\n[subroutine] The Runner loses 1[credit].",
+ :title "Rime",
+ :type :ice,
  :uniqueness false}

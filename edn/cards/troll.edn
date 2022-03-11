@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :nbn
- :id "troll"
- :influence-cost 2
- :side :corp
- :strength 3
- :stripped-text "When the Runner encounters Troll, trace 2 if successful, the Runner must lose click or end the run."
- :stripped-title "Troll"
- :subtype [:sentry]
- :text "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [click] or end the run."
- :title "Troll"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "troll",
+ :influence-cost 2,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "When the Runner encounters Troll, trace 2 if successful, the Runner must lose click or end the run.",
+ :stripped-title "Troll",
+ :subtype [:sentry],
+ :text
+   "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [click] or end the run.",
+ :title "Troll",
+ :type :ice,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 8
- :deck-limit 3
- :faction :haas-bioroid
- :id "next-gold"
- :influence-cost 3
- :side :corp
- :strength 4
- :stripped-text "X is the number of rezzed NEXT ice. Subroutine Do X net damage. Subroutine Trash X programs."
- :stripped-title "NEXT Gold"
- :subtype [:sentry :next :ap :destroyer]
- :text "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Do X net damage.\n[subroutine] Trash X programs."
- :title "NEXT Gold"
- :type :ice
+{:cost 8,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "next-gold",
+ :influence-cost 3,
+ :side :corp,
+ :strength 4,
+ :stripped-text
+   "X is the number of rezzed NEXT ice. Subroutine Do X net damage. Subroutine Trash X programs.",
+ :stripped-title "NEXT Gold",
+ :subtype [:sentry :next :ap :destroyer],
+ :text
+   "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Do X net damage.\n[subroutine] Trash X programs.",
+ :title "NEXT Gold",
+ :type :ice,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "adjusted-matrix"
- :influence-cost 2
- :side :runner
- :stripped-text "Install only on an icebreaker. Host icebreaker gains AI and \"Interface -> Lose click: Break 1 subroutine.\""
- :stripped-title "Adjusted Matrix"
- :subtype [:mod]
- :text "Install only on an <strong>icebreaker</strong>.\nHost <strong>icebreaker</strong> gains <strong>AI</strong> and \"Interface → <strong>Lose [click]:</strong> Break 1 subroutine.\""
- :title "Adjusted Matrix"
- :type :hardware
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "adjusted-matrix",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Install only on an icebreaker. Host icebreaker gains AI and \"Interface -> Lose click: Break 1 subroutine.\"",
+ :stripped-title "Adjusted Matrix",
+ :subtype [:mod],
+ :text
+   "Install only on an <strong>icebreaker</strong>.\nHost <strong>icebreaker</strong> gains <strong>AI</strong> and \"Interface → <strong>Lose [click]:</strong> Break 1 subroutine.\"",
+ :title "Adjusted Matrix",
+ :type :hardware,
  :uniqueness false}

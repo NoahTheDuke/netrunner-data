@@ -1,13 +1,15 @@
-{:cost 3
- :deck-limit 3
- :faction :shaper
- :id "escher"
- :influence-cost 5
- :side :runner
- :stripped-text "Run HQ. If successful, instead of breaching HQ, rearrange any number of ice protecting all servers. (Do not rez or derez any ice or change the number of ice protecting any server.)"
- :stripped-title "Escher"
- :subtype [:run]
- :text "Run HQ. If successful, instead of breaching HQ, rearrange any number of ice protecting all servers. <em>(Do not rez or derez any ice or change the number of ice protecting any server.)</em>"
- :title "Escher"
- :type :event
+{:cost 3,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "escher",
+ :influence-cost 5,
+ :side :runner,
+ :stripped-text
+   "Run HQ. If successful, instead of breaching HQ, rearrange any number of ice protecting all servers. (Do not rez or derez any ice or change the number of ice protecting any server.)",
+ :stripped-title "Escher",
+ :subtype [:run],
+ :text
+   "Run HQ. If successful, instead of breaching HQ, rearrange any number of ice protecting all servers. <em>(Do not rez or derez any ice or change the number of ice protecting any server.)</em>",
+ :title "Escher",
+ :type :event,
  :uniqueness false}

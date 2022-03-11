@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :jinteki
- :id "hokusai-grid"
- :influence-cost 2
- :side :corp
- :stripped-text "Whenever the Runner makes a successful run on this server, do 1 net damage. Limit 1 region per server."
- :stripped-title "Hokusai Grid"
- :subtype [:region]
- :text "Whenever the Runner makes a successful run on this server, do 1 net damage.\nLimit 1 <strong>region</strong> per server."
- :title "Hokusai Grid"
- :trash-cost 4
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "hokusai-grid",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Whenever the Runner makes a successful run on this server, do 1 net damage. Limit 1 region per server.",
+ :stripped-title "Hokusai Grid",
+ :subtype [:region],
+ :text
+   "Whenever the Runner makes a successful run on this server, do 1 net damage.\nLimit 1 <strong>region</strong> per server.",
+ :title "Hokusai Grid",
+ :trash-cost 4,
+ :type :upgrade,
  :uniqueness false}

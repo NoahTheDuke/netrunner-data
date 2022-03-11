@@ -1,13 +1,15 @@
-{:cost 8
- :deck-limit 3
- :faction :neutral-corp
- :id "ipo"
- :influence-cost 0
- :side :corp
- :stripped-text "After you resolve this operation, end your action phase. Gain 13 credits."
- :stripped-title "IPO"
- :subtype [:terminal :transaction]
- :text "After you resolve this operation, end your action phase.\nGain 13[credit]."
- :title "IPO"
- :type :operation
+{:cost 8,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "ipo",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text
+   "After you resolve this operation, end your action phase. Gain 13 credits.",
+ :stripped-title "IPO",
+ :subtype [:terminal :transaction],
+ :text
+   "After you resolve this operation, end your action phase.\nGain 13[credit].",
+ :title "IPO",
+ :type :operation,
  :uniqueness false}

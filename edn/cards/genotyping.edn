@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :jinteki
- :id "genotyping"
- :influence-cost 2
- :side :corp
- :stripped-text "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it."
- :stripped-title "Genotyping"
- :text "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it."
- :title "Genotyping"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "genotyping",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it.",
+ :stripped-title "Genotyping",
+ :text
+   "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it.",
+ :title "Genotyping",
+ :type :operation,
  :uniqueness false}

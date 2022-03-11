@@ -1,12 +1,13 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "motivation"
- :influence-cost 1
- :side :runner
- :stripped-text "When your turn begins, you may look at the top card of your stack."
- :stripped-title "Motivation"
- :text "When your turn begins, you may look at the top card of your stack."
- :title "Motivation"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "motivation",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "When your turn begins, you may look at the top card of your stack.",
+ :stripped-title "Motivation",
+ :text "When your turn begins, you may look at the top card of your stack.",
+ :title "Motivation",
+ :type :resource,
  :uniqueness false}

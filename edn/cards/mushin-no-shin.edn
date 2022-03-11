@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "mushin-no-shin"
- :influence-cost 2
- :side :corp
- :stripped-text "As an additional cost to play this operation, spend click. Install 1 asset, agenda, or upgrade from HQ in the root of a new server. Place 3 advancement counters on that card. You cannot score or rez that card until your next turn begins."
- :stripped-title "Mushin No Shin"
- :subtype [:double]
- :text "As an additional cost to play this operation, spend [click].\nInstall 1 asset, agenda, or upgrade from HQ in the root of a new server. Place 3 advancement counters on that card. You cannot score or rez that card until your next turn begins."
- :title "Mushin No Shin"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "mushin-no-shin",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play this operation, spend click. Install 1 asset, agenda, or upgrade from HQ in the root of a new server. Place 3 advancement counters on that card. You cannot score or rez that card until your next turn begins.",
+ :stripped-title "Mushin No Shin",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this operation, spend [click].\nInstall 1 asset, agenda, or upgrade from HQ in the root of a new server. Place 3 advancement counters on that card. You cannot score or rez that card until your next turn begins.",
+ :title "Mushin No Shin",
+ :type :operation,
  :uniqueness false}

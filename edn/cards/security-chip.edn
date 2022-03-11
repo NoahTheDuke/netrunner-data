@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :sunny-lebeau
- :id "security-chip"
- :influence-cost 1
- :side :runner
- :stripped-text "trash: Choose an icebreaker (or any number of cloud icebreakers). Each chosen icebreaker has +1 strength for each link you have for the remainder of this run. Use this ability only during a run."
- :stripped-title "Security Chip"
- :subtype [:chip]
- :text "[trash]: Choose an <strong>icebreaker</strong> (or any number of <strong>cloud icebreakers</strong>). Each chosen <strong>icebreaker</strong> has +1 strength for each [link] you have for the remainder of this run. Use this ability only during a run."
- :title "Security Chip"
- :type :hardware
+{:cost 0,
+ :deck-limit 3,
+ :faction :sunny-lebeau,
+ :id "security-chip",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "trash: Choose an icebreaker (or any number of cloud icebreakers). Each chosen icebreaker has +1 strength for each link you have for the remainder of this run. Use this ability only during a run.",
+ :stripped-title "Security Chip",
+ :subtype [:chip],
+ :text
+   "[trash]: Choose an <strong>icebreaker</strong> (or any number of <strong>cloud icebreakers</strong>). Each chosen <strong>icebreaker</strong> has +1 strength for each [link] you have for the remainder of this run. Use this ability only during a run.",
+ :title "Security Chip",
+ :type :hardware,
  :uniqueness false}

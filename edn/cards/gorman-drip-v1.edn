@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "gorman-drip-v1"
- :influence-cost 1
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever the Corp spends a click to draw 1 card or gain 1 credit (not through a card ability), place 1 virus counter on Gorman Drip v1. click, trash: Gain 1 credit for each virus counter on Gorman Drip v1."
- :stripped-title "Gorman Drip v1"
- :subtype [:virus]
- :text "Whenever the Corp spends a [click] to draw 1 card or gain 1[credit] (not through a card ability), place 1 virus counter on Gorman Drip v1.\n[click], [trash]: Gain 1[credit] for each virus counter on Gorman Drip v1."
- :title "Gorman Drip v1"
- :type :program
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "gorman-drip-v1",
+ :influence-cost 1,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever the Corp spends a click to draw 1 card or gain 1 credit (not through a card ability), place 1 virus counter on Gorman Drip v1. click, trash: Gain 1 credit for each virus counter on Gorman Drip v1.",
+ :stripped-title "Gorman Drip v1",
+ :subtype [:virus],
+ :text
+   "Whenever the Corp spends a [click] to draw 1 card or gain 1[credit] (not through a card ability), place 1 virus counter on Gorman Drip v1.\n[click], [trash]: Gain 1[credit] for each virus counter on Gorman Drip v1.",
+ :title "Gorman Drip v1",
+ :type :program,
  :uniqueness false}

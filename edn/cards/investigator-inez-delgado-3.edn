@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "investigator-inez-delgado-3"
- :influence-cost 0
- :side :runner
- :stripped-text "When you win a game with Investigator Inez Delgado in your score area, reveal set 8. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ. Use this only if you have stolean an agenda this turn."
- :stripped-title "Investigator Inez Delgado 3"
- :subtype [:connection]
- :text "When you win a game with Investigator Inez Delgado in your score area, reveal set 8.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ. Use this only if you have stolean an agenda this turn."
- :title "Investigator Inez Delgado 3"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "investigator-inez-delgado-3",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "When you win a game with Investigator Inez Delgado in your score area, reveal set 8. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ. Use this only if you have stolean an agenda this turn.",
+ :stripped-title "Investigator Inez Delgado 3",
+ :subtype [:connection],
+ :text
+   "When you win a game with Investigator Inez Delgado in your score area, reveal set 8.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ. Use this only if you have stolean an agenda this turn.",
+ :title "Investigator Inez Delgado 3",
+ :type :resource,
  :uniqueness true}

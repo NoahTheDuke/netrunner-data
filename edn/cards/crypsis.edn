@@ -1,15 +1,17 @@
-{:cost 5
- :deck-limit 3
- :faction :neutral-runner
- :id "crypsis"
- :influence-cost 0
- :memory-cost 1
- :side :runner
- :strength 0
- :stripped-text "Interface -> 1 credit: Break 1 subroutine. 1 credit: +1 strength. click: Place 1 virus counter on this program. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program."
- :stripped-title "Crypsis"
- :subtype [:icebreaker :ai :virus]
- :text "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\n<strong>[click]:</strong> Place 1 virus counter on this program.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program."
- :title "Crypsis"
- :type :program
+{:cost 5,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "crypsis",
+ :influence-cost 0,
+ :memory-cost 1,
+ :side :runner,
+ :strength 0,
+ :stripped-text
+   "Interface -> 1 credit: Break 1 subroutine. 1 credit: +1 strength. click: Place 1 virus counter on this program. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program.",
+ :stripped-title "Crypsis",
+ :subtype [:icebreaker :ai :virus],
+ :text
+   "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\n<strong>[click]:</strong> Place 1 virus counter on this program.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program.",
+ :title "Crypsis",
+ :type :program,
  :uniqueness false}

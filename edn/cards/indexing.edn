@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "indexing"
- :influence-cost 3
- :side :runner
- :stripped-text "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order."
- :stripped-title "Indexing"
- :subtype [:run]
- :text "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order."
- :title "Indexing"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "indexing",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
+ :stripped-title "Indexing",
+ :subtype [:run],
+ :text
+   "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
+ :title "Indexing",
+ :type :event,
  :uniqueness false}

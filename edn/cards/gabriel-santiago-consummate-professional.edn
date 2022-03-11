@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :criminal
- :id "gabriel-santiago-consummate-professional"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first time you make a successful run on HQ each turn, gain 2 credits."
- :stripped-title "Gabriel Santiago: Consummate Professional"
- :subtype [:cyborg]
- :text "The first time you make a successful run on HQ each turn, gain 2[credit]."
- :title "Gabriel Santiago: Consummate Professional"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :criminal,
+ :id "gabriel-santiago-consummate-professional",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "The first time you make a successful run on HQ each turn, gain 2 credits.",
+ :stripped-title "Gabriel Santiago: Consummate Professional",
+ :subtype [:cyborg],
+ :text
+   "The first time you make a successful run on HQ each turn, gain 2[credit].",
+ :title "Gabriel Santiago: Consummate Professional",
+ :type :identity,
  :uniqueness false}

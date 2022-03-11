@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :haas-bioroid
- :id "strategic-innovations-future-forward"
- :influence-limit nil
- :minimum-deck-size 30
- :side :corp
- :stripped-text "Draft format only. If you have more haas-bioroid cards rezzed than any other faction, when the Runner's turn ends, shuffle 1 card in Archives into R&D."
- :stripped-title "Strategic Innovations: Future Forward"
- :subtype [:division]
- :text "Draft format only.\nIf you have more [haas-bioroid] cards rezzed than any other faction, when the Runner's turn ends, shuffle 1 card in Archives into R&D."
- :title "Strategic Innovations: Future Forward"
- :type :identity
+{:deck-limit 1,
+ :faction :haas-bioroid,
+ :id "strategic-innovations-future-forward",
+ :influence-limit nil,
+ :minimum-deck-size 30,
+ :side :corp,
+ :stripped-text
+   "Draft format only. If you have more haas-bioroid cards rezzed than any other faction, when the Runner's turn ends, shuffle 1 card in Archives into R&D.",
+ :stripped-title "Strategic Innovations: Future Forward",
+ :subtype [:division],
+ :text
+   "Draft format only.\nIf you have more [haas-bioroid] cards rezzed than any other faction, when the Runner's turn ends, shuffle 1 card in Archives into R&D.",
+ :title "Strategic Innovations: Future Forward",
+ :type :identity,
  :uniqueness false}

@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "career-fair"
- :influence-cost 1
- :side :runner
- :stripped-text "Install 1 resource from your grip, paying 3 credits less."
- :stripped-title "Career Fair"
- :text "Install 1 resource from your grip, paying 3[credit] less."
- :title "Career Fair"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "career-fair",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text "Install 1 resource from your grip, paying 3 credits less.",
+ :stripped-title "Career Fair",
+ :text "Install 1 resource from your grip, paying 3[credit] less.",
+ :title "Career Fair",
+ :type :event,
  :uniqueness false}

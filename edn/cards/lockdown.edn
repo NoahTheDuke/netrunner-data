@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :jinteki
- :id "lockdown"
- :influence-cost 1
- :side :corp
- :strength 5
- :stripped-text "Subroutine The Runner cannot draw cards for the remainder of this turn."
- :stripped-title "Lockdown"
- :subtype [:code-gate]
- :text "[subroutine] The Runner cannot draw cards for the remainder of this turn."
- :title "Lockdown"
- :type :ice
+{:cost 0,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "lockdown",
+ :influence-cost 1,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Subroutine The Runner cannot draw cards for the remainder of this turn.",
+ :stripped-title "Lockdown",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] The Runner cannot draw cards for the remainder of this turn.",
+ :title "Lockdown",
+ :type :ice,
  :uniqueness false}

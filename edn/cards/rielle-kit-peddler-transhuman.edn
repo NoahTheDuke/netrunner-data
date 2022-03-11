@@ -1,14 +1,16 @@
-{:base-link 0
- :deck-limit 1
- :faction :shaper
- :id "rielle-kit-peddler-transhuman"
- :influence-limit 10
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first time each turn you encounter a piece of ice, it gains code gate for the remainder of this run."
- :stripped-title "Rielle \"Kit\" Peddler: Transhuman"
- :subtype [:cyborg]
- :text "The first time each turn you encounter a piece of ice, it gains <strong>code gate</strong> for the remainder of this run."
- :title "Rielle \"Kit\" Peddler: Transhuman"
- :type :identity
+{:base-link 0,
+ :deck-limit 1,
+ :faction :shaper,
+ :id "rielle-kit-peddler-transhuman",
+ :influence-limit 10,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "The first time each turn you encounter a piece of ice, it gains code gate for the remainder of this run.",
+ :stripped-title "Rielle \"Kit\" Peddler: Transhuman",
+ :subtype [:cyborg],
+ :text
+   "The first time each turn you encounter a piece of ice, it gains <strong>code gate</strong> for the remainder of this run.",
+ :title "Rielle \"Kit\" Peddler: Transhuman",
+ :type :identity,
  :uniqueness false}

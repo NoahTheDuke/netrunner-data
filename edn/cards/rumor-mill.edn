@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "rumor-mill"
- :influence-cost 2
- :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. The text box of each unique non-region asset and upgrade is blank."
- :stripped-title "Rumor Mill"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe text box of each unique non-<strong>region</strong> asset and upgrade is blank."
- :title "Rumor Mill"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "rumor-mill",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is scored. The text box of each unique non-region asset and upgrade is blank.",
+ :stripped-title "Rumor Mill",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe text box of each unique non-<strong>region</strong> asset and upgrade is blank.",
+ :title "Rumor Mill",
+ :type :event,
  :uniqueness false}

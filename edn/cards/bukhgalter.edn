@@ -1,15 +1,17 @@
-{:cost 3
- :deck-limit 3
- :faction :criminal
- :id "bukhgalter"
- :influence-cost 4
- :memory-cost 1
- :side :runner
- :strength 1
- :stripped-text "Interface -> 1 credit: Break 1 sentry subroutine. 1 credit: +1 strength. The first time each turn this program fully breaks a piece of ice, gain 2 credits."
- :stripped-title "Bukhgalter"
- :subtype [:icebreaker :killer]
- :text "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 2[credit]."
- :title "Bukhgalter"
- :type :program
+{:cost 3,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "bukhgalter",
+ :influence-cost 4,
+ :memory-cost 1,
+ :side :runner,
+ :strength 1,
+ :stripped-text
+   "Interface -> 1 credit: Break 1 sentry subroutine. 1 credit: +1 strength. The first time each turn this program fully breaks a piece of ice, gain 2 credits.",
+ :stripped-title "Bukhgalter",
+ :subtype [:icebreaker :killer],
+ :text
+   "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 2[credit].",
+ :title "Bukhgalter",
+ :type :program,
  :uniqueness false}

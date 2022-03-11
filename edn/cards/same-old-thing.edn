@@ -1,12 +1,14 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "same-old-thing"
- :influence-cost 0
- :side :runner
- :stripped-text "click, click, trash: Play an event from your heap (paying its play cost)."
- :stripped-title "Same Old Thing"
- :text "[click], [click], [trash]: Play an event from your heap (paying its play cost)."
- :title "Same Old Thing"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "same-old-thing",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "click, click, trash: Play an event from your heap (paying its play cost).",
+ :stripped-title "Same Old Thing",
+ :text
+   "[click], [click], [trash]: Play an event from your heap (paying its play cost).",
+ :title "Same Old Thing",
+ :type :resource,
  :uniqueness false}

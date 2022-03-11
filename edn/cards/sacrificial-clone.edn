@@ -1,12 +1,14 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "sacrificial-clone"
- :influence-cost 4
- :side :runner
- :stripped-text "trash: Prevent all damage. Trash all installed hardware, all installed non-virtual resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags."
- :stripped-title "Sacrificial Clone"
- :text "[trash]: Prevent all damage. Trash all installed hardware, all installed non-<strong>virtual</strong> resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags."
- :title "Sacrificial Clone"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "sacrificial-clone",
+ :influence-cost 4,
+ :side :runner,
+ :stripped-text
+   "trash: Prevent all damage. Trash all installed hardware, all installed non-virtual resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags.",
+ :stripped-title "Sacrificial Clone",
+ :text
+   "[trash]: Prevent all damage. Trash all installed hardware, all installed non-<strong>virtual</strong> resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags.",
+ :title "Sacrificial Clone",
+ :type :resource,
  :uniqueness false}

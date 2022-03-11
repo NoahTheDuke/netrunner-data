@@ -1,15 +1,17 @@
-{:cost 5
- :deck-limit 3
- :faction :shaper
- :id "maven"
- :influence-cost 3
- :memory-cost 2
- :side :runner
- :strength 0
- :stripped-text "This program gets +1 strength for each installed program. Interface -> 2 credits: Break 1 subroutine."
- :stripped-title "Maven"
- :subtype [:icebreaker :ai]
- :text "This program gets +1 strength for each installed program.\nInterface → <strong>2[credit]:</strong> Break 1 subroutine."
- :title "Maven"
- :type :program
+{:cost 5,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "maven",
+ :influence-cost 3,
+ :memory-cost 2,
+ :side :runner,
+ :strength 0,
+ :stripped-text
+   "This program gets +1 strength for each installed program. Interface -> 2 credits: Break 1 subroutine.",
+ :stripped-title "Maven",
+ :subtype [:icebreaker :ai],
+ :text
+   "This program gets +1 strength for each installed program.\nInterface → <strong>2[credit]:</strong> Break 1 subroutine.",
+ :title "Maven",
+ :type :program,
  :uniqueness false}

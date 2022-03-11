@@ -1,13 +1,13 @@
-{:advancement-requirement 3
- :agenda-points 1
- :deck-limit 3
- :faction :haas-bioroid
- :id "self-destruct-chips"
- :side :corp
- :stripped-text "The Runner's maximum hand size is reduced by 1."
- :stripped-title "Self-Destruct Chips"
- :subtype [:security]
- :text "The Runner's maximum hand size is reduced by 1."
- :title "Self-Destruct Chips"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "self-destruct-chips",
+ :side :corp,
+ :stripped-text "The Runner's maximum hand size is reduced by 1.",
+ :stripped-title "Self-Destruct Chips",
+ :subtype [:security],
+ :text "The Runner's maximum hand size is reduced by 1.",
+ :title "Self-Destruct Chips",
+ :type :agenda,
  :uniqueness false}

@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "blue-level-clearance"
- :influence-cost 2
- :side :corp
- :stripped-text "As an additional cost to play this operation, spend click. Gain 5 credits and draw 2 cards."
- :stripped-title "Blue Level Clearance"
- :subtype [:double :transaction]
- :text "As an additional cost to play this operation, spend [click].\nGain 5[credit] and draw 2 cards."
- :title "Blue Level Clearance"
- :type :operation
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "blue-level-clearance",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "As an additional cost to play this operation, spend click. Gain 5 credits and draw 2 cards.",
+ :stripped-title "Blue Level Clearance",
+ :subtype [:double :transaction],
+ :text
+   "As an additional cost to play this operation, spend [click].\nGain 5[credit] and draw 2 cards.",
+ :title "Blue Level Clearance",
+ :type :operation,
  :uniqueness false}

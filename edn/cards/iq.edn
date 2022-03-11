@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "iq"
- :influence-cost 2
- :side :corp
- :strength 0
- :stripped-text "The rez cost of IQ is increased by 1 for each card in HQ. IQ has +1 strength for each card in HQ. Subroutine End the run."
- :stripped-title "IQ"
- :subtype [:code-gate]
- :text "The rez cost of IQ is increased by 1 for each card in HQ.\nIQ has +1 strength for each card in HQ.\n[subroutine] End the run."
- :title "IQ"
- :type :ice
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "iq",
+ :influence-cost 2,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "The rez cost of IQ is increased by 1 for each card in HQ. IQ has +1 strength for each card in HQ. Subroutine End the run.",
+ :stripped-title "IQ",
+ :subtype [:code-gate],
+ :text
+   "The rez cost of IQ is increased by 1 for each card in HQ.\nIQ has +1 strength for each card in HQ.\n[subroutine] End the run.",
+ :title "IQ",
+ :type :ice,
  :uniqueness false}

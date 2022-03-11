@@ -1,13 +1,15 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "frame-job"
- :influence-cost 2
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Forfeit an agenda. If you do, give the Corp 1 bad publicity."
- :stripped-title "Frame Job"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity."
- :title "Frame Job"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "frame-job",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Forfeit an agenda. If you do, give the Corp 1 bad publicity.",
+ :stripped-title "Frame Job",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity.",
+ :title "Frame Job",
+ :type :event,
  :uniqueness false}

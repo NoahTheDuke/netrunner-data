@@ -1,14 +1,16 @@
-{:cost 9
- :deck-limit 3
- :faction :weyland-consortium
- :id "wormhole"
- :influence-cost 2
- :side :corp
- :strength 7
- :stripped-text "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it. Subroutine Resolve a subroutine on another piece of rezzed ice."
- :stripped-title "Wormhole"
- :subtype [:code-gate]
- :text "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice."
- :title "Wormhole"
- :type :ice
+{:cost 9,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "wormhole",
+ :influence-cost 2,
+ :side :corp,
+ :strength 7,
+ :stripped-text
+   "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it. Subroutine Resolve a subroutine on another piece of rezzed ice.",
+ :stripped-title "Wormhole",
+ :subtype [:code-gate],
+ :text
+   "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.",
+ :title "Wormhole",
+ :type :ice,
  :uniqueness false}

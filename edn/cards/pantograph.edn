@@ -1,13 +1,15 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "pantograph"
- :influence-cost 3
- :side :runner
- :stripped-text "+1 mu Whenever an agenda is scored or stolen, gain 1 credit. Then, you may install 1 card from your grip. Limit 1 console per player."
- :stripped-title "Pantograph"
- :subtype [:console]
- :text "+1[mu]\nWhenever an agenda is scored or stolen, gain 1[credit]. Then, you may install 1 card from your grip.\nLimit 1 <strong>console</strong> per player."
- :title "Pantograph"
- :type :hardware
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "pantograph",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "+1 mu Whenever an agenda is scored or stolen, gain 1 credit. Then, you may install 1 card from your grip. Limit 1 console per player.",
+ :stripped-title "Pantograph",
+ :subtype [:console],
+ :text
+   "+1[mu]\nWhenever an agenda is scored or stolen, gain 1[credit]. Then, you may install 1 card from your grip.\nLimit 1 <strong>console</strong> per player.",
+ :title "Pantograph",
+ :type :hardware,
  :uniqueness true}

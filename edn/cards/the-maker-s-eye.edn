@@ -1,13 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :shaper
- :id "the-maker-s-eye"
- :influence-cost 2
- :side :runner
- :stripped-text "Run R&D. If successful, access 2 additional cards when you breach R&D."
- :stripped-title "The Maker's Eye"
- :subtype [:run]
- :text "Run R&D. If successful, access 2 additional cards when you breach R&D."
- :title "The Maker's Eye"
- :type :event
+{:cost 2,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "the-maker-s-eye",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Run R&D. If successful, access 2 additional cards when you breach R&D.",
+ :stripped-title "The Maker's Eye",
+ :subtype [:run],
+ :text "Run R&D. If successful, access 2 additional cards when you breach R&D.",
+ :title "The Maker's Eye",
+ :type :event,
  :uniqueness false}

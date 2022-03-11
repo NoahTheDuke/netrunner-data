@@ -1,15 +1,17 @@
-{:cost 4
- :deck-limit 3
- :faction :criminal
- :id "demara"
- :influence-cost 2
- :memory-cost 1
- :side :runner
- :strength 1
- :stripped-text "Interface -> 2 credits: Break up to 2 barrier subroutines. 2 credits: +3 strength. trash: Bypass the barrier you are encountering."
- :stripped-title "Demara"
- :subtype [:icebreaker :fracter]
- :text "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\n<strong>[trash]:</strong> Bypass the <strong>barrier</strong> you are encountering."
- :title "Demara"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "demara",
+ :influence-cost 2,
+ :memory-cost 1,
+ :side :runner,
+ :strength 1,
+ :stripped-text
+   "Interface -> 2 credits: Break up to 2 barrier subroutines. 2 credits: +3 strength. trash: Bypass the barrier you are encountering.",
+ :stripped-title "Demara",
+ :subtype [:icebreaker :fracter],
+ :text
+   "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\n<strong>[trash]:</strong> Bypass the <strong>barrier</strong> you are encountering.",
+ :title "Demara",
+ :type :program,
  :uniqueness false}

@@ -1,14 +1,16 @@
-{:cost 1
- :deck-limit 3
- :faction :jinteki
- :id "harvester"
- :influence-cost 1
- :side :corp
- :strength 3
- :stripped-text "Subroutine The Runner draws 3 cards and then discards down to his or her maximum hand size. Subroutine The Runner draws 3 cards and then discards down to his or her maximum hand size."
- :stripped-title "Harvester"
- :subtype [:code-gate]
- :text "[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size.\n[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size."
- :title "Harvester"
- :type :ice
+{:cost 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "harvester",
+ :influence-cost 1,
+ :side :corp,
+ :strength 3,
+ :stripped-text
+   "Subroutine The Runner draws 3 cards and then discards down to his or her maximum hand size. Subroutine The Runner draws 3 cards and then discards down to his or her maximum hand size.",
+ :stripped-title "Harvester",
+ :subtype [:code-gate],
+ :text
+   "[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size.\n[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size.",
+ :title "Harvester",
+ :type :ice,
  :uniqueness false}

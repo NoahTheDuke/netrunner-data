@@ -1,14 +1,16 @@
-{:cost 11
- :deck-limit 3
- :faction :haas-bioroid
- :id "heimdall-2-0"
- :influence-cost 3
- :side :corp
- :strength 7
- :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage and end the run. Subroutine End the run."
- :stripped-title "Heimdall 2.0"
- :subtype [:barrier :bioroid :ap]
- :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run."
- :title "Heimdall 2.0"
- :type :ice
+{:cost 11,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "heimdall-2-0",
+ :influence-cost 3,
+ :side :corp,
+ :strength 7,
+ :stripped-text
+   "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage and end the run. Subroutine End the run.",
+ :stripped-title "Heimdall 2.0",
+ :subtype [:barrier :bioroid :ap],
+ :text
+   "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run.",
+ :title "Heimdall 2.0",
+ :type :ice,
  :uniqueness false}

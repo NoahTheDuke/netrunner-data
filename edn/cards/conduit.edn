@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :shaper
- :id "conduit"
- :influence-cost 4
- :memory-cost 1
- :side :runner
- :stripped-text "Whenever a successful run on R&D ends, you may place 1 virus counter on this program. click: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters."
- :stripped-title "Conduit"
- :subtype [:virus]
- :text "Whenever a successful run on R&D ends, you may place 1 virus counter on this program.\n[click]: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters."
- :title "Conduit"
- :type :program
+{:cost 4,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "conduit",
+ :influence-cost 4,
+ :memory-cost 1,
+ :side :runner,
+ :stripped-text
+   "Whenever a successful run on R&D ends, you may place 1 virus counter on this program. click: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
+ :stripped-title "Conduit",
+ :subtype [:virus],
+ :text
+   "Whenever a successful run on R&D ends, you may place 1 virus counter on this program.\n[click]: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
+ :title "Conduit",
+ :type :program,
  :uniqueness false}

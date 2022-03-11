@@ -1,130 +1,134 @@
-[{:card-id "alice-merchant-clan-agitator"
-  :code "12061"
-  :flavor "Jarogniew's agent provocateur."
-  :illustrator "Matt Zeilinger"
-  :position 61
-  :quantity 3
+[{:card-id "alice-merchant-clan-agitator",
+  :code "12061",
+  :flavor "Jarogniew's agent provocateur.",
+  :illustrator "Matt Zeilinger",
+  :position 61,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "jarogniew-mercs"
-  :code "12062"
-  :illustrator "Aurore Folny"
-  :position 62
-  :quantity 3
+ {:card-id "jarogniew-mercs",
+  :code "12062",
+  :illustrator "Aurore Folny",
+  :position 62,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "maui"
-  :code "12063"
-  :illustrator "Matt Bradbury"
-  :position 63
-  :quantity 3
+ {:card-id "maui",
+  :code "12063",
+  :illustrator "Matt Bradbury",
+  :position 63,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "bug-out-bag"
-  :code "12064"
-  :flavor "Everything you need in case of an emergency."
-  :illustrator "Del Borovic"
-  :position 64
-  :quantity 3
+ {:card-id "bug-out-bag",
+  :code "12064",
+  :flavor "Everything you need in case of an emergency.",
+  :illustrator "Del Borovic",
+  :position 64,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "keros-mcintyre"
-  :code "12065"
-  :flavor "\"I don't bother asking why anymore—he never says—but if I had to guess, it's because he's embezzling and using my runs to disguise it. Not that I care. His credit spends as well as the next guy's\" -Moth"
-  :illustrator "Jan-Wah Li"
-  :position 65
-  :quantity 3
+ {:card-id "keros-mcintyre",
+  :code "12065",
+  :flavor
+    "\"I don't bother asking why anymore—he never says—but if I had to guess, it's because he's embezzling and using my runs to disguise it. Not that I care. His credit spends as well as the next guy's\" -Moth",
+  :illustrator "Jan-Wah Li",
+  :position 65,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "daredevil"
-  :code "12066"
-  :flavor "\"Taking risks is what makes it fun!\" -Kabonesa Wu"
-  :illustrator "Ed Mattinian"
-  :position 66
-  :quantity 3
+ {:card-id "daredevil",
+  :code "12066",
+  :flavor "\"Taking risks is what makes it fun!\" -Kabonesa Wu",
+  :illustrator "Ed Mattinian",
+  :position 66,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "mass-driver"
-  :code "12067"
-  :illustrator "Alexandr Elichev"
-  :position 67
-  :quantity 3
+ {:card-id "mass-driver",
+  :code "12067",
+  :illustrator "Alexandr Elichev",
+  :position 67,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "warroid-tracker"
-  :code "12068"
-  :illustrator "Micah Epstein"
-  :position 68
-  :quantity 3
+ {:card-id "warroid-tracker",
+  :code "12068",
+  :illustrator "Micah Epstein",
+  :position 68,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "loki"
-  :code "12069"
-  :illustrator "Andreas Zafiratos"
-  :position 69
-  :quantity 3
+ {:card-id "loki",
+  :code "12069",
+  :illustrator "Andreas Zafiratos",
+  :position 69,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "obokata-protocol"
-  :code "12070"
-  :flavor "\"Proper application of stress can create the most profound changes.\" - Tennin Institute Intern Brief"
-  :illustrator "Jan-Wah Li"
-  :position 70
-  :quantity 3
+ {:card-id "obokata-protocol",
+  :code "12070",
+  :flavor
+    "\"Proper application of stress can create the most profound changes.\" - Tennin Institute Intern Brief",
+  :illustrator "Jan-Wah Li",
+  :position 70,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "miraju"
-  :code "12071"
-  :illustrator "Alexander Tooth"
-  :position 71
-  :quantity 3
+ {:card-id "miraju",
+  :code "12071",
+  :illustrator "Alexander Tooth",
+  :position 71,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "shipment-from-tennin"
-  :code "12072"
-  :illustrator "Jan-Wah Li"
-  :position 72
-  :quantity 3
+ {:card-id "shipment-from-tennin",
+  :code "12072",
+  :illustrator "Jan-Wah Li",
+  :position 72,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "escalate-vitriol"
-  :code "12073"
-  :flavor "\"Of course words hurt.\" -Bex Gleeson"
-  :illustrator "Timur Shevtsov"
-  :position 73
-  :quantity 3
+ {:card-id "escalate-vitriol",
+  :code "12073",
+  :flavor "\"Of course words hurt.\" -Bex Gleeson",
+  :illustrator "Timur Shevtsov",
+  :position 73,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "reeducation"
-  :code "12074"
-  :illustrator "Wenjuinn Png"
-  :position 74
-  :quantity 3
+ {:card-id "reeducation",
+  :code "12074",
+  :illustrator "Wenjuinn Png",
+  :position 74,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "traffic-analyzer"
-  :code "12075"
-  :flavor "\"It's all about M.E. Monetizing Everything.\" -Eryn Nielle"
-  :illustrator "Tim Durning"
-  :position 75
-  :quantity 3
+ {:card-id "traffic-analyzer",
+  :code "12075",
+  :flavor "\"It's all about M.E. Monetizing Everything.\" -Eryn Nielle",
+  :illustrator "Tim Durning",
+  :position 75,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "meteor-mining"
-  :code "12076"
-  :flavor "\"I've got a rock!\" - Charles \"Mad Dog\" Brun, Comet Jockey"
-  :illustrator "Mark Molnar"
-  :position 76
-  :quantity 3
+ {:card-id "meteor-mining",
+  :code "12076",
+  :flavor "\"I've got a rock!\" - Charles \"Mad Dog\" Brun, Comet Jockey",
+  :illustrator "Mark Molnar",
+  :position 76,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "standoff"
-  :code "12077"
-  :illustrator "Ed Mattinian"
-  :position 77
-  :quantity 3
+ {:card-id "standoff",
+  :code "12077",
+  :illustrator "Ed Mattinian",
+  :position 77,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "success"
-  :code "12078"
-  :flavor "The difference between surviving and thriving is successful terraforming."
-  :illustrator "Mark Molnar"
-  :position 78
-  :quantity 3
+ {:card-id "success",
+  :code "12078",
+  :flavor
+    "The difference between surviving and thriving is successful terraforming.",
+  :illustrator "Mark Molnar",
+  :position 78,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "whampoa-reclamation"
-  :code "12079"
-  :flavor "\"Whampoa is the largest and meanest Earth-based mining concern on Mars. They put bodies and waste in the ground as fast as they pull minerals out.\" - Alice Merchant"
-  :illustrator "James Ives"
-  :position 79
-  :quantity 3
+ {:card-id "whampoa-reclamation",
+  :code "12079",
+  :flavor
+    "\"Whampoa is the largest and meanest Earth-based mining concern on Mars. They put bodies and waste in the ground as fast as they pull minerals out.\" - Alice Merchant",
+  :illustrator "James Ives",
+  :position 79,
+  :quantity 3,
   :set-id "blood-and-water"}
- {:card-id "mass-commercialization"
-  :code "12080"
-  :illustrator "Mark Molnar"
-  :position 80
-  :quantity 3
+ {:card-id "mass-commercialization",
+  :code "12080",
+  :illustrator "Mark Molnar",
+  :position 80,
+  :quantity 3,
   :set-id "blood-and-water"}]

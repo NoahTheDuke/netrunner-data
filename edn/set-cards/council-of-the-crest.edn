@@ -1,132 +1,136 @@
-[{:card-id "exer"
-  :code "21041"
-  :flavor "\"Amateurs feign it as 'random packet loss'. They do this for safety. They do this out of fear. But why should we cower? <em>We</em> will collapse the Corporatocracy, piece by piece! They are not the ones to fear. <em>We</em> are.\"\n- Freedom Khumalo"
-  :illustrator "Ed Mattinian"
-  :position 41
-  :quantity 3
+[{:card-id "exer",
+  :code "21041",
+  :flavor
+    "\"Amateurs feign it as 'random packet loss'. They do this for safety. They do this out of fear. But why should we cower? <em>We</em> will collapse the Corporatocracy, piece by piece! They are not the ones to fear. <em>We</em> are.\"\n- Freedom Khumalo",
+  :illustrator "Ed Mattinian",
+  :position 41,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "friday-chip"
-  :code "21042"
-  :flavor "\"It makes every bad thing that you do so much better.\"\n- g00ru"
-  :illustrator "Martin de Diego Sádaba"
-  :position 42
-  :quantity 3
+ {:card-id "friday-chip",
+  :code "21042",
+  :flavor "\"It makes every bad thing that you do so much better.\"\n- g00ru",
+  :illustrator "Martin de Diego Sádaba",
+  :position 42,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "crypt"
-  :code "21043"
-  :flavor "The smell of rot strengthens with each step."
-  :illustrator "Adam S. Doyle"
-  :position 43
-  :quantity 3
+ {:card-id "crypt",
+  :code "21043",
+  :flavor "The smell of rot strengthens with each step.",
+  :illustrator "Adam S. Doyle",
+  :position 43,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "corporate-grant"
-  :code "21044"
-  :flavor "You'd think someone would have noticed a program entitled \"Career Opportunities in Hacking\" earlier."
-  :illustrator "PxelSlayer"
-  :position 44
-  :quantity 3
+ {:card-id "corporate-grant",
+  :code "21044",
+  :flavor
+    "You'd think someone would have noticed a program entitled \"Career Opportunities in Hacking\" earlier.",
+  :illustrator "PxelSlayer",
+  :position 44,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "no-one-home"
-  :code "21045"
-  :flavor "\"Go away! I'm not here!\""
-  :illustrator "Alexandr Elichev"
-  :position 45
-  :quantity 3
+ {:card-id "no-one-home",
+  :code "21045",
+  :flavor "\"Go away! I'm not here!\"",
+  :illustrator "Alexandr Elichev",
+  :position 45,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "marathon"
-  :code "21046"
-  :illustrator "Liiga Smilshkalne"
-  :position 46
-  :quantity 3
+ {:card-id "marathon",
+  :code "21046",
+  :illustrator "Liiga Smilshkalne",
+  :position 46,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "gbahali"
-  :code "21047"
-  :flavor "Ripples are all the prey sees before Gbahali swallows it whole."
-  :illustrator "Liiga Smilshkalne"
-  :position 47
-  :quantity 3
+ {:card-id "gbahali",
+  :code "21047",
+  :flavor "Ripples are all the prey sees before Gbahali swallows it whole.",
+  :illustrator "Liiga Smilshkalne",
+  :position 47,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "white-hat"
-  :code "21048"
-  :illustrator "Ed Mattinian"
-  :position 48
-  :quantity 3
+ {:card-id "white-hat",
+  :code "21048",
+  :illustrator "Ed Mattinian",
+  :position 48,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "kuwinda-k4h1u3"
-  :code "21049"
-  :illustrator "Josh Corpuz"
-  :position 49
-  :quantity 3
+ {:card-id "kuwinda-k4h1u3",
+  :code "21049",
+  :illustrator "Josh Corpuz",
+  :position 49,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "next-sapphire"
-  :code "21050"
-  :flavor "Every level of protection for all of your security needs."
-  :illustrator "Ed Mattinian"
-  :position 50
-  :quantity 3
+ {:card-id "next-sapphire",
+  :code "21050",
+  :flavor "Every level of protection for all of your security needs.",
+  :illustrator "Ed Mattinian",
+  :position 50,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "anansi"
-  :code "21051"
-  :illustrator "Liiga Smilshkalne"
-  :position 51
-  :quantity 3
+ {:card-id "anansi",
+  :code "21051",
+  :illustrator "Liiga Smilshkalne",
+  :position 51,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "code-replicator"
-  :code "21052"
-  :flavor "for (;;)"
-  :illustrator "Caravan Studio"
-  :position 52
-  :quantity 3
+ {:card-id "code-replicator",
+  :code "21052",
+  :flavor "for (;;)",
+  :illustrator "Caravan Studio",
+  :position 52,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "reverse-infection"
-  :code "21053"
-  :illustrator "Adam S. Doyle"
-  :position 53
-  :quantity 3
+ {:card-id "reverse-infection",
+  :code "21053",
+  :illustrator "Adam S. Doyle",
+  :position 53,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "azmari-edtech-shaping-the-future"
-  :code "21054"
-  :illustrator "Emilio Rodriguez"
-  :position 54
-  :quantity 3
+ {:card-id "azmari-edtech-shaping-the-future",
+  :code "21054",
+  :illustrator "Emilio Rodriguez",
+  :position 54,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "degree-mill"
-  :code "21055"
-  :flavor "Master any subject in 30 minutes or less!*\n*Azmari EdTech is not responsible for altered memories or reduced temporal lobe functionality. Level of mastery may vary."
-  :illustrator "Juan Novelletto"
-  :position 55
-  :quantity 3
+ {:card-id "degree-mill",
+  :code "21055",
+  :flavor
+    "Master any subject in 30 minutes or less!*\n*Azmari EdTech is not responsible for altered memories or reduced temporal lobe functionality. Level of mastery may vary.",
+  :illustrator "Juan Novelletto",
+  :position 55,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "personalized-portal"
-  :code "21056"
-  :flavor "\"Welcome to Azmari Mail! You have 4,196 unread messages.\""
-  :illustrator "Kathryn Steele"
-  :position 56
-  :quantity 3
+ {:card-id "personalized-portal",
+  :code "21056",
+  :flavor "\"Welcome to Azmari Mail! You have 4,196 unread messages.\"",
+  :illustrator "Kathryn Steele",
+  :position 56,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "armed-intimidation"
-  :code "21057"
-  :flavor "\"The way I see it, you've got two options: die here or die running. I'll enjoy both.\""
-  :illustrator "Le Vuong"
-  :position 57
-  :quantity 3
+ {:card-id "armed-intimidation",
+  :code "21057",
+  :flavor
+    "\"The way I see it, you've got two options: die here or die running. I'll enjoy both.\"",
+  :illustrator "Le Vuong",
+  :position 57,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "death-and-taxes"
-  :code "21058"
-  :flavor "The only certainties."
-  :illustrator "Kathryn Steele"
-  :position 58
-  :quantity 3
+ {:card-id "death-and-taxes",
+  :code "21058",
+  :flavor "The only certainties.",
+  :illustrator "Kathryn Steele",
+  :position 58,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "trojan-horse"
-  :code "21059"
-  :illustrator "Fei F. Ou"
-  :position 59
-  :quantity 3
+ {:card-id "trojan-horse",
+  :code "21059",
+  :illustrator "Fei F. Ou",
+  :position 59,
+  :quantity 3,
   :set-id "council-of-the-crest"}
- {:card-id "technoco"
-  :code "21060"
-  :illustrator "Caravan Studio"
-  :position 60
-  :quantity 3
+ {:card-id "technoco",
+  :code "21060",
+  :illustrator "Caravan Studio",
+  :position 60,
+  :quantity 3,
   :set-id "council-of-the-crest"}]

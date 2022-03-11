@@ -1,12 +1,12 @@
-{:cost 4
- :deck-limit 3
- :faction :criminal
- :id "hq-interface"
- :influence-cost 2
- :side :runner
- :stripped-text "Whenever you breach HQ, access 1 additional card."
- :stripped-title "HQ Interface"
- :text "Whenever you breach HQ, access 1 additional card."
- :title "HQ Interface"
- :type :hardware
+{:cost 4,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "hq-interface",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "Whenever you breach HQ, access 1 additional card.",
+ :stripped-title "HQ Interface",
+ :text "Whenever you breach HQ, access 1 additional card.",
+ :title "HQ Interface",
+ :type :hardware,
  :uniqueness false}

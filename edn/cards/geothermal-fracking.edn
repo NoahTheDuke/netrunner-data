@@ -1,13 +1,15 @@
-{:advancement-requirement 4
- :agenda-points 2
- :deck-limit 3
- :faction :weyland-consortium
- :id "geothermal-fracking"
- :side :corp
- :stripped-text "Place 2 agenda counters on Geothermal Fracking when you score it. click, hosted agenda counter: Gain 7 credits and take 1 bad publicity."
- :stripped-title "Geothermal Fracking"
- :subtype [:expansion]
- :text "Place 2 agenda counters on Geothermal Fracking when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 7[credit] and take 1 bad publicity."
- :title "Geothermal Fracking"
- :type :agenda
+{:advancement-requirement 4,
+ :agenda-points 2,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "geothermal-fracking",
+ :side :corp,
+ :stripped-text
+   "Place 2 agenda counters on Geothermal Fracking when you score it. click, hosted agenda counter: Gain 7 credits and take 1 bad publicity.",
+ :stripped-title "Geothermal Fracking",
+ :subtype [:expansion],
+ :text
+   "Place 2 agenda counters on Geothermal Fracking when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 7[credit] and take 1 bad publicity.",
+ :title "Geothermal Fracking",
+ :type :agenda,
  :uniqueness false}

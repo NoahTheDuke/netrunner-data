@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :apex
- :id "consume"
- :influence-cost 5
- :memory-cost 0
- :side :runner
- :stripped-text "Whenever you trash a Corp card, you may place 1 virus counter on Consume. click: Gain 2 credits for each hosted virus counter, then remove all virus counters from Consume."
- :stripped-title "Consume"
- :subtype [:virus]
- :text "Whenever you trash a Corp card, you may place 1 virus counter on Consume.\n[click]: Gain 2[credit] for each hosted virus counter, then remove all virus counters from Consume."
- :title "Consume"
- :type :program
+{:cost 2,
+ :deck-limit 3,
+ :faction :apex,
+ :id "consume",
+ :influence-cost 5,
+ :memory-cost 0,
+ :side :runner,
+ :stripped-text
+   "Whenever you trash a Corp card, you may place 1 virus counter on Consume. click: Gain 2 credits for each hosted virus counter, then remove all virus counters from Consume.",
+ :stripped-title "Consume",
+ :subtype [:virus],
+ :text
+   "Whenever you trash a Corp card, you may place 1 virus counter on Consume.\n[click]: Gain 2[credit] for each hosted virus counter, then remove all virus counters from Consume.",
+ :title "Consume",
+ :type :program,
  :uniqueness false}

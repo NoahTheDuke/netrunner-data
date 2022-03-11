@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "rogue-trading"
- :influence-cost 2
- :side :runner
- :stripped-text "Place 18 credits from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it. click, click: Take 6 credits from Rogue Trading and take 1 tag."
- :stripped-title "Rogue Trading"
- :subtype [:job]
- :text "Place 18[credit] from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it.\n[click], [click]: Take 6[credit] from Rogue Trading and take 1 tag."
- :title "Rogue Trading"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "rogue-trading",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "Place 18 credits from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it. click, click: Take 6 credits from Rogue Trading and take 1 tag.",
+ :stripped-title "Rogue Trading",
+ :subtype [:job],
+ :text
+   "Place 18[credit] from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it.\n[click], [click]: Take 6[credit] from Rogue Trading and take 1 tag.",
+ :title "Rogue Trading",
+ :type :resource,
  :uniqueness false}

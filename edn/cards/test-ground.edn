@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :haas-bioroid
- :id "test-ground"
- :influence-cost 2
- :side :corp
- :stripped-text "Test Ground can be advanced. trash: Derez 1 card for each advancement token on Test Ground."
- :stripped-title "Test Ground"
- :text "Test Ground can be advanced.\n[trash]: Derez 1 card for each advancement token on Test Ground."
- :title "Test Ground"
- :trash-cost 2
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "test-ground",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "Test Ground can be advanced. trash: Derez 1 card for each advancement token on Test Ground.",
+ :stripped-title "Test Ground",
+ :text
+   "Test Ground can be advanced.\n[trash]: Derez 1 card for each advancement token on Test Ground.",
+ :title "Test Ground",
+ :trash-cost 2,
+ :type :asset,
  :uniqueness false}

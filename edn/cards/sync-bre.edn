@@ -1,14 +1,16 @@
-{:cost 4
- :deck-limit 3
- :faction :nbn
- :id "sync-bre"
- :influence-cost 3
- :side :corp
- :strength 6
- :stripped-text "Subroutine Trace[4]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card."
- :stripped-title "SYNC BRE"
- :subtype [:sentry :tracer]
- :text "[subroutine] Trace[4]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card."
- :title "SYNC BRE"
- :type :ice
+{:cost 4,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "sync-bre",
+ :influence-cost 3,
+ :side :corp,
+ :strength 6,
+ :stripped-text
+   "Subroutine Trace[4]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
+ :stripped-title "SYNC BRE",
+ :subtype [:sentry :tracer],
+ :text
+   "[subroutine] Trace[4]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
+ :title "SYNC BRE",
+ :type :ice,
  :uniqueness false}

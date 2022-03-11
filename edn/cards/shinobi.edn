@@ -1,14 +1,16 @@
-{:cost 7
- :deck-limit 3
- :faction :jinteki
- :id "shinobi"
- :influence-cost 3
- :side :corp
- :strength 5
- :stripped-text "When you rez Shinobi, take 1 bad publicity. Subroutine Trace 1 If successful, do 1 net damage. Subroutine Trace 2 If successful, do 2 net damage. Subroutine Trace 3 If successful, do 3 net damage and end the run."
- :stripped-title "Shinobi"
- :subtype [:sentry :tracer :ap :illicit]
- :text "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run."
- :title "Shinobi"
- :type :ice
+{:cost 7,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "shinobi",
+ :influence-cost 3,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "When you rez Shinobi, take 1 bad publicity. Subroutine Trace 1 If successful, do 1 net damage. Subroutine Trace 2 If successful, do 2 net damage. Subroutine Trace 3 If successful, do 3 net damage and end the run.",
+ :stripped-title "Shinobi",
+ :subtype [:sentry :tracer :ap :illicit],
+ :text
+   "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
+ :title "Shinobi",
+ :type :ice,
  :uniqueness false}

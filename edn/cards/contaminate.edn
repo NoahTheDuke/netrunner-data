@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :anarch
- :id "contaminate"
- :influence-cost 1
- :side :runner
- :stripped-text "Place 3 virus counters on an installed Runner card with no hosted virus counters."
- :stripped-title "Contaminate"
- :text "Place 3 virus counters on an installed Runner card with no hosted virus counters."
- :title "Contaminate"
- :type :event
+{:cost 1,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "contaminate",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text
+   "Place 3 virus counters on an installed Runner card with no hosted virus counters.",
+ :stripped-title "Contaminate",
+ :text
+   "Place 3 virus counters on an installed Runner card with no hosted virus counters.",
+ :title "Contaminate",
+ :type :event,
  :uniqueness false}

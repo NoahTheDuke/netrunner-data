@@ -1,134 +1,142 @@
-[{:card-id "acacia"
-  :code "21021"
-  :flavor "The system is so deeply rooted, who knows how far the cables run?"
-  :illustrator "Alexandr Elichev"
-  :position 21
-  :quantity 3
+[{:card-id "acacia",
+  :code "21021",
+  :flavor "The system is so deeply rooted, who knows how far the cables run?",
+  :illustrator "Alexandr Elichev",
+  :position 21,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "plague"
-  :code "21022"
-  :flavor "Embedded in the mainframe, it proliferates and devours with each agitation."
-  :illustrator "Ethan Patrick Harris"
-  :position 22
-  :quantity 3
+ {:card-id "plague",
+  :code "21022",
+  :flavor
+    "Embedded in the mainframe, it proliferates and devours with each agitation.",
+  :illustrator "Ethan Patrick Harris",
+  :position 22,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "credit-kiting"
-  :code "21023"
-  :flavor "The gap of 0.19 seconds was all he needed."
-  :illustrator "Caravan Studio"
-  :position 23
-  :quantity 3
+ {:card-id "credit-kiting",
+  :code "21023",
+  :flavor "The gap of 0.19 seconds was all he needed.",
+  :illustrator "Caravan Studio",
+  :position 23,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "wari"
-  :code "21024"
-  :flavor "\"He's probably the best pet I've ever had but I'd still trade him for something better.\" - 419"
-  :illustrator "Adam S. Doyle"
-  :position 24
-  :quantity 3
+ {:card-id "wari",
+  :code "21024",
+  :flavor
+    "\"He's probably the best pet I've ever had but I'd still trade him for something better.\" - 419",
+  :illustrator "Adam S. Doyle",
+  :position 24,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "kabonesa-wu-netspace-thrillseeker"
-  :code "21025"
-  :illustrator "Antonio De Luca"
-  :position 25
-  :quantity 3
+ {:card-id "kabonesa-wu-netspace-thrillseeker",
+  :code "21025",
+  :illustrator "Antonio De Luca",
+  :position 25,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "takobi"
-  :code "21026"
-  :flavor "When standard breaking just doesn't cut it."
-  :illustrator "Andreas Zafiratos"
-  :position 26
-  :quantity 3
+ {:card-id "takobi",
+  :code "21026",
+  :flavor "When standard breaking just doesn't cut it.",
+  :illustrator "Andreas Zafiratos",
+  :position 26,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "kongamato"
-  :code "21027"
-  :flavor "A winged terror, the Kongamato dives from above, rending its prey in one ferocious bite."
-  :illustrator "Liiga Smilshkalne"
-  :position 27
-  :quantity 3
+ {:card-id "kongamato",
+  :code "21027",
+  :flavor
+    "A winged terror, the Kongamato dives from above, rending its prey in one ferocious bite.",
+  :illustrator "Liiga Smilshkalne",
+  :position 27,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "emergent-creativity"
-  :code "21028"
-  :illustrator "Caravan Studio"
-  :position 28
-  :quantity 3
+ {:card-id "emergent-creativity",
+  :code "21028",
+  :illustrator "Caravan Studio",
+  :position 28,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "rng-key"
-  :code "21029"
-  :flavor "Between nothing and infinity."
-  :illustrator "Andreas Zafiratos"
-  :position 29
-  :quantity 3
+ {:card-id "rng-key",
+  :code "21029",
+  :flavor "Between nothing and infinity.",
+  :illustrator "Andreas Zafiratos",
+  :position 29,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "nightdancer"
-  :code "21030"
-  :flavor "Witchcraft to the nescient; beauty to the wise."
-  :illustrator "Galen Dara"
-  :position 30
-  :quantity 3
+ {:card-id "nightdancer",
+  :code "21030",
+  :flavor "Witchcraft to the nescient; beauty to the wise.",
+  :illustrator "Galen Dara",
+  :position 30,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "jinja-city-grid"
-  :code "21031"
-  :flavor "\"The site of the world's second beanstalk, or I'll die trying.\" - Miria Byanyima, Director of VSEP"
-  :illustrator "Kirsten Zirngibl"
-  :position 31
-  :quantity 3
+ {:card-id "jinja-city-grid",
+  :code "21031",
+  :flavor
+    "\"The site of the world's second beanstalk, or I'll die trying.\" - Miria Byanyima, Director of VSEP",
+  :illustrator "Kirsten Zirngibl",
+  :position 31,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "aimor"
-  :code "21032"
-  :flavor "\"Starving, dehydrated, delirious, I picked a direction and ran, ran for days, maybe even weeks. I ran until my legs couldn't carry me. Then I crawled. When I was finally out, finally free of the shroud, I checked the time, the date. How long had I been gone, trapped in the all-encompassing blackness? Turns out, 3 minutes.\""
-  :illustrator "Adam S. Doyle"
-  :position 32
-  :quantity 3
+ {:card-id "aimor",
+  :code "21032",
+  :flavor
+    "\"Starving, dehydrated, delirious, I picked a direction and ran, ran for days, maybe even weeks. I ran until my legs couldn't carry me. Then I crawled. When I was finally out, finally free of the shroud, I checked the time, the date. How long had I been gone, trapped in the all-encompassing blackness? Turns out, 3 minutes.\"",
+  :illustrator "Adam S. Doyle",
+  :position 32,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "bacterial-programming"
-  :code "21033"
-  :illustrator "Pavel Kolomeyets"
-  :position 33
-  :quantity 3
+ {:card-id "bacterial-programming",
+  :code "21033",
+  :illustrator "Pavel Kolomeyets",
+  :position 33,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "jua"
-  :code "21034"
-  :flavor "\"It wasn't until the spots cleared that I realized half of my rig was gone.\" - Kabonesa Wu"
-  :illustrator "Mariusz Siergiejew"
-  :position 34
-  :quantity 3
+ {:card-id "jua",
+  :code "21034",
+  :flavor
+    "\"It wasn't until the spots cleared that I realized half of my rig was gone.\" - Kabonesa Wu",
+  :illustrator "Mariusz Siergiejew",
+  :position 34,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "threat-assessment"
-  :code "21035"
-  :illustrator "Martin de Diego Sádaba"
-  :position 35
-  :quantity 3
+ {:card-id "threat-assessment",
+  :code "21035",
+  :illustrator "Martin de Diego Sádaba",
+  :position 35,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "economic-warfare"
-  :code "21036"
-  :flavor "He found it odd that three frozen yogurt shops, all less than a block from his, opened within the same week."
-  :illustrator "Michał Miłkowski"
-  :position 36
-  :quantity 3
+ {:card-id "economic-warfare",
+  :code "21036",
+  :flavor
+    "He found it odd that three frozen yogurt shops, all less than a block from his, opened within the same week.",
+  :illustrator "Michał Miłkowski",
+  :position 36,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "forced-connection"
-  :code "21037"
-  :illustrator "Josh Corpuz"
-  :position 37
-  :quantity 3
+ {:card-id "forced-connection",
+  :code "21037",
+  :illustrator "Josh Corpuz",
+  :position 37,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "ssl-endorsement"
-  :code "21038"
-  :illustrator "Caravan Studio"
-  :position 38
-  :quantity 3
+ {:card-id "ssl-endorsement",
+  :code "21038",
+  :illustrator "Caravan Studio",
+  :position 38,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "ngo-front"
-  :code "21039"
-  :flavor "\"Who knew non-profits could be so profitable?\""
-  :illustrator "Emilio Rodriguez"
-  :position 39
-  :quantity 3
+ {:card-id "ngo-front",
+  :code "21039",
+  :flavor "\"Who knew non-profits could be so profitable?\"",
+  :illustrator "Emilio Rodriguez",
+  :position 39,
+  :quantity 3,
   :set-id "down-the-white-nile"}
- {:card-id "distract-the-masses"
-  :code "21040"
-  :flavor "\"Food. Drinks. Entertainment. It doesn't take much to gratify the bourgeoisie.\""
-  :illustrator "Emilio Rodriguez"
-  :position 40
-  :quantity 3
+ {:card-id "distract-the-masses",
+  :code "21040",
+  :flavor
+    "\"Food. Drinks. Entertainment. It doesn't take much to gratify the bourgeoisie.\"",
+  :illustrator "Emilio Rodriguez",
+  :position 40,
+  :quantity 3,
   :set-id "down-the-white-nile"}]

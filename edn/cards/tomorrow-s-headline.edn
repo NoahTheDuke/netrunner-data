@@ -1,13 +1,15 @@
-{:advancement-requirement 3
- :agenda-points 2
- :deck-limit 1
- :faction :nbn
- :id "tomorrow-s-headline"
- :side :corp
- :stripped-text "When this agenda is scored or stolen, give the Runner 1 tag. Limit 1 per deck."
- :stripped-title "Tomorrow's Headline"
- :subtype [:ambush]
- :text "When this agenda is scored or stolen, give the Runner 1 tag.\nLimit 1 per deck."
- :title "Tomorrow's Headline"
- :type :agenda
+{:advancement-requirement 3,
+ :agenda-points 2,
+ :deck-limit 1,
+ :faction :nbn,
+ :id "tomorrow-s-headline",
+ :side :corp,
+ :stripped-text
+   "When this agenda is scored or stolen, give the Runner 1 tag. Limit 1 per deck.",
+ :stripped-title "Tomorrow's Headline",
+ :subtype [:ambush],
+ :text
+   "When this agenda is scored or stolen, give the Runner 1 tag.\nLimit 1 per deck.",
+ :title "Tomorrow's Headline",
+ :type :agenda,
  :uniqueness false}

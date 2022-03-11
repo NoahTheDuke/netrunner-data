@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-corp
- :id "chimera"
- :influence-cost 0
- :side :corp
- :strength 0
- :stripped-text "When you rez Chimera, choose sentry, code gate, or barrier. Chimera gains that subtype until derezzed. When a turn ends, derez Chimera. Subroutine End the run."
- :stripped-title "Chimera"
- :subtype [:mythic]
- :text "When you rez Chimera, choose <strong>sentry</strong>, <strong>code gate</strong>, or <strong>barrier</strong>. Chimera gains that subtype until derezzed.\nWhen a turn ends, derez Chimera.\n[subroutine] End the run."
- :title "Chimera"
- :type :ice
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "chimera",
+ :influence-cost 0,
+ :side :corp,
+ :strength 0,
+ :stripped-text
+   "When you rez Chimera, choose sentry, code gate, or barrier. Chimera gains that subtype until derezzed. When a turn ends, derez Chimera. Subroutine End the run.",
+ :stripped-title "Chimera",
+ :subtype [:mythic],
+ :text
+   "When you rez Chimera, choose <strong>sentry</strong>, <strong>code gate</strong>, or <strong>barrier</strong>. Chimera gains that subtype until derezzed.\nWhen a turn ends, derez Chimera.\n[subroutine] End the run.",
+ :title "Chimera",
+ :type :ice,
  :uniqueness false}

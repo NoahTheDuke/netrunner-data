@@ -1,14 +1,16 @@
-{:cost 2
- :deck-limit 3
- :faction :haas-bioroid
- :id "ryon-knight"
- :influence-cost 2
- :side :corp
- :stripped-text "trash: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks."
- :stripped-title "Ryon Knight"
- :subtype [:sysop]
- :text "[trash]: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks."
- :title "Ryon Knight"
- :trash-cost 3
- :type :upgrade
+{:cost 2,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "ryon-knight",
+ :influence-cost 2,
+ :side :corp,
+ :stripped-text
+   "trash: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks.",
+ :stripped-title "Ryon Knight",
+ :subtype [:sysop],
+ :text
+   "[trash]: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks.",
+ :title "Ryon Knight",
+ :trash-cost 3,
+ :type :upgrade,
  :uniqueness true}

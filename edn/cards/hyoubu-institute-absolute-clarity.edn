@@ -1,13 +1,15 @@
-{:deck-limit 1
- :faction :jinteki
- :id "hyoubu-institute-absolute-clarity"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "The first time each turn you reveal a card, gain 1 credit. click: Reveal a card from the grip at random or the top card of the stack."
- :stripped-title "Hyoubu Institute: Absolute Clarity"
- :subtype [:division]
- :text "The first time each turn you reveal a card, gain 1[credit].\n[click]: Reveal a card from the grip at random or the top card of the stack."
- :title "Hyoubu Institute: Absolute Clarity"
- :type :identity
+{:deck-limit 1,
+ :faction :jinteki,
+ :id "hyoubu-institute-absolute-clarity",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text
+   "The first time each turn you reveal a card, gain 1 credit. click: Reveal a card from the grip at random or the top card of the stack.",
+ :stripped-title "Hyoubu Institute: Absolute Clarity",
+ :subtype [:division],
+ :text
+   "The first time each turn you reveal a card, gain 1[credit].\n[click]: Reveal a card from the grip at random or the top card of the stack.",
+ :title "Hyoubu Institute: Absolute Clarity",
+ :type :identity,
  :uniqueness false}

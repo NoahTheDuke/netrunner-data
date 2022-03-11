@@ -1,14 +1,16 @@
-{:cost 7
- :deck-limit 3
- :faction :jinteki
- :id "mlinzi"
- :influence-cost 3
- :side :corp
- :strength 5
- :stripped-text "Subroutine Do 1 net damage unless the Runner trashes the top 2 cards of the stack. Subroutine Do 2 net damage unless the Runner trashes the top 3 cards of the stack. Subroutine Do 3 net damage unless the Runner trashes the top 4 cards of the stack."
- :stripped-title "Mlinzi"
- :subtype [:sentry :ap]
- :text "[subroutine] Do 1 net damage unless the Runner trashes the top 2 cards of the stack.\n[subroutine] Do 2 net damage unless the Runner trashes the top 3 cards of the stack.\n[subroutine] Do 3 net damage unless the Runner trashes the top 4 cards of the stack."
- :title "Mlinzi"
- :type :ice
+{:cost 7,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "mlinzi",
+ :influence-cost 3,
+ :side :corp,
+ :strength 5,
+ :stripped-text
+   "Subroutine Do 1 net damage unless the Runner trashes the top 2 cards of the stack. Subroutine Do 2 net damage unless the Runner trashes the top 3 cards of the stack. Subroutine Do 3 net damage unless the Runner trashes the top 4 cards of the stack.",
+ :stripped-title "Mlinzi",
+ :subtype [:sentry :ap],
+ :text
+   "[subroutine] Do 1 net damage unless the Runner trashes the top 2 cards of the stack.\n[subroutine] Do 2 net damage unless the Runner trashes the top 3 cards of the stack.\n[subroutine] Do 3 net damage unless the Runner trashes the top 4 cards of the stack.",
+ :title "Mlinzi",
+ :type :ice,
  :uniqueness false}

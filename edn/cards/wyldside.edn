@@ -1,13 +1,13 @@
-{:cost 3
- :deck-limit 3
- :faction :anarch
- :id "wyldside"
- :influence-cost 3
- :side :runner
- :stripped-text "When your turn begins, draw 2 cards and lose click."
- :stripped-title "Wyldside"
- :subtype [:location :seedy]
- :text "When your turn begins, draw 2 cards and lose [click]."
- :title "Wyldside"
- :type :resource
+{:cost 3,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "wyldside",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text "When your turn begins, draw 2 cards and lose click.",
+ :stripped-title "Wyldside",
+ :subtype [:location :seedy],
+ :text "When your turn begins, draw 2 cards and lose [click].",
+ :title "Wyldside",
+ :type :resource,
  :uniqueness true}

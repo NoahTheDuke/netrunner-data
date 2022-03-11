@@ -1,14 +1,14 @@
-{:cost 2
- :deck-limit 3
- :faction :neutral-corp
- :id "pad-campaign"
- :influence-cost 0
- :side :corp
- :stripped-text "When your turn begins, gain 1 credit."
- :stripped-title "PAD Campaign"
- :subtype [:advertisement]
- :text "When your turn begins, gain 1[credit]."
- :title "PAD Campaign"
- :trash-cost 4
- :type :asset
+{:cost 2,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "pad-campaign",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text "When your turn begins, gain 1 credit.",
+ :stripped-title "PAD Campaign",
+ :subtype [:advertisement],
+ :text "When your turn begins, gain 1[credit].",
+ :title "PAD Campaign",
+ :trash-cost 4,
+ :type :asset,
  :uniqueness false}

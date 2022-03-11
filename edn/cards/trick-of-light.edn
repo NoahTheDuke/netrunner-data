@@ -1,12 +1,14 @@
-{:cost 1
- :deck-limit 3
- :faction :jinteki
- :id "trick-of-light"
- :influence-cost 3
- :side :corp
- :stripped-text "Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card."
- :stripped-title "Trick of Light"
- :text "Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card."
- :title "Trick of Light"
- :type :operation
+{:cost 1,
+ :deck-limit 3,
+ :faction :jinteki,
+ :id "trick-of-light",
+ :influence-cost 3,
+ :side :corp,
+ :stripped-text
+   "Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card.",
+ :stripped-title "Trick of Light",
+ :text
+   "Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card.",
+ :title "Trick of Light",
+ :type :operation,
  :uniqueness false}

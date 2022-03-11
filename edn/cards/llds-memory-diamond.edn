@@ -1,13 +1,13 @@
-{:cost 4
- :deck-limit 3
- :faction :shaper
- :id "llds-memory-diamond"
- :influence-cost 1
- :side :runner
- :stripped-text "+1 mu, +1 link Your maximum hand size is increased by 1."
- :stripped-title "LLDS Memory Diamond"
- :subtype [:mod]
- :text "+1[mu], +1[link]\nYour maximum hand size is increased by 1."
- :title "LLDS Memory Diamond"
- :type :hardware
+{:cost 4,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "llds-memory-diamond",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text "+1 mu, +1 link Your maximum hand size is increased by 1.",
+ :stripped-title "LLDS Memory Diamond",
+ :subtype [:mod],
+ :text "+1[mu], +1[link]\nYour maximum hand size is increased by 1.",
+ :title "LLDS Memory Diamond",
+ :type :hardware,
  :uniqueness false}

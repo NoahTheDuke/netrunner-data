@@ -1,14 +1,16 @@
-{:cost 0
- :deck-limit 3
- :faction :nbn
- :id "ghost-branch"
- :influence-cost 1
- :side :corp
- :stripped-text "Ghost Branch can be advanced. When the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch."
- :stripped-title "Ghost Branch"
- :subtype [:ambush :facility]
- :text "Ghost Branch can be advanced.\nWhen the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch."
- :title "Ghost Branch"
- :trash-cost 0
- :type :asset
+{:cost 0,
+ :deck-limit 3,
+ :faction :nbn,
+ :id "ghost-branch",
+ :influence-cost 1,
+ :side :corp,
+ :stripped-text
+   "Ghost Branch can be advanced. When the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch.",
+ :stripped-title "Ghost Branch",
+ :subtype [:ambush :facility],
+ :text
+   "Ghost Branch can be advanced.\nWhen the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch.",
+ :title "Ghost Branch",
+ :trash-cost 0,
+ :type :asset,
  :uniqueness false}

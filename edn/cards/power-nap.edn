@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "power-nap"
- :influence-cost 2
- :side :runner
- :stripped-text "As an additional cost to play this event, spend click. Gain 2 credits. Gain an additional 1 credit for each double event in your heap."
- :stripped-title "Power Nap"
- :subtype [:double]
- :text "As an additional cost to play this event, spend [click].\nGain 2[credit]. Gain an additional 1[credit] for each <strong>double</strong> event in your heap."
- :title "Power Nap"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "power-nap",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "As an additional cost to play this event, spend click. Gain 2 credits. Gain an additional 1 credit for each double event in your heap.",
+ :stripped-title "Power Nap",
+ :subtype [:double],
+ :text
+   "As an additional cost to play this event, spend [click].\nGain 2[credit]. Gain an additional 1[credit] for each <strong>double</strong> event in your heap.",
+ :title "Power Nap",
+ :type :event,
  :uniqueness false}

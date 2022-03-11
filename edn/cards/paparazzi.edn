@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "paparazzi"
- :influence-cost 0
- :side :runner
- :stripped-text "You are tagged. Prevent all meat damage."
- :stripped-title "Paparazzi"
- :text "You are tagged.\nPrevent all meat damage."
- :title "Paparazzi"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "paparazzi",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text "You are tagged. Prevent all meat damage.",
+ :stripped-title "Paparazzi",
+ :text "You are tagged.\nPrevent all meat damage.",
+ :title "Paparazzi",
+ :type :resource,
  :uniqueness false}

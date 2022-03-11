@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :anarch
- :id "immolation-script"
- :influence-cost 3
- :side :runner
- :stripped-text "Run Archives. If successful, whenever you would access a faceup piece of ice in Archives this run, you may instead trash 1 rezzed copy of that ice. Use this ability only once this run."
- :stripped-title "Immolation Script"
- :subtype [:run]
- :text "Run Archives. If successful, whenever you would access a faceup piece of ice in Archives this run, you may instead trash 1 rezzed copy of that ice. Use this ability only once this run."
- :title "Immolation Script"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :anarch,
+ :id "immolation-script",
+ :influence-cost 3,
+ :side :runner,
+ :stripped-text
+   "Run Archives. If successful, whenever you would access a faceup piece of ice in Archives this run, you may instead trash 1 rezzed copy of that ice. Use this ability only once this run.",
+ :stripped-title "Immolation Script",
+ :subtype [:run],
+ :text
+   "Run Archives. If successful, whenever you would access a faceup piece of ice in Archives this run, you may instead trash 1 rezzed copy of that ice. Use this ability only once this run.",
+ :title "Immolation Script",
+ :type :event,
  :uniqueness false}

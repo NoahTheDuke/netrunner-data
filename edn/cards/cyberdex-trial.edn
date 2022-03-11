@@ -1,12 +1,12 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-corp
- :id "cyberdex-trial"
- :influence-cost 0
- :side :corp
- :stripped-text "Purge virus counters."
- :stripped-title "Cyberdex Trial"
- :text "Purge virus counters."
- :title "Cyberdex Trial"
- :type :operation
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-corp,
+ :id "cyberdex-trial",
+ :influence-cost 0,
+ :side :corp,
+ :stripped-text "Purge virus counters.",
+ :stripped-title "Cyberdex Trial",
+ :text "Purge virus counters.",
+ :title "Cyberdex Trial",
+ :type :operation,
  :uniqueness false}

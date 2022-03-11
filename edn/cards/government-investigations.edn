@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :neutral-runner
- :id "government-investigations"
- :influence-cost 0
- :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. While secretly spending credits, players cannot spend 2 credits."
- :stripped-title "Government Investigations"
- :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhile secretly spending credits, players cannot spend 2[credit]."
- :title "Government Investigations"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :neutral-runner,
+ :id "government-investigations",
+ :influence-cost 0,
+ :side :runner,
+ :stripped-text
+   "This card is not trashed until another current is played or an agenda is scored. While secretly spending credits, players cannot spend 2 credits.",
+ :stripped-title "Government Investigations",
+ :subtype [:current],
+ :text
+   "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhile secretly spending credits, players cannot spend 2[credit].",
+ :title "Government Investigations",
+ :type :event,
  :uniqueness false}

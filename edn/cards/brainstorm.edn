@@ -1,14 +1,16 @@
-{:cost 9
- :deck-limit 3
- :faction :haas-bioroid
- :id "brainstorm"
- :influence-cost 4
- :side :corp
- :strength 2
- :stripped-text "When the Runner encounters Brainstorm, it gains \"Subroutine Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run."
- :stripped-title "Brainstorm"
- :subtype [:sentry :ap]
- :text "When the Runner encounters Brainstorm, it gains \"[subroutine] Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run."
- :title "Brainstorm"
- :type :ice
+{:cost 9,
+ :deck-limit 3,
+ :faction :haas-bioroid,
+ :id "brainstorm",
+ :influence-cost 4,
+ :side :corp,
+ :strength 2,
+ :stripped-text
+   "When the Runner encounters Brainstorm, it gains \"Subroutine Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run.",
+ :stripped-title "Brainstorm",
+ :subtype [:sentry :ap],
+ :text
+   "When the Runner encounters Brainstorm, it gains \"[subroutine] Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run.",
+ :title "Brainstorm",
+ :type :ice,
  :uniqueness false}

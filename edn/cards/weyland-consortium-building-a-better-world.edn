@@ -1,13 +1,14 @@
-{:deck-limit 1
- :faction :weyland-consortium
- :id "weyland-consortium-building-a-better-world"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "Whenever you play a transaction operation, gain 1 credit."
- :stripped-title "Weyland Consortium: Building a Better World"
- :subtype [:megacorp]
- :text "Whenever you play a <strong>transaction</strong> operation, gain 1[credit]."
- :title "Weyland Consortium: Building a Better World"
- :type :identity
+{:deck-limit 1,
+ :faction :weyland-consortium,
+ :id "weyland-consortium-building-a-better-world",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text "Whenever you play a transaction operation, gain 1 credit.",
+ :stripped-title "Weyland Consortium: Building a Better World",
+ :subtype [:megacorp],
+ :text
+   "Whenever you play a <strong>transaction</strong> operation, gain 1[credit].",
+ :title "Weyland Consortium: Building a Better World",
+ :type :identity,
  :uniqueness false}

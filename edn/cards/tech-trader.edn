@@ -1,13 +1,13 @@
-{:cost 1
- :deck-limit 3
- :faction :criminal
- :id "tech-trader"
- :influence-cost 1
- :side :runner
- :stripped-text "Whenever you use a trash ability, gain 1 credit."
- :stripped-title "Tech Trader"
- :subtype [:connection]
- :text "Whenever you use a [trash] ability, gain 1[credit]."
- :title "Tech Trader"
- :type :resource
+{:cost 1,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "tech-trader",
+ :influence-cost 1,
+ :side :runner,
+ :stripped-text "Whenever you use a trash ability, gain 1 credit.",
+ :stripped-title "Tech Trader",
+ :subtype [:connection],
+ :text "Whenever you use a [trash] ability, gain 1[credit].",
+ :title "Tech Trader",
+ :type :resource,
  :uniqueness false}

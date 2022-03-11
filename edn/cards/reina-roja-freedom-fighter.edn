@@ -1,14 +1,16 @@
-{:base-link 1
- :deck-limit 1
- :faction :anarch
- :id "reina-roja-freedom-fighter"
- :influence-limit 15
- :minimum-deck-size 45
- :side :runner
- :stripped-text "The first piece of ice the Corp rezzes each turn costs 1 credit more to rez."
- :stripped-title "Reina Roja: Freedom Fighter"
- :subtype [:cyborg :g-mod]
- :text "The first piece of ice the Corp rezzes each turn costs 1[credit] more to rez."
- :title "Reina Roja: Freedom Fighter"
- :type :identity
+{:base-link 1,
+ :deck-limit 1,
+ :faction :anarch,
+ :id "reina-roja-freedom-fighter",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :runner,
+ :stripped-text
+   "The first piece of ice the Corp rezzes each turn costs 1 credit more to rez.",
+ :stripped-title "Reina Roja: Freedom Fighter",
+ :subtype [:cyborg :g-mod],
+ :text
+   "The first piece of ice the Corp rezzes each turn costs 1[credit] more to rez.",
+ :title "Reina Roja: Freedom Fighter",
+ :type :identity,
  :uniqueness false}

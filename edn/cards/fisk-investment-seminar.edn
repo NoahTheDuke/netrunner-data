@@ -1,13 +1,13 @@
-{:cost 0
- :deck-limit 3
- :faction :criminal
- :id "fisk-investment-seminar"
- :influence-cost 2
- :side :runner
- :stripped-text "Play only as your first click. Each player draws 3 cards."
- :stripped-title "Fisk Investment Seminar"
- :subtype [:priority]
- :text "Play only as your first [click].\nEach player draws 3 cards."
- :title "Fisk Investment Seminar"
- :type :event
+{:cost 0,
+ :deck-limit 3,
+ :faction :criminal,
+ :id "fisk-investment-seminar",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text "Play only as your first click. Each player draws 3 cards.",
+ :stripped-title "Fisk Investment Seminar",
+ :subtype [:priority],
+ :text "Play only as your first [click].\nEach player draws 3 cards.",
+ :title "Fisk Investment Seminar",
+ :type :event,
  :uniqueness false}

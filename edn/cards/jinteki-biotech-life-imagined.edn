@@ -1,21 +1,15 @@
-{:deck-limit 1
- :faction :jinteki
- :flips {:brewery {:text "When you flip this identity, do 2 net damage."
-                   :title "The Brewery: Jinteki Biotech"}
-         :front {:text "Before taking your first turn, you may switch this card with any copy of Jinteki Biotech.\n[click],[click],[click]: Flip this identity."
-                 :title "Jinteki Biotech: Life Imagined"}
-         :greenhouse {:text "When you flip this identity, place 4 advancement tokens on a card that can be advanced"
-                      :title "The Greenhouse: Jinteki Biotech"}
-         :tank {:text "When you flip this identity, shuffle Archives into R&D."
-                :title "The Tank: Jinteki Biotech"}}
- :id "jinteki-biotech-life-imagined"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity. The Brewery: When you flip this identity, do 2 net damage. The Tank: When you flip this identity, shuffle all cards in Archives into R&D. The Greenhouse: When you flip this identity, place 4 advancement counters on 1 installed card that you can advance."
- :stripped-title "Jinteki Biotech: Life Imagined"
- :subtype [:division]
- :text "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech.\n<strong>[click][click][click]:</strong> Flip this identity.\nThe Brewery: When you flip this identity, do 2 net damage.\nThe Tank: When you flip this identity, shuffle all cards in Archives into R&D.\nThe Greenhouse: When you flip this identity, place 4 advancement counters on 1 installed card that you can advance."
- :title "Jinteki Biotech: Life Imagined"
- :type :identity
+{:deck-limit 1,
+ :faction :jinteki,
+ :id "jinteki-biotech-life-imagined",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text
+   "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity. The Brewery: When you flip this identity, do 2 net damage. The Tank: When you flip this identity, shuffle all cards in Archives into R&D. The Greenhouse: When you flip this identity, place 4 advancement counters on 1 installed card that you can advance.",
+ :stripped-title "Jinteki Biotech: Life Imagined",
+ :subtype [:division],
+ :text
+   "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech.\n<strong>[click][click][click]:</strong> Flip this identity.\nThe Brewery: When you flip this identity, do 2 net damage.\nThe Tank: When you flip this identity, shuffle all cards in Archives into R&D.\nThe Greenhouse: When you flip this identity, place 4 advancement counters on 1 installed card that you can advance.",
+ :title "Jinteki Biotech: Life Imagined",
+ :type :identity,
  :uniqueness false}

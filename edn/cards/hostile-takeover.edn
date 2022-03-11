@@ -1,13 +1,14 @@
-{:advancement-requirement 2
- :agenda-points 1
- :deck-limit 3
- :faction :weyland-consortium
- :id "hostile-takeover"
- :side :corp
- :stripped-text "When you score this agenda, gain 7 credits and take 1 bad publicity."
- :stripped-title "Hostile Takeover"
- :subtype [:expansion]
- :text "When you score this agenda, gain 7[credit] and take 1 bad publicity."
- :title "Hostile Takeover"
- :type :agenda
+{:advancement-requirement 2,
+ :agenda-points 1,
+ :deck-limit 3,
+ :faction :weyland-consortium,
+ :id "hostile-takeover",
+ :side :corp,
+ :stripped-text
+   "When you score this agenda, gain 7 credits and take 1 bad publicity.",
+ :stripped-title "Hostile Takeover",
+ :subtype [:expansion],
+ :text "When you score this agenda, gain 7[credit] and take 1 bad publicity.",
+ :title "Hostile Takeover",
+ :type :agenda,
  :uniqueness false}

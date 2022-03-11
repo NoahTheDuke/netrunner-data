@@ -1,13 +1,15 @@
-{:cost 0
- :deck-limit 3
- :faction :shaper
- :id "liberated-chela"
- :influence-cost 2
- :side :runner
- :stripped-text "click,click,click,click,click, forfeit an agenda: Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game."
- :stripped-title "Liberated Chela"
- :subtype [:connection]
- :text "[click],[click],[click],[click],[click], <strong>forfeit an agenda:</strong> Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game."
- :title "Liberated Chela"
- :type :resource
+{:cost 0,
+ :deck-limit 3,
+ :faction :shaper,
+ :id "liberated-chela",
+ :influence-cost 2,
+ :side :runner,
+ :stripped-text
+   "click,click,click,click,click, forfeit an agenda: Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game.",
+ :stripped-title "Liberated Chela",
+ :subtype [:connection],
+ :text
+   "[click],[click],[click],[click],[click], <strong>forfeit an agenda:</strong> Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game.",
+ :title "Liberated Chela",
+ :type :resource,
  :uniqueness false}

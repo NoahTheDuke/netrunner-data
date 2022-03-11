@@ -1,13 +1,13 @@
-{:deck-limit 1
- :faction :haas-bioroid
- :id "haas-bioroid-stronger-together"
- :influence-limit 15
- :minimum-deck-size 45
- :side :corp
- :stripped-text "All bioroid ice has +1 strength."
- :stripped-title "Haas-Bioroid: Stronger Together"
- :subtype [:megacorp]
- :text "All <strong>bioroid</strong> ice has +1 strength."
- :title "Haas-Bioroid: Stronger Together"
- :type :identity
+{:deck-limit 1,
+ :faction :haas-bioroid,
+ :id "haas-bioroid-stronger-together",
+ :influence-limit 15,
+ :minimum-deck-size 45,
+ :side :corp,
+ :stripped-text "All bioroid ice has +1 strength.",
+ :stripped-title "Haas-Bioroid: Stronger Together",
+ :subtype [:megacorp],
+ :text "All <strong>bioroid</strong> ice has +1 strength.",
+ :title "Haas-Bioroid: Stronger Together",
+ :type :identity,
  :uniqueness false}
