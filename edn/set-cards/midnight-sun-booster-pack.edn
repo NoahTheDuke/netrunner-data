@@ -1,0 +1,45 @@
+[{:card-id "light-the-fire"
+  :code "32001"
+  :flavor "A single spark is all it takes..."
+  :illustrator "Olie Boldador"
+  :position 1
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}
+ {:card-id "revolver"
+  :code "32002"
+  :illustrator "Bruno Balixa"
+  :position 2
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}
+ {:card-id "deep-dive"
+  :code "32003"
+  :illustrator "Cat Shen"
+  :position 3
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}
+ {:card-id "hakarl-1-0"
+  :code "32004"
+  :illustrator "Jakuza"
+  :position 4
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}
+ {:card-id "anemone"
+  :code "32005"
+  :flavor "Ethereal beauty brings sweet death with only a brief touch."
+  :illustrator "Jack Reeves"
+  :position 5
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}
+ {:card-id "vladisibirsk-city-grid"
+  :code "32006"
+  :illustrator "Kira L. Nguyen"
+  :position 6
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}
+ {:card-id "azef-protocol"
+  :code "32007"
+  :flavor "Argus Security is always willing to send agents over to assist with radical asset reassignment."
+  :illustrator "Benjamin Giletti"
+  :position 7
+  :quantity 3
+  :set-id "midnight-sun-booster-pack"}]

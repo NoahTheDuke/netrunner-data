@@ -1,9 +1,5 @@
 {:deck-limit 1
  :faction :nbn
- :flips {:back {:text "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."
-                :title "SYNC: Everything, Everywhere"}
-         :front {:text "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability)."
-                 :title "SYNC: Everything, Everywhere"}}
  :id "sync-everything-everywhere"
  :influence-limit 15
  :minimum-deck-size 40

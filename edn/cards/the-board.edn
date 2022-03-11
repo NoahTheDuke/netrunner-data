@@ -4,10 +4,10 @@
  :id "the-board"
  :influence-cost 5
  :side :corp
- :stripped-text "Each agenda in the Runner's score area is worth 1 fewer agenda point. If The Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
+ :stripped-text "Each agenda in the Runner's score area is worth 1 less agenda point. When this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
  :stripped-title "The Board"
  :subtype [:executive]
- :text "Each agenda in the Runner's score area is worth 1 fewer agenda point.\nIf The Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
+ :text "Each agenda in the Runner's score area is worth 1 less agenda point.\nWhen this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
  :title "The Board"
  :trash-cost 7
  :type :asset

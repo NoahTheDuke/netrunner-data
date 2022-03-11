@@ -4,10 +4,10 @@
  :id "victoria-jenkins"
  :influence-cost 5
  :side :corp
- :stripped-text "The Runner has 1 fewer click to spend during his or her turn. If Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points."
+ :stripped-text "The Runner has -1 allotted click on their turn. When this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
  :stripped-title "Victoria Jenkins"
  :subtype [:executive]
- :text "The Runner has 1 fewer [click] to spend during his or her turn.\nIf Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points."
+ :text "The Runner has -1 allotted [click] on their turn.\nWhen this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
  :title "Victoria Jenkins"
  :trash-cost 5
  :type :asset

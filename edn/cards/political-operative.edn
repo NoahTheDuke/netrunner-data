@@ -7,7 +7,7 @@
  :stripped-text "Install only if you made a successful run on HQ this turn. trash, X credits: Trash 1 rezzed card with trash cost equal to X."
  :stripped-title "Political Operative"
  :subtype [:connection]
- :text "Install only if you made a successful run on HQ this turn.\n<strong>[trash]<strong>, <strong>X[credit]:</strong> Trash 1 rezzed card with trash cost equal to X."
+ :text "Install only if you made a successful run on HQ this turn.\n<strong>[trash]</strong>, <strong>X[credit]:</strong> Trash 1 rezzed card with trash cost equal to X."
  :title "Political Operative"
  :type :resource
  :uniqueness false}
