@@ -11,7 +11,8 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"]
+           "ashes"
+           "borealis"]
   :mwl "standard-ban-list-21-10"}
  {:id "system-gateway"
   :name "System Gateway"
@@ -21,7 +22,8 @@
   :name "Startup"
   :sets ["system-gateway"
          "system-update-2021"]
-  :cycles ["ashes"]
+  :cycles ["ashes"
+           "borealis"]
   :mwl nil}
  {:id "eternal"
   :name "Eternal"
@@ -45,7 +47,8 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"]
+           "ashes"
+           "borealis"]
   :mwl "eternal-points-list-21-11"}
  {:id "snapshot"
   :name "Snapshot"
@@ -101,5 +104,6 @@
            "flashpoint"
            "red-sand"
            "kitara"
-           "ashes"]
+           "ashes"
+           "borealis"]
   :mwl "classic-mwl-1-0"}]
