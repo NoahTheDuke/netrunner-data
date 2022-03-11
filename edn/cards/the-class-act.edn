@@ -4,10 +4,10 @@
  :id "the-class-act"
  :influence-cost 5
  :side :runner
- :stripped-text "When the turn during which you installed this resource ends, draw 4 cards. Interrupt -> The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1. Errata from CR 1.4"
+ :stripped-text "When your discard phase ends, if you installed this resource this turn, draw 4 cards. Interrupt -> The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, if you drew at least 2, add 1 of them to the bottom of your stack."
  :stripped-title "The Class Act"
  :subtype [:connection :ritzy]
- :text "When the turn during which you installed this resource ends, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1.\n<errata>Errata from CR 1.4</errata>"
+ :text "When your discard phase ends, if you installed this resource this turn, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, if you drew at least 2, add 1 of them to the bottom of your stack."
  :title "The Class Act"
  :type :resource
  :uniqueness true}

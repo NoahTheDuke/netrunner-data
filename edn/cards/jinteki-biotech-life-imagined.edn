@@ -1,13 +1,5 @@
 {:deck-limit 1
  :faction :jinteki
- :flips {:brewery {:text "When you flip this identity, do 2 net damage."
-                   :title "The Brewery: Jinteki Biotech"}
-         :front {:text "Before taking your first turn, you may switch this card with any copy of Jinteki Biotech.\n[click],[click],[click]: Flip this identity."
-                 :title "Jinteki Biotech: Life Imagined"}
-         :greenhouse {:text "When you flip this identity, place 4 advancement tokens on a card that can be advanced"
-                      :title "The Greenhouse: Jinteki Biotech"}
-         :tank {:text "When you flip this identity, shuffle Archives into R&D."
-                :title "The Tank: Jinteki Biotech"}}
  :id "jinteki-biotech-life-imagined"
  :influence-limit 15
  :minimum-deck-size 45

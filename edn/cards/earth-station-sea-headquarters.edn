@@ -1,9 +1,5 @@
 {:deck-limit 1
  :faction :weyland-consortium
- :flips {:back {:text "Limit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity."
-                :title "Earth Station: Ascending to Orbit"}
-         :front {:text "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n[click]: Flip this identity."
-                 :title "Earth Station: SEA Headquarters"}}
  :id "earth-station-sea-headquarters"
  :influence-limit 15
  :minimum-deck-size 45

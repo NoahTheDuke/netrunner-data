@@ -677,4 +677,14 @@
   :name "System Update 2021"
   :position 1
   :set-type :core
-  :size 82}]
+  :size 82}
+ {:code "msbp"
+  :cycle-id "borealis"
+  :date-release "2022-03-18"
+  :deluxe false
+  :ffg-id nil
+  :id "midnight-sun-booster-pack"
+  :name "Midnight Sun Booster Pack"
+  :position 1
+  :set-type :data-pack
+  :size 7}]
