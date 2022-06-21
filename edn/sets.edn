@@ -687,4 +687,14 @@
   :name "Midnight Sun Booster Pack"
   :position 1
   :set-type :data-pack
-  :size 7}]
+  :size 7}
+ {:code "ms"
+  :cycle-id "borealis"
+  :date-release "2022-08-05"
+  :deluxe false
+  :ffg-id nil
+  :id "midnight-sun"
+  :name "Midnight Sun"
+  :position 2
+  :set-type :data-pack
+  :size 65}]
