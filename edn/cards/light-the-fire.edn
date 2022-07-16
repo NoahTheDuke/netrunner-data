@@ -4,10 +4,10 @@
  :id "light-the-fire"
  :influence-cost 2
  :side :runner
- :stripped-text "click, trash, suffer 1 brain damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
+ :stripped-text "click, trash, suffer 1 core damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
  :stripped-title "Light the Fire!"
  :subtype [:sabotage]
- :text "[click], [trash], suffer 1 brain damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
+ :text "[click], [trash], <strong>suffer 1 core damage:</strong> Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
  :title "Light the Fire!"
  :type :resource
  :uniqueness false}

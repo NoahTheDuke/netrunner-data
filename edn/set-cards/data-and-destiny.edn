@@ -194,6 +194,7 @@
   :set-id "data-and-destiny"}
  {:card-id "apocalypse"
   :code "09030"
+  :flavor "THE DESTROYER OF WORLDS"
   :illustrator "Shawn Ye Zhongyi"
   :position 30
   :quantity 3
@@ -220,6 +221,7 @@
   :set-id "data-and-destiny"}
  {:card-id "harbinger"
   :code "09034"
+  :flavor "I AM BECOME DEATH"
   :illustrator "Adam S. Doyle"
   :position 34
   :quantity 3

@@ -4,10 +4,10 @@
  :id "service-outage"
  :influence-cost 1
  :side :corp
- :stripped-text "This card is not trashed until another current is played or an agenda is stolen. As an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1 credit."
+ :stripped-text "This operation is not trashed until another current is played or an agenda is stolen. As an additional cost to run for the first time during their turn, the Runner must spend 1 credit."
  :stripped-title "Service Outage"
  :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit]."
+ :text "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to run for the first time during their turn, the Runner must spend 1[credit]."
  :title "Service Outage"
  :type :operation
  :uniqueness false}

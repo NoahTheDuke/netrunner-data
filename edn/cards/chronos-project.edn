@@ -5,10 +5,10 @@
  :id "chronos-project"
  :influence-cost 0
  :side :corp
- :stripped-text "When you score Chronos Project, the Runner removes all cards in his or her heap from the game."
+ :stripped-text "When you score this agenda, the Runner removes all cards in the heap from the game."
  :stripped-title "Chronos Project"
  :subtype [:research]
- :text "When you score Chronos Project, the Runner removes all cards in his or her heap from the game."
+ :text "When you score this agenda, the Runner removes all cards in the heap from the game."
  :title "Chronos Project"
  :type :agenda
  :uniqueness false}

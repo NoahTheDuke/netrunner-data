@@ -4,10 +4,10 @@
  :id "ronald-five"
  :influence-cost 3
  :side :corp
- :stripped-text "Whenever the Runner trashes a Corp card (including Ronald Five), he or she loses click."
+ :stripped-text "Whenever the Runner trashes a Corp card (including this asset), they lose click."
  :stripped-title "Ronald Five"
  :subtype [:bioroid]
- :text "Whenever the Runner trashes a Corp card (including Ronald Five), he or she loses [click]."
+ :text "Whenever the Runner trashes a Corp card <em>(including this asset)</em>, they lose [click]."
  :title "Ronald Five"
  :trash-cost 3
  :type :asset

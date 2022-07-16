@@ -4,10 +4,10 @@
  :id "franchise-city"
  :influence-cost 5
  :side :corp
- :stripped-text "While the Runner is accessing an agenda from R&D, they must reveal it. When the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point."
+ :stripped-text "While the Runner is accessing an agenda in R&D, they must reveal it. When the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point."
  :stripped-title "Franchise City"
  :subtype [:facility]
- :text "While the Runner is accessing an agenda from R&D, they must reveal it.\nWhen the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point."
+ :text "While the Runner is accessing an agenda in R&D, they must reveal it.\nWhen the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point."
  :title "Franchise City"
  :trash-cost 2
  :type :asset

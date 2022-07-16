@@ -29,7 +29,7 @@
  {:card-id "timely-public-release"
   :code "23027"
   :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>"
-  :illustrator "Matthew Zeilinger"
+  :illustrator "Matt Zeilinger"
   :position 5
   :quantity 3
   :set-id "magnum-opus"}
@@ -50,7 +50,7 @@
  {:card-id "hired-help"
   :code "23101"
   :flavor "<champion>Designed by the Day 1B players at Magnum Opus</champion>"
-  :illustrator "Matthew Zeilinger"
+  :illustrator "Matt Zeilinger"
   :position 8
   :quantity 1
   :set-id "magnum-opus"}]

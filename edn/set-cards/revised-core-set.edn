@@ -393,7 +393,7 @@
  {:card-id "armitage-codebusting"
   :code "20059"
   :flavor "Drudge work, but it pays the bills."
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 59
   :quantity 3
   :set-id "revised-core-set"}
@@ -680,7 +680,7 @@
  {:card-id "anonymous-tip"
   :code "20118"
   :flavor "\"Please stay connected. Priority transfer in progress. An operator will shortly verif-\""
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 102
   :quantity 1
   :set-id "revised-core-set"}
@@ -700,7 +700,7 @@
  {:card-id "sea-source"
   :code "20121"
   :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 105
   :quantity 2
   :set-id "revised-core-set"}
@@ -836,7 +836,7 @@
  {:card-id "priority-requisition"
   :code "20125"
   :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 125
   :quantity 2
   :set-id "revised-core-set"}

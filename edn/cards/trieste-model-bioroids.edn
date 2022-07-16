@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "trieste-model-bioroids"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When you rez this asset, choose 1 rezzed piece of bioroid ice. Runner card abilities cannot break subroutines on the chosen ice."
+ :stripped-title "Trieste Model Bioroids"
+ :subtype [:bioroid]
+ :text "When you rez this asset, choose 1 rezzed piece of <strong>bioroid</strong> ice.\nRunner card abilities cannot break subroutines on the chosen ice."
+ :title "Trieste Model Bioroids"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

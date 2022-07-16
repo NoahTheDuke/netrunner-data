@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 4
- :stripped-text "Subroutine The Runner must either trash 1 program or trash the top 2 cards from his or her stack."
+ :stripped-text "Subroutine The Runner must trash either 1 installed program or the top 2 cards of the stack."
  :stripped-title "Bloodletter"
  :subtype [:sentry :destroyer]
- :text "[subroutine] The Runner must either trash 1 program or trash the top 2 cards from his or her stack."
+ :text "[subroutine] The Runner must trash either 1 installed program or the top 2 cards of the stack."
  :title "Bloodletter"
  :type :ice
  :uniqueness false}

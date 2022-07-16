@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :weyland-consortium
+ :id "ob-superheavy-logistics-extract-export-excel"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Whenever you trash a rezzed card, except during installation, you may search R&D for 1 card with a printed rez cost exactly 1 credit less than the trashed card's printed rez cost. Install and rez the card you found, ignoring credit costs. Use this ability only once per turn."
+ :stripped-title "Ob Superheavy Logistics: Extract. Export. Excel."
+ :subtype [:corp]
+ :text "Whenever you trash a rezzed card, except during installation, you may search R&D for 1 card with a printed rez cost exactly 1[credit] less than the trashed card's printed rez cost. Install and rez the card you found, ignoring credit costs. Use this ability only once per turn."
+ :title "Ob Superheavy Logistics: Extract. Export. Excel."
+ :type :identity
+ :uniqueness false}

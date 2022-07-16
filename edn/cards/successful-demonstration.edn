@@ -4,10 +4,10 @@
  :id "successful-demonstration"
  :influence-cost 1
  :side :corp
- :stripped-text "Play only if the Runner made an unsuccessful run during his or her last turn. Gain 7 credits."
+ :stripped-text "Play only if the Runner made an unsuccessful run during their last turn. Gain 7 credits."
  :stripped-title "Successful Demonstration"
  :subtype [:transaction]
- :text "Play only if the Runner made an unsuccessful run during his or her last turn.\nGain 7[credit]."
+ :text "Play only if the Runner made an unsuccessful run during their last turn.\nGain 7[credit]."
  :title "Successful Demonstration"
  :type :operation
  :uniqueness false}

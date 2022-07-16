@@ -71,7 +71,7 @@
  {:card-id "scrubber"
   :code "31011"
   :flavor "Destruction is forever."
-  :illustrator "Krembler & Zoe Cohen"
+  :illustrator "Krembler, Zoe Cohen"
   :position 11
   :quantity 3
   :set-id "system-update-2021"}
@@ -238,7 +238,7 @@
  {:card-id "aesop-s-pawnshop"
   :code "31035"
   :flavor "If you have something to sell, Aesop is interested in buying. The only detail he won't ask is where you got it."
-  :illustrator "Krembler & Alexis Spicer"
+  :illustrator "Krembler, Alexis Spicer"
   :position 35
   :quantity 3
   :set-id "system-update-2021"}
@@ -259,7 +259,7 @@
  {:card-id "prepaid-voicepad"
   :code "31038"
   :flavor "They were off the market for years, till the Beanstalk Crisis made redundancy fashionable again."
-  :illustrator "Zoe Cohen & Alexis Spicer"
+  :illustrator "Zoe Cohen, Alexis Spicer"
   :position 38
   :quantity 3
   :set-id "system-update-2021"}
@@ -490,7 +490,7 @@
  {:card-id "hostile-takeover"
   :code "31071"
   :flavor "Sometimes the small fry need a little convincing to put profit over principle."
-  :illustrator "Akira J. Mitchell & Matt Burton"
+  :illustrator "Akira J. Mitchell, Matt Burton"
   :position 71
   :quantity 3
   :set-id "system-update-2021"}

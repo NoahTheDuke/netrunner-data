@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "virtuoso"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "+1 mu When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends. Limit 1 console per player."
+ :stripped-title "Virtuoso"
+ :subtype [:console]
+ :text "+1[mu]\nWhen your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends.\nLimit 1 <strong>console</strong> per player."
+ :title "Virtuoso"
+ :type :hardware
+ :uniqueness true}

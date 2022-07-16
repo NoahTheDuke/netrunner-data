@@ -4,10 +4,10 @@
  :faction :nbn
  :id "astroscript-pilot-program"
  :side :corp
- :stripped-text "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Place 1 advancement counter on 1 installed card that you can advance. Limit 1 per deck."
+ :stripped-text "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Place 1 advancement counter on an installed card you can advance. Limit 1 per deck."
  :stripped-title "AstroScript Pilot Program"
  :subtype [:initiative]
- :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> Place 1 advancement counter on 1 installed card that you can advance.\nLimit 1 per deck."
+ :text "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> Place 1 advancement counter on an installed card you can advance.\nLimit 1 per deck."
  :title "AstroScript Pilot Program"
  :type :agenda
  :uniqueness false}

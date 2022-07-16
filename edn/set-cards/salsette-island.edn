@@ -34,6 +34,7 @@
   :set-id "salsette-island"}
  {:card-id "patron"
   :code "10063"
+  :flavor "\"Anyone who can afford dwarf elephants can afford to be my friend.\" -Fake-ir"
   :illustrator "Antonio De Luca"
   :position 63
   :quantity 3

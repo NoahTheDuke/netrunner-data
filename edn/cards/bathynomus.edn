@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "bathynomus"
+ :influence-cost 3
+ :side :corp
+ :strength 1
+ :stripped-text "While this ice is protecting Archives, it gets +3 strength. Subroutine Do 3 net damage."
+ :stripped-title "Bathynomus"
+ :subtype [:sentry :ap]
+ :text "While this ice is protecting Archives, it gets +3 strength.\n[subroutine] Do 3 net damage."
+ :title "Bathynomus"
+ :type :ice
+ :uniqueness false}

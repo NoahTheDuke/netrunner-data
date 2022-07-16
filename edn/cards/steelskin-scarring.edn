@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "steelskin-scarring"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Draw 3 cards. When this event is trashed from your grip or stack, you may draw 2 cards."
+ :stripped-title "Steelskin Scarring"
+ :text "Draw 3 cards.\nWhen this event is trashed from your grip or stack, you may draw 2 cards."
+ :title "Steelskin Scarring"
+ :type :event
+ :uniqueness false}

@@ -4,10 +4,10 @@
  :id "midway-station-grid"
  :influence-cost 4
  :side :corp
- :stripped-text "The Runner must pay 1 credit as an additional cost each time he or she uses an icebreaker to break at least 1 subroutine during a run on this server. Limit 1 region per server."
+ :stripped-text "During runs on this server, the Runner must pay 1 credit as an additional cost to use an icebreaker ability to break subroutines. Limit 1 region per server."
  :stripped-title "Midway Station Grid"
  :subtype [:beanstalk :region]
- :text "The Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine during a run on this server.\nLimit 1 <strong>region</strong> per server."
+ :text "During runs on this server, the Runner must pay 1[credit] as an additional cost to use an <strong>icebreaker</strong> ability to break subroutines.\nLimit 1 <strong>region</strong> per server."
  :title "Midway Station Grid"
  :trash-cost 4
  :type :upgrade

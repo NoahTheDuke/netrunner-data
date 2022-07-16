@@ -1,0 +1,198 @@
+[{:card-id "esa-afontov-eco-insurrectionist"
+  :code "33001"
+  :flavor "Waiting is useless. The crisis is here; pick a side."
+  :illustrator "Benjamin Giletti"
+  :position 1
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "chastushka"
+  :code "33002"
+  :flavor "We're all alike down here\nAndroids are friends we salute\nGive us all a f***ing break\nOl' Jack is the s*** on my boot."
+  :illustrator "Adam S. Doyle"
+  :position 2
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "running-hot"
+  :code "33003"
+  :flavor "We can change the world, if we're willing to be changed in return."
+  :illustrator "Elizaveta Sokolova"
+  :position 3
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "steelskin-scarring"
+  :code "33004"
+  :flavor "Reactive implants reclaim the memories of our fallen comrades. Their sacrifice is our shield."
+  :illustrator "Elliott Birt"
+  :position 4
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "marrow"
+  :code "33006"
+  :illustrator "Martin de Diego Sádaba"
+  :position 6
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "avgustina-ivanovskaya"
+  :code "33008"
+  :flavor "\"Sometimes being a union rep calls for action even more... direct.\""
+  :illustrator "Dave Lee"
+  :position 8
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "light-the-fire"
+  :code "33009"
+  :flavor "A single spark is all that it takes to destroy billions of credits... or to burn away the rot that ravages our world."
+  :illustrator "Olie Boldador"
+  :position 9
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "nyusha-sable-sintashta-symphonic-prodigy"
+  :code "33011"
+  :flavor "Flaws hold both beauty and opportunity."
+  :illustrator "Benjamin Giletti"
+  :position 11
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "pinhole-threading"
+  :code "33013"
+  :flavor "Neneciğim would be proud."
+  :illustrator "Bruno Balixa"
+  :position 13
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "virtuoso"
+  :code "33015"
+  :illustrator "Zoe Cohen"
+  :position 15
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "cezve"
+  :code "33017"
+  :flavor "The feel of flour-fine coffee, the scent of caramelizing sugar, the gentle heat of the flame. A ritual I never forget."
+  :illustrator "Bruno Balixa"
+  :position 17
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "revolver"
+  :code "33018"
+  :flavor "\"Aim with your eye. Shoot with your mind. Break with your soul.\" –Sundog"
+  :illustrator "Bruno Balixa"
+  :position 18
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "captain-padma-isbister-intrepid-explorer"
+  :code "33021"
+  :flavor "The sea is everything; its breath must remain pure and healthy."
+  :illustrator "Benjamin Giletti"
+  :position 21
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "deep-dive"
+  :code "33022"
+  :illustrator "Cat Shen"
+  :position 22
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "rigging-up"
+  :code "33024"
+  :flavor "Edie doesn't mind the noise. She's happy just being nearby."
+  :illustrator "Benjamin Giletti"
+  :position 24
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "endurance"
+  :code "33025"
+  :illustrator "Anna Butova"
+  :position 25
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "trieste-model-bioroids"
+  :code "33034"
+  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<champion>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</champion>"
+  :illustrator "Dimik"
+  :position 34
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "hakarl-1-0"
+  :code "33036"
+  :illustrator "Jakuza"
+  :position 36
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "anemone"
+  :code "33043"
+  :flavor "Ethereal beauty laced with the most elegant venom."
+  :illustrator "Jack Reeves"
+  :position 43
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "bathynomus"
+  :code "33044"
+  :flavor "Digital refuse is their food, and you should never come between an animal and its food."
+  :illustrator "Jack Reeves"
+  :position 44
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "pravdivost-consulting-political-solutions"
+  :code "33048"
+  :flavor "Political news, fit for public consumption."
+  :illustrator "Emilio Rodriguez"
+  :position 48
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "artificial-cryptocrash"
+  :code "33049"
+  :flavor "The line goes up... until we don't need it to anymore."
+  :illustrator "Wyn Lacabra"
+  :position 49
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ubiquitous-vig"
+  :code "33052"
+  :flavor "They say they'll only take a handful, but oh what big hands they have!"
+  :illustrator "Adam S. Doyle"
+  :position 52
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "vasilisa"
+  :code "33054"
+  :flavor "No task the witch set would ever be too great, for Vasilisa had her mother's blessing."
+  :illustrator "BalanceSheet"
+  :position 54
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "vladisibirsk-city-grid"
+  :code "33056"
+  :flavor "Straddling the banks of the Ob River, this metropolis contains hope for a better tomorrow."
+  :illustrator "Kira L. Nguyen"
+  :position 56
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ob-superheavy-logistics-extract-export-excel"
+  :code "33057"
+  :flavor "Take all that is offered, and more."
+  :illustrator "Vitalii Ostaschenko"
+  :position 57
+  :quantity 1
+  :set-id "midnight-sun"}
+ {:card-id "azef-protocol"
+  :code "33058"
+  :flavor "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\" –Yakov Avdakov"
+  :illustrator "Benjamin Giletti"
+  :position 58
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "svyatogor-excavator"
+  :code "33059"
+  :flavor "It doesn't matter how long you've owned the land, you'd better hope there's nothing valuable beneath."
+  :illustrator "Vitalii Ostaschenko"
+  :position 59
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "trust-operation"
+  :code "33065"
+  :flavor "Identify. Contact. Entrap. Counterintelligence never changes."
+  :illustrator "Olie Boldador"
+  :position 65
+  :quantity 3
+  :set-id "midnight-sun"}]

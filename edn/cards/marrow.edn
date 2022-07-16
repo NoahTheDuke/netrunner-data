@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "marrow"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "+1 mu You get +3 maximum hand size. When you install this hardware, suffer 1 core damage. Whenever the Corp scores an agenda, sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.) Limit 1 console per player."
+ :stripped-title "Marrow"
+ :subtype [:console :cybernetic]
+ :text "+1[mu]\nYou get +3 maximum hand size.\nWhen you install this hardware, suffer 1 core damage.\nWhenever the Corp scores an agenda, sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>\nLimit 1 <strong>console</strong> per player."
+ :title "Marrow"
+ :type :hardware
+ :uniqueness true}

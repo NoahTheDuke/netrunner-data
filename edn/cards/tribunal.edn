@@ -5,10 +5,10 @@
  :influence-cost 0
  :side :corp
  :strength 3
- :stripped-text "Subroutine The Runner trashes 1 of his or her installed cards. Subroutine The Runner trashes 1 of his or her installed cards. Subroutine The Runner trashes 1 of his or her installed cards."
+ :stripped-text "Subroutine The Runner trashes 1 of their installed cards. Subroutine The Runner trashes 1 of their installed cards. Subroutine The Runner trashes 1 of their installed cards."
  :stripped-title "Tribunal"
  :subtype [:sentry]
- :text "[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards."
+ :text "[subroutine] The Runner trashes 1 of their installed cards.\n[subroutine] The Runner trashes 1 of their installed cards.\n[subroutine] The Runner trashes 1 of their installed cards."
  :title "Tribunal"
  :type :ice
  :uniqueness false}

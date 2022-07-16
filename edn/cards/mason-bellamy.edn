@@ -4,10 +4,10 @@
  :id "mason-bellamy"
  :influence-cost 3
  :side :corp
- :stripped-text "Whenever an encounter with a piece of ice protecting this server ends in which the Runner broke at least one subroutine, he or she loses click, if able."
+ :stripped-text "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose click."
  :stripped-title "Mason Bellamy"
  :subtype [:sysop]
- :text "Whenever an encounter with a piece of ice protecting this server ends in which the Runner broke at least one subroutine, he or she loses [click], if able."
+ :text "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose [click]."
  :title "Mason Bellamy"
  :trash-cost 3
  :type :upgrade

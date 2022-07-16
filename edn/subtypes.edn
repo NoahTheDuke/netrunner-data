@@ -100,6 +100,8 @@
   :name "Icebreaker"}
  {:id :illicit
   :name "Illicit"}
+ {:id :industrial
+  :name "Industrial"}
  {:id :initiative
   :name "Initiative"}
  {:id :job

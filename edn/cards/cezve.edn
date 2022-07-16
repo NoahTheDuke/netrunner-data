@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "cezve"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :stripped-text "2 recurring credits (When you install this card and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits during runs on central servers."
+ :stripped-title "Cezve"
+ :text "2[recurring-credit] <em>(When you install this card and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits during runs on central servers."
+ :title "Cezve"
+ :type :program
+ :uniqueness false}

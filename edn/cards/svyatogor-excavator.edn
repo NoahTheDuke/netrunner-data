@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "svyatogor-excavator"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3 credits."
+ :stripped-title "Svyatogor Excavator"
+ :subtype [:industrial]
+ :text "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3[credit]."
+ :title "Svyatogor Excavator"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

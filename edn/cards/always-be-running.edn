@@ -4,10 +4,10 @@
  :id "always-be-running"
  :influence-cost 3
  :side :runner
- :stripped-text "The first click you spend each turn must be spent to play a run event or take the basic action to run a server. Lose click click: Break 1 subroutine on the ice you are encountering. Use this ability only once per turn."
+ :stripped-text "The first click you spend each turn must be spent to play a run event or take the basic action to run a server. Lose click click: Break 1 subroutine. Use this ability only once per turn."
  :stripped-title "Always Be Running"
  :subtype [:directive :virtual]
- :text "The first [click] you spend each turn must be spent to play a <strong>run</strong> event or take the basic action to run a server.\n<strong>Lose [click][click]:</strong> Break 1 subroutine on the ice you are encountering. Use this ability only once per turn."
+ :text "The first [click] you spend each turn must be spent to play a <strong>run</strong> event or take the basic action to run a server.\n<strong>Lose [click][click]:</strong> Break 1 subroutine. Use this ability only once per turn."
  :title "Always Be Running"
  :type :resource
  :uniqueness true}

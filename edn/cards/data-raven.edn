@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 4
- :stripped-text "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace 3 If successful, place 1 power counter on Data Raven."
+ :stripped-text "When the Runner encounters this ice, they must take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace 3. If successful, place 1 power counter on this ice."
  :stripped-title "Data Raven"
  :subtype [:sentry :tracer :observer]
- :text "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Data Raven."
+ :text "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace>. If successful, place 1 power counter on this ice."
  :title "Data Raven"
  :type :ice
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "mca-informant"
  :influence-cost 2
  :side :corp
- :stripped-text "After you resolve this operation, end your action phase. Install this operation on a connection resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains 'click, 2 credits: Trash this card.'\""
+ :stripped-text "After you resolve this operation, your action phase ends. Host this operation on an installed connection resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains 'click, 2 credits: Trash this resource.'\""
  :stripped-title "MCA Informant"
  :subtype [:terminal]
- :text "After you resolve this operation, end your action phase.\nInstall this operation on a <strong>connection</strong> resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this card.'\""
+ :text "After you resolve this operation, your action phase ends.\nHost this operation on an installed <strong>connection</strong> resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this resource.'\""
  :title "MCA Informant"
  :type :operation
  :uniqueness false}

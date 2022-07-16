@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "rigging-up"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Install 1 program or piece of hardware from your grip, paying 3 credits less. You may charge that card if able. (If it has a power counter on it, add another.)"
+ :stripped-title "Rigging Up"
+ :subtype [:mod]
+ :text "Install 1 program or piece of hardware from your grip, paying 3[credit] less. You may charge that card if able. <em>(If it has a power counter on it, add another.)</em>"
+ :title "Rigging Up"
+ :type :event
+ :uniqueness false}

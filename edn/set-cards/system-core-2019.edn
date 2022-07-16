@@ -210,7 +210,7 @@
   :set-id "system-core-2019"}
  {:card-id "paragon"
   :code "25032"
-  :illustrator "Martin Diego Sádaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 32
   :quantity 2
   :set-id "system-core-2019"}
@@ -414,7 +414,7 @@
  {:card-id "armitage-codebusting"
   :code "25062"
   :flavor "Drudge work, but it pays the bills."
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 62
   :quantity 2
   :set-id "system-core-2019"}
@@ -792,7 +792,7 @@
  {:card-id "sea-source"
   :code "25119"
   :flavor "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech"
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 119
   :quantity 2
   :set-id "system-core-2019"}
@@ -937,7 +937,7 @@
  {:card-id "priority-requisition"
   :code "25141"
   :flavor "\"If it isn't in my terminal by six p.m., heads are going to roll!\""
-  :illustrator "Dmitry Prosvirnin and Atha Kanaani"
+  :illustrator "Dmitry Prosvirnin, Atha Kanaani"
   :position 141
   :quantity 2
   :set-id "system-core-2019"}

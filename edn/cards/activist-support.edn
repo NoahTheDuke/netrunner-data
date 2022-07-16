@@ -4,9 +4,9 @@
  :id "activist-support"
  :influence-cost 2
  :side :runner
- :stripped-text "When the Corp turn begins, take 1 tag if you have no tags. When your turn begins, give the Corp 1 bad publicity if he or she has no bad publicity."
+ :stripped-text "When the Corp's turn begins, take 1 tag if you have no tags. When your turn begins, give the Corp 1 bad publicity if they have no bad publicity."
  :stripped-title "Activist Support"
- :text "When the Corp turn begins, take 1 tag if you have no tags.\nWhen your turn begins, give the Corp 1 bad publicity if he or she has no bad publicity."
+ :text "When the Corp's turn begins, take 1 tag if you have no tags.\nWhen your turn begins, give the Corp 1 bad publicity if they have no bad publicity."
  :title "Activist Support"
  :type :resource
  :uniqueness false}

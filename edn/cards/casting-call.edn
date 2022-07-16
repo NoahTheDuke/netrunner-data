@@ -4,10 +4,10 @@
  :id "casting-call"
  :influence-cost 2
  :side :corp
- :stripped-text "Install an agenda from HQ faceup and install Casting Call on that agenda as a hosted condition counter with text \"Whenever the Runner accesses this agenda, he or she takes 2 tags.\""
+ :stripped-text "Install 1 agenda from HQ faceup and host this operation on that agenda as a condition counter with \"Whenever the Runner accesses host agenda, they take 2 tags.\""
  :stripped-title "Casting Call"
  :subtype [:condition]
- :text "Install an agenda from HQ faceup and install Casting Call on that agenda as a hosted condition counter with text \"Whenever the Runner accesses this agenda, he or she takes 2 tags.\""
+ :text "Install 1 agenda from HQ faceup and host this operation on that agenda as a condition counter with \"Whenever the Runner accesses host agenda, they take 2 tags.\""
  :title "Casting Call"
  :type :operation
  :uniqueness false}

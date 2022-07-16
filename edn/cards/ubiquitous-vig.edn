@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "ubiquitous-vig"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "You can advance this asset. When your turn begins, gain 1 credit for each hosted advancement counter."
+ :stripped-title "Ubiquitous Vig"
+ :subtype [:advertisement]
+ :text "You can advance this asset.\nWhen your turn begins, gain 1[credit] for each hosted advancement counter."
+ :title "Ubiquitous Vig"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

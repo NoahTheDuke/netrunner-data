@@ -118,7 +118,7 @@
  {:card-id "harmony-ar-therapy"
   :code "26083"
   :flavor "Breathe in and visualise your happy place. Breathe out. It's safe and calm and all your best days are there. Breathe in. Very good. The cortex scan has finished. Breathe out and open your eyes..."
-  :illustrator "Patrick Burk/Krembler"
+  :illustrator "Patrick Burk, Krembler"
   :position 83
   :quantity 3
   :set-id "uprising"}
@@ -138,7 +138,7 @@
   :set-id "uprising"}
  {:card-id "cordyceps"
   :code "26086"
-  :illustrator "Krembler/Zoe Cohen"
+  :illustrator "Krembler, Zoe Cohen"
   :position 86
   :quantity 3
   :set-id "uprising"}
@@ -331,7 +331,7 @@
  {:card-id "bellona"
   :code "26114"
   :flavor "Mars' tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these \"lag-ghosts\" into compelling interactables—more responsive than the real thing!"
-  :illustrator "N. Hopkins/Iain Fairclough"
+  :illustrator "N. Hopkins, Iain Fairclough"
   :position 114
   :quantity 3
   :set-id "uprising"}

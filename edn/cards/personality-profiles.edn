@@ -4,10 +4,10 @@
  :faction :haas-bioroid
  :id "personality-profiles"
  :side :corp
- :stripped-text "Whenever the Runner searches his or her stack or installs a card from his or her heap, he or she must trash a card from his or her grip at random."
+ :stripped-text "Whenever the Runner searches the stack or installs a card from the heap, they trash 1 card from the grip at random."
  :stripped-title "Personality Profiles"
  :subtype [:security]
- :text "Whenever the Runner searches his or her stack or installs a card from his or her heap, he or she must trash a card from his or her grip at random."
+ :text "Whenever the Runner searches the stack or installs a card from the heap, they trash 1 card from the grip at random."
  :title "Personality Profiles"
  :type :agenda
  :uniqueness false}

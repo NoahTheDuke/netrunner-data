@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "artificial-cryptocrash"
+ :side :corp
+ :stripped-text "When you score this agenda, the Runner loses 7 credits."
+ :stripped-title "Artificial Cryptocrash"
+ :subtype [:initiative]
+ :text "When you score this agenda, the Runner loses 7[credit]."
+ :title "Artificial Cryptocrash"
+ :type :agenda
+ :uniqueness false}

@@ -4,10 +4,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
- :stripped-text "Whenever the Runner steals an agenda, he or she must either take 1 tag or suffer 2 meat damage."
+ :stripped-text "Whenever the Runner steals an agenda, they must take 1 tag or suffer 2 meat damage."
  :stripped-title "Argus Security: Protection Guaranteed"
  :subtype [:corp]
- :text "Whenever the Runner steals an agenda, he or she must either take 1 tag or suffer 2 meat damage."
+ :text "Whenever the Runner steals an agenda, they must take 1 tag or suffer 2 meat damage."
  :title "Argus Security: Protection Guaranteed"
  :type :identity
  :uniqueness false}

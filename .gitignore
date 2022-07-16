@@ -13,3 +13,4 @@
 *.fossil
 .fslckout
 .rebel_readline_history
+sqlite.db

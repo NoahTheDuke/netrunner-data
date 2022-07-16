@@ -1,14 +1,14 @@
 [{:card-id "nathaniel-gnat-hall-one-of-a-kind"
   :code "22001"
   :flavor "\"Damn, I'm good.\""
-  :illustrator "M. Zeilinger and A. Christensen"
+  :illustrator "Matt Zeilinger, A. Christensen"
   :position 1
   :quantity 1
   :set-id "reign-and-reverie"}
  {:card-id "divide-and-conquer"
   :code "22002"
   :flavor "All roads lead to Rome."
-  :illustrator "Adam Doyle"
+  :illustrator "Adam S. Doyle"
   :position 2
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -48,7 +48,7 @@
  {:card-id "liza-talking-thunder-prominent-legislator"
   :code "22008"
   :flavor "\"You think you're the first to come after me?\""
-  :illustrator "M. Zeilinger & A. Christensen"
+  :illustrator "Matt Zeilinger, A. Christensen"
   :position 8
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -61,7 +61,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "paragon"
   :code "22010"
-  :illustrator "Martin Diego Sádaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 10
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -95,7 +95,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "akiko-nisei-head-case"
   :code "22015"
-  :illustrator "M. Zeilinger and A. Christensen"
+  :illustrator "Matt Zeilinger, A. Christensen"
   :position 15
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -114,7 +114,7 @@
  {:card-id "mache"
   :code "22018"
   :flavor "\"What are you making?\"\n\"What <em>aren't</em> I making?\""
-  :illustrator "Martin Diego Sádaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 18
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -148,6 +148,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "reboot"
   :code "22023"
+  :flavor "I LIVE AGAIN"
   :illustrator "Liiga Smilshkalne"
   :position 23
   :quantity 3
@@ -161,7 +162,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "dj-fenris"
   :code "22025"
-  :illustrator "Matthew Zeilinger"
+  :illustrator "Matt Zeilinger"
   :position 25
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -182,7 +183,7 @@
  {:card-id "meridian"
   :code "22028"
   :flavor "You don't cross it—it crosses you."
-  :illustrator "Adam Doyle"
+  :illustrator "Adam S. Doyle"
   :position 28
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -210,7 +211,7 @@
  {:card-id "game-changer"
   :code "22032"
   :flavor "Coach Walden's pep talks were renowned for improving in direct proportion to the amount by which his team was losing."
-  :illustrator "Matthew Zeilinger"
+  :illustrator "Matt Zeilinger"
   :position 32
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -250,14 +251,14 @@
  {:card-id "otoroshi"
   :code "22038"
   :flavor "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged"
-  :illustrator "Adam Doyle"
+  :illustrator "Adam S. Doyle"
   :position 38
   :quantity 3
   :set-id "reign-and-reverie"}
  {:card-id "thimblerig"
   :code "22039"
   :flavor "Step right up!"
-  :illustrator "Adam Doyle"
+  :illustrator "Adam S. Doyle"
   :position 39
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -282,7 +283,7 @@
  {:card-id "fly-on-the-wall"
   :code "22043"
   :flavor "Only half as annoying as the real thing."
-  :illustrator "Martin Diego Sadaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 43
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -323,7 +324,7 @@
  {:card-id "arella-salvatore"
   :code "22049"
   :flavor "\"Cheers, Philbert.\""
-  :illustrator "Matthew Zeilinger"
+  :illustrator "Matt Zeilinger"
   :position 49
   :quantity 3
   :set-id "reign-and-reverie"}

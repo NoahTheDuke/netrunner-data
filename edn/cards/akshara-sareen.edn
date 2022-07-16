@@ -4,10 +4,10 @@
  :id "akshara-sareen"
  :influence-cost 0
  :side :runner
- :stripped-text "Each player has 1 additional click to spend during his or her turn."
+ :stripped-text "Each player gets +1 allotted click for each of their turns."
  :stripped-title "Akshara Sareen"
  :subtype [:connection]
- :text "Each player has 1 additional [click] to spend during his or her turn."
+ :text "Each player gets +1 allotted [click] for each of their turns."
  :title "Akshara Sareen"
  :type :resource
  :uniqueness true}

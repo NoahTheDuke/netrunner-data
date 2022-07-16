@@ -4,10 +4,10 @@
  :id "closed-accounts"
  :influence-cost 1
  :side :corp
- :stripped-text "Play only if the Runner is tagged. The Runner loses all credits in his or her credit pool."
+ :stripped-text "Play only if the Runner is tagged. The Runner loses all credits in their credit pool."
  :stripped-title "Closed Accounts"
  :subtype [:gray-ops]
- :text "Play only if the Runner is tagged.\nThe Runner loses all credits in his or her credit pool."
+ :text "Play only if the Runner is tagged.\nThe Runner loses all credits in their credit pool."
  :title "Closed Accounts"
  :type :operation
  :uniqueness false}

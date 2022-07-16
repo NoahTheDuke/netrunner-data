@@ -4,9 +4,9 @@
  :id "load-testing"
  :influence-cost 5
  :side :corp
- :stripped-text "When the Runner's next turn begins, he or she loses click."
+ :stripped-text "When the Runner's next turn begins, they lose click."
  :stripped-title "Load Testing"
- :text "When the Runner's next turn begins, he or she loses [click]."
+ :text "When the Runner's next turn begins, they lose [click]."
  :title "Load Testing"
  :type :operation
  :uniqueness false}

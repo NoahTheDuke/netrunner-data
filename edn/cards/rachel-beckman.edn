@@ -4,10 +4,10 @@
  :id "rachel-beckman"
  :influence-cost 1
  :side :runner
- :stripped-text "You have +1 allotted click on your turn. If you are tagged, trash this resource."
+ :stripped-text "You get +1 allotted click for each of your turns. If you are tagged, trash this resource."
  :stripped-title "Rachel Beckman"
  :subtype [:connection]
- :text "You have +1 allotted [click] on your turn.\nIf you are tagged, trash this resource."
+ :text "You get +1 allotted [click] for each of your turns.\nIf you are tagged, trash this resource."
  :title "Rachel Beckman"
  :type :resource
  :uniqueness true}

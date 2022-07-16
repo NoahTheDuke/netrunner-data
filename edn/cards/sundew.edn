@@ -4,9 +4,9 @@
  :id "sundew"
  :influence-cost 3
  :side :corp
- :stripped-text "The first time the Runner spends 1 or more click during their turn, gain 2 credits. If those click were spent to take an action, the first time during that action a run on this server begins, pay 2 credits. Errata from CR 1.2"
+ :stripped-text "The first time the Runner spends 1 or more click during their turn, gain 2 credits. If those click were spent to take an action, the first time during that action a run on this server begins, pay 2 credits."
  :stripped-title "Sundew"
- :text "The first time the Runner spends 1 or more [click] during their turn, gain 2[credit]. If those [click] were spent to take an action, the first time during that action a run on this server begins, pay 2[credit].\n<errata>Errata from CR 1.2</errata>"
+ :text "The first time the Runner spends 1 or more [click] during their turn, gain 2[credit]. If those [click] were spent to take an action, the first time during that action a run on this server begins, pay 2[credit]."
  :title "Sundew"
  :trash-cost 2
  :type :asset

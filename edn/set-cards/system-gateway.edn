@@ -15,7 +15,7 @@
  {:card-id "carnivore"
   :code "30003"
   :flavor "\"It hungers to sink teeth into problems.\"\n—Loup"
-  :illustrator "Martin de Diego Sādaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 3
   :quantity 3
   :set-id "system-gateway"}
@@ -92,7 +92,7 @@
  {:card-id "pennyshaver"
   :code "30014"
   :flavor "\"Braggarts chase big heists. Patience enriches skimming fractions of a credit at a time.\" —Zahya"
-  :illustrator "Martin de Diego Sādaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 14
   :quantity 3
   :set-id "system-gateway"}
@@ -140,7 +140,7 @@
   :set-id "system-gateway"}
  {:card-id "vrcation"
   :code "30021"
-  :flavor "“You know there's no water in the Sea of Tranquility, right?”\n“That doesn't mean there's no beach.”"
+  :flavor "\"You know there's no water in the Sea of Tranquility, right?\"\n\"That doesn't mean there's no beach.\""
   :illustrator "Benjamin Giletti"
   :position 21
   :quantity 3
@@ -155,7 +155,7 @@
  {:card-id "pantograph"
   :code "30023"
   :flavor "\"With this beautiful baby I can juggle simultaneous runs by haptic feedback alone!\"\n—Tāo"
-  :illustrator "Martin de Diego Sādaba"
+  :illustrator "Martin de Diego Sádaba"
   :position 23
   :quantity 3
   :set-id "system-gateway"}

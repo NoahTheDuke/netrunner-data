@@ -4,10 +4,10 @@
  :id "under-the-bus"
  :influence-cost 3
  :side :corp
- :stripped-text "Play only if the Runner accessed at least 1 card during his or her last turn. Trash 1 connection resource and take 1 bad publicity."
+ :stripped-text "Play only if the Runner accessed a card during their last turn. Trash 1 connection resource and take 1 bad publicity."
  :stripped-title "Under the Bus"
  :subtype [:gray-ops :illicit]
- :text "Play only if the Runner accessed at least 1 card during his or her last turn.\nTrash 1 <strong>connection</strong> resource and take 1 bad publicity."
+ :text "Play only if the Runner accessed a card during their last turn.\nTrash 1 <strong>connection</strong> resource and take 1 bad publicity."
  :title "Under the Bus"
  :type :operation
  :uniqueness false}

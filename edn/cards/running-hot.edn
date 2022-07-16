@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "running-hot"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "As an additional cost to play this event, suffer 1 core damage. Gain click click click."
+ :stripped-title "Running Hot"
+ :text "As an additional cost to play this event, suffer 1 core damage.\nGain [click][click][click]."
+ :title "Running Hot"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "captain-padma-isbister-intrepid-explorer"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "The first time each turn a run on R&D begins, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.)"
+ :stripped-title "Captain Padma Isbister: Intrepid Explorer"
+ :subtype [:cyborg]
+ :text "The first time each turn a run on R&D begins, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>"
+ :title "Captain Padma Isbister: Intrepid Explorer"
+ :type :identity
+ :uniqueness false}

@@ -4,10 +4,10 @@
  :id "heinlein-grid"
  :influence-cost 2
  :side :corp
- :stripped-text "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool. Limit 1 region per server."
+ :stripped-text "Whenever the Runner loses or spends click during a run on this server, they lose all credits in their credit pool. Limit 1 region per server."
  :stripped-title "Heinlein Grid"
  :subtype [:region]
- :text "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool.\nLimit 1 <strong>region</strong> per server."
+ :text "Whenever the Runner loses or spends [click] during a run on this server, they lose all credits in their credit pool.\nLimit 1 <strong>region</strong> per server."
  :title "Heinlein Grid"
  :trash-cost 3
  :type :upgrade

@@ -7,7 +7,7 @@
  :stripped-text "You can advance this upgrade. 2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn. Limit 1 region per server."
  :stripped-title "Vladisibirsk City Grid"
  :subtype [:region]
- :text "You can advance this upgrade.\n2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server."
+ :text "You can advance this upgrade.\n<strong>2 hosted advancement counters:</strong> Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server."
  :title "Vladisibirsk City Grid"
  :trash-cost 4
  :type :upgrade

@@ -4,10 +4,10 @@
  :id "museum-of-history"
  :influence-cost 2
  :side :corp
- :stripped-text "This card costs 0 influence if you have 50 or more cards in your deck. When your turn begins, you may shuffle 1 card from Archives into R&D. Errata from FAQ 3.1"
+ :stripped-text "This asset costs 0 influence if you have 50 or more cards in your deck. When your turn begins, you may shuffle 1 card from Archives into R&D."
  :stripped-title "Museum of History"
  :subtype [:alliance :ritzy]
- :text "This card costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.\n<errata>Errata from FAQ 3.1</errata>"
+ :text "This asset costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D."
  :title "Museum of History"
  :trash-cost 3
  :type :asset

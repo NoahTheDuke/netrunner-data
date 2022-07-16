@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "vasilisa"
+ :influence-cost 2
+ :side :corp
+ :strength 2
+ :stripped-text "When the Runner encounters this ice, you may pay 1 credit. If you do, place 1 advancement counter on an installed card you can advance. Subroutine Give the Runner 1 tag."
+ :stripped-title "Vasilisa"
+ :subtype [:sentry :observer]
+ :text "When the Runner encounters this ice, you may pay 1[credit]. If you do, place 1 advancement counter on an installed card you can advance.\n[subroutine] Give the Runner 1 tag."
+ :title "Vasilisa"
+ :type :ice
+ :uniqueness false}

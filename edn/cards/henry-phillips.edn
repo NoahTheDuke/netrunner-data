@@ -4,10 +4,10 @@
  :id "henry-phillips"
  :influence-cost 1
  :side :corp
- :stripped-text "Whenever the Runner breaks a subroutine during a run on this server, gain 2 credits if he or she is tagged."
+ :stripped-text "Whenever the Runner breaks a subroutine during a run on this server, gain 2 credits if they are tagged."
  :stripped-title "Henry Phillips"
  :subtype [:sysop]
- :text "Whenever the Runner breaks a subroutine during a run on this server, gain 2[credit] if he or she is tagged."
+ :text "Whenever the Runner breaks a subroutine during a run on this server, gain 2[credit] if they are tagged."
  :title "Henry Phillips"
  :trash-cost 2
  :type :upgrade

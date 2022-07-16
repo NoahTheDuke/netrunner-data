@@ -4,10 +4,10 @@
  :id "housekeeping"
  :influence-cost 3
  :side :corp
- :stripped-text "This card is not trashed until another current is played or an agenda is stolen. The first time the Runner installs a card each turn, he or she must trash 1 card from his or her grip."
+ :stripped-text "This operation is not trashed until another current is played or an agenda is stolen. The first time each turn the Runner installs a card, they trash 1 card from the grip."
  :stripped-title "Housekeeping"
  :subtype [:current :gray-ops]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time the Runner installs a card each turn, he or she must trash 1 card from his or her grip."
+ :text "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time each turn the Runner installs a card, they trash 1 card from the grip."
  :title "Housekeeping"
  :type :operation
  :uniqueness false}

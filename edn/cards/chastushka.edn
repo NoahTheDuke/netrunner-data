@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "chastushka"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "Run HQ. If successful, instead of breaching HQ, sabotage 4. (The Corp trashes 4 cards of their choice from HQ and/or the top of R&D.)"
+ :stripped-title "Chastushka"
+ :subtype [:run :sabotage]
+ :text "Run HQ. If successful, instead of breaching HQ, sabotage 4. <em>(The Corp trashes 4 cards of their choice from HQ and/or the top of R&D.)</em>"
+ :title "Chastushka"
+ :type :event
+ :uniqueness false}
