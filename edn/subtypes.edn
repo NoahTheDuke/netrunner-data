@@ -94,6 +94,8 @@
   :name "Grail"}
  {:id :gray-ops
   :name "Gray Ops"}
+ {:id :harmonic
+  :name "Harmonic"}
  {:id :hostile
   :name "Hostile"}
  {:id :icebreaker

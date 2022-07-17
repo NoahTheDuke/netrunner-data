@@ -106,6 +106,20 @@
   :position 25
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "midnight-3-arcology"
+  :code "33032"
+  :flavor "\"The Midnight-3 glows with an inviting warmth that belies the broken promise within. All that awaits you there is a life of indentured servitude.\"\n–Sundog"
+  :illustrator "Emilio Rodriguez"
+  :position 32
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "refuge-campaign"
+  :code "33033"
+  :flavor "\"The promise of a new home, safe work and friendly neighbors will draw in tens of thousands of eco-refugees, no matter which corner of the world they are from.\"\n–Thule employee handbook"
+  :illustrator "Kira L. Nguyen"
+  :position 33
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "trieste-model-bioroids"
   :code "33034"
   :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<champion>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</champion>"
@@ -113,10 +127,24 @@
   :position 34
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "echo"
+  :code "33035"
+  :flavor "End the run. End the run. End the run. End the run."
+  :illustrator "Jakuza"
+  :position 35
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "hakarl-1-0"
   :code "33036"
   :illustrator "Jakuza"
   :position 36
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "wave"
+  :code "33037"
+  :flavor "With networks, growth is exponential."
+  :illustrator "Jakuza"
+  :position 37
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "anemone"

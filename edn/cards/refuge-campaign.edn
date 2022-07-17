@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "refuge-campaign"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "When your turn begins, gain 2 credits."
+ :stripped-title "Refuge Campaign"
+ :subtype [:advertisement]
+ :text "When your turn begins, gain 2[credit]."
+ :title "Refuge Campaign"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

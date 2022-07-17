@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "echo"
+ :influence-cost 2
+ :side :corp
+ :strength 0
+ :stripped-text "Whenever you rez a piece of harmonic ice, place 1 power counter on this ice. This ice gains \"Subroutine End the run.\" for each hosted power counter."
+ :stripped-title "Echo"
+ :subtype [:barrier :harmonic]
+ :text "Whenever you rez a piece of <strong>harmonic</strong> ice, place 1 power counter on this ice.\nThis ice gains \"[subroutine] End the run.\" for each hosted power counter."
+ :title "Echo"
+ :type :ice
+ :uniqueness false}

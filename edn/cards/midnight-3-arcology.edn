@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "midnight-3-arcology"
+ :side :corp
+ :stripped-text "When you score this agenda, draw 3 cards. Skip your discard step this turn."
+ :stripped-title "Midnight-3 Arcology"
+ :subtype [:expansion]
+ :text "When you score this agenda, draw 3 cards. Skip your discard step this turn."
+ :title "Midnight-3 Arcology"
+ :type :agenda
+ :uniqueness false}

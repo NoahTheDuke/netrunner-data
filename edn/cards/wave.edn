@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "wave"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "When you rez this ice during a run against this server, you may search R&D for a piece of ice and reveal it. (Shuffle R&D after searching it.) Add that ice to HQ. Subroutine Gain 1 credit for each rezzed piece of harmonic ice."
+ :stripped-title "Wave"
+ :subtype [:code-gate :harmonic]
+ :text "When you rez this ice during a run against this server, you may search R&D for a piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that ice to HQ.\n[subroutine] Gain 1[credit] for each rezzed piece of <strong>harmonic</strong> ice."
+ :title "Wave"
+ :type :ice
+ :uniqueness false}
