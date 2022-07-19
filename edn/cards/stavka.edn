@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "stavka"
+ :influence-cost 2
+ :side :corp
+ :strength 2
+ :stripped-text "When you rez this ice, you may trash 1 of your other installed cards. If you do, this ice gets +5 strength for the remainder of the run. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program."
+ :stripped-title "Stavka"
+ :subtype [:sentry :destroyer]
+ :text "When you rez this ice, you may trash 1 of your other installed cards. If you do, this ice gets +5 strength for the remainder of the run.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program."
+ :title "Stavka"
+ :type :ice
+ :uniqueness false}

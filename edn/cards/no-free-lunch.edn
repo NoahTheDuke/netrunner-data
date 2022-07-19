@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "no-free-lunch"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "trash: Gain 3 credits. trash: Remove 1 tag."
+ :stripped-title "No Free Lunch"
+ :text "[trash]<strong>:</strong> Gain 3[credit].\n[trash]<strong>:</strong> Remove 1 tag."
+ :title "No Free Lunch"
+ :type :resource
+ :uniqueness false}

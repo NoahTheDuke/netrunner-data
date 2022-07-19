@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "cat-s-cradle"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "The rez cost of each piece of code gate ice is increased by 1 credit. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength."
+ :stripped-title "Cat's Cradle"
+ :subtype [:icebreaker :decoder]
+ :text "The rez cost of each piece of <strong>code gate</strong> ice is increased by 1[credit].\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength."
+ :title "Cat's Cradle"
+ :type :program
+ :uniqueness false}

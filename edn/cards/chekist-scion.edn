@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "chekist-scion"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "You can advance this asset. When the Runner accesses this asset while it is installed, give them 1 tag plus 1 tag for each hosted advancement counter."
+ :stripped-title "Chekist Scion"
+ :subtype [:ambush]
+ :text "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, give them 1 tag plus 1 tag for each hosted advancement counter."
+ :title "Chekist Scion"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

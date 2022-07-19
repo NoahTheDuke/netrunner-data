@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "backroom-machinations"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "As an additional cost to play this operation, remove 1 tag. Add this operation to your score area as an agenda worth 1 agenda point."
+ :stripped-title "Backroom Machinations"
+ :subtype [:gray-ops]
+ :text "As an additional cost to play this operation, remove 1 tag.\nAdd this operation to your score area as an agenda worth 1 agenda point."
+ :title "Backroom Machinations"
+ :type :operation
+ :uniqueness false}

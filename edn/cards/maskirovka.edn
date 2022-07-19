@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "maskirovka"
+ :influence-cost 3
+ :side :corp
+ :strength 3
+ :stripped-text "Subroutine Gain 2 credits. Subroutine End the run."
+ :stripped-title "Maskirovka"
+ :subtype [:barrier]
+ :text "[subroutine] Gain 2[credit].\n[subroutine] End the run."
+ :title "Maskirovka"
+ :type :ice
+ :uniqueness false}

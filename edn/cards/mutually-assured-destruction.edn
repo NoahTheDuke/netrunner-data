@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "mutually-assured-destruction"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click click. Trash any number of your rezzed cards. Give the Runner 1 tag for each card trashed this way."
+ :stripped-title "Mutually Assured Destruction"
+ :subtype [:triple]
+ :text "As an additional cost to play this operation, spend [click][click].\nTrash any number of your rezzed cards. Give the Runner 1 tag for each card trashed this way."
+ :title "Mutually Assured Destruction"
+ :type :operation
+ :uniqueness false}

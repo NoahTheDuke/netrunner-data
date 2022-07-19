@@ -1,0 +1,14 @@
+{:cost 17
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "big-deal"
+ :influence-cost 5
+ :side :corp
+ :stripped-text "After you resolve this operation, your action phase ends. Place 4 advancement counters on 1 installed card. You may score that card, if able. Remove this operation from the game."
+ :stripped-title "Big Deal"
+ :subtype [:terminal]
+ :text "After you resolve this operation, your action phase ends.\nPlace 4 advancement counters on 1 installed card. You may score that card, if able.\nRemove this operation from the game."
+ :title "Big Deal"
+ :trash-cost 3
+ :type :operation
+ :uniqueness false}

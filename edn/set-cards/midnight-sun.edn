@@ -66,6 +66,13 @@
   :position 15
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "cat-s-cradle"
+  :code "33016"
+  :flavor "I can show you a carpet, a fish, a magical tale..."
+  :illustrator "Bruno Balixa"
+  :position 16
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "cezve"
   :code "33017"
   :flavor "The feel of flour-fine coffee, the scent of caramelizing sugar, the gentle heat of the flame. A ritual I never forget."
@@ -78,6 +85,13 @@
   :flavor "\"Aim with your eye. Shoot with your mind. Break with your soul.\" –Sundog"
   :illustrator "Bruno Balixa"
   :position 18
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "no-free-lunch"
+  :code "33020"
+  :flavor "If there's anything to be learned from our android cousins, it's that there's no shortcut to perfection. Consider all your options."
+  :illustrator "Bruno Balixa"
+  :position 20
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "captain-padma-isbister-intrepid-explorer"
@@ -147,6 +161,13 @@
   :position 37
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "big-deal"
+  :code "33038"
+  :flavor "<champion>Designed by 2018 North American Champion Sam Suied</champion>"
+  :illustrator "Dimik"
+  :position 38
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "anemone"
   :code "33043"
   :flavor "Ethereal beauty laced with the most elegant venom."
@@ -159,6 +180,13 @@
   :flavor "Digital refuse is their food, and you should never come between an animal and its food."
   :illustrator "Jack Reeves"
   :position 44
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mavirus"
+  :code "33047"
+  :flavor "Viruses, runners; all are food to them."
+  :illustrator "Jack Reeves"
+  :position 47
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "pravdivost-consulting-political-solutions"
@@ -175,6 +203,13 @@
   :position 49
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "chekist-scion"
+  :code "33050"
+  :flavor "The only thing that changes is the uniform."
+  :illustrator "Dimik"
+  :position 50
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "ubiquitous-vig"
   :code "33052"
   :flavor "They say they'll only take a handful, but oh what big hands they have!"
@@ -182,11 +217,25 @@
   :position 52
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "mestnichestvo"
+  :code "33053"
+  :flavor "These are merely symbols. It is our fear which gives them power."
+  :illustrator "BalanceSheet"
+  :position 53
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "vasilisa"
   :code "33054"
   :flavor "No task the witch set would ever be too great, for Vasilisa had her mother's blessing."
   :illustrator "BalanceSheet"
   :position 54
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "backroom-machinations"
+  :code "33055"
+  :flavor "\"Recording devices at the door, please!\""
+  :illustrator "Olie Boldador"
+  :position 55
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "vladisibirsk-city-grid"
@@ -215,6 +264,40 @@
   :flavor "It doesn't matter how long you've owned the land, you'd better hope there's nothing valuable beneath."
   :illustrator "Vitalii Ostaschenko"
   :position 59
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "envelopment"
+  :code "33060"
+  :illustrator "Scott Uminga"
+  :position 60
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "maskirovka"
+  :code "33061"
+  :flavor "Confound the runner so that they cannot see our true intent."
+  :illustrator "Scott Uminga"
+  :position 61
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "stavka"
+  :code "33062"
+  :flavor "Centuries of military tactics compressed into a single entity."
+  :illustrator "Scott Uminga"
+  :position 62
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "extract"
+  :code "33063"
+  :flavor "Leave nothing of value behind."
+  :illustrator "Vitalii Ostaschenko"
+  :position 63
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mutually-assured-destruction"
+  :code "33064"
+  :flavor "<champion>Designed by 2020 Asia-Pacific Champion Eric Keilback</champion>"
+  :illustrator "Dimik"
+  :position 64
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "trust-operation"
