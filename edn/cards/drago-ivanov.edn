@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "drago-ivanov"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "You can advance this asset. 2 hosted advancement counters: Give the Runner 1 tag. Use this ability only during your turn."
+ :stripped-title "Drago Ivanov"
+ :subtype [:executive]
+ :text "You can advance this asset.\n<strong>2 hosted advancement counters:</strong> Give the Runner 1 tag. Use this ability only during your turn."
+ :title "Drago Ivanov"
+ :trash-cost 1
+ :type :asset
+ :uniqueness true}

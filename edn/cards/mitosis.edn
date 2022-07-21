@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "mitosis"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Install up to 2 cards from HQ, creating a new remote server each time. Place 2 advancement counters on each of those cards. You cannot score or rez either of those cards this turn."
+ :stripped-title "Mitosis"
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nInstall up to 2 cards from HQ, creating a new remote server each time. Place 2 advancement counters on each of those cards. You cannot score or rez either of those cards this turn."
+ :title "Mitosis"
+ :type :operation
+ :uniqueness false}

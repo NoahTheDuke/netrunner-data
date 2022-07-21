@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "bladderwort"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When your turn begins, gain 1 credit. Then, if you have 4 credits or less, do 1 net damage."
+ :stripped-title "Bladderwort"
+ :subtype [:hostile]
+ :text "When your turn begins, gain 1[credit]. Then, if you have 4[credit] or less, do 1 net damage."
+ :title "Bladderwort"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

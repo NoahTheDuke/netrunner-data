@@ -26,6 +26,13 @@
   :position 4
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "ghosttongue"
+  :code "33005"
+  :flavor "Arming the resistance with disarming charm."
+  :illustrator "Martin de Diego Sádaba"
+  :position 5
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "marrow"
   :code "33006"
   :illustrator "Martin de Diego Sádaba"
@@ -53,11 +60,25 @@
   :position 11
   :quantity 1
   :set-id "midnight-sun"}
+ {:card-id "carpe-diem"
+  :code "33012"
+  :flavor "The best moment to listen is when others are listening to you."
+  :illustrator "Benjamin Giletti"
+  :position 12
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "pinhole-threading"
   :code "33013"
   :flavor "Neneciğim would be proud."
   :illustrator "Bruno Balixa"
   :position 13
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "pan-weave"
+  :code "33014"
+  :flavor "Skimming credits with the slightest touch."
+  :illustrator "Martin de Diego Sádaba"
+  :position 14
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "virtuoso"
@@ -85,6 +106,13 @@
   :flavor "\"Aim with your eye. Shoot with your mind. Break with your soul.\" –Sundog"
   :illustrator "Bruno Balixa"
   :position 18
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "backstitching"
+  :code "33019"
+  :flavor "One step back. Take cover. Two steps forward. Repeat, then secure well."
+  :illustrator "Adam S. Doyle"
+  :position 19
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "no-free-lunch"
@@ -118,6 +146,20 @@
   :code "33025"
   :illustrator "Anna Butova"
   :position 25
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "daeg-first-net-cat"
+  :code "33028"
+  :flavor "\"That's him at the front, then there's Scout, Jonesy, Parker, Buča, Squee, Boots... you get the idea.\""
+  :illustrator "Cat Shen"
+  :position 28
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "environmental-testing"
+  :code "33029"
+  :flavor "\"Why are we here? No one else is going to do independent testing, that's why.\"\n–Padma Isbister"
+  :illustrator "Anna Butova"
+  :position 29
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "midnight-3-arcology"
@@ -168,6 +210,20 @@
   :position 38
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "blood-in-the-water"
+  :code "33039"
+  :flavor "Some tests require <strong>specific</strong> conditions."
+  :illustrator "Scott Uminga"
+  :position 39
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "bladderwort"
+  :code "33041"
+  :flavor "Prey and seawater sucked in, all in the space of a millisecond."
+  :illustrator "Jack Reeves"
+  :position 41
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "anemone"
   :code "33043"
   :flavor "Ethereal beauty laced with the most elegant venom."
@@ -180,6 +236,13 @@
   :flavor "Digital refuse is their food, and you should never come between an animal and its food."
   :illustrator "Jack Reeves"
   :position 44
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "mitosis"
+  :code "33046"
+  :flavor "One becomes many."
+  :illustrator "Emilio Rodriguez"
+  :position 46
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "mavirus"
@@ -208,6 +271,13 @@
   :flavor "The only thing that changes is the uniform."
   :illustrator "Dimik"
   :position 50
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "drago-ivanov"
+  :code "33051"
+  :flavor "\"Tell them Drago would like a word.\"\n<champion>Designed by 2019 European Champion Aaryn \"Drago\" Byrne</champion>"
+  :illustrator "Dimik"
+  :position 51
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "ubiquitous-vig"

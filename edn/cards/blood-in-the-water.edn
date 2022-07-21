@@ -1,0 +1,13 @@
+{:advancement-requirement nil
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "blood-in-the-water"
+ :side :corp
+ :stripped-text "X is equal to the number of cards in the Runner's grip."
+ :stripped-title "Blood in the Water"
+ :subtype [:research]
+ :text "X is equal to the number of cards in the Runner's grip."
+ :title "Blood in the Water"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "carpe-diem"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Gain 4 credits. You may run your mark."
+ :stripped-title "Carpe Diem"
+ :subtype [:run]
+ :text "Identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nGain 4[credit]. You may run your mark."
+ :title "Carpe Diem"
+ :type :event
+ :uniqueness false}

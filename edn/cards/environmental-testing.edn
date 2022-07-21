@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "environmental-testing"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Whenever you install a program or piece of hardware, place 1 power counter on this resource. When there are 4 or more hosted power counters, trash this resource and gain 9 credits."
+ :stripped-title "Environmental Testing"
+ :text "Whenever you install a program or piece of hardware, place 1 power counter on this resource.\nWhen there are 4 or more hosted power counters, trash this resource and gain 9[credit]."
+ :title "Environmental Testing"
+ :type :resource
+ :uniqueness false}

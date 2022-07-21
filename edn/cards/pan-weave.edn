@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "pan-weave"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "When you install this hardware, suffer 1 meat damage. The first time each turn you make a successful run on HQ, the Corp loses 1 credit. If they do, gain 1 credit."
+ :stripped-title "PAN-Weave"
+ :subtype [:cybernetic]
+ :text "When you install this hardware, suffer 1 meat damage.\nThe first time each turn you make a successful run on HQ, the Corp loses 1[credit]. If they do, gain 1[credit]."
+ :title "PAN-Weave"
+ :type :hardware
+ :uniqueness true}
