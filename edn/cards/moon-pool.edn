@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "moon-pool"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "Remove this asset from the game: Trash up to 2 cards from HQ. Reveal up to 2 facedown cards in Archives and shuffle them into R&D. For each agenda revealed this way, you may place 1 advancement counter on an installed card."
+ :stripped-title "Moon Pool"
+ :subtype [:facility]
+ :text "<strong>Remove this asset from the game:</strong> Trash up to 2 cards from HQ. Reveal up to 2 facedown cards in Archives and shuffle them into R&D. For each agenda revealed this way, you may place 1 advancement counter on an installed card."
+ :title "Moon Pool"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

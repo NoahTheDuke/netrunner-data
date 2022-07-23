@@ -39,6 +39,13 @@
   :position 6
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "begemot"
+  :code "33007"
+  :flavor "He didn't speak, but I knew exactly what he wanted, and what I had to do."
+  :illustrator "Martin de Diego Sádaba"
+  :position 7
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "avgustina-ivanovskaya"
   :code "33008"
   :flavor "\"Sometimes being a union rep calls for action even more... direct.\""
@@ -51,6 +58,13 @@
   :flavor "A single spark is all that it takes to destroy billions of credits... or to burn away the rot that ravages our world."
   :illustrator "Olie Boldador"
   :position 9
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "the-twinning"
+  :code "33010"
+  :flavor "All is folding back, ever back; together as one."
+  :illustrator "Adam S. Doyle"
+  :position 10
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "nyusha-sable-sintashta-symphonic-prodigy"
@@ -103,7 +117,7 @@
   :set-id "midnight-sun"}
  {:card-id "revolver"
   :code "33018"
-  :flavor "\"Aim with your eye. Shoot with your mind. Break with your soul.\" –Sundog"
+  :flavor "\"Aim with your eye. Shoot with your mind. Break with your soul.\"\n–Sundog"
   :illustrator "Bruno Balixa"
   :position 18
   :quantity 3
@@ -135,6 +149,12 @@
   :position 22
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "into-the-depths"
+  :code "33023"
+  :illustrator "Kira L. Nguyen"
+  :position 23
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "rigging-up"
   :code "33024"
   :flavor "Edie doesn't mind the noise. She's happy just being nearby."
@@ -146,6 +166,19 @@
   :code "33025"
   :illustrator "Anna Butova"
   :position 25
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "hyperbaric"
+  :code "33026"
+  :illustrator "Cat Shen"
+  :position 26
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "propeller"
+  :code "33027"
+  :flavor "Within netspace, tangible space can be manipulated as desired, and fluid dynamics rarely factors into ice development."
+  :illustrator "Cat Shen"
+  :position 27
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "daeg-first-net-cat"
@@ -160,6 +193,20 @@
   :flavor "\"Why are we here? No one else is going to do independent testing, that's why.\"\n–Padma Isbister"
   :illustrator "Anna Butova"
   :position 29
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "stoneship-chart-room"
+  :code "33030"
+  :flavor "Every ship is a home, and every home needs a heart."
+  :illustrator "Elizaveta Sokolova"
+  :position 30
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "elivagar-bifurcation"
+  :code "33031"
+  :flavor "Ancient paradoxes are children's stories to the greatest minds ever designed."
+  :illustrator "Scott Uminga"
+  :position 31
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "midnight-3-arcology"
@@ -217,11 +264,25 @@
   :position 39
   :quantity 3
   :set-id "midnight-sun"}
+ {:card-id "regenesis"
+  :code "33040"
+  :flavor "\"Esteemed guests, by the end of this demonstration you will see that extinction is now only a temporary state of affairs.\"\n–Vientiane Keeling"
+  :illustrator "Anthony Hutchings"
+  :position 40
+  :quantity 3
+  :set-id "midnight-sun"}
  {:card-id "bladderwort"
   :code "33041"
   :flavor "Prey and seawater sucked in, all in the space of a millisecond."
   :illustrator "Jack Reeves"
   :position 41
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "moon-pool"
+  :code "33042"
+  :flavor "<champion>Designed by the Borealis Playtesters</champion>"
+  :illustrator "Olie Boldador"
+  :position 42
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "anemone"
@@ -236,6 +297,13 @@
   :flavor "Digital refuse is their food, and you should never come between an animal and its food."
   :illustrator "Jack Reeves"
   :position 44
+  :quantity 3
+  :set-id "midnight-sun"}
+ {:card-id "ivik"
+  :code "33045"
+  :flavor "Keep off the grass."
+  :illustrator "Jack Reeves"
+  :position 45
   :quantity 3
   :set-id "midnight-sun"}
  {:card-id "mitosis"
@@ -324,7 +392,7 @@
   :set-id "midnight-sun"}
  {:card-id "azef-protocol"
   :code "33058"
-  :flavor "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\" –Yakov Avdakov"
+  :flavor "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\"\n–Yakov Avdakov"
   :illustrator "Benjamin Giletti"
   :position 58
   :quantity 3

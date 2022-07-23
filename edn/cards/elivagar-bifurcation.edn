@@ -1,0 +1,13 @@
+{:advancement-requirement 2
+ :agenda-points 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "elivagar-bifurcation"
+ :side :corp
+ :stripped-text "When you score this agenda, you may derez 1 installed card."
+ :stripped-title "Elivagar Bifurcation"
+ :subtype [:security]
+ :text "When you score this agenda, you may derez 1 installed card."
+ :title "Élivágar Bifurcation"
+ :type :agenda
+ :uniqueness false}

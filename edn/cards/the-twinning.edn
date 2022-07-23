@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "the-twinning"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "The first time each turn you spend credits from an installed card, place 1 power counter on this resource. Whenever you breach HQ or R&D, you may remove up to 2 hosted power counters to access that many additional cards."
+ :stripped-title "The Twinning"
+ :subtype [:virtual]
+ :text "The first time each turn you spend credits from an installed card, place 1 power counter on this resource.\nWhenever you breach HQ or R&D, you may remove up to 2 hosted power counters to access that many additional cards."
+ :title "The Twinning"
+ :type :resource
+ :uniqueness true}

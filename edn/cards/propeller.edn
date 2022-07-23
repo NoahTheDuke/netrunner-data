@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "propeller"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "When you install this program, place 4 power counters on it. Interface -> 1 credit: Break 1 barrier subroutine. Hosted power counter: +2 strength."
+ :stripped-title "Propeller"
+ :subtype [:icebreaker :fracter]
+ :text "When you install this program, place 4 power counters on it.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Hosted power counter:</strong> +2 strength."
+ :title "Propeller"
+ :type :program
+ :uniqueness false}

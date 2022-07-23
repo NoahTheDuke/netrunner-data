@@ -1,19 +1,17 @@
 [{:id "standard"
   :name "Standard"
-  :sets ["order-and-chaos"
-         "data-and-destiny"
+  :sets ["data-and-destiny"
          "reign-and-reverie"
          "magnum-opus"
          "magnum-opus-reprint"
          "system-gateway"
          "system-update-2021"]
-  :cycles ["mumbad"
-           "flashpoint"
+  :cycles ["flashpoint"
            "red-sand"
            "kitara"
            "ashes"
            "borealis"]
-  :mwl "standard-ban-list-21-10"}
+  :mwl "standard-ban-list-22-08"}
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]

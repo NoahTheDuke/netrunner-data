@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "stoneship-chart-room"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "trash: Draw 2 cards. trash: Charge 1 of your installed cards."
+ :stripped-title "Stoneship Chart Room"
+ :subtype [:location]
+ :text "[trash]<strong>:</strong> Draw 2 cards.\n[trash]<strong>:</strong> Charge 1 of your installed cards."
+ :title "Stoneship Chart Room"
+ :type :resource
+ :uniqueness false}

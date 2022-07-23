@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "regenesis"
+ :side :corp
+ :stripped-text "When you score this agenda, if no Corp cards have been added to Archives this turn, you may reveal 1 facedown agenda in Archives and add it to your score area."
+ :stripped-title "Regenesis"
+ :subtype [:research]
+ :text "When you score this agenda, if no Corp cards have been added to Archives this turn, you may reveal 1 facedown agenda in Archives and add it to your score area."
+ :title "Regenesis"
+ :type :agenda
+ :uniqueness false}
