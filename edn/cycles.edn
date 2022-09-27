@@ -36,7 +36,7 @@
  {:id "order-and-chaos"
   :name "Order and Chaos"
   :position 7
-  :rotated false
+  :rotated true
   :size 1}
  {:id "sansan"
   :name "SanSan"
@@ -51,7 +51,7 @@
  {:id "mumbad"
   :name "Mumbad"
   :position 10
-  :rotated false
+  :rotated true
   :size 6}
  {:id "flashpoint"
   :name "Flashpoint"

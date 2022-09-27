@@ -225,7 +225,7 @@
   :set-id "midnight-sun"}
  {:card-id "trieste-model-bioroids"
   :code "33034"
-  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<champion>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</champion>"
+  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<strong>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</strong>"
   :illustrator "Dimik"
   :position 34
   :quantity 3
@@ -252,7 +252,7 @@
   :set-id "midnight-sun"}
  {:card-id "big-deal"
   :code "33038"
-  :flavor "<champion>Designed by 2018 North American Champion Sam Suied</champion>"
+  :flavor "<strong>Designed by 2018 North American Champion Sam Suied</strong>"
   :illustrator "Dimik"
   :position 38
   :quantity 3
@@ -280,7 +280,7 @@
   :set-id "midnight-sun"}
  {:card-id "moon-pool"
   :code "33042"
-  :flavor "<champion>Designed by the Borealis Playtesters</champion>"
+  :flavor "<strong>Designed by the Borealis Playtesters</strong>"
   :illustrator "Olie Boldador"
   :position 42
   :quantity 3
@@ -343,7 +343,7 @@
   :set-id "midnight-sun"}
  {:card-id "drago-ivanov"
   :code "33051"
-  :flavor "\"Tell them Drago would like a word.\"\n<champion>Designed by 2019 European Champion Aaryn \"Drago\" Byrne</champion>"
+  :flavor "\"Tell them Drago would like a word.\"\n<strong>Designed by 2019 European Champion Aaryn \"Drago\" Byrne</strong>"
   :illustrator "Dimik"
   :position 51
   :quantity 3
@@ -433,7 +433,7 @@
   :set-id "midnight-sun"}
  {:card-id "mutually-assured-destruction"
   :code "33064"
-  :flavor "<champion>Designed by 2020 Asia-Pacific Champion Eric Keilback</champion>"
+  :flavor "<strong>Designed by 2020 Asia-Pacific Champion Eric Keilback</strong>"
   :illustrator "Dimik"
   :position 64
   :quantity 3

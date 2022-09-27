@@ -259,7 +259,7 @@
   :set-id "system-gateway"}
  {:card-id "ansel-1-0"
   :code "30038"
-  :flavor "<champion>Designed by 2018 European Champion Patrick Gower</champion>"
+  :flavor "<strong>Designed by 2018 European Champion Patrick Gower</strong>"
   :illustrator "Galen Dara"
   :position 38
   :quantity 3
@@ -358,7 +358,7 @@
  {:card-id "tomorrow-s-headline"
   :code "30052"
   :flavor "We don't find news. We make it."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 52
   :quantity 3
   :set-id "system-gateway"}

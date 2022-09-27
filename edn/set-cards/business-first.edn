@@ -13,7 +13,7 @@
   :set-id "business-first"}
  {:card-id "cbi-raid"
   :code "10022"
-  :flavor "<champion>Designed by 2013 World Champion Jens Erickson</champion>"
+  :flavor "<strong>Designed by 2013 World Champion Jens Erickson</strong>"
   :illustrator "Mike Nesbitt"
   :position 22
   :quantity 3

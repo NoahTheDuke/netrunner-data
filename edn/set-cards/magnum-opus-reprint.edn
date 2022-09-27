@@ -1,42 +1,42 @@
 [{:card-id "labor-rights"
   :code "28001"
-  :flavor "<champion>Designed by 2017 European Champion Mike Sheehan</champion>"
+  :flavor "<strong>Designed by 2017 European Champion Mike Sheehan</strong>"
   :illustrator "Krembler"
   :position 1
   :quantity 3
   :set-id "magnum-opus-reprint"}
  {:card-id "crowdfunding"
   :code "28002"
-  :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>"
+  :flavor "<strong>Designed by 2017 GenCon Champion Sam Suied</strong>"
   :illustrator "Patrick Burk, Mark Chandler"
   :position 2
   :quantity 3
   :set-id "magnum-opus-reprint"}
  {:card-id "embolus"
   :code "28003"
-  :flavor "<champion>Designed by 2016 GenCon Champion Dan D'Argenio</champion>"
+  :flavor "<strong>Designed by 2016 GenCon Champion Dan D'Argenio</strong>"
   :illustrator "Kevin Tame"
   :position 3
   :quantity 3
   :set-id "magnum-opus-reprint"}
  {:card-id "slot-machine"
   :code "28004"
-  :flavor "<champion>Designed by 2017 World Champion Jess Horig</champion>"
+  :flavor "<strong>Designed by 2017 World Champion Jess Horig</strong>"
   :illustrator "Krembler"
   :position 4
   :quantity 3
   :set-id "magnum-opus-reprint"}
  {:card-id "border-control"
   :code "28005"
-  :flavor "<champion>Designed by 2016 World Champion Chris Dyer</champion>"
-  :illustrator "Akira J. Mitchell"
+  :flavor "<strong>Designed by 2016 World Champion Chris Dyer</strong>"
+  :illustrator "NtscapeNavigator"
   :position 5
   :quantity 3
   :set-id "magnum-opus-reprint"}
  {:card-id "timely-public-release"
   :code "28006"
-  :flavor "<champion>Designed by 2015 World Champion Dan D'Argenio</champion>"
-  :illustrator "Akira J. Mitchell"
+  :flavor "<strong>Designed by 2015 World Champion Dan D'Argenio</strong>"
+  :illustrator "NtscapeNavigator"
   :position 6
   :quantity 3
   :set-id "magnum-opus-reprint"}]

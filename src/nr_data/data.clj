@@ -9,17 +9,20 @@
 
 (defn read-edn-file
   [file-path]
-  ((comp edn/read-string slurp) file-path))
+  (edn/read-string (slurp file-path)))
 
 (defn load-edn-from-dir
   [file-path]
   (->> (io/file file-path)
        (file-seq)
-       (filter #(and (.isFile %)
-                     (str/ends-with? % ".edn")))
-       (map read-edn-file)
-       (flatten)
+       (filter (fn [file] (and (.isFile file)
+                               (str/ends-with? file ".edn"))))
+       (mapcat read-edn-file)
        (into [])))
+
+(comment
+  (load-edn-from-dir "edn/set-cards")
+  )
 
 (defn load-data
   ([filename] (load-data filename {:id :code}))

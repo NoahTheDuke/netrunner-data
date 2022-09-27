@@ -179,7 +179,7 @@
   :set-id "uprising"}
  {:card-id "paule-s-cafe"
   :code "26092"
-  :flavor "<champion>Designed by 2018 Eternal Champion Oguz Han Asnaz</champion>"
+  :flavor "<strong>Designed by 2018 Eternal Champion Oguz Han Asnaz</strong>"
   :illustrator "Matt Zeilinger"
   :position 92
   :quantity 3
@@ -235,7 +235,7 @@
  {:card-id "vaporframe-fabricator"
   :code "26100"
   :flavor "A staccato of laser pulses fuses the vapor to solid form. The embryonic part accretes metal layer by layer."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 100
   :quantity 3
   :set-id "uprising"}
@@ -256,7 +256,7 @@
  {:card-id "next-activation-command"
   :code "26103"
   :flavor "\"Uh oh, Keiko! Looks like we've pulled aggro!\""
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 103
   :quantity 3
   :set-id "uprising"}
@@ -284,7 +284,7 @@
  {:card-id "prana-condenser"
   :code "26107"
   :flavor "Constructive feedback to the neural field reliably causes greater degradation than spike inputs. The mind has no defence against its own echoes."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 107
   :quantity 3
   :set-id "uprising"}
@@ -405,7 +405,7 @@
  {:card-id "winchester"
   :code "26125"
   :flavor "\"I don't know how Skorpios gets these designs past Brand Management.\"\n-Liz Campbell, VP Project Security"
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 125
   :quantity 3
   :set-id "uprising"}
@@ -433,7 +433,7 @@
  {:card-id "false-lead"
   :code "26129"
   :flavor "\"Begin a voice message to Steve: I'm in some random city staring at yet another empty room. This hot insider scoop of yours feels distinctly chilly.\""
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 129
   :quantity 3
   :set-id "uprising"}

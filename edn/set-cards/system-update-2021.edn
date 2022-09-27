@@ -336,7 +336,7 @@
  {:card-id "corporate-troubleshooter"
   :code "31049"
   :flavor "Problem solved."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 49
   :quantity 3
   :set-id "system-update-2021"}
@@ -371,7 +371,7 @@
  {:card-id "snare"
   :code "31054"
   :flavor "A little room, full of surprises."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 54
   :quantity 3
   :set-id "system-update-2021"}
@@ -490,7 +490,7 @@
  {:card-id "hostile-takeover"
   :code "31071"
   :flavor "Sometimes the small fry need a little convincing to put profit over principle."
-  :illustrator "Akira J. Mitchell, Matt Burton"
+  :illustrator "NtscapeNavigator, Matt Burton"
   :position 71
   :quantity 3
   :set-id "system-update-2021"}
@@ -518,7 +518,7 @@
  {:card-id "archer"
   :code "31075"
   :flavor "Target Acquired."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 75
   :quantity 3
   :set-id "system-update-2021"}
@@ -545,7 +545,7 @@
  {:card-id "crisium-grid"
   :code "31079"
   :flavor "The Promontorium Agarum shipyards work on a scale that would be impossible in Earthgrav."
-  :illustrator "Akira J. Mitchell"
+  :illustrator "NtscapeNavigator"
   :position 79
   :quantity 3
   :set-id "system-update-2021"}

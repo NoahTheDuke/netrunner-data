@@ -186,19 +186,20 @@
   [set-cards-map mwl]
   (-> mwl
       (assoc :cards (reduce-kv
-                      (fn [m k v]
-                        (let [c (name k)
+                      (fn [m code penalty]
+                        (let [c (name code)
                               s (get set-cards-map c)]
                           (assoc m
                                  (:card-id s)
                                  (reduce-kv
                                    (fn [m_ k_ v_]
-                                     (assoc m_ (-> k_ slugify keyword) v_))
+                                     (assoc m_ (-> k_ name slugify keyword) v_))
                                    {}
-                                   v))))
+                                   penalty))))
                       {}
                       (:cards mwl))
-                 :id (-> mwl :name slugify))
+                 :id (-> mwl :name slugify)
+                 :format (or (:format mwl) "standard"))
       (dissoc :code)))
 
 (defn sort-and-group-set-cards
@@ -313,7 +314,7 @@
 
         _set-cards (set-cards-handler line-ending raw-set-cards)
 
-        ; mwls (mwl-handler line-ending download-fn raw-set-cards)
+        mwls (mwl-handler line-ending download-fn raw-set-cards)
         ]
 
     (println "Done!")))
