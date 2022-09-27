@@ -17,7 +17,8 @@
        (file-seq)
        (filter (fn [file] (and (.isFile file)
                                (str/ends-with? file ".edn"))))
-       (mapcat read-edn-file)
+       (map read-edn-file)
+       (flatten)
        (into [])))
 
 (comment
