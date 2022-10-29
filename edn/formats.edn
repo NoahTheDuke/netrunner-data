@@ -11,7 +11,7 @@
            "kitara"
            "ashes"
            "borealis"]
-  :mwl "standard-ban-list-22-08"}
+  :mwl "standard-ban-list-22-09"}
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]
