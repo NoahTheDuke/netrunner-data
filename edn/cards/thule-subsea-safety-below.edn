@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "thule-subsea-safety-below"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Whenever the Runner steals an agenda, do 1 core damage unless they spend click and 2 credits."
+ :stripped-title "Thule Subsea: Safety Below"
+ :subtype [:division]
+ :text "Whenever the Runner steals an agenda, do 1 core damage unless they spend [click] and 2[credit]."
+ :title "Thule Subsea: Safety Below"
+ :type :identity
+ :uniqueness false}

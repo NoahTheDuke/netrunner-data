@@ -1,0 +1,13 @@
+{:advancement-requirement 6
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "regulatory-capture"
+ :side :corp
+ :stripped-text "For each bad publicity you have up to 4, this agenda gets -1 advancement requirement."
+ :stripped-title "Regulatory Capture"
+ :subtype [:research]
+ :text "For each bad publicity you have up to 4, this agenda gets -1 advancement requirement."
+ :title "Regulatory Capture"
+ :type :agenda
+ :uniqueness false}

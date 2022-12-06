@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "djupstad-grid"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "Whenever you score an agenda from the root of this server, do 1 core damage. Limit 1 region per server."
+ :stripped-title "Djupstad Grid"
+ :subtype [:region]
+ :text "Whenever you score an agenda from the root of this server, do 1 core damage.\nLimit 1 <strong>region</strong> per server."
+ :title "Djupstad Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

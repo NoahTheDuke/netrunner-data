@@ -697,4 +697,14 @@
   :name "Midnight Sun"
   :position 2
   :set-type :data-pack
-  :size 65}]
+  :size 65}
+ {:code "ph"
+  :cycle-id "borealis"
+  :date-release "2022-12-09"
+  :deluxe false
+  :ffg-id nil
+  :id "parhelion"
+  :name "Parhelion"
+  :position 3
+  :set-type :data-pack
+  :size 63}]

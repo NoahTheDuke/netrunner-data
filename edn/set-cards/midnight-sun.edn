@@ -225,7 +225,7 @@
   :set-id "midnight-sun"}
  {:card-id "trieste-model-bioroids"
   :code "33034"
-  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<strong>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</strong>"
+  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<strong>Designed by 2019 World Champion Oliver \"Pinsel\" Siccha</strong>"
   :illustrator "Dimik"
   :position 34
   :quantity 3
@@ -357,7 +357,7 @@
   :set-id "midnight-sun"}
  {:card-id "mestnichestvo"
   :code "33053"
-  :flavor "These are merely symbols. It is our fear which gives them power."
+  :flavor "Names of old carry little weight today, their legacies broken and swept away. Now, we are the rulers of truth."
   :illustrator "BalanceSheet"
   :position 53
   :quantity 3

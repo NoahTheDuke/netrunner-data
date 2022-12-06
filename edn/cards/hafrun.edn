@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "hafrun"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :stripped-text "When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cards abilities cannot break subroutines for the remainder of that run. Subroutine End the run."
+ :stripped-title "Hafrun"
+ :subtype [:barrier :code-gate]
+ :text "When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cardʼs abilities cannot break subroutines for the remainder of that run.\n[subroutine] End the run."
+ :title "Hafrún"
+ :type :ice
+ :uniqueness false}

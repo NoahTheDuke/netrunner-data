@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ontological-dependence"
+ :side :corp
+ :stripped-text "This agenda gets -1 advancement requirement for each core damage the Runner has taken this game."
+ :stripped-title "Ontological Dependence"
+ :subtype [:research]
+ :text "This agenda gets -1 advancement requirement for each core damage the Runner has taken this game."
+ :title "Ontological Dependence"
+ :type :agenda
+ :uniqueness false}

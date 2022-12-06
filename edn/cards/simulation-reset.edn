@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "simulation-reset"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "Trash up to 5 cards from HQ. Shuffle that many cards from Archives into R&D. Draw that many cards. Remove this operation from the game."
+ :stripped-title "Simulation Reset"
+ :text "Trash up to 5 cards from HQ. Shuffle that many cards from Archives into R&D. Draw that many cards.\nRemove this operation from the game."
+ :title "Simulation Reset"
+ :type :operation
+ :uniqueness false}

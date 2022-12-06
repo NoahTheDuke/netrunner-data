@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "issuaq-adaptics-sustaining-diversity"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Whenever you score an agenda that you did not install or advance this turn, place 1 power counter on this identity. For each hosted power counter, you need 1 less agenda point to win the game."
+ :stripped-title "Issuaq Adaptics: Sustaining Diversity"
+ :subtype [:division]
+ :text "Whenever you score an agenda that you did not install or advance this turn, place 1 power counter on this identity.\nFor each hosted power counter, you need 1 less agenda point to win the game."
+ :title "Issuaq Adaptics: Sustaining Diversity"
+ :type :identity
+ :uniqueness false}

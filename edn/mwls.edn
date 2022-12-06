@@ -622,8 +622,8 @@
           "cayambe-grid" {:deck-limit 0}
           "cerebral-static" {:deck-limit 0}
           "clan-vengeance" {:deck-limit 0}
-          "clones-are-not-people" {:deck-limit 0}
           "clone-suffrage-movement" {:deck-limit 0}
+          "clones-are-not-people" {:deck-limit 0}
           "corporate-grant" {:deck-limit 0}
           "corporate-scandal" {:deck-limit 0}
           "crowdfunding" {:deck-limit 0}
@@ -701,25 +701,21 @@
           "cayambe-grid" {:deck-limit 0}
           "cerebral-static" {:deck-limit 0}
           "clan-vengeance" {:deck-limit 0}
-          "clones-are-not-people" {:deck-limit 0}
           "clone-suffrage-movement" {:deck-limit 0}
+          "clones-are-not-people" {:deck-limit 0}
           "corporate-grant" {:deck-limit 0}
           "corporate-scandal" {:deck-limit 0}
           "crowdfunding" {:deck-limit 0}
-          "ddos" {:deck-limit 0}
           "death-and-taxes" {:deck-limit 0}
           "defective-brainchips" {:deck-limit 0}
           "door-to-door" {:deck-limit 0}
-          "dorm-computer" {:deck-limit 0}
           "employee-strike" {:deck-limit 0}
           "encore" {:deck-limit 0}
           "enforced-curfew" {:deck-limit 0}
           "enhanced-login-protocol" {:deck-limit 0}
-          "film-critic" {:deck-limit 0}
           "freedom-through-equality" {:deck-limit 0}
           "friends-in-high-places" {:deck-limit 0}
           "gagarin-deep-space-expanding-the-horizon" {:deck-limit 0}
-          "gang-sign" {:deck-limit 0}
           "gold-farmer" {:deck-limit 0}
           "government-investigations" {:deck-limit 0}
           "gpi-net-tap" {:deck-limit 0}
@@ -781,28 +777,24 @@
           "cayambe-grid" {:deck-limit 0}
           "cerebral-static" {:deck-limit 0}
           "clan-vengeance" {:deck-limit 0}
-          "clones-are-not-people" {:deck-limit 0}
           "clone-suffrage-movement" {:deck-limit 0}
+          "clones-are-not-people" {:deck-limit 0}
           "corporate-grant" {:deck-limit 0}
           "corporate-scandal" {:deck-limit 0}
           "crowdfunding" {:deck-limit 0}
-          "ddos" {:deck-limit 0}
           "death-and-taxes" {:deck-limit 0}
           "defective-brainchips" {:deck-limit 0}
           "door-to-door" {:deck-limit 0}
-          "dorm-computer" {:deck-limit 0}
           "employee-strike" {:deck-limit 0}
           "encore" {:deck-limit 0}
           "enforced-curfew" {:deck-limit 0}
           "engram-flush" {:deck-limit 0}
           "enhanced-login-protocol" {:deck-limit 0}
           "fairchild-3-0" {:deck-limit 0}
-          "film-critic" {:deck-limit 0}
           "freedom-through-equality" {:deck-limit 0}
           "friends-in-high-places" {:deck-limit 0}
           "gagarin-deep-space-expanding-the-horizon" {:deck-limit 0}
           "game-changer" {:deck-limit 0}
-          "gang-sign" {:deck-limit 0}
           "gold-farmer" {:deck-limit 0}
           "government-investigations" {:deck-limit 0}
           "government-takeover" {:deck-limit 0}

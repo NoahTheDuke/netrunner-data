@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "concerto"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Reveal the top card of your stack and place credits equal to its printed play or install cost on this event. Add the revealed card to your grip. Run any server. You can spend hosted credits during that run."
+ :stripped-title "Concerto"
+ :subtype [:run]
+ :text "Reveal the top card of your stack and place credits equal to its printed play or install cost on this event. Add the revealed card to your grip.\nRun any server. You can spend hosted credits during that run."
+ :title "Concerto"
+ :type :event
+ :uniqueness false}

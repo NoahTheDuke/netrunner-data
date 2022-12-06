@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "spark-of-inspiration"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10 credits less. Shuffle the set-aside cards into your stack."
+ :stripped-title "Spark of Inspiration"
+ :subtype [:mod]
+ :text "Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10[credit] less. Shuffle the set-aside cards into your stack."
+ :title "Spark of Inspiration"
+ :type :event
+ :uniqueness false}

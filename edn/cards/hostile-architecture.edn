@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "hostile-architecture"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "The first time each turn the Runner trashes any of your installed cards (including this asset), do 2 meat damage."
+ :stripped-title "Hostile Architecture"
+ :subtype [:hostile]
+ :text "The first time each turn the Runner trashes any of your installed cards <em>(including this asset)</em>, do 2 meat damage."
+ :title "Hostile Architecture"
+ :trash-cost 4
+ :type :asset
+ :uniqueness true}

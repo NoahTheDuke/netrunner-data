@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "superdeep-borehole"
+ :influence-cost 5
+ :side :corp
+ :stripped-text "When you rez this asset, load 6 bad publicity counters onto it. When it is empty, you win the game. When your turn begins, take 1 bad publicity from this asset."
+ :stripped-title "Superdeep Borehole"
+ :subtype [:illicit :industrial]
+ :text "When you rez this asset, load 6 bad publicity counters onto it. When it is empty, you win the game.\nWhen your turn begins, take 1 bad publicity from this asset."
+ :title "Superdeep Borehole"
+ :trash-cost 6
+ :type :asset
+ :uniqueness false}

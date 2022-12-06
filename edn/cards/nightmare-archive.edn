@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "nightmare-archive"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, they may add it to their score area as an agenda worth -1 agenda point. If they do not, do 1 core damage and remove this asset from the game."
+ :stripped-title "Nightmare Archive"
+ :subtype [:ambush]
+ :text "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, they may add it to their score area as an agenda worth -1 agenda point. If they do not, do 1 core damage and remove this asset from the game."
+ :title "Nightmare Archive"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

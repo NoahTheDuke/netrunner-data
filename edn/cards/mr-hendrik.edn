@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "mr-hendrik"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "When the Runner accesses this upgrade while it is installed, you may pay 2 credits to do 1 core damage. If the Runner has any click remaining, they may lose all their click to prevent this damage."
+ :stripped-title "Mr. Hendrik"
+ :subtype [:ambush :sysop]
+ :text "When the Runner accesses this upgrade while it is installed, you may pay 2[credit] to do 1 core damage. If the Runner has any [click] remaining, they may lose all their [click] to prevent this damage."
+ :title "Mr. Hendrik"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

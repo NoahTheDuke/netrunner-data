@@ -35,6 +35,7 @@
  {:card-id "bio-modeled-network"
   :code "12006"
   :flavor "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\""
+  :illustrator "Jarreau Wimberly"
   :position 6
   :quantity 3
   :set-id "daedalus-complex"}

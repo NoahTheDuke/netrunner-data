@@ -1,0 +1,139 @@
+[{:card-id "concerto"
+  :code "33075"
+  :flavor "ˮRoslavetsʼ Concerto No. 2. Breakneck, brilliant, enchanting. The perfect finale for Virtuoso.ˮ"
+  :illustrator "Olie Boldador"
+  :position 75
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "spark-of-inspiration"
+  :code "33084"
+  :flavor "ˮThe best ideas float to the top, if you give them time.ˮ\n—Ar<h1m3d3s  JAR"
+  :illustrator "Oliver Morit"
+  :position 84
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "orca"
+  :code "33089"
+  :illustrator "Jakuza"
+  :position 89
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "k2cp-turbine"
+  :code "33090"
+  :flavor "Every rig needs a power source. How about one with blades moving at Mach 2?"
+  :illustrator "Ed Mattinian"
+  :position 90
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "thule-subsea-safety-below"
+  :code "33095"
+  :flavor "Join us. Safe, away from the crisis."
+  :illustrator "Kira L. Nguyen"
+  :position 95
+  :quantity 1
+  :set-id "parhelion"}
+ {:card-id "ontological-dependence"
+  :code "33096"
+  :flavor "Bend the minds of those below you such that they will always need you, and loyalty is assured forever."
+  :illustrator "Oliver Morit"
+  :position 96
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "nightmare-archive"
+  :code "33097"
+  :flavor "Everyone remembers the first tape they archive."
+  :illustrator "Kira L. Nguyen"
+  :position 97
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "distributed-tracing"
+  :code "33100"
+  :flavor "Sometimes, they want you to know that they know."
+  :illustrator "Kira L. Nguyen"
+  :position 100
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hypoxia"
+  :code "33101"
+  :flavor "You think thatʼs air youʼre breathing now?"
+  :illustrator "Ed Mattinian"
+  :position 101
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "djupstad-grid"
+  :code "33102"
+  :flavor "ˮItʼs technically above our pay grade, but we know where our weapons come from. In Djupstad they wait, deep in thought, until we call upon them.ˮ\n—Aron Hendrik"
+  :illustrator "Kira L. Nguyen"
+  :position 102
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "mr-hendrik"
+  :code "33103"
+  :flavor "Few employees know he exists. Even fewer know he is actually <em>three</em>."
+  :illustrator "Ferenc Patkós"
+  :position 103
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "issuaq-adaptics-sustaining-diversity"
+  :code "33104"
+  :flavor "Bringing Mother Nature up to speed."
+  :illustrator "Emilio Rodriguez"
+  :position 104
+  :quantity 1
+  :set-id "parhelion"}
+ {:card-id "hafrun"
+  :code "33108"
+  :flavor "Hafrún has seen generations of the Net. Now there are whispers that something from the deep is disquieting it."
+  :illustrator "Jack Reeves"
+  :position 108
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "simulation-reset"
+  :code "33110"
+  :flavor "ˮThe worst part about failed experiments? The queue for the incinerator.ˮ\n—Overheard in the Issuaq Adaptics cafeteria."
+  :illustrator "Anthony Hutchings"
+  :position 110
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "regulatory-capture"
+  :code "33120"
+  :flavor "This was a criminal offense. Now itʼs an option for business."
+  :illustrator "Wyn Lacabra"
+  :position 120
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "kimberlite-field"
+  :code "33121"
+  :flavor "ˮWeylandʼs synthetic diamonds cost less than naturals... so what are they really digging for here?ˮ\n—Captain Padma Isbister"
+  :illustrator "Vitalii Ostaschenko"
+  :position 121
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "hostile-architecture"
+  :code "33122"
+  :flavor "When implemented at this sort of scale, these practices can keep away far more than a few unwanted citizens."
+  :illustrator "Dimik"
+  :position 122
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "superdeep-borehole"
+  :code "33123"
+  :flavor "ˮThey just keep drilling down, no matter what...ˮ\n—Valentina Ferreira"
+  :illustrator "Vitalii Ostaschenko"
+  :position 123
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "end-of-the-line"
+  :code "33125"
+  :flavor "Under northern skies Sundog had lived all his life, and under them he would die."
+  :illustrator "Olie Boldador"
+  :position 125
+  :quantity 3
+  :set-id "parhelion"}
+ {:card-id "zato-city-grid"
+  :code "33127"
+  :flavor "Getting in is hard. Getting out requires a death certificate."
+  :illustrator "Vitalii Ostaschenko"
+  :position 127
+  :quantity 3
+  :set-id "parhelion"}]

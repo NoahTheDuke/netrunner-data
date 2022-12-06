@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "kimberlite-field"
+ :side :corp
+ :stripped-text "When you score this agenda, you may trash 1 of your rezzed cards. If you do, trash 1 installed Runner card with a printed install cost equal to or less than the printed rez cost of the Corp card you trashed."
+ :stripped-title "Kimberlite Field"
+ :subtype [:expansion]
+ :text "When you score this agenda, you may trash 1 of your rezzed cards. If you do, trash 1 installed Runner card with a printed install cost equal to or less than the printed rez cost of the Corp card you trashed."
+ :title "Kimberlite Field"
+ :type :agenda
+ :uniqueness false}
