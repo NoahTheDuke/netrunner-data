@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "nonequivalent-exchange"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Gain 5 credits. You may have each player gain 2 credits."
+ :stripped-title "Nonequivalent Exchange"
+ :subtype [:transaction]
+ :text "Gain 5[credit]. You may have each player gain 2[credit]."
+ :title "Nonequivalent Exchange"
+ :type :operation
+ :uniqueness false}

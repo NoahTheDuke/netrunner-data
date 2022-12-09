@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "katorga-breakout"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Run any server. If successful, add 1 card from your heap to your grip."
+ :stripped-title "Katorga Breakout"
+ :subtype [:run]
+ :text "Run any server. If successful, add 1 card from your heap to your grip."
+ :title "Katorga Breakout"
+ :type :event
+ :uniqueness false}

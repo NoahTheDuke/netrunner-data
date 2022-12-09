@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "reaper-function"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When your turn begins, you may trash this asset to do 2 net damage."
+ :stripped-title "Reaper Function"
+ :subtype [:hostile]
+ :text "When your turn begins, you may trash this asset to do 2 net damage."
+ :title "Reaper Function"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

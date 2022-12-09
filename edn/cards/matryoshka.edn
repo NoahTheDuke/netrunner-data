@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 6
+ :faction :neutral-runner
+ :id "matryoshka"
+ :influence-cost 0
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :stripped-text "When your turn begins, turn each hosted card faceup. click: Host a copy of Matryoshka from your grip faceup on this program. (It is not installed.) Interface -> X credits, turn 1 hosted copy of Matryoshka facedown: Break X subroutines. 1 credit: +1 strength. Limit 6 per deck."
+ :stripped-title "Matryoshka"
+ :subtype [:icebreaker :ai]
+ :text "When your turn begins, turn each hosted card faceup.\n[click]<strong>:</strong> Host a copy of Matryoshka from your grip faceup on this program. <em>(It is not installed.)</em>\nInterface → <strong>X[credit]</strong>, <strong>turn 1 hosted copy of Matryoshka facedown:</strong> Break X subroutines.\n<strong>1[credit]:</strong> +1 strength.\nLimit 6 per deck."
+ :title "Matryoshka"
+ :type :program
+ :uniqueness false}

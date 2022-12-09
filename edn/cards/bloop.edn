@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "bloop"
+ :influence-cost 2
+ :side :corp
+ :strength 5
+ :stripped-text "As an additional cost to rez this ice, derez another piece of harmonic ice. Subroutine Do 1 core damage. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program."
+ :stripped-title "Bloop"
+ :subtype [:sentry :ap :destroyer :harmonic]
+ :text "As an additional cost to rez this ice, derez another piece of <strong>harmonic</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program."
+ :title "Bloop"
+ :type :ice
+ :uniqueness false}

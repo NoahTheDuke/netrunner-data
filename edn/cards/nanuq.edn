@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "nanuq"
+ :influence-cost 5
+ :memory-cost 2
+ :side :runner
+ :strength 3
+ :stripped-text "When this program is uninstalled, remove it from the game. When an agenda is scored or stolen, remove this program from the game. Interface -> 2 credits: Break up to 2 subroutines. 1 credit: +1 strength."
+ :stripped-title "Nanuq"
+ :subtype [:icebreaker :ai]
+ :text "When this program is uninstalled, remove it from the game.\nWhen an agenda is scored or stolen, remove this program from the game.\nInterface → <strong>2[credit]:</strong> Break up to 2 subroutines.\n1[credit]: +1 strength."
+ :title "Nanuq"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:advancement-requirement 2
+ :agenda-points 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "hybrid-release"
+ :side :corp
+ :stripped-text "When you score this agenda, you may install 1 facedown card from Archives."
+ :stripped-title "Hybrid Release"
+ :subtype [:expansion]
+ :text "When you score this agenda, you may install 1 facedown card from Archives."
+ :title "Hybrid Release"
+ :type :agenda
+ :uniqueness false}

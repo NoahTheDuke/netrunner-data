@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "dr-nuka-vrolyck"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When you install this resource, load 2 power counters onto it. When it is empty, trash it. click, hosted power counter: Draw 3 cards."
+ :stripped-title "Dr. Nuka Vrolyck"
+ :subtype [:connection]
+ :text "When you install this resource, load 2 power counters onto it. When it is empty, trash it.\n[click], <strong>hosted power counter:</strong> Draw 3 cards."
+ :title "Dr. Nuka Vrolyck"
+ :type :resource
+ :uniqueness true}

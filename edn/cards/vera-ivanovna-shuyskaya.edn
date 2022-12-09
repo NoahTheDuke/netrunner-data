@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "vera-ivanovna-shuyskaya"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "Whenever an agenda is scored or stolen, you may reveal the grip. Trash 1 card revealed this way."
+ :stripped-title "Vera Ivanovna Shuyskaya"
+ :subtype [:executive]
+ :text "Whenever an agenda is scored or stolen, you may reveal the grip. Trash 1 card revealed this way."
+ :title "Vera Ivanovna Shuyskaya"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

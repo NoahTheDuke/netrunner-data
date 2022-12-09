@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "hush"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. Host ice cannot gain abilities and loses all abilities except its printed subroutines. click: Host this program on another installed piece of ice."
+ :stripped-title "Hush"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nHost ice cannot gain abilities and loses all abilities except its printed subroutines.\n<strong>[click]:</strong> Host this program on another installed piece of ice."
+ :title "Hush"
+ :type :program
+ :uniqueness false}

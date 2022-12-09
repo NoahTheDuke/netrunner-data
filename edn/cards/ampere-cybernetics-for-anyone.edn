@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :neutral-corp
+ :id "ampere-cybernetics-for-anyone"
+ :influence-limit nil
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Your deck cannot include more than 1 copy of any card. Your deck may include up to 2 different agenda cards from each Corp faction."
+ :stripped-title "Ampere: Cybernetics For Anyone"
+ :subtype [:corp]
+ :text "Your deck cannot include more than 1 copy of any card.\nYour deck may include up to 2 different agenda cards from each Corp faction."
+ :title "Ampère: Cybernetics For Anyone"
+ :type :identity
+ :uniqueness false}

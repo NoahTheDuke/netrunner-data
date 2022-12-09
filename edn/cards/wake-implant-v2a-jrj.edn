@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "wake-implant-v2a-jrj"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "When you install this hardware, suffer 1 meat damage. Whenever you make a successful run on HQ, place 1 power counter on this hardware. Whenever you breach R&D, you may remove up to 3 hosted power counters to access that many additional cards."
+ :stripped-title "WAKE Implant v2A-JRJ"
+ :subtype [:cybernetic]
+ :text "When you install this hardware, suffer 1 meat damage.\nWhenever you make a successful run on HQ, place 1 power counter on this hardware.\nWhenever you breach R&D, you may remove up to 3 hosted power counters to access that many additional cards."
+ :title "WAKE Implant v2A-JRJ"
+ :type :hardware
+ :uniqueness true}

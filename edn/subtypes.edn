@@ -1,4 +1,6 @@
-[{:id :advertisement
+[{:id :academic
+  :name "Academic"}
+ {:id :advertisement
   :name "Advertisement"}
  {:id :ai
   :name "AI"}
@@ -58,6 +60,8 @@
   :name "Daemon"}
  {:id :decoder
   :name "Decoder"}
+ {:id :deep-net
+  :name "Deep Net"}
  {:id :deflector
   :name "Deflector"}
  {:id :destroyer
@@ -186,6 +190,8 @@
   :name "Trap"}
  {:id :triple
   :name "Triple"}
+ {:id :trojan
+  :name "Trojan"}
  {:id :unorthodox
   :name "Unorthodox"}
  {:id :vehicle

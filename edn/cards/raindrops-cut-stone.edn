@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "raindrops-cut-stone"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Run any server. Whenever a subroutine resolves during that run (including a subroutine that ends the run), place 1 power counter on this event. When that run ends, draw 1 card for each hosted power counter and gain 3 credits."
+ :stripped-title "Raindrops Cut Stone"
+ :subtype [:run]
+ :text "Run any server. Whenever a subroutine resolves during that run <em>(including a subroutine that ends the run)</em>, place 1 power counter on this event.\nWhen that run ends, draw 1 card for each hosted power counter and gain 3[credit]."
+ :title "Raindrops Cut Stone"
+ :type :event
+ :uniqueness false}

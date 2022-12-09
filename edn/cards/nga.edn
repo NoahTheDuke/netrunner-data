@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "nga"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "When you install this program, load 3 power counters onto it. When it is empty, trash it. The first time each turn you make a successful run, you may remove 1 hosted power counter to sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.)"
+ :stripped-title "Nga"
+ :text "When you install this program, load 3 power counters onto it. When it is empty, trash it.\nThe first time each turn you make a successful run, you may remove 1 hosted power counter to sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>"
+ :title "Nga"
+ :type :program
+ :uniqueness true}

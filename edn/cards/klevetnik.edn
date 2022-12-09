@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "klevetnik"
+ :influence-cost 3
+ :side :corp
+ :strength 3
+ :stripped-text "When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends. Subroutine End the run."
+ :stripped-title "Klevetnik"
+ :subtype [:barrier]
+ :text "When you rez this ice during a run against this server, you may have the Runner gain 2[credit]. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends.\n[subroutine] End the run."
+ :title "Klevetnik"
+ :type :ice
+ :uniqueness false}

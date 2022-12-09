@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "dr-vientiane-keeling"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "When you rez this asset and when your turn begins, place 1 power counter on this asset. The Runner gets -1 maximum hand size for each hosted power counter."
+ :stripped-title "Dr. Vientiane Keeling"
+ :subtype [:academic]
+ :text "When you rez this asset and when your turn begins, place 1 power counter on this asset.\nThe Runner gets -1 maximum hand size for each hosted power counter."
+ :title "Dr. Vientiane Keeling"
+ :trash-cost 4
+ :type :asset
+ :uniqueness true}

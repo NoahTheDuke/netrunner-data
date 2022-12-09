@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "yakov-erikovich-avdakov"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Whenever a player trashes a card (including this upgrade) from the root of this server or protecting it, except during installation, gain 2 credits."
+ :stripped-title "Yakov Erikovich Avdakov"
+ :subtype [:executive]
+ :text "Whenever a player trashes a card <em>(including this upgrade)</em> from the root of this server or protecting it, except during installation, gain 2[credit]."
+ :title "Yakov Erikovich Avdakov"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness true}

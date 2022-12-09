@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "zenit-chip-jz-2mj"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When you install this hardware, suffer 1 core damage. The first time each turn you make a successful run on a central server, draw 1 card."
+ :stripped-title "Zenit Chip JZ-2MJ"
+ :subtype [:cybernetic :chip]
+ :text "When you install this hardware, suffer 1 core damage.\nThe first time each turn you make a successful run on a central server, draw 1 card."
+ :title "Zenit Chip JZ-2MJ"
+ :type :hardware
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "hippocampic-mechanocytes"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When you install this hardware, place 2 power counters on it and suffer 1 meat damage. You get +1 maximum hand size for each hosted power counter."
+ :stripped-title "Hippocampic Mechanocytes"
+ :subtype [:cybernetic]
+ :text "When you install this hardware, place 2 power counters on it and suffer 1 meat damage.\nYou get +1 maximum hand size for each hosted power counter."
+ :title "Hippocampic Mechanocytes"
+ :type :hardware
+ :uniqueness true}

@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 3
+ :faction :jinteki
+ :id "vampyronassa"
+ :influence-cost 3
+ :side :corp
+ :strength 4
+ :stripped-text "Subroutine The Runner loses 2 credits. Subroutine Gain 2 credits. Subroutine Do 2 net damage. Subroutine You may draw 1 or 2 cards."
+ :stripped-title "Vampyronassa"
+ :subtype [:code-gate :ap]
+ :text "[subroutine] The Runner loses 2[credit].\n[subroutine] Gain 2[credit].\n[subroutine] Do 2 net damage.\n[subroutine] You may draw 1 or 2 cards."
+ :title "Vampyronassa"
+ :type :ice
+ :uniqueness false}

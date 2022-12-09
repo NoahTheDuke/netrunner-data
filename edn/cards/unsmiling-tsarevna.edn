@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "unsmiling-tsarevna"
+ :influence-cost 2
+ :side :corp
+ :strength 2
+ :stripped-text "When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines. Subroutine Give the Runner 1 tag. Subroutine Do 2 net damage. Subroutine You may draw 2 cards."
+ :stripped-title "Unsmiling Tsarevna"
+ :subtype [:sentry :ap]
+ :text "When you rez this ice during a run against this server, you may have the Runner gain 2[credit]. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Do 2 net damage.\n[subroutine] You may draw 2 cards."
+ :title "Unsmiling Tsarevna"
+ :type :ice
+ :uniqueness false}

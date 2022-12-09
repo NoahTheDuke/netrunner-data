@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "tunnel-vision"
+ :influence-cost 3
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :stripped-text "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Interface -> 2 credits: Break up to 2 subroutines on a piece of ice protecting your mark. 2 credits: +2 strength."
+ :stripped-title "Tunnel Vision"
+ :subtype [:icebreaker :ai]
+ :text "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nInterface → <strong>2[credit]:</strong> Break up to 2 subroutines on a piece of ice protecting your mark.\n<strong>2[credit]:</strong> +2 strength."
+ :title "Tunnel Vision"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:advancement-requirement 2
+ :agenda-points 1
+ :deck-limit 3
+ :faction :nbn
+ :id "post-truth-dividend"
+ :side :corp
+ :stripped-text "When you score this agenda, you may draw 1 card."
+ :stripped-title "Post-Truth Dividend"
+ :subtype [:initiative]
+ :text "When you score this agenda, you may draw 1 card."
+ :title "Post-Truth Dividend"
+ :type :agenda
+ :uniqueness false}

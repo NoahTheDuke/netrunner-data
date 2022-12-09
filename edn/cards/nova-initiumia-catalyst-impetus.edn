@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :neutral-runner
+ :id "nova-initiumia-catalyst-impetus"
+ :influence-limit nil
+ :minimum-deck-size 40
+ :side :runner
+ :stripped-text "Your deck cannot include more than 1 copy of any card."
+ :stripped-title "Nova Initiumia: Catalyst & Impetus"
+ :subtype [:digital :natural]
+ :text "Your deck cannot include more than 1 copy of any card."
+ :title "Nova Initiumia: Catalyst & Impetus"
+ :type :identity
+ :uniqueness false}

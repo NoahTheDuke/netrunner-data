@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "asmund-pudlat"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When you install this resource, search your stack for up to 2 virus or weapon cards with different names. Host those cards faceup on this resource. (They are not installed.) When your turn begins, you may add 1 hosted card to your grip. If there are no more hosted cards, trash this resource."
+ :stripped-title "Asmund Pudlat"
+ :subtype [:connection :seedy]
+ :text "When you install this resource, search your stack for up to 2 <strong>virus</strong> or <strong>weapon</strong> cards with different names. Host those cards faceup on this resource. <em>(They are not installed.)</em>\nWhen your turn begins, you may add 1 hosted card to your grip. If there are no more hosted cards, trash this resource."
+ :title "Asmund Pudlat"
+ :type :resource
+ :uniqueness true}

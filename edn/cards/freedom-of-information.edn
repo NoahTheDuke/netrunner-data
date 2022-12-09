@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "freedom-of-information"
+ :side :corp
+ :stripped-text "This agenda gets -1 advancement requirement for each tag the Runner has."
+ :stripped-title "Freedom of Information"
+ :subtype [:research]
+ :text "This agenda gets -1 advancement requirement for each tag the Runner has."
+ :title "Freedom of Information"
+ :type :agenda
+ :uniqueness false}

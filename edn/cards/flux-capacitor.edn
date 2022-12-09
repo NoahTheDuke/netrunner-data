@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "flux-capacitor"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. The first time you break a subroutine during each encounter with host ice, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.)"
+ :stripped-title "Flux Capacitor"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nThe first time you break a subroutine during each encounter with host ice, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>"
+ :title "Flux Capacitor"
+ :type :program
+ :uniqueness true}

@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "abaasy"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "The first time each turn this program fully breaks a piece of ice, you may trash 1 card from your grip to draw 1 card. Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength."
+ :stripped-title "Abaasy"
+ :subtype [:icebreaker :decoder]
+ :text "The first time each turn this program fully breaks a piece of ice, you may trash 1 card from your grip to draw 1 card.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength."
+ :title "Abaasy"
+ :type :program
+ :uniqueness false}
