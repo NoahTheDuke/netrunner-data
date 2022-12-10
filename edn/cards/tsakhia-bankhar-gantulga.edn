@@ -8,6 +8,6 @@
  :stripped-title "Tsakhia Bankhar Gantulga"
  :subtype [:connection]
  :text "When your turn begins, you may choose a server.\nDuring the first encounter each turn with a piece of ice protecting the chosen server, whenever the Corp would resolve a subroutine, instead they resolve ˮ[subroutine] Do 1 net damage.ˮ."
- :title "Tsakhia ˮBankharˮ Gantulga"
+ :title "Tsakhia \"Bankhar\" Gantulga"
  :type :resource
  :uniqueness true}
