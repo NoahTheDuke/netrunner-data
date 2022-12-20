@@ -1,13 +1,13 @@
 [{:card-id "finality"
   :code "33066"
-  :flavor "ˮMy guilt is never to be doubted.ˮ"
+  :flavor "\"My guilt is never to be doubted.\""
   :illustrator "Ferenc Patkós"
   :position 66
   :quantity 3
   :set-id "parhelion"}
  {:card-id "katorga-breakout"
   :code "33067"
-  :flavor "ˮI promised I would come back for you, no matter the cost.ˮ\n—Esâ Afontov"
+  :flavor "\"I promised I would come back for you, no matter the cost.\"\n—Esâ Afontov"
   :illustrator "Olie Boldador"
   :position 67
   :quantity 3
@@ -55,21 +55,21 @@
   :set-id "parhelion"}
  {:card-id "tsakhia-bankhar-gantulga"
   :code "33074"
-  :flavor "ˮWith these two by my side, I've sworn never to fail. I can bear any pain so long as it has meaning.ˮ"
+  :flavor "\"With these two by my side, Iʼve sworn never to fail. I can bear any pain so long as it has meaning.\""
   :illustrator "Dimik"
   :position 74
   :quantity 3
   :set-id "parhelion"}
  {:card-id "concerto"
   :code "33075"
-  :flavor "ˮRoslavets' Concerto No. 2. Breakneck, brilliant, enchanting. The perfect finale for Virtuoso.ˮ"
+  :flavor "\"Roslavetsʼ Concerto No. 2. Breakneck, brilliant, enchanting. The perfect finale for Virtuoso.\""
   :illustrator "Olie Boldador"
   :position 75
   :quantity 3
   :set-id "parhelion"}
  {:card-id "reprise"
   :code "33076"
-  :flavor "ˮI may bow like I've accomplished the impossible, but the truth is it's not that hard.ˮ\n"
+  :flavor "\"I may bow like Iʼve accomplished the impossible, but the truth is itʼs not that hard.\"\n"
   :illustrator "Ferenc Patkós"
   :position 76
   :quantity 3
@@ -89,7 +89,7 @@
   :set-id "parhelion"}
  {:card-id "zenit-chip-jz-2mj"
   :code "33079"
-  :flavor "ˮZenit implants help you focus on the important things.ˮ\n—Ampère holo-billboard"
+  :flavor "\"Zenit implants help you focus on the important things.\"\n—Ampère holo-billboard"
   :illustrator "Martin de Diego Sádaba"
   :position 79
   :quantity 3
@@ -103,7 +103,7 @@
   :set-id "parhelion"}
  {:card-id "tunnel-vision"
   :code "33081"
-  :flavor "ˮHow could I pick a favorite? They're all good dogs.ˮ\n—Nyusha ˮSableˮ Sintashta"
+  :flavor "\"How could I pick a favorite? Theyʼre all good dogs.\"\n—Nyusha \"Sable\" Sintashta"
   :illustrator "Anthony Hutchings"
   :position 81
   :quantity 3
@@ -117,13 +117,13 @@
  {:card-id "info-bounty"
   :code "33083"
   :flavor "It was a relief, really, deciding on that one place in the world to definitely never visit again."
-  :illustrator "Elliot Birt"
+  :illustrator "Elliott Birt"
   :position 83
   :quantity 3
   :set-id "parhelion"}
  {:card-id "spark-of-inspiration"
   :code "33084"
-  :flavor "ˮThe best ideas float to the top, if you give them time.ˮ\n—Ar<h1m3d3s  JAR"
+  :flavor "\"The best ideas float to the top, if you give them time.\"\n—Ar<h1m3d3s  JAR"
   :illustrator "Oliver Morit"
   :position 84
   :quantity 3
@@ -137,14 +137,14 @@
   :set-id "parhelion"}
  {:card-id "basilar-synthgland-2kvj"
   :code "33086"
-  :flavor "It isn't as enjoyable as coffee, but the effects are magnitudes stronger."
+  :flavor "It isnʼt as enjoyable as coffee, but the effects are magnitudes stronger."
   :illustrator "Martin de Diego Sádaba"
   :position 86
   :quantity 3
   :set-id "parhelion"}
  {:card-id "flux-capacitor"
   :code "33087"
-  :flavor "ˮAre you telling me it's pronounced 'gigawatts'?ˮ\n—Captain Padma Isbister"
+  :flavor "\"Are you telling me itʼs pronounced ʼgigawattsʼ?\"\n—Captain Padma Isbister"
   :illustrator "Ed Mattinian"
   :position 87
   :quantity 3
@@ -178,7 +178,7 @@
   :set-id "parhelion"}
  {:card-id "dr-nuka-vrolyck"
   :code "33092"
-  :flavor "ˮThere is another world under the waves, vanishing as we speak. I want to map it before it's gone.ˮ"
+  :flavor "\"There is another world under the waves, vanishing as we speak. I want to map it before itʼs gone.\""
   :illustrator "Dave Lee"
   :position 92
   :quantity 3
@@ -192,7 +192,7 @@
   :set-id "parhelion"}
  {:card-id "matryoshka"
   :code "33094"
-  :flavor "{Card 6} Look at the little baby, even she helps!\n{Card 5} She's little—but fierce.\n{Card 4} Just as brave as his sisters.\n{Card 3} She's a typical middle child, really.\n{Card 2} Always there to back up her big sister.\n{Card 1} She leads and they all follow."
+  :flavor "{Card 6} Look at the little baby, even she helps!\n{Card 5} Sheʼs little—but fierce.\n{Card 4} Just as brave as his sisters.\n{Card 3} Sheʼs a typical middle child, really.\n{Card 2} Always there to back up her big sister.\n{Card 1} She leads and they all follow."
   :illustrator "Ed Mattinian"
   :position 94
   :quantity 6
@@ -241,14 +241,14 @@
   :set-id "parhelion"}
  {:card-id "hypoxia"
   :code "33101"
-  :flavor "You think that's air you're breathing now?"
+  :flavor "You think thatʼs air youʼre breathing now?"
   :illustrator "Ed Mattinian"
   :position 101
   :quantity 3
   :set-id "parhelion"}
  {:card-id "djupstad-grid"
   :code "33102"
-  :flavor "ˮIt's technically above our pay grade, but we know where our weapons come from. In Djupstad they wait, deep in thought, until we call upon them.ˮ\n—Aron Hendrik"
+  :flavor "\"Itʼs technically above our pay grade, but we know where our weapons come from. In Djupstad they wait, deep in thought, until we call upon them.\"\n—Aron Hendrik"
   :illustrator "Kira L. Nguyen"
   :position 102
   :quantity 3
@@ -269,14 +269,14 @@
   :set-id "parhelion"}
  {:card-id "hybrid-release"
   :code "33105"
-  :flavor "ˮBy disabling their bodies' ability to create a variety of necessary enzymes, we've ensured their loyalty to us. If they don't return for supplements every month, they die; simple as that.ˮ\n—Dr. Vientiane Keeling"
+  :flavor "\"By disabling their bodiesʼ ability to create a variety of necessary enzymes, weʼve ensured their loyalty to us. If they donʼt return for supplements every month, they die; simple as that.\"\n—Dr. Vientiane Keeling"
   :illustrator "Marlon Ruiz"
   :position 105
   :quantity 3
   :set-id "parhelion"}
  {:card-id "dr-vientiane-keeling"
   :code "33106"
-  :flavor "Her numbers never lie, but she doesn't write the words that accompany them."
+  :flavor "Her numbers never lie, but she doesnʼt write the words that accompany them."
   :illustrator "Dimik"
   :position 106
   :quantity 3
@@ -297,14 +297,14 @@
   :set-id "parhelion"}
  {:card-id "vampyronassa"
   :code "33109"
-  :flavor "ˮMatt, there's something big heading your way. Matt, are you hearing me? Matt? Oh no.ˮ\n—Moth"
+  :flavor "\"Matt, thereʼs something big heading your way. Matt, are you hearing me? Matt? Oh no.\"\n—Moth"
   :illustrator "Ed Mattinian"
   :position 109
   :quantity 3
   :set-id "parhelion"}
  {:card-id "simulation-reset"
   :code "33110"
-  :flavor "ˮThe worst part about failed experiments? The queue for the incinerator.ˮ\n—Overheard in the Issuaq Adaptics cafeteria."
+  :flavor "\"The worst part about failed experiments? The queue for the incinerator.\"\n—Overheard in the Issuaq Adaptics cafeteria."
   :illustrator "Anthony Hutchings"
   :position 110
   :quantity 3
@@ -318,28 +318,28 @@
   :set-id "parhelion"}
  {:card-id "freedom-of-information"
   :code "33112"
-  :flavor "ˮAn FOI request? No problem! Please fill out all details. You'd like to make an anonymous request? I'm sorry: absolutely not.ˮ"
+  :flavor "\"An FOI request? No problem! Please fill out all details. Youʼd like to make an anonymous request? Iʼm sorry: absolutely not.\""
   :illustrator "Zefanya Langkan Maega"
   :position 112
   :quantity 3
   :set-id "parhelion"}
  {:card-id "post-truth-dividend"
   :code "33113"
-  :flavor "ˮHey kiddo, remember what Daddy says about lying?ˮ\nˮ'Only when you can get away with it!'ˮ"
+  :flavor "\"Hey kiddo, remember what Daddy says about lying?\"\n\"ʼOnly when you can get away with it!ʼ\""
   :illustrator "Wyn Lacabra"
   :position 113
   :quantity 3
   :set-id "parhelion"}
  {:card-id "gaslight"
   :code "33114"
-  :flavor "Don't you remember?"
+  :flavor "Donʼt you remember?"
   :illustrator "Olie Boldador"
   :position 114
   :quantity 3
   :set-id "parhelion"}
  {:card-id "vera-ivanovna-shuyskaya"
   :code "33115"
-  :flavor "ˮPeople don't think in facts, they think in stories. We just tidy up that information to hasten the process.ˮ"
+  :flavor "\"People donʼt think in facts, they think in stories. We just tidy up that information to hasten the process.\""
   :illustrator "Mauricio Herrera"
   :position 115
   :quantity 3
@@ -359,28 +359,28 @@
   :set-id "parhelion"}
  {:card-id "nonequivalent-exchange"
   :code "33118"
-  :flavor "ˮOh, the text on these is endless. Just tap accept and you can read it later if you want.ˮ"
+  :flavor "\"Oh, the text on these is endless. Just tap accept and you can read it later if you want.\""
   :illustrator "Dimik"
   :position 118
   :quantity 3
   :set-id "parhelion"}
  {:card-id "shipment-from-vladisibirsk"
   :code "33119"
-  :flavor "ˮDon't look at the crates.ˮ"
+  :flavor "\"Donʼt look at the crates.\""
   :illustrator "Ferenc Patkós"
   :position 119
   :quantity 3
   :set-id "parhelion"}
  {:card-id "regulatory-capture"
   :code "33120"
-  :flavor "This was a criminal offense. Now it's an option for business."
+  :flavor "This was a criminal offense. Now itʼs an option for business."
   :illustrator "Wyn Lacabra"
   :position 120
   :quantity 3
   :set-id "parhelion"}
  {:card-id "kimberlite-field"
   :code "33121"
-  :flavor "ˮWeyland's synthetic diamonds cost less than naturals... so what are they really digging for here?ˮ\n—Captain Padma Isbister"
+  :flavor "\"Weylandʼs synthetic diamonds cost less than naturals... so what are they really digging for here?\"\n—Captain Padma Isbister"
   :illustrator "Vitalii Ostaschenko"
   :position 121
   :quantity 3
@@ -394,7 +394,7 @@
   :set-id "parhelion"}
  {:card-id "superdeep-borehole"
   :code "33123"
-  :flavor "ˮThey just keep drilling down, no matter what...ˮ\n—Valentina Ferreira"
+  :flavor "\"They just keep drilling down, no matter what...\"\n—Valentina Ferreira"
   :illustrator "Vitalii Ostaschenko"
   :position 123
   :quantity 3
