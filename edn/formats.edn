@@ -20,8 +20,7 @@
   :name "Startup"
   :sets ["system-gateway"
          "system-update-2021"]
-  :cycles ["ashes"
-           "borealis"]
+  :cycles ["borealis"]
   :mwl nil}
  {:id "eternal"
   :name "Eternal"
