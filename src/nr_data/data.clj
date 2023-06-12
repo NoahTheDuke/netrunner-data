@@ -32,6 +32,26 @@
      (for [m (read-edn-file (str "edn/" filename ".edn"))]
        (rename-keys m kmap)))))
 
+; Localized data is expected to have a bunch of empty data, so filter out
+; everything that's nil, and remove the entry if only the code remains.
+(defn reduce-edn-file
+  [file-path]
+  (->> (read-edn-file file-path)
+       (map #(into {} (filter val %)))
+       (remove #(= (keys %) '(:code)))))
+
+(defn load-localized-data
+  []
+  (->> (str "edn/")
+       (io/file)
+       (file-seq)
+       (filter #(and (.isFile %)
+                     (str/starts-with? % "edn/cards-")
+                     (str/ends-with? % ".edn")))
+       (map #(let [key (str/replace (str/replace (.getName %) #".edn" "") #"cards-" "")]
+               {key (cards->map (reduce-edn-file %))}))
+       (into {})))
+
 (defn load-sets
   [cycles]
   (cards->map :id
@@ -206,6 +226,7 @@
 (defn sets
   ([] (load-sets (cycles)))
   ([cycles] (load-sets cycles)))
+(defn localized-data [] (load-localized-data))
 (defn combined-cards [] (load-cards (sides) (factions) (types) (subtypes) (sets) (formats) (mwls)))
 
 (defn set-cards [] (load-edn-from-dir "edn/set-cards"))
