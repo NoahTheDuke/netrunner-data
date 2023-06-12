@@ -5,7 +5,7 @@
    [clojure.stacktrace :as st]
    [clojure.string :as str]
    [nr-data.text :refer [add-stripped-card-text]]
-   [nr-data.utils :refer [cards->map slugify]]
+   [nr-data.utils :refer [cards->map slugify map-kv]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
 
@@ -30,6 +30,17 @@
                      (str/ends-with? % ".json")))
        (map read-json-file)
        (flatten)))
+
+(defn read-localized-data
+  [base-path]
+  (->> (str base-path "/translations")
+       (io/file)
+       (file-seq)
+       (filter #(and (.isFile %)
+                     (str/includes? % "/pack/")
+                     (str/ends-with? % ".json")))
+       (group-by #(nth (str/split (.getName %) #"\.") 1))
+       (map-kv #(into [] (flatten (map read-json-file %))))))
 
 (defn translate-fields
   "Modify NRDB json data to our schema"
@@ -256,6 +267,15 @@
       (spit path (str (zp/zprint-str card) line-ending)))
     [cards raw-set-cards]))
 
+(defn localized-data-handler
+  [download-fn]
+  (let [localized-data (download-fn)]
+    (doseq [[path data] localized-data
+            :let [path (str "edn/cards-" path ".edn")]]
+      (println "Saving" path)
+      (io/make-parents path)
+      (spit path (str (zp/zprint-str data))))))
+
 (defn set-cards-handler
   [line-ending raw-set-cards]
   (let [set-cards (sort-and-group-set-cards raw-set-cards)]
@@ -297,6 +317,8 @@
         card-download-fn (partial read-card-dir localpath)
 
         [_cards raw-set-cards] (card-handler line-ending card-download-fn sets)
+
+        _localized-data (localized-data-handler (partial read-localized-data localpath))
 
         _set-cards (set-cards-handler line-ending raw-set-cards)
 

@@ -2,6 +2,9 @@
   (:require
    [clojure.string :as str]))
 
+(defn map-kv [f coll]
+  (reduce-kv (fn [m k v] (assoc m k (f v))) (empty coll) coll))
+
 (defmacro vals->vec
   ([coll]
    `(into [] (vals ~coll)))
