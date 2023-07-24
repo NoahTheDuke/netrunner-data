@@ -1,0 +1,408 @@
+[
+  {
+    "code": "22001",
+    "flavor": "\"Damn, I'm good.\"",
+    "keywords": "Natural",
+    "text": "When your turn begins, gain 1[credit] if you have 2 or fewer cards in your grip.",
+    "title": "Nathaniel \"Gnat\" Hall: One-of-a-Kind"
+  },
+  {
+    "code": "22002",
+    "flavor": "All roads lead to Rome.",
+    "keywords": "Run",
+    "text": "Run Archives. If successful, after breaching Archives, breach HQ, then breach R&D. You cannot access cards in the root of HQ or R&D during these breaches.",
+    "title": "Divide and Conquer"
+  },
+  {
+    "code": "22003",
+    "flavor": "\"Worth it.\"",
+    "keywords": null,
+    "text": "Trash your grip.\nGain 10[credit].",
+    "title": "Guinea Pig"
+  },
+  {
+    "code": "22004",
+    "flavor": null,
+    "keywords": "Console",
+    "text": "+1[mu]\n[interrupt] → Whenever you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2[credit] less. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Patchwork"
+  },
+  {
+    "code": "22005",
+    "flavor": null,
+    "keywords": null,
+    "text": "Whenever the Corp creates a server, they lose 1[credit].\nWhenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3[credit].",
+    "title": "Hijacked Router"
+  },
+  {
+    "code": "22006",
+    "flavor": "... clack... clack... clack...",
+    "keywords": "Icebreaker - Decoder",
+    "text": "This program gets -1 strength for each card in your grip.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.",
+    "title": "Cradle"
+  },
+  {
+    "code": "22007",
+    "flavor": "Another man's treasure.",
+    "keywords": "Location - Seedy",
+    "text": "The first time each turn a program or a piece of hardware is trashed (from any location), you may place 1 power counter on District 99.\n[click], <strong>3 hosted power counters</strong>: Add a card that matches the faction of your identity from your heap to your grip.",
+    "title": "District 99"
+  },
+  {
+    "code": "22008",
+    "flavor": "\"You think you're the first to come after me?\"",
+    "keywords": "G-mod",
+    "text": "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag.",
+    "title": "Liza Talking Thunder: Prominent Legislator"
+  },
+  {
+    "code": "22009",
+    "flavor": "\"We have you surrounded! For real, this time.\"",
+    "keywords": "Run",
+    "text": "Make a run on HQ. If successful, gain 9[credit] and take 1 tag.",
+    "title": "Hot Pursuit"
+  },
+  {
+    "code": "22010",
+    "flavor": null,
+    "keywords": "Console",
+    "text": "+1[mu]\nThe first time you make a successful run each turn, you may gain 1[credit] and look at the top card of your stack. If you do, you may add that card to the bottom of your stack.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Paragon"
+  },
+  {
+    "code": "22011",
+    "flavor": "\"With the rise of crypto, banking has become much more complicated. Financial crime has not only kept pace, but exploded exponentially.\"\n-After the Flash: A History of the War-That-Wasn't",
+    "keywords": null,
+    "text": "Whenever you make a successful run, you may place 1[credit] from the bank on Bankroll.\n[trash]: Take all credits from Bankroll.",
+    "title": "Bankroll"
+  },
+  {
+    "code": "22012",
+    "flavor": "\"Any piece of ice is really just a paywall.\"\n-Liza Talking Thunder",
+    "keywords": "Icebreaker - Fracter",
+    "text": "Interface → <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[credit].",
+    "title": "Tycoon"
+  },
+  {
+    "code": "22013",
+    "flavor": "A classy alibi.",
+    "keywords": "Location - Ritzy",
+    "text": "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1.",
+    "title": "Thunder Art Gallery"
+  },
+  {
+    "code": "22014",
+    "flavor": "\"If I can't kill it, I know who can.\"",
+    "keywords": "Connection",
+    "text": "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards.",
+    "title": "Miss Bones"
+  },
+  {
+    "code": "22015",
+    "flavor": null,
+    "keywords": "Clone",
+    "text": "Whenever you breach R&D, you and the Corp secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card.",
+    "title": "Akiko Nisei: Head Case"
+  },
+  {
+    "code": "22016",
+    "flavor": null,
+    "keywords": "Double",
+    "text": "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D.",
+    "title": "Insight"
+  },
+  {
+    "code": "22017",
+    "flavor": null,
+    "keywords": "Console",
+    "text": "+1[mu]\nWhenever you make a successful run on R&D, you may place 1 power counter on this hardware.\n<strong>[click]</strong>, <strong>3 hosted power counters:</strong> Breach R&D. You cannot access cards in the root of R&D during this breach.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Mind's Eye"
+  },
+  {
+    "code": "22018",
+    "flavor": "\"What are you making?\"\n\"What <em>aren't</em> I making?\"",
+    "keywords": null,
+    "text": "The first time you trash an accessed card each turn, you may place power counters on Mâché equal to that card's trash cost.\n<strong>3 hosted power counters</strong>: Draw 1 card.",
+    "title": "Mâché"
+  },
+  {
+    "code": "22019",
+    "flavor": "\"Running is all metaphor, all symbols and plumbing into the depths of the psyche. Sometimes that means tentacles.\" -Akiko Nisei",
+    "keywords": "Icebreaker - Killer - Trojan",
+    "text": "<strong>2[credit]:</strong> Host this program on a piece of ice.\nInterface → <strong>1[credit]:</strong> Break up to 2 subroutines on host <strong>sentry</strong>.\n<strong>2[credit]:</strong> +3 strength.",
+    "title": "Ika"
+  },
+  {
+    "code": "22020",
+    "flavor": "The journey is its own reward.",
+    "keywords": "Trojan",
+    "text": "Install only on a piece of ice.\nWhenever you pass host ice, gain 2[credit].",
+    "title": "Kyuban"
+  },
+  {
+    "code": "22021",
+    "flavor": "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko's tears away. \"What did you see?\"\n\"I...\" Akiko hesitated. \"Everything.\"",
+    "keywords": "Connection",
+    "text": "The first time each turn a successful run on R&D ends, you may gain 1[credit] for each time you accessed a card in R&D during that run.",
+    "title": "Psych Mike"
+  },
+  {
+    "code": "22022",
+    "flavor": "\"When we're together, I feel like I can do anything!\"",
+    "keywords": null,
+    "text": "When your turn begins, you may pay 2[credit] to gain [click]. If you do, trash Algernon when your turn ends if you did not make a successful run this turn.",
+    "title": "Algernon"
+  },
+  {
+    "code": "22023",
+    "flavor": "I LIVE AGAIN",
+    "keywords": "Run",
+    "text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown.\nRemove this event from the game.",
+    "title": "Reboot"
+  },
+  {
+    "code": "22024",
+    "flavor": "\"So, Miriam, hear anything good lately?\"",
+    "keywords": null,
+    "text": "Reduce the play cost of Office Supplies by 1 for each [link] you have.\nGain 4[credit] or draw 4 cards.",
+    "title": "Office Supplies"
+  },
+  {
+    "code": "22025",
+    "flavor": null,
+    "keywords": "Connection",
+    "text": "Host a <strong>g-mod</strong> identity that does not match the faction of your identity on DJ Fenris when he is installed. Remove hosted identity from the game if DJ Fenris is uninstalled.\nDJ Fenris gains the text of hosted identity.\nLimit 1 per deck.",
+    "title": "DJ Fenris"
+  },
+  {
+    "code": "22026",
+    "flavor": null,
+    "keywords": null,
+    "text": "計画書が1つ得点されるか盗まれるたび、2[credit]を得るか、カードを2枚引く。",
+    "title": "Sportsmetal: Go Big or Go Home"
+  },
+  {
+    "code": "22027",
+    "flavor": null,
+    "keywords": null,
+    "text": "この計画書が得点されるか盗まれる時、3[credit]を得る。",
+    "title": "Hyperloop Extension"
+  },
+  {
+    "code": "22028",
+    "flavor": null,
+    "keywords": null,
+    "text": "[subroutine] ランナーがこのアイスを−1点の価値を持つ計画書として自身の得点エリアに加えない限り、4[credit]を得り、ランの終了。",
+    "title": "Meridian"
+  },
+  {
+    "code": "22029",
+    "flavor": null,
+    "keywords": null,
+    "text": "このターンはこのアイスレゾしたことがある場合、このアイスは強度＋6。[subroutine] カードを3枚まで引く。HQかアーカイブの計画書を3枚まで公開してR＆Dに加えシャッフルする。 [subroutine]ランを終了。",
+    "title": "Gatekeeper"
+  },
+  {
+    "code": "22030",
+    "flavor": null,
+    "keywords": null,
+    "text": "君のレゾ状態のカードを任意の数だけデレゾする。カードを1つ、この方法でデレゾされたカード1枚につき支払いを3[credit]下げてレゾしてよい。",
+    "title": "Divert Power"
+  },
+  {
+    "code": "22031",
+    "flavor": null,
+    "keywords": null,
+    "text": "X[credit]を得る。カードをXまで引く。1つサーバーのルートかそれを守っていることをカードをXまでインストールする。Xは、ランナーの得点エリアにある計画書の枚数に等しい。",
+    "title": "Fast Break"
+  },
+  {
+    "code": "22032",
+    "flavor": null,
+    "keywords": null,
+    "text": "ランナーの得点エリアにある計画書1枚につき[click]を得る。この任務をゲームから取り除く。",
+    "title": "Game Changer"
+  },
+  {
+    "code": "22033",
+    "flavor": null,
+    "keywords": null,
+    "text": "ランナーがこのサーバーへのランを成功させるたび、ランナーの得点エリアにある計画書1枚につき2[credit]を支払わない限り、ランを終了。",
+    "title": "Giordano Memorial Field"
+  },
+  {
+    "code": "22034",
+    "flavor": null,
+    "keywords": "Division",
+    "text": "<strong>[click]</strong>, <strong>1[credit]:</strong> Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.",
+    "title": "Saraswati Mnemonics: Endless Exploration"
+  },
+  {
+    "code": "22035",
+    "flavor": "\"Jumon, all too Jumon...\"",
+    "keywords": "Research",
+    "text": "When your turn ends, place 2 advancement counters on 1 card in the root of a remote server.",
+    "title": "Jumon"
+  },
+  {
+    "code": "22036",
+    "flavor": "\"Supersedure is all part of our scheduled maintenance.\"",
+    "keywords": "Character",
+    "text": "When your turn begins, you may remove an advancement token from an installed card to gain 3[credit].",
+    "title": "API-S Keeper Isobel"
+  },
+  {
+    "code": "22037",
+    "flavor": null,
+    "keywords": "Ambush",
+    "text": "Neurostasis can be advanced.\nIf you pay 3[credit] when the Runner accesses Neurostasis, choose 1 installed Runner card for each advancement token on Neurostasis. The Runner must shuffle the chosen cards into the stack.",
+    "title": "Neurostasis"
+  },
+  {
+    "code": "22038",
+    "flavor": "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged",
+    "keywords": "Sentry",
+    "text": "[subroutine] You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3[credit].",
+    "title": "Otoroshi"
+  },
+  {
+    "code": "22039",
+    "flavor": "Step right up!",
+    "keywords": "Code Gate",
+    "text": "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice.\n[subroutine] End the run.",
+    "title": "Thimblerig"
+  },
+  {
+    "code": "22040",
+    "flavor": null,
+    "keywords": "Reprisal - Gray Ops",
+    "text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 of your installed cards. The Runner may access that card. If they do, remove this operation from the game; otherwise, add this operation to the Runner's score area as an agenda worth -1 agenda point.",
+    "title": "Hangeki"
+  },
+  {
+    "code": "22041",
+    "flavor": null,
+    "keywords": null,
+    "text": "When the Runner approaches this server, you may trash this upgrade. If you do, choose 1 card in the root of another server or 1 agenda, asset, or upgrade in HQ. Swap that card with 1 card in the root of this server. If you swap cards this way, the Runner may jack out.",
+    "title": "Daruma"
+  },
+  {
+    "code": "22042",
+    "flavor": null,
+    "keywords": "Subsidiary",
+    "text": "The Runner is considered to have 1 additional tag (even if they have 0) during encounters with the outermost piece of ice protecting any server.",
+    "title": "Acme Consulting: The Truth You Need"
+  },
+  {
+    "code": "22043",
+    "flavor": "Only half as annoying as the real thing.",
+    "keywords": "Initiative",
+    "text": "When you score Fly on the Wall, give the Runner 1 tag.",
+    "title": "Fly on the Wall"
+  },
+  {
+    "code": "22044",
+    "flavor": "\"What's so special about the Special Investigations Unit?\"\n\"Their budget, for starters.\"",
+    "keywords": null,
+    "text": "When your turn begins, you may trash SIU to Trace[3]. If successful, give the Runner 1 tag.",
+    "title": "SIU"
+  },
+  {
+    "code": "22045",
+    "flavor": "\"I lost the staring contest. And all seven rematches.\" -Kabonesa Wu",
+    "keywords": "Code Gate",
+    "text": "When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains \"[subroutine] End the run unless the Runner takes 1 tag.\" for each revealed card of the chosen type.",
+    "title": "Peeping Tom"
+  },
+  {
+    "code": "22046",
+    "flavor": null,
+    "keywords": "Sentry - AP",
+    "text": "[subroutine] Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] Gain 5[credit] if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged; otherwise, give the Runner 1 tag.\n",
+    "title": "Hydra"
+  },
+  {
+    "code": "22047",
+    "flavor": "\"No, the audio is fine. It just never seems to turn off.\"",
+    "keywords": "Gray Ops - Condition",
+    "text": "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, Trace[3]. If successful, give the Runner 1 tag.\"",
+    "title": "Eavesdrop"
+  },
+  {
+    "code": "22048",
+    "flavor": "\"Good news, ma'am. The compliance training was completed with little resistance.\"",
+    "keywords": null,
+    "text": "Draw 2 cards. Reveal up to 2 agendas in HQ and/or Archives. Gain 2[credit] for each agenda revealed, then shuffle those agendas into R&D.",
+    "title": "Attitude Adjustment"
+  },
+  {
+    "code": "22049",
+    "flavor": "\"Cheers, Philbert.\"",
+    "keywords": "Sysop",
+    "text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
+    "title": "Arella Salvatore"
+  },
+  {
+    "code": "22050",
+    "flavor": "We do things our way.",
+    "keywords": "Subsidiary",
+    "text": "Gain 3[credit] whenever you take at least 1 bad publicity.",
+    "title": "The Outfit: Family Owned and Operated"
+  },
+  {
+    "code": "22051",
+    "flavor": null,
+    "keywords": "Security",
+    "text": "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have.\n[click], <strong>hosted agenda counter</strong>: Do 2 meat damage. Use this ability only once per turn.",
+    "title": "Broad Daylight"
+  },
+  {
+    "code": "22052",
+    "flavor": null,
+    "keywords": null,
+    "text": "Place 3 power counters on Drudge Work when it is rezzed. When there are no power counters left on Drudge Work, trash it.\n[click], <strong>hosted power counter</strong>: Reveal an agenda in HQ or Archives. Gain credits equal to its agenda points, then shuffle it into R&D.",
+    "title": "Drudge Work"
+  },
+  {
+    "code": "22053",
+    "flavor": null,
+    "keywords": "Barrier",
+    "text": "Blockchain gains \"[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\" before all its other subroutines for every 2 faceup <strong>transaction</strong> operations in Archives.\n[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\n[subroutine] End the run.",
+    "title": "Blockchain"
+  },
+  {
+    "code": "22054",
+    "flavor": "A place of decay and death, a plane out of phase, a place of monsters.",
+    "keywords": "Sentry - AP",
+    "text": "Whenever the Runner approaches a server, you may rez this ice. If you do, move this ice to the innermost position protecting the approached server. The Runner moves to this ice and encounters it.\n[subroutine] End the run unless the Runner suffers 2 net damage.",
+    "title": "Formicary"
+  },
+  {
+    "code": "22055",
+    "flavor": "\"It looks like a mistake but I'm pretty sure they leave the gaps on purpose.\" -Gnat",
+    "keywords": null,
+    "text": "Reveal a <strong>barrier</strong> from HQ. Install and rez it, ignoring all costs.",
+    "title": "Building Blocks"
+  },
+  {
+    "code": "22056",
+    "flavor": "\"This is blackmail!\"\n\"No, this is <em>extortion.</em>\"",
+    "keywords": "Transaction - Illicit",
+    "text": "Play only if you have fewer than 10[credit].\nGain 7[credit] and take 1 bad publicity.",
+    "title": "Too Big to Fail"
+  },
+  {
+    "code": "22057",
+    "flavor": null,
+    "keywords": "Gray Ops - Illicit",
+    "text": "Play only if the Runner accessed a card during their last turn.\nTrash 1 installed <strong>connection</strong> resource and take 1 bad publicity.",
+    "title": "Under the Bus"
+  },
+  {
+    "code": "22058",
+    "flavor": null,
+    "keywords": "Region - Ritzy",
+    "text": "When your turn begins, place 1 power counter on Lady Liberty.\n[click], [click], [click]: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters.\nLimit 1 <strong>region</strong> per server.\nLimit 1 per deck.",
+    "title": "Lady Liberty"
+  }
+]

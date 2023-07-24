@@ -1,0 +1,609 @@
+[{:code "33001",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Esa Afòntov: Eco-insurgent"}
+ {:code "33002", :flavor nil, :keywords nil, :text nil, :title "Txatuska"}
+ {:code "33003", :flavor nil, :keywords nil, :text nil, :title "Reescalfat"}
+ {:code "33004",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Cicatriu de pell-acer"}
+ {:code "33005",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Llenguafantasma"}
+ {:code "33006", :flavor nil, :keywords nil, :text nil, :title "Medul·la"}
+ {:code "33007", :flavor nil, :keywords nil, :text nil, :title "Begemot"}
+ {:code "33008",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Augustina Ivanòvskaia"}
+ {:code "33009", :flavor nil, :keywords nil, :text nil, :title "Encén el foc!"}
+ {:code "33010", :flavor nil, :keywords nil, :text nil, :title "Macla"}
+ {:code "33011",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Niuxa \"Marta Gibelina\" Sintaixtà: Prodigi simfònic"}
+ {:code "33012", :flavor nil, :keywords nil, :text nil, :title "Carpe Diem"}
+ {:code "33013", :flavor nil, :keywords nil, :text nil, :title "Enfilar"}
+ {:code "33014", :flavor nil, :keywords nil, :text nil, :title "Teixit XAP"}
+ {:code "33015", :flavor nil, :keywords nil, :text nil, :title "Virtuosa"}
+ {:code "33016",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Plegar el cordill"}
+ {:code "33017", :flavor nil, :keywords nil, :text nil, :title "Cezve"}
+ {:code "33018", :flavor nil, :keywords nil, :text nil, :title "Revòlver"}
+ {:code "33019", :flavor nil, :keywords nil, :text nil, :title "Repunt"}
+ {:code "33020",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Res no és gratis"}
+ {:code "33021",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Capitana Padma Isbister: Exploradora intrèpida"}
+ {:code "33022", :flavor nil, :keywords nil, :text nil, :title "En profunditat"}
+ {:code "33023",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Cap a les profunditats"}
+ {:code "33024", :flavor nil, :keywords nil, :text nil, :title "Equipant-se"}
+ {:code "33025",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "{i}Endurance{/i}"}
+ {:code "33026", :flavor nil, :keywords nil, :text nil, :title "Hiperbàric"}
+ {:code "33027", :flavor nil, :keywords nil, :text nil, :title "Hèlix"}
+ {:code "33028",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Daeg, el primer gat-xarxa"}
+ {:code "33029",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Proves mediambientals"}
+ {:code "33030",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sala de navegació de Vaixellpedra"}
+ {:code "33031",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Bifurcació a Élivágar"}
+ {:code "33032",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Arcologia Mitjanit-3"}
+ {:code "33033",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Campanya refugi"}
+ {:code "33034",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Bioroids Model Trieste"}
+ {:code "33035", :flavor nil, :keywords nil, :text nil, :title "Eco"}
+ {:code "33036", :flavor nil, :keywords nil, :text nil, :title "Hàkarl 1.0"}
+ {:code "33037", :flavor nil, :keywords nil, :text nil, :title "Ona"}
+ {:code "33038",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Negoci important"}
+ {:code "33039", :flavor nil, :keywords nil, :text nil, :title "Sang a l'aigua"}
+ {:code "33040", :flavor nil, :keywords nil, :text nil, :title "Regènesi"}
+ {:code "33041", :flavor nil, :keywords nil, :text nil, :title "Utriculària"}
+ {:code "33042",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Piscina subnàutica"}
+ {:code "33043", :flavor nil, :keywords nil, :text nil, :title "Anemone"}
+ {:code "33044", :flavor nil, :keywords nil, :text nil, :title "Bathynomus"}
+ {:code "33045", :flavor nil, :keywords nil, :text nil, :title "Ivik"}
+ {:code "33046", :flavor nil, :keywords nil, :text nil, :title "Mitosi"}
+ {:code "33047", :flavor nil, :keywords nil, :text nil, :title "Mavirus"}
+ {:code "33048",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Consultors Pravdívost: Solucions polítiques"}
+ {:code "33049",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Criptoxoc artificial"}
+ {:code "33050",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Hereu Txequista"}
+ {:code "33051", :flavor nil, :keywords nil, :text nil, :title "Drago Ivanov"}
+ {:code "33052", :flavor nil, :keywords nil, :text nil, :title "Vig ubic"}
+ {:code "33053", :flavor nil, :keywords nil, :text nil, :title "Méstnitxestvo"}
+ {:code "33054", :flavor nil, :keywords nil, :text nil, :title "Vasilisa"}
+ {:code "33055",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Maquinacions de rebotiga"}
+ {:code "33056",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Xarxa elèctrica de Vladisíbirsk"}
+ {:code "33057",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Logístiques superpesades Ob: Extreure. Exportar. Excel·lir."}
+ {:code "33058", :flavor nil, :keywords nil, :text nil, :title "Protocol Àzef"}
+ {:code "33059",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Excavador Sviatogor"}
+ {:code "33060", :flavor nil, :keywords nil, :text nil, :title "Encerclament"}
+ {:code "33061", :flavor nil, :keywords nil, :text nil, :title "Maskirovka"}
+ {:code "33062", :flavor nil, :keywords nil, :text nil, :title "Stavka"}
+ {:code "33063", :flavor nil, :keywords nil, :text nil, :title "Extracte"}
+ {:code "33064",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Destrucció mútua assegurada"}
+ {:code "33065",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Operació confiança"}
+ {:code "30001",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "René \"Loup\" Arcemont: Animal de festa"}
+ {:code "30002", :flavor nil, :keywords nil, :text nil, :title "Vaga encoberta"}
+ {:code "30003", :flavor nil, :keywords nil, :text nil, :title "Carnívora"}
+ {:code "30004", :flavor nil, :keywords nil, :text nil, :title "Botulus"}
+ {:code "30005", :flavor nil, :keywords nil, :text nil, :title "Serra circular"}
+ {:code "30006", :flavor nil, :keywords nil, :text nil, :title "Ganiveta"}
+ {:code "30007", :flavor nil, :keywords nil, :text nil, :title "Fermentador"}
+ {:code "30008", :flavor nil, :keywords nil, :text nil, :title "Sangonera"}
+ {:code "30009",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Llibre de cuina"}
+ {:code "30010",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Zahya Sadeghi: Contrabandista versàtil"}
+ {:code "30011", :flavor nil, :keywords nil, :text nil, :title "Favor mutu"}
+ {:code "30012", :flavor nil, :keywords nil, :text nil, :title "Sigil·losament"}
+ {:code "30013",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Passe als molls"}
+ {:code "30014",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Esgarrapacèntims"}
+ {:code "30015", :flavor nil, :keywords nil, :text nil, :title "Carmen"}
+ {:code "30016", :flavor nil, :keywords nil, :text nil, :title "Marjanah"}
+ {:code "30017", :flavor nil, :keywords nil, :text nil, :title "Sedant"}
+ {:code "30018", :flavor nil, :keywords nil, :text nil, :title "Equip roig"}
+ {:code "30019",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Tāo Salonga: Mag de la telepresència"}
+ {:code "30020",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Encàrrec creatiu"}
+ {:code "30021", :flavor nil, :keywords nil, :text nil, :title "VRcances"}
+ {:code "30022",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Optimitzador DZMZ"}
+ {:code "30023", :flavor nil, :keywords nil, :text nil, :title "Pantògraf"}
+ {:code "30024", :flavor nil, :keywords nil, :text nil, :title "Conducte"}
+ {:code "30025", :flavor nil, :keywords nil, :text nil, :title "Esglaó"}
+ {:code "30026", :flavor nil, :keywords nil, :text nil, :title "Unitat"}
+ {:code "30027",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Contracte de teletreball"}
+ {:code "30028", :flavor nil, :keywords nil, :text nil, :title "Alliberament"}
+ {:code "30029", :flavor nil, :keywords nil, :text nil, :title "Sobrecàrrega"}
+ {:code "30030", :flavor nil, :keywords nil, :text nil, :title "Aposta segura"}
+ {:code "30031",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Memòria de diamant T400"}
+ {:code "30032", :flavor nil, :keywords nil, :text nil, :title "Efímera"}
+ {:code "30033",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Distribuïdor d'smartware"}
+ {:code "30034",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Plasticitat verbal"}
+ {:code "30035",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Haas-Bioroid: Disseny de precisió"}
+ {:code "30036",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Transsubstanciació luminal"}
+ {:code "30037", :flavor nil, :keywords nil, :text nil, :title "Campanya Nico"}
+ {:code "30038", :flavor nil, :keywords nil, :text nil, :title "Ansel 1.0"}
+ {:code "30039", :flavor nil, :keywords nil, :text nil, :title "Brân 1.0"}
+ {:code "30040",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Llançament impecable"}
+ {:code "30041", :flavor nil, :keywords nil, :text nil, :title "Esprint"}
+ {:code "30042",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Laboratori de Manegarm"}
+ {:code "30043",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Jinteki: Restaurant la humanitat"}
+ {:code "30044",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sèrum de la longevitat"}
+ {:code "30045", :flavor nil, :keywords nil, :text nil, :title "Xifrat Ortiga"}
+ {:code "30046", :flavor nil, :keywords nil, :text nil, :title "Vident"}
+ {:code "30047", :flavor nil, :keywords nil, :text nil, :title "Karunā"}
+ {:code "30048", :flavor nil, :keywords nil, :text nil, :title "Revisió Hansei"}
+ {:code "30049", :flavor nil, :keywords nil, :text nil, :title "Neuropunxa"}
+ {:code "30050", :flavor nil, :keywords nil, :text nil, :title "Buit anoic"}
+ {:code "30051",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "NBN: Realitat augmentada"}
+ {:code "30052",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "El titular de demà"}
+ {:code "30053",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Assessor de programació"}
+ {:code "30054",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Casa de la diversió"}
+ {:code "30055", :flavor nil, :keywords nil, :text nil, :title "Ping"}
+ {:code "30056",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Planograma predictiu"}
+ {:code "30057",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Petjada pública"}
+ {:code "30058",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Recreatives AMAZE"}
+ {:code "30059",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Consorci Weyland: Construït per a durar"}
+ {:code "30060",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Per sobre de la llei"}
+ {:code "30061",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Centre d'intercanvi"}
+ {:code "30062", :flavor nil, :keywords nil, :text nil, :title "Ballesta"}
+ {:code "30063", :flavor nil, :keywords nil, :text nil, :title "Pharos"}
+ {:code "30064",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Subsidi del govern"}
+ {:code "30065", :flavor nil, :keywords nil, :text nil, :title "Retribució"}
+ {:code "30066",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Cúpula de dades Malapert"}
+ {:code "30067",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Oficina fora de la terra"}
+ {:code "30068",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Superioritat orbital"}
+ {:code "30069", :flavor nil, :keywords nil, :text nil, :title "Primer avís"}
+ {:code "30070",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Central superconductora"}
+ {:code "30071",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Llicència minera de regolita"}
+ {:code "30072", :flavor nil, :keywords nil, :text nil, :title "Alardó"}
+ {:code "30073", :flavor nil, :keywords nil, :text nil, :title "Delme"}
+ {:code "30074", :flavor nil, :keywords nil, :text nil, :title "Espai en blanc"}
+ {:code "30075",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Fons d'inversió lliure"}
+ {:code "30076",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Catàlisi: Trencamotlles"}
+ {:code "30077",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "El sindicat: Profit sobre principis"}
+ {:code "33066",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sacrifici final"}
+ {:code "33067",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Escapada de Katorga"}
+ {:code "33068",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Les gotes tallen la pedra"}
+ {:code "33069", :flavor nil, :keywords nil, :text nil, :title "Bomba de temps"}
+ {:code "33070", :flavor nil, :keywords nil, :text nil, :title "Abasí"}
+ {:code "33071", :flavor nil, :keywords nil, :text nil, :title "Silenci"}
+ {:code "33072", :flavor nil, :keywords nil, :text nil, :title "Nga"}
+ {:code "33073", :flavor nil, :keywords nil, :text nil, :title "Num"}
+ {:code "33074",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Tsakhia \"Bankhar\" Gantulga"}
+ {:code "33075", :flavor nil, :keywords nil, :text nil, :title "Concerto"}
+ {:code "33076", :flavor nil, :keywords nil, :text nil, :title "Repetició"}
+ {:code "33077", :flavor nil, :keywords nil, :text nil, :title "Pot de verí"}
+ {:code "33078",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Implant WAKE v2A-JRJ"}
+ {:code "33079",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Xip Zenit JZ-2MJ"}
+ {:code "33080", :flavor nil, :keywords nil, :text nil, :title "Trèmolo"}
+ {:code "33081", :flavor nil, :keywords nil, :text nil, :title "Visió tubular"}
+ {:code "33082", :flavor nil, :keywords nil, :text nil, :title "Asmund Pudlat"}
+ {:code "33083",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Recompensa per informació"}
+ {:code "33084",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Moment d'inspiració"}
+ {:code "33085",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Mecanocits hipocampics"}
+ {:code "33086",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sintglàndula Basilar 2KVJ"}
+ {:code "33087",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Capacitador de flux"}
+ {:code "33088", :flavor nil, :keywords nil, :text nil, :title "Nanuq"}
+ {:code "33089", :flavor nil, :keywords nil, :text nil, :title "Orca"}
+ {:code "33090", :flavor nil, :keywords nil, :text nil, :title "Turbina K2CP"}
+ {:code "33091", :flavor nil, :keywords nil, :text nil, :title "Arbre del món"}
+ {:code "33092",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dra. Nuka Vrolyck"}
+ {:code "33093",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Nova Initiumia: Catàlisi i Ímpetu"}
+ {:code "33094", :flavor nil, :keywords nil, :text nil, :title "Matrioixca"}
+ {:code "33095",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Thule Submarí: Seguretat a les profunditats"}
+ {:code "33096",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dependència ontològica"}
+ {:code "33097",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Arxiu de malsons"}
+ {:code "33098", :flavor nil, :keywords nil, :text nil, :title "Bloop"}
+ {:code "33099", :flavor nil, :keywords nil, :text nil, :title "Puls"}
+ {:code "33100",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Rastreig distribuit"}
+ {:code "33101", :flavor nil, :keywords nil, :text nil, :title "Hipòxia"}
+ {:code "33102",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Xarxa elèctrica de Djupstad"}
+ {:code "33103", :flavor nil, :keywords nil, :text nil, :title "Mr. Hendrik"}
+ {:code "33104",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Adàptiques Issuaq: Mantenint la diversitat"}
+ {:code "33105",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Alliberament dels hibrids"}
+ {:code "33106",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dra. Vientiane Keeling"}
+ {:code "33107", :flavor nil, :keywords nil, :text nil, :title "Funció Segador"}
+ {:code "33108", :flavor nil, :keywords nil, :text nil, :title "Hafrún"}
+ {:code "33109", :flavor nil, :keywords nil, :text nil, :title "Vampyronassa"}
+ {:code "33110",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Reinici de la simulació"}
+ {:code "33111",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Xarxa elèctrica de Nanisivik"}
+ {:code "33112",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Llibertat d'informació"}
+ {:code "33113",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dividend post-veritat"}
+ {:code "33114", :flavor nil, :keywords nil, :text nil, :title "Manipulació"}
+ {:code "33115",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Vera Ivànovna Xuiskaia"}
+ {:code "33116", :flavor nil, :keywords nil, :text nil, :title "Klevètnik"}
+ {:code "33117",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Tsarevna Sensesomriure"}
+ {:code "33118",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Intercanvi no equivalent"}
+ {:code "33119",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Enviament des de Vladisibirsk"}
+ {:code "33120",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Captura regulatòria"}
+ {:code "33121",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Camp de kimberlita"}
+ {:code "33122",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Arquitectura hostil"}
+ {:code "33123",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Pou megaprofund"}
+ {:code "33124", :flavor nil, :keywords nil, :text nil, :title "Enclusa"}
+ {:code "33125", :flavor nil, :keywords nil, :text nil, :title "Última parada"}
+ {:code "33126",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Iàkov Eríkovitx Avdàvok"}
+ {:code "33127",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Xarxa elèctrica de ZATO"}
+ {:code "33128",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Ampère: Cibernètica per a tothom"}]

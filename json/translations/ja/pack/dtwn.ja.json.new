@@ -1,0 +1,148 @@
+[
+  {
+    "code": "21021",
+    "flavor": null,
+    "keywords": null,
+    "text": "コーポがウィルスカウンターを破棄するたび、取り除かれたウィルスカウンターを1つにつき1[credit]を得てこのプログラムをトラッシュしてよい。",
+    "title": "アカシア"
+  },
+  {
+    "code": "21022",
+    "flavor": null,
+    "keywords": "ウィルス",
+    "text": "このプログラムをインストールした時、サーバーを選ぶ。\nその選んだサーバーへのランを成功させるたび、このプログラムにウィルスカウンターを2つ置いてよい。",
+    "title": "プレイグ"
+  },
+  {
+    "code": "21023",
+    "flavor": null,
+    "keywords": null,
+    "text": "このターンが中央サーバーへのランを成功したのみプレイする。\nカードを1つ、支払いを8[credit]減らしてインストールし、タグを1つ受ける。",
+    "title": "クレジットカード詐欺"
+  },
+  {
+    "code": "21024",
+    "flavor": "\"He's probably the best pet I've ever had but I'd still trade him for something better.\" - 419",
+    "keywords": null,
+    "text": "各ターンの初めて、HQへのランを成功させた時、このプログラムをトラッシュして<strong>セントリー</strong>か<strong>コードゲート</strong>か<strong>バリアー</strong>を指定してよい。そうした場合、アイスを1つ開示をして　それのサーブタイプが指定された場合、HQに加える。 then add it to HQ if it has the named subtype.",
+    "title": "ワーリー"
+  },
+  {
+    "code": "21025",
+    "flavor": null,
+    "keywords": "Gモード",
+    # TODO search/install should be separate if we're following new NSG templating (SMC)
+    "text": "[click]: スタックから<strong>ウィルス</strong>ではないプログラムを1つ探し、支払いを1[credit]減らしてインストールする。君のターンの終了時、そのプログラムがまだアンインストールされていない場合、それを取り除く。",
+    "title": "カボネサ・ウー：ネット空間のスリル中毒者"
+  },
+  {
+    "code": "21026",
+    "flavor": null,
+    "keywords": null,
+    # TODO current encounter
+    "text": "Whenever you fully break a piece of ice, このプログラムにパワーカウンターを1つ置いてよい。\n<strong>搭載パワーカウンター2つ：</strong> インストール状態の<strong>AI</strong>ではない<strong>アイスブレイカー</strong>を選ぶ。その<strong>アイスブレイカー</strong>がcurrentエンカウンターの終了まで+3強度させる。",
+    "title": "タコービ"
+  },
+  {
+    "code": "21027",
+    "flavor": null,
+    "keywords": "仮想",
+    "text": "[trash]: エンカウンターしているアイス最初のサブルーチンをブレイクする。",
+    "title": "コンガマトー"
+  },
+  {
+    "code": "21028",
+    "flavor": null,
+    "keywords": "ダブル",
+    # TODO 'total install cost' -> ???
+    "text": "このイベントをプレイするための追加コストとして、[click]を消費する。\nグリップからプログラムかハードウェアを任意の数だけトラッシュする。スタックからプログラムかハードウェアを1つ探す。それを、支払いをX[credit]減らしてインストールする。Xはトラッシュされたカードをインストールコストに等しい。X is equal to the total install cost of the trashed cards.",
+    "title": "突発的創造性"
+  },
+  {
+    "code": "21029",
+    "flavor": "Between nothing and infinity.",
+    "keywords": null,
+    # TODO blah
+    "text": "各ターンの初めて、HQかR&Dへのランを成功させた時、数字を選んでよい。そうした場合、このランで、次のカードをアクセス 場合、3[credit]を得るか、2枚を引く。reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number,",
+    "title": "RNGキー"
+  },
+  {
+    "code": "21030",
+    "flavor": "Witchcraft to the nescient; beauty to the wise.",
+    "keywords": "コードゲート",
+    "text": "[subroutine] ランナーが[click]を失う。君の次のターンが[click] ... You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.",
+    "title": "ナイトダンサー"
+  },
+  {
+    "code": "21031",
+    "flavor": "\"The site of the world's second beanstalk, or I'll die trying.\" - Miria Byanyima, Director of VSEP",
+    "keywords": "領域",
+    "text": "アイスのカードを1つ引くたび、公開してこのサーバーを守っている状態4[credit]経てインストールしてよい。Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4[credit] less.\n各サーバーの領域は1つまで。",
+    "title": "ジンジャ・シティーグリッド"
+  },
+  {
+    "code": "21032",
+    "flavor": null,
+    "keywords": "トラップ",
+    "text": "[subroutine] スタックの一番上から3枚のカードをトラッシュする。このアイスをトラッシュする。",
+    "title": "アイマー"
+  },
+  {
+    "code": "21033",
+    "flavor": null,
+    "keywords": "Research",
+    # TODO blah
+    "text": "この計画書が得点されたか盗まれた時、R&Dの一番上から7枚のカードを見て、いずれかの数だけWhen Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order.",
+    "title": "細菌プログラミング"
+  },
+  {
+    "code": "21034",
+    "flavor": "\"It wasn't until the spots cleared that I realized half of my rig was gone.\" - Kabonesa Wu",
+    "keywords": "セントリー",
+    "text": "ランナーがこのアイスにエンカウンタした時、このターンの残りの間、ランナーはカードをインストールできない。\n[subroutine] 可能なら、インストール状態のランナーのカードを2つ選ぶ。The Runner must add 1 of the chosen cards to the top of the stack.",
+    "title": "ジュア"
+  },
+  {
+    "code": "21035",
+    "flavor": null,
+    "keywords": "報復 - 触法",
+    # TODO missing a 'must'
+    "text": "ランナーがその最後のターン中、コーポのカードをトラッシュした場合にのみプレイする。\nインストール状態のランナーのカードを1つ選ぶ。ランナーはタグを2つ受けるか、そのカードをスタックの一番上に加える。\nこの任務を取り除く。",
+    "title": "脅威の評価"
+  },
+  {
+    "code": "21036",
+    "flavor": null,
+    "keywords": "触法",
+    "text": "ランナーがその最後のターン中、ランを成功させていた場合にのみプレイする。\nランナーが4[credit]以上を所有する場合、ランナーが4[credit]を失う。",
+    "title": "経済戦争"
+  },
+  {
+    "code": "21037",
+    "flavor": null,
+    "keywords": "待ち伏せ",
+    "text": "R&Dでこのカードをアクセスしている時、ランナーはこれを公開すること。\nどこであれアーカイブ以外でランナーがこれにアクセスした時、トレース[3]。成功した場合、タグを2つ与える。",
+    "title": "強制接続"
+  },
+  {
+    "code": "21038",
+    "flavor": null,
+    "keywords": "Initiative",
+    "text": "この計画書が得点されるか盗まれる時、これに9[credit]を置く。\nWhen the Corp's turn begins, they may take 3[credit] from this agenda. This ability is active even while this agenda is in the Runner's score area.",
+    "title": "南サハラ同盟の承認"
+  },
+  {
+    "code": "21039",
+    "flavor": null,
+    "keywords": null,
+    "text": "君はこの資財がアドバンスできます。\n[trash],<strong>搭載計画カウンター1つ：</strong> 5[credit]を得る。\n[trash],<strong>搭載計画カウンター2つ：</strong> 8[credit]を得る。",
+    "title": "NGOの隠れみの"
+  },
+  {
+    "code": "21040",
+    "flavor": null,
+    "keywords": null,
+    "text": "ランナーが2[credit]を得る。HQからカードを2枚までをトラッシュし、アーカイブからカードを2枚までR&Dに加えシャフルする。この任務を取り除く。",
+    "title": "大衆の関心の誘導"
+  }
+]
