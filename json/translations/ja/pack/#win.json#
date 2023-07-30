@@ -1,0 +1,143 @@
+[
+  {
+    "code": "21081",
+    "flavor": null,
+    "keywords": "サイボーグ",
+    "text": "1ターンに1度、君の任意の数のインストール状態のカードの上からX個のウィルスカウンターを取り除くことで、アクセスしているカードをコストなしでトラッシュしてよい（通常トラッシュできないものでも）。Xはそのカードのレゾコストかプレイコストである。",
+    "title": "フリーダム・クマーロ：クリプト・アナーキスト",
+  },
+  {
+    "code": "21082",
+    "flavor": "Twisting, writhing, ripping into all that it touches.",
+    "keywords": "Virus - Trojan",
+    "text": "Install only on a piece of ice.\nWhen your turn begins, you may place 1 virus counter on this program.\nWhen there are 5 or more hosted virus counters, trash host ice.",
+    "title": "トリパノ"
+  },
+  {
+    "code": "21083",
+    "flavor": null,
+    "keywords": null,
+    "text": "ウィルスカウンターを搭載していないインストール状態のランナーのカード1枚の上に、ウィルスカウンターを3つ置く。",
+    "title": "雑菌混入"
+  },
+  {
+    "code": "21084",
+    "flavor": null,
+    "keywords": "Run - Sabotage",
+    "text": "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4[credit] for each card trashed this way.",
+    "title": "横領"
+  },
+  {
+    "code": "21085",
+    "flavor": null,
+    "keywords": "仮想",
+    "text": "レゾ状態のアイスを通過するたび、スリップストリームをトラッシュしてよい。そうした場合、通過したアイスと同じ位置にある、中央サーバーを守っているアイスを1つ選ぶ。君はそのアイスへのアプローチになる。",
+    "title": "スリップストリーム"
+  },
+  {
+    "code": "21086",
+    "flavor": null,
+    "keywords": "アイスブレイカー-フラクター",
+    "text": "アイスとエンカウントした時、2[credit]を払うことで、エンカウント終了までそれに<strong>バリア</strong>を得させてよい。この能力は1ターンに1度だけ使える。\n2[credit]：<strong>バリア</strong>のサブルーチンを任意の数だけブレイクする。\n3[credit]：強度+6。",
+    "title": "ラーンブ",
+  },
+  {
+    "code": "21087",
+    "flavor": null,
+    "keywords": "改良",
+    "text": "[click]：インストール済みの<strong>AI</strong>でない<strong>アイスブレイカー</strong>の上にゲブレセラシェを搭載する。\nホストの<strong>アイスブレイカー</strong>は各エンカウントでなく、各ターンの終了に際しその基本強度に戻る。",
+    "title": "ゲブレセラシェ"
+  },
+  {
+    "code": "21088",
+    "flavor": null,
+    "keywords": "ラン",
+    "text": "ランを行う。このラン中に最初にアイスにエンカウントした時、スタックかヒープからプログラムを1つ探し、全てのコストを無視してインストールしてよい。このランの終了時、そのプログラムがまだインストールされている場合、それをスタックの一番下に加える。",
+    "title": "コンパイル"
+  },
+  {
+    "code": "21089",
+    "flavor": null,
+    "keywords": "仮想",
+    "text": "[trash]：現在エンカウント中のアイスを迂回する。残りのクリックを全て失う。",
+    "title": "論理爆弾"
+  },
+  {
+    "code": "21090",
+    "flavor": "\"Jackpot!\"",
+    "keywords": null,
+    "text": "君のターン開始時、ジャックポット！の上に1[credit]を置いてよい。\n計画書が君の得点エリアに加えられるたび、任意の数のクレジットをジャックポット！から受け取ってよい。そうした場合、ジャックポット！をトラッシュする。",
+    "title": "ジャックポット！"
+  },
+  {
+    "code": "21091",
+    "flavor": null,
+    "keywords": "保安",
+    "text": "遠隔執行を得点した時、「R&Dからアイスを1つ探し、それを遠隔サーバー1つを守るようにインストールし（インストールコストは払う）、そしてそのレゾコストを無視してそれをレゾしたら、R&Dをシャッフルする」をしてよい。",
+    "title": "遠隔執行"
+  },
+  {
+    "code": "21092",
+    "flavor": null,
+    "keywords": "Sentry - Bioroid - Destroyer - AP",
+    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed resource.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed piece of hardware.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed program.",
+    "title": "カマーリ 1.0"
+  },
+  {
+    "code": "21093",
+    "flavor": null,
+    "keywords": "人物",
+    "text": "レゾ状態の<strong>バイオロイド</strong>の各アイスは、他の全てのサブルーチンの前に「[subroutine] 可能なら、ランナーは[click]を失う。」を得る。",
+    "title": "ファトゥマ管理人"
+  },
+  {
+    "code": "21094",
+      "flavor": null,
+    "keywords": "調査 - 保安"
+    "text": "ウィルスの兵器化を得点したターンの終了時、グリップのカード1枚につき1ネットダメージを与える。",
+    "title": "ウィルスの兵器化"
+  },
+  {
+    "code": "21095",
+    "flavor": "\"On one hand, I knew I shouldn't touch it. On the other, it was really shiny.\" - Kabonesa Wu",
+    "keywords": "Barrier - AP",
+    "text": "[subroutine] Do 1 net damage.\n[subroutine] End the run.",
+    "title": "エンベロープ"
+  },
+  {
+    "code": "21096",
+    "flavor": null,
+    "keywords": "領域",
+    "text": "HQかR&Dのルートにのみインストールする。\n
+ランナーがこのサーバーのカード群にアクセスするたび、そのランナーは追加で3枚のカードにアクセスする。\nアクセス後、アクセスされたカード1枚につき2[credit]を得る。\nこれは、ランナーがこのラン中に《Mwanza City Grid》をトラッシュしても適用される。\n<strong>領域</strong>は各サーバーに1つまで。",
+    "title": "ムワンザ・シティーグリッド"
+  },
+  {
+    "code": "21097",
+    "flavor": null,
+    "keywords": null,
+    "text": "カードタイプを指定して、グリップを公開する。指定したカードタイプを持つグリップのカード1つにつき2[credit]を得る。",
+    "title": "通常の手順"
+  },
+  {
+    "code": "21098",
+    "flavor": null,
+    "keywords": "Ambush",
+    "text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[4]. If successful, add 1 installed program or <strong>virtual</strong> resource to the grip.",
+    "title": "吸入"
+  },
+  {
+    "code": "21099",
+    "flavor": null,
+    "keywords": "バリア",
+    "text": "マズビンゴはアドバンス可能。\nマズビンゴのレゾ時、その上にアドバンストークンを1つ置く。\nマズビンゴはその上のアドバンストークン1つにつき「[subroutine] ランの終了。」を1つ得る。",
+    "title": "マズビンゴ"
+  },
+  {
+    "code": "21100",
+    "flavor": "The blast doesn't hurt, but what comes after does.",
+    "keywords": null,
+    "text": "Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+    "title": "監視マトリクス"
+  }
+]

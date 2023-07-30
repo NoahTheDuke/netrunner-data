@@ -1,0 +1,597 @@
+[{:code "33001",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Esâ Afontov: Eco-Insurrecionalista"}
+ {:code "33002", :flavor nil, :keywords nil, :text nil, :title "Chastushka"}
+ {:code "33003",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Correndo Quente"}
+ {:code "33004",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Cicatriz da Pele-de-aço"}
+ {:code "33005",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Língua-fantasma"}
+ {:code "33006", :flavor nil, :keywords nil, :text nil, :title "Medula"}
+ {:code "33007", :flavor nil, :keywords nil, :text nil, :title "Bieguemot"}
+ {:code "33008",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Avgustina Ivanovskaya"}
+ {:code "33009", :flavor nil, :keywords nil, :text nil, :title "Acenda o Fogo!"}
+ {:code "33010", :flavor nil, :keywords nil, :text nil, :title "A Geminação"}
+ {:code "33011",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Nyusha \"Zibelina\" Sintashta: Prodígio Sinfônico"}
+ {:code "33012", :flavor nil, :keywords nil, :text nil, :title "Carpe Diem"}
+ {:code "33013",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Passando a Linha na Agulha"}
+ {:code "33014", :flavor nil, :keywords nil, :text nil, :title "Tecedura-PAN"}
+ {:code "33015", :flavor nil, :keywords nil, :text nil, :title "Virtuose"}
+ {:code "33016", :flavor nil, :keywords nil, :text nil, :title "Cama de Gato"}
+ {:code "33017", :flavor nil, :keywords nil, :text nil, :title "Cezve"}
+ {:code "33018", :flavor nil, :keywords nil, :text nil, :title "Revólver"}
+ {:code "33019", :flavor nil, :keywords nil, :text nil, :title "Pespontando"}
+ {:code "33020",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sem Almoço Grátis"}
+ {:code "33021",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Capitã Padma Isbister: Exploradora Intrépida"}
+ {:code "33022",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Mergulho Profundo"}
+ {:code "33023", :flavor nil, :keywords nil, :text nil, :title "Às Profundezas"}
+ {:code "33024", :flavor nil, :keywords nil, :text nil, :title "Equipando-se"}
+ {:code "33025",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "{i}Endurance{/i}"}
+ {:code "33026", :flavor nil, :keywords nil, :text nil, :title "Hiperbárico"}
+ {:code "33027", :flavor nil, :keywords nil, :text nil, :title "Propulsor"}
+ {:code "33028",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Daeg, Gato Imediato"}
+ {:code "33029",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Teste Ambiental"}
+ {:code "33030",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sala de Cartas do Navio de Pedra"}
+ {:code "33031",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Bifurcação de Elivagar"}
+ {:code "33032",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Arcologia Midnight-3"}
+ {:code "33033",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Campanha de Refúgio"}
+ {:code "33034",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Bioroides Modelo Trieste"}
+ {:code "33035", :flavor nil, :keywords nil, :text nil, :title "Eco"}
+ {:code "33036", :flavor nil, :keywords nil, :text nil, :title "Hákarl 1.0"}
+ {:code "33037", :flavor nil, :keywords nil, :text nil, :title "Onda"}
+ {:code "33038", :flavor nil, :keywords nil, :text nil, :title "Ótimo Negócio"}
+ {:code "33039", :flavor nil, :keywords nil, :text nil, :title "Sangue na Água"}
+ {:code "33040", :flavor nil, :keywords nil, :text nil, :title "Regênesis"}
+ {:code "33041", :flavor nil, :keywords nil, :text nil, :title "Utricularia"}
+ {:code "33042", :flavor nil, :keywords nil, :text nil, :title "Moon Pool"}
+ {:code "33043", :flavor nil, :keywords nil, :text nil, :title "Anêmona"}
+ {:code "33044", :flavor nil, :keywords nil, :text nil, :title "Bathynomus"}
+ {:code "33045", :flavor nil, :keywords nil, :text nil, :title "Ivik"}
+ {:code "33046", :flavor nil, :keywords nil, :text nil, :title "Mitose"}
+ {:code "33047", :flavor nil, :keywords nil, :text nil, :title "Mavírus"}
+ {:code "33048",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Consultoria Pravdivost: Soluções Políticas"}
+ {:code "33049",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Criptoquebra Artificial"}
+ {:code "33050",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sucessor Chekist"}
+ {:code "33051", :flavor nil, :keywords nil, :text nil, :title "Drago Ivanov"}
+ {:code "33052", :flavor nil, :keywords nil, :text nil, :title "Vig Ubíquo"}
+ {:code "33053", :flavor nil, :keywords nil, :text nil, :title "Mestnichestvo"}
+ {:code "33054", :flavor nil, :keywords nil, :text nil, :title "Vasilisa"}
+ {:code "33055",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Maquinações na Sala dos Fundos"}
+ {:code "33056",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Rede Urbana de Vladisibirsk"}
+ {:code "33057",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Logística de Superpesados Ob: Extração, Exportação e Excelência."}
+ {:code "33058", :flavor nil, :keywords nil, :text nil, :title "Protocolo Azef"}
+ {:code "33059",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Escavadora Svyatogor"}
+ {:code "33060", :flavor nil, :keywords nil, :text nil, :title "Invólucro"}
+ {:code "33061", :flavor nil, :keywords nil, :text nil, :title "Maskirovka"}
+ {:code "33062", :flavor nil, :keywords nil, :text nil, :title "Stavka"}
+ {:code "33063", :flavor nil, :keywords nil, :text nil, :title "Extrair"}
+ {:code "33064",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Destruição Mútua Assegurada"}
+ {:code "33065", :flavor nil, :keywords nil, :text nil, :title "Operação Trust"}
+ {:code "30001",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "René \"Loup\" Arcemont: Rato de Festa"}
+ {:code "30002", :flavor nil, :keywords nil, :text nil, :title "Greve Selvagem"}
+ {:code "30003", :flavor nil, :keywords nil, :text nil, :title "Carnívora"}
+ {:code "30004", :flavor nil, :keywords nil, :text nil, :title "Botulus"}
+ {:code "30005", :flavor nil, :keywords nil, :text nil, :title "Serrote"}
+ {:code "30006", :flavor nil, :keywords nil, :text nil, :title "Cutelo"}
+ {:code "30007", :flavor nil, :keywords nil, :text nil, :title "Fermentador"}
+ {:code "30008", :flavor nil, :keywords nil, :text nil, :title "Sanguessuga"}
+ {:code "30009",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Livro de Receitas"}
+ {:code "30010",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Zahya Sadeghi: Contrabandista Versátil"}
+ {:code "30011", :flavor nil, :keywords nil, :text nil, :title "Favor Mútuo"}
+ {:code "30012", :flavor nil, :keywords nil, :text nil, :title "Máxima Cautela"}
+ {:code "30013",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Passe para as Docas"}
+ {:code "30014", :flavor nil, :keywords nil, :text nil, :title "Raspa Moedas"}
+ {:code "30015", :flavor nil, :keywords nil, :text nil, :title "Carmen"}
+ {:code "30016", :flavor nil, :keywords nil, :text nil, :title "Marjanah"}
+ {:code "30017", :flavor nil, :keywords nil, :text nil, :title "Tranquilizante"}
+ {:code "30018", :flavor nil, :keywords nil, :text nil, :title "Time Vermelho"}
+ {:code "30019",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Tāo Salonga: Mágico da Telepresença"}
+ {:code "30020",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Comissão Criativa"}
+ {:code "30021", :flavor nil, :keywords nil, :text nil, :title "Férias VR"}
+ {:code "30022",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Otimizador DZMZ"}
+ {:code "30023", :flavor nil, :keywords nil, :text nil, :title "Pantógrafo"}
+ {:code "30024", :flavor nil, :keywords nil, :text nil, :title "Conduíte"}
+ {:code "30025", :flavor nil, :keywords nil, :text nil, :title "Escalão"}
+ {:code "30026", :flavor nil, :keywords nil, :text nil, :title "Unicidade"}
+ {:code "30027",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Contrato de Teletrabalho"}
+ {:code "30028", :flavor nil, :keywords nil, :text nil, :title "Jailbreak"}
+ {:code "30029", :flavor nil, :keywords nil, :text nil, :title "Overclock"}
+ {:code "30030",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Aposta Garantida"}
+ {:code "30031",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Diamante de Memória T400"}
+ {:code "30032", :flavor nil, :keywords nil, :text nil, :title "Efêmero"}
+ {:code "30033",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Distribuidor de Smartware"}
+ {:code "30034",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Plasticidade Verbal"}
+ {:code "30035",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Haas-Bioroid: Design Preciso"}
+ {:code "30036",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Transubstanciação de Luz"}
+ {:code "30037", :flavor nil, :keywords nil, :text nil, :title "Campanha Nico"}
+ {:code "30038", :flavor nil, :keywords nil, :text nil, :title "Ansel 1.0"}
+ {:code "30039", :flavor nil, :keywords nil, :text nil, :title "Brân 1.0"}
+ {:code "30040",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Lançamento Impecável"}
+ {:code "30041", :flavor nil, :keywords nil, :text nil, :title "Arrancada"}
+ {:code "30042",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Divisão Secreta Manegarm"}
+ {:code "30043",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Jinteki: Restaurando a Humanidade"}
+ {:code "30044",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Soro da Longevidade"}
+ {:code "30045", :flavor nil, :keywords nil, :text nil, :title "Cifra Urtica"}
+ {:code "30046", :flavor nil, :keywords nil, :text nil, :title "Adivinha"}
+ {:code "30047", :flavor nil, :keywords nil, :text nil, :title "Karunā"}
+ {:code "30048", :flavor nil, :keywords nil, :text nil, :title "Revisão Hansei"}
+ {:code "30049", :flavor nil, :keywords nil, :text nil, :title "Lança Neural"}
+ {:code "30050", :flavor nil, :keywords nil, :text nil, :title "Vazio Anoético"}
+ {:code "30051",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "NBN: Realidade Aumentada"}
+ {:code "30052",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Manchete de Amanhã"}
+ {:code "30053",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Assessor de Imprensa"}
+ {:code "30054", :flavor nil, :keywords nil, :text nil, :title "Casa Divertida"}
+ {:code "30055", :flavor nil, :keywords nil, :text nil, :title "Ping"}
+ {:code "30056",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Planograma Preditivo"}
+ {:code "30057", :flavor nil, :keywords nil, :text nil, :title "Trilha Pública"}
+ {:code "30058",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Diversões AMAZE"}
+ {:code "30059",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Consórcio Weyland: Feito para Durar"}
+ {:code "30060", :flavor nil, :keywords nil, :text nil, :title "Acima da Lei"}
+ {:code "30061",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Câmara de Compensação"}
+ {:code "30062", :flavor nil, :keywords nil, :text nil, :title "Balista"}
+ {:code "30063", :flavor nil, :keywords nil, :text nil, :title "Pharos"}
+ {:code "30064",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Subsídio Governamental"}
+ {:code "30065", :flavor nil, :keywords nil, :text nil, :title "Retribuição"}
+ {:code "30066",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Cofre de Dados Malapert"}
+ {:code "30067",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Escritório Espacial"}
+ {:code "30068",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Superioridade Orbital"}
+ {:code "30069",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Mandar um Recado"}
+ {:code "30070",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Central Supercondutora"}
+ {:code "30071",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Licença de Mineração Regolito"}
+ {:code "30072", :flavor nil, :keywords nil, :text nil, :title "Paliçada"}
+ {:code "30073", :flavor nil, :keywords nil, :text nil, :title "Dízimo"}
+ {:code "30074",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Espaço em Branco"}
+ {:code "30075",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Fundo de Cobertura"}
+ {:code "30076",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Catálise: Quebra-Convenções"}
+ {:code "30077",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "O Sindicato: Lucro acima de Princípios"}
+ {:code "33066", :flavor nil, :keywords nil, :text nil, :title "Finalidade"}
+ {:code "33067",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Fuga da Katorga"}
+ {:code "33068",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Gotas de Chuva Cortam Pedra"}
+ {:code "33069", :flavor nil, :keywords nil, :text nil, :title "Bomba Relógio"}
+ {:code "33070", :flavor nil, :keywords nil, :text nil, :title "Abassy"}
+ {:code "33071", :flavor nil, :keywords nil, :text nil, :title "Calma"}
+ {:code "33072", :flavor nil, :keywords nil, :text nil, :title "Nga"}
+ {:code "33073", :flavor nil, :keywords nil, :text nil, :title "Num"}
+ {:code "33074",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Tsakhia \"Bankhar\" Gantulga"}
+ {:code "33075", :flavor nil, :keywords nil, :text nil, :title "Concerto"}
+ {:code "33076", :flavor nil, :keywords nil, :text nil, :title "Reprise"}
+ {:code "33077",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Frasco de Veneno"}
+ {:code "33078",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Implante WAKE v2A-JRJ"}
+ {:code "33079",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Chip Zenit JZ-2MJ"}
+ {:code "33080", :flavor nil, :keywords nil, :text nil, :title "Tremolo"}
+ {:code "33081", :flavor nil, :keywords nil, :text nil, :title "Visão em Túnel"}
+ {:code "33082", :flavor nil, :keywords nil, :text nil, :title "Asmund Pudlat"}
+ {:code "33083",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Recompensa por Informação"}
+ {:code "33084",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Fagulha de Inspiração"}
+ {:code "33085",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Mecanócitos Hipocâmpicos"}
+ {:code "33086",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Sintglande Basilar 2KVJ"}
+ {:code "33087",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Capacitor de Fluxo"}
+ {:code "33088", :flavor nil, :keywords nil, :text nil, :title "Nanuq"}
+ {:code "33089", :flavor nil, :keywords nil, :text nil, :title "Orca"}
+ {:code "33090", :flavor nil, :keywords nil, :text nil, :title "Turbina K2CP"}
+ {:code "33091",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Árvore do Mundo"}
+ {:code "33092",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dra. Nuka Vrolyck"}
+ {:code "33093",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Nova Initiumia: Catálise e Impetus"}
+ {:code "33094", :flavor nil, :keywords nil, :text nil, :title "Matryoshka"}
+ {:code "33095",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Submar Thule: Segurança Abaixo"}
+ {:code "33096",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dependência Ontológica"}
+ {:code "33097",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Arquivo de Pesadelos"}
+ {:code "33098", :flavor nil, :keywords nil, :text nil, :title "Bloop"}
+ {:code "33099", :flavor nil, :keywords nil, :text nil, :title "Pulso"}
+ {:code "33100",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Rastreamento Distribuído"}
+ {:code "33101", :flavor nil, :keywords nil, :text nil, :title "Hipóxia"}
+ {:code "33102", :flavor nil, :keywords nil, :text nil, :title "Rede Djupstad"}
+ {:code "33103", :flavor nil, :keywords nil, :text nil, :title "Mr. Hendrik"}
+ {:code "33104",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Issuaq Adápticos: Apoiando a Diversidade"}
+ {:code "33105",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Lançamento de Híbridos"}
+ {:code "33106",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dra. Vientiane Keeling"}
+ {:code "33107",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Função Ceifadora"}
+ {:code "33108", :flavor nil, :keywords nil, :text nil, :title "Hafrún"}
+ {:code "33109", :flavor nil, :keywords nil, :text nil, :title "Vampyronassa"}
+ {:code "33110",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Reiniciar Simulação"}
+ {:code "33111", :flavor nil, :keywords nil, :text nil, :title "Rede Nanisivik"}
+ {:code "33112",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Liberdade de Informação"}
+ {:code "33113",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Dividendos de Pós-Verdades"}
+ {:code "33114", :flavor nil, :keywords nil, :text nil, :title "Gaslight"}
+ {:code "33115",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Vera Ivanovna Shuyskaya"}
+ {:code "33116", :flavor nil, :keywords nil, :text nil, :title "Klevetnik"}
+ {:code "33117",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Tsarevna Que Não Ria"}
+ {:code "33118",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Troca Não-Equivalente"}
+ {:code "33119",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Carregamento de Vladisibirsk"}
+ {:code "33120",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Captura do Regulador"}
+ {:code "33121",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Campo de Quimberlito"}
+ {:code "33122",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Arquitetura Hostil"}
+ {:code "33123",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Poço Superprofundo"}
+ {:code "33124", :flavor nil, :keywords nil, :text nil, :title "Bigorna"}
+ {:code "33125", :flavor nil, :keywords nil, :text nil, :title "Fim da Linha"}
+ {:code "33126",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Yakov Erikovich Avdakov"}
+ {:code "33127",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Rede da Cidade ZATO"}
+ {:code "33128",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Ampère: Cibernética' para Todos"}]

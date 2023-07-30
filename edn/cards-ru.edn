@@ -1,0 +1,217 @@
+[{:code "30001",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Рене \"Волк\" Арсемон: Зверский тусовщик"}
+ {:code "30002", :flavor nil, :keywords nil, :text nil, :title "Дикая стачка"}
+ {:code "30003", :flavor nil, :keywords nil, :text nil, :title "Хищник"}
+ {:code "30004", :flavor nil, :keywords nil, :text nil, :title "Ботулизм"}
+ {:code "30005", :flavor nil, :keywords nil, :text nil, :title "Циркулярка"}
+ {:code "30006", :flavor nil, :keywords nil, :text nil, :title "Тесак"}
+ {:code "30007", :flavor nil, :keywords nil, :text nil, :title "Ферментер"}
+ {:code "30008", :flavor nil, :keywords nil, :text nil, :title "Пиявка"}
+ {:code "30009",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Поваренная Книга"}
+ {:code "30010",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Захья Садеги: Контрабандистка широкого профиля"}
+ {:code "30011",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Услуга за услугу"}
+ {:code "30012",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Действуй Осторожно"}
+ {:code "30013", :flavor nil, :keywords nil, :text nil, :title "Пропуск в Доки"}
+ {:code "30014", :flavor nil, :keywords nil, :text nil, :title "Скупец"}
+ {:code "30015", :flavor nil, :keywords nil, :text nil, :title "Кармен"}
+ {:code "30016", :flavor nil, :keywords nil, :text nil, :title "Маржанах"}
+ {:code "30017", :flavor nil, :keywords nil, :text nil, :title "Транквилизатор"}
+ {:code "30018",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Красная команда"}
+ {:code "30019",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Тāо Салонга: Волшебник Телеприсутствия."}
+ {:code "30020",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Творческий заказ"}
+ {:code "30021", :flavor nil, :keywords nil, :text nil, :title "Отпуск в ВР"}
+ {:code "30022",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Оптимизатор ДЗМЗ"}
+ {:code "30023", :flavor nil, :keywords nil, :text nil, :title "Пантограф"}
+ {:code "30024", :flavor nil, :keywords nil, :text nil, :title "Проводник"}
+ {:code "30025", :flavor nil, :keywords nil, :text nil, :title "Эшелон"}
+ {:code "30026", :flavor nil, :keywords nil, :text nil, :title "Единство"}
+ {:code "30027",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Контракт по Удалёнке"}
+ {:code "30028", :flavor nil, :keywords nil, :text nil, :title "Джейлбрейк"}
+ {:code "30029", :flavor nil, :keywords nil, :text nil, :title "Разгон"}
+ {:code "30030",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Беспроигрышная Ставка"}
+ {:code "30031",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Алмаз Памяти Т400"}
+ {:code "30032", :flavor nil, :keywords nil, :text nil, :title "Однодневка"}
+ {:code "30033",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Торговец гаджетами"}
+ {:code "30034",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Вербальная Пластичность"}
+ {:code "30035",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Хаас-Биороид: Высокоточное Проектирование"}
+ {:code "30036",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Пресуществление в Свет"}
+ {:code "30037",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Рекламная кампания Нико"}
+ {:code "30038", :flavor nil, :keywords nil, :text nil, :title "Ансел 1.0"}
+ {:code "30039", :flavor nil, :keywords nil, :text nil, :title "Брâн 1.0"}
+ {:code "30040",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Запуск без накладок"}
+ {:code "30041", :flavor nil, :keywords nil, :text nil, :title "Спринт"}
+ {:code "30042",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Опытный цех Манагарм"}
+ {:code "30043",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Джинтеки: Возрождая Человечность"}
+ {:code "30044",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Сыворотка Долголетия"}
+ {:code "30045", :flavor nil, :keywords nil, :text nil, :title "Шифр Крапива"}
+ {:code "30046", :flavor nil, :keywords nil, :text nil, :title "Прорицатель"}
+ {:code "30047", :flavor nil, :keywords nil, :text nil, :title "Карунā"}
+ {:code "30048", :flavor nil, :keywords nil, :text nil, :title "Хансей"}
+ {:code "30049", :flavor nil, :keywords nil, :text nil, :title "Нейровсплеск"}
+ {:code "30050",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Неосознанная Пустота"}
+ {:code "30051",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "NBN: Реальность Плюс"}
+ {:code "30052",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Завтрашний Заголовок"}
+ {:code "30053", :flavor nil, :keywords nil, :text nil, :title "Пиарщик"}
+ {:code "30054", :flavor nil, :keywords nil, :text nil, :title "Комната смеха"}
+ {:code "30055", :flavor nil, :keywords nil, :text nil, :title "Пинг"}
+ {:code "30056",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Предсказывающая Планограмма"}
+ {:code "30057", :flavor nil, :keywords nil, :text nil, :title "Публичный След"}
+ {:code "30058",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Развлечения AMAZE"}
+ {:code "30059",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Консорциум Вейланда: Создано на Века"}
+ {:code "30060", :flavor nil, :keywords nil, :text nil, :title "Выше Закона"}
+ {:code "30061", :flavor nil, :keywords nil, :text nil, :title "Расчётная"}
+ {:code "30062", :flavor nil, :keywords nil, :text nil, :title "Баллиста"}
+ {:code "30063", :flavor nil, :keywords nil, :text nil, :title "Фарос"}
+ {:code "30064",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Правительственная субсидия"}
+ {:code "30065", :flavor nil, :keywords nil, :text nil, :title "Возмездие"}
+ {:code "30066",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Хранилище данных под Малапертом"}
+ {:code "30067", :flavor nil, :keywords nil, :text nil, :title "Внеземной офис"}
+ {:code "30068",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Орбитальное Превосходство"}
+ {:code "30069",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Последнее предупреждение"}
+ {:code "30070",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Сверхпроводящий Узел"}
+ {:code "30071",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Лицензия на Добычу Реголита"}
+ {:code "30072", :flavor nil, :keywords nil, :text nil, :title "Палисад"}
+ {:code "30073", :flavor nil, :keywords nil, :text nil, :title "Десятина"}
+ {:code "30074", :flavor nil, :keywords nil, :text nil, :title "Чистый лист"}
+ {:code "30075", :flavor nil, :keywords nil, :text nil, :title "Хедж-фонд"}
+ {:code "30076",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Катализатор: Нарушитель Устоев"}
+ {:code "30077",
+  :flavor nil,
+  :keywords nil,
+  :text nil,
+  :title "Синдикат: Прибыль выше Принципов."}]
