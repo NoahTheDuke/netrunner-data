@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "the-price"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Trash the top 4 cards of your stack. You may install 1 of those cards, paying 3 credits less."
+ :stripped-title "The Price"
+ :text "Trash the top 4 cards of your stack. You may install 1 of those cards, paying 3[credit] less."
+ :title "The Price"
+ :type :event
+ :uniqueness false}

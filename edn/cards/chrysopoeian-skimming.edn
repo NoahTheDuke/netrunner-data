@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "chrysopoeian-skimming"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "The Corp may reveal an agenda from HQ. If they do, gain click and draw 1 card. Otherwise, look at the top 3 cards of R&D."
+ :stripped-title "Chrysopoeian Skimming"
+ :text "The Corp may reveal an agenda from HQ. If they do, gain [click] and draw 1 card. Otherwise, look at the top 3 cards of R&D."
+ :title "Chrysopoeian Skimming"
+ :type :event
+ :uniqueness false}

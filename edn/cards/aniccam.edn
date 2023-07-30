@@ -4,10 +4,10 @@
  :id "aniccam"
  :influence-cost 3
  :side :runner
- :stripped-text "+1 mu. The first time each turn an event is trashed (from any location), draw 1 card. Limit 1 console per player."
+ :stripped-text "+1 mu The first time each turn an event is trashed (from any location), draw 1 card. Limit 1 console per player."
  :stripped-title "Aniccam"
  :subtype [:console]
- :text "+1[mu].\nThe first time each turn an event is trashed <em>(from any location)</em>, draw 1 card.\nLimit 1 <strong>console</strong> per player."
+ :text "+1[mu]\nThe first time each turn an event is trashed <em>(from any location)</em>, draw 1 card.\nLimit 1 <strong>console</strong> per player."
  :title "Aniccam"
  :type :hardware
  :uniqueness true}

@@ -4,10 +4,10 @@
  :id "broadcast-square"
  :influence-cost 3
  :side :corp
- :stripped-text "Whenever you are about to take at least 1 bad publicity, trace 3 if successful, avoid taking the bad publicity."
+ :stripped-text "Whenever you are about to take at least 1 bad publicity, Trace[3]. If successful, avoid taking the bad publicity."
  :stripped-title "Broadcast Square"
  :subtype [:facility]
- :text "Whenever you are about to take at least 1 bad publicity, <trace>trace 3</trace> if successful, avoid taking the bad publicity."
+ :text "Whenever you are about to take at least 1 bad publicity, Trace[3]. If successful, avoid taking the bad publicity."
  :title "Broadcast Square"
  :trash-cost 5
  :type :asset

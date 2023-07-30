@@ -7,7 +7,7 @@
  :side :runner
  :stripped-text "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice."
  :stripped-title "Tranquilizer"
- :subtype [:virus]
+ :subtype [:virus :trojan]
  :text "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice."
  :title "Tranquilizer"
  :type :program

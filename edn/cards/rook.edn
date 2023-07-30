@@ -5,10 +5,10 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text "click: Host Rook on a piece of ice not hosting a Caissa. If already hosted, Rook can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server. The rez cost of each piece of ice protecting this server is increased by 2."
+ :stripped-text "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2. click: Host this program on a piece of ice that is not hosting a Caissa program. If this program is hosted on ice, its click ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. (Count positions from the innermost ice.)"
  :stripped-title "Rook"
- :subtype [:caissa]
- :text "[click]: Host Rook on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Rook can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server.\nThe rez cost of each piece of ice protecting this server is increased by 2."
+ :subtype [:caissa :trojan]
+ :text "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2.\n[click]: Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> program.\nIf this program is hosted on ice, its [click] ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. <em>(Count positions from the innermost ice.)</em>"
  :title "Rook"
  :type :program
  :uniqueness false}

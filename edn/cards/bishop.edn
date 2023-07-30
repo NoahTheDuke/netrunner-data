@@ -5,10 +5,10 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text "click: Host Bishop on a piece of ice not hosting a Caissa. If already hosted, Bishop can be hosted only on ice protecting a central server if Bishop is on ice protecting a remote server, or on ice protecting a remote server if Bishop is on ice protecting a central server. Host ice has -2 strength."
+ :stripped-text "Host ice gets -2 strength. click: Host this program on a piece of ice that is not hosting a Caissa program. If this program is hosted on ice protecting a central server, its click ability can only be used to host it on ice protecting a remote server. If this program is hosted on ice protecting a remote server, its click ability can only be used to host it on ice protecting a central server."
  :stripped-title "Bishop"
- :subtype [:caissa]
- :text "[click]: Host Bishop on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Bishop can be hosted only on ice protecting a central server if Bishop is on ice protecting a remote server, or on ice protecting a remote server if Bishop is on ice protecting a central server.\nHost ice has -2 strength."
+ :subtype [:caissa :trojan]
+ :text "Host ice gets -2 strength.\n[click]: Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> program.\nIf this program is hosted on ice protecting a central server, its [click] ability can only be used to host it on ice protecting a remote server. If this program is hosted on ice protecting a remote server, its [click] ability can only be used to host it on ice protecting a central server."
  :title "Bishop"
  :type :program
  :uniqueness false}

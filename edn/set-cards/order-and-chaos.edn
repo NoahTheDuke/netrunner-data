@@ -1,21 +1,21 @@
 [{:card-id "argus-security-protection-guaranteed"
   :code "07001"
   :flavor "We Never Sleep."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 1
   :quantity 3
   :set-id "order-and-chaos"}
  {:card-id "gagarin-deep-space-expanding-the-horizon"
   :code "07002"
   :flavor "Sic Itur Ad Astra."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 2
   :quantity 3
   :set-id "order-and-chaos"}
  {:card-id "titan-transnational-investing-in-your-future"
   :code "07003"
   :flavor "The Way Forward."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 3
   :quantity 3
   :set-id "order-and-chaos"}
@@ -357,6 +357,7 @@
   :set-id "order-and-chaos"}
  {:card-id "qianju-pt"
   :code "07054"
+  :flavor "\"By the time you add in all of the options, you've spent about three times the base price. Of course, a lot of the systems are supposed to make you safer - if you can keep track of them.\""
   :illustrator "Carolina Eade"
   :position 54
   :quantity 3

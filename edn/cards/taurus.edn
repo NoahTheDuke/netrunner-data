@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 5
- :stripped-text "Subroutine Trace 2 If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware."
+ :stripped-text "Subroutine Trace[2]. If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware."
  :stripped-title "Taurus"
  :subtype [:sentry :tracer]
- :text "[subroutine] <trace>Trace 2</trace> If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware."
+ :text "[subroutine] Trace[2]. If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware."
  :title "Taurus"
  :type :ice
  :uniqueness false}

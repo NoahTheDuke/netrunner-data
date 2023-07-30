@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "federal-fundraising"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When your turn begins, you may look at the top 3 cards of R&D and arrange them in any order. Then, if this server is not protected by ice, you may draw 1 card."
+ :stripped-title "Federal Fundraising"
+ :subtype [:political :ritzy]
+ :text "When your turn begins, you may look at the top 3 cards of R&D and arrange them in any order. Then, if this server is not protected by ice, you may draw 1 card."
+ :title "Federal Fundraising"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

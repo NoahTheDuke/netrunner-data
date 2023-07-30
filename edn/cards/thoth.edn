@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 6
- :stripped-text "When the Runner encounters this ice, give them 1 tag. Subroutine Trace 4. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace 4. If successful, the Runner loses 1 credit for each tag they have."
+ :stripped-text "When the Runner encounters this ice, give them 1 tag. Subroutine Trace[4]. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace[4]. If successful, the Runner loses 1 credit for each tag they have."
  :stripped-title "Thoth"
  :subtype [:sentry :tracer]
- :text "When the Runner encounters this ice, give them 1 tag.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace>. If successful, the Runner loses 1[credit] for each tag they have."
+ :text "When the Runner encounters this ice, give them 1 tag.\n[subroutine] Trace[4]. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] Trace[4]. If successful, the Runner loses 1[credit] for each tag they have."
  :title "Thoth"
  :type :ice
  :uniqueness true}

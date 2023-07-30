@@ -27,7 +27,7 @@
  {:card-id "near-earth-hub-broadcast-center"
   :code "06005"
   :flavor "Only the News You Need."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 5
   :quantity 3
   :set-id "upstalk"}
@@ -41,7 +41,7 @@
  {:card-id "midway-station-grid"
   :code "06007"
   :flavor "Halfway upstalk, Midway is a destination unto itself with its microgravity hotels and fine dining options."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 7
   :quantity 3
   :set-id "upstalk"}

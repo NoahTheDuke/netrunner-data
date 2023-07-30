@@ -5,10 +5,10 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
- :stripped-text "Install Trypano only on a piece of ice. When Trypano has 5 or more virus counters on it, trash host ice. When your turn begins, you may place 1 virus counter on Trypano."
+ :stripped-text "Install only on a piece of ice. When your turn begins, you may place 1 virus counter on this program. When there are 5 or more hosted virus counters, trash host ice."
  :stripped-title "Trypano"
- :subtype [:virus]
- :text "Install Trypano only on a piece of ice.\nWhen Trypano has 5 or more virus counters on it, trash host ice.\nWhen your turn begins, you may place 1 virus counter on Trypano."
+ :subtype [:virus :trojan]
+ :text "Install only on a piece of ice.\nWhen your turn begins, you may place 1 virus counter on this program.\nWhen there are 5 or more hosted virus counters, trash host ice."
  :title "Trypano"
  :type :program
  :uniqueness false}

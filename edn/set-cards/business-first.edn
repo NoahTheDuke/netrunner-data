@@ -66,14 +66,14 @@
  {:card-id "palana-foods-sustainable-growth"
   :code "10030"
   :flavor "We Are What We Eat. "
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 30
   :quantity 3
   :set-id "business-first"}
  {:card-id "palana-agroplex"
   :code "10031"
   :flavor "Expensive to build but dramatically more efficient than traditional farming, agroplexes are emblems of the inevitable corporatization of the food industry. "
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 31
   :quantity 3
   :set-id "business-first"}

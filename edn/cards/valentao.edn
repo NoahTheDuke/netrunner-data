@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "valentao"
+ :influence-cost 3
+ :side :corp
+ :strength 6
+ :stripped-text "As an additional cost to rez this ice, take 1 bad publicity or remove 1 tag. Subroutine Gain 2 credits. Subroutine The Runner loses 2 credits. Subroutine End the run if you have more credits than the Runner."
+ :stripped-title "Valentao"
+ :subtype [:code-gate :illicit]
+ :text "As an additional cost to rez this ice, take 1 bad publicity or remove 1 tag.\n[subroutine] Gain 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] End the run if you have more credits than the Runner."
+ :title "Valentão"
+ :type :ice
+ :uniqueness false}

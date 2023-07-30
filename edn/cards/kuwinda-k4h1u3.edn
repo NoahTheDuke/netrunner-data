@@ -4,10 +4,10 @@
  :id "kuwinda-k4h1u3"
  :influence-cost 4
  :side :corp
- :stripped-text "When your turn begins, you may trace X If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3. X is the number of power counters on Kuwinda K4H1U3."
+ :stripped-text "When your turn begins, you may trace[X], where X is equal to the number of hosted power counters. If successful, do 1 core damage and trash this asset. If unsuccessful, place 1 power counter on this asset."
  :stripped-title "Kuwinda K4H1U3"
  :subtype [:bioroid]
- :text "When your turn begins, you may <trace>trace X</trace> If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3."
+ :text "When your turn begins, you may trace[X], where X is equal to the number of hosted power counters. If successful, do 1 core damage and trash this asset. If unsuccessful, place 1 power counter on this asset."
  :title "Kuwinda K4H1U3"
  :trash-cost 3
  :type :asset

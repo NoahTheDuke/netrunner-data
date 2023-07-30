@@ -4,10 +4,10 @@
  :id "reboot"
  :influence-cost 5
  :side :runner
- :stripped-text "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown.  Remove this event from the game."
+ :stripped-text "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown. Remove this event from the game."
  :stripped-title "Reboot"
  :subtype [:run]
- :text "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown. \nRemove this event from the game."
+ :text "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown.\nRemove this event from the game."
  :title "Reboot"
  :type :event
  :uniqueness false}

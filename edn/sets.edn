@@ -457,7 +457,7 @@
   :name "Terminal Directive Campaign"
   :position 2
   :set-type :campaign
-  :size 18}
+  :size 28}
  {:code "eas"
   :cycle-id "red-sand"
   :date-release "2017-05-25"
@@ -707,4 +707,14 @@
   :name "Parhelion"
   :position 3
   :set-type :data-pack
-  :size 63}]
+  :size 63}
+ {:code "tai"
+  :cycle-id "liberation"
+  :date-release "2023-07-31"
+  :deluxe false
+  :ffg-id nil
+  :id "the-automata-initiative"
+  :name "The Automata Initiative"
+  :position 1
+  :set-type :data-pack
+  :size 65}]

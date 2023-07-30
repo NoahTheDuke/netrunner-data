@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "tree-line"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :stripped-text "click, 1 credit, reveal and trash this ice from HQ: Place 3 advancement counters on 1 installed piece of ice. You can advance this ice. It gets +1 strength for each hosted advancement counter. Subroutine Gain 1 credit. End the run."
+ :stripped-title "Tree Line"
+ :subtype [:barrier :expendable]
+ :text "[click], <strong>1</strong>[credit], <strong>reveal and trash this ice from HQ:</strong> Place 3 advancement counters on 1 installed piece of ice.\nYou can advance this ice. It gets +1 strength for each hosted advancement counter.\n[subroutine] Gain 1[credit]. End the run."
+ :title "Tree Line"
+ :type :ice
+ :uniqueness false}

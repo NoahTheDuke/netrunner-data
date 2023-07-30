@@ -212,7 +212,7 @@
  {:card-id "midnight-3-arcology"
   :code "33032"
   :flavor "\"The Midnight-3 glows with an inviting warmth that belies the broken promise within. All that awaits you there is a life of indentured servitude.\"\n–Sundog"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 32
   :quantity 3
   :set-id "midnight-sun"}
@@ -309,7 +309,7 @@
  {:card-id "mitosis"
   :code "33046"
   :flavor "One becomes many."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 46
   :quantity 3
   :set-id "midnight-sun"}
@@ -323,7 +323,7 @@
  {:card-id "pravdivost-consulting-political-solutions"
   :code "33048"
   :flavor "Political news, fit for public consumption."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 48
   :quantity 1
   :set-id "midnight-sun"}

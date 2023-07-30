@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "mindscaping"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Resolve 1 of the following:  Gain 4 credits and draw 2 cards. Add 1 card from HQ to the top of R&D.  Do X net damage. X is equal to the number of tags the Runner has, up to 3."
+ :stripped-title "Mindscaping"
+ :subtype [:gray-ops]
+ :text "Resolve 1 of the following:\n• Gain 4[credit] and draw 2 cards. Add 1 card from HQ to the top of R&D.\n• Do X net damage. X is equal to the number of tags the Runner has, up to 3."
+ :title "Mindscaping"
+ :type :operation
+ :uniqueness false}

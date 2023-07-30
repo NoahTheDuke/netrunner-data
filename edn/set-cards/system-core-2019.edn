@@ -447,13 +447,13 @@
  {:card-id "seidr-laboratories-destiny-defined"
   :code "25067"
   :flavor "Interweaving the Past and the Future."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 67
   :quantity 1
   :set-id "system-core-2019"}
  {:card-id "project-vitruvius"
   :code "25068"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 68
   :quantity 3
   :set-id "system-core-2019"}
@@ -686,7 +686,7 @@
  {:card-id "hokusai-grid"
   :code "25103"
   :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 103
   :quantity 2
   :set-id "system-core-2019"}
@@ -699,7 +699,7 @@
  {:card-id "spark-agency-worldswide-reach"
   :code "25105"
   :flavor "We're ready to start the fire."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 105
   :quantity 1
   :set-id "system-core-2019"}
@@ -725,7 +725,7 @@
   :set-id "system-core-2019"}
  {:card-id "ghost-branch"
   :code "25109"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 109
   :quantity 1
   :set-id "system-core-2019"}
@@ -817,7 +817,7 @@
  {:card-id "blue-sun-powering-the-future"
   :code "25123"
   :flavor "Unlimited Energy. Reasonable Prices."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 123
   :quantity 1
   :set-id "system-core-2019"}
@@ -836,7 +836,7 @@
   :set-id "system-core-2019"}
  {:card-id "project-atlas"
   :code "25126"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 126
   :quantity 3
   :set-id "system-core-2019"}

@@ -5,10 +5,10 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text "Install Parasite only on a rezzed piece of ice. Host ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less. When your turn begins, place 1 virus counter on Parasite."
+ :stripped-text "Install only on a rezzed piece of ice. When your turn begins, place 1 virus counter on this program. Host ice gets -1 strength for each hosted virus counter. When the strength of host ice is 0 or less, trash it."
  :stripped-title "Parasite"
- :subtype [:virus]
- :text "Install Parasite only on a rezzed piece of ice.\nHost ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite."
+ :subtype [:virus :trojan]
+ :text "Install only on a rezzed piece of ice.\nWhen your turn begins, place 1 virus counter on this program.\nHost ice gets -1 strength for each hosted virus counter.\nWhen the strength of host ice is 0 or less, trash it."
  :title "Parasite"
  :type :program
  :uniqueness false}

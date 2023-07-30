@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 3
+ :faction :jinteki
+ :id "attini"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :stripped-text "Threat 3 -> The Runner cannot spend credits while subroutines on this ice are resolving. (This ability is active if any player has 3 or more agenda points.) Subroutine Do 1 net damage unless the Runner pays 2 credits. Subroutine Do 1 net damage unless the Runner pays 2 credits. Subroutine Do 1 net damage unless the Runner pays 2 credits."
+ :stripped-title "Attini"
+ :subtype [:code-gate :ap]
+ :text "Threat 3 → The Runner cannot spend credits while subroutines on this ice are resolving. <em>(This ability is active if any player has 3 or more agenda points.)</em>\n[subroutine] Do 1 net damage unless the Runner pays 2[credit].\n[subroutine] Do 1 net damage unless the Runner pays 2[credit].\n[subroutine] Do 1 net damage unless the Runner pays 2[credit]."
+ :title "Attini"
+ :type :ice
+ :uniqueness false}

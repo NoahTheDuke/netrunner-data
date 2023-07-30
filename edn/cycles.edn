@@ -127,4 +127,9 @@
   :name "Borealis"
   :position 32
   :rotated false
-  :size 3}]
+  :size 3}
+ {:id "liberation"
+  :name "Liberation"
+  :position 33
+  :rotated false
+  :size 2}]

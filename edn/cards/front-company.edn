@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "front-company"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Rez only during your turn. The first run each turn cannot be made against a remote server. The first time each turn a run on Archives begins, if this server is not protected by ice, do 2 net damage."
+ :stripped-title "Front Company"
+ :subtype [:political :seedy]
+ :text "Rez only during your turn.\nThe first run each turn cannot be made against a remote server.\nThe first time each turn a run on Archives begins, if this server is not protected by ice, do 2 net damage."
+ :title "Front Company"
+ :trash-cost 2
+ :type :asset
+ :uniqueness true}

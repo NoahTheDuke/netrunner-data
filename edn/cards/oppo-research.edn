@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "oppo-research"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Play only if the Runner stole or trashed a Corp card during their last turn. After you resolve this operation, your action phase ends. Give the Runner 2 tags. Threat 3 -> You may pay 5 credits to give the Runner 2 tags. (This ability is active if any player has 3 or more agenda points.)"
+ :stripped-title "Oppo Research"
+ :subtype [:terminal :gray-ops]
+ :text "Play only if the Runner stole or trashed a Corp card during their last turn.\nAfter you resolve this operation, your action phase ends.\nGive the Runner 2 tags.\nThreat 3 → You may pay 5[credit] to give the Runner 2 tags. <em>(This ability is active if any player has 3 or more agenda points.)</em>"
+ :title "Oppo Research"
+ :type :operation
+ :uniqueness false}

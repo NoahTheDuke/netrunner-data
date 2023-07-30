@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "arissana-rocha-nahu-street-artist"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "0 credits: Install 1 program from your grip (paying all costs). Use this ability only once per turn and only during a run. When that run ends, trash that program if it is not a trojan."
+ :stripped-title "Arissana Rocha Nahu: Street Artist"
+ :subtype [:natural]
+ :text "<strong>0[credit]:</strong> Install 1 program from your grip <em>(paying all costs)</em>. Use this ability only once per turn and only during a run. When that run ends, trash that program if it is not a <strong>trojan</strong>."
+ :title "Arissana Rocha Nahu: Street Artist"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "lilypad"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "+2 mu The first time each turn you install a program, you may draw 1 card. Limit 1 console per player."
+ :stripped-title "LilyPAD"
+ :subtype [:console]
+ :text "+2[mu]\nThe first time each turn you install a program, you may draw 1 card.\nLimit 1 <strong>console</strong> per player."
+ :title "LilyPAD"
+ :type :hardware
+ :uniqueness true}

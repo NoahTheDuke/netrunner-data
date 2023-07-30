@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "banner"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :strength 5
+ :stripped-text "Interface -> 2 credits: Subroutines on the barrier you are encountering cannot end the run for the remainder of this encounter."
+ :stripped-title "Banner"
+ :subtype [:icebreaker :fracter :weapon]
+ :text "Interface → <strong>2[credit]:</strong> Subroutines on the <strong>barrier</strong> you are encountering cannot end the run for the remainder of this encounter."
+ :title "Banner"
+ :type :program
+ :uniqueness false}

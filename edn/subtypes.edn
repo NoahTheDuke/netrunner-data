@@ -82,6 +82,8 @@
   :name "Executive"}
  {:id :expansion
   :name "Expansion"}
+ {:id :expendable
+  :name "Expendable"}
  {:id :facility
   :name "Facility"}
  {:id :fracter

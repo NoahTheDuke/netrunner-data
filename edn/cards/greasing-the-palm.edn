@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "greasing-the-palm"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "Gain 5 credits. You may install 1 card from HQ. You may remove 1 tag to place 1 advancement counter on that card."
+ :stripped-title "Greasing the Palm"
+ :subtype [:transaction]
+ :text "Gain 5[credit]. You may install 1 card from HQ. You may remove 1 tag to place 1 advancement counter on that card."
+ :title "Greasing the Palm"
+ :type :operation
+ :uniqueness false}

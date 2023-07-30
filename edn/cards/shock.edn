@@ -4,10 +4,10 @@
  :id "shock"
  :influence-cost 2
  :side :corp
- :stripped-text "If Shock! is accessed from R&D, the Runner must reveal it. When the Runner accesses Shock!, do 1 net damage, even if it is not installed."
+ :stripped-text "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, do 1 net damage."
  :stripped-title "Shock!"
  :subtype [:ambush]
- :text "If Shock! is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Shock!, do 1 net damage, even if it is not installed."
+ :text "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, do 1 net damage."
  :title "Shock!"
  :trash-cost 2
  :type :asset

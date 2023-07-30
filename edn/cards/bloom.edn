@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 3
- :stripped-text "Subroutine You may install a piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs."
+ :stripped-text "Subroutine You may install 1 piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs."
  :stripped-title "Bloom"
  :subtype [:code-gate :observer]
- :text "[subroutine] You may install a piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs."
+ :text "[subroutine] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs."
  :title "Bloom"
  :type :ice
  :uniqueness false}

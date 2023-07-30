@@ -413,13 +413,13 @@
  {:card-id "project-ares"
   :code "20062"
   :flavor "Who wants to start a war?"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 62
   :quantity 2
   :set-id "revised-core-set"}
  {:card-id "project-vitruvius"
   :code "20063"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 63
   :quantity 3
   :set-id "revised-core-set"}
@@ -614,7 +614,7 @@
  {:card-id "hokusai-grid"
   :code "20108"
   :flavor "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 92
   :quantity 1
   :set-id "revised-core-set"}
@@ -639,7 +639,7 @@
   :set-id "revised-core-set"}
  {:card-id "ghost-branch"
   :code "20112"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 96
   :quantity 1
   :set-id "revised-core-set"}
@@ -732,7 +732,7 @@
   :set-id "revised-core-set"}
  {:card-id "project-atlas"
   :code "20079"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 110
   :quantity 3
   :set-id "revised-core-set"}
@@ -760,7 +760,7 @@
  {:card-id "grndl-refinery"
   :code "20083"
   :flavor "GRNDL refineries process many different rare elements unearthed during the fracking process."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 114
   :quantity 3
   :set-id "revised-core-set"}
@@ -850,7 +850,7 @@
  {:card-id "melange-mining-corp"
   :code "20127"
   :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 127
   :quantity 2
   :set-id "revised-core-set"}

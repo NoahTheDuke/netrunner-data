@@ -4,10 +4,10 @@
  :id "warroid-tracker"
  :influence-cost 2
  :side :corp
- :stripped-text "Whenever the Runner trashes at least 1 card from this server or protecting it, trace[4]. If successful, the Runner trashes 2 of their installed cards."
+ :stripped-text "Whenever the Runner trashes at least 1 card from this server, from its root, or protecting it, Trace[4]. If successful, the Runner trashes 2 of their installed cards."
  :stripped-title "Warroid Tracker"
  :subtype [:bioroid]
- :text "Whenever the Runner trashes at least 1 card from this server or protecting it, trace[4]. If successful, the Runner trashes 2 of their installed cards."
+ :text "Whenever the Runner trashes at least 1 card from this server, from its root, or protecting it, Trace[4]. If successful, the Runner trashes 2 of their installed cards."
  :title "Warroid Tracker"
  :trash-cost 4
  :type :upgrade

@@ -4,10 +4,10 @@
  :id "scapenet"
  :influence-cost 2
  :side :corp
- :stripped-text "Play only if the Runner made a successful run during their last turn. Trace 7 If successful, remove 1 installed chip or virtual card from the game."
+ :stripped-text "Play only if the Runner made a successful run during their last turn. Trace[7]. If successful, remove 1 installed chip or virtual card from the game."
  :stripped-title "Scapenet"
  :subtype [:gray-ops]
- :text "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 7</trace> If successful, remove 1 installed <strong>chip</strong> or <strong>virtual</strong> card from the game."
+ :text "Play only if the Runner made a successful run during their last turn.\nTrace[7]. If successful, remove 1 installed <strong>chip</strong> or <strong>virtual</strong> card from the game."
  :title "Scapenet"
  :type :operation
  :uniqueness false}

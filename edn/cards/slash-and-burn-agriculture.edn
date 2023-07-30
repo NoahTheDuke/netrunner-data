@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "slash-and-burn-agriculture"
+ :side :corp
+ :stripped-text "click, 1 credit, reveal and trash this agenda from HQ: Place 2 advancement counters on 1 installed card that you can advance."
+ :stripped-title "Slash and Burn Agriculture"
+ :subtype [:expansion :expendable]
+ :text "[click], <strong>1</strong>[credit], <strong>reveal and trash this agenda from HQ:</strong> Place 2 advancement counters on 1 installed card that you can advance."
+ :title "Slash and Burn Agriculture"
+ :type :agenda
+ :uniqueness false}

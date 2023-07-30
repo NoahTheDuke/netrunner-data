@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "s-dobrado"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Run a central server. The first time you encounter a piece of ice during that run, bypass it. Threat 4 -> The second time you encounter a piece of ice during that run, you may spend click to bypass it. (This ability is active if any player has 4 or more agenda points.)"
+ :stripped-title "S-Dobrado"
+ :subtype [:run]
+ :text "Run a central server. The first time you encounter a piece of ice during that run, bypass it.\nThreat 4 → The second time you encounter a piece of ice during that run, you may spend [click] to bypass it. <em>(This ability is active if any player has 4 or more agenda points.)</em>"
+ :title "S-Dobrado"
+ :type :event
+ :uniqueness false}

@@ -7,7 +7,7 @@
  :stripped-text "click: Place 1 power counter on this upgrade. As an additional cost to run this server, the Runner must spend 1click and 1 credit for each hosted power counter. When your turn begins, remove all hosted power counters."
  :stripped-title "Cold Site Server"
  :subtype [:facility]
- :text "[click]: Place 1 power counter on this upgrade.\nAs an additional cost to run this server, the Runner must spend 1[click] and 1[credit] for each hosted power counter.\nWhen your turn begins, remove all hosted power counters."
+ :text "[click]<strong>:</strong> Place 1 power counter on this upgrade.\nAs an additional cost to run this server, the Runner must spend 1[click] and 1[credit] for each hosted power counter.\nWhen your turn begins, remove all hosted power counters."
  :title "Cold Site Server"
  :trash-cost 3
  :type :upgrade

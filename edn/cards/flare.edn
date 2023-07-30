@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 6
- :stripped-text "Subroutine Trace 6 If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run."
+ :stripped-text "Subroutine Trace[6]. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run."
  :stripped-title "Flare"
  :subtype [:sentry :tracer :ap]
- :text "[subroutine]<trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run."
+ :text "[subroutine]Trace[6]. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run."
  :title "Flare"
  :type :ice
  :uniqueness false}

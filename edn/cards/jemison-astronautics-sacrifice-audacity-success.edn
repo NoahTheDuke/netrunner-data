@@ -4,10 +4,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
- :stripped-text "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth."
+ :stripped-text "Whenever you forfeit an agenda, place X advancement counters on 1 installed card. X is equal to the agenda point value of the forfeited agenda plus 1."
  :stripped-title "Jemison Astronautics: Sacrifice. Audacity. Success."
- :subtype [:corporation]
- :text "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth."
+ :subtype [:corp]
+ :text "Whenever you forfeit an agenda, place X advancement counters on 1 installed card. X is equal to the agenda point value of the forfeited agenda plus 1."
  :title "Jemison Astronautics: Sacrifice. Audacity. Success."
  :type :identity
  :uniqueness false}

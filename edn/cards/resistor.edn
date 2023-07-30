@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 0
- :stripped-text "Resistor has +1 strength for each tag the Runner has. Subroutine Trace 4 If successful, end the run."
+ :stripped-text "Resistor has +1 strength for each tag the Runner has. Subroutine Trace[4]. If successful, end the run."
  :stripped-title "Resistor"
  :subtype [:barrier :tracer]
- :text "Resistor has +1 strength for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, end the run."
+ :text "Resistor has +1 strength for each tag the Runner has.\n[subroutine] Trace[4]. If successful, end the run."
  :title "Resistor"
  :type :ice
  :uniqueness false}

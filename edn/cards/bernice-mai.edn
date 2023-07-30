@@ -4,10 +4,10 @@
  :id "bernice-mai"
  :influence-cost 2
  :side :corp
- :stripped-text "Whenever there is a successful run on this server, trace 5 if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai."
+ :stripped-text "Whenever there is a successful run on this server, Trace[5]. If successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai."
  :stripped-title "Bernice Mai"
  :subtype [:sysop]
- :text "Whenever there is a successful run on this server, <trace>trace 5</trace> if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai."
+ :text "Whenever there is a successful run on this server, Trace[5]. If successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai."
  :title "Bernice Mai"
  :trash-cost 3
  :type :upgrade

@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :nbn
+ :id "oracle-thinktank"
+ :side :corp
+ :stripped-text "When the Runner steals this agenda, give them 1 tag. click, remove 1 tag: Shuffle this agenda into R&D. The Corp can use this ability only if this agenda is in the Runner's score area."
+ :stripped-title "Oracle Thinktank"
+ :subtype [:research]
+ :text "When the Runner steals this agenda, give them 1 tag.\n[click], <strong>remove 1 tag:</strong> Shuffle this agenda into R&D. The Corp can use this ability only if this agenda is in the Runner's score area."
+ :title "Oracle Thinktank"
+ :type :agenda
+ :uniqueness false}

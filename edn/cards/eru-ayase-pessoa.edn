@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "eru-ayase-pessoa"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "click, take 1 tag: Run Archives. If successful, instead of breaching Archives, breach R&D. Use this ability only once per turn. Threat 3 -> Whenever you breach R&D during a run on Archives, access 1 additional card. (This ability is active if any player has 3 or more agenda points.)"
+ :stripped-title "Eru Ayase-Pessoa"
+ :subtype [:connection :clone]
+ :text "[click],<strong> take 1 tag:</strong> Run Archives. If successful, instead of breaching Archives, breach R&D. Use this ability only once per turn.\nThreat 3 → Whenever you breach R&D during a run on Archives, access 1 additional card. <em>(This ability is active if any player has 3 or more agenda points.)</em>"
+ :title "Eru Ayase-Pessoa"
+ :type :resource
+ :uniqueness true}

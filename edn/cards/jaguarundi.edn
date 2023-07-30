@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "jaguarundi"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :stripped-text "Threat 4 -> When the Runner encounters this ice, give them 1 tag unless they spend click. (This ability is active if any player has 4 or more agenda points.) Subroutine Give the Runner 1 tag. Subroutine If the Runner is tagged, do 1 core damage."
+ :stripped-title "Jaguarundi"
+ :subtype [:sentry :ap]
+ :text "Threat 4 → When the Runner encounters this ice, give them 1 tag unless they spend [click]. <em>(This ability is active if any player has 4 or more agenda points.)</em>\n[subroutine] Give the Runner 1 tag.\n[subroutine] If the Runner is tagged, do 1 core damage."
+ :title "Jaguarundi"
+ :type :ice
+ :uniqueness false}

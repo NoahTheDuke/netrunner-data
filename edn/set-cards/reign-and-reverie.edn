@@ -41,7 +41,7 @@
  {:card-id "district-99"
   :code "22007"
   :flavor "Another man's treasure."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 7
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -218,7 +218,7 @@
  {:card-id "giordano-memorial-field"
   :code "22033"
   :flavor "The world changed. Concession prices did not."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 33
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -276,7 +276,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "acme-consulting-the-truth-you-need"
   :code "22042"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 42
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -331,7 +331,7 @@
  {:card-id "the-outfit-family-owned-and-operated"
   :code "22050"
   :flavor "We do things our way."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 50
   :quantity 1
   :set-id "reign-and-reverie"}
@@ -343,7 +343,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "drudge-work"
   :code "22052"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 52
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -382,7 +382,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "lady-liberty"
   :code "22058"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 58
   :quantity 1
   :set-id "reign-and-reverie"}]

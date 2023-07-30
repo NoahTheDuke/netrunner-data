@@ -4,9 +4,9 @@
  :id "white-hat"
  :influence-cost 5
  :side :runner
- :stripped-text "Play only if you made a successful run on a central server this turn. Force the Corp to \"trace 3 If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\""
+ :stripped-text "Play only if you made a successful run on a central server this turn. Force the Corp to \"Trace[3]. If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\""
  :stripped-title "White Hat"
- :text "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"<trace>trace 3</trace> If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\""
+ :text "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"Trace[3]. If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\""
  :title "White Hat"
  :type :event
  :uniqueness false}

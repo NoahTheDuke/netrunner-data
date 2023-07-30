@@ -4,10 +4,10 @@
  :faction :nbn
  :id "award-bait"
  :side :corp
- :stripped-text "If Award Bait is accessed from R&D, the Runner must reveal it. When the Runner accesses Award Bait, you may place up to 2 advancement tokens on a card that can be advanced."
+ :stripped-text "While the Runner is accessing this agenda in R&D, they must reveal it. When the Runner accesses this agenda, you may place up to 2 advancement counters on 1 installed card you can advance."
  :stripped-title "Award Bait"
  :subtype [:sensie]
- :text "If Award Bait is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Award Bait, you may place up to 2 advancement tokens on a card that can be advanced."
+ :text "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda, you may place up to 2 advancement counters on 1 installed card you can advance."
  :title "Award Bait"
  :type :agenda
  :uniqueness false}

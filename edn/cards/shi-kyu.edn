@@ -4,10 +4,10 @@
  :id "shi-kyu"
  :influence-cost 4
  :side :corp
- :stripped-text "When the Runner accesses this asset anywhere except in R&D, you may pay X credits. The Runner must either take X net damage or add this asset to their score area as an agenda worth -1 agenda point."
+ :stripped-text "When the Runner accesses this asset anywhere except in R&D, you may pay X credits. The Runner must either suffer X net damage or add this asset to their score area as an agenda worth -1 agenda point."
  :stripped-title "Shi.Kyu"
  :subtype [:ambush]
- :text "When the Runner accesses this asset anywhere except in R&D, you may pay X[credit]. The Runner must either take X net damage or add this asset to their score area as an agenda worth -1 agenda point."
+ :text "When the Runner accesses this asset anywhere except in R&D, you may pay X[credit]. The Runner must either suffer X net damage or add this asset to their score area as an agenda worth -1 agenda point."
  :title "Shi.Kyū"
  :trash-cost 0
  :type :asset

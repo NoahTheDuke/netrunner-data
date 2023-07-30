@@ -5,9 +5,10 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
- :stripped-text "Install Kyuban only on a piece of ice. Gain 2 credits whenever you pass host ice."
+ :stripped-text "Install only on a piece of ice. Whenever you pass host ice, gain 2 credits."
  :stripped-title "Kyuban"
- :text "Install Kyuban only on a piece of ice.\nGain 2[credit] whenever you pass host ice."
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nWhenever you pass host ice, gain 2[credit]."
  :title "Kyuban"
  :type :program
  :uniqueness false}

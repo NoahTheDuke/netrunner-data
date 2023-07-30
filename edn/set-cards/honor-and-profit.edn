@@ -1,20 +1,20 @@
 [{:card-id "harmony-medtech-biomedical-pioneer"
   :code "05001"
   :flavor "Evolving a Better You."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 1
   :quantity 3
   :set-id "honor-and-profit"}
  {:card-id "nisei-division-the-next-generation"
   :code "05002"
   :flavor "Perfecting the Imperfect."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 2
   :quantity 3
   :set-id "honor-and-profit"}
  {:card-id "tennin-institute-the-secrets-within"
   :code "05003"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 3
   :quantity 3
   :set-id "honor-and-profit"}
@@ -131,7 +131,7 @@
  {:card-id "neotokyo-grid"
   :code "05021"
   :flavor "It is difficult to go to Japan without ending up in the sprawl of NeoTokyo."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 21
   :quantity 3
   :set-id "honor-and-profit"}
@@ -165,7 +165,7 @@
  {:card-id "diversified-portfolio"
   :code "05026"
   :flavor "YucaBean has seen astounding growth in even the most remote markets."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 26
   :quantity 3
   :set-id "honor-and-profit"}
@@ -247,7 +247,7 @@
  {:card-id "public-terminal"
   :code "05038"
   :flavor "Express loved libraries. The consoles were weak, but the security even weaker. He wirelessly loaded up his personal blend of code and started cloning the drive. In just a few minutes, another zombie would claw its way to the surface of cyberspace."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 38
   :quantity 3
   :set-id "honor-and-profit"}

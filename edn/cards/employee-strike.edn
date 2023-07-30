@@ -4,10 +4,10 @@
  :id "employee-strike"
  :influence-cost 1
  :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. The Corp's identity text box is blank."
+ :stripped-text "This event is not trashed until another current is played or an agenda is scored. The Corp's identity loses its printed abilities."
  :stripped-title "Employee Strike"
  :subtype [:current]
- :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank."
+ :text "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity loses its printed abilities."
  :title "Employee Strike"
  :type :event
  :uniqueness false}

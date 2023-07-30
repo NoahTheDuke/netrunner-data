@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "a-teia-ip-recovery"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Limit 2 remote servers. The first time each turn you install a card in the root of or protecting a remote server, you may install 1 card from HQ in the root of or protecting another remote server, ignoring all costs. You cannot score the second card this turn."
+ :stripped-title "A Teia: IP Recovery"
+ :subtype [:division]
+ :text "Limit 2 remote servers.\nThe first time each turn you install a card in the root of or protecting a remote server, you may install 1 card from HQ in the root of or protecting another remote server, ignoring all costs. You cannot score the second card this turn."
+ :title "A Teia: IP Recovery"
+ :type :identity
+ :uniqueness false}

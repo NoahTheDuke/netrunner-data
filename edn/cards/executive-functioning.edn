@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 1
- :stripped-text "Subroutine Trace[4]. If successful, do 1 brain damage."
+ :stripped-text "Subroutine Trace[4]. If successful, do 1 core damage."
  :stripped-title "Executive Functioning"
  :subtype [:code-gate :ap :tracer]
- :text "[subroutine] Trace[4]. If successful, do 1 brain damage."
+ :text "[subroutine] Trace[4]. If successful, do 1 core damage."
  :title "Executive Functioning"
  :type :ice
  :uniqueness false}

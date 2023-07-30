@@ -4,10 +4,10 @@
  :id "space-camp"
  :influence-cost 1
  :side :corp
- :stripped-text "If Space Camp is accessed from R&D, the Runner must reveal it. When the Runner accesses Space Camp, you may place 1 advancement token on a card that can be advanced."
+ :stripped-text "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, you may place 1 advancement counter on an installed card you can advance."
  :stripped-title "Space Camp"
  :subtype [:ambush]
- :text "If Space Camp is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Space Camp, you may place 1 advancement token on a card that can be advanced."
+ :text "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, you may place 1 advancement counter on an installed card you can advance."
  :title "Space Camp"
  :trash-cost 3
  :type :asset

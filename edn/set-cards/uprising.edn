@@ -1,6 +1,6 @@
 [{:card-id "hoshiko-shiro-untold-protagonist"
   :code "26066"
-  :flavor "Please, let me have this dream.\nFlip side:\nI'm going to be my own kind of hero."
+  :flavor "Please, let me have this dream.\nI'm going to be my own kind of hero."
   :illustrator "Luminita Pham"
   :position 66
   :quantity 3
@@ -371,7 +371,7 @@
   :set-id "uprising"}
  {:card-id "earth-station-sea-headquarters"
   :code "26120"
-  :flavor "The First Step...\nFlip side:\n...Further Beyond"
+  :flavor "The First Step...\n...Further Beyond"
   :illustrator "Kira L. Nguyen"
   :position 120
   :quantity 3

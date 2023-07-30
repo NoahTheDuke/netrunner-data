@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "capybara"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Whenever you bypass a piece of ice, you may remove this hardware from the game to derez that ice."
+ :stripped-title "Capybara"
+ :text "Whenever you bypass a piece of ice, you may remove this hardware from the game to derez that ice."
+ :title "Capybara"
+ :type :hardware
+ :uniqueness true}

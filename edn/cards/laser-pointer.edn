@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "laser-pointer"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Whenever you encounter a piece of AP, destroyer, or observer ice, you may trash this program to bypass that ice."
+ :stripped-title "Laser Pointer"
+ :subtype [:weapon]
+ :text "Whenever you encounter a piece of <strong>AP</strong>, <strong>destroyer</strong>, or <strong>observer</strong> ice, you may trash this program to bypass that ice."
+ :title "Laser Pointer"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "cybersand-harvester"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Whenever you rez a piece of ice, place 2 credits on this asset. You can spend hosted credits to pay install costs. trash: Take all credits from this asset."
+ :stripped-title "Cybersand Harvester"
+ :text "Whenever you rez a piece of ice, place 2[credit] on this asset.\nYou can spend hosted credits to pay install costs.\n[trash]<strong>:</strong> Take all credits from this asset."
+ :title "Cybersand Harvester"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

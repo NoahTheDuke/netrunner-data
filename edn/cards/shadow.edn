@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 1
- :stripped-text "Shadow can be advanced and has +1 strength for each advancement token on it. Subroutine The Corp gains 2 credits. Subroutine Trace 3 If successful, give the Runner 1 tag."
+ :stripped-text "Shadow can be advanced and has +1 strength for each advancement token on it. Subroutine The Corp gains 2 credits. Subroutine Trace[3]. If successful, give the Runner 1 tag."
  :stripped-title "Shadow"
  :subtype [:sentry :tracer]
- :text "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag."
+ :text "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trace[3]. If successful, give the Runner 1 tag."
  :title "Shadow"
  :type :ice
  :uniqueness false}

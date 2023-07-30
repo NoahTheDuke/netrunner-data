@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "your-digital-life"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Gain 1 credit for each card in HQ."
+ :stripped-title "Your Digital Life"
+ :subtype [:transaction]
+ :text "Gain 1[credit] for each card in HQ."
+ :title "Your Digital Life"
+ :type :operation
+ :uniqueness false}

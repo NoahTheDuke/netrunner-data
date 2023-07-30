@@ -6,7 +6,7 @@
  :side :runner
  :stripped-text "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice. trash: Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack."
  :stripped-title "Boomerang"
- :text "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]: Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack."
+ :text "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]<strong>:</strong> Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack."
  :title "Boomerang"
  :type :hardware
  :uniqueness true}

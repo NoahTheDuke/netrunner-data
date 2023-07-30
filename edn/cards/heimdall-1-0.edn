@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 6
- :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run. Subroutine End the run."
+ :stripped-text "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run. Subroutine End the run."
  :stripped-title "Heimdall 1.0"
  :subtype [:barrier :bioroid :ap]
- :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.\n[subroutine] End the run."
+ :text "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Heimdall 1.0"
  :type :ice
  :uniqueness false}

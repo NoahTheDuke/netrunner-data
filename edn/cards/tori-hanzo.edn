@@ -4,10 +4,10 @@
  :id "tori-hanzo"
  :influence-cost 4
  :side :corp
- :stripped-text "Interrupt -> The first time you would do 1 or more net damage during each run on this server, instead you may pay 2 credits to do 1 brain damage."
+ :stripped-text "Interrupt -> The first time you would do 1 or more net damage during each run against this server, instead you may pay 2 credits to do 1 core damage."
  :stripped-title "Tori Hanzo"
  :subtype [:sysop]
- :text "[interrupt] → The first time you would do 1 or more net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage."
+ :text "[interrupt] → The first time you would do 1 or more net damage during each run against this server, instead you may pay 2[credit] to do 1 core damage."
  :title "Tori Hanzō"
  :trash-cost 2
  :type :upgrade

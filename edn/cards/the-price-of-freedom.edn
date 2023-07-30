@@ -4,9 +4,9 @@
  :id "the-price-of-freedom"
  :influence-cost 2
  :side :runner
- :stripped-text "As an additional cost to play this event, trash 1 installed connection resource. The Corp cannot advance cards during their next turn.  Remove this event from the game."
+ :stripped-text "As an additional cost to play this event, trash 1 installed connection resource. The Corp cannot advance cards during their next turn. Remove this event from the game."
  :stripped-title "The Price of Freedom"
- :text "As an additional cost to play this event, trash 1 installed <strong>connection</strong> resource.\nThe Corp cannot advance cards during their next turn. \nRemove this event from the game."
+ :text "As an additional cost to play this event, trash 1 installed <strong>connection</strong> resource.\nThe Corp cannot advance cards during their next turn.\nRemove this event from the game."
  :title "The Price of Freedom"
  :type :event
  :uniqueness false}

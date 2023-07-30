@@ -121,14 +121,14 @@
  {:card-id "ngo-front"
   :code "21039"
   :flavor "\"Who knew non-profits could be so profitable?\""
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 39
   :quantity 3
   :set-id "down-the-white-nile"}
  {:card-id "distract-the-masses"
   :code "21040"
   :flavor "\"Food. Drinks. Entertainment. It doesn't take much to gratify the bourgeoisie.\""
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 40
   :quantity 3
   :set-id "down-the-white-nile"}]

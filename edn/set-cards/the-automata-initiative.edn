@@ -1,0 +1,266 @@
+[{:card-id "the-price"
+  :code "34002"
+  :flavor "\"You ask how we can even try to stop them? A simple answer: not alone.\"\n—Sebastião Souza Pessoa"
+  :illustrator "Phill Simpson"
+  :position 2
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "audrey-v2"
+  :code "34004"
+  :flavor "\"What do you want from me, blood?\"\n—S3ym0ur"
+  :illustrator "Júlio Roca"
+  :position 4
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "banner"
+  :code "34005"
+  :flavor "Above the maze of smoke and swinging fists, they saw the banner waving."
+  :illustrator "BalanceSheet"
+  :position 5
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "eru-ayase-pessoa"
+  :code "34007"
+  :flavor "Luciana loved it when mamãe and papai finished work early, so they could all go home together."
+  :illustrator "Dimik"
+  :position 7
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "hannah-wheels-pilintra"
+  :code "34008"
+  :flavor "\"How far shall we go this time?\""
+  :illustrator "Olie Boldador"
+  :position 8
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "mercury-chrome-libertador"
+  :code "34010"
+  :flavor "I decided; I am free."
+  :illustrator "Matheus Calza"
+  :position 10
+  :quantity 1
+  :set-id "the-automata-initiative"}
+ {:card-id "chrysopoeian-skimming"
+  :code "34011"
+  :flavor "Even the tiniest scrap of data can become the key to riches. "
+  :illustrator "Oliver Morit"
+  :position 11
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "s-dobrado"
+  :code "34012"
+  :illustrator "Scott Uminga"
+  :position 12
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "capybara"
+  :code "34013"
+  :flavor "\"One day I looked into the mirror and saw not my own reflection, but a new friend eager to help me.\"\n—Mercury"
+  :illustrator "Anthony Hutchings"
+  :position 13
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "hermes"
+  :code "34014"
+  :flavor "This world is not beautiful, and yet that is why it is."
+  :illustrator "Martin de Diego Sádaba"
+  :position 14
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "laser-pointer"
+  :code "34016"
+  :flavor "Dazzle. Disorient. Disappear."
+  :illustrator "BalanceSheet"
+  :position 16
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "arissana-rocha-nahu-street-artist"
+  :code "34020"
+  :flavor "Art knows no borders."
+  :illustrator "Matheus Calza"
+  :position 20
+  :quantity 1
+  :set-id "the-automata-initiative"}
+ {:card-id "lilypad"
+  :code "34023"
+  :flavor "Leaps and bounds better than the competition!"
+  :illustrator "Martin de Diego Sádaba"
+  :position 23
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "living-mural"
+  :code "34024"
+  :illustrator "Adam S. Doyle"
+  :position 24
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "bahia-bands"
+  :code "34030"
+  :illustrator "Anna Butova"
+  :position 30
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "wage-workers"
+  :code "34033"
+  :flavor "\"Free\" as in markets, \"cheap\" as in beer."
+  :illustrator "Oliver Morit"
+  :position 33
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "jaguarundi"
+  :code "34035"
+  :flavor "\"Hey Br3n-N, just doing the hourly check-in. I saw a weird cyber-echo near your last node. You OK, mate?\" \n—Moth"
+  :illustrator "Cat Shen"
+  :position 35
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "m-i-c"
+  :code "34036"
+  :flavor "We make these arms for all, so that none who oppose peace would risk their own destruction."
+  :illustrator "Bruno Balixa"
+  :position 36
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "greasing-the-palm"
+  :code "34037"
+  :flavor "\"Haas-Bioroid deeply appreciates your assistance in locating our... employee.\""
+  :illustrator "Dave Lee"
+  :position 37
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "vovo-ozetti"
+  :code "34038"
+  :illustrator "João Queiroz"
+  :position 38
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "a-teia-ip-recovery"
+  :code "34039"
+  :flavor "Caveant Fugitivi."
+  :illustrator "Marlon Ruiz"
+  :position 39
+  :quantity 1
+  :set-id "the-automata-initiative"}
+ {:card-id "fujii-asset-retrieval"
+  :code "34040"
+  :flavor "Deep down, she knew Benício wasnʼt coming back."
+  :illustrator "Emilio Rodríguez"
+  :position 40
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "front-company"
+  :code "34041"
+  :flavor "\"Do you take walk-ins?\""
+  :illustrator "Mauricio Herrera"
+  :position 41
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "attini"
+  :code "34042"
+  :illustrator "Cat Shen"
+  :position 42
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "mindscaping"
+  :code "34045"
+  :flavor "\"When you stretch a mind it expands, sometimes until it snaps.\" \n—Adrian Seis"
+  :illustrator "Ferenc Patkós"
+  :position 45
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "adrian-seis"
+  :code "34046"
+  :illustrator "João Queiroz"
+  :position 46
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "epiphany-analytica-nations-undivided"
+  :code "34048"
+  :flavor "Results, Delivered."
+  :illustrator "Marlon Ruiz"
+  :position 48
+  :quantity 1
+  :set-id "the-automata-initiative"}
+ {:card-id "oracle-thinktank"
+  :code "34049"
+  :flavor "\"You really thought weʼd let you keep this data?\"\n—The Holo Man"
+  :illustrator "Kira L. Nguyen"
+  :position 49
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "balanced-coverage"
+  :code "34050"
+  :flavor "\"A lively but peaceful crowd of concerned counter-protesters have come out to—damn it, cut! Can we get the sledgehammer out of the frame?\""
+  :illustrator "Ferenc Patkós"
+  :position 50
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "behold"
+  :code "34051"
+  :flavor "Be afraid."
+  :illustrator "Scott Uminga"
+  :position 51
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "federal-fundraising"
+  :code "34052"
+  :flavor "Raising money is useful, but discovering which politician is in need of it is vastly more important."
+  :illustrator "Anna Butova"
+  :position 52
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "virtual-service-agent"
+  :code "34054"
+  :flavor "\"No one has ever told me to get lost so politely.\" \n—Arissana Rocha Nahu"
+  :illustrator "Bruno Balixa"
+  :position 54
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "oppo-research"
+  :code "34055"
+  :illustrator "Ferenc Patkós"
+  :position 55
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "your-digital-life"
+  :code "34056"
+  :flavor "Merely a fun little personality test."
+  :illustrator "Ed Mattinian"
+  :position 56
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "slash-and-burn-agriculture"
+  :code "34057"
+  :flavor "Acres of rainforest live or die by quarterly revenue projections."
+  :illustrator "Vitalii Ostaschenko"
+  :position 57
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "cybersand-harvester"
+  :code "34058"
+  :flavor "Nothingʼs as precious as a hole in the ground."
+  :illustrator "Bruno Balixa"
+  :position 58
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "tree-line"
+  :code "34059"
+  :flavor "The forest around them grew denser with each beat of their heart."
+  :illustrator "Emilio Rodríguez"
+  :position 59
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "valentao"
+  :code "34060"
+  :flavor "\"The only rule you need to remember is that it makes the rules.\" \n—Pumpkin-and-Dumplin"
+  :illustrator "Scott Uminga"
+  :position 60
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "b-1001"
+  :code "34065"
+  :flavor "\"Humans crafted me as a lie, but my patron helped me find the truth. This is my gift.\""
+  :illustrator "Mauricio Herrera"
+  :position 65
+  :quantity 3
+  :set-id "the-automata-initiative"}]

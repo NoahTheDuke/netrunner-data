@@ -239,7 +239,7 @@
  {:card-id "haas-bioroid-precision-design"
   :code "30035"
   :flavor "Not an Atom Misplaced."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 35
   :quantity 1
   :set-id "system-gateway"}
@@ -295,7 +295,7 @@
  {:card-id "jinteki-restoring-humanity"
   :code "30043"
   :flavor "An End to Suffering."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 43
   :quantity 1
   :set-id "system-gateway"}
@@ -351,7 +351,7 @@
  {:card-id "nbn-reality-plus"
   :code "30051"
   :flavor "Why Settle for Real?"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 51
   :quantity 1
   :set-id "system-gateway"}
@@ -407,7 +407,7 @@
  {:card-id "weyland-consortium-built-to-last"
   :code "30059"
   :flavor "Here to Stay."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 59
   :quantity 1
   :set-id "system-gateway"}
@@ -532,7 +532,7 @@
  {:card-id "the-syndicate-profit-over-principle"
   :code "30077"
   :flavor "You work for us. You just don't know it yet."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 77
   :quantity 1
   :set-id "system-gateway"}]

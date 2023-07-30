@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "living-mural"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "Install only on a piece of ice. Threat 4 -> When you install this program, it gets +3 strength for the remainder of the turn. (This ability is active if any player has 4 or more agenda points.) Interface -> 1 credit: Break 1 subroutine on a sentry protecting this server. 1 credit: +2 strength."
+ :stripped-title "Living Mural"
+ :subtype [:icebreaker :killer :trojan]
+ :text "Install only on a piece of ice.\nThreat 4 → When you install this program, it gets +3 strength for the remainder of the turn. <em>(This ability is active if any player has 4 or more agenda points.)</em>\nInterface → <strong>1[credit]:</strong> Break 1 subroutine on a <strong>sentry</strong> protecting this server.\n<strong>1[credit]:</strong> +2 strength."
+ :title "Living Mural"
+ :type :program
+ :uniqueness false}

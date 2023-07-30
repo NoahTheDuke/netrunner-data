@@ -4,10 +4,10 @@
  :id "hatchet-job"
  :influence-cost 2
  :side :corp
- :stripped-text "As an additional cost to play this operation, spend click. Trace 5 If successful, add an installed non-virtual card to the Runner's grip."
+ :stripped-text "As an additional cost to play this operation, spend click. Trace[5]. If successful, add an installed non-virtual card to the Runner's grip."
  :stripped-title "Hatchet Job"
  :subtype [:double :gray-ops]
- :text "As an additional cost to play this operation, spend [click].\n<trace>Trace 5</trace> If successful, add an installed non-<strong>virtual</strong> card to the Runner's grip."
+ :text "As an additional cost to play this operation, spend [click].\nTrace[5]. If successful, add an installed non-<strong>virtual</strong> card to the Runner's grip."
  :title "Hatchet Job"
  :trash-cost 0
  :type :operation

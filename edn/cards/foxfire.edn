@@ -4,9 +4,9 @@
  :id "foxfire"
  :influence-cost 0
  :side :corp
- :stripped-text "Trace 7 If successful, trash 1 virtual resource or 1 link."
+ :stripped-text "Trace[7]. If successful, trash 1 virtual resource or 1 link."
  :stripped-title "Foxfire"
- :text "<trace>Trace 7</trace> If successful, trash 1 <strong>virtual</strong> resource or 1 <strong>link</strong>."
+ :text "Trace[7]. If successful, trash 1 <strong>virtual</strong> resource or 1 <strong>link</strong>."
  :title "Foxfire"
  :type :operation
  :uniqueness false}

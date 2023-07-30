@@ -4,10 +4,10 @@
  :id "old-hollywood-grid"
  :influence-cost 2
  :side :corp
- :stripped-text "Persistent -> The Runner cannot steal agendas from this server. Ignore this ability for any agenda the Runner has a copy of in their score area. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.) Limit 1 region per server."
+ :stripped-text "Persistent -> The Runner cannot steal agendas from this server or its root. Ignore this ability for any agenda the Runner has a copy of in their score area. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.) Limit 1 region per server."
  :stripped-title "Old Hollywood Grid"
  :subtype [:region]
- :text "Persistent → The Runner cannot steal agendas from this server. Ignore this ability for any agenda the Runner has a copy of in their score area. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>\nLimit 1 <strong>region</strong> per server."
+ :text "Persistent → The Runner cannot steal agendas from this server or its root. Ignore this ability for any agenda the Runner has a copy of in their score area. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>\nLimit 1 <strong>region</strong> per server."
  :title "Old Hollywood Grid"
  :trash-cost 4
  :type :upgrade

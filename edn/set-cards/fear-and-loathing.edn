@@ -109,7 +109,7 @@
  {:card-id "grndl-power-unleashed"
   :code "04097"
   :flavor "<strong>G</strong>eostrategic <strong>R</strong>esearch and <strong>N</strong>eothermal <strong>D</strong>evelopment <strong>L</strong>aboratories"
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 97
   :quantity 3
   :set-id "fear-and-loathing"}
@@ -123,7 +123,7 @@
  {:card-id "grndl-refinery"
   :code "04099"
   :flavor "GRNDL refineries process many different rare elements unearthed during the fracking process."
-  :illustrator "Emilio Rodriguez"
+  :illustrator "Emilio Rodríguez"
   :position 99
   :quantity 3
   :set-id "fear-and-loathing"}

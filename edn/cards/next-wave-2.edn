@@ -4,10 +4,10 @@
  :faction :haas-bioroid
  :id "next-wave-2"
  :side :corp
- :stripped-text "If there is a rezzed piece of NEXT ice when you score NEXT Wave 2, you may do 1 brain damage."
+ :stripped-text "When you score this agenda, if there is a rezzed piece of NEXT ice, you may do 1 core damage."
  :stripped-title "NEXT Wave 2"
  :subtype [:next]
- :text "If there is a rezzed piece of <strong>NEXT</strong> ice when you score NEXT Wave 2, you may do 1 brain damage."
+ :text "When you score this agenda, if there is a rezzed piece of <strong>NEXT</strong> ice, you may do 1 core damage."
  :title "NEXT Wave 2"
  :type :agenda
  :uniqueness false}
