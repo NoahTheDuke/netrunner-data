@@ -1,8 +1,22 @@
-[{:card-id "the-price"
+[{:card-id "strike-fund"
+  :code "34001"
+  :flavor "\"If you want to put your money where your mouth is, there are some picketers who could use your support.\""
+  :illustrator "Phill Simpson"
+  :position 1
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "the-price"
   :code "34002"
   :flavor "\"You ask how we can even try to stop them? A simple answer: not alone.\"\n—Sebastião Souza Pessoa"
   :illustrator "Phill Simpson"
   :position 2
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "solidarity-badge"
+  :code "34003"
+  :flavor "It is hard, once free, to learn when to call for help."
+  :illustrator "Anna Butova"
+  :position 3
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "audrey-v2"
@@ -19,6 +33,13 @@
   :position 5
   :quantity 3
   :set-id "the-automata-initiative"}
+ {:card-id "monkeywrench"
+  :code "34006"
+  :flavor "Random sabotage accomplishes little; better to strike their weakest points again and again."
+  :illustrator "Ed Mattinian"
+  :position 6
+  :quantity 3
+  :set-id "the-automata-initiative"}
  {:card-id "eru-ayase-pessoa"
   :code "34007"
   :flavor "Luciana loved it when mamãe and papai finished work early, so they could all go home together."
@@ -31,6 +52,13 @@
   :flavor "\"How far shall we go this time?\""
   :illustrator "Olie Boldador"
   :position 8
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "lago-paranoa-shelter"
+  :code "34009"
+  :flavor "\"Animals, tea, meetings, dead drops. Paranoá has you covered, so we keep them covered.\"\n—Sebastião Souza Pessoa"
+  :illustrator "Dimik"
+  :position 9
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "mercury-chrome-libertador"
@@ -67,11 +95,38 @@
   :position 14
   :quantity 3
   :set-id "the-automata-initiative"}
+ {:card-id "curupira"
+  :code "34015"
+  :flavor "Take only what you need."
+  :illustrator "Júlio Roca"
+  :position 15
+  :quantity 3
+  :set-id "the-automata-initiative"}
  {:card-id "laser-pointer"
   :code "34016"
   :flavor "Dazzle. Disorient. Disappear."
   :illustrator "BalanceSheet"
   :position 16
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "saci"
+  :code "34017"
+  :flavor "I am life, I am sun, \nIʼm a trap, Iʼm a gun,\nIʼm the wind in the dust,\nIʼm the devil that you trust."
+  :illustrator "Anthony Hutchings"
+  :position 17
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "shibboleth"
+  :code "34018"
+  :flavor "\"Corporate security regards me as merely another Nico, and that shall ever be their mistake.\"\n—Mercury"
+  :illustrator "Ed Mattinian"
+  :position 18
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "debbie-downtown-moreira"
+  :code "34019"
+  :illustrator "Wyn Lacabra"
+  :position 19
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "arissana-rocha-nahu-street-artist"
@@ -80,6 +135,19 @@
   :illustrator "Matheus Calza"
   :position 20
   :quantity 1
+  :set-id "the-automata-initiative"}
+ {:card-id "joy-ride"
+  :code "34021"
+  :flavor "<strong>Designed by 2020 American Continental Champion Jason Ford</strong>"
+  :illustrator "João Queiroz"
+  :position 21
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "airbladex-jsrf-ed"
+  :code "34022"
+  :illustrator "Martin de Diego Sádaba"
+  :position 22
+  :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "lilypad"
   :code "34023"
@@ -94,10 +162,59 @@
   :position 24
   :quantity 3
   :set-id "the-automata-initiative"}
+ {:card-id "pichacao"
+  :code "34025"
+  :flavor "\"From up here, I can see everything. And from down there, everyone can see this.\" \n—Víbora"
+  :illustrator "Adam S. Doyle"
+  :position 25
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "slap-vandal"
+  :code "34026"
+  :flavor "\"I consider it an improvement.\" \n—Arissana Rocha Nahu"
+  :illustrator "Adam S. Doyle"
+  :position 26
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "umbrella"
+  :code "34027"
+  :flavor "\"However bad it gets out there, know that weʼll still have each other.\" \n—Tom \"Spider\" Milhas"
+  :illustrator "BalanceSheet"
+  :position 27
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "beatriz-friere-gonzalez"
+  :code "34028"
+  :flavor "\"And who can tell me what sort of practical applications this has?\""
+  :illustrator "Wyn Lacabra"
+  :position 28
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "urban-art-vernissage"
+  :code "34029"
+  :flavor "\"...and here, we can see an excellent example of meta neo-Gemeosianism.\""
+  :illustrator "Oliver Morit"
+  :position 29
+  :quantity 3
+  :set-id "the-automata-initiative"}
  {:card-id "bahia-bands"
   :code "34030"
   :illustrator "Anna Butova"
   :position 30
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "salvo-testing"
+  :code "34031"
+  :flavor "\"Yes, that explosion was quite loud. May I pour you another drink?\""
+  :illustrator "Kira L. Nguyen"
+  :position 31
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "stegodon-mk-iv"
+  :code "34032"
+  :flavor "Exceeding expectations for armor superiority."
+  :illustrator "Vitalii Ostaschenko"
+  :position 32
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "wage-workers"
@@ -105,6 +222,12 @@
   :flavor "\"Free\" as in markets, \"cheap\" as in beer."
   :illustrator "Oliver Morit"
   :position 33
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "ablative-barrier"
+  :code "34034"
+  :illustrator "Ed Mattinian"
+  :position 34
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "jaguarundi"
@@ -161,6 +284,20 @@
   :position 42
   :quantity 3
   :set-id "the-automata-initiative"}
+ {:card-id "phoneutria"
+  :code "34043"
+  :flavor "The construct turns to you, eyes wild. \"Beloved,\" it asks, \"is that you?\""
+  :illustrator "Marlon Ruiz"
+  :position 43
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "tatu-bola"
+  :code "34044"
+  :flavor "Next!\n<strong>Designed by 2020 Intercontinental Champion Yannick Stucki</strong>"
+  :illustrator "Cat Shen"
+  :position 44
+  :quantity 3
+  :set-id "the-automata-initiative"}
  {:card-id "mindscaping"
   :code "34045"
   :flavor "\"When you stretch a mind it expands, sometimes until it snaps.\" \n—Adrian Seis"
@@ -172,6 +309,13 @@
   :code "34046"
   :illustrator "João Queiroz"
   :position 46
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "daniela-jorge-inacio"
+  :code "34047"
+  :flavor "\"They call me turncoat. I call them broke.\""
+  :illustrator "Clara Kaufmann"
+  :position 47
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "epiphany-analytica-nations-undivided"
@@ -207,6 +351,13 @@
   :flavor "Raising money is useful, but discovering which politician is in need of it is vastly more important."
   :illustrator "Anna Butova"
   :position 52
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "starlit-knight"
+  :code "34053"
+  :flavor "An exemplar of Starlightʼs hubris, it stands vigil over secrets of hypocrisy."
+  :illustrator "Jakuza"
+  :position 53
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "virtual-service-agent"
@@ -255,6 +406,33 @@
   :flavor "\"The only rule you need to remember is that it makes the rules.\" \n—Pumpkin-and-Dumplin"
   :illustrator "Scott Uminga"
   :position 60
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "armed-asset-protection"
+  :code "34061"
+  :flavor "\"Nuvem pays us to guard this land, and thatʼs all there is to it.\" \n—Angelique Garza Correa"
+  :illustrator "Olie Boldador"
+  :position 61
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "pivot"
+  :code "34062"
+  :illustrator "Mauricio Herrera"
+  :position 62
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "angelique-garza-correa"
+  :code "34063"
+  :flavor "\"Shoot!\""
+  :illustrator "Olie Boldador"
+  :position 63
+  :quantity 3
+  :set-id "the-automata-initiative"}
+ {:card-id "tucana"
+  :code "34064"
+  :flavor "Their mouths are ever open, blaring sirens never to cease."
+  :illustrator "Liiga Smilshkalne"
+  :position 64
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "b-1001"

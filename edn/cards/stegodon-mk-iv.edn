@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "stegodon-mk-iv"
+ :side :corp
+ :stripped-text "Each run, as long as a piece of ice has been derezzed during that run, each installed icebreaker gets 2 strength. Whenever a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1 credit. Use this ability only once per turn."
+ :stripped-title "Stegodon MK IV"
+ :subtype [:security]
+ :text "Each run, as long as a piece of ice has been derezzed during that run, each installed <strong>icebreaker</strong> gets −2 strength.\nWhenever a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1[credit]. Use this ability only once per turn."
+ :title "Stegodon MK IV"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "lago-paranoa-shelter"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "The first time each turn the Corp installs a card in the root of a server, you may trash the top card of your stack to draw 1 card."
+ :stripped-title "Lago Paranoa Shelter"
+ :subtype [:connection :location]
+ :text "The first time each turn the Corp installs a card in the root of a server, you may trash the top card of your stack to draw 1 card."
+ :title "Lago Paranoá Shelter"
+ :type :resource
+ :uniqueness true}

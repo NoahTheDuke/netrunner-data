@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "pichacao"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. Whenever you pass host ice, you may gain click. If this is not the first time you gained click during a run this turn, add this program to your grip."
+ :stripped-title "Pichacao"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nWhenever you pass host ice, you may gain [click]. If this is not the first time you gained [click] during a run this turn, add this program to your grip."
+ :title "Pichação"
+ :type :program
+ :uniqueness false}

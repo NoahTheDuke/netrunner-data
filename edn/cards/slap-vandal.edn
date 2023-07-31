@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "slap-vandal"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 6
+ :stripped-text "Install only on a piece of ice. Interface -> 1 credit: Break 1 subroutine on host ice. Use this ability only once per encounter."
+ :stripped-title "Slap Vandal"
+ :subtype [:icebreaker :ai :trojan]
+ :text "Install only on a piece of ice.\nInterface → <strong>1[credit]:</strong> Break 1 subroutine on host ice. Use this ability only once per encounter."
+ :title "Slap Vandal"
+ :type :program
+ :uniqueness false}

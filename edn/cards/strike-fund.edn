@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "strike-fund"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Gain 4 credits. When this event is trashed from your grip or stack, you may gain 2 credits."
+ :stripped-title "Strike Fund"
+ :text "Gain 4[credit].\nWhen this event is trashed from your grip or stack, you may gain 2[credit]."
+ :title "Strike Fund"
+ :type :event
+ :uniqueness false}

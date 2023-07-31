@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "monkeywrench"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. Host ice gets 2 strength. Each other piece of ice protecting this server gets 1 strength."
+ :stripped-title "Monkeywrench"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nHost ice gets −2 strength. Each other piece of ice protecting this server gets −1 strength."
+ :title "Monkeywrench"
+ :type :program
+ :uniqueness false}

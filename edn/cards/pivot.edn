@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "pivot"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Search R&D for 1 operation or agenda and reveal it. (Shuffle R&D after searching it.) Add that card to HQ. Threat 3 -> You may play or install 1 card from HQ. (This ability is active if any player has 3 or more agenda points.)"
+ :stripped-title "Pivot"
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nSearch R&D for 1 operation or agenda and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that card to HQ.\nThreat 3 → You may play or install 1 card from HQ. <em>(This ability is active if any player has 3 or more agenda points.)</em>"
+ :title "Pivot"
+ :trash-cost 3
+ :type :operation
+ :uniqueness false}

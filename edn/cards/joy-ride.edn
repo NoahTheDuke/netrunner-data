@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "joy-ride"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Run R&D. If successful, draw 5 cards."
+ :stripped-title "Joy Ride"
+ :subtype [:run]
+ :text "Run R&D. If successful, draw 5 cards."
+ :title "Joy Ride"
+ :type :event
+ :uniqueness false}

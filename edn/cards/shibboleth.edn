@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "shibboleth"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :stripped-text "Threat 4 -> This program gets 2 strength. (This ability is active if any player has 4 or more agenda points.) Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength."
+ :stripped-title "Shibboleth"
+ :subtype [:icebreaker :decoder]
+ :text "Threat 4 → This program gets −2 strength. <em>(This ability is active if any player has 4 or more agenda points.)</em>\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength."
+ :title "Shibboleth"
+ :type :program
+ :uniqueness false}

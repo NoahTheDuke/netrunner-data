@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "solidarity-badge"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "The first time each turn you trash a Corp card, place 1 power counter on this hardware. When your turn begins, you may remove 1 hosted power counter to draw 1 card or remove 1 tag."
+ :stripped-title "Solidarity Badge"
+ :subtype [:chip]
+ :text "The first time each turn you trash a Corp card, place 1 power counter on this hardware.\nWhen your turn begins, you may remove 1 hosted power counter to draw 1 card or remove 1 tag."
+ :title "Solidarity Badge"
+ :type :hardware
+ :uniqueness true}

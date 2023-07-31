@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "beatriz-friere-gonzalez"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "click click: Run HQ. If successful, instead of breaching HQ, breach R&D. When you do, access 1 additional card."
+ :stripped-title "Beatriz Friere Gonzalez"
+ :subtype [:connection]
+ :text "[click][click]<strong>:</strong> Run HQ. If successful, instead of breaching HQ, breach R&D. When you do, access 1 additional card."
+ :title "Beatriz Friere Gonzalez"
+ :type :resource
+ :uniqueness true}

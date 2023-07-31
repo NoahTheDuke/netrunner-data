@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "airbladex-jsrf-ed"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "When you install this hardware, load 3 power counters onto it. When it is empty, trash it. Interrupt -> Hosted power counter: Prevent 1 net damage. Use this ability only during a run. Interrupt -> Hosted power counter: Prevent a \"when encountered\" ability on a piece of ice."
+ :stripped-title "AirbladeX (JSRF Ed.)"
+ :subtype [:vehicle]
+ :text "When you install this hardware, load 3 power counters onto it. When it is empty, trash it.\n[interrupt] → <strong>Hosted power counter:</strong> Prevent 1 net damage. Use this ability only during a run.\n[interrupt] → <strong>Hosted power counter:</strong> Prevent a \"when encountered\" ability on a piece of ice."
+ :title "AirbladeX (JSRF Ed.)"
+ :type :hardware
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "salvo-testing"
+ :side :corp
+ :stripped-text "Whenever you score an agenda (including this one), you may do 1 core damage."
+ :stripped-title "Salvo Testing"
+ :subtype [:security]
+ :text "Whenever you score an agenda <em>(including this one)</em>, you may do 1 core damage."
+ :title "Salvo Testing"
+ :type :agenda
+ :uniqueness false}

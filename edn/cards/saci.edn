@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "saci"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. Whenever host ice is rezzed or derezzed, gain 3 credits."
+ :stripped-title "Saci"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nWhenever host ice is rezzed or derezzed, gain 3[credit]."
+ :title "Saci"
+ :type :program
+ :uniqueness false}

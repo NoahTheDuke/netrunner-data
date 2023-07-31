@@ -1163,10 +1163,10 @@
           "violet-level-clearance" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}}
-   :date-start "2023-08-11"
-   :format "standard"
-   :id "standard-ban-list-23-08"
-   :name "Standard Ban List 23.08"}
+  :date-start "2023-08-11"
+  :format "standard"
+  :id "standard-ban-list-23-08"
+  :name "Standard Ban List 23.08"}
  {:cards {"faust" {:deck-limit 0}
           "friends-in-high-places" {:deck-limit 0}
           "hired-help" {:deck-limit 0}
@@ -1254,11 +1254,11 @@
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
           "zer0" {:points 1}}
-  :point-limit 7
   :date-start "2021-07-21"
   :format "eternal"
   :id "eternal-points-1-0"
-  :name "Eternal Points 1.0"}
+  :name "Eternal Points 1.0"
+  :point-limit 7}
  {:cards {"24-7-news-cycle" {:points 1}
           "aaron-marron" {:points 1}
           "accelerated-diagnostics" {:deck-limit 0}
@@ -1307,13 +1307,12 @@
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
           "zer0" {:points 1}}
-  :point-limit 7
   :date-start "2021-08-28"
   :format "eternal"
   :id "eternal-points-2-0"
-  :name "Eternal Points 2.0"}
- {:cards {
-          ;; Corp
+  :name "Eternal Points 2.0"
+  :point-limit 7}
+ {:cards {;; Corp
           "24-7-news-cycle" {:points 1}
           "accelerated-diagnostics" {:deck-limit 0}
           "anoetic-void" {:points 1}
@@ -1341,7 +1340,6 @@
           "sting" {:points 1}
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
-
           ;; Runner
           "aaron-marron" {:points 1}
           "account-siphon" {:points 3}
@@ -1368,13 +1366,12 @@
           "temujin-contract" {:points 3}
           "watch-the-world-burn" {:deck-limit 0}
           "zer0" {:points 1}}
-  :point-limit 7
   :date-start "2021-11-12"
   :format "eternal"
   :id "eternal-points-list-21-11"
-  :name "Eternal Points List 21.11"}
- {:cards {
-          ;; Corp
+  :name "Eternal Points List 21.11"
+  :point-limit 7}
+ {:cards {;; Corp
           "24-7-news-cycle" {:points 1}
           "accelerated-diagnostics" {:deck-limit 0}
           "anoetic-void" {:points 1}
@@ -1404,7 +1401,6 @@
           "sting" {:points 1}
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
-
           ;; Runner
           "aaron-marron" {:points 1}
           "account-siphon" {:points 3}
@@ -1431,13 +1427,12 @@
           "temujin-contract" {:points 3}
           "watch-the-world-burn" {:deck-limit 0}
           "zer0" {:points 1}}
-  :point-limit 7
   :date-start "2022-09-26"
   :format "eternal"
   :id "eternal-points-list-22-09"
-  :name "Eternal Points List 22.09"}
-  {:cards {
-          ;; Corp
+  :name "Eternal Points List 22.09"
+  :point-limit 7}
+ {:cards {;; Corp
           "24-7-news-cycle" {:points 1}
           "accelerated-diagnostics" {:deck-limit 0}
           "anoetic-void" {:points 1}
@@ -1467,7 +1462,6 @@
           "sting" {:points 1}
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
-
           ;; Runner
           "aaron-marron" {:points 1}
           "account-siphon" {:points 3}
@@ -1494,11 +1488,11 @@
           "temujin-contract" {:points 3}
           "watch-the-world-burn" {:deck-limit 0}
           "zer0" {:points 1}}
-  :point-limit 7
   :date-start "2023-03-31"
   :format "eternal"
   :id "eternal-points-list-23-03"
-  :name "Eternal Points List 23.03"}
+  :name "Eternal Points List 23.03"
+  :point-limit 7}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "accelerated-diagnostics" {:deck-limit 0}
@@ -1550,7 +1544,7 @@
           "whampoa-reclamation" {:deck-limit 0}
           "zamba" {:deck-limit 0}
           "zer0" {:deck-limit 0}}
- :date-start "2019-01-01"
- :format "classic"
- :id "classic-mwl-1-0"
- :name "Classic MWL 1.0"}]
+  :date-start "2019-01-01"
+  :format "classic"
+  :id "classic-mwl-1-0"
+  :name "Classic MWL 1.0"}]

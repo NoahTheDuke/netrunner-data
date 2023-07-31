@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "daniela-jorge-inacio"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "As an additional cost to trash this upgrade, the Runner must add 2 cards from the grip at random to the bottom of the stack. Persistent -> As an additional cost to steal an agenda from this server or its root, the Runner must add 2 cards from the grip at random to the bottom of the stack."
+ :stripped-title "Daniela Jorge Inacio"
+ :subtype [:sysop]
+ :text "As an additional cost to trash this upgrade, the Runner must add 2 cards from the grip at random to the bottom of the stack.\nPersistent → As an additional cost to steal an agenda from this server or its root, the Runner must add 2 cards from the grip at random to the bottom of the stack."
+ :title "Daniela Jorge Inácio"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness true}
