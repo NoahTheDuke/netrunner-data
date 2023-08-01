@@ -103,4 +103,12 @@
            "kitara"
            "ashes"
            "borealis"]
-  :mwl "classic-mwl-1-0"}]
+  :mwl "classic-mwl-1-0"}
+ {:id "neo"
+  :name "Neo"
+  :sets ["system-gateway"
+         "system-update-2021"]
+  :cycles ["ashes"
+           "borealis"
+           "the-automata-initiative"]
+  :mwl "neo-ban-list-23-07"}]
