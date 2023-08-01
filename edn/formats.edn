@@ -4,12 +4,12 @@
          "magnum-opus"
          "magnum-opus-reprint"
          "system-gateway"
-         "system-update-2021"]
+         "system-update-2021"
+         "the-automata-initiative"]
   :cycles ["red-sand"
            "kitara"
            "ashes"
-           "borealis"
-           "the-automata-initiative"]
+           "borealis"]
   :mwl "standard-ban-list-23-08"}
  {:id "system-gateway"
   :name "System Gateway"
@@ -18,9 +18,9 @@
  {:id "startup"
   :name "Startup"
   :sets ["system-gateway"
-         "system-update-2021"]
-  :cycles ["borealis"
-           "the-automata-initiative"]
+         "system-update-2021"
+         "the-automata-initiative"]
+  :cycles ["borealis"]
   :mwl nil}
  {:id "eternal"
   :name "Eternal"
