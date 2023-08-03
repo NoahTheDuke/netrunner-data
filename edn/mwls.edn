@@ -1552,7 +1552,7 @@
           "endurance" {:deck-limit 0}
           "k2cp-turbine" {:deck-limit 0}
           "rezeki" {:deck-limit 0}}
-  :date-start "2023-07-01"
+  :date-start "2023-07-21"
   :format "neo"
   :id "neo-ban-list-23-07"
   :name "Neo Ban List 23.07"}]
