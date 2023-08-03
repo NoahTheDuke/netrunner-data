@@ -1,17 +1,16 @@
 [{:id "standard"
   :name "Standard"
-  :sets ["data-and-destiny"
-         "reign-and-reverie"
+  :sets ["reign-and-reverie"
          "magnum-opus"
          "magnum-opus-reprint"
          "system-gateway"
-         "system-update-2021"]
-  :cycles ["flashpoint"
-           "red-sand"
+         "system-update-2021"
+         "the-automata-initiative"]
+  :cycles ["red-sand"
            "kitara"
            "ashes"
            "borealis"]
-  :mwl "standard-ban-list-23-03"}
+  :mwl "standard-ban-list-23-08"}
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]
@@ -19,7 +18,8 @@
  {:id "startup"
   :name "Startup"
   :sets ["system-gateway"
-         "system-update-2021"]
+         "system-update-2021"
+         "the-automata-initiative"]
   :cycles ["borealis"]
   :mwl nil}
  {:id "eternal"
@@ -45,7 +45,8 @@
            "red-sand"
            "kitara"
            "ashes"
-           "borealis"]
+           "borealis"
+           "the-automata-initiative"]
   :mwl "eternal-points-list-23-03"}
  {:id "snapshot"
   :name "Snapshot"
