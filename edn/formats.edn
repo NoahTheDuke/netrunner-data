@@ -35,7 +35,8 @@
          "magnum-opus"
          "system-core-2019"
          "magnum-opus-reprint"
-         "system-gateway"]
+         "system-gateway"
+         "the-automata-initiative"]
   :cycles ["genesis"
            "spin"
            "lunar"
