@@ -81,30 +81,6 @@
            "kitara"
            "magnum-opus"]
   :mwl "napd-mwl-2-2"}
- {:id "classic"
-  :name "Classic"
-  :sets ["core-set"
-         "creation-and-control"
-         "honor-and-profit"
-         "order-and-chaos"
-         "data-and-destiny"
-         "terminal-directive-cards"
-         "revised-core-set"
-         "reign-and-reverie"
-         "magnum-opus"
-         "system-core-2019"
-         "magnum-opus-reprint"]
-  :cycles ["genesis"
-           "spin"
-           "lunar"
-           "sansan"
-           "mumbad"
-           "flashpoint"
-           "red-sand"
-           "kitara"
-           "ashes"
-           "borealis"]
-  :mwl "classic-mwl-1-0"}
  {:id "neo"
   :name "Neo"
   :sets ["system-gateway"
