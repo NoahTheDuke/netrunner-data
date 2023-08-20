@@ -84,8 +84,8 @@
  {:id "neo"
   :name "Neo"
   :sets ["system-gateway"
-         "system-update-2021"]
+         "system-update-2021"
+         "the-automata-initiative"]
   :cycles ["ashes"
-           "borealis"
-           "the-automata-initiative"]
+           "borealis"]
   :mwl "neo-ban-list-23-07"}]
