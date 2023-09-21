@@ -1500,4 +1500,15 @@
   :date-start "2023-07-21"
   :format "neo"
   :id "neo-ban-list-23-07"
-  :name "Neo Ban List 23.07"}]
+  :name "Neo Ban List 23.07"}
+ {:cards {"cyberdex-sandbox" {:deck-limit 0}
+          "drago-ivanov" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "hoshiko-shiro-untold-protagonist" {:deck-limit 0}
+          "nanisivik-grid" {:deck-limit 0}
+          "paladin-poemu" {:deck-limit 0}
+          "rezeki" {:deck-limit 0}}
+  :date-start "2023-09-23"
+  :format "neo"
+  :id "neo-ban-list-23-09"
+  :name "Neo Ban List 23.09"}]
