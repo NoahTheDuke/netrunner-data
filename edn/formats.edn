@@ -10,7 +10,7 @@
            "ashes"
            "borealis"
            "liberation"]
-  :mwl "standard-ban-list-23-08"}
+  :mwl "standard-ban-list-23-09"}
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]
@@ -88,4 +88,4 @@
   :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "neo-ban-list-23-07"}]
+  :mwl "neo-ban-list-23-09"}]
