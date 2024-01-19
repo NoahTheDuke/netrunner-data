@@ -21,7 +21,7 @@
          "system-update-2021"]
   :cycles ["borealis"
            "liberation"]
-  :mwl nil}
+  :mwl "startup-ban-list-24-01"}
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
