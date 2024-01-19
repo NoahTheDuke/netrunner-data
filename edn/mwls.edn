@@ -1578,7 +1578,7 @@
   :format "neo"
   :id "neo-ban-list-23-09"
   :name "Neo Ban List 23.09"}
-  {:cards {"24-7-news-cycle" {:deck-limit 0}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "another-day-another-paycheck" {:deck-limit 0}
           "attitude-adjustment" {:deck-limit 0}
