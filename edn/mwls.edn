@@ -1578,7 +1578,7 @@
   :format "neo"
   :id "neo-ban-list-23-09"
   :name "Neo Ban List 23.09"}
-  {:cards {"24-7-news-cycle" {:deck-limit 0}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "another-day-another-paycheck" {:deck-limit 0}
           "attitude-adjustment" {:deck-limit 0}
@@ -1656,4 +1656,10 @@
   :date-start "2023-12-31"
   :format "sunset"
   :id "sunset-ban-list-23-12"
-  :name "Sunset Ban List 23.12"}]
+  :name "Sunset Ban List 23.12"}
+ {:cards {"drago-ivanov" {:deck-limit 0}
+          "endurance" {:deck-limit 0}}
+  :date-start "2024-01-26"
+  :format "startup"
+  :id "startup-ban-list-24-01"
+  :name "Startup Ban List 24.01"}]

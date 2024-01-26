@@ -21,7 +21,7 @@
          "system-update-2021"]
   :cycles ["borealis"
            "liberation"]
-  :mwl nil}
+  :mwl "startup-ban-list-24-01"}
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
@@ -89,7 +89,7 @@
            "borealis"
            "liberation"]
   :mwl "neo-ban-list-23-09"}
-  {:id "sunset"
+ {:id "sunset"
   :name "Sunset"
   :sets ["reign-and-reverie"
          "magnum-opus"
