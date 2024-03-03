@@ -250,20 +250,34 @@
 
 (defn card-handler
   [line-ending download-fn sets]
-  (let [raw-cards (download-fn (-> tables :card :path))
-        card-stub (fn [_] raw-cards)
-        cards (->> (fetch-data card-stub (:card tables) add-card-fields)
-                   (add-stripped-card-text)
-                   (cards->map :id))
-        raw-set-cards (fetch-data card-stub
-                                  (:set-card tables)
-                                  (partial add-set-card-fields cards (cards->map sets)))]
+  (letfn [(strip-typesetting-chars
+            ;; strip out any typesetting characters from card titles
+            [target-str]
+            (if target-str
+              (str/replace target-str #"[ʼ’“”]" {"’" "'"
+                                                 "ʼ" "'"
+                                                 "“" "\""
+                                                 "”" "\""})
+              target-str))]
+    (let [raw-cards (download-fn (-> tables :card :path))
+          raw-cards (map #(assoc % :title (strip-typesetting-chars (:title %))) raw-cards)
+          ;;_ (println (first raw-cards))
+          card-stub (fn [_] raw-cards)
+          cards (->> (fetch-data card-stub (:card tables) add-card-fields)
+                     (add-stripped-card-text)
+                     (cards->map :id))
+          ;;_ (println (first (filter #(= (first %) "ken-express-tenma-disappeared-clone") cards)))
+          raw-set-cards (fetch-data card-stub
+                                    (:set-card tables)
+                                    (partial add-set-card-fields cards (cards->map sets)))]
+      ;;(println (first cards))
+      ;;(java.lang.System/exit 0)
     (println "Saving edn/cards")
     (doseq [[path card] cards
             :let [path (str "edn/cards/" path ".edn")]]
       (io/make-parents path)
       (spit path (str (zp/zprint-str card) line-ending)))
-    [cards raw-set-cards]))
+    [cards raw-set-cards])))
 
 (defn set-cards-handler
   [line-ending raw-set-cards]
