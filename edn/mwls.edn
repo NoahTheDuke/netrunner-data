@@ -1233,6 +1233,73 @@
   :format "standard"
   :id "standard-ban-list-23-09"
   :name "Standard Ban List 23.09"}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
+          "aaron-marron" {:deck-limit 0}
+          "another-day-another-paycheck" {:deck-limit 0}
+          "archived-memories" {:deck-limit 0}
+          "bloo-moose" {:deck-limit 0}
+          "breached-dome" {:deck-limit 0}
+          "bryan-stinson" {:deck-limit 0}
+          "bukhgalter" {:deck-limit 0}
+          "cayambe-grid" {:deck-limit 0}
+          "clan-vengeance" {:deck-limit 0}
+          "corporate-grant" {:deck-limit 0}
+          "crowdfunding" {:deck-limit 0}
+          "cyberdex-sandbox" {:deck-limit 0}
+          "death-and-taxes" {:deck-limit 0}
+          "door-to-door" {:deck-limit 0}
+          "dr-vientiane-keeling" {:deck-limit 0}
+          "drago-ivanov" {:deck-limit 0}
+          "dreamnet" {:deck-limit 0}
+          "employee-strike" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "enforced-curfew" {:deck-limit 0}
+          "engram-flush" {:deck-limit 0}
+          "formicary" {:deck-limit 0}
+          "friends-in-high-places" {:deck-limit 0}
+          "game-changer" {:deck-limit 0}
+          "gold-farmer" {:deck-limit 0}
+          "government-investigations" {:deck-limit 0}
+          "gpi-net-tap" {:deck-limit 0}
+          "high-profile-target" {:deck-limit 0}
+          "hired-help" {:deck-limit 0}
+          "interdiction" {:deck-limit 0}
+          "jinteki-potential-unleashed" {:deck-limit 0}
+          "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
+          "kakugo" {:deck-limit 0}
+          "kill-switch" {:deck-limit 0}
+          "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
+          "mars-for-martians" {:deck-limit 0}
+          "mass-commercialization" {:deck-limit 0}
+          "media-blitz" {:deck-limit 0}
+          "mti-mwekundu-life-improved" {:deck-limit 0}
+          "nanisivik-grid" {:deck-limit 0}
+          "obokata-protocol" {:deck-limit 0}
+          "pad-tap" {:deck-limit 0}
+          "preemptive-action" {:deck-limit 0}
+          "project-vacheron" {:deck-limit 0}
+          "rezeki" {:deck-limit 0}
+          "rolling-brownout" {:deck-limit 0}
+          "rumor-mill" {:deck-limit 0}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:deck-limit 0}
+          "service-outage" {:deck-limit 0}
+          "shipment-from-tennin" {:deck-limit 0}
+          "sifr" {:deck-limit 0}
+          "slot-machine" {:deck-limit 0}
+          "ssl-endorsement" {:deck-limit 0}
+          "surveillance-sweep" {:deck-limit 0}
+          "system-outage" {:deck-limit 0}
+          "system-seizure" {:deck-limit 0}
+          "temujin-contract" {:deck-limit 0}
+          "tithonium" {:deck-limit 0}
+          "violet-level-clearance" {:deck-limit 0}
+          "watch-the-world-burn" {:deck-limit 0}
+          "whampoa-reclamation" {:deck-limit 0}}
+  :date-start "2024-03-30"
+  :format "standard"
+  :id "standard-ban-list-24-03"
+  :name "Standard Ban List 24.03"}
  {:cards {"faust" {:deck-limit 0}
           "friends-in-high-places" {:deck-limit 0}
           "hired-help" {:deck-limit 0}
