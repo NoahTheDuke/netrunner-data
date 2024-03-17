@@ -122,6 +122,8 @@
   :name "Location"}
  {:id :lockdown
   :name "Lockdown"}
+ {:id :mandate
+  :name "Mandate"}
  {:id :megacorp
   :name "Megacorp"}
  {:id :mod
