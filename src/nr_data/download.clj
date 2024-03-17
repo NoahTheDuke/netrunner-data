@@ -8,6 +8,15 @@
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
 
+(defn strip-typesetting-chars
+  ;; strip out any typesetting characters from card titles
+  [target-str]
+  (when target-str
+    (str/replace target-str #"[ʼ’“”]" {"’" "'"
+                                       "ʼ" "'"
+                                       "“" "\""
+                                       "”" "\""})))
+
 (defn parse-response
   [body]
   (json/parse-string body true))
@@ -251,6 +260,7 @@
 (defn card-handler
   [line-ending download-fn sets]
   (let [raw-cards (download-fn (-> tables :card :path))
+        raw-cards (mapv #(update % :title strip-typesetting-chars) raw-cards)
         card-stub (fn [_] raw-cards)
         cards (->> (fetch-data card-stub (:card tables) add-card-fields)
                    (add-stripped-card-text)
