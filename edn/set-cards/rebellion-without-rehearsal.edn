@@ -35,12 +35,19 @@
  {:card-id "boi-tata"
   :code "34071"
   :position 71
-  :quantity 3}
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "heliamphora"
   :code "34072"
   :flavor "Even a barren server can provide a feast, if you are patient enough."
   :illustrator "Cat Shen"
   :position 72
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "arruaceiras-crew"
+  :code "34073"
+  :flavor "“You might have been the spark, Seb, but we're the flame.”"
+  :position 73
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "friend-of-a-friend"
@@ -57,10 +64,11 @@
   :position 75
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
- {:card-id "arruaceiras-crew"
+ {:card-id "meeting-of-minds"
   :position 76
   :code "34076"
-  :quantity 3}
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "window-of-opportunity"
   :code "34077"
   :flavor "There's a crack in everything. That's how the light gets in."
@@ -78,7 +86,8 @@
  {:card-id "jeitinho"
   :code "34079"
   :position 79
-  :quantity 3}
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "cupellation"
   :code "34080"
   :illustrator "Ed Mattinian"
@@ -103,6 +112,11 @@
   :flavor "<strong>Designed by 2021 American Continental Champion Jonas Wilson</strong>"
   :illustrator "Anthony Hutchings"
   :position 83
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "juli-moreira-lee"
+  :code "34084"
+  :position 84
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "burner"
@@ -139,6 +153,11 @@
   :position 89
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
+ {:card-id "lobisomem"
+  :code "34090"
+  :position 90
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "muse"
   :code "34091"
   :flavor "Vó, mentor, angel. Murdered by porcos. Never forgotten."
@@ -146,11 +165,26 @@
   :position 91
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
+ {:card-id "pressure-spike"
+  :code "34092"
+  :position 92
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "pretty-mary-da-silva"
   :code "34093"
   :flavor "“Listen up, garotinha, maybe you'll learn something.”"
   :illustrator "Arthur Miglionni"
   :position 93
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "ashen-epilogue"
+  :code "34094"
+  :position 94
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "valentine-ferreira-carvalho"
+  :code "34095"
+  :position 95
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "thunderbolt-armaments-peace-through-power"
@@ -235,6 +269,16 @@
   :position 107
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
+ {:card-id "cohort-guidance-program"
+  :code "34108"
+  :position 108
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "boto"
+  :code "34109"
+  :position 109
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "cloud-eater"
   :code "34110"
   :flavor "Don’t let it catch your scent."
@@ -248,11 +292,26 @@
   :position 111
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
+ {:card-id "bring-them-home"
+  :code "34112"
+  :position 112
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "kingmaking"
+  :code "34113"
+  :position 113
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "stoke-the-embers"
   :code "34114"
   :flavor "“Up next: President Tavares' state funeral.”"
   :illustrator "Olie Boldador"
   :position 114
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "janaina-jk-dumont-kindelan"
+  :code "34115"
+  :position 115
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "capacitor"
@@ -269,11 +328,21 @@
   :position 117
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
+ {:card-id "seraph"
+  :code "34118"
+  :position 118
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "sudden-commandment"
   :code "34119"
   :flavor "Epiphany employees learned not to make weekend plans."
   :illustrator "Oliver Morit"
   :position 119
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "the-holo-man"
+  :code "34120"
+  :position 120
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "nuvem-sa-law-of-the-land"
@@ -290,11 +359,26 @@
   :position 122
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
+ {:card-id "the-basalt-spire"
+  :code "34123"
+  :position 123
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
  {:card-id "hearts-and-minds"
   :code "34124"
   :flavor "“General, for a successful coup d'état, you need the people on your side.”\n—CEO Braganza"
   :illustrator "Mauricio Herrera"
   :position 124
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "descent"
+  :code "34125"
+  :position 125
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "hammer"
+  :code "34126"
+  :position 126
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "logjam"
@@ -314,5 +398,10 @@
   :code "34129"
   :illustrator "Olie Boldador"
   :position 129
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "the-powers-that-be"
+  :code "34130"
+  :position 130
   :quantity 3
   :set-id "rebellion-without-rehearsal"}]
