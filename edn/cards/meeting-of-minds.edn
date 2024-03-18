@@ -4,8 +4,9 @@
  :id "meeting-of-minds"
  :influence-cost 3
  :side :runner
- :stripped-text "Choose connection or virtual. You may search your stack for 1 resource with the chosen subtype and reveal it. Add that card to your grip. Reveal any number of cards with the chosen subtype from your grip. Gain 1 credit for each card revealed this way."
+ :stripped-text "Choose connection or virtual. You may search your stack for 1 resource with the chosen subtype and reveal it. Add that card to your grip. Reveal any number of cards with the chosen subtype in your grip. Gain 1 credit for each card revealed this way."
  :stripped-title "Meeting of Minds"
- :text "Choose connection or virtual. You may search your stack for 1 resource with the chosen subtype and reveal it. Add that card to your grip.\nReveal any number of cards with the chosen subtype from your grip. Gain 1[credit] for each card revealed this way."
+ :text "Choose <strong>connection</strong> or <strong>virtual</strong>. You may search your stack for 1 resource with the chosen subtype and reveal it. Add that card to your grip.\nReveal any number of cards with the chosen subtype in your grip. Gain 1[credit] for each card revealed this way."
  :title "Meeting of Minds"
- :type :event}
+ :type :event
+ :uniqueness false}

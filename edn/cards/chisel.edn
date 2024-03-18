@@ -5,10 +5,10 @@
  :influence-cost 4
  :memory-cost 1
  :side :runner
- :stripped-text "Install only on a piece of ice. Host ice gets -1 strength for each hosted virus counter. When you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program."
+ :stripped-text "Install only on a piece of ice. Host ice gets 1 strength for each hosted virus counter. Whenever you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program."
  :stripped-title "Chisel"
  :subtype [:virus :trojan]
- :text "Install only on a piece of ice.\nHost ice gets -1 strength for each hosted virus counter.\nWhen you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program."
+ :text "Install only on a piece of ice.\nHost ice gets −1 strength for each hosted virus counter.\nWhenever you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program."
  :title "Chisel"
  :type :program
  :uniqueness false}

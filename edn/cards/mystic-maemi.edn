@@ -4,10 +4,10 @@
  :id "mystic-maemi"
  :influence-cost 2
  :side :runner
- :stripped-text "When your turn begins or you steal an agenda, place 1 credit on this resource. Spend hosted credits to play events. When your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource."
+ :stripped-text "When your turn begins and whenever you steal an agenda, place 1 credit on this resource. You can spend hosted credits to play events. When your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource."
  :stripped-title "Mystic Maemi"
  :subtype [:companion :virtual]
- :text "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource."
+ :text "When your turn begins and whenever you steal an agenda, place 1[credit] on this resource.\nYou can spend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource."
  :title "Mystic Maemi"
  :type :resource
  :uniqueness true}

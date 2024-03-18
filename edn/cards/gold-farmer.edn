@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 1
- :stripped-text "When the Runner breaks a printed subroutine on this ice, they lose 1 credit. Subroutine End the run unless the Runner pays 3 credits. Subroutine End the run unless the Runner pays 3 credits."
+ :stripped-text "Whenever the Runner breaks a printed subroutine on this ice, they lose 1 credit. Subroutine End the run unless the Runner pays 3 credits. Subroutine End the run unless the Runner pays 3 credits."
  :stripped-title "Gold Farmer"
  :subtype [:barrier]
- :text "When the Runner breaks a printed subroutine on this ice, they lose 1[credit].\n[subroutine] End the run unless the Runner pays 3[credit].\n[subroutine] End the run unless the Runner pays 3[credit]."
+ :text "Whenever the Runner breaks a printed subroutine on this ice, they lose 1[credit].\n[subroutine] End the run unless the Runner pays 3[credit].\n[subroutine] End the run unless the Runner pays 3[credit]."
  :title "Gold Farmer"
  :type :ice
  :uniqueness false}

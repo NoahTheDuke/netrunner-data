@@ -8,6 +8,7 @@
  :stripped-text "During each encounter with this ice, the Runner cannot break more than 1 of its printed subroutines except using killers. Subroutine Give the Runner 1 tag. Subroutine Trash 1 installed resource or piece of hardware. Subroutine Trash 1 installed program that is not a decoder, fracter, or killer."
  :stripped-title "Hammer"
  :subtype [:sentry :destroyer :observer]
- :text "During each encounter with this ice, the Runner cannot break more than 1 of its printed subroutines except using killers.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Trash 1 installed resource or piece of hardware.\n[subroutine] Trash 1 installed program that is not a decoder, fracter, or killer."
+ :text "During each encounter with this ice, the Runner cannot break more than 1 of its printed subroutines except using <strong>killers</strong>.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Trash 1 installed resource or piece of hardware.\n[subroutine] Trash 1 installed program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>."
  :title "Hammer"
- :type :ice}
+ :type :ice
+ :uniqueness false}

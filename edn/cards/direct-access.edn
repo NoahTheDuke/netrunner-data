@@ -4,10 +4,10 @@
  :id "direct-access"
  :influence-cost 1
  :side :runner
- :stripped-text "While you are resolving this event, each player's identity loses all abilities. Run any server. When that run ends, you may shuffle this event into your stack."
+ :stripped-text "While you are resolving this event, each players identity loses all abilities. Run any server. When that run ends, you may shuffle this event into your stack."
  :stripped-title "Direct Access"
  :subtype [:run]
- :text "While you are resolving this event, each player's identity loses all abilities.\nRun any server. When that run ends, you may shuffle this event into your stack."
+ :text "While you are resolving this event, each playerʼs identity loses all abilities.\nRun any server. When that run ends, you may shuffle this event into your stack."
  :title "Direct Access"
  :type :event
  :uniqueness false}

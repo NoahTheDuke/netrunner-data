@@ -2,13 +2,14 @@
  :deck-limit 3
  :faction :shaper
  :id "pressure-spike"
- :influence-cost 2
+ :influence-cost 3
  :memory-cost 1
  :side :runner
  :strength 1
- :stripped-text "Interface  1{credit}: Break 1 barrier subroutine. 2{credit}: +3 strength. Threat 4  2{credit}: +9 strength. Use this ability once per run."
+ :stripped-text "Interface -> 1 credit: Break 1 barrier subroutine. 2 credits: +3 strength. Threat 4 -> 2 credits: +9 strength. Use this ability only once per run. (This ability is active if any player has 4 or more agenda points.)"
  :stripped-title "Pressure Spike"
  :subtype [:icebreaker :fracter]
- :text "Interface → 1{credit}: Break 1 barrier subroutine.\n2{credit}: +3 strength.\nThreat 4 — 2{credit}: +9 strength. Use this ability once per run."
+ :text "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.\nThreat 4 → <strong>2[credit]:</strong> +9 strength. Use this ability only once per run. <em>(This ability is active if any player has 4 or more agenda points.)</em>"
  :title "Pressure Spike"
- :type :program}
+ :type :program
+ :uniqueness false}

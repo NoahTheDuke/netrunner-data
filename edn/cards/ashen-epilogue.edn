@@ -8,4 +8,5 @@
  :stripped-title "Ashen Epilogue"
  :text "Shuffle your grip and heap into your stack, then remove the top 5 cards of your stack from the game. Draw 5 cards.\nRemove this event from the game."
  :title "Ashen Epilogue"
- :type :event}
+ :type :event
+ :uniqueness false}

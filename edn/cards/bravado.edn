@@ -4,10 +4,10 @@
  :id "bravado"
  :influence-cost 3
  :side :runner
- :stripped-text "Run a server protected by ice. When that run ends, gain 6 credits, plus 1 credit for each piece of ice you passed during that run."
+ :stripped-text "Run a server protected by ice. When that run ends, gain 6 credits plus 1 credit for each piece of ice you passed during that run."
  :stripped-title "Bravado"
  :subtype [:run]
- :text "Run a server protected by ice. When that run ends, gain 6[credit], plus 1[credit] for each piece of ice you passed during that run."
+ :text "Run a server protected by ice. When that run ends, gain 6[credit] plus 1[credit] for each piece of ice you passed during that run."
  :title "Bravado"
  :type :event
  :uniqueness false}

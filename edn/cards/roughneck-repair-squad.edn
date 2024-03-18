@@ -4,9 +4,10 @@
  :id "roughneck-repair-squad"
  :influence-cost 1
  :side :corp
- :stripped-text "click, click, click: Gain 6 credits. You may remove 1 bad publicity."
+ :stripped-text "click click click: Gain 6 credits. You may remove 1 bad publicity."
  :stripped-title "Roughneck Repair Squad"
- :text "[click], [click], [click]<strong>:</strong> Gain 6[credit]. You may remove 1 bad publicity."
+ :subtype [:industrial]
+ :text "[click][click][click]<strong>:</strong> Gain 6[credit]. You may remove 1 bad publicity."
  :title "Roughneck Repair Squad"
  :trash-cost 3
  :type :asset

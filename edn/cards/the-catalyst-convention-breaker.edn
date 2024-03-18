@@ -5,8 +5,10 @@
  :influence-limit nil
  :minimum-deck-size 30
  :side :runner
+ :stripped-text "Starter game only."
  :stripped-title "The Catalyst: Convention Breaker"
  :subtype [:natural]
+ :text "Starter game only."
  :title "The Catalyst: Convention Breaker"
  :type :identity
  :uniqueness false}

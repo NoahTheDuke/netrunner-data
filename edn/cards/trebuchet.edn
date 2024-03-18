@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 6
- :stripped-text "When you rez this ice, take 1 bad publicity. Subroutine Trash 1 installed Runner card. Subroutine Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of the run."
+ :stripped-text "When you rez this ice, take 1 bad publicity. Subroutine Trash 1 installed Runner card. Subroutine Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of this run."
  :stripped-title "Trebuchet"
  :subtype [:sentry :illicit :destroyer :tracer]
- :text "When you rez this ice, take 1 bad publicity.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of the run."
+ :text "When you rez this ice, take 1 bad publicity.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of this run."
  :title "Trebuchet"
  :type :ice
  :uniqueness false}

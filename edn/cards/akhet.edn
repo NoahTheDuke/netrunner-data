@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 2
- :stripped-text "You can advance this ice. While there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter. Subroutine Gain 1 credit. Place 1 advancement token on an installed card. Subroutine End the run."
+ :stripped-text "You can advance this ice. While there are 3 or more hosted advancement counters, this ice gets +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter. Subroutine Gain 1 credit. Place 1 advancement counter on an installed card. Subroutine End the run."
  :stripped-title "Akhet"
  :subtype [:barrier]
- :text "You can advance this ice.\nWhile there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter.\n[subroutine] Gain 1[credit]. Place 1 advancement token on an installed card.\n[subroutine] End the run."
+ :text "You can advance this ice.\nWhile there are 3 or more hosted advancement counters, this ice gets +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter.\n[subroutine] Gain 1[credit]. Place 1 advancement counter on an installed card.\n[subroutine] End the run."
  :title "Akhet"
  :type :ice
  :uniqueness false}

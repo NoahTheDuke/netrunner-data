@@ -6,6 +6,7 @@
  :side :corp
  :stripped-text "click: Install 1 card from HQ, ignoring all costs. Use this ability only once per turn. When the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of this server."
  :stripped-title "Vaporframe Fabricator"
+ :subtype [:industrial]
  :text "<strong>[click]:</strong> Install 1 card from HQ, ignoring all costs. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of this server."
  :title "Vaporframe Fabricator"
  :trash-cost 3

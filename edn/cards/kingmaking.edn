@@ -9,4 +9,5 @@
  :subtype [:research]
  :text "When you score this agenda, draw up to 3 cards. You may add 1 agenda worth 1 or less agenda points from HQ to your score area."
  :title "Kingmaking"
- :type :agenda}
+ :type :agenda
+ :uniqueness false}

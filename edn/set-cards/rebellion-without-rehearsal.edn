@@ -34,6 +34,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "boi-tata"
   :code "34071"
+  :flavor "Blinded by its own wreath of flames, the Boi-tatá seeks eye after eye until the whole world joins it in darkness."
+  :illustrator "Cat Shen"
   :position 71
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -47,6 +49,7 @@
  {:card-id "arruaceiras-crew"
   :code "34073"
   :flavor "“You might have been the spark, Seb, but we're the flame.”"
+  :illustrator "Matheus Calza"
   :position 73
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -65,8 +68,10 @@
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "meeting-of-minds"
-  :position 76
   :code "34076"
+  :flavor "“You'll find a way, little sibling.”"
+  :illustrator "Benjamin Giletti"
+  :position 76
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "window-of-opportunity"
@@ -85,6 +90,7 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "jeitinho"
   :code "34079"
+  :illustrator "Matheus Calza"
   :position 79
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -116,6 +122,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "juli-moreira-lee"
   :code "34084"
+  :flavor "The Moreira sisters couldn't be any less alike, each taking after her own father, but together they are a force unto themselves."
+  :illustrator "Rafael Monk"
   :position 84
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -155,6 +163,7 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "lobisomem"
   :code "34090"
+  :illustrator "Adam S. Doyle"
   :position 90
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -167,6 +176,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "pressure-spike"
   :code "34092"
+  :flavor "“If stress hurts, then it must be a weapon.”\n— Beatriz Friere Gonzalez"
+  :illustrator "Bruno Balixa"
   :position 92
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -179,11 +190,15 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "ashen-epilogue"
   :code "34094"
+  :flavor "Their victory became her coronation."
+  :illustrator "Dimik"
   :position 94
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
- {:card-id "valentine-ferreira-carvalho"
+ {:card-id "valentina-ferreira-carvalho"
   :code "34095"
+  :flavor "“I came home from Siberia to find a better purpose for myself.”"
+  :illustrator "Arthur Miglionni"
   :position 95
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -271,11 +286,15 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "cohort-guidance-program"
   :code "34108"
+  :flavor "The best families grow, learn, and hunt together."
+  :illustrator "Olie Boldador"
   :position 108
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "boto"
   :code "34109"
+  :flavor "They live forever in the rivers of the Net."
+  :illustrator "Júlio Rocha"
   :position 109
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -294,11 +313,14 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "bring-them-home"
   :code "34112"
+  :illustrator "Olie Boldador"
   :position 112
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "kingmaking"
   :code "34113"
+  :flavor "“We are close, so close, to the endgame now, my friends. If we can convert just three more, the Automata Initiative is all but through the senate.”\n—The Holo Man"
+  :illustrator "Olie Boldador"
   :position 113
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -311,6 +333,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "janaina-jk-dumont-kindelan"
   :code "34115"
+  :flavor "She loved being part of the rough and tumble of politics and fundraising—from the calm of her own home."
+  :illustrator "Dimik"
   :position 115
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -330,6 +354,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "seraph"
   :code "34118"
+  :flavor "“Starlight called it a gift. I call it providence.”\n—The Holo Man"
+  :illustrator "Adam S. Doyle"
   :position 118
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -342,6 +368,7 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "the-holo-man"
   :code "34120"
+  :illustrator "Liiga Smilshkalne"
   :position 120
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -361,6 +388,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "the-basalt-spire"
   :code "34123"
+  :flavor "High above, Braganza schemes,\nOf force, fire, and basalt dreams."
+  :illustrator "Emilio Rodríguez"
   :position 123
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -373,11 +402,15 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "descent"
   :code "34125"
+  :flavor "A little circular reasoning never hurt anybody."
+  :illustrator "Krembler"
   :position 125
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
  {:card-id "hammer"
   :code "34126"
+  :flavor "The final blow is struck."
+  :illustrator "Scott Uminga"
   :position 126
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
@@ -402,6 +435,8 @@
   :set-id "rebellion-without-rehearsal"}
  {:card-id "the-powers-that-be"
   :code "34130"
+  :flavor "“I followed every lead, and found the rot ran deep from Epiphany, worming into every branch of gov'. I saw my imperative, clear as day: these three had to die. And I had to find a way to do it.”\n—Mercury"
+  :illustrator "Zefanya Maega"
   :position 130
   :quantity 3
   :set-id "rebellion-without-rehearsal"}]

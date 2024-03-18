@@ -10,5 +10,5 @@
  :text "Whenever you score an agenda, you may install 1 card from HQ or Archives, ignoring all costs."
  :title "The Powers That Be"
  :trash-cost 3
- :uniqueness true
- :type :asset}
+ :type :asset
+ :uniqueness true}
