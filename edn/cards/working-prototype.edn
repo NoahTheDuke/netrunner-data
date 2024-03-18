@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "working-prototype"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Whenever you rez a card (including this asset), place 1 power counter on this asset. click, hosted power counter: Gain 3 credits. click, 5 hosted power counters: Gain 6 credits. Add 1 installed resource to the top of the stack."
+ :stripped-title "Working Prototype"
+ :subtype [:hostile]
+ :text "Whenever you rez a card <em>(including this asset)</em>, place 1 power counter on this asset.\n[click], <strong>hosted power counter:</strong> Gain 3[credit].\n[click], <strong>5 hosted power counters:</strong> Gain 6[credit]. Add 1 installed resource to the top of the stack."
+ :title "Working Prototype"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "eye-for-an-eye"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "Play only if you are not tagged. Run HQ. If successful, take 1 tag and access 1 additional card when you breach HQ. Access -> Trash 1 card from your grip: Trash the card you are accessing."
+ :stripped-title "Eye for an Eye"
+ :subtype [:run]
+ :text "Play only if you are not tagged.\nRun HQ. If successful, take 1 tag and access 1 additional card when you breach HQ.\nAccess → <strong>Trash 1 card from your grip:</strong> Trash the card you are accessing."
+ :title "Eye for an Eye"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "boi-tata"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "If you trashed any of your installed cards this turn, paid abilities on this program cost 1 credit less to use. Interface  2 credits: Break up to 2 sentry subroutines. 3 credits: +3 strength."
+ :stripped-title "Boi-tata"
+ :subtype [:icebreaker :killer]
+ :text "If you trashed any of your installed cards this turn, paid abilities on this program cost 1[credit] less to use.\nInterface → 2[credit]: Break up to 2 sentry subroutines.\n3[credit]: +3 strength."
+ :title "Boi-tatá"
+ :type :program}

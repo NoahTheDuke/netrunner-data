@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "see-how-they-run"
+ :side :corp
+ :stripped-text "When you score this agenda, give the Runner 1 tag. Play a Psi Game. (Players secretly bid 0-2 credits. Then each player reveals and spends their bid.) If the bids differ, do 1 core damage. If the bids match, do 1 net damage."
+ :stripped-title "See How They Run"
+ :subtype [:psi :security]
+ :text "When you score this agenda, give the Runner 1 tag. Play a Psi Game. <em>(Players secretly bid 0–2[credit]. Then each player reveals and spends their bid.)</em> If the bids differ, do 1 core damage. If the bids match, do 1 net damage."
+ :title "See How They Run"
+ :type :agenda
+ :uniqueness false}

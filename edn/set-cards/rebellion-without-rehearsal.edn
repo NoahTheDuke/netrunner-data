@@ -1,0 +1,318 @@
+[{:card-id "sebastiao-souza-pessoa-activist-organizer"
+  :code "34066"
+  :flavor "Destroy the mechanisms of domination."
+  :illustrator "Matheus Calza"
+  :position 66
+  :quantity 1
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "eye-for-an-eye"
+  :code "34067"
+  :flavor "As the riot turned to open conflict, Seb looked down at the gun in his hand. The time for peace was over."
+  :illustrator "Benjamin Giletti"
+  :position 67
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "privileged-access"
+  :code "34068"
+  :illustrator "Dimik"
+  :position 68
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "amanuensis"
+  :code "34069"
+  :flavor "He allowed himself five minutes. He wished for more."
+  :illustrator "Anna Butova"
+  :position 69
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "the-wizard-s-chest"
+  :code "34070"
+  :flavor "<strong>Designed by 2020 World Champion Richard Hall</strong>"
+  :illustrator "Martin de Diego Sádaba"
+  :position 70
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "boi-tata"
+  :code "34071"
+  :position 71
+  :quantity 3}
+ {:card-id "heliamphora"
+  :code "34072"
+  :flavor "Even a barren server can provide a feast, if you are patient enough."
+  :illustrator "Cat Shen"
+  :position 72
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "friend-of-a-friend"
+  :code "34074"
+  :flavor "“I've been a pack runner since I was ten. My uncle got me started after Eduardo took a bullet to the hip. It's only recently that people have started cheering when I leave a cop lying in the dirt.”\n—Gabi Saka"
+  :illustrator "Mauricio Herrera"
+  :position 74
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "manuel-lattes-de-moura"
+  :code "34075"
+  :flavor "“Some info from our mutual friends, Professor. Now, about my daughter's grades…”"
+  :illustrator "Wyn Lacabra"
+  :position 75
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "arruaceiras-crew"
+  :position 76
+  :code "34076"
+  :quantity 3}
+ {:card-id "window-of-opportunity"
+  :code "34077"
+  :flavor "There's a crack in everything. That's how the light gets in."
+  :illustrator "Bruno Balixa"
+  :position 77
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "alarm-clock"
+  :code "34078"
+  :flavor "Rise and shine. Time to f**k up a corpie's day."
+  :illustrator "Elizaveta Sokolova"
+  :position 78
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "jeitinho"
+  :code "34079"
+  :position 79
+  :quantity 3}
+ {:card-id "cupellation"
+  :code "34080"
+  :illustrator "Ed Mattinian"
+  :position 80
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "malandragem"
+  :code "34081"
+  :illustrator "Adam S. Doyle"
+  :position 81
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "physarum-entangler"
+  :code "34082"
+  :flavor "It finds a route, eventually."
+  :illustrator "Ed Mattinian"
+  :position 82
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "amelia-earhart"
+  :code "34083"
+  :flavor "<strong>Designed by 2021 American Continental Champion Jonas Wilson</strong>"
+  :illustrator "Anthony Hutchings"
+  :position 83
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "burner"
+  :code "34085"
+  :flavor "“They‘ll be talking about me for years.”\n—Arissana Rocha Nahu"
+  :illustrator "Scott Uminga"
+  :position 85
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "spree"
+  :code "34086"
+  :flavor "Sometimes an artist will be seized by the uncontrollable urge to create."
+  :illustrator "Ferenc Patkós"
+  :position 86
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "trick-shot"
+  :code "34087"
+  :flavor "8 billion, corner office."
+  :illustrator "Ed Mattinian"
+  :position 87
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "cataloguer"
+  :code "34088"
+  :illustrator "Martin de Diego Sádaba"
+  :position 88
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "coalescence"
+  :code "34089"
+  :flavor "Breathe in.\nBe as the dew rolling down a leaf; let yourself go.\nBreathe out."
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
+  :position 89
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "muse"
+  :code "34091"
+  :flavor "Vó, mentor, angel. Murdered by porcos. Never forgotten."
+  :illustrator "Marlon Ruiz"
+  :position 91
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "pretty-mary-da-silva"
+  :code "34093"
+  :flavor "“Listen up, garotinha, maybe you'll learn something.”"
+  :illustrator "Arthur Miglionni"
+  :position 93
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "thunderbolt-armaments-peace-through-power"
+  :code "34096"
+  :flavor "Strength in the palm of your hand."
+  :illustrator "Emilio Rodríguez"
+  :position 96
+  :quantity 1
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "lightning-laboratory"
+  :code "34097"
+  :flavor "Where ideas strike twice!"
+  :illustrator "Emilio Rodríguez"
+  :position 97
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "warm-reception"
+  :code "34098"
+  :flavor "“I missed you last week! Come, we have lots to talk about. How was little Sarita's piano recital?”"
+  :illustrator "Matheus Calza"
+  :position 98
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "working-prototype"
+  :code "34099"
+  :flavor "“Just tilt your head a little to the right; the suit will soon sync with your cortical profile.”"
+  :illustrator "Mauricio Herrera"
+  :position 99
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "lycian-multi-munition"
+  :code "34100"
+  :illustrator "Bruno Balixa"
+  :position 100
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "sorocaban-blade"
+  :code "34101"
+  :flavor "At Thunderbolt, we ask: why not turn plowshares to swords?"
+  :illustrator "Ed Mattinian"
+  :position 101
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "active-policing"
+  :code "34102"
+  :illustrator "Marlon Ruiz"
+  :position 102
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "corporate-hospitality"
+  :code "34103"
+  :flavor "If you wait in the Thunderbolt corporate box long enough, everyone who is anyone comes by."
+  :illustrator "Oliver Morit"
+  :position 103
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "brasilia-government-grid"
+  :code "34104"
+  :flavor "Thunderbolt naturally offered city hardening solutions."
+  :illustrator "Kira L. Nguyen"
+  :position 104
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "see-how-they-run"
+  :code "34105"
+  :flavor "“Be patient. When the prey panics, they lead you right to their friends.”\n—Adrian Seis"
+  :illustrator "Benjamin Giletti"
+  :position 105
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "sisyphus-protocol"
+  :code "34106"
+  :flavor "“Every mind can be dulled by repetition, even our prey’s. Strike when they get complacent, but before you get bored.”\n—Charlotte's fifth lesson"
+  :illustrator "Ferenc Patkós"
+  :position 106
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "charlotte-cacador"
+  :code "34107"
+  :flavor "“They offered me a desk job, but dammit, I just love working in the field.”"
+  :illustrator "Marlon Ruiz"
+  :position 107
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "cloud-eater"
+  :code "34110"
+  :flavor "Don’t let it catch your scent."
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
+  :position 110
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "tributary"
+  :code "34111"
+  :illustrator "Scott Uminga"
+  :position 111
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "stoke-the-embers"
+  :code "34114"
+  :flavor "“Up next: President Tavares' state funeral.”"
+  :illustrator "Olie Boldador"
+  :position 114
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "capacitor"
+  :code "34116"
+  :flavor "Sebastião gritted his teeth as more and more indicators glowed red."
+  :illustrator "Ed Mattinian"
+  :position 116
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "piranhas"
+  :code "34117"
+  :flavor "Eat, grow, deny. A truly ravenous generation."
+  :illustrator "Júlio Rocha"
+  :position 117
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "sudden-commandment"
+  :code "34119"
+  :flavor "Epiphany employees learned not to make weekend plans."
+  :illustrator "Oliver Morit"
+  :position 119
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "nuvem-sa-law-of-the-land"
+  :code "34121"
+  :flavor "Our fist shall hold the world."
+  :illustrator "Kira L. Nguyen"
+  :position 121
+  :quantity 1
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "eminent-domain"
+  :code "34122"
+  :flavor "Young Gael Oliveira agreed to stay on and manage the farm, for a fee."
+  :illustrator "Kira L. Nguyen"
+  :position 122
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "hearts-and-minds"
+  :code "34124"
+  :flavor "“General, for a successful coup d'état, you need the people on your side.”\n—CEO Braganza"
+  :illustrator "Mauricio Herrera"
+  :position 124
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "logjam"
+  :code "34127"
+  :illustrator "Ed Mattinian"
+  :position 127
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "business-as-usual"
+  :code "34128"
+  :flavor "Don’t think about it. You’ll sleep better."
+  :illustrator "Oliver Morit"
+  :position 128
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}
+ {:card-id "isaac-liberdade"
+  :code "34129"
+  :illustrator "Olie Boldador"
+  :position 129
+  :quantity 3
+  :set-id "rebellion-without-rehearsal"}]

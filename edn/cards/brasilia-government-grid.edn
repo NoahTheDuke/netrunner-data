@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "brasilia-government-grid"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "Whenever you rez a piece of ice during a run against this server, you may derez another installed piece of ice. If you do, the rezzed ice gets +3 strength for the remainder of that run. Use this ability only once per turn. Limit 1 region per server."
+ :stripped-title "Brasilia Government Grid"
+ :subtype [:region]
+ :text "Whenever you rez a piece of ice during a run against this server, you may derez another installed piece of ice. If you do, the rezzed ice gets +3 strength for the remainder of that run. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server."
+ :title "Brasília Government Grid"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

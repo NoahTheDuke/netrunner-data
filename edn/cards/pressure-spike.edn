@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "pressure-spike"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "Interface  1{credit}: Break 1 barrier subroutine. 2{credit}: +3 strength. Threat 4  2{credit}: +9 strength. Use this ability once per run."
+ :stripped-title "Pressure Spike"
+ :subtype [:icebreaker :fracter]
+ :text "Interface → 1{credit}: Break 1 barrier subroutine.\n2{credit}: +3 strength.\nThreat 4 — 2{credit}: +9 strength. Use this ability once per run."
+ :title "Pressure Spike"
+ :type :program}

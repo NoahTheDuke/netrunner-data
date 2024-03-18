@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "muse"
+ :influence-cost 4
+ :memory-cost 1
+ :side :runner
+ :stripped-text "When you install this program, search your stack, heap, or grip for 1 non-daemon program. (Shuffle your stack after searching it.) If that program is a trojan, install it on a piece of ice. Otherwise, install it on this program."
+ :stripped-title "Muse"
+ :subtype [:daemon]
+ :text "When you install this program, search your stack, heap, or grip for 1 non-<strong>daemon</strong> program. <em>(Shuffle your stack after searching it.)</em> If that program is a <strong>trojan</strong>, install it on a piece of ice. Otherwise, install it on this program."
+ :title "Muse"
+ :type :program
+ :uniqueness false}

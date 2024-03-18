@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "descent"
+ :influence-cost 2
+ :side :corp
+ :strength 1
+ :stripped-text "click, 1 credit, reveal and trash this ice from HQ: Draw 1 card. Reveal up to 2 agendas in HQ and/or Archives and shuffle them into R&D. When your turn begins, you may add this ice to HQ. Subroutine End the run."
+ :stripped-title "Descent"
+ :subtype [:code-gate :expendable]
+ :text "[click], 1[credit], reveal and trash this ice from HQ: Draw 1 card. Reveal up to 2 agendas in HQ and/or Archives and shuffle them into R&D.\nWhen your turn begins, you may add this ice to HQ.\n[subroutine] End the run."
+ :title "Descent"
+ :type :ice}

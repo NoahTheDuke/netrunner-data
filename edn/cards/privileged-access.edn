@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "privileged-access"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Play only if you are not tagged. Run Archives. If successful, instead of breaching Archives, take 1 tag. When you take a tag with this event, you may install 1 resource from your heap, paying 2 credits less. Threat 3 -> When you take a tag with this event, you may install 1 program from your heap."
+ :stripped-title "Privileged Access"
+ :subtype [:run]
+ :text "Play only if you are not tagged.\nRun Archives. If successful, instead of breaching Archives, take 1 tag.\nWhen you take a tag with this event, you may install 1 resource from your heap, paying 2[credit] less.\nThreat 3 → When you take a tag with this event, you may install 1 program from your heap."
+ :title "Privileged Access"
+ :type :event
+ :uniqueness false}

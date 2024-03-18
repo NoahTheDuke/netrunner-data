@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "cohort-guidance-program"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When your turn begins, you may choose 1 to resolve: - Trash 1 card from HQ to gain 2{credit} and draw 1 card. - Turn 1 facedown card in Archives faceup to place 1 advancement counter on a installed card."
+ :stripped-title "Cohort Guidance Program"
+ :text "When your turn begins, you may choose 1 to resolve:\n- Trash 1 card from HQ to gain 2{credit} and draw 1 card.\n- Turn 1 facedown card in Archives faceup to place 1 advancement counter on a installed card."
+ :title "Cohort Guidance Program"
+ :trash-cost 2
+ :type :asset}

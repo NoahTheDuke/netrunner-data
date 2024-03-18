@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "coalescence"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "When you install this program, place 2 power counters on it. Hosted power counter: Gain 2 credits. Use this ability only during your turn."
+ :stripped-title "Coalescence"
+ :text "When you install this program, place 2 power counters on it.\n<strong>Hosted power counter:</strong> Gain 2[credit]. Use this ability only during your turn."
+ :title "Coalescence"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 5
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "ashen-epilogue"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Shuffle your grip and heap into your stack, then remove the top 5 cards of your stack from the game. Draw 5 cards. Remove this event from the game."
+ :stripped-title "Ashen Epilogue"
+ :text "Shuffle your grip and heap into your stack, then remove the top 5 cards of your stack from the game. Draw 5 cards.\nRemove this event from the game."
+ :title "Ashen Epilogue"
+ :type :event}

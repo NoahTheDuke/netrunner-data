@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "lightning-laboratory"
+ :side :corp
+ :stripped-text "When you score this agenda, place 1 agenda counter on it. Whenever a run begins, you may remove 1 hosted agenda counter to rez up to 2 pieces of ice protecting the attacked server, ignoring all costs. When this turn ends, derez 2 pieces of ice protecting that server."
+ :stripped-title "Lightning Laboratory"
+ :subtype [:research]
+ :text "When you score this agenda, place 1 agenda counter on it.\nWhenever a run begins, you may remove 1 hosted agenda counter to rez up to 2 pieces of ice protecting the attacked server, ignoring all costs. When this turn ends, derez 2 pieces of ice protecting that server."
+ :title "Lightning Laboratory"
+ :type :agenda
+ :uniqueness false}

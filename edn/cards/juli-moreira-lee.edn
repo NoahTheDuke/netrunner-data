@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "juli-moreira-lee"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "When you install this resource, load 4 power counters onto it. When it is empty, trash it. The first time each turn you take an action on an installed resource, remove 1 hosted power counter and gain click."
+ :stripped-title "Juli Moreira Lee"
+ :subtype [:connection]
+ :text "When you install this resource, load 4 power counters onto it. When it is empty, trash it.\nThe first time each turn you take an action on an installed resource, remove 1 hosted power counter and gain [click]."
+ :title "Juli Moreira Lee"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "hearts-and-minds"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "When your turn begins, you may move 1 advancement counter from an installed card to an installed card you can advance. If this server is not protected by ice, you may also place 1 advancement counter on an installed card you can advance."
+ :stripped-title "Hearts and Minds"
+ :subtype [:political]
+ :text "When your turn begins, you may move 1 advancement counter from an installed card to an installed card you can advance. If this server is not protected by ice, you may also place 1 advancement counter on an installed card you can advance."
+ :title "Hearts and Minds"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}
