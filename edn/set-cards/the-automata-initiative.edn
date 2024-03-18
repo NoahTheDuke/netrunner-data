@@ -70,7 +70,7 @@
   :set-id "the-automata-initiative"}
  {:card-id "chrysopoeian-skimming"
   :code "34011"
-  :flavor "Even the tiniest scrap of data can become the key to riches. "
+  :flavor "Even the tiniest scrap of data can become the key to riches."
   :illustrator "Oliver Morit"
   :position 11
   :quantity 3
@@ -111,7 +111,7 @@
   :set-id "the-automata-initiative"}
  {:card-id "saci"
   :code "34017"
-  :flavor "I am life, I am sun, \nIʼm a trap, Iʼm a gun,\nIʼm the wind in the dust,\nIʼm the devil that you trust."
+  :flavor "I am life, I am sun,\nIʼm a trap, Iʼm a gun,\nIʼm the wind in the dust,\nIʼm the devil that you trust."
   :illustrator "Anthony Hutchings"
   :position 17
   :quantity 3
@@ -164,21 +164,21 @@
   :set-id "the-automata-initiative"}
  {:card-id "pichacao"
   :code "34025"
-  :flavor "\"From up here, I can see everything. And from down there, everyone can see this.\" \n—Víbora"
+  :flavor "\"From up here, I can see everything. And from down there, everyone can see this.\"\n—Víbora"
   :illustrator "Adam S. Doyle"
   :position 25
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "slap-vandal"
   :code "34026"
-  :flavor "\"I consider it an improvement.\" \n—Arissana Rocha Nahu"
+  :flavor "\"I consider it an improvement.\"\n—Arissana Rocha Nahu"
   :illustrator "Adam S. Doyle"
   :position 26
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "umbrella"
   :code "34027"
-  :flavor "\"However bad it gets out there, know that weʼll still have each other.\" \n—Tom \"Spider\" Milhas"
+  :flavor "\"However bad it gets out there, know that weʼll still have each other.\"\n—Tom \"Spider\" Milhas"
   :illustrator "BalanceSheet"
   :position 27
   :quantity 3
@@ -232,7 +232,7 @@
   :set-id "the-automata-initiative"}
  {:card-id "jaguarundi"
   :code "34035"
-  :flavor "\"Hey Br3n-N, just doing the hourly check-in. I saw a weird cyber-echo near your last node. You OK, mate?\" \n—Moth"
+  :flavor "\"Hey Br3n-N, just doing the hourly check-in. I saw a weird cyber-echo near your last node. You OK, mate?\"\n—Moth"
   :illustrator "Cat Shen"
   :position 35
   :quantity 3
@@ -300,7 +300,7 @@
   :set-id "the-automata-initiative"}
  {:card-id "mindscaping"
   :code "34045"
-  :flavor "\"When you stretch a mind it expands, sometimes until it snaps.\" \n—Adrian Seis"
+  :flavor "\"When you stretch a mind it expands, sometimes until it snaps.\"\n—Adrian Seis"
   :illustrator "Ferenc Patkós"
   :position 45
   :quantity 3
@@ -362,7 +362,7 @@
   :set-id "the-automata-initiative"}
  {:card-id "virtual-service-agent"
   :code "34054"
-  :flavor "\"No one has ever told me to get lost so politely.\" \n—Arissana Rocha Nahu"
+  :flavor "\"No one has ever told me to get lost so politely.\"\n—Arissana Rocha Nahu"
   :illustrator "Bruno Balixa"
   :position 54
   :quantity 3
@@ -403,14 +403,14 @@
   :set-id "the-automata-initiative"}
  {:card-id "valentao"
   :code "34060"
-  :flavor "\"The only rule you need to remember is that it makes the rules.\" \n—Pumpkin-and-Dumplin"
+  :flavor "\"The only rule you need to remember is that it makes the rules.\"\n—Pumpkin-and-Dumplin"
   :illustrator "Scott Uminga"
   :position 60
   :quantity 3
   :set-id "the-automata-initiative"}
  {:card-id "armed-asset-protection"
   :code "34061"
-  :flavor "\"Nuvem pays us to guard this land, and thatʼs all there is to it.\" \n—Angelique Garza Correa"
+  :flavor "\"Nuvem pays us to guard this land, and thatʼs all there is to it.\"\n—Angelique Garza Correa"
   :illustrator "Olie Boldador"
   :position 61
   :quantity 3

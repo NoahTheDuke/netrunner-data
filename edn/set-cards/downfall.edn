@@ -1,7 +1,7 @@
 [{:card-id "isolation"
   :code "26001"
   :flavor "With each passing day alone, Hoshiko found it harder to think. With each hour, the static grew louder."
-  :illustrator "Photo Tammy Gann/Unsplash & Deep Dream"
+  :illustrator "Photo Tammy Gann Unsplash. Deep Dream"
   :position 1
   :quantity 3
   :set-id "downfall"}
@@ -21,7 +21,7 @@
   :set-id "downfall"}
  {:card-id "stargate"
   :code "26004"
-  :flavor "\"Net <em>space</em> is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.\" -z\\h/r"
+  :flavor "“Net <em>space<em> is an abstraction, a white lie protecting fragile comprehensions. Do not limit yourself.”\n)—z\\h/r"
   :illustrator "Iain Fairclough"
   :position 4
   :quantity 3
@@ -48,7 +48,7 @@
   :set-id "downfall"}
  {:card-id "the-nihilist"
   :code "26008"
-  :flavor "\"...well, <em>I'm</em> laughing.\""
+  :flavor "“…well, <em>I’m</em> laughing.”"
   :illustrator "Wyn Lacabra"
   :position 8
   :quantity 3
@@ -62,14 +62,14 @@
   :set-id "downfall"}
  {:card-id "az-mccaffrey-mechanical-prodigy"
   :code "26010"
-  :flavor "\"You're not listening.\""
+  :flavor "“You’re not listening.”"
   :illustrator "Luminita Pham"
   :position 10
   :quantity 1
   :set-id "downfall"}
  {:card-id "always-have-a-backup-plan"
   :code "26011"
-  :flavor "\"Everyone told me she was reliable in a pinch.\"\n -Az McCaffrey"
+  :flavor "“Everyone told me she was reliable in a pinch.”\n—Az McCaffrey"
   :illustrator "Olie Boldador"
   :position 11
   :quantity 3
@@ -83,7 +83,7 @@
   :set-id "downfall"}
  {:card-id "flip-switch"
   :code "26013"
-  :flavor "BMI switches let runners surface without a true disconnect. Handy for a break... immediately."
+  :flavor "BMI switches let runners surface without a true disconnect. Handy for a break… immediately."
   :illustrator "Krembler"
   :position 13
   :quantity 3
@@ -97,41 +97,42 @@
   :set-id "downfall"}
  {:card-id "masterwork-v37"
   :code "26015"
-  :flavor "v35: Springs to the mount ejectors (new feature)\nv36: Reduced power to springs (x5)"
+  :flavor "v35: Springs to the mount ejectors (new feature)\nv36: Reduced power to springs (×5)"
   :illustrator "Olie Boldador"
   :position 15
   :quantity 3
   :set-id "downfall"}
  {:card-id "bukhgalter"
   :code "26016"
-  :flavor "\"Do the job. Get paid. Leave feelings at the door.\" -\"Baklan\" Bochkin"
+  :flavor "“Do the job. Get paid. Leave feelings at the door.”\n—“Baklan” Bochkin"
   :illustrator "Iain Fairclough"
   :position 16
   :quantity 3
   :set-id "downfall"}
  {:card-id "baklan-bochkin"
   :code "26017"
-  :flavor "\"Psh, let them gossip. The cat knows whose meat it has eaten.\" -\"Baklan\" Bochkin"
+  :flavor "“Psh, let them gossip. The cat knows whose meat it has eaten.”\n—“Baklan” Bochkin"
   :illustrator "Janet Bruesselbach"
   :position 17
   :quantity 3
   :set-id "downfall"}
  {:card-id "the-class-act"
   :code "26018"
-  :flavor "\"...but I am without compare.\""
+  :flavor "“…but I am without compare.”"
   :illustrator "Wyn Lacabra"
   :position 18
   :quantity 3
   :set-id "downfall"}
  {:card-id "lat-ethical-freelancer"
   :code "26019"
+  :flavor "Letʼs do it fast fast, then back to mine for tuak."
   :illustrator "Luminita Pham"
   :position 19
   :quantity 1
   :set-id "downfall"}
  {:card-id "in-the-groove"
   :code "26020"
-  :flavor "Do you know how many food deliveries I've missed this week?"
+  :flavor "Do you know how many food deliveries I’ve missed this week?"
   :illustrator "Olie Boldador"
   :position 20
   :quantity 3
@@ -144,7 +145,7 @@
   :set-id "downfall"}
  {:card-id "spec-work"
   :code "26022"
-  :flavor "\"There is never a wasted program. Someone, somewhere, will have a use for that code. Even corps are scrambling for quick fixes nowadays.\"\n-Lat"
+  :flavor "“There is never a wasted program. Someone, somewhere, will have a use for that code. Even corps are scrambling for quick fixes nowadays.”\n—Lat"
   :illustrator "Krembler"
   :position 22
   :quantity 3
@@ -165,21 +166,21 @@
   :set-id "downfall"}
  {:card-id "pelangi"
   :code "26025"
-  :flavor "It makes sysops see red. And orange, yellow, green..."
+  :flavor "It makes sysops see red. And orange, yellow, green…"
   :illustrator "Iain Fairclough"
   :position 25
   :quantity 3
   :set-id "downfall"}
  {:card-id "rezeki"
   :code "26026"
-  :flavor "\"It takes such simple things to sustain us, the most important of which is to be thankful.\" -Lat"
-  :illustrator "Jakuza"
+  :flavor "“It takes such simple things to sustain us, the most important of which is to be thankful.”\n—Lat"
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
   :position 26
   :quantity 3
   :set-id "downfall"}
  {:card-id "the-artist"
   :code "26027"
-  :flavor "\"...then let me paint you a picture.\""
+  :flavor "“…then let me paint you a picture.”"
   :illustrator "Wyn Lacabra"
   :position 27
   :quantity 3
@@ -193,27 +194,28 @@
   :set-id "downfall"}
  {:card-id "rejig"
   :code "26029"
-  :flavor "I didn't say your hopper should be hauling garbage. I said it should be hauled away <em>as</em> garbage."
+  :flavor "I didn’t say your hopper should be hauling garbage. I said it should be hauled away <em>as</em> garbage."
   :illustrator "Krembler"
   :position 29
   :quantity 3
   :set-id "downfall"}
  {:card-id "whistleblower"
   :code "26030"
-  :flavor "\"Corporations are made of people; just normal people doing their 6-to-6. The right truths, the right critique, and they can be redeemed.\" -Lat"
+  :flavor "“Corporations are made of people; just normal people doing their 6-to-6. The right truths, the right critique, and they can be redeemed.”\n—Lat"
   :illustrator "Olie Boldador"
   :position 30
   :quantity 3
   :set-id "downfall"}
  {:card-id "mirrormorph-endless-iteration"
   :code "26031"
+  :flavor "Reflection, Not Imitation."
   :illustrator "Kira L. Nguyen"
   :position 31
   :quantity 1
   :set-id "downfall"}
  {:card-id "architect-deployment-test"
   :code "26032"
-  :flavor "\"Early success should be rewarded, as it will encourage a culture of drive and competition.\"\n-Corporate Leadership for Dummies"
+  :flavor "“Early success should be rewarded, as it will encourage a culture of drive and competition.”\n—Corporate Leadership for Dummies"
   :illustrator "Krembler"
   :position 32
   :quantity 3
@@ -241,7 +243,7 @@
   :set-id "downfall"}
  {:card-id "fully-operational"
   :code "26036"
-  :flavor "Haas' unsecured servers were fortified just before the storm. Are their bioroid oracles that good, or were they tipped off?"
+  :flavor "Haas’ unsecured servers were fortified just before the storm. Are their bioroid oracles that good, or were they tipped off?"
   :illustrator "Krembler"
   :position 36
   :quantity 3
@@ -255,7 +257,7 @@
   :set-id "downfall"}
  {:card-id "cold-site-server"
   :code "26038"
-  :flavor "The Net abhors a vacuum. Any unexplained gap must be <em>made.</em>"
+  :flavor "The Net abhors a vacuum. Any unexplained gap must be <em>made</em>."
   :illustrator "Krembler"
   :position 38
   :quantity 3
@@ -275,7 +277,7 @@
   :set-id "downfall"}
  {:card-id "sting"
   :code "26041"
-  :flavor "\"'It is my nature,' said the scorpion.\"\n-Conceptual Frameworks in Bio-Ethics and Synthetic Morality, Moser University Press"
+  :flavor "“‘It is my nature,’ said the scorpion.”\n—Conceptual Frameworks in Bio-Ethics and Synthetic Morality, Moser University Press"
   :illustrator "Krembler"
   :position 41
   :quantity 3
@@ -283,13 +285,13 @@
  {:card-id "public-health-portal"
   :code "26042"
   :flavor "Hyoubu is our vanguard in the battle for hearts and minds."
-  :illustrator "Krembler, Iain Fairclough"
+  :illustrator "Krembler & Iain Fairclough"
   :position 42
   :quantity 3
   :set-id "downfall"}
  {:card-id "storgotic-resonator"
   :code "26043"
-  :flavor "\"Memory is a tangle of emotional threads. Pull one, it twists a second, unravels a third!\" -Letheia Nisei"
+  :flavor "“Memory is a tangle of emotional threads. Pull one, it twists a second, unravels a third!”\n—Letheia Nisei"
   :illustrator "Krembler"
   :position 43
   :quantity 3
@@ -327,7 +329,7 @@
   :set-id "downfall"}
  {:card-id "tiered-subscription"
   :code "26049"
-  :flavor "Subscribe for 12 months to get that premium uplink you <em>need</em> to blaze ahead of the crowd!"
+  :flavor "Subscribe for 12 months to get that premium uplink you need to blaze ahead of the crowd!"
   :illustrator "N. Hopkins"
   :position 49
   :quantity 3
@@ -341,14 +343,14 @@
   :set-id "downfall"}
  {:card-id "loot-box"
   :code "26051"
-  :flavor "Though many countries attempted to regulate digital loot boxes in the early 21st century, GameNET has managed to circumvent any such laws via explicit, transparent percentage rates... and some very determined lobbyists."
+  :flavor "Though many countries attempted to regulate digital loot boxes in the early 21st century, GameNET has managed to circumvent any such laws via explicit, transparent percentage rates… and some very determined lobbyists."
   :illustrator "Krembler"
   :position 51
   :quantity 3
   :set-id "downfall"}
  {:card-id "focus-group"
   :code "26052"
-  :flavor "\"There's gonna be catering, right?\""
+  :flavor "“There’s gonna be catering, right?”"
   :illustrator "Dimik"
   :position 52
   :quantity 3
@@ -362,28 +364,28 @@
   :set-id "downfall"}
  {:card-id "increased-drop-rates"
   :code "26054"
-  :flavor "Ultra-Mythic chance ↑!↑!↑! Free Vorpal Tommy Gun [epic] and pinstripe suit [cosmetic] with 10x buy-in!"
-  :illustrator "N. Hopkins, Krembler"
+  :flavor "Ultra-Mythic chance ↑!↑!↑! Free Vorpal Tommy Gun [epic] and pinstripe suit [cosmetic] with 10× buy-in!"
+  :illustrator "N. Hopkins & Krembler"
   :position 54
   :quantity 3
   :set-id "downfall"}
  {:card-id "divested-trust"
   :code "26055"
-  :flavor "As the documents show, for eight months they have operated as an entirely independent fiscal entity. We are as appalled at the carelessness as you are, and fully support City Hall's investigation."
+  :flavor "As the documents show, for eight months they have operated as an entirely independent fiscal entity. We are as appalled at the carelessness as you are, and fully support City Hall’s investigation."
   :illustrator "Krembler"
   :position 55
   :quantity 3
   :set-id "downfall"}
  {:card-id "sds-drone-deployment"
   :code "26056"
-  :flavor "\"Drones are precision instruments. Collateral damage is merely an undisclosed target.\" -Chief \"Pinchy\" Wilson"
+  :flavor "“Drones are precision instruments. Collateral damage is merely an undisclosed target.”\n—Chief “Pinchy” Wilson"
   :illustrator "Olie Boldador"
   :position 56
   :quantity 3
   :set-id "downfall"}
  {:card-id "roughneck-repair-squad"
   :code "26057"
-  :flavor "\"There's something about the human touch that androids will never replace.\" -Mila Braun"
+  :flavor "“There’s something about the human touch that androids will never replace.”\n—Mila Braun"
   :illustrator "Olie Boldador"
   :position 57
   :quantity 3
@@ -410,7 +412,7 @@
   :set-id "downfall"}
  {:card-id "secure-and-protect"
   :code "26061"
-  :flavor "Secure Servers. Contain Infections. Protect Data.\n-The SecTech Mantra"
+  :flavor "Secure Servers. Contain Infections. Protect Data.\n—The SecTech Mantra"
   :illustrator "Krembler"
   :position 61
   :quantity 3
@@ -423,14 +425,14 @@
   :set-id "downfall"}
  {:card-id "vulnerability-audit"
   :code "26063"
-  :flavor "The Fracture was no different from any other crisis. As always, Management's first instinct was to find someone to blame. Getting food up to Midway or He3 down to power Earthside hospitals are trivialities compared to the important work of salving Executive ego and keeping one's job."
+  :flavor "The Fracture was no different from any other crisis. As always, Management’s first instinct was to find someone to blame. Getting food up to Midway or He3 down to power Earthside hospitals are trivialities compared to the important work of salving Executive ego and keeping one’s job."
   :illustrator "Iain Fairclough"
   :position 63
   :quantity 3
   :set-id "downfall"}
  {:card-id "csr-campaign"
   :code "26064"
-  :flavor "\"By matching funds on your donations, the Space Elevator Authority has already planted over eight million trees on the Pacific coast. Together we can restore New Angeles to its former glory.\"\n-Elizabeth Mills"
+  :flavor "“By matching funds on your donations, the Space Elevator Authority has already planted over eight million trees on the Pacific coast. Together we can restore New Angeles to its former glory.”\n—Elizabeth Mills"
   :illustrator "Elizaveta Sokolova"
   :position 64
   :quantity 3

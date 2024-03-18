@@ -1,13 +1,13 @@
 [{:card-id "hoshiko-shiro-untold-protagonist"
   :code "26066"
-  :flavor "Please, let me have this dream.\nI'm going to be my own kind of hero."
+  :flavor "Please, let me have this dream.\nI’m going to be my own kind of hero."
   :illustrator "Luminita Pham"
   :position 66
-  :quantity 3
+  :quantity 1
   :set-id "uprising"}
  {:card-id "moshing"
   :code "26067"
-  :flavor "Let's start a <strong>RIOT</strong>."
+  :flavor "Let’s start a <em>RIOT.</em>"
   :illustrator "Patrick Burk"
   :position 67
   :quantity 3
@@ -28,7 +28,7 @@
   :set-id "uprising"}
  {:card-id "keiko"
   :code "26070"
-  :flavor "\"...and friends hold you close. I vow never to let go of my princess.\""
+  :flavor "“…and friends hold you close. I vow never to let go of my princess.”"
   :illustrator "Olie Boldador"
   :position 70
   :quantity 3
@@ -56,7 +56,7 @@
   :set-id "uprising"}
  {:card-id "bravado"
   :code "26074"
-  :flavor "\"Hold my wine. I'm going in.\" -Red Comyn"
+  :flavor "“Hold my wine. I’m going in.”\n—Red Comyn"
   :illustrator "Kevin Tame"
   :position 74
   :quantity 3
@@ -76,14 +76,14 @@
   :set-id "uprising"}
  {:card-id "prognostic-q-loop"
   :code "26077"
-  :flavor "\"Overinflate a superposition-stack and optimal code forms the negentropy traverse.\"\n\"Aha, like putting too much air into a balloon?!\""
+  :flavor "“Overinflate a superposition-stack and optimal code forms the negentropy traverse.”\n“Aha, like putting too much air into a balloon?!”"
   :illustrator "N. Hopkins"
   :position 77
   :quantity 3
   :set-id "uprising"}
  {:card-id "swift"
   :code "26078"
-  :flavor "\"Red ones go faster.\" - Ken \"Express\" Tenma"
+  :flavor "“Red ones go faster.”\n—Ken “Express” Tenma"
   :illustrator "Kira L. Nguyen"
   :position 78
   :quantity 3
@@ -96,7 +96,7 @@
   :set-id "uprising"}
  {:card-id "makler"
   :code "26080"
-  :flavor "\"Debt is beautiful... <em>after</em> it is repaid.\"\n-\"Baklan\" Bochkin"
+  :flavor "“Debt is beautiful… <em>after</em> it is repaid.”\n—“Baklan” Bochkin"
   :illustrator "Krembler"
   :position 80
   :quantity 3
@@ -110,15 +110,15 @@
   :set-id "uprising"}
  {:card-id "the-back"
   :code "26082"
-  :flavor "\"Junk plus undiscerning buyers equals profit.\"\n-Az McCaffrey"
+  :flavor "“Junk plus undiscerning buyers equals profit.”\n—Az McCaffrey"
   :illustrator "Izzy Pruett"
   :position 82
   :quantity 3
   :set-id "uprising"}
  {:card-id "harmony-ar-therapy"
   :code "26083"
-  :flavor "Breathe in and visualise your happy place. Breathe out. It's safe and calm and all your best days are there. Breathe in. Very good. The cortex scan has finished. Breathe out and open your eyes..."
-  :illustrator "Patrick Burk, Krembler"
+  :flavor "Breathe in and visualise your happy place. Breathe out. It’s safe and calm and all your best days are there. Breathe in. Very good. The cortex scan has finished. Breathe out and open your eyes…"
+  :illustrator "Patrick Burk & Krembler"
   :position 83
   :quantity 3
   :set-id "uprising"}
@@ -131,14 +131,14 @@
   :set-id "uprising"}
  {:card-id "simulchip"
   :code "26085"
-  :flavor "\"I <em>could</em> let my code evolve something new, but sometimes I just want to remember yesterday's solution.\"\n-Lane"
+  :flavor "“I could let my code evolve something new, but sometimes I just want to remember yesterday’s solution.”\n—Lane"
   :illustrator "Elizaveta Sokolova"
   :position 85
   :quantity 3
   :set-id "uprising"}
  {:card-id "cordyceps"
   :code "26086"
-  :illustrator "Krembler, Zoe Cohen"
+  :illustrator "Krembler & Zoe Cohen"
   :position 86
   :quantity 3
   :set-id "uprising"}
@@ -151,7 +151,7 @@
   :set-id "uprising"}
  {:card-id "mantle"
   :code "26088"
-  :flavor "\"Invisibility made it possible to get them, but it made it impossible to enjoy them when they are got.\"\n-H.G. Wells, <em>The Invisible Man</em>"
+  :flavor "“Invisibility made it possible to get them, but it made it impossible to enjoy them when they are got.”\n—H.G. Wells, <em>The Invisible Man<em>"
   :illustrator "Krembler"
   :position 88
   :quantity 3
@@ -172,7 +172,7 @@
   :set-id "uprising"}
  {:card-id "cybertrooper-talut"
   :code "26091"
-  :flavor "He's nice enough, but not when there are 5,187 of him."
+  :flavor "He’s nice enough, but not when there are 5,187 of him."
   :illustrator "Owen Sinodov"
   :position 91
   :quantity 3
@@ -186,14 +186,14 @@
   :set-id "uprising"}
  {:card-id "buffer-drive"
   :code "26093"
-  :flavor "\"Future me <em>needs</em> those 60 petabytes of cat vids.\"\n-Princess Space Kitten"
+  :flavor "“Future me <em>needs</em> those 60 petabytes of cat vids.”\n—Princess Space Kitten"
   :illustrator "Elizaveta Sokolova"
   :position 93
   :quantity 3
   :set-id "uprising"}
  {:card-id "daily-casts"
   :code "26094"
-  :flavor "To strike another blow to the corporatocracy tomorrow night, don't forget to like and subscribe!"
+  :flavor "To strike another blow to the corporatocracy tomorrow night, don’t forget to like and subscribe!"
   :illustrator "Olie Boldador"
   :position 94
   :quantity 3
@@ -207,7 +207,7 @@
   :set-id "uprising"}
  {:card-id "megaprix-qualifier"
   :code "26096"
-  :flavor "\"Win Hard or Lose Hard. All that matters is they're talking about you and not the competition.\"\n-Tan \"Nitro\" Nyugen, Toretto-Extreme Team Manager"
+  :flavor "“Win Hard or Lose Hard. All that matters is they’re talking about you and not the competition.”\n—Tan “Nitro” Nyugen, Toretto-Extreme Team Manager"
   :illustrator "Krembler"
   :position 96
   :quantity 3
@@ -220,7 +220,7 @@
   :set-id "uprising"}
  {:card-id "bass-ch1r180g4"
   :code "26098"
-  :flavor "The Coordinator is always calm, always smiling, and always tolerant. A worker who knows his skills, knows his role, and knows his place. No master need look into his plastic eyes and fear the flames of revolution, or quake at a forgotten class reaching for self-expression.\n...but who ordered him to wear that hat?"
+  :flavor "The Coordinator is always calm, always smiling, and always tolerant. A worker who knows his skills, knows his role, and knows his place. No master need look into his plastic eyes and fear the flames of revolution, or quake at a forgotten class reaching for self-expression.\n…but who ordered him to wear that hat?"
   :illustrator "Olie Boldador"
   :position 98
   :quantity 3
@@ -241,7 +241,7 @@
   :set-id "uprising"}
  {:card-id "drafter"
   :code "26101"
-  :flavor "Each generation of design assistants makes a sysop's job easier. They need only speak and it will be so."
+  :flavor "Each generation of design assistants makes a sysop’s job easier. They need only speak and it will be so."
   :illustrator "Krembler"
   :position 101
   :quantity 3
@@ -255,35 +255,35 @@
   :set-id "uprising"}
  {:card-id "next-activation-command"
   :code "26103"
-  :flavor "\"Uh oh, Keiko! Looks like we've pulled aggro!\""
+  :flavor "“Uh oh, Keiko! Looks like we’ve pulled aggro!”"
   :illustrator "NtscapeNavigator"
   :position 103
   :quantity 3
   :set-id "uprising"}
  {:card-id "scapenet"
   :code "26104"
-  :flavor "The Net is the consensual hallucination of the world's electronic architecture. <em>Our</em> electronic architecture. Don't get mad when the Runners succeed—change the rules."
+  :flavor "The Net is the consensual hallucination of the world’s electronic architecture. <em>Our</em> electronic architecture. Don’t get mad when the Runners succeed—change the rules."
   :illustrator "Zoe Cohen"
   :position 104
   :quantity 3
   :set-id "uprising"}
  {:card-id "tranquility-home-grid"
   :code "26105"
-  :flavor "The oldest of Heinlein's domes, the self-proclaimed heart of Lunar culture."
+  :flavor "The oldest of Heinlein’s domes, the self-proclaimed heart of Lunar culture."
   :illustrator "Zoe Cohen"
   :position 105
   :quantity 3
   :set-id "uprising"}
  {:card-id "flower-sermon"
   :code "26106"
-  :flavor "\"Voice is a sledgehammer. Text, a blunt saw. Truth requires subtler instruments.\"\n-Dr. Tang, Address to the Hyoubu Steering Committee"
+  :flavor "“Voice is a sledgehammer. Text, a blunt saw. Truth requires subtler instruments.”\n—Dr. Tang, Address to the Hyoubu Steering Committee"
   :illustrator "N. Hopkins"
   :position 106
   :quantity 3
   :set-id "uprising"}
  {:card-id "prana-condenser"
   :code "26107"
-  :flavor "Constructive feedback to the neural field reliably causes greater degradation than spike inputs. The mind has no defence against its own echoes."
+  :flavor "Constructive feedback to the neural field reliably causes greater degradation than spike inputs. The mind has no defense against its own echoes."
   :illustrator "NtscapeNavigator"
   :position 107
   :quantity 3
@@ -297,7 +297,7 @@
   :set-id "uprising"}
  {:card-id "konjin"
   :code "26109"
-  :flavor "\"The Konjin dons the mask of our fears, but what lies underneath?\"\n-Lat"
+  :flavor "“The Konjin dons the mask of our fears, but what lies underneath?”"
   :illustrator "Krembler"
   :position 109
   :quantity 3
@@ -316,7 +316,7 @@
   :set-id "uprising"}
  {:card-id "la-costa-grid"
   :code "26112"
-  :flavor "Some slums of New Angeles are so worn down, City Hall calls the acres of windowless clone barracks \"gentrification\" with a straight face."
+  :flavor "Some slums of New Angeles are so worn down, City Hall calls the acres of windowless clone barracks “gentrification” with a straight face."
   :illustrator "Eirik H. Kiil"
   :position 112
   :quantity 3
@@ -330,8 +330,8 @@
   :set-id "uprising"}
  {:card-id "bellona"
   :code "26114"
-  :flavor "Mars' tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these \"lag-ghosts\" into compelling interactables—more responsive than the real thing!"
-  :illustrator "N. Hopkins, Iain Fairclough"
+  :flavor "Mars’ tiny population made rich multiplayer experiences a big challenge. We cracked it by live-beaming the gestalt of our <em>Earth</em> playerbase second-by-second. Bellona weaves these “lag-ghosts” into compelling interactables—more responsive than the real thing!"
+  :illustrator "N. Hopkins & Iain Fairclough"
   :position 114
   :quantity 3
   :set-id "uprising"}
@@ -357,28 +357,28 @@
   :set-id "uprising"}
  {:card-id "sync-rerouting"
   :code "26118"
-  :flavor "\"Deep inspect every packet on the continent. Burn out all our stacks if you have to. We cannot let these terrorists cover their tracks.\" -CEO Jenkins"
+  :flavor "“Deep inspect every packet on the continent. Burn out all our stacks if you have to. We cannot let these terrorists cover their tracks.”\n—CEO Jenkins"
   :illustrator "N. Hopkins"
   :position 118
   :quantity 3
   :set-id "uprising"}
  {:card-id "ganked"
   :code "26119"
-  :flavor "Roll Initiative..."
+  :flavor "Roll Initiative…"
   :illustrator "N. Hopkins"
   :position 119
   :quantity 3
   :set-id "uprising"}
  {:card-id "earth-station-sea-headquarters"
   :code "26120"
-  :flavor "The First Step...\n...Further Beyond"
+  :flavor "The First Step…\n…Further Beyond"
   :illustrator "Kira L. Nguyen"
   :position 120
-  :quantity 3
+  :quantity 1
   :set-id "uprising"}
  {:card-id "transport-monopoly"
   :code "26121"
-  :flavor "Once you're on the Space Elevator Authority's blacklist, you aren't going anywhere."
+  :flavor "Once you’re on the Space Elevator Authority’s blacklist, you aren’t going anywhere."
   :illustrator "Zoe Cohen"
   :position 121
   :quantity 3
@@ -404,14 +404,14 @@
   :set-id "uprising"}
  {:card-id "winchester"
   :code "26125"
-  :flavor "\"I don't know how Skorpios gets these designs past Brand Management.\"\n-Liz Campbell, VP Project Security"
+  :flavor "“I donʼt know how Skorpios gets these designs past Brand Management.”\n—Liz Campbell, VP Project Security"
   :illustrator "NtscapeNavigator"
   :position 125
   :quantity 3
   :set-id "uprising"}
  {:card-id "argus-crackdown"
   :code "26126"
-  :flavor "\"If it moves, shoot it. Then shoot it again.\"\n-Chief Slee"
+  :flavor "“If it moves, shoot it. Then shoot it again.”\n—Chief Slee"
   :illustrator "Krembler"
   :position 126
   :quantity 3
@@ -425,14 +425,14 @@
   :set-id "uprising"}
  {:card-id "cyberdex-sandbox"
   :code "26128"
-  :flavor "\"All <em><strong>Dragon</strong></em>-rated threats should only be stored in a single clean-start air-gapped server, in a shielded room, under at least 200 metres of bedrock[...]\"\n-Section 5.18.4, Cyberdex Employee Handbook"
+  :flavor "“All <em>Dragon</em>-rated threats should only be stored in a single clean-start air-gapped server, in a shielded room, under at least 200 metres of bedrock[…]”\n—Section 5.18.4, Cyberdex Employee Handbook"
   :illustrator "Krembler"
   :position 128
   :quantity 3
   :set-id "uprising"}
  {:card-id "false-lead"
   :code "26129"
-  :flavor "\"Begin a voice message to Steve: I'm in some random city staring at yet another empty room. This hot insider scoop of yours feels distinctly chilly.\""
+  :flavor "“Begin a voice message to Steve: I’m in some random city staring at yet another empty room. This hot insider scoop of yours feels distinctly chilly.”"
   :illustrator "NtscapeNavigator"
   :position 129
   :quantity 3

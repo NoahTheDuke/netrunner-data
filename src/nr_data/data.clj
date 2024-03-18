@@ -5,7 +5,8 @@
    [clojure.set :refer [rename-keys union]]
    [clojure.string :as str]
    [cond-plus.core :refer [cond+]]
-   [nr-data.utils :refer [cards->map prune-null-fields]]))
+   [nr-data.utils :refer [cards->map prune-null-fields]]
+   [medley.core :refer [find-first]]))
 
 (defn read-edn-file
   [file-path]
@@ -132,12 +133,22 @@
                 :let [id (:id card)]]
             {id (into {}
                       (for [[f cs] format->cards
-                            :let [mwl (get-in formats [f :mwl])]]
+                            :let [mwl (get-in formats [f :mwl])
+                                  banned-subtypes (get-in mwls [mwl :subtypes] {})]]
                         {(keyword f)
                          (cond
                            ;; gotta check mwl first
                            (get-in mwls [mwl :cards id])
                            (let [restrictions (get-in mwls [mwl :cards id])]
+                             (merge
+                               (when (:deck-limit restrictions)
+                                 {:banned true})
+                               (when (:is-restricted restrictions)
+                                 {:legal true :restricted true})
+                               (when (:points restrictions)
+                                 {:legal true :points (:points restrictions)})))
+                           (seq (keep banned-subtypes (:subtype card)))
+                           (let [restrictions (into {} (keep banned-subtypes) (:subtype card))]
                              (merge
                                (when (:deck-limit restrictions)
                                  {:banned true})

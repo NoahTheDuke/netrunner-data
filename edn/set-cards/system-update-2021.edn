@@ -7,21 +7,21 @@
   :set-id "system-update-2021"}
  {:card-id "reina-roja-freedom-fighter"
   :code "31002"
-  :flavor "I'm through with games."
+  :flavor "I’m through with games."
   :illustrator "Benjamin Giletti"
   :position 2
   :quantity 1
   :set-id "system-update-2021"}
  {:card-id "en-passant"
   :code "31003"
-  :flavor "\"If you're not in position to press the advantage, you'll never gain the upper hand.\"\n—The Playbook"
+  :flavor "“If you’re not in position to press the advantage, you’ll never gain the upper hand.”\n—The Playbook"
   :illustrator "Seojun Park"
   :position 3
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "retrieval-run"
   :code "31004"
-  :flavor "Someone's trash is another's treasure."
+  :flavor "Someone’s trash is another’s treasure."
   :illustrator "Zoe Cohen"
   :position 4
   :quantity 3
@@ -35,14 +35,14 @@
   :set-id "system-update-2021"}
  {:card-id "corroder"
   :code "31006"
-  :flavor "\"Oh, holy Rust,\nTurn foundation into dust.\nOh, sacred Flood,\nWash away what we have become.\"\n—Rent Strike"
+  :flavor "“Oh, holy Rust,\nTurn foundation into dust.\nOh, sacred Flood,\nWash away what we have become.”\n—Rent Strike"
   :illustrator "Zoe Cohen"
   :position 6
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "imp"
   :code "31007"
-  :flavor "Just don't let it bounce back up the feed to <strong>your</strong> rig."
+  :flavor "Just don’t let it bounce back up the feed to <strong>your</strong> rig."
   :illustrator "Krembler"
   :position 7
   :quantity 3
@@ -71,7 +71,7 @@
  {:card-id "scrubber"
   :code "31011"
   :flavor "Destruction is forever."
-  :illustrator "Krembler, Zoe Cohen"
+  :illustrator "Krembler & Zoe Cohen"
   :position 11
   :quantity 3
   :set-id "system-update-2021"}
@@ -91,49 +91,49 @@
   :set-id "system-update-2021"}
  {:card-id "steve-cambridge-master-grifter"
   :code "31014"
-  :flavor "Yeah. I'm thinking I'm back."
+  :flavor "Yeah. I’m thinking I’m back."
   :illustrator "Benjamin Giletti"
   :position 14
   :quantity 1
   :set-id "system-update-2021"}
  {:card-id "career-fair"
   :code "31015"
-  :flavor "\"I see great opportunities ahead for you.\""
+  :flavor "“I see great opportunities ahead for you.”"
   :illustrator "Zoe Cohen"
   :position 15
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "emergency-shutdown"
   :code "31016"
-  :flavor "\"Did you order the defrag?\"\n\"...I thought you did?\""
+  :flavor "“Did you order the defrag?”\n“…I thought you did?”"
   :illustrator "Nedliv Audiovisuell"
   :position 16
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "forged-activation-orders"
   :code "31017"
-  :flavor "\"Electronic warfare, like all warfare, is based on deception.\"\n—The Playbook"
+  :flavor "“Electronic warfare, like all warfare, is based on deception.”\n—The Playbook"
   :illustrator "Seojun Park"
   :position 17
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "inside-job"
   :code "31018"
-  :flavor "\"I'm not an actor, but I <strong>am</strong> a professional.\"\n—Gabriel Santiago"
+  :flavor "“I’m not an actor, but I <strong>am</strong> a professional.”\n—Gabriel Santiago"
   :illustrator "Benjamin Giletti"
   :position 18
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "legwork"
   :code "31019"
-  :flavor "Go outside. Work with your hands. It'll do you good."
+  :flavor "Go outside. Work with your hands. It’ll do you good."
   :illustrator "Zoe Cohen"
   :position 19
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "networking"
   :code "31020"
-  :flavor "It's not what you know. It's who you know."
+  :flavor "It’s not what you know. It’s who you know."
   :illustrator "Nedliv Audiovisuell"
   :position 20
   :quantity 3
@@ -209,14 +209,14 @@
   :set-id "system-update-2021"}
  {:card-id "chameleon"
   :code "31031"
-  :flavor "I saved it to my desktop once; couldn't find the thing for a week!"
+  :flavor "I saved it to my desktop once; couldn’t find the thing for a week!"
   :illustrator "Krembler"
   :position 31
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "egret"
   :code "31032"
-  :flavor "\"Pallas Athena sent a heron gliding down the night. They could not see it passing, but they heard its cry.\"\n—The Iliad"
+  :flavor "“Pallas Athena sent a heron gliding down the night. They could not see it passing, but they heard its cry.”\n—The Iliad"
   :illustrator "N. Hopkins"
   :position 32
   :quantity 3
@@ -237,8 +237,8 @@
   :set-id "system-update-2021"}
  {:card-id "aesop-s-pawnshop"
   :code "31035"
-  :flavor "If you have something to sell, Aesop is interested in buying. The only detail he won't ask is where you got it."
-  :illustrator "Krembler, Alexis Spicer"
+  :flavor "If you have something to sell, Aesop is interested in buying. The only detail he won’t ask is where you got it."
+  :illustrator "Krembler & Alexis Spicer"
   :position 35
   :quantity 3
   :set-id "system-update-2021"}
@@ -251,7 +251,7 @@
   :set-id "system-update-2021"}
  {:card-id "dirty-laundry"
   :code "31037"
-  :flavor "I thought I'd feel bad about this. I don't."
+  :flavor "I thought I’d feel bad about this. I don’t."
   :illustrator "Chelsea Geter"
   :position 37
   :quantity 3
@@ -259,7 +259,7 @@
  {:card-id "prepaid-voicepad"
   :code "31038"
   :flavor "They were off the market for years, till the Beanstalk Crisis made redundancy fashionable again."
-  :illustrator "Zoe Cohen, Alexis Spicer"
+  :illustrator "Zoe Cohen & Alexis Spicer"
   :position 38
   :quantity 3
   :set-id "system-update-2021"}
@@ -300,7 +300,7 @@
   :set-id "system-update-2021"}
  {:card-id "magnet"
   :code "31044"
-  :flavor "A triumph of bioroid-driven iterative design. A pity no one understands how it works..."
+  :flavor "A triumph of bioroid-driven iterative design. A pity no one understands how it works…"
   :illustrator "Zoe Cohen"
   :position 44
   :quantity 3
@@ -321,7 +321,7 @@
   :set-id "system-update-2021"}
  {:card-id "archived-memories"
   :code "31047"
-  :flavor "It's not sleep. Sleep is dreams, activity, change. These are still, cold, dead."
+  :flavor "It’s not sleep. Sleep is dreams, activity, change. These are still, cold, dead."
   :illustrator "N. Hopkins"
   :position 47
   :quantity 3
@@ -356,7 +356,7 @@
   :set-id "system-update-2021"}
  {:card-id "nisei-mk-ii"
   :code "31052"
-  :flavor "We could stop disasters before they happen, murderers before they act. Surely that's worth an android's sanity?"
+  :flavor "We could stop disasters before they happen, murderers before they act. Surely that’s worth an android’s sanity?"
   :illustrator "Dimik"
   :position 52
   :quantity 3
@@ -391,7 +391,7 @@
   :set-id "system-update-2021"}
  {:card-id "celebrity-gift"
   :code "31057"
-  :flavor "We knew we'd found this season's must-have when all twenty of the A-tier influencers refused to return the teacup alpacas."
+  :flavor "We knew we’d found this season’s must-have when all twenty of the A-tier influencers refused to return the teacup alpacas."
   :illustrator "N. Hopkins"
   :position 57
   :quantity 3
@@ -419,7 +419,7 @@
   :set-id "system-update-2021"}
  {:card-id "license-acquisition"
   :code "31061"
-  :flavor "Alright everyone! The rights go live in exactly fourteen days. I want merch, I want tie-ins, I want sequels! Let's go!"
+  :flavor "Alright everyone! The rights go live in exactly fourteen days. I want merch, I want tie-ins, I want sequels! Let’s go!"
   :illustrator "Zoe Cohen"
   :position 61
   :quantity 3
@@ -490,13 +490,13 @@
  {:card-id "hostile-takeover"
   :code "31071"
   :flavor "Sometimes the small fry need a little convincing to put profit over principle."
-  :illustrator "NtscapeNavigator, Matt Burton"
+  :illustrator "NtscapeNavigator & Matt Burton"
   :position 71
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "oaktown-renovation"
   :code "31072"
-  :flavor "There's only one season in Oaktown: construction."
+  :flavor "There’s only one season in Oaktown: construction."
   :illustrator "Kira L. Nguyen"
   :position 72
   :quantity 3
@@ -510,7 +510,7 @@
   :set-id "system-update-2021"}
  {:card-id "corporate-town"
   :code "31074"
-  :flavor "It's amazing what people will endure for job security."
+  :flavor "It’s amazing what people will endure for job security."
   :illustrator "Seojun Park"
   :position 74
   :quantity 3
@@ -537,7 +537,7 @@
   :set-id "system-update-2021"}
  {:card-id "punitive-counterstrike"
   :code "31078"
-  :flavor "\"Don't think we don't care. We are <strong>very</strong> upset.\""
+  :flavor "“Don’t think we don’t care. We are <strong>very</strong> upset.”"
   :illustrator "Zoe Cohen"
   :position 78
   :quantity 3
@@ -558,14 +558,14 @@
   :set-id "system-update-2021"}
  {:card-id "enigma"
   :code "31081"
-  :flavor "No runner sees the same thing. Some say it's a beast, others a man. But they all agree that it smells blue, and tastes like eternity."
+  :flavor "No runner sees the same thing. Some say it’s a beast, others a man. But they all agree that it smells blue, and tastes like eternity."
   :illustrator "Benjamin Giletti"
   :position 81
   :quantity 3
   :set-id "system-update-2021"}
  {:card-id "subliminal-messaging"
   :code "31082"
-  :flavor "You don't notice, but their profits do."
+  :flavor "You don’t notice, but their profits do."
   :illustrator "Seojun Park"
   :position 82
   :quantity 3
