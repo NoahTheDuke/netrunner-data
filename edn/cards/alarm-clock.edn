@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "alarm-clock"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "When your turn begins, you may run HQ. The first time you encounter a piece of ice during that run, you may spend click click to bypass it."
+ :stripped-title "Alarm Clock"
+ :text "When your turn begins, you may run HQ. The first time you encounter a piece of ice during that run, you may spend [click][click] to bypass it."
+ :title "Alarm Clock"
+ :type :hardware
+ :uniqueness true}

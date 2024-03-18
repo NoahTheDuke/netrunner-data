@@ -717,4 +717,14 @@
   :name "The Automata Initiative"
   :position 1
   :set-type :data-pack
+  :size 65}
+ {:code "rwr"
+  :cycle-id "liberation"
+  :date-release "2024-03-18"
+  :deluxe false
+  :ffg-id nil
+  :id "rebellion-without-rehearsal"
+  :name "Rebellion Without Rehearsal"
+  :position 2
+  :set-type :data-pack
   :size 65}]

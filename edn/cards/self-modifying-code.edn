@@ -5,9 +5,9 @@
  :influence-cost 3
  :memory-cost 2
  :side :runner
- :stripped-text "2 credits, trash: Search your stack for a program. Install it."
+ :stripped-text "2 credits, trash: Search your stack for 1 program. Install it. (Shuffle your stack after searching it.)"
  :stripped-title "Self-modifying Code"
- :text "<strong>2[credit]</strong>, [trash]<strong>:</strong> Search your stack for a program. Install it."
+ :text "<strong>2[credit]</strong>, <strong>[trash]:</strong> Search your stack for 1 program. Install it. <em>(Shuffle your stack after searching it.)</em>"
  :title "Self-modifying Code"
  :type :program
  :uniqueness false}

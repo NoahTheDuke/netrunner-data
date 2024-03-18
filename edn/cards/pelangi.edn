@@ -5,10 +5,10 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
- :stripped-text "When you install this program, place 2 virus counters on it. Hosted virus counter: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn."
+ :stripped-text "When you install this program, place 2 virus counters on it. Hosted virus counter: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of this encounter. Use this ability only once per turn."
  :stripped-title "Pelangi"
  :subtype [:virus]
- :text "When you install this program, place 2 virus counters on it.\n<strong>Hosted virus counter:</strong> Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn."
+ :text "When you install this program, place 2 virus counters on it.\n<strong>Hosted virus counter:</strong> Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of this encounter. Use this ability only once per turn."
  :title "Pelangi"
  :type :program
  :uniqueness false}

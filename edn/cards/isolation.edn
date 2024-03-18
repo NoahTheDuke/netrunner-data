@@ -4,9 +4,9 @@
  :id "isolation"
  :influence-cost 1
  :side :runner
- :stripped-text "As an additional cost to play this event, trash an installed resource. Gain 7 credits."
+ :stripped-text "As an additional cost to play this event, trash 1 installed resource. Gain 7 credits."
  :stripped-title "Isolation"
- :text "As an additional cost to play this event, trash an installed resource.\nGain 7[credit]."
+ :text "As an additional cost to play this event, trash 1 installed resource.\nGain 7[credit]."
  :title "Isolation"
  :type :event
  :uniqueness false}

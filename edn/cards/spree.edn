@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "spree"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Place 3 power counters on this event, then run any server. Hosted power counter: Host 1 installed trojan program on a piece of ice protecting the attacked server."
+ :stripped-title "Spree"
+ :subtype [:run]
+ :text "Place 3 power counters on this event, then run any server.\n<strong>Hosted power counter:</strong> Host 1 installed <strong>trojan</strong> program on a piece of ice protecting the attacked server."
+ :title "Spree"
+ :type :event
+ :uniqueness false}

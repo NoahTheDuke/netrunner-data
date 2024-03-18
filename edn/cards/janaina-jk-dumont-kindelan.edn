@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "janaina-jk-dumont-kindelan"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "When your turn begins, place 3 credits on this asset. click, add this asset to HQ: Take all credits from this asset. You may install 1 card from HQ."
+ :stripped-title "Janaina \"JK\" Dumont Kindelan"
+ :subtype [:academic :clone]
+ :text "When your turn begins, place 3[credit] on this asset.\n[click], <strong>add this asset to HQ:</strong> Take all credits from this asset. You may install 1 card from HQ."
+ :title "Janaína \"JK\" Dumont Kindelán"
+ :trash-cost 1
+ :type :asset
+ :uniqueness true}

@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 6
- :stripped-text "This ice has -1 strength for each installed icebreaker. Subroutine Trash 1 program that is not a decoder, fracter, or killer. Subroutine End the run."
+ :stripped-text "This ice gets 1 strength for each installed icebreaker. Subroutine Trash 1 installed program that is not a decoder, fracter, or killer. Subroutine End the run."
  :stripped-title "Hagen"
  :subtype [:barrier :destroyer]
- :text "This ice has -1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run."
+ :text "This ice gets −1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 installed program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run."
  :title "Hagen"
  :type :ice
  :uniqueness false}

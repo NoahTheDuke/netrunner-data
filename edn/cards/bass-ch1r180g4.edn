@@ -7,7 +7,7 @@
  :stripped-text "click, trash: Gain click click."
  :stripped-title "Bass CH1R180G4"
  :subtype [:bioroid]
- :text "[click], [trash]<strong>:</strong> Gain [click][click]."
+ :text "[click], <strong>[trash]:</strong> Gain [click][click]."
  :title "Bass CH1R180G4"
  :trash-cost 4
  :type :asset

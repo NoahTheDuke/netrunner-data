@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "eminent-domain"
+ :side :corp
+ :stripped-text "click, 1 credit, reveal and trash this agenda from HQ: Install and rez 1 card from HQ, paying a total of 5 credits less. When you score this agenda, you may search R&D for 1 card. (Shuffle R&D after searching it.) Install and rez that card, ignoring all costs."
+ :stripped-title "Eminent Domain"
+ :subtype [:expansion :expendable]
+ :text "[click], <strong>1[credit]</strong>, <strong>reveal and trash this agenda from HQ:</strong> Install and rez 1 card from HQ, paying a total of 5[credit] less.\nWhen you score this agenda, you may search R&D for 1 card. <em>(Shuffle R&D after searching it.)</em> Install and rez that card, ignoring all costs."
+ :title "Eminent Domain"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "the-powers-that-be"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Whenever you score an agenda, you may install 1 card from HQ or Archives, ignoring all costs."
+ :stripped-title "The Powers That Be"
+ :subtype [:ritzy]
+ :text "Whenever you score an agenda, you may install 1 card from HQ or Archives, ignoring all costs."
+ :title "The Powers That Be"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

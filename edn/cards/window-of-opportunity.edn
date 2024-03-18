@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "window-of-opportunity"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "You may install 1 program or piece of hardware from your grip. Run any server. When that run begins, derez 1 piece of ice protecting that server. When that run ends, the Corp may rez the ice derezzed this way, ignoring all costs."
+ :stripped-title "Window of Opportunity"
+ :subtype [:run]
+ :text "You may install 1 program or piece of hardware from your grip.\nRun any server. When that run begins, derez 1 piece of ice protecting that server. When that run ends, the Corp may rez the ice derezzed this way, ignoring all costs."
+ :title "Window of Opportunity"
+ :type :event
+ :uniqueness false}

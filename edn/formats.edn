@@ -19,8 +19,7 @@
   :name "Startup"
   :sets ["system-gateway"
          "system-update-2021"]
-  :cycles ["borealis"
-           "liberation"]
+  :cycles ["liberation"]
   :mwl "startup-ban-list-24-01"}
  {:id "eternal"
   :name "Eternal"

@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "capacitor"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text "While the Runner is tagged, this ice gets +2 strength. Subroutine Gain 1 credit for each tag the Runner has. Subroutine End the run."
+ :stripped-title "Capacitor"
+ :subtype [:barrier]
+ :text "While the Runner is tagged, this ice gets +2 strength.\n[subroutine] Gain 1[credit] for each tag the Runner has.\n[subroutine] End the run."
+ :title "Capacitor"
+ :type :ice
+ :uniqueness false}

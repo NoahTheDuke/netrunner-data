@@ -46,7 +46,7 @@
  {:id "data-and-destiny"
   :name "Data and Destiny"
   :position 9
-  :rotated false
+  :rotated true
   :size 1}
  {:id "mumbad"
   :name "Mumbad"
@@ -56,7 +56,7 @@
  {:id "flashpoint"
   :name "Flashpoint"
   :position 11
-  :rotated false
+  :rotated true
   :size 6}
  {:id "red-sand"
   :name "Red Sand"

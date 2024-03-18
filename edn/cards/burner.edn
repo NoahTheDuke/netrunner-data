@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "burner"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Run HQ. If successful, instead of breaching HQ, reveal 3 cards in HQ at random. Add 2 of the revealed cards to the top and/or bottom of R&D."
+ :stripped-title "Burner"
+ :subtype [:run]
+ :text "Run HQ. If successful, instead of breaching HQ, reveal 3 cards in HQ at random. Add 2 of the revealed cards to the top and/or bottom of R&D."
+ :title "Burner"
+ :type :event
+ :uniqueness false}

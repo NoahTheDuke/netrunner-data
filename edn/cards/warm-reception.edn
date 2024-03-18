@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "warm-reception"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When your turn begins, you may install 1 card from HQ. You cannot score that card this turn. If this server is not protected by ice, you may derez this asset to derez another installed card."
+ :stripped-title "Warm Reception"
+ :subtype [:political :ritzy]
+ :text "When your turn begins, you may install 1 card from HQ. You cannot score that card this turn. If this server is not protected by ice, you may derez this asset to derez another installed card."
+ :title "Warm Reception"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

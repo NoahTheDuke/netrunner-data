@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "kingmaking"
+ :side :corp
+ :stripped-text "When you score this agenda, draw up to 3 cards. You may add 1 agenda worth 1 or less agenda points from HQ to your score area."
+ :stripped-title "Kingmaking"
+ :subtype [:research]
+ :text "When you score this agenda, draw up to 3 cards. You may add 1 agenda worth 1 or less agenda points from HQ to your score area."
+ :title "Kingmaking"
+ :type :agenda
+ :uniqueness false}

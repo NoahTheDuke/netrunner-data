@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "manuel-lattes-de-moura"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Whenever you breach HQ or R&D while you are tagged, access 1 additional card. Threat 3 -> As an additional cost to trash this resource with the basic action, the Corp must trash 1 card from HQ. (This ability is active if any player has 3 or more agenda points.)"
+ :stripped-title "Manuel Lattes de Moura"
+ :subtype [:connection]
+ :text "Whenever you breach HQ or R&D while you are tagged, access 1 additional card.\nThreat 3 → As an additional cost to trash this resource with the basic action, the Corp must trash 1 card from HQ. <em>(This ability is active if any player has 3 or more agenda points.)</em>"
+ :title "Manuel Lattes de Moura"
+ :type :resource
+ :uniqueness true}

@@ -4,10 +4,10 @@
  :id "whistleblower"
  :influence-cost 1
  :side :runner
- :stripped-text "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. (You are no longer accessing it.)"
+ :stripped-text "Whenever you make a successful run, you may trash this resource to choose a card name. The next time this run you access an agenda with the chosen name, steal it, ignoring all costs. (You are no longer accessing it.)"
  :stripped-title "Whistleblower"
  :subtype [:connection]
- :text "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <em>(You are no longer accessing it.)</em>"
+ :text "Whenever you make a successful run, you may trash this resource to choose a card name. The next time this run you access an agenda with the chosen name, steal it, ignoring all costs. <em>(You are no longer accessing it.)</em>"
  :title "Whistleblower"
  :type :resource
  :uniqueness true}

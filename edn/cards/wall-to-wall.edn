@@ -4,10 +4,10 @@
  :id "wall-to-wall"
  :influence-cost 3
  :side :corp
- :stripped-text "When your turn begins, if you have any other rezzed assets, resolve 1 of the following; otherwise, resolve up to 3: * Draw 1 card. * Gain 1 credit. * Place 1 advancement token on a piece of ice. * Add this asset to HQ."
+ :stripped-text "When your turn begins, if you have any other rezzed assets, resolve 1 of the following; otherwise, resolve up to 3 in any order: * Draw 1 card. * Gain 1 credit. * Place 1 advancement counter on an installed piece of ice. * Add this asset to HQ."
  :stripped-title "Wall to Wall"
  :subtype [:advertisement]
- :text "When your turn begins, if you have any other rezzed assets, resolve 1 of the following; otherwise, resolve up to 3:<ul><li>Draw 1 card.</li><li>Gain 1[credit].</li><li>Place 1 advancement token on a piece of ice.</li><li>Add this asset to HQ.</li></ul>"
+ :text "When your turn begins, if you have any other rezzed assets, resolve 1 of the following; otherwise, resolve up to 3 in any order:<ul><li>Draw 1 card.</li><li>Gain 1[credit].</li><li>Place 1 advancement counter on an installed piece of ice.</li><li>Add this asset to HQ.</li></ul>"
  :title "Wall to Wall"
  :trash-cost 3
  :type :asset

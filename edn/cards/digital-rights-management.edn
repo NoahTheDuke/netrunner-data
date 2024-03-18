@@ -4,9 +4,9 @@
  :id "digital-rights-management"
  :influence-cost 1
  :side :corp
- :stripped-text "Play only if the Runner did not make a successful run on HQ during their last turn. Search R&D for an agenda and reveal it. (Shuffle R&D after searching it.) Add that agenda to HQ. You may install 1 card from HQ in the root of a remote server. You cannot score agendas for the remainder of the turn."
+ :stripped-text "Play only if the Runner did not make a successful run on HQ during their last turn. Search R&D for 1 agenda and reveal it. (Shuffle R&D after searching it.) Add that agenda to HQ. You may install 1 card from HQ in the root of a remote server. You cannot score agendas for the remainder of the turn."
  :stripped-title "Digital Rights Management"
- :text "Play only if the Runner did not make a successful run on HQ during their last turn.\nSearch R&D for an agenda and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that agenda to HQ. You may install 1 card from HQ in the root of a remote server.\nYou cannot score agendas for the remainder of the turn."
+ :text "Play only if the Runner did not make a successful run on HQ during their last turn.\nSearch R&D for 1 agenda and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that agenda to HQ. You may install 1 card from HQ in the root of a remote server.\nYou cannot score agendas for the remainder of the turn."
  :title "Digital Rights Management"
  :type :operation
  :uniqueness false}

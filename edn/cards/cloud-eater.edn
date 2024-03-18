@@ -1,0 +1,14 @@
+{:cost 10
+ :deck-limit 3
+ :faction :jinteki
+ :id "cloud-eater"
+ :influence-cost 3
+ :side :corp
+ :strength 6
+ :stripped-text "Whenever an encounter with this ice ends, if it was rezzed this turn, trash 1 installed Runner card unless the Runner takes 2 tags or suffers 3 net damage. Subroutine Trash 1 installed Runner card. Subroutine Give the Runner 2 tags. Subroutine Do 3 net damage."
+ :stripped-title "Cloud Eater"
+ :subtype [:sentry :ap :destroyer :observer]
+ :text "Whenever an encounter with this ice ends, if it was rezzed this turn, trash 1 installed Runner card unless the Runner takes 2 tags or suffers 3 net damage.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] Give the Runner 2 tags.\n[subroutine] Do 3 net damage."
+ :title "Cloud Eater"
+ :type :ice
+ :uniqueness true}

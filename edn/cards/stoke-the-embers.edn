@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "stoke-the-embers"
+ :side :corp
+ :stripped-text "When you score this agenda, gain 3 credits and place 1 advancement counter on an installed card. When you install this agenda from anywhere except HQ, you may reveal it. If you do, gain 2 credits and place 1 advancement counter on an installed card."
+ :stripped-title "Stoke the Embers"
+ :subtype [:initiative]
+ :text "When you score this agenda, gain 3[credit] and place 1 advancement counter on an installed card.\nWhen you install this agenda from anywhere except HQ, you may reveal it. If you do, gain 2[credit] and place 1 advancement counter on an installed card."
+ :title "Stoke the Embers"
+ :type :agenda
+ :uniqueness false}

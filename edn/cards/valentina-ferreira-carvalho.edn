@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "valentina-ferreira-carvalho"
+ :influence-cost 0
+ :side :runner
+ :stripped-text "Whenever you remove 1 or more tags, gain 1 credit. Threat 3 -> When you install this resource during your turn, you may remove 1 tag or gain 2 credits. (This ability is active if any player has 3 or more agenda points.)"
+ :stripped-title "Valentina Ferreira Carvalho"
+ :subtype [:connection]
+ :text "Whenever you remove 1 or more tags, gain 1[credit].\nThreat 3 → When you install this resource during your turn, you may remove 1 tag or gain 2[credit]. <em>(This ability is active if any player has 3 or more agenda points.)</em>"
+ :title "Valentina Ferreira Carvalho"
+ :type :resource
+ :uniqueness true}

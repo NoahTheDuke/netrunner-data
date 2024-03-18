@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "friend-of-a-friend"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "click, trash: Gain 5 credits and remove 1 tag. click, trash: Gain 9 credits and take 1 tag. Use this ability only if you are not tagged."
+ :stripped-title "Friend of a Friend"
+ :subtype [:connection]
+ :text "[click], [trash]<strong>:</strong> Gain 5[credit] and remove 1 tag.\n[click], [trash]<strong>:</strong> Gain 9[credit] and take 1 tag. Use this ability only if you are not tagged."
+ :title "Friend of a Friend"
+ :type :resource
+ :uniqueness false}

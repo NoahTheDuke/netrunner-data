@@ -5,10 +5,10 @@
  :influence-cost 4
  :memory-cost 1
  :side :runner
- :stripped-text "When you install this program, place 2 virus counters on it. Whenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn."
+ :stripped-text "When you install this program, place 2 virus counters on it. Whenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap 1 piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn."
  :stripped-title "Cordyceps"
  :subtype [:virus]
- :text "When you install this program, place 2 virus counters on it.\nWhenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn."
+ :text "When you install this program, place 2 virus counters on it.\nWhenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap 1 piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn."
  :title "Cordyceps"
  :type :program
  :uniqueness false}

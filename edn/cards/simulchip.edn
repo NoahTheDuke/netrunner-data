@@ -4,10 +4,10 @@
  :id "simulchip"
  :influence-cost 2
  :side :runner
- :stripped-text "If no installed programs have been trashed this turn, you must trash 1 installed program as an additional cost to use this hardware. trash: Install 1 program from your heap, paying 3 credits less."
+ :stripped-text "As an additional cost to use this hardware, trash 1 installed program. Ignore this cost if an installed program has already been trashed this turn. trash: Install 1 program from your heap, paying 3 credits less."
  :stripped-title "Simulchip"
  :subtype [:chip]
- :text "If no installed programs have been trashed this turn, you must trash 1 installed program as an additional cost to use this hardware.\n[trash]<strong>:</strong> Install 1 program from your heap, paying 3[credit] less."
+ :text "As an additional cost to use this hardware, trash 1 installed program. Ignore this cost if an installed program has already been trashed this turn.\n<strong>[trash]:</strong> Install 1 program from your heap, paying 3[credit] less."
  :title "Simulchip"
  :type :hardware
  :uniqueness false}
