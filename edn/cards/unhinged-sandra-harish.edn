@@ -1,0 +1,13 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "sandra-harish"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "If the Corp has 1 or more bad publicity, they play HQ revealed."
+ :stripped-title "Sandra Harish"
+ :subtype [:unhinged :orgcrime]
+ :text "If the Corp has 1 or more bad publicity, they play HQ revealed."
+ :title "Sandra Harish"
+ :type :identity}

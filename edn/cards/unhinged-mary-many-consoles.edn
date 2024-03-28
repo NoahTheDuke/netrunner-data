@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :neutral-runner
+ :id "mary-many-consoles"
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "You may only include one copy of each card in your deck. Ignore all \"Limit 1 console per player\" text."
+ :stripped-title "Mary \"Many\" Consoles"
+ :subtype [:unhinged :digital :cyborg]
+ :text "You may only include one copy of each card in your deck.\nIgnore all <em>\"Limit 1 console per player\"</em> text."
+ :title "Mary \"Many\" Consoles"
+ :type :identity}

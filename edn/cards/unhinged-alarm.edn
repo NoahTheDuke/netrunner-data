@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "alarm"
+ :influence-cost 0
+ :side :corp
+ :strength 5
+ :stripped-text "When you rez this ice, play the game over sound effect. Subroutine derez this ice."
+ :stripped-title "Alarm"
+ :subtype [:unhinged]
+ :text "When you rez this ice, play the game over sound effect.\n[subroutine] derez this ice."
+ :title "Alarm"
+ :type :ice}

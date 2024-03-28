@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "kick-me"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "Install \"Kick Me\" on an install Corporation card as a hosted condition counter with the text \"Whenever you pass or access this card, the corporation discards a card from HQ at random unless they pay [credit]\""
+ :stripped-title "Kick Me"
+ :subtype [:condition :unhinged]
+ :text "Install \"Kick Me\" on an install Corporation card as a hosted condition counter with the text\n<em>\"Whenever you pass or access this card, the corporation discards a card from HQ at random unless they pay [credit]\"</em>"
+ :title "Kick Me"
+ :type :event}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ganksel"
+ :influence-cost 4
+ :side :corp
+ :strength 4
+ :stripped-text "When the runner accesses this card from R&D, they must reveal it. When the runner accesses this card, rez it if able, then they encounter it as an ice with the following text: Lose click click: Break 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed resource. Subroutine You may install 1 asset from HQ or Archives. Subroutine You may install 1 ice from HQ or Archives. Subroutine The Runner cannot steal or trash Corp cards for the remainder of this run."
+ :stripped-title "Ganksel!"
+ :subtype [:ambush :bioroid :destroyer :sentry :unhinged]
+ :text "When the runner accesses this card from R&D, they must reveal it.\nWhen the runner accesses this card, rez it if able, then they encounter it as an ice with the following text:\nLose [click][click]: Break 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed resource.\n[subroutine] You may install 1 asset from HQ or Archives.\n[subroutine] You may install 1 ice from HQ or Archives.\n[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run."
+ :title "Ganksel!"
+ :trash-cost 4
+ :type :upgrade}

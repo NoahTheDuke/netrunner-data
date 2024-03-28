@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "mirror-trap"
+ :influence-cost 3
+ :side :corp
+ :strength 3
+ :stripped-text "When you rez this ice during a run, swap it with another installed ice. If you do, derez this ice, and the runner is now encountering that ice."
+ :stripped-title "Mirror Trap"
+ :subtype [:deflector :mythic :unhinged]
+ :text "When you rez this ice during a run, swap it with another installed ice. If you do, derez this ice, and the runner is now encountering that ice."
+ :title "Mirror Trap"
+ :type :ice}

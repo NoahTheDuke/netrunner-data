@@ -727,4 +727,14 @@
   :name "Rebellion Without Rehearsal"
   :position 2
   :set-type :data-pack
-  :size 65}]
+  :size 65}
+   {:code "unh"
+   :cycle-id "unhinged"
+   :date-release "2024-04-01"
+   :deluxe false
+   :ffg-id nil
+   :id "unhinged"
+   :name "Unhinged"
+   :position 1
+   :set-type :joke
+   :size 19}]

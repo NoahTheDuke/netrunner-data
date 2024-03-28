@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "i-want-that-one"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Play only if you made a successful run on HQ, R&D and Archives this turn. Access any faceup or installed Corp card."
+ :stripped-title "I want that one"
+ :subtype [:unhinged]
+ :text "Play only if you made a successful run on HQ, R&D and Archives this turn. Access any faceup or installed Corp card."
+ :title "I want that one"
+ :type :event}

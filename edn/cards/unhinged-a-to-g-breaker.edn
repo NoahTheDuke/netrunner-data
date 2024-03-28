@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "a-to-g-breaker"
+ :influence-cost 1
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :stripped-text "1 credit: +1strength 1 credit: break 1 subroutine that starts with letters from A to E"
+ :stripped-title "A to G breaker"
+ :subtype [:unhinged :icebreaker :ai]
+ :text "1[credit]: +1strength\n1[credit]: break 1 subroutine that starts with letters from A to E"
+ :title "A to G breaker"
+ :type :program}
