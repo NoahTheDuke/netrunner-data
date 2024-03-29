@@ -8,6 +8,6 @@
  :stripped-text "When you rez this ice during a run, swap it with another installed ice. If you do, derez this ice, and the runner is now encountering that ice."
  :stripped-title "Mirror Trap"
  :subtype [:deflector :mythic :unhinged]
- :text "When you rez this ice during a run, swap it with another installed ice. If you do, derez this ice, and the runner is now encountering that ice."
+ :text "When you rez this ice during a run, swap it with another installed ice. If you do, derez this ice, and the runner is now encountering that ice.\n[subroutine] End the run unless the Runner pays 1[credit]."
  :title "Mirror Trap"
  :type :ice}

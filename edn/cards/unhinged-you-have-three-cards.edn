@@ -1,7 +1,7 @@
 {:deck-limit 1
  :faction :jinteki
  :id "you-have-three-cards"
- :influence-limit 17
+ :influence-limit 15
  :minimum-deck-size 45
  :side :corp
  :stripped-text "Whenever a card is added to HQ, if you have 3 or more cards in HQ, you must discard down to 3 cards. Whenever you have less than three cards in HQ, you must draw until you have three cards in HQ."

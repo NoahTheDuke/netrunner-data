@@ -728,7 +728,7 @@
   :position 2
   :set-type :data-pack
   :size 65}
-   {:code "unh"
+ {:code "unh"
    :cycle-id "unhinged"
    :date-release "2024-04-01"
    :deluxe false
@@ -737,4 +737,4 @@
    :name "Unhinged"
    :position 1
    :set-type :joke
-   :size 19}]
+   :size 21}]

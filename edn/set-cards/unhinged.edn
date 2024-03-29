@@ -92,4 +92,14 @@
   :code "40084"
   :position 19
   :quantity 1
+  :set-id "unhinged"}
+  {:card-id "intellectual-property"
+  :code "40085"
+  :position 20
+  :quantity 3
+  :set-id "unhinged"}
+ {:card-id "victory-missile"
+  :code "40086"
+  :position 21
+  :quantity 3
   :set-id "unhinged"}]
