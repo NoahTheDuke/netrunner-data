@@ -16,6 +16,9 @@
  {:id :expansion
   :name "Expansion"
   :description "A set of cards not in a big box and not in a cycle"}
+ {:id :joke
+  :name "Joke"
+  :description "A joke set, not intended for competitive play."}
  {:id :promo
   :name "Promo"
   :description "A set of promos, like alt-arts or give-aways"}

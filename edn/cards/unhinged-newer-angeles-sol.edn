@@ -1,0 +1,12 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "newer-angeles-sol"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Whenever an agenda is scored or stolen, and whenever a run ends, you may play a lockdown from HQ or Archives (paying all costs)."
+ :stripped-title "Newer Angeles Sol"
+ :subtype [:unhinged :division]
+ :text "Whenever an agenda is scored or stolen, and whenever a run ends, you may play a lockdown from HQ or Archives (paying all costs)."
+ :title "Newer Angeles Sol"
+ :type :identity}

@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :neutral-runner
+ :id "awakened-dreamer"
+ :influence-limit 80
+ :side :runner
+ :stripped-text "When your turn begins, lose all clicks and gain 1 credit. Then, take 10 basic actions at random, with random targets, ignoring their costs (you still pay the play cost of events and operations)."
+ :stripped-title "Awakened Dreamer"
+ :subtype [:random :unhinged]
+ :text "When your turn begins, lose all clicks and gain 1 credit.\nThen, take 10 basic actions at random, with random targets, ignoring their costs (you still pay the play cost of events and operations)."
+ :title "Awakened Dreamer"
+ :type :identity}

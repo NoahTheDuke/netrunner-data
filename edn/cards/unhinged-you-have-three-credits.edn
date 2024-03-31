@@ -1,0 +1,12 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "you-have-three-credits"
+ :influence-limit 20
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "You have 3[credits]."
+ :stripped-title "You have three credits"
+ :subtype [:unhinged :division]
+ :text "You have 3[credits]."
+ :title "You have three credits"
+ :type :identity}

@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "you-should-really-be-more-careful"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "This asset can be advanced. When the runner accesses this card while it is advanced, replace every card in their grip with a copy of Infiltration."
+ :stripped-title "You should really be more careful"
+ :subtype [:unhinged :ambush]
+ :text "This asset can be advanced.\nWhen the runner accesses this card while it is advanced, replace every card in their grip with a copy of <strong>Infiltration</strong>."
+ :title "You should really be more careful"
+ :trash-cost 2
+ :type :asset}

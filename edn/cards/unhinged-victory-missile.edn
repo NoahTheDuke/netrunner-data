@@ -1,0 +1,12 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "victory-missile"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "You cannot play this card. To tribute play this card, you must reveal it from HQ, trash it, and then trash three other cards from HQ with the word \"tag\" in their text. Deal 3 meat damage. If the runner is flatlined while this card is resolving, you win the match."
+ :stripped-title "Victory Missile"
+ :subtype [:unhinged :black-ops]
+ :text "You cannot play this card.\nTo tribute play this card, you must reveal it from HQ, trash it, and then trash three other cards from HQ with the word <em>\"tag\"</em> in their text.\nDeal 3 meat damage. If the runner is flatlined while this card is resolving, <strong>you win the match</strong>."
+ :title "Victory Missile"
+ :type :operation}

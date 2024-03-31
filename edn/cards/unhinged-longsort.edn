@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "longsort"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "Choose one: * Sort your deck by cost (lowest cost at top) * Sort your deck by cost (lowest cost at bottom)"
+ :stripped-title "Longsort"
+ :subtype [:unhinged :orgcrime]
+ :text "Choose one:\n* Sort your deck by cost (lowest cost at top)\n* Sort your deck by cost (lowest cost at bottom)"
+ :title "Longsort"
+ :type :event}

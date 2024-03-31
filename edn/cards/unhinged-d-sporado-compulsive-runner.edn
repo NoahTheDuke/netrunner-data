@@ -1,0 +1,13 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "d-sporado-compulsive-runner"
+ :influence-limit 16
+ :minimum-deck-size 40
+ :side :runner
+ :stripped-text "You cannot click for credits using the basic action card. Whenever you make a run using the basic action card, gain a credit."
+ :stripped-title "D. Sporado: Compulsive Runner"
+ :subtype [:unhinged :cyborg]
+ :text "You cannot click for credits using the basic action card.\nWhenever you make a run using the basic action card, gain a credit."
+ :title "D. Sporado: Compulsive Runner"
+ :type :identity}
