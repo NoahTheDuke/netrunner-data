@@ -103,18 +103,20 @@
   :position 21
   :quantity 3
   :set-id "unhinged"}
- {:card-id "zahya-sadeghi-versatile-smuggler"
-  :code "40087"
-  :flavor "Haircut."
-  :illustrator "Benjamin Giletti"
-  :position 22
-  :quantity 3
-  :set-id "unhinged"}
- {:card-id "light-the-fire"
-  :code "40088"
-  :flavor "But who takes a core damage? And from where?"
-  :illustrator "Olie Boldador"
-  :position 23
-  :quantity 3
-  :set-id "unhinged"}
+ ;; Stop these from overwriting the kosher versions
+ ;; we can always change this back next april
+ ;; {:card-id "zahya-sadeghi-versatile-smuggler"
+ ;;  :code "40087"
+ ;;  :flavor "Haircut."
+ ;;  :illustrator "Benjamin Giletti"
+ ;;  :position 22
+ ;;  :quantity 3
+ ;;  :set-id "unhinged"}
+ ;; {:card-id "light-the-fire"
+ ;;  :code "40088"
+ ;;  :flavor "But who takes a core damage? And from where?"
+ ;;  :illustrator "Olie Boldador"
+ ;;  :position 23
+ ;;  :quantity 3
+ ;;:set-id "unhinged"}
  ]
