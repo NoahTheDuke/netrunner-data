@@ -10,7 +10,7 @@
            "ashes"
            "borealis"
            "liberation"]
-  :mwl "standard-ban-list-23-09"}
+  :mwl "standard-ban-list-24-05"}
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]
