@@ -1,18 +1,4 @@
-[{:id "standard-plus"
-  :name "Standard+"
-  :sets ["reign-and-reverie"
-         "magnum-opus"
-         "magnum-opus-reprint"
-         "system-gateway"
-         "system-update-2021"
-         "unhinged"]
-  :cycles ["red-sand"
-           "kitara"
-           "ashes"
-           "borealis"
-           "liberation"]
-  :mwl "standard-ban-list-23-09"}
- {:id "standard"
+[{:id "standard"
   :name "Standard"
   :sets ["reign-and-reverie"
          "magnum-opus"

@@ -152,8 +152,6 @@
   :name "Psi"}
  {:id :public
   :name "Public"}
- {:id :random
-  :name "Random"}
  {:id :region
   :name "Region"}
  {:id :remote
@@ -198,8 +196,6 @@
   :name "Triple"}
  {:id :trojan
   :name "Trojan"}
- {:id :unhinged
-  :name "Unhinged"}
  {:id :unorthodox
   :name "Unorthodox"}
  {:id :vehicle
