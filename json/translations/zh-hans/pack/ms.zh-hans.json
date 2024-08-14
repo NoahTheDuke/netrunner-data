@@ -1,457 +1,457 @@
 [
   {
     "code": "33001",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "等待不解决问题。危机就在眼前; 选边站吧。",
+    "keywords": "半机械人",
+    "text": "每回合你第一次受到核心伤害时，你可以抽1张卡牌并破坏2。<em>（公司选择从总部和/或研发中心顶端销毁2张卡牌。）</em>",
     "title": "艾萨·阿方托夫: 生态起义者"
   },
   {
     "code": "33002",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "我们都一无所有\n安卓人也是战友\n再不歇就要怒吼\n老杰克听到没有？",
+    "keywords": "潜袭 - 破坏",
+    "text": "潜袭总部。如果成功，破坏4，代替侵入总部。<em>（公司选择从总部和/或研发中心顶端销毁4张卡牌。）</em>",
     "title": "恰斯图什卡"
   },
   {
     "code": "33003",
-    "flavor": null,
+    "flavor": "我们可以改变世界，只要我们乐意以被改变为代价。",
     "keywords": null,
-    "text": null,
+    "text": "作为打出本事件的额外费用，受到1点核心伤害。\n获得[click][click][click]。",
     "title": "过热运行"
   },
   {
     "code": "33004",
-    "flavor": null,
+    "flavor": "反应式植入体会收回我们倒下同志们的记忆。他们的牺牲将成为我们的护盾。",
     "keywords": null,
-    "text": null,
+    "text": "抽3张卡牌。\n当本事件从你的操控器或存储栈中被销毁时，你可以抽2张卡牌。",
     "title": "钢肤疤痕"
   },
   {
     "code": "33005",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "三寸之舌，强于百万之师。",
+    "keywords": "义体",
+    "text": "当你安装本硬件时，受到1点核心伤害。\n所有事件的打出费用减1[credit]。",
     "title": "幽灵之舌"
   },
   {
     "code": "33006",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "控制台 - 义体",
+    "text": "+1[mu]\n你的手牌上限+3。\n当你安装本硬件时，受到1点核心伤害。每当公司将一个议案计分时，破坏1。<em>（公司选择从总部或研发中心顶端销毁1张卡牌。）</em>\n每位玩家限制1个<strong>控制台</strong>。",
     "title": "骨髓"
   },
   {
     "code": "33007",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "他缄默不语，但我清楚他想从我这里得到什么。",
+    "keywords": "破解器 - 分解模块",
+    "text": "当你安装本程序时，受到1点核心伤害。\n你本局游戏中每受到过1点核心伤害，本程序的强度+1。\n对接 → <strong>1[credit]:</strong> 破解任意数量的<strong>屏障</strong>子进程。",
     "title": "别格莫特"
   },
   {
     "code": "33008",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“作为工会代表，有时需要采取更加……直接的行动。”",
+    "keywords": "人脉",
+    "text": "每回合你第次安装一个<strong>病毒</strong>程序时，破坏1。<em>（公司选择从总部或研发中心顶端销毁1张卡牌。）</em>",
     "title": "奥古斯蒂娜·伊万诺夫斯卡娅"
   },
   {
     "code": "33009",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "星星之火，可以摧毁数以亿计的信用点……也可以燎尽蹂躏我们世界的腐朽。",
+    "keywords": "破坏",
+    "text": "[click], [trash], <strong>受到1点核心伤害:</strong> 潜袭一台远程服务器。在本次潜袭中，被攻击的服务器根目录中的卡牌失去所有能力。当本次潜袭成功时，销毁被攻击的服务器根目录中的所有卡牌。",
     "title": "点燃星火！"
   },
   {
     "code": "33010",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "一切都在折叠，反复折叠; 合二为一。",
+    "keywords": "虚拟",
+    "text": "每回合你第一次花费已安装的卡牌上的信用点时，放置1枚能量指示物到本资源上。\n每当你侵入总部或研发中心时，你可以移除最多2枚所附载的能量指示物，以额外读取等量的卡牌。",
     "title": "孪晶"
   },
   {
     "code": "33011",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "缺陷中同时蕴藏着美和机遇。",
+    "keywords": "转基因人",
+    "text": "当你的回合开始时，发现你的目标。<em>（如果你没有目标，一台随机的中央服务器成为你本回合的目标。）</em>\n每回合你第一次对你的目标进行成功的潜袭时，获得[click]。",
     "title": "纽纱·“黑貂”·辛塔什塔: 交响奇才"
   },
   {
     "code": "33012",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "聆听的最佳时机，就是他人聆听你之时。",
+    "keywords": "潜袭",
+    "text": "发现你的目标。<em>（如果你没有目标，一台随机的中央服务器成为你本回合的目标。）</em>\n获得4[credit]。你可以潜袭你的目标。",
     "title": "时不再来"
   },
   {
     "code": "33013",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "姥姥会感到自豪的。",
+    "keywords": "潜袭",
+    "text": "潜袭任意一台服务器。如果成功，读取另一台服务器根目录中的1张卡牌，代替侵入被攻击的服务器。如果该卡牌是议案，你本次读取中不能窃取或销毁之。",
     "title": "穿针引线"
   },
   {
     "code": "33014",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "以最轻微的点触，盗取信用点。",
+    "keywords": "义体",
+    "text": "当你安装本硬件时，受到1点肢体伤害。\n每回合你第一次对总部进行成功的潜袭时，公司失去1[credit]。如果其如此做，你获得1[credit]。",
     "title": "个域网编织"
   },
   {
     "code": "33015",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "控制台",
+    "text": "+1[mu]\n当你的回合开始时，发现你的目标。<em>（如果你没有目标，一台随机的中央服务器成为你本回合的目标。）</em>\n每回合你第一次对你的目标进行成功的潜袭时，如果该服务器是总部，当你侵入总部时，额外读取1张卡牌。否则，当本次潜袭结束时，侵入总部。\n每位玩家限制1个<strong>控制台</strong>。",
     "title": "演奏大师"
   },
   {
     "code": "33016",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "让我来给你翻一块地毯、一条鱼、一段神奇的故事……",
+    "keywords": "破解器 - 解码模块",
+    "text": "每层<strong>门禁</strong>防火墙的激活费用加1[credit]。\n对接 → 1[credit]: 破解1条<strong>门禁</strong>子进程。\n<strong>1[credit]:</strong> 强度+1。",
     "title": "翻花绳"
   },
   {
     "code": "33017",
-    "flavor": null,
+    "flavor": "细粉咖啡的丝滑，焦糖的香气，火焰的温热。这是我永不忘怀的每日仪式。",
     "keywords": null,
-    "text": null,
+    "text": "2[recurring-credit] <em>（当你安装本卡牌时及你的回合开始前，将所附载的信用点补充至2个。）</em>\n你可以在对中央服务器的潜袭中花费所附载的信用点。",
     "title": "土耳其咖啡壶"
   },
   {
     "code": "33018",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“用眼睛去瞄准。用意识去射击。用灵魂去破解。”\n—幻日",
+    "keywords": "破解器 - 断路模块 - 武器",
+    "text": "当你安装本程序时，放置6枚能量指示物到本程序上。\n对接 → [trash]或<strong>所附载的能量指示物:</strong> 破解1条<strong>警报</strong>子进程。\n<strong>2[credit]:</strong> 强度+3。",
     "title": "左轮手枪"
   },
   {
     "code": "33019",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "后退一步。寻找掩护。前进两步。如此反复，安全永驻。",
+    "keywords": "虚拟",
+    "text": "当你的回合开始时，发现你的目标。<em>（如果你没有目标，一台随机的中央服务器成为你本回合的目标。）</em>\n在对你目标的潜袭中，每当你遭遇一层防火墙时，你可以销毁本资源以略过该防火墙。",
     "title": "回针绣"
   },
   {
     "code": "33020",
-    "flavor": null,
+    "flavor": "如果我们能从我们的安卓人表亲那里学到些什么，那就是没有通向完美的捷径。做决策前请三思。",
     "keywords": null,
-    "text": null,
+    "text": "[trash]: 获得3[credit]。\n[trash]: 移除1枚锁定标记。",
     "title": "没有免费午餐定理"
   },
   {
     "code": "33021",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "海洋是万物之源。海洋的呼吸必须保持纯净和健康。",
+    "keywords": "半机械人",
+    "text": "每回合第一次对研发中心的潜袭开始时，你可以对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em>",
     "title": "帕德玛·伊斯比斯特船长: 无畏探索者"
   },
   {
     "code": "33022",
     "flavor": null,
     "keywords": null,
-    "text": null,
+    "text": "只有你本回合对总部、研发中心与档案库均进行过成功的潜袭时，才能打出。\n公司必须将研发中心顶端8张卡牌牌面朝上置于一旁。读取其中1张卡牌。你可以花费[click]，以读取其中另1张卡牌。然后，公司将置于一旁的卡牌洗入研发中心。",
     "title": "深潜"
   },
   {
     "code": "33023",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "潜袭",
+    "text": "潜袭任意一台服务器。如果成功，本次潜袭中你每通过1次防火墙，结算本次潜袭中你尚未结算过的下列中的1项:<ul><li>获得4[credit]。</li><li>从你的存储栈中搜寻一一个程序。安装之。<em>(Shuffle your stack after searching it.)</em></li><li>对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em></li></ul>",
     "title": "深海探险"
   },
   {
     "code": "33024",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "伊迪才不管那些嘈杂的声音。只要能待在主人旁边，她就感到心满意足了。",
+    "keywords": "改造",
+    "text": "从你的操控器安装1个程序或硬件，其安装费用减3[credit]。如可能，你可以对该卡牌充能。<em>（如果其上已经有能量指示物，再放置1枚。）</em>",
     "title": "设备装配"
   },
   {
     "code": "33025",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "控制台 - 载具",
+    "text": "+2[mu]\n当你安装本硬件时，放置3枚能量指示物到本硬件上。\n每回合你第一次进行成功的潜袭时，放置1枚能量指示物到本硬件上。\n<strong>2枚所附载的能量指示物:</strong> 破解最多2条子进程。\n每位玩家限制1个<strong>控制台</strong>。",
     "title": "坚忍号"
   },
   {
     "code": "33026",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "破解器 - 解码模块",
+    "text": "当你安装本程序时，放置1枚能量指示物到本程序上。\n每有1枚所附载的能量指示物，本程序的强度+1。\n对接 → <strong>1[credit]:</strong> 破解1条<strong>门禁</strong>子进程。\n<strong>2[credit]:</strong> 放置1枚能量指示物到本程序上。",
     "title": "高压舱"
   },
   {
     "code": "33027",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "在网域空间中，可以根据需要操纵有形空间，而防火墙的开发很少会考虑到流体动力学。",
+    "keywords": "破解器 - 分解模块",
+    "text": "当你安装本程序时，放置4枚能量指示物到本程序上。\n对接 → <strong>1[credit]:</strong> 破解1条<strong>屏障</strong>子进程。<strong>所附载的能量指示物:</strong> 强度+2。",
     "title": "螺旋桨"
   },
   {
     "code": "33028",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“为首的是他，然后是斯镐特、琼斯、帕克、布卡、斯奎、布茨……你懂的。”",
+    "keywords": "同伴 - 虚拟",
+    "text": "每当一个议案被计分或窃取时，你可以对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em>",
     "title": "网域猫首领戴格"
   },
   {
     "code": "33029",
-    "flavor": null,
+    "flavor": "“我们为什么会在这里？除了我们，还有其他人会进行这些独立测试吗？”\n—帕德玛",
     "keywords": null,
-    "text": null,
+    "text": "每当你安装一个程序或硬件时，放置1枚能量指示物到本资源上。\n当所附载的能量指示物有4枚或更多时，销毁本资源并获得9[credit]。",
     "title": "环境测试"
   },
   {
     "code": "33030",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "每艘船都是一户人家，而每户人家都需要一颗心脏。",
+    "keywords": "场所",
+    "text": "[trash]<strong>:</strong> 抽2张卡牌。\n[trash]<strong>:</strong> 对1张你已安装的卡牌充能。",
     "title": "石船海图室"
   },
   {
     "code": "33031",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "对于有史以来最发达的人工智慧而言，古代悖论只不过是儿童故事。",
+    "keywords": "防卫",
+    "text": "当你将本议案计分时，你可以关闭1张已安装的卡牌。",
     "title": "埃利伐加尔分岔"
   },
   {
     "code": "33032",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“午夜-3型生态屋散发着诱人的温暖， 掩盖了内部支离破碎的承诺。等待着你的是契约奴的生活。”\n—幻日",
+    "keywords": "扩张",
+    "text": "当你将本议案计分时，抽3张卡牌。跳过你本回合的弃牌步骤。",
     "title": "午夜-3型生态屋"
   },
   {
     "code": "33033",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“崭新的住宅、安全的工作和友善的邻居，这些承诺将会吸引成千上万的生态难民，无论他们来自世界的哪个角落。”\n—图勒员工手册",
+    "keywords": "广告",
+    "text": "当你的回合开始时，获得2[credit]。",
     "title": "庇护所营销计划"
   },
   {
     "code": "33034",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "在人类技术员无法达到的深度，的里雅斯特型代理生化人能够以无与伦比的精度操纵思维空间。\n<strong>由2019年世界锦标赛冠军Oliver “Pinsel” Siccha设计</strong>",
+    "keywords": "生化人",
+    "text": "当你激活本资产时，选择1层已激活的<strong>生化人</strong>防火墙。\n潜袭者卡牌能力不能破解所选择的防火墙上的子进程。",
     "title": "的里雅斯特型生化人"
   },
   {
     "code": "33035",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "终止本次潜袭。\n终止本次潜袭。\n終止本次潜袭。\n终止本次潜袭。",
+    "keywords": "屏障 - 和声",
+    "text": "每当你激活一层<strong>和声</strong>防火墙时，放置1枚能量指示物到本防火墙上。\n每有1枚所附载的能量指示物，本防火墙获得“[subroutine] 终止本次潜袭。”",
     "title": "回声"
   },
   {
     "code": "33036",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "屏障 - 生化人 - 杀伤",
+    "text": "在对本服务器的潜袭中，当你激活本防火墙时，你可以关闭另一张已安装的卡牌。如果你如此做，潜袭者在本回合剩余时间内不能使用<strong>生化人</strong>防火墙上印刷的付费能力。<strong>失去[click]:</strong> 破解1条本防火墙上的子进程。只有潜袭者可以使用本能力。\n[subroutine] 造成1点核心伤害。\n[subroutine] 终止本次潜袭。",
     "title": "生化鲨1.0"
   },
   {
     "code": "33037",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "网络带来指数增长。",
+    "keywords": "门禁 - 和声",
+    "text": "在对本服务器的潜袭中，当你激活本防火墙时，你可以在研发中心搜寻1层防火墙并展示之。<em>（在搜寻研发中心后将其洗混。）</em>将该防火墙加入总部。\n[subroutine] 每有1层已激活的和声防火墙，获得1[credit]。",
     "title": "波动"
   },
   {
     "code": "33038",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "<strong>由2018年北美锦标赛冠军Sam Suied设计</strong>",
+    "keywords": "终止",
+    "text": "在你结算本事务后，结束你的行动阶段。\n放置4枚推进指示物到1张已安装的卡牌上。如可能，你可以将该卡牌计分。\n将本事务移出游戏。",
     "title": "大手笔"
   },
   {
     "code": "33039",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "某些测试需要非常特定的条件。",
+    "keywords": "研究",
+    "text": "X等于潜袭者操控器中的卡牌数量。",
     "title": "血诱"
   },
   {
     "code": "33040",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“尊敬的客人们，在本次展示中您将看到，灭绝，如今已经变成了一个暂时性状态。”\n—万象·基林",
+    "keywords": "研究",
+    "text": "当你将本议案计分时，如果本回合没有公司卡牌被加入档案库，你可以展示档案库中1个牌面朝下的议案，并将其加入你的分数区。",
     "title": "二度起源"
   },
   {
     "code": "33041",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "毫秒之间，猎物与海水一同被吸入。",
+    "keywords": "敌对",
+    "text": "当你的回合开始时，获得1[credit]。然后，如果你具有4[credit]或更少，造成1点网域伤害。",
     "title": "狸藻"
   },
   {
     "code": "33042",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "<strong>由《北极光》循环游戏测试员共同设计</strong>",
+    "keywords": "设施",
+    "text": "<strong>将本资产移出游戏:</strong> 从总部销毁最多2张卡牌。展示档案库中最多2张牌面朝下的卡牌，并将其洗入研发中心。每以此法展示1个议案，你可以放置1枚推进指示物到一张已安装的卡牌上。",
     "title": "月池"
   },
   {
     "code": "33043",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "空灵的美，交织着最优雅的毒素。",
+    "keywords": "警报 - 杀伤",
+    "text": "在对本服务器的潜袭中，当你激活本防火墙时，你可以从总部销毁1张卡牌，以造成2点网域伤害。\n[subroutine] 造成1点网域伤害。",
     "title": "海葵"
   },
   {
     "code": "33044",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "数字垃圾是它们的食物，而你永远不应该站在一只蛮物和它的食物之间。",
+    "keywords": "警报 - 杀伤",
+    "text": "只要本防火墙保护档案库，其强度便+3。\n[subroutine] 造成3点网域伤害。",
     "title": "大王具足虫"
   },
   {
     "code": "33045",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "请勿践踏海草。",
+    "keywords": "屏障 - 杀伤",
+    "text": "每有1层已激活的<strong>门禁</strong>防火墙，本防火墙的激活费用减1[credit]。\n[subroutine] 造成2点网域伤害。\n[subroutine] 终止本次潜袭。",
     "title": "盲鳗"
   },
   {
     "code": "33046",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "一生万物。",
+    "keywords": "双重",
+    "text": "作为打出本事务的额外费用，花费[click]。\n从总部安装最多2张卡牌，为其各创建一台新的远程服务器。在这些卡牌上各放置2枚推进指示物。你本回合不能将这些卡牌计分或激活。",
     "title": "有丝分裂"
   },
   {
     "code": "33047",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "病毒、潜袭……对它们而言，一切都是食物。",
+    "keywords": "伏击",
+    "text": "在潜袭者从研发中心读取本升级的期间，其必须展示之。\n当潜袭者读取本升级时，你可以清除病毒指示物。如果本升级已激活，造成1点网域伤害。\n[trash]: 清除病毒指示物。",
     "title": "噬病毒体"
   },
   {
     "code": "33048",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "政治新闻，面向大众。",
+    "keywords": "部门",
+    "text": "每回合潜袭者第一次进行成功的潜袭时，你可以放置1枚推进指示物到一张你可以推进的已安装的卡牌上。",
     "title": "真理咨询: 政治解决方案"
   },
   {
     "code": "33049",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "趋势线持续走高……直到我们不再需要它走高。",
+    "keywords": "原创",
+    "text": "当你将本议案计分时，潜袭者失去7[credit]。",
     "title": "币圈洗盘"
   },
   {
     "code": "33050",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "唯一在变的是制服款式。",
+    "keywords": "伏击",
+    "text": "你可以推进本资产。\n当潜袭者读取已安装的本资产时，给予其1枚锁定标记，并且每有1枚所附载的推进指示物，锁定标记数量增加1枚。",
     "title": "契卡子弟"
   },
   {
     "code": "33051",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“转告一声，德拉戈主管想找他们谈谈。”\n<strong>由2019年欧洲锦标赛冠军Aaryn “Drago” Byrne设计</strong>",
+    "keywords": "主管",
+    "text": "你可以推进本资产。\n<strong>2枚所附载的推进指示物:</strong> 给予潜袭者1枚锁定标记。本能力仅能在你的回合中使用。",
     "title": "德拉戈·伊万诺夫"
   },
   {
     "code": "33052",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "他们说只抓一把，但却没说他们的手有多大！",
+    "keywords": "广告",
+    "text": "你可以推进本资产。\n当你的回合开始时，每有1枚所附载的推进指示物，获得1[credit]。",
     "title": "无处不在的抽头"
   },
   {
     "code": "33053",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "昔日的威名如今已成秋毫之末。他们的遗产已碎如烟尘，被一扫而空。现在，我们才是真理的裁决者。",
+    "keywords": "门禁",
+    "text": "你可以推进本防火墙。\n当潜袭者遭遇本防火墙时，你可以移除1枚所附载的推进指示物。如果你如此做，潜袭者失去3[credit]。\n[subroutine] 潜袭者失去3[credit]。\n[subroutine] 终止本次潜袭。",
     "title": "门第选官制"
   },
   {
     "code": "33054",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "完成女巫安排的任务是小事一桩，因为瓦西丽莎有妈妈给她的魔法娃娃。",
+    "keywords": "警报 - 观察者",
+    "text": "当潜袭者遭遇本防火墙时，你可以支付1[credit]。如果你如此做，你可以放置1枚推进指示物到一张你可以推进的已安装的卡牌上。\n[subroutine] 给予潜袭者1枚锁定标记。",
     "title": "瓦西丽莎"
   },
   {
     "code": "33055",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“进门前请卸下录音设备！”",
+    "keywords": "灰色行动",
+    "text": "作为打出本事务的额外费用，移除1枚锁定标记。\n将本事务加入你的分数区，作为一个价值1点议案分数的议案。",
     "title": "密室阴谋"
   },
   {
     "code": "33056",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "横跨鄂毕河两岸，这座大都市寄托着对美好明天的希望。",
+    "keywords": "区域",
+    "text": "你可以推进本升级。\n<strong>2枚所附载的推进指示物:</strong> 放置2枚推进指示物到本服务器根目录中另一张你可以推进的卡牌上。本能力每回合仅限使用一次。\n每台服务器限制1个<strong>区域</strong>。",
     "title": "符拉迪西比尔斯克城际网阵"
   },
   {
     "code": "33057",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "报价与否，尽皆取之。",
+    "keywords": "公司",
+    "text": "每当你在非安装过程中销毁一张已激活的卡牌时，你可以在研发中心搜寻1张印刷激活费用恰好比所销毁卡牌的印刷激活费用少1[credit]的卡牌。安装并激活你搜寻到的卡牌，忽略信用点费用。本能力每回合仅限使用一次。",
     "title": "鄂毕超重型物流: 采出 运出 杰出"
   },
   {
     "code": "33058",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "“不必担心，董事们，防卫所随时愿意派特工去协助进行激进的资产重新分配。”\n—雅科夫·阿夫达科夫",
+    "keywords": "防卫",
+    "text": "作为将本议案计分的额外费用，销毁另1张你已安装的卡牌。\n当你将本议案计分时，造成2点肢体伤害。",
     "title": "阿泽夫协议"
   },
   {
     "code": "33059",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "无论你占有了这片土地多久，你最好希望这地底下没藏着些值钱的宝贝。",
+    "keywords": "工业",
+    "text": "当你的回合开始时，你可以销毁另1张你已安装的卡牌。如果你如此做，获得3[credit]。",
     "title": "斯维亚托戈尔号挖掘机"
   },
   {
     "code": "33060",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "屏障",
+    "text": "当你激活本防火墙时，放置4枚能量指示物到本防火墙上。\n当你的回合开始时，移除1枚所附载的能量指示物。\n每有1枚所附载的能量指示物，本防火墙在其印刷子进程前获得“[subroutine] 终止本次潜袭。”\n[subroutine] 销毁本防火墙。",
     "title": "包围"
   },
   {
     "code": "33061",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "迷惑潜袭者，让他们看不透我们的真实意图。",
+    "keywords": "屏障",
+    "text": "\n[subroutine] 获得2[credit]。\n[subroutine] 终止本次潜袭。",
     "title": "伪装"
   },
   {
     "code": "33062",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "几百年的军事战术凝聚成单一的实体。",
+    "keywords": "警报 - 毁灭者",
+    "text": "当你激活本防火墙时，你可以销毁另1张你已安装的卡牌。如果你如此做，本防火墙在本次潜袭的剩余时间内强度+5。\n[subroutine] 销毁1个已安装的程序。\n[subroutine] 销毁1个已安装的程序。",
     "title": "最高统帅部"
   },
   {
     "code": "33063",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "不要放过任何有价值的东西。",
+    "keywords": "交易",
+    "text": "获得6[credit]。你可以销毁1张你已安装的卡牌，以获得3[credit]。",
     "title": "开采"
   },
   {
     "code": "33064",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "<strong>由2020年亚太锦标赛冠军Eric Keilback设计</strong>",
+    "keywords": "三重",
+    "text": "作为打出本事务的额外费用，花费[click][click]。\n销毁任意数量你已激活的卡牌。你每以此法销毁1张卡牌，给予潜袭者1枚锁定标记。",
     "title": "共同毁灭原则"
   },
   {
     "code": "33065",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
-    "title": "信托行动"
+    "flavor": "确认。接触。诱捕。反间谍活动一向如此。",
+    "keywords": "灰色行动",
+    "text": "只有潜袭者被锁定时，才能打出。\n销毁1个已安装的资源。从档案库安装并激活1张卡牌，忽略所有的费用。",
+    "title": "托拉斯行动"
   }
 ]

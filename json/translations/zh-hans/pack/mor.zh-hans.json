@@ -1,0 +1,44 @@
+[
+    {
+        "code": "28001",
+        "flavor": "<champion>由2017年欧洲锦标赛冠军Mike Sheehan设计</champion>",
+        "keywords": null,
+        "text": "销毁你的存储栈顶端的3张卡牌。将3张卡牌从你的堆阵洗入你的存储栈。抽1张卡牌。将本事件移出游戏，代替销毁之。",
+        "title": "劳工权益"
+    },
+    {
+        "code": "28002",
+        "flavor": "<champion>由2017年GenCon锦标赛冠军Sam Suied设计</champion>",
+        "keywords": "低劣 - 虚拟",
+        "text": "当你安装本资源时，填装3[credit]到本资源上。当其清空时，销毁之。\n当你的回合开始时，从本资源上拿取1[credit]。\n当你的回合结束时，如果你在本回合内进行过至少3次成功的潜袭且本卡牌在你的堆阵中，你可以安装之，忽略所有的费用。",
+        "title": "众筹"
+    },
+    {
+        "code": "28003",
+        "flavor": "<champion>由2016年GenCon锦标资冠军Dan D'Argenio设计</champion>",
+        "keywords": null,
+        "text": "当你的回合开始时，你可以支付1[credit]以放置1枚能量指示物到本升级上。\n每当潜袭者进行一次成功的潜袭时，从本升级上移除1枚能量指示物。\n<strong>所附载的能量指示物</strong>: 终止本次潜袭。仅可以在对本服务器的一次潜袭中使用本能力。",
+        "title": "栓塞"
+    },
+    {
+        "code": "28004",
+        "flavor": "<champion>由2017年世界锦标赛冠军Jess Horig设计</champion>",
+        "keywords": "门禁",
+        "text": "当潜袭者遭遇本防火墙时，其将存储栈顶端的卡牌置于存储栈底端，然后你展示存储栈顶端的3张卡牌。\n[subroutine] 潜袭者失去3[credit]。\n[subroutine] 如果在被展示的卡牌中有两张及以上卡牌的类型相同，获得3[credit]。\n[subroutine] 如果在被展示的卡牌中有三张及以上卡牌的类型相同，放置3枚推进标记到一张已安装的卡牌上。",
+        "title": "老虎机"
+    },
+    {
+        "code": "28005",
+        "flavor": "<champion>由2016年世界锦标赛冠军Chris Dyer设计</champion>",
+        "keywords": "屏障",
+        "text": "[trash]: 终止本次潜袭。仅可以在对本服务器的一次潜袭中使用本能力。\n[subroutine] 每有1层保护本服务器的防火墙，获得1[credit]。\n[subroutine] 终止本次潜装。",
+        "title": "边境管控"
+    },
+    {
+        "code": "28006",
+        "flavor": "<champion>由2015年世界锦标赛冠军Dan D'Argenio设计</champion>",
+        "keywords": "原创",
+        "text": "当你以本议案计分时，放置1枚议案指示物到本卡牌上。\n<strong>所附载的议案指示物</strong>: 从总部或档案库中安装1层防火墙到保护一台服务器的任意位置，忽略所有的费用。",
+        "title": "适时公布"
+    }
+]
