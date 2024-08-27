@@ -1,0 +1,14 @@
+{:base-link 1
+ :deck-limit 1
+ :faction :shaper
+ :id "the-collective-williams-wu-et-al"
+ :influence-limit 5
+ :minimum-deck-size 50
+ :side :runner
+ :stripped-text "The first time you perform the same action three times in a row each turn, gain [click]."
+ :stripped-title "The Collective: Williams, Wu, et al."
+ :subtype [:cybernetic]
+ :text "The first time you perform the same action three times in a row each turn, gain [click]."
+ :title "The Collective: Williams, Wu, et al."
+ :type :identity
+ :uniqueness false}

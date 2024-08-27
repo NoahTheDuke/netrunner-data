@@ -8,6 +8,16 @@
   :position 1
   :set-type :draft
   :size nil}
+ {:code "unreleased"
+  :cycle-id "unreleased"
+  :date-release nil
+  :deluxe false
+  :ddf-id nil
+  :id "unreleased"
+  :name "Unreleased"
+  :position 1
+  :set-type :draft
+  :size 2}
  {:code "core"
   :cycle-id "core"
   :date-release "2012-09-06"
