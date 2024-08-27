@@ -5,9 +5,9 @@
  :minimum-deck-size 45
  :side :corp
  :stripped-text "Whenever the Runner trashes a card for brain damage, they remove all copies of that card from the game (installed, in the heap, stack, grip, or any other location). Then, they shuffle their stack."
- :stripped-title "Chronos Protocol: Haas Bioroid"
+ :stripped-title "Chronos Protocol: Haas-Bioroid"
  :subtype [:division]
  :text "Whenever the Runner trashes a card for brain damage, they remove all copies of that card from the game (installed, in the heap, stack, grip, or any other location). Then, they shuffle their stack."
- :title "Chronos Protocol: Haas Bioroid"
+ :title "Chronos Protocol: Haas-Bioroid"
  :type :identity
  :uniqueness false}
