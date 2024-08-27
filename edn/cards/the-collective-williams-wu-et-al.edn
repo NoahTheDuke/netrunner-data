@@ -3,7 +3,7 @@
  :faction :shaper
  :id "the-collective-williams-wu-et-al"
  :influence-limit 5
- :minimum-deck-size 50
+ :minimum-deck-size 55
  :side :runner
  :stripped-text "The first time you perform the same action three times in a row each turn, gain [click]."
  :stripped-title "The Collective: Williams, Wu, et al."
