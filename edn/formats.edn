@@ -20,7 +20,7 @@
   :sets ["system-gateway"
          "system-update-2021"]
   :cycles ["liberation"]
-  :mwl "startup-ban-list-24-01"}
+  :mwl "startup-ban-list-24-09"}
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
