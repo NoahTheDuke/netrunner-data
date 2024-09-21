@@ -1808,4 +1808,13 @@
   :date-start "2024-01-26"
   :format "startup"
   :id "startup-ban-list-24-01"
-  :name "Startup Ban List 24.01"}]
+  :name "Startup Ban List 24.01"}
+ {:cards {"drago-ivanov" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "pharos" {:deck-limit 0}
+          "creative-commission" {:deck-limit 0}}
+  :date-start "2024-09-21"
+  :format "startup"
+  :id "startup-ban-list-24-09"
+  :name "Startup Ban List 24.09"}]
