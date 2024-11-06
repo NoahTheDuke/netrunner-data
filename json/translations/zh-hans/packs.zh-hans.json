@@ -36,12 +36,24 @@
     "name": "铬金城"
   },
   {
+    "code": "cd",
+    "name": "绯尘来袭"
+  },
+  {
     "code": "ce",
     "name": "赛博迁徙"
   },
   {
     "code": "core",
     "name": "核心系列"
+  },
+  {
+    "code": "core2",
+    "name": "核心系列修订版"
+  },
+  {
+    "code": "cotc",
+    "name": "顶峰议会"
   },
   {
     "code": "dad",
@@ -56,12 +68,20 @@
     "name": "代达罗斯"
   },
   {
+    "code": "df",
+    "name": "坍落"
+  },
+  {
     "code": "draft",
     "name": "轮抽系列"
   },
   {
     "code": "dt",
     "name": "双重时刻"
+  },
+  {
+    "code": "dtwn",
+    "name": "顺流而下"
   },
   {
     "code": "eas",
@@ -78,6 +98,10 @@
   {
     "code": "fc",
     "name": "初遇之际"
+  },
+  {
+    "code": "fm",
+    "name": "火独运动"
   },
   {
     "code": "fp",
@@ -100,6 +124,10 @@
     "name": "介入冲突"
   },
   {
+    "code": "ka",
+    "name": "坎帕拉崛起"
+  },
+  {
     "code": "kg",
     "name": "卡拉哥达"
   },
@@ -108,8 +136,28 @@
     "name": "军事管制"
   },
   {
+    "code": "mo",
+    "name": "巨作"
+  },
+  {
+    "code": "mor",
+    "name": "巨作重印版"
+  },
+  {
+    "code": "ms",
+    "name": "极昼"
+  },
+  {
+    "code": "msbp",
+    "name": "极昼增强包"
+  },
+  {
     "code": "mt",
     "name": "恶劣时期"
+  },
+  {
+    "code": "napd",
+    "name": "NAPD 多人模式"
   },
   {
     "code": "oac",
@@ -124,28 +172,76 @@
     "name": "起手开局"
   },
   {
+    "code": "ph",
+    "name": "幻日"
+  },
+  {
     "code": "qu",
     "name": "共商出路"
+  },
+  {
+    "code": "rar",
+    "name": "统治与空想"
+  },
+  {
+    "code": "rwr",
+    "name": "即兴叛乱"
+  },
+  {
+    "code": "sc19",
+    "name": "系统核心 2019"
+  },
+  {
+    "code": "sg",
+    "name": "核心网关"
   },
   {
     "code": "si",
     "name": "撒尔塞特"
   },
   {
+    "code": "sm",
+    "name": "记忆寻回"
+  },
+  {
     "code": "so",
     "name": "一号车站"
+  },
+  {
+    "code": "ss",
+    "name": "主权视野"
   },
   {
     "code": "st",
     "name": "深思熟虑"
   },
   {
+    "code": "su21",
+    "name": "系统革新 2021"
+  },
+  {
     "code": "ta",
     "name": "重重追踪"
   },
   {
+    "code": "tai",
+    "name": "自动机倡议"
+  },
+  {
     "code": "tc",
     "name": "真实面目"
+  },
+  {
+    "code": "td",
+    "name": "终极指令"
+  },
+  {
+    "code": "tdatd",
+    "name": "恶魔与巨龙"
+  },
+  {
+    "code": "tdc",
+    "name": "终极指令战役"
   },
   {
     "code": "tlm",
@@ -172,12 +268,24 @@
     "name": "上行之旅"
   },
   {
+    "code": "ur",
+    "name": "起义"
+  },
+  {
+    "code": "urbp",
+    "name": "起义增强包"
+  },
+  {
     "code": "uw",
     "name": "暗底区"
   },
   {
     "code": "val",
     "name": "生科谷"
+  },
+  {
+    "code": "win",
+    "name": "湖中低语"
   },
   {
     "code": "wla",
