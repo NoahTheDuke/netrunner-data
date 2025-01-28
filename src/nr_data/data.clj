@@ -159,6 +159,11 @@
                            ;; then we can check if the card is on the list
                            (contains? cs id)
                            {:legal true}
+                           ;; as a special case, throwback treats every rotated card as restricted,
+                           ;; barring specifically the terminal directive campaign (not real cards)
+                           (and (= f "throwback")
+                                (not= (:set-id card) "terminal-directive-campaign"))
+                           {:legal true :restricted true}
                            ;; neither mwl nor in the format
                            :else
                            {:rotated true})}))}))))

@@ -11,16 +11,33 @@
            "borealis"
            "liberation"]
   :mwl "standard-ban-list-24-12"}
+
+ {:id "throwback"
+  :name "Throwback"
+  :sets ["reign-and-reverie"
+         "magnum-opus"
+         "magnum-opus-reprint"
+         "system-gateway"
+         "system-update-2021"]
+  :cycles ["red-sand"
+           "kitara"
+           "ashes"
+           "borealis"
+           "liberation"]
+  :mwl "throwback-ban-list-24-12"}
+
  {:id "system-gateway"
   :name "System Gateway"
   :sets ["system-gateway"]
   :mwl nil}
+
  {:id "startup"
   :name "Startup"
   :sets ["system-gateway"
          "system-update-2021"]
   :cycles ["liberation"]
   :mwl "startup-ban-list-24-09"}
+
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
@@ -47,6 +64,7 @@
            "borealis"
            "liberation"]
   :mwl "eternal-points-list-23-11"}
+
  {:id "snapshot"
   :name "Snapshot"
   :sets ["creation-and-control"
@@ -63,6 +81,7 @@
            "red-sand"
            "kitara"]
   :mwl "napd-mwl-2-2"}
+
  {:id "snapshot-plus"
   :name "Snapshot Plus"
   :sets ["creation-and-control"
@@ -80,6 +99,7 @@
            "kitara"
            "magnum-opus"]
   :mwl "napd-mwl-2-2"}
+
  {:id "neo"
   :name "Neo"
   :sets ["system-gateway"
@@ -88,6 +108,7 @@
            "borealis"
            "liberation"]
   :mwl "neo-ban-list-23-09"}
+
  {:id "sunset"
   :name "Sunset"
   :sets ["reign-and-reverie"
