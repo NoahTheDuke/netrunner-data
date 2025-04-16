@@ -1,30 +1,19 @@
 [{:id "standard"
   :name "Standard"
-  :sets ["reign-and-reverie"
-         "magnum-opus"
-         "magnum-opus-reprint"
-         "system-gateway"
-         "system-update-2021"]
-  :cycles ["red-sand"
-           "kitara"
-           "ashes"
-           "borealis"
+  :sets ["system-gateway"
+         "elevation"]
+  :cycles ["borealis"
            "liberation"]
-  :mwl "standard-ban-list-24-12"}
+  :mwl "standard-ban-list-25-04"}
 
  {:id "throwback"
   :name "Throwback"
-  :sets ["reign-and-reverie"
-         "magnum-opus"
-         "magnum-opus-reprint"
-         "system-gateway"
-         "system-update-2021"]
-  :cycles ["red-sand"
-           "kitara"
-           "ashes"
+  :sets ["elevation"
+         "system-gateway"]
+  :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "throwback-ban-list-24-12"}
+  :mwl "throwback-ban-list-25-04"}
 
  {:id "system-gateway"
   :name "System Gateway"
@@ -34,13 +23,14 @@
  {:id "startup"
   :name "Startup"
   :sets ["system-gateway"
-         "system-update-2021"]
+         "elevation"]
   :cycles ["liberation"]
-  :mwl "startup-ban-list-24-09"}
+  :mwl "startup-ban-list-25-04"}
 
  {:id "eternal"
   :name "Eternal"
   :sets ["core-set"
+         "elevation"
          "creation-and-control"
          "honor-and-profit"
          "order-and-chaos"
@@ -103,6 +93,7 @@
  {:id "neo"
   :name "Neo"
   :sets ["system-gateway"
+         "elevation"
          "system-update-2021"]
   :cycles ["ashes"
            "borealis"
@@ -122,4 +113,3 @@
            "borealis"
            "liberation"]
   :mwl "sunset-ban-list-23-12"}]
-

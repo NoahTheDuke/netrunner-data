@@ -1379,7 +1379,7 @@
   :format "standard"
   :id "standard-ban-list-24-09"
   :name "Standard Ban List 24.09"}
-  {:cards {"24-7-news-cycle" {:deck-limit 0}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
           "archived-memories" {:deck-limit 0}
           "bellona" {:deck-limit 0}
@@ -1438,6 +1438,35 @@
   :format "standard"
   :id "standard-ban-list-24-12"
   :name "Standard Ban List 24.12"}
+ {:cards {"archived-memories" {:deck-limit 0}
+          "bellona" {:deck-limit 0}
+          "bukhgalter" {:deck-limit 0}
+          "cayambe-grid" {:deck-limit 0}
+          "cleaver" {:deck-limit 0}
+          "creative-commission" {:deck-limit 0}
+          "cyberdex-sandbox" {:deck-limit 0}
+          "daily-casts" {:deck-limit 0}
+          "dr-vientiane-keeling" {:deck-limit 0}
+          "drago-ivanov" {:deck-limit 0}
+          "dreamnet" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "engram-flush" {:deck-limit 0}
+          "gold-farmer" {:deck-limit 0}
+          "k2cp-turbine" {:deck-limit 0}
+          "luminal-transubstantiation" {:deck-limit 0}
+          "moshing" {:deck-limit 0}
+          "nanisivik-grid" {:deck-limit 0}
+          "nbn-reality-plus" {:deck-limit 0}
+          "project-vacheron" {:deck-limit 0}
+          "rezeki" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "trick-shot" {:deck-limit 0}
+          "world-tree" {:deck-limit 0}}
+  :subtypes {:current {:deck-limit 0}}
+  :date-start "2024-12-12"
+  :format "standard"
+  :id "standard-ban-list-25-04"
+  :name "Standard Ban List 25.04"}
 
   {:cards {"archived-memories" {:deck-limit 0}
            "bellona" {:deck-limit 0}
@@ -1447,8 +1476,11 @@
            "bukhgalter" {:deck-limit 0}
            "cayambe-grid" {:deck-limit 0}
            "clan-vengeance" {:deck-limit 0}
+           "cleaver" {:deck-limit 0}
+           "creative-commission" {:deck-limit 0}
            "crowdfunding" {:deck-limit 0}
            "cyberdex-sandbox" {:deck-limit 0}
+           "daily-casts" {:deck-limit 0}
            "dr-vientiane-keeling" {:deck-limit 0}
            "drago-ivanov" {:deck-limit 0}
            "dreamnet" {:deck-limit 0}
@@ -1462,11 +1494,13 @@
            "kabonesa-wu-netspace-thrillseeker" {:deck-limit 0}
            "kakugo" {:deck-limit 0}
            "knobkierie" {:deck-limit 0}
+           "k2cp-turbine" {:deck-limit 0}
            "liza-talking-thunder-prominent-legislator" {:deck-limit 0}
            "luminal-transubstantiation" {:deck-limit 0}
            "mars-for-martians" {:deck-limit 0}
            "mass-commercialization" {:deck-limit 0}
            "mti-mwekundu-life-improved" {:deck-limit 0}
+           "moshing" {:deck-limit 0}
            "nanisivik-grid" {:deck-limit 0}
            "nbn-reality-plus" {:deck-limit 0}
            "obokata-protocol" {:deck-limit 0}
@@ -1488,8 +1522,8 @@
   :subtypes {:current {:deck-limit 0}}
   :date-start "2025-01-01"
   :format "throwback"
-  :id "throwback-ban-list-24-12"
-  :name "Throwback Ban List 24.12"}
+  :id "throwback-ban-list-25-04"
+  :name "Throwback Ban List 25.04"}
 
  ;; eternal format
  {:cards {"faust" {:deck-limit 0}
@@ -2073,4 +2107,26 @@
   :date-start "2024-09-21"
   :format "startup"
   :id "startup-ban-list-24-09"
-  :name "Startup Ban List 24.09"}]
+  :name "Startup Ban List 24.09"}
+ {:cards {"drago-ivanov" {:deck-limit 0}
+          "endurance" {:deck-limit 0}}
+  :date-start "2024-01-26"
+  :format "startup"
+  :id "startup-ban-list-25-04"
+  :name "Startup Ban List 25.04"}
+ {:cards {"nbn-reality-plus" {:deck-limit 0}
+          "pharos" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "cleaver" {:deck-limit 0}}
+  :date-start "2024-09-21"
+  :format "startup"
+  :id "startup-ban-list-24-09"
+  :name "Startup Ban List 24.09"}
+ {:cards {"nbn-reality-plus" {:deck-limit 0}
+          "pharos" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "creative-commission" {:deck-limit 0}}
+  :date-start "2025-04-23"
+  :format "startup"
+  :id "startup-ban-list-25-04"
+  :name "Startup Ban List 25.04"}]
