@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "nanomanagement"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "Gain click click."
+ :stripped-title "Nanomanagement"
+ :text "Gain [click][click]."
+ :title "Nanomanagement"
+ :type :operation
+ :uniqueness false}

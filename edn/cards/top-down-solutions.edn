@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "top-down-solutions"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "Draw 2 cards. Install up to 2 cards from HQ (one at a time)."
+ :stripped-title "Top-Down Solutions"
+ :text "Draw 2 cards. Install up to 2 cards from HQ <em>(one at a time)</em>."
+ :title "Top-Down Solutions"
+ :type :operation
+ :uniqueness false}

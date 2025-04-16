@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "measured-response"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "Play only if the threat level is 4 or greater, and only if the Runner made a successful run during their last turn. Do 4 meat damage unless the Runner pays 8 credits."
+ :stripped-title "Measured Response"
+ :subtype [:black-ops]
+ :text "Play only if the threat level is 4 or greater, and only if the Runner made a successful run during their last turn.\nDo 4 meat damage unless the Runner pays 8[credit]."
+ :title "Measured Response"
+ :trash-cost 3
+ :type :operation
+ :uniqueness false}

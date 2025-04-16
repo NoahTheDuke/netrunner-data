@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "flyswatter"
+ :influence-cost 0
+ :side :corp
+ :strength 0
+ :stripped-text "When you rez this ice during a run against this server, purge virus counters. Subroutine End the run."
+ :stripped-title "Flyswatter"
+ :subtype [:code-gate]
+ :text "When you rez this ice during a run against this server, purge virus counters.\n[subroutine] End the run."
+ :title "Flyswatter"
+ :type :ice
+ :uniqueness false}

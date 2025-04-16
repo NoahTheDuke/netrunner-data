@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "mahkota-langit-grid"
+ :influence-cost 0
+ :side :corp
+ :stripped-text "2 recurring credits (When you rez this upgrade and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits to rez assets in the root of this server and ice protecting this server. Persistent -> The trash cost of each asset in the root of this server is increased by 2 credits. Limit 1 region per server."
+ :stripped-title "Mahkota Langit Grid"
+ :subtype [:region]
+ :text "2[recurring-credit] <em>(When you rez this upgrade and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits to rez assets in the root of this server and ice protecting this server.\nPersistent → The trash cost of each asset in the root of this server is increased by 2[credit].\nLimit 1 <strong>region</strong> per server."
+ :title "Mahkota Langit Grid"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

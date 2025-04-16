@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "leo-construction-labor-solutions"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Once per turn -> Trash 1 rezzed bioroid card in the root of or protecting the attacked server: End the run."
+ :stripped-title "LEO Construction: Labor Solutions"
+ :subtype [:division]
+ :text "Once per turn → <strong>Trash 1 rezzed bioroid card in the root of or protecting the attacked server:</strong> End the run."
+ :title "LEO Construction: Labor Solutions"
+ :type :identity
+ :uniqueness false}

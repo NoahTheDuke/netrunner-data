@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "rising-tide"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :stripped-text "This program gets +1 strength for each fracter in your heap. Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength."
+ :stripped-title "Rising Tide"
+ :subtype [:icebreaker :fracter]
+ :text "This program gets +1 strength for each <strong>fracter</strong> in your heap.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength."
+ :title "Rising Tide"
+ :type :program
+ :uniqueness false}

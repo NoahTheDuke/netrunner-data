@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "syailendra"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :stripped-text "You can advance this ice. When the Runner encounters this ice, if it has 3 or more hosted advancement counters, you may place 1 advancement counter on an installed card you can advance. Subroutine You may place 1 advancement counter on an installed card you can advance. Subroutine The Runner loses 2 credits. Subroutine Do 1 net damage."
+ :stripped-title "Syailendra"
+ :subtype [:code-gate :ap]
+ :text "You can advance this ice.\nWhen the Runner encounters this ice, if it has 3 or more hosted advancement counters, you may place 1 advancement counter on an installed card you can advance.\n[subroutine] You may place 1 advancement counter on an installed card you can advance.\n[subroutine] The Runner loses 2[credit].\n[subroutine] Do 1 net damage."
+ :title "Syailendra"
+ :type :ice
+ :uniqueness false}

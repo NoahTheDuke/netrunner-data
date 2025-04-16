@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "dewi-subrotoputri-pedagogical-dhalang"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1 credit. Flip side: Whenever you make a successful run, if you have at least 1 unused [mu], you may flip this identity and draw 1 card."
+ :stripped-title "Dewi Subrotoputri: Pedagogical Dhalang"
+ :subtype [:natural]
+ :text "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1[credit].\nFlip side:\nWhenever you make a successful run, if you have at least 1 unused [mu], you may flip this identity and draw 1 card."
+ :title "Dewi Subrotoputri: Pedagogical Dhalang"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "nebula-talent-management-making-stars"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity. Flip side: The first time each turn you play an operation, gain click. When the Runner makes a successful run on HQ or R&D, flip this identity."
+ :stripped-title "Nebula Talent Management: Making Stars"
+ :subtype [:division]
+ :text "When your action phase ends, if you played an operation this turn, gain 1[credit] and flip this identity.\nFlip side:\nThe first time each turn you play an operation, gain [click].\nWhen the Runner makes a successful run on HQ or R&D, flip this identity."
+ :title "Nebula Talent Management: Making Stars"
+ :type :identity
+ :uniqueness false}

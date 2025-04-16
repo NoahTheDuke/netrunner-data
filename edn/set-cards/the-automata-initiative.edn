@@ -22,7 +22,7 @@
  {:card-id "audrey-v2"
   :code "34004"
   :flavor "\"What do you want from me, blood?\"\n—S3ym0ur"
-  :illustrator "Júlio Roca"
+  :illustrator "Júlio Rocha"
   :position 4
   :quantity 3
   :set-id "the-automata-initiative"}
@@ -98,7 +98,7 @@
  {:card-id "curupira"
   :code "34015"
   :flavor "Take only what you need."
-  :illustrator "Júlio Roca"
+  :illustrator "Júlio Rocha"
   :position 15
   :quantity 3
   :set-id "the-automata-initiative"}

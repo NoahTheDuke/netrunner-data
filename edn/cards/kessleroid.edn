@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "kessleroid"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :stripped-text "The Runner cannot trash this ice (while it is rezzed). Subroutine End the run. Subroutine End the run."
+ :stripped-title "Kessleroid"
+ :subtype [:barrier]
+ :text "The Runner cannot trash this ice <em>(while it is rezzed)</em>.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Kessleroid"
+ :type :ice
+ :uniqueness false}

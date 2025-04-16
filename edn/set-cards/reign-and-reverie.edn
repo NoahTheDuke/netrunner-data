@@ -128,7 +128,7 @@
  {:card-id "kyuban"
   :code "22020"
   :flavor "The journey is its own reward."
-  :illustrator "Marius Siergiejew"
+  :illustrator "Mia Siergiejew"
   :position 20
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -197,7 +197,7 @@
  {:card-id "divert-power"
   :code "22030"
   :flavor "If that doesn't work, try reversing the polarity."
-  :illustrator "Marius Siergiejew"
+  :illustrator "Mia Siergiejew"
   :position 30
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -231,7 +231,7 @@
  {:card-id "jumon"
   :code "22035"
   :flavor "\"Jumon, all too Jumon...\""
-  :illustrator "Mariusz Siergiejew"
+  :illustrator "Mia Siergiejew"
   :position 35
   :quantity 3
   :set-id "reign-and-reverie"}
@@ -349,7 +349,7 @@
   :set-id "reign-and-reverie"}
  {:card-id "blockchain"
   :code "22053"
-  :illustrator "Marius Siergiejew"
+  :illustrator "Mia Siergiejew"
   :position 53
   :quantity 3
   :set-id "reign-and-reverie"}

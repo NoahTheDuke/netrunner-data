@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :anarch
+ :id "topan-ormas-leader"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Once per turn -> click: Install 1 card from your grip, paying 2 credits less. When you install that card, suffer 1 meat damage."
+ :stripped-title "Topan: Ormas Leader"
+ :subtype [:natural]
+ :text "Once per turn → [click]<strong>:</strong> Install 1 card from your grip, paying 2[credit] less. When you install that card, suffer 1 meat damage."
+ :title "Topan: Ormas Leader"
+ :type :identity
+ :uniqueness false}

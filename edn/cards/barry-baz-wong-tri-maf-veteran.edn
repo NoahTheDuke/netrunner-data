@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "barry-baz-wong-tri-maf-veteran"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Whenever the Corp rezzes a piece of ice, you may install 1 resource or piece of hardware from your grip."
+ :stripped-title "Barry \"Baz\" Wong: Tri-Maf Veteran"
+ :subtype [:cyborg]
+ :text "Whenever the Corp rezzes a piece of ice, you may install 1 resource or piece of hardware from your grip."
+ :title "Barry \"Baz\" Wong: Tri-Maf Veteran"
+ :type :identity
+ :uniqueness false}

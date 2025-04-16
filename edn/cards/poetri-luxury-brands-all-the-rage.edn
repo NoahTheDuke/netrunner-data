@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "poetri-luxury-brands-all-the-rage"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Whenever you score an agenda, look at the top 3 cards of R&D. You may install 1 non-agenda card from among them. Whenever an agenda is stolen, you may install 1 non-agenda card from HQ."
+ :stripped-title "Poetri Luxury Brands: All the Rage"
+ :subtype [:division]
+ :text "Whenever you score an agenda, look at the top 3 cards of R&D. You may install 1 non-agenda card from among them.\nWhenever an agenda is stolen, you may install 1 non-agenda card from HQ."
+ :title "Poétrï Luxury Brands: All the Rage"
+ :type :identity
+ :uniqueness false}

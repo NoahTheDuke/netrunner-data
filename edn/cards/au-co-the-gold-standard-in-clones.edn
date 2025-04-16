@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "au-co-the-gold-standard-in-clones"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "Whenever you do damage or trash 1 or more cards from HQ, place 1 power counter on this identity. When your turn begins, you may remove 2 hosted power counters to look at the top 3 cards of R&D. Trash 1 of those cards and add the rest to HQ."
+ :stripped-title "AU Co.: The Gold Standard in Clones"
+ :subtype [:division]
+ :text "Whenever you do damage or trash 1 or more cards from HQ, place 1 power counter on this identity.\nWhen your turn begins, you may remove 2 hosted power counters to look at the top 3 cards of R&D. Trash 1 of those cards and add the rest to HQ."
+ :title "AU Co.: The Gold Standard in Clones"
+ :type :identity
+ :uniqueness false}

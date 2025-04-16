@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "anthill-excavation-contract"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When you rez this asset, load 8 credits onto it. When it is empty, trash it. When your turn begins, take 4 credits from this asset and draw 1 card."
+ :stripped-title "Anthill Excavation Contract"
+ :subtype [:industrial]
+ :text "When you rez this asset, load 8[credit] onto it. When it is empty, trash it.\nWhen your turn begins, take 4[credit] from this asset and draw 1 card."
+ :title "Anthill Excavation Contract"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}
