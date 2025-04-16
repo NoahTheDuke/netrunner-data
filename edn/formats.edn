@@ -2,7 +2,8 @@
   :name "Standard"
   :sets ["system-gateway"
          "elevation"]
-  :cycles ["borealis"
+  :cycles ["ashes"
+           "borealis"
            "liberation"]
   :mwl "standard-ban-list-25-04"}
 
