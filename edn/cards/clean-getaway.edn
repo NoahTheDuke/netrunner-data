@@ -1,13 +1,13 @@
-{:cost 1
+{:cost 3
  :deck-limit 3
  :faction :criminal
  :id "clean-getaway"
  :influence-cost 2
  :side :runner
- :stripped-text ""
+ :stripped-text "Run any server. If successful, gain 6 credits."
  :stripped-title "Clean Getaway"
  :subtype [:run]
- :text ""
+ :text "Run any server. If successful, gain 6[credit]."
  :title "Clean Getaway"
  :type :event
  :uniqueness false}

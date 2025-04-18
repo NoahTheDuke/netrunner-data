@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 3
- :stripped-text ""
+ :stripped-text "Subroutine Give the Runner 1 tag. Subroutine Do 1 net damage. Subroutine Do 2 net damage if the Runner has at least 2 tags."
  :stripped-title "Doomscroll"
- :subtype [:sentry :ap :destroyer]
- :text ""
+ :subtype [:sentry :ap :observer]
+ :text "[subroutine] Give the Runner 1 tag.\n[subroutine] Do 1 net damage.\n[subroutine] Do 2 net damage if the Runner has at least 2 tags."
  :title "Doomscroll"
  :type :ice
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 0
- :stripped-text ""
+ :stripped-text "While this ice is the only piece of ice protecting this server, it gets +4 strength. Subroutine You may install 1 card from HQ. Subroutine End the run."
  :stripped-title "Scatter Field"
  :subtype [:code-gate]
- :text ""
+ :text "While this ice is the only piece of ice protecting this server, it gets +4 strength.\n[subroutine] You may install 1 card from HQ.\n[subroutine] End the run."
  :title "Scatter Field"
  :type :ice
  :uniqueness false}

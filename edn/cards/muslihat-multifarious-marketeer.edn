@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "muslihat-multifarious-marketeer"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "When your turn begins, look at the top card of your stack. If that card is an icebreaker or a run event, you may reveal it and add it to your grip."
+ :stripped-title "MuslihaT: Multifarious Marketeer"
+ :subtype [:natural]
+ :text "When your turn begins, look at the top card of your stack. If that card is an <strong>icebreaker</strong> or a <strong>run</strong> event, you may reveal it and add it to your grip."
+ :title "MuslihaT: Multifarious Marketeer"
+ :type :identity
+ :uniqueness false}
