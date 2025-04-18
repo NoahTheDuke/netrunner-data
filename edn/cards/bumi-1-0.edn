@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "bumi-1-0"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text ""
+ :stripped-title "Bumi 1.0"
+ :subtype [:sentry :bioroid :ap :destroyer]
+ :text ""
+ :title "Bumi 1.0"
+ :type :ice
+ :uniqueness false}

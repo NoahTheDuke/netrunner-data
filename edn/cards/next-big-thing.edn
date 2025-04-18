@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :nbn
+ :id "next-big-thing"
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Next Big Thing"
+ :subtype [:initiative]
+ :text ""
+ :title "Next Big Thing"
+ :type :agenda
+ :uniqueness false}

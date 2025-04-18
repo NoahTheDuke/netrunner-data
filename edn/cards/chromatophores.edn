@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "chromatophores"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Chromatophores"
+ :subtype [:trojan]
+ :text ""
+ :title "Chromatophores"
+ :type :program
+ :uniqueness false}

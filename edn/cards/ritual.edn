@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "ritual"
+ :influence-cost 2
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Ritual"
+ :subtype []
+ :text ""
+ :title "Ritual"
+ :type :event
+ :uniqueness false}

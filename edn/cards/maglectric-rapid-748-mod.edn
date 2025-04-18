@@ -1,0 +1,13 @@
+{:cost 1 ;
+ :deck-limit 3
+ :faction :criminal
+ :id "maglectric-rapid-748-mod" ;
+ :influence-cost 2
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Maglectric Rapid (748 Mod)" ;
+ :subtype [:weapon]
+ :text "" ;
+ :title "Maglectric Rapid (748 Mod)"
+ :type :hardware
+ :uniqueness true} ;

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "phat-gioan-baotixita"
+ :influence-cost 4
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Phật Gioan Baotixita"
+ :subtype [:executive]
+ :text ""
+ :title "Phật Gioan Baotixita"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

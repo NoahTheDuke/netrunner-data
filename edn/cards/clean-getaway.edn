@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "clean-getaway"
+ :influence-cost 2
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Clean Getaway"
+ :subtype [:run]
+ :text ""
+ :title "Clean Getaway"
+ :type :event
+ :uniqueness false}

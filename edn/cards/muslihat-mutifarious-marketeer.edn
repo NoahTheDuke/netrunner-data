@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "muslihat-multifarious-marketeer"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text ""
+ :stripped-title "MuslihaT: Multifarious Marketeer"
+ :subtype [:natural]
+ :text ""
+ :title "MuslihaT: Multifarious Marketeer"
+ :type :identity
+ :uniqueness false}

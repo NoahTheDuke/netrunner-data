@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "scatter-field"
+ :influence-cost 2
+ :side :corp
+ :strength 0
+ :stripped-text ""
+ :stripped-title "Scatter Field"
+ :subtype [:code-gate]
+ :text ""
+ :title "Scatter Field"
+ :type :ice
+ :uniqueness false}

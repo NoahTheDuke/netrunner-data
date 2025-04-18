@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "charm-offensive"
+ :influence-cost 2
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Charm Offensive"
+ :subtype [:run]
+ :text ""
+ :title "Charm Offensive"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "semak-samun"
+ :influence-cost 1
+ :side :corp
+ :strength 3
+ :stripped-text ""
+ :stripped-title "Semak-samun"
+ :subtype [:barrier :ap]
+ :text ""
+ :title "Semak-samun"
+ :type :ice
+ :uniqueness false}

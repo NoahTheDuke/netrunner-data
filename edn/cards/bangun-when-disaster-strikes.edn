@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :weyland-consortium
+ :id "bangun-when-disaster-strikes"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text ""
+ :stripped-title "BANGUN: When Disaster Strikes"
+ :subtype [:corp]
+ :text ""
+ :title "BANGUN: When Disaster Strikes"
+ :type :identity
+ :uniqueness false}

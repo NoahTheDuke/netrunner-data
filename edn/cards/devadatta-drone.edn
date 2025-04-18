@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "devadatta-drone"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Devadatta Drone"
+ :subtype []
+ :text ""
+ :title "Devadatta Drone"
+ :type :program
+ :uniqueness false}

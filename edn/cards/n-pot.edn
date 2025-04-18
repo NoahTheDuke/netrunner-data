@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "n-pot"
+ :influence-cost 2
+ :side :corp
+ :strength 4
+ :stripped-text ""
+ :stripped-title "N-Pot"
+ :subtype [:code-gate]
+ :text ""
+ :title "N-Pot"
+ :type :ice
+ :uniqueness false}

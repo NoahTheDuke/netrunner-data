@@ -1,0 +1,13 @@
+{:cost 3 ;
+ :deck-limit 3
+ :faction :criminal
+ :id "detente" ;
+ :influence-cost 3
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Detente" ;
+ :subtype [:console]
+ :text "" ;
+ :title "Detente"
+ :type :hardware
+ :uniqueness true} ;

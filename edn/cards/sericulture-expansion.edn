@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "sericulture-expansion"
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Sericulture Expansion"
+ :subtype [:expansion]
+ :text ""
+ :title "Sericulture Expansion"
+ :type :agenda
+ :uniqueness false}

@@ -12,11 +12,36 @@
   :position 2
   :quantity 1
   :set-id "elevation"}
+ {:card-id "charm-offensive"
+  :code "35003"
+  :position 3
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "scrounge"
+  :code "35004"
+  :position 4
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "shred"
   :code "35005"
   :flavor "The volume <em>is</em> the message."
   :illustrator "Wilson Nugraha (Polar Engine)"
   :position 5
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "bling"
+  :code "35006"
+  :position 6
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "gourmand"
+  :code "35007"
+  :position 7
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "hantu"
+  :code "35008"
+  :position 8
   :quantity 3
   :set-id "elevation"}
  {:card-id "rising-tide"
@@ -26,12 +51,72 @@
   :position 9
   :quantity 3
   :set-id "elevation"}
+ {:card-id "cacophony"
+  :code "35010"
+  :position 10
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "rent-rioters"
+  :code "35011"
+  :position 11
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "barry-baz-wong-tri-maf-veteran"
   :code "35012"
   :flavor "Try me."
   :illustrator "Zefanya Langkan Maega"
   :position 12
   :quantity 1
+  :set-id "elevation"}
+ {:card-id "muslihat-multifarious-marketeer"
+  :code "35013"
+  :position 13
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "clean-getaway"
+  :code "35014"
+  :position 14
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "lie-low"
+  :code "35015"
+  :position 15
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "maintenance-access"
+  :code "35016"
+  :position 16
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "transfer-of-wealth"
+  :code "35017"
+  :position 17
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "detente"
+  :code "35018"
+  :position 18
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "maglectric-rapid-748-mod"
+  :code "35019"
+  :position 19
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "sang-kancil"
+  :code "35020"
+  :position 20
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "fransofia-ward"
+  :code "35021"
+  :position 21
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "open-market"
+  :code "35022"
+  :position 22
+  :quantity 3
   :set-id "elevation"}
  {:card-id "dewi-subrotoputri-pedagogical-dhalang"
   :code "35023"
@@ -54,10 +139,40 @@
   :position 25
   :quantity 3
   :set-id "elevation"}
+ {:card-id "ritual"
+  :code "35026"
+  :position 26
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "gamedragon-pro"
   :code "35027"
   :illustrator "Elizaveta Sokolova"
   :position 27
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "madani"
+  :code "35028"
+  :position 28
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "azimat"
+  :code "35029"
+  :position 29
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "chromatophores"
+  :code "35030"
+  :position 30
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "devadatta-drone"
+  :code "35031"
+  :position 31
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "principia"
+  :code "35032"
+  :position 32
   :quantity 3
   :set-id "elevation"}
  {:card-id "knickknack-o-brian"
@@ -74,6 +189,7 @@
   :position 34
   :quantity 3
   :set-id "elevation"}
+
  {:card-id "leo-construction-labor-solutions"
   :code "35035"
   :flavor "Workers of the World, Delivered."
@@ -88,6 +204,17 @@
   :position 36
   :quantity 1
   :set-id "elevation"}
+
+ {:card-id "aggressive-trendsetting"
+  :code "35037"
+  :position 37
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "project-ingatan"
+  :code "35038"
+  :position 38
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "humanoid-resources"
   :code "35039"
   :flavor "“Deploying in T-minus 5…”"
@@ -100,6 +227,16 @@
   :flavor "“Don’t be scared of the Ottos, kiddo. They’re building our future!”"
   :illustrator "Mauricio Herrera"
   :position 40
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "bumi-1-0"
+  :code "35041"
+  :position 41
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "scatter-field"
+  :code "35042"
+  :position 42
   :quantity 3
   :set-id "elevation"}
  {:card-id "nanomanagement"
@@ -116,6 +253,11 @@
   :position 44
   :quantity 3
   :set-id "elevation"}
+ {:card-id "mercia-b4ll4rd"
+  :code "35045"
+  :position 45
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "au-co-the-gold-standard-in-clones"
   :code "35046"
   :illustrator "Marlon Ruiz"
@@ -128,6 +270,49 @@
   :illustrator "Kira L. Nguyen"
   :position 47
   :quantity 1
+  :set-id "elevation"}
+ {:card-id "proprionegation"
+  :code "35048"
+  :position 48
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "sericulture-expansion"
+  :code "35049"
+  :position 49
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "byte"
+  :code "35050"
+  :position 50
+  :quantity 3
+  :set-id "elevation"}
+
+ {:card-id "phat-gioan-baotixita"
+  :code "35051"
+  :position 51
+  :quantity 3
+  :set-id "elevation"}
+
+ {:card-id "empiricist"
+  :code "35052"
+  :position 52
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "mycoweb"
+  :code "35053"
+  :position 53
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "semak-samun"
+  :code "35054"
+  :position 54
+  :quantity 3
+  :set-id "elevation"}
+
+ {:card-id "peer-review"
+  :code "35055"
+  :position 55
+  :quantity 3
   :set-id "elevation"}
  {:card-id "mitra-aman"
   :code "35056"
@@ -150,11 +335,56 @@
   :position 58
   :quantity 1
   :set-id "elevation"}
+ {:card-id "embedded-reporting"
+  :code "35059"
+  :position 59
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "next-big-thing"
+  :code "35060"
+  :position 60
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "idiosyncresis"
+  :code "35061"
+  :position 61
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "public-access-plaza"
+  :code "35062"
+  :position 62
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "doomscroll"
+  :code "35063"
+  :position 63
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "n-pot"
+  :code "35064"
+  :position 64
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "bigger-picture"
+  :code "35065"
+  :position 65
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "ip-enforcement"
   :code "35066"
   :flavor "“I believe you have something of ours.”"
   :illustrator "Rafael Monk"
   :position 66
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "touch-ups"
+  :code "35067"
+  :position 67
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "bangun-when-disaster-strikes"
+  :code "35068"
+  :position 68
   :quantity 3
   :set-id "elevation"}
  {:card-id "the-zwicky-group-invisible-hands"
@@ -163,6 +393,16 @@
   :illustrator "Marlon Ruiz"
   :position 69
   :quantity 1
+  :set-id "elevation"}
+ {:card-id "greenmail"
+  :code "35070"
+  :position 70
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "off-the-books"
+  :code "35071"
+  :position 71
+  :quantity 3
   :set-id "elevation"}
  {:card-id "anthill-excavation-contract"
   :code "35072"
@@ -176,6 +416,11 @@
   :flavor "“Rejoice, executives! The Net has sent unto us a profit!”"
   :illustrator "Adam S. Doyle"
   :position 73
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "biawak"
+  :code "35074"
+  :position 74
   :quantity 3
   :set-id "elevation"}
  {:card-id "kessleroid"
@@ -212,9 +457,20 @@
   :position 79
   :quantity 3
   :set-id "elevation"}
+ {:card-id "lamplighter"
+  :code "35080"
+  :position 80
+  :quantity 3
+  :set-id "elevation"}
+ {:card-id "petty-cash"
+  :code "35081"
+  :position 81
+  :quantity 3
+  :set-id "elevation"}
  {:card-id "mahkota-langit-grid"
   :code "35082"
   :illustrator "Marlon Ruiz"
   :position 82
   :quantity 3
-  :set-id "elevation"}]
+  :set-id "elevation"}
+ ]

@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "cacophony"
+ :influence-cost 4
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Cacophony"
+ :subtype [:virtual]
+ :text ""
+ :title "Cacophony"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "hantu"
+ :influence-cost 2
+ :memory-cost 1
+ :strength 2
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Hantu"
+ :subtype [:icebreaker :killer :virus]
+ :text ""
+ :title "Hantu"
+ :type :program
+ :uniqueness false}

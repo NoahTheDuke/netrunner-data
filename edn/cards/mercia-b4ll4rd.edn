@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "mercia-b4ll4rd"
+ :influence-cost 2
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Mercia B4LL4RD"
+ :subtype [:bioroid :academic]
+ :text ""
+ :title "Mercia B4LL4RD"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness true}

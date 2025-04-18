@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "principia"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text ""
+ :stripped-title "Principia"
+ :subtype [:icebreaker :fracter]
+ :text ""
+ :title "Principia"
+ :type :program
+ :uniqueness false}

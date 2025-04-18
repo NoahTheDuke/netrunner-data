@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "public-access-plaza"
+ :influence-cost 2
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Public Access Plaza"
+ :subtype []
+ :text ""
+ :title "Public Access Plaza"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

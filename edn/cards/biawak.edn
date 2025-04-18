@@ -1,0 +1,14 @@
+{:cost 14
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "biawak"
+ :influence-cost 3
+ :side :corp
+ :strength 3
+ :stripped-text ""
+ :stripped-title "Biawak"
+ :subtype [:sentry :destroyer]
+ :text ""
+ :title "Biawak"
+ :type :ice
+ :uniqueness false}

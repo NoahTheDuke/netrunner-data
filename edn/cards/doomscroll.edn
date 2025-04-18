@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "doomscroll"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :stripped-text ""
+ :stripped-title "Doomscroll"
+ :subtype [:sentry :ap :destroyer]
+ :text ""
+ :title "Doomscroll"
+ :type :ice
+ :uniqueness false}

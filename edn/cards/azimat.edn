@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "azimat"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Azimat"
+ :subtype []
+ :text ""
+ :title "Azimat"
+ :type :program
+ :uniqueness false}

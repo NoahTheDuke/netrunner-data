@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "petty-cash"
+ :influence-cost 0
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Petty Cash"
+ :text ""
+ :title "Petty Cash"
+ :subtypes [:transaction]
+ :type :operation
+ :uniqueness false}

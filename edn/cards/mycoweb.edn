@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 3
+ :faction :jinteki
+ :id "mycoweb"
+ :influence-cost 2
+ :side :corp
+ :strength 5
+ :stripped-text ""
+ :stripped-title "Mycoweb"
+ :subtype [:code-gate]
+ :text ""
+ :title "Mycoweb"
+ :type :ice
+ :uniqueness false}
