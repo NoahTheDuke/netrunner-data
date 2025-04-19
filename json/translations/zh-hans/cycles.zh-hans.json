@@ -54,5 +54,57 @@
   {
     "code": "terminal-directive",
     "name": "终极指令"
+  },
+  {
+    "code": "core2",
+    "name": "核心系列修订版"
+  },
+  {
+    "code": "kitara",
+    "name": "基塔拉"
+  },
+  {
+    "code": "reign-and-reverie",
+    "name": "统治与空想"
+  },
+  {
+    "code": "magnum-opus",
+    "name": "巨作"
+  },
+  {
+    "code": "napd",
+    "name": "NAPD 多人模式"
+  },
+  {
+    "code": "sc19",
+    "name": "系统核心 2019"
+  },
+  {
+    "code": "ashes",
+    "name": "余烬"
+  },
+  {
+    "code": "magnum-opus-reprint",
+    "name": "巨作重印版"
+  },
+  {
+    "code": "salvaged-memories",
+    "name": "记忆寻回"
+  },
+  {
+    "code": "system-gateway",
+    "name": "核心网关"
+  },
+  {
+    "code": "system-update-2021",
+    "name": "系统革新 2021"
+  },
+  {
+    "code": "borealis",
+    "name": "北极光"
+  },
+  {
+    "code": "liberation",
+    "name": "解放"
   }
 ]

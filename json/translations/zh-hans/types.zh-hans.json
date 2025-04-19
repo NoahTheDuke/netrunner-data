@@ -8,6 +8,14 @@
     "name": "资产"
   },
   {
+    "code": "barrier",
+    "name": "屏障"
+  },
+  {
+    "code": "code-gate",
+    "name": "门禁"
+  },
+  {
     "code": "event",
     "name": "事件"
   },
@@ -18,6 +26,10 @@
   {
     "code": "ice",
     "name": "防火墙"
+  },
+  {
+    "code": "icebreaker",
+    "name": "破解器"
   },
   {
     "code": "identity",
@@ -34,6 +46,10 @@
   {
     "code": "resource",
     "name": "资源"
+  },
+  {
+    "code": "sentry",
+    "name": "警报"
   },
   {
     "code": "upgrade",
