@@ -3,7 +3,7 @@
  :faction :shaper
  :id "azimat"
  :influence-cost 1
- :memory-cost 1
+ :memory-cost 2
  :side :runner
  :stripped-text ""
  :stripped-title "Azimat"

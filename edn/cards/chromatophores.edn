@@ -5,10 +5,10 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text ""
+ :stripped-text "Install only on a piece of ice. Host ice gains barrier, code gate, and sentry."
  :stripped-title "Chromatophores"
  :subtype [:trojan]
- :text ""
+ :text "Install only on a piece of ice.\nHost ice gains <strong>barrier</strong>, <strong>code gate</strong>, and <strong>sentry</strong>."
  :title "Chromatophores"
  :type :program
  :uniqueness false}
