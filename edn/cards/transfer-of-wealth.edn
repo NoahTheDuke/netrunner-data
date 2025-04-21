@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "transfer-of-wealth"
+ :influence-cost 4
+ :side :runner
+ :stripped-text "Run HQ. If successful, take 1 tag and the Corp loses 3 credits. Gain 2 credits for each credit lost this way."
+ :stripped-title "Transfer of Wealth"
+ :subtype [:run]
+ :text "Run HQ. If successful, take 1 tag and the Corp loses 3[credit]. Gain 2[credit] for each credit lost this way."
+ :title "Transfer of Wealth"
+ :type :event
+ :uniqueness false}

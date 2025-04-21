@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "humanoid-resources"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "click click click, trash: Gain 4 credits and draw 3 cards. Install up to 2 cards from HQ (one at a time). You may play 1 operation from HQ."
+ :stripped-title "Humanoid Resources"
+ :text "[click][click][click], [trash]<strong>:</strong> Gain 4[credit] and draw 3 cards. Install up to 2 cards from HQ <em>(one at a time)</em>. You may play 1 operation from HQ."
+ :title "Humanoid Resources"
+ :trash-cost 1
+ :type :asset
+ :uniqueness false}

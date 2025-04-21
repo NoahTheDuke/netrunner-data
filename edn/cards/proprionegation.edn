@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "proprionegation"
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Proprionegation"
+ :subtype [:security]
+ :text ""
+ :title "Proprionegation"
+ :type :agenda
+ :uniqueness false}

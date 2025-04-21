@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "principia"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :stripped-text "This program costs 1 credit less to install for each other installed icebreaker. (Programs trashed as part of installing this program dont count.) Interface -> 1 credit: Break 1 barrier subroutine. 2 credits: +2 strength."
+ :stripped-title "Principia"
+ :subtype [:icebreaker :fracter]
+ :text "This program costs 1[credit] less to install for each other installed <strong>icebreaker</strong>. <em>(Programs trashed as part of installing this program don’t count.)</em>\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength."
+ :title "Principia"
+ :type :program
+ :uniqueness false}

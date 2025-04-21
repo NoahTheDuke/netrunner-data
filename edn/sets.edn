@@ -737,4 +737,14 @@
   :name "Rebellion Without Rehearsal"
   :position 2
   :set-type :data-pack
-  :size 65}]
+  :size 65}
+ {:code "elev"
+  :cycle-id "elevation"
+  :date-release "2025-04-24"
+  :deluxe false
+  :ffg-id nil
+  :id "elevation"
+  :name "Elevation"
+  :position 1
+  :set-type :data-pack
+  :size 82}]

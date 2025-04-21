@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "synapse-global-faster-than-thought"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :stripped-text "The first time each turn a tag is removed, you may reveal and install 1 card from HQ, ignoring all costs. click, remove 1 tag: Gain 2 credits."
+ :stripped-title "Synapse Global: Faster than Thought"
+ :subtype [:division]
+ :text "The first time each turn a tag is removed, you may reveal and install 1 card from HQ, ignoring all costs.\n[click], <strong>remove 1 tag:</strong> Gain 2[credit]."
+ :title "Synapse Global: Faster than Thought"
+ :type :identity
+ :uniqueness false}

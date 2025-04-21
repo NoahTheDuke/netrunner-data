@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "gamedragon-pro"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When you install this hardware and when your turn begins, you may host this hardware on an installed non-AI icebreaker. Host icebreaker gets +1 strength. Abilities that increase its strength last for the remainder of the run (instead of any shorter duration)."
+ :stripped-title "GAMEDRAGON Pro"
+ :subtype [:mod]
+ :text "When you install this hardware and when your turn begins, you may host this hardware on an installed non-<strong>AI</strong> <strong>icebreaker</strong>.\nHost <strong>icebreaker</strong> gets +1 strength. Abilities that increase its strength last for the remainder of the run <em>(instead of any shorter duration)</em>."
+ :title "GAMEDRAGON™ Pro"
+ :type :hardware
+ :uniqueness true}

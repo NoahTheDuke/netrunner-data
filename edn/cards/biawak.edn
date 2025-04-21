@@ -1,0 +1,14 @@
+{:cost 14
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "biawak"
+ :influence-cost 3
+ :side :corp
+ :strength 6
+ :stripped-text "You can forfeit 1 agenda as you rez this ice to pay for 10 credits of its rez cost. Subroutine Trash 1 installed program or end the run. Subroutine Trash 1 installed resource or end the run. Subroutine End the run."
+ :stripped-title "Biawak"
+ :subtype [:sentry :destroyer]
+ :text "You can forfeit 1 agenda as you rez this ice to pay for 10[credit] of its rez cost.\n[subroutine] Trash 1 installed program or end the run.\n[subroutine] Trash 1 installed resource or end the run.\n[subroutine] End the run."
+ :title "Biawak"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "phat-gioan-baotixita"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "When your discard phase ends, place 1 power counter on this asset. The first time each turn an agenda is scored or stolen, you may remove up to 2 hosted power counters. Do 1 net damage plus 1 net damage for each power counter removed this way."
+ :stripped-title "Phat Gioan Baotixita"
+ :subtype [:executive]
+ :text "When your discard phase ends, place 1 power counter on this asset.\nThe first time each turn an agenda is scored or stolen, you may remove up to 2 hosted power counters. Do 1 net damage plus 1 net damage for each power counter removed this way."
+ :title "Phật Gioan Baotixita"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "illumination"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Run R&D. If successful, install up to 3 cards from your grip (one at a time), paying 1 credit less for each."
+ :stripped-title "Illumination"
+ :subtype [:run]
+ :text "Run R&D. If successful, install up to 3 cards from your grip <em>(one at a time)</em>, paying 1[credit] less for each."
+ :title "Illumination"
+ :type :event
+ :uniqueness false}

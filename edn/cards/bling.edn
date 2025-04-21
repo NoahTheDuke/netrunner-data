@@ -1,0 +1,13 @@
+{:cost 2 ;
+ :deck-limit 3
+ :faction :anarch
+ :id "bling" ;
+ :influence-cost 3
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Bling" ;
+ :subtype [:console]
+ :text "" ;
+ :title "Bling"
+ :type :hardware
+ :uniqueness true} ;

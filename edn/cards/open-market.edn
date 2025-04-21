@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "open-market"
+ :influence-cost 2
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Open Market"
+ :subtype [:job :location]
+ :text ""
+ :title "Open Market"
+ :type :resource
+ :uniqueness false}

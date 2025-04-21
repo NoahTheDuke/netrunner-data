@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "scrounge"
+ :influence-cost 1
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Scrounge"
+ :subtype [:double]
+ :text ""
+ :title "Scrounge"
+ :type :event
+ :uniqueness false}

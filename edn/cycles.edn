@@ -137,4 +137,9 @@
   :name "Liberation"
   :position 33
   :rotated false
-  :size 2}]
+  :size 2}
+ {:id "elevation"
+  :name "Elevation"
+  :position 34
+  :rotated true
+  :size 1}]

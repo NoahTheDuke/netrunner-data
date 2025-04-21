@@ -198,6 +198,8 @@
   :name "Trojan"}
  {:id :unorthodox
   :name "Unorthodox"}
+ {:id :unsubstantiated
+  :name "Unsubstantiated"}
  {:id :vehicle
   :name "Vehicle"}
  {:id :virtual

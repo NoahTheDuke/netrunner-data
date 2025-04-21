@@ -1,0 +1,14 @@
+{:cost 7
+ :deck-limit 3
+ :faction :jinteki
+ :id "empiricist"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :stripped-text ""
+ :stripped-title "Empiricist"
+ :subtype [:sentry :ap :observer]
+ :text ""
+ :title "Empiricist"
+ :type :ice
+ :uniqueness false}

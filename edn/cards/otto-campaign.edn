@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "otto-campaign"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "When you rez this asset, load 6 credits onto it. When it is empty, trash it and gain click click. When your turn begins, take 2 credits from this asset."
+ :stripped-title "Otto Campaign"
+ :subtype [:advertisement]
+ :text "When you rez this asset, load 6[credit] onto it. When it is empty, trash it and gain [click][click].\nWhen your turn begins, take 2[credit] from this asset."
+ :title "Otto Campaign"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

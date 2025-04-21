@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "magdalene-keino-chemutai-cryptarchitect"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Whenever you discard cards to reach your maximum hand size, you may install 1 program or piece of hardware from among those cards."
+ :stripped-title "Magdalene Keino-Chemutai: Cryptarchitect"
+ :subtype [:cyborg]
+ :text "Whenever you discard cards to reach your maximum hand size, you may install 1 program or piece of hardware from among those cards."
+ :title "Magdalene Keino-Chemutai: Cryptarchitect"
+ :type :identity
+ :uniqueness false}

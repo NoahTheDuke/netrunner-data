@@ -8,7 +8,7 @@
  {:card-id "crowdfunding"
   :code "23013"
   :flavor "<strong>Designed by 2017 GenCon Champion Sam Suied</strong>"
-  :illustrator "Mariusz Siergiejew"
+  :illustrator "Mia Siergiejew"
   :position 2
   :quantity 3
   :set-id "magnum-opus"}
@@ -36,7 +36,7 @@
  {:card-id "embolus"
   :code "23011"
   :flavor "<strong>Designed by 2016 GenCon Champion Dan D'Argenio</strong>"
-  :illustrator "Mariusz Siergiejew"
+  :illustrator "Mia Siergiejew"
   :position 6
   :quantity 3
   :set-id "magnum-opus"}

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "shred"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "Run any server. The first time the Corp would end that run, prevent the run from ending unless the Corp reveals and trashes X cards from HQ at random. X is equal to the number of cards in the root of the attacked server."
+ :stripped-title "Shred"
+ :subtype [:run]
+ :text "Run any server. The first time the Corp would end that run, prevent the run from ending unless the Corp reveals and trashes X cards from HQ at random. X is equal to the number of cards in the root of the attacked server."
+ :title "Shred"
+ :type :event
+ :uniqueness false}

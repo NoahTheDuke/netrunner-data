@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :jinteki
+ :id "peer-review"
+ :influence-cost 2
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Peer Review"
+ :text ""
+ :title "Peer Review"
+ :subtypes [:transaction]
+ :type :operation
+ :uniqueness false}

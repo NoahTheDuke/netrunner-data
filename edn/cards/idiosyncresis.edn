@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "idiosyncresis"
+ :influence-cost 2
+ :side :corp
+ :stripped-text ""
+ :stripped-title "Idiosyncresis"
+ :subtype [:hostile]
+ :text ""
+ :title "Idiosyncresis"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

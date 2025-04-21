@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "maintenance-access"
+ :influence-cost 3
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Maintenance Access"
+ :subtype [:run :double]
+ :text ""
+ :title "Maintenance Access"
+ :type :event
+ :uniqueness false}

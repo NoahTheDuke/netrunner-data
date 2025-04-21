@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "chromatophores"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. Host ice gains barrier, code gate, and sentry."
+ :stripped-title "Chromatophores"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nHost ice gains <strong>barrier</strong>, <strong>code gate</strong>, and <strong>sentry</strong>."
+ :title "Chromatophores"
+ :type :program
+ :uniqueness false}

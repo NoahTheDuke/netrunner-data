@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "side-hustle"
+ :influence-cost 0
+ :side :runner
+ :stripped-text "When you install this resource and whenever a run begins, place 1 credit on this resource. When there are 6 or more hosted credits, take all credits from this resource, trash it, and draw 1 card."
+ :stripped-title "Side Hustle"
+ :subtype [:job]
+ :text "When you install this resource and whenever a run begins, place 1[credit] on this resource.\nWhen there are 6 or more hosted credits, take all credits from this resource, trash it, and draw 1 card."
+ :title "Side Hustle"
+ :type :resource
+ :uniqueness false}

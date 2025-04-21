@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "lie-low"
+ :influence-cost 1
+ :side :runner
+ :stripped-text ""
+ :stripped-title "Lie Low"
+ :subtype [:double]
+ :text ""
+ :title "Lie Low"
+ :type :event
+ :uniqueness false}

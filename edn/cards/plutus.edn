@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "plutus"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "As an additional cost to rez this asset, forfeit 1 agenda or reveal and trash 3 cards from HQ. When your turn begins, you may play 1 transaction operation from Archives. After it resolves, remove it from the game."
+ :stripped-title "Plutus"
+ :subtype [:deep-net]
+ :text "As an additional cost to rez this asset, forfeit 1 agenda or reveal and trash 3 cards from HQ.\nWhen your turn begins, you may play 1 <strong>transaction</strong> operation from Archives. After it resolves, remove it from the game."
+ :title "Plutus"
+ :trash-cost 3
+ :type :asset
+ :uniqueness true}
