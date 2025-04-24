@@ -2112,12 +2112,12 @@
           "endurance" {:deck-limit 0}}
   :date-start "2024-01-26"
   :format "startup"
-  :id "startup-ban-list-25-04"
-  :name "Startup Ban List 25.04"}
+  :id "startup-ban-list-24-01"
+  :name "Startup Ban List 24.01"}
  {:cards {"nbn-reality-plus" {:deck-limit 0}
           "pharos" {:deck-limit 0}
           "tributary" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}}
+          "creative-commission" {:deck-limit 0}}
   :date-start "2024-09-21"
   :format "startup"
   :id "startup-ban-list-24-09"
@@ -2125,7 +2125,7 @@
  {:cards {"nbn-reality-plus" {:deck-limit 0}
           "pharos" {:deck-limit 0}
           "tributary" {:deck-limit 0}
-          "creative-commission" {:deck-limit 0}}
+          "cleaver" {:deck-limit 0}}
   :date-start "2025-04-23"
   :format "startup"
   :id "startup-ban-list-25-04"
