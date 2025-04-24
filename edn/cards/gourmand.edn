@@ -5,10 +5,9 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :stripped-text ""
+ :stripped-text "Access -> trash: Trash the non-agenda card you are accessing. If you do, draw 1 card."
  :stripped-title "Gourmand"
- :subtype []
- :text ""
+ :text "Access → [trash]<strong>:</strong> Trash the non-agenda card you are accessing. If you do, draw 1 card."
  :title "Gourmand"
  :type :program
  :uniqueness false}

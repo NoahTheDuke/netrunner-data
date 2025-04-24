@@ -4,10 +4,10 @@
  :id "mercia-b4ll4rd"
  :influence-cost 2
  :side :corp
- :stripped-text ""
+ :stripped-text "When your action phase ends, you may install 1 piece of ice from HQ, paying 1 credit less. If you do, move this upgrade to the root of the server that piece of ice is protecting."
  :stripped-title "Mercia B4LL4RD"
  :subtype [:bioroid :academic]
- :text ""
+ :text "When your action phase ends, you may install 1 piece of ice from HQ, paying 1[credit] less. If you do, move this upgrade to the root of the server that piece of ice is protecting."
  :title "Mercia B4LL4RD"
  :trash-cost 2
  :type :upgrade

@@ -4,10 +4,10 @@
  :id "peer-review"
  :influence-cost 2
  :side :corp
- :stripped-text ""
+ :stripped-text "Reveal all but 1 card in HQ. Gain 7 credits. You may install 1 card from HQ in the root of a remote server."
  :stripped-title "Peer Review"
- :text ""
+ :subtype [:transaction]
+ :text "Reveal all but 1 card in HQ.\nGain 7[credit]. You may install 1 card from HQ in the root of a remote server."
  :title "Peer Review"
- :subtypes [:transaction]
  :type :operation
  :uniqueness false}

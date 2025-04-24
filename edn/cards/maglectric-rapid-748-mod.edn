@@ -1,13 +1,13 @@
-{:cost 1 ;
+{:cost 1
  :deck-limit 3
  :faction :criminal
- :id "maglectric-rapid-748-mod" ;
+ :id "maglectric-rapid-748-mod"
  :influence-cost 2
  :side :runner
- :stripped-text ""
- :stripped-title "Maglectric Rapid (748 Mod)" ;
+ :stripped-text "Whenever you make a successful run on HQ, you may trash this hardware to derez 1 installed Corp card."
+ :stripped-title "Maglectric Rapid (748 Mod)"
  :subtype [:weapon]
- :text "" ;
+ :text "Whenever you make a successful run on HQ, you may trash this hardware to derez 1 installed Corp card."
  :title "Maglectric Rapid (748 Mod)"
  :type :hardware
- :uniqueness true} ;
+ :uniqueness true}

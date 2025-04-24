@@ -14,11 +14,15 @@
   :set-id "elevation"}
  {:card-id "charm-offensive"
   :code "35003"
+  :flavor "“I’ll use what I have to get what I want.”"
+  :illustrator "Matheus Calza"
   :position 3
   :quantity 3
   :set-id "elevation"}
  {:card-id "scrounge"
   :code "35004"
+  :flavor "“99% of everything is trash. That’s why I pay someone else to search it for me.”\n—Sturg3on_General"
+  :illustrator "Amirul Hhf"
   :position 4
   :quantity 3
   :set-id "elevation"}
@@ -31,16 +35,21 @@
   :set-id "elevation"}
  {:card-id "bling"
   :code "35006"
+  :illustrator "Martin de Diego Sádaba"
   :position 6
   :quantity 3
   :set-id "elevation"}
  {:card-id "gourmand"
   :code "35007"
+  :flavor "48c7 c0c9 0000 000f 0549 c7c2 8051 0100 49f7 fa48 83fa 007c 1048 c7c0 3c00 0000 48c7 c707 0000 000f 05…"
+  :illustrator "Cat Shen"
   :position 7
   :quantity 3
   :set-id "elevation"}
  {:card-id "hantu"
   :code "35008"
+  :flavor "“I’m on retainer for monthly purges on thirty-six different servers.”\n—Ratu Maharani, pawang virus"
+  :illustrator "Júlio Rocha"
   :position 8
   :quantity 3
   :set-id "elevation"}
@@ -53,11 +62,15 @@
   :set-id "elevation"}
  {:card-id "cacophony"
   :code "35010"
+  :flavor "“Nil SIR, black noise, lost girls, drowned boys!”\n—Ryō “Phoenix” Ōno"
+  :illustrator "Adam S. Doyle"
   :position 10
   :quantity 3
   :set-id "elevation"}
  {:card-id "rent-rioters"
   :code "35011"
+  :flavor "“In the end, they raised the rent and we were out on the street. But the riots had tanked property values so much we moved back in—with a better deal!”"
+  :illustrator "Oliver Morit"
   :position 11
   :quantity 3
   :set-id "elevation"}
@@ -70,51 +83,70 @@
   :set-id "elevation"}
  {:card-id "muslihat-multifarious-marketeer"
   :code "35013"
+  :flavor "Peer pressure works."
+  :illustrator "Marlon Ruiz"
   :position 13
-  :quantity 3
+  :quantity 1
   :set-id "elevation"}
  {:card-id "clean-getaway"
   :code "35014"
+  :flavor "“…one-hundred and twenty-seven rounds fired, and two police hoppers totaled. Miraculously, no officers were hurt, though the suspect remains at large.”\n—Abdul el-Sattar, KKN 6"
+  :illustrator "Amirul Hhf"
   :position 14
   :quantity 3
   :set-id "elevation"}
  {:card-id "lie-low"
   :code "35015"
+  :flavor "“Pity the money’s being spent here, when I could be buying hiasan for my apartment.”"
+  :illustrator "Dimik"
   :position 15
   :quantity 3
   :set-id "elevation"}
  {:card-id "maintenance-access"
   :code "35016"
+  :flavor "“Don’t let self-respect get in the way of a good shortcut.”\n—“G0ph3r” OʼRyan"
+  :illustrator "Mauricio Herrera"
   :position 16
   :quantity 3
   :set-id "elevation"}
  {:card-id "transfer-of-wealth"
   :code "35017"
+  :flavor "“In KK, we say ‘harimau mati karena belangnya’. It means don't tell the world how much money you have if you plan on keeping it.”\n—JokoR"
+  :illustrator "Oliver Morit"
   :position 17
   :quantity 3
   :set-id "elevation"}
  {:card-id "detente"
   :code "35018"
+  :illustrator "Oliver Morit"
   :position 18
   :quantity 3
   :set-id "elevation"}
  {:card-id "maglectric-rapid-748-mod"
   :code "35019"
+  :flavor "“You think I’ve finished messing with you?\nYeah, nah.”\n—Barry “Baz” Wong"
+  :illustrator "Matheus Calza"
   :position 19
   :quantity 3
   :set-id "elevation"}
  {:card-id "sang-kancil"
   :code "35020"
+  :flavor "Consequences only matter if they catch you."
+  :illustrator "Anthony Hutchings"
   :position 20
   :quantity 3
   :set-id "elevation"}
  {:card-id "fransofia-ward"
   :code "35021"
+  :flavor "“She’s learned from the best: me. When I retire, the KK Tri-Maf’ll be in good hands.”\n—Barry “Baz” Wong"
+  :illustrator "Oliver Morit"
   :position 21
   :quantity 3
   :set-id "elevation"}
  {:card-id "open-market"
   :code "35022"
+  :flavor "“That kepo NBN gang makes trillions off incidental data scraping. So what if I use it to network?”\n—MuslihaT"
+  :illustrator "Kira L. Nguyen"
   :position 22
   :quantity 3
   :set-id "elevation"}
@@ -141,6 +173,8 @@
   :set-id "elevation"}
  {:card-id "ritual"
   :code "35026"
+  :flavor "Every day starts the same: tea, news, a threedee puzzle. Then it’s off to work. Magdalene won’t let being fired get in the way of completing her masterpiece."
+  :illustrator "Alecia Doyley"
   :position 26
   :quantity 3
   :set-id "elevation"}
@@ -152,26 +186,35 @@
   :set-id "elevation"}
  {:card-id "madani"
   :code "35028"
+  :illustrator "Amirul Hhf"
   :position 28
   :quantity 3
   :set-id "elevation"}
  {:card-id "azimat"
   :code "35029"
+  :flavor "“For my children’s sake, I’ll endure any pain.”\n—Dewi Subrotoputri, as Dyah Kunthi"
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
   :position 29
   :quantity 3
   :set-id "elevation"}
  {:card-id "chromatophores"
   :code "35030"
+  :flavor "“The Net operates almost as much on dream logic as it does digital logic. If you believe something to be true, it often is.”\n—The Encyclopedia Silica"
+  :illustrator "Adam S. Doyle"
   :position 30
   :quantity 3
   :set-id "elevation"}
  {:card-id "devadatta-drone"
   :code "35031"
+  :flavor "“I still have friends on the inside.”\n—Magdalene Keino-Chemutai"
+  :illustrator "Bruno Balixa"
   :position 31
   :quantity 3
   :set-id "elevation"}
  {:card-id "principia"
   :code "35032"
+  :flavor "On the shoulders of giants."
+  :illustrator "Bruno Balixa"
   :position 32
   :quantity 3
   :set-id "elevation"}
@@ -189,7 +232,6 @@
   :position 34
   :quantity 3
   :set-id "elevation"}
-
  {:card-id "leo-construction-labor-solutions"
   :code "35035"
   :flavor "Workers of the World, Delivered."
@@ -204,14 +246,16 @@
   :position 36
   :quantity 1
   :set-id "elevation"}
-
  {:card-id "aggressive-trendsetting"
   :code "35037"
+  :flavor "“Don’t tell me you were at the gala, darling? I must not have seen you!”"
+  :illustrator "Elliott Birt"
   :position 37
   :quantity 3
   :set-id "elevation"}
  {:card-id "project-ingatan"
   :code "35038"
+  :illustrator "Kira L. Nguyen"
   :position 38
   :quantity 3
   :set-id "elevation"}
@@ -231,11 +275,15 @@
   :set-id "elevation"}
  {:card-id "bumi-1-0"
   :code "35041"
+  :flavor "“You dare?”"
+  :illustrator "Ferenc Patkós"
   :position 41
   :quantity 3
   :set-id "elevation"}
  {:card-id "scatter-field"
   :code "35042"
+  :flavor "“It is a fallacy that conscious observation can change reality. The consciousness of the observer isn’t required at all.”\n—The Encyclopedia Silica"
+  :illustrator "Bruno Balixa"
   :position 42
   :quantity 3
   :set-id "elevation"}
@@ -255,6 +303,8 @@
   :set-id "elevation"}
  {:card-id "mercia-b4ll4rd"
   :code "35045"
+  :flavor "“My predecessor had passion, imagination, ambition. I assure you, I possess no such flaws.”"
+  :illustrator "Dimik"
   :position 45
   :quantity 3
   :set-id "elevation"}
@@ -273,44 +323,55 @@
   :set-id "elevation"}
  {:card-id "proprionegation"
   :code "35048"
+  :flavor "We rely too much on spatial cognition. What happens when that system receives a null signal?"
+  :illustrator "Cat Shen"
   :position 48
   :quantity 3
   :set-id "elevation"}
  {:card-id "sericulture-expansion"
   :code "35049"
+  :illustrator "Kira L. Nguyen"
   :position 49
   :quantity 3
   :set-id "elevation"}
  {:card-id "byte"
   :code "35050"
+  :flavor "You thought you were safe?"
+  :illustrator "Cat Shen"
   :position 50
   :quantity 3
   :set-id "elevation"}
-
  {:card-id "phat-gioan-baotixita"
   :code "35051"
+  :flavor "“I make the best company.”"
+  :illustrator "Elliott Birt"
   :position 51
   :quantity 3
   :set-id "elevation"}
-
  {:card-id "empiricist"
   :code "35052"
+  :flavor "Jinteki’s most experimental ice are often their most dangerous."
+  :illustrator "Bruno Balixa"
   :position 52
   :quantity 3
   :set-id "elevation"}
  {:card-id "mycoweb"
   :code "35053"
+  :illustrator "Mia Siergiejew"
   :position 53
   :quantity 3
   :set-id "elevation"}
  {:card-id "semak-samun"
   :code "35054"
+  :flavor "The silence of the forest is the surest sign of danger."
+  :illustrator "Scott Uminga"
   :position 54
   :quantity 3
   :set-id "elevation"}
-
  {:card-id "peer-review"
   :code "35055"
+  :flavor "Peer reviews are the difference between living in the arcs and living in the slums. Cloneline gengineering never made anything as vicious or cutthroat as a Jinteki scientist."
+  :illustrator "Matheus Calza"
   :position 55
   :quantity 3
   :set-id "elevation"}
@@ -337,36 +398,48 @@
   :set-id "elevation"}
  {:card-id "embedded-reporting"
   :code "35059"
+  :illustrator "Anthony Hutchings"
   :position 59
   :quantity 3
   :set-id "elevation"}
  {:card-id "next-big-thing"
   :code "35060"
+  :flavor "That’s <em>so</em> fifteen minutes ago."
+  :illustrator "Matheus Calza"
   :position 60
   :quantity 3
   :set-id "elevation"}
  {:card-id "idiosyncresis"
   :code "35061"
+  :flavor "You don’t really want to know what makes you unique as a person. It’s so much less than you think."
+  :illustrator "Adam S. Doyle"
   :position 61
   :quantity 3
   :set-id "elevation"}
  {:card-id "public-access-plaza"
   :code "35062"
+  :flavor "“Give me five minutes of a user’s Access Plaza traffic and I’ll tell you where they’re having lunch tomorrow. Give me another ten, and I’ll have their bibi’s secret rendang recipe.”\n—Luzviminda Reyes, Synapse Sales"
+  :illustrator "Anna Butova"
   :position 62
   :quantity 3
   :set-id "elevation"}
  {:card-id "doomscroll"
   :code "35063"
+  :flavor "They know what makes you tick.\nAnd ticked-off."
+  :illustrator "Júlio Rocha"
   :position 63
   :quantity 3
   :set-id "elevation"}
  {:card-id "n-pot"
   :code "35064"
+  :flavor "”On the Net, we hold the power.”\n —Arnold Teoh, NBN technologist"
+  :illustrator "Ed Mattinian"
   :position 64
   :quantity 3
   :set-id "elevation"}
  {:card-id "bigger-picture"
   :code "35065"
+  :illustrator "Mia Siergiejew"
   :position 65
   :quantity 3
   :set-id "elevation"}
@@ -379,13 +452,17 @@
   :set-id "elevation"}
  {:card-id "touch-ups"
   :code "35067"
+  :flavor "“Your Star Power is in the toilet, kid. We need a fresh face.”"
+  :illustrator "Amirul Hhf"
   :position 67
   :quantity 3
   :set-id "elevation"}
  {:card-id "bangun-when-disaster-strikes"
   :code "35068"
+  :flavor "We’ll be there."
+  :illustrator "Vitalii Ostaschenko"
   :position 68
-  :quantity 3
+  :quantity 1
   :set-id "elevation"}
  {:card-id "the-zwicky-group-invisible-hands"
   :code "35069"
@@ -396,11 +473,14 @@
   :set-id "elevation"}
  {:card-id "greenmail"
   :code "35070"
+  :flavor "“It’s been a real pleasure doing business with you.”"
+  :illustrator "Mauricio Herrera"
   :position 70
   :quantity 3
   :set-id "elevation"}
  {:card-id "off-the-books"
   :code "35071"
+  :illustrator "Olie Boldador"
   :position 71
   :quantity 3
   :set-id "elevation"}
@@ -420,6 +500,8 @@
   :set-id "elevation"}
  {:card-id "biawak"
   :code "35074"
+  :flavor "“Dammit, Moth! Where are you? This thing is way bigger than you s—”\n—C0nr4d"
+  :illustrator "Anthony Hutchings"
   :position 74
   :quantity 3
   :set-id "elevation"}
@@ -459,11 +541,14 @@
   :set-id "elevation"}
  {:card-id "lamplighter"
   :code "35080"
+  :flavor "Itur in antiquam telam."
+  :illustrator "Ferenc Patkós"
   :position 80
   :quantity 3
   :set-id "elevation"}
  {:card-id "petty-cash"
   :code "35081"
+  :illustrator "Matheus Calza"
   :position 81
   :quantity 3
   :set-id "elevation"}
@@ -472,5 +557,4 @@
   :illustrator "Marlon Ruiz"
   :position 82
   :quantity 3
-  :set-id "elevation"}
- ]
+  :set-id "elevation"}]

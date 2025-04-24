@@ -1,13 +1,13 @@
-{:cost 3 ;
+{:cost 3
  :deck-limit 3
  :faction :criminal
- :id "detente" ;
+ :id "detente"
  :influence-cost 3
  :side :runner
- :stripped-text ""
- :stripped-title "Detente" ;
+ :stripped-text "+1 mu The first time each turn you make a successful run on HQ, you may host 1 card from HQ at random faceup on this hardware. (It is not installed or rezzed.) click, add 2 hosted cards to HQ: The Runner may access 1 card in HQ at random. Any player can use this ability. Limit 1 console per player."
+ :stripped-title "Detente"
  :subtype [:console]
- :text "" ;
+ :text "+1[mu]\nThe first time each turn you make a successful run on HQ, you may host 1 card from HQ at random faceup on this hardware. <em>(It is not installed or rezzed.)</em>\n[click], <strong>add 2 hosted cards to HQ:</strong> The Runner may access 1 card in HQ at random. Any player can use this ability.\nLimit 1 <strong>console</strong> per player."
  :title "Detente"
  :type :hardware
- :uniqueness true} ;
+ :uniqueness true}

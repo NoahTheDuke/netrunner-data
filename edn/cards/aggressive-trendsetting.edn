@@ -4,10 +4,10 @@
  :faction :haas-bioroid
  :id "aggressive-trendsetting"
  :side :corp
- :stripped-text ""
+ :stripped-text "The first time the Runner trashes an installed Corp card during each of their turns, they may spend click. If they do not, you get +1 allotted click for your next turn."
  :stripped-title "Aggressive Trendsetting"
  :subtype [:initiative]
- :text ""
+ :text "The first time the Runner trashes an installed Corp card during each of their turns, they may spend [click]. If they do not, you get +1 allotted [click] for your next turn."
  :title "Aggressive Trendsetting"
  :type :agenda
  :uniqueness false}

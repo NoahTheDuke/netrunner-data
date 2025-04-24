@@ -1,13 +1,13 @@
 {:cost 2
- :deck-limit 1
+ :deck-limit 3
  :faction :anarch
  :id "rent-rioters"
  :influence-cost 1
  :side :runner
- :stripped-text ""
+ :stripped-text "click click click,trash: Gain 9 credits."
  :stripped-title "Rent Rioters"
  :subtype [:connection :seedy]
- :text ""
+ :text "[click][click][click],[trash]<strong>:</strong> Gain 9[credit]."
  :title "Rent Rioters"
  :type :resource
  :uniqueness false}
