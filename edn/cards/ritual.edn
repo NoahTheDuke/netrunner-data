@@ -1,13 +1,12 @@
-{:cost 1
+{:cost 0
  :deck-limit 3
  :faction :shaper
  :id "ritual"
  :influence-cost 2
  :side :runner
- :stripped-text ""
+ :stripped-text "Draw 1 card for each click you have remaining."
  :stripped-title "Ritual"
- :subtype []
- :text ""
+ :text "Draw 1 card for each [click] you have remaining."
  :title "Ritual"
  :type :event
  :uniqueness false}

@@ -5,10 +5,9 @@
  :influence-cost 1
  :memory-cost 1
  :side :runner
- :stripped-text ""
+ :stripped-text "When you install this program, place 2 power counters on it. Whenever you breach R&D, you may remove 1 hosted power counter to access 1 additional card."
  :stripped-title "Devadatta Drone"
- :subtype []
- :text ""
+ :text "When you install this program, place 2 power counters on it.\nWhenever you breach R&D, you may remove 1 hosted power counter to access 1 additional card."
  :title "Devadatta Drone"
  :type :program
  :uniqueness false}

@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "off-the-books"
  :side :corp
- :stripped-text ""
+ :stripped-text "Dividends 1 (When you score this agenda, place 1 agenda counter on it for each excess advancement counter.) When your discard phase ends, you may remove 1 hosted agenda counter to search R&D for 1 card and reveal it. (Shuffle R&D after searching it.) You may install that card, ignoring all costs. If you do not, add it to HQ."
  :stripped-title "Off the Books"
- :subtype [:expansion]
- :text ""
+ :subtype [:initiative]
+ :text "Dividends 1 <em>(When you score this agenda, place 1 agenda counter on it for each excess advancement counter.)</em>\nWhen your discard phase ends, you may remove 1 hosted agenda counter to search R&D for 1 card and reveal it. <em>(Shuffle R&D after searching it.)</em> You may install that card, ignoring all costs. If you do not, add it to HQ."
  :title "Off the Books"
  :type :agenda
  :uniqueness false}

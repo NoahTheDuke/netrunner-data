@@ -4,10 +4,10 @@
  :faction :jinteki
  :id "sericulture-expansion"
  :side :corp
- :stripped-text ""
+ :stripped-text "Dividends 1 (When you score this agenda, place 1 agenda counter on it for each excess advancement counter.) When your discard phase ends, you may remove 1 hosted agenda counter to place 2 advancement counters on 1 installed card. (You cannot score that card this turn.)"
  :stripped-title "Sericulture Expansion"
  :subtype [:expansion]
- :text ""
+ :text "Dividends 1 <em>(When you score this agenda, place 1 agenda counter on it for each excess advancement counter.)</em>\nWhen your discard phase ends, you may remove 1 hosted agenda counter to place 2 advancement counters on 1 installed card. <em>(You cannot score that card this turn.)</em>"
  :title "Sericulture Expansion"
  :type :agenda
  :uniqueness false}

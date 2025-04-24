@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "greenmail"
  :side :corp
- :stripped-text ""
+ :stripped-text "When you score this agenda, gain 2 credits. When you forfeit this agenda, gain 4 credits."
  :stripped-title "Greenmail"
  :subtype [:expansion]
- :text ""
+ :text "When you score this agenda, gain 2[credit].\nWhen you forfeit this agenda, gain 4[credit]."
  :title "Greenmail"
  :type :agenda
  :uniqueness false}

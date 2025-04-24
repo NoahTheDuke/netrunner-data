@@ -4,10 +4,10 @@
  :faction :nbn
  :id "embedded-reporting"
  :side :corp
- :stripped-text ""
+ :stripped-text "Dividends 2 (When you score this agenda, place 2 agenda counters on it for each excess advancement counter.) When your discard phase ends, you may remove 1 hosted agenda counter to search R&D for 1 operation and reveal it. (Shuffle R&D after searching it.) Add that operation to the top of R&D."
  :stripped-title "Embedded Reporting"
  :subtype [:initiative]
- :text ""
+ :text "Dividends 2 <em>(When you score this agenda, place 2 agenda counters on it for each excess advancement counter.)</em>\nWhen your discard phase ends, you may remove 1 hosted agenda counter to search R&D for 1 operation and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that operation to the top of R&D."
  :title "Embedded Reporting"
  :type :agenda
  :uniqueness false}

@@ -4,12 +4,12 @@
  :id "hantu"
  :influence-cost 2
  :memory-cost 1
- :strength 2
  :side :runner
- :stripped-text ""
+ :strength 2
+ :stripped-text "When you install this program, place 2 virus counters on it. Interface -> 1 credit: Break 1 sentry subroutine. Hosted virus counter: +2 strength."
  :stripped-title "Hantu"
  :subtype [:icebreaker :killer :virus]
- :text ""
+ :text "When you install this program, place 2 virus counters on it.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>Hosted virus counter:</strong> +2 strength."
  :title "Hantu"
  :type :program
  :uniqueness false}

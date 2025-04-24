@@ -1,13 +1,13 @@
-{:cost 1
+{:cost 0
  :deck-limit 3
  :faction :anarch
  :id "charm-offensive"
  :influence-cost 2
  :side :runner
- :stripped-text ""
+ :stripped-text "Run Archives. When that run ends, you may trash 1 rezzed copy of a card you accessed in Archives during that run."
  :stripped-title "Charm Offensive"
  :subtype [:run]
- :text ""
+ :text "Run Archives. When that run ends, you may trash 1 rezzed copy of a card you accessed in Archives during that run."
  :title "Charm Offensive"
  :type :event
  :uniqueness false}

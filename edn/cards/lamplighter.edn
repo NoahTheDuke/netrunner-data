@@ -5,10 +5,10 @@
  :influence-cost 0
  :side :corp
  :strength 3
- :stripped-text ""
+ :stripped-text "When an agenda is scored or stolen from this server or its root, trash this ice. Subroutine Give the Runner 1 tag unless they pay 3 credits. Subroutine End the run if the Runner is tagged."
  :stripped-title "Lamplighter"
  :subtype [:sentry :observer]
- :text ""
+ :text "When an agenda is scored or stolen from this server or its root, trash this ice.\n[subroutine] Give the Runner 1 tag unless they pay 3[credit].\n[subroutine] End the run if the Runner is tagged."
  :title "Lamplighter"
  :type :ice
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "fransofia-ward"
  :influence-cost 3
  :side :runner
- :stripped-text ""
+ :stripped-text "The rez cost of each piece of ice is increased by 1 credit. Whenever you encounter a piece of ice, if the Corp has 15 credits or more, you may trash this resource to bypass that ice. (Pass that ice. No subroutines or further \"when encountered\" abilities resolve.)"
  :stripped-title "Fransofia Ward"
  :subtype [:connection]
- :text ""
+ :text "The rez cost of each piece of ice is increased by 1[credit].\nWhenever you encounter a piece of ice, if the Corp has 15[credit] or more, you may trash this resource to bypass that ice. <em>(Pass that ice. No subroutines or further \"when encountered\" abilities resolve.)</em>"
  :title "Fransofia Ward"
  :type :resource
  :uniqueness true}

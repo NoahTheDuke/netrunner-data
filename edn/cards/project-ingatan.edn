@@ -4,10 +4,10 @@
  :faction :haas-bioroid
  :id "project-ingatan"
  :side :corp
- :stripped-text ""
+ :stripped-text "Dividends 1 (When you score this agenda, place 1 agenda counter on it for each excess advancement counter.) When your discard phase ends, you may remove 1 hosted agenda counter to install 1 card from Archives, ignoring all costs."
  :stripped-title "Project Ingatan"
  :subtype [:research]
- :text ""
+ :text "Dividends 1 <em>(When you score this agenda, place 1 agenda counter on it for each excess advancement counter.)</em>\nWhen your discard phase ends, you may remove 1 hosted agenda counter to install 1 card from Archives, ignoring all costs."
  :title "Project Ingatan"
  :type :agenda
  :uniqueness false}

@@ -5,10 +5,9 @@
  :influence-cost 1
  :memory-cost 2
  :side :runner
- :stripped-text ""
+ :stripped-text "2 recurring credits (When you install this program and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits to pay trash costs."
  :stripped-title "Azimat"
- :subtype []
- :text ""
+ :text "2[recurring-credit] <em>(When you install this program and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits to pay trash costs."
  :title "Azimat"
  :type :program
  :uniqueness false}

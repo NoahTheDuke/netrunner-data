@@ -1,13 +1,13 @@
-{:cost 1
+{:cost 0
  :deck-limit 3
  :faction :criminal
  :id "maintenance-access"
  :influence-cost 3
  :side :runner
- :stripped-text ""
+ :stripped-text "As an additional cost to play this event, spend click. Run Archives. When you would approach Archives (after passing all ice), instead change the attacked server to HQ and approach HQ."
  :stripped-title "Maintenance Access"
  :subtype [:run :double]
- :text ""
+ :text "As an additional cost to play this event, spend [click].\nRun Archives. When you would approach Archives <em>(after passing all ice)</em>, instead change the attacked server to HQ and approach HQ."
  :title "Maintenance Access"
  :type :event
  :uniqueness false}
