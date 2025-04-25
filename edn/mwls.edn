@@ -2114,8 +2114,7 @@
   :format "startup"
   :id "startup-ban-list-24-01"
   :name "Startup Ban List 24.01"}
- {:cards {"nbn-reality-plus" {:deck-limit 0}
-          "pharos" {:deck-limit 0}
+ {:cards {"pharos" {:deck-limit 0}
           "tributary" {:deck-limit 0}
           "creative-commission" {:deck-limit 0}}
   :date-start "2024-09-21"
