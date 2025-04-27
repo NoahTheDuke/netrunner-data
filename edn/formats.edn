@@ -99,18 +99,4 @@
   :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "neo-ban-list-23-09"}
-
- {:id "sunset"
-  :name "Sunset"
-  :sets ["reign-and-reverie"
-         "magnum-opus"
-         "magnum-opus-reprint"
-         "system-gateway"
-         "system-update-2021"]
-  :cycles ["red-sand"
-           "kitara"
-           "ashes"
-           "borealis"
-           "liberation"]
-  :mwl "sunset-ban-list-23-12"}]
+  :mwl "neo-ban-list-23-09"}]
