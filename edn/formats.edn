@@ -21,8 +21,8 @@
   :sets ["system-gateway"]
   :mwl nil}
 
- {:id "revised-core-set"
-  :name "Revised Core Set"
+ {:id "core"
+  :name "Core"
   :sets ["system-gateway"
          "elevation"]
   :mwl nil}
