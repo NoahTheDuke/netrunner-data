@@ -21,6 +21,12 @@
   :sets ["system-gateway"]
   :mwl nil}
 
+ {:id "core"
+  :name "Core"
+  :sets ["system-gateway"
+         "elevation"]
+  :mwl nil}
+
  {:id "startup"
   :name "Startup"
   :sets ["system-gateway"
