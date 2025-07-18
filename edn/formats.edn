@@ -5,7 +5,7 @@
   :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "standard-ban-list-25-04"}
+  :mwl "standard-ban-list-25-08"}
 
  {:id "throwback"
   :name "Throwback"
@@ -14,7 +14,7 @@
   :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "throwback-ban-list-25-04"}
+  :mwl "throwback-ban-list-25-08"}
 
  {:id "system-gateway"
   :name "System Gateway"
@@ -60,4 +60,4 @@
            "ashes"
            "borealis"
            "liberation"]
-  :mwl "eternal-points-list-25-04"}]
+  :mwl "eternal-points-list-25-07"}]
