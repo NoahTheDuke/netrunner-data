@@ -141,5 +141,10 @@
  {:id "elevation"
   :name "Elevation"
   :position 34
+  :rotated false
+  :size 1}
+ {:id "vantage-point"
+  :name "Vantage Point"
+  :position 35
   :rotated true
   :size 1}]

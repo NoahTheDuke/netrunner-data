@@ -747,4 +747,14 @@
   :name "Elevation"
   :position 1
   :set-type :data-pack
-  :size 82}]
+  :size 82}
+ {:code "vp"
+  :cycle-id "vantage-point"
+  :date-release "2026-01-01"
+  :deluxe false
+  :ffg-id nil
+  :id "vantage-point"
+  :name "Vantage Point"
+  :position 1
+  :set-type :data-pack
+  :size 65}]
