@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "lampades"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :stripped-text "When you install this program, place 3 power counters on it. Access -> Hosted power counter, pay the rez or play cost of the card you are accessing: Trash that card. Spend credits only from stealth cards to use this ability."
+ :stripped-title "Lampades"
+ :text "When you install this program, place 3 power counters on it. Access -> <strong>Hosted power counter, pay the rez or play cost of the card you are accessing:</strong> Trash that card. Spend credits only from <strong>stealth</strong> cards to use this ability."
+ :title "Lampades"
+ :type :program
+ :uniqueness false}

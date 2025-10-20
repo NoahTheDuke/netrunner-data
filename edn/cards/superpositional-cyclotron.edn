@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "superpositional-cyclotron"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "The first double operation you play each turn costs Click less to play."
+ :stripped-title "Superpositional Cyclotron"
+ :title "Superpositional Cyclotron"
+ :subtype [:facility]
+ :text "The first <strong>double</strong> operation you play each turn costs [Click] less to play."
+ :trash-cost 3
+ :type :asset}
