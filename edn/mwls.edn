@@ -2167,4 +2167,14 @@
   :date-start "2025-04-23"
   :format "startup"
   :id "startup-ban-list-25-04"
-  :name "Startup Ban List 25.04"}]
+  :name "Startup Ban List 25.04"}
+ {:cards {"nbn-reality-plus" {:deck-limit 0}
+          "pharos" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "cleaver" {:deck-limit 0}
+          "coalescence" {:deck-limit 0}
+          "s-dobrado" {:deck-limit 0}}
+  :date-start "2025-11-03"
+  :format "startup"
+  :id "startup-ban-list-25-11"
+  :name "Startup Ban List 25.11"}]

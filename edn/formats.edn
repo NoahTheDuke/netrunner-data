@@ -32,7 +32,7 @@
   :sets ["system-gateway"
          "elevation"]
   :cycles ["liberation"]
-  :mwl "startup-ban-list-25-04"}
+  :mwl "startup-ban-list-25-11"}
 
  {:id "eternal"
   :name "Eternal"
