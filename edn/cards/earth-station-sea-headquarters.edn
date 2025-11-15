@@ -9,5 +9,6 @@
  :subtype [:division]
  :text "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n<strong>[click]:</strong> Flip this identity.\nFlip side:\nLimit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity."
  :title "Earth Station: SEA Headquarters"
+ :named-faces {"back" "Earth Station: Ascending to Orbit"}
  :type :identity
  :uniqueness false}
