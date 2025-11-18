@@ -9,5 +9,6 @@
  :subtype [:division]
  :text "When your action phase ends, if you played an operation this turn, gain 1[credit] and flip this identity.\nFlip side:\nThe first time each turn you play an operation, gain [click].\nWhen the Runner makes a successful run on HQ or R&D, flip this identity."
  :title "Nebula Talent Management: Making Stars"
+ :named-faces {"back" "Gemilang Arena: Burning Bright"}
  :type :identity
  :uniqueness false}
