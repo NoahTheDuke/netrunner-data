@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  format-code:
+  build-raw-data:
     runs-on: ubuntu-latest
 
     permissions:
@@ -30,7 +30,7 @@ jobs:
         with:
           cli: 1.10.1.693
 
-      - name: Cache lein project dependencies
+      - name: Cache dependencies
         id: clj-cache
         uses: actions/cache@v3
         with:
@@ -43,5 +43,4 @@ jobs:
       - name: combine
         run: clojure -X:combine
 
-      # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v7
