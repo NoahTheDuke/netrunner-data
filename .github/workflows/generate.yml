@@ -1,0 +1,46 @@
+name: Build raw_data.edn
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-raw-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Prepare java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+
+      - name: Install clojure tools
+        uses: DeLaGuardo/setup-clojure@13.4
+        with:
+          cli: 1.10.1.693
+
+      - name: Cache dependencies
+        id: clj-cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.m2/repository
+            ~/.gitlibs
+          key: cljdeps-${{ hashFiles('deps.edn') }}
+          restore-keys: cljdeps-
+
+      - name: combine
+        run: clojure -X:combine
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
