@@ -1531,6 +1531,41 @@
   :format "standard"
   :id "standard-ban-list-25-09"
   :name "Standard Ban List 25.09"}
+ {:cards {"archived-memories" {:deck-limit 0}
+          "bellona" {:deck-limit 0}
+          "bukhgalter" {:deck-limit 0}
+          "cayambe-grid" {:deck-limit 0}
+          "cleaver" {:deck-limit 0}
+          "cyberdex-sandbox" {:deck-limit 0}
+          "cybersand-harvester" {:deck-limit 0}
+          "daily-casts" {:deck-limit 0}
+          "deep-dive" {:deck-limit 0}
+          "dr-vientiane-keeling" {:deck-limit 0}
+          "drago-ivanov" {:deck-limit 0}
+          "dreamnet" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "engram-flush" {:deck-limit 0}
+          "false-lead" {:deck-limit 0}
+          "gold-farmer" {:deck-limit 0}
+          "info-bounty" {:deck-limit 0}
+          "k2cp-turbine" {:deck-limit 0}
+          "matryoshka" {:deck-limit 0}
+          "moshing" {:deck-limit 0}
+          "nanisivik-grid" {:deck-limit 0}
+          "nbn-reality-plus" {:deck-limit 0}
+          "project-vacheron" {:deck-limit 0}
+          "rezeki" {:deck-limit 0}
+          "sting" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "tsakhia-bankhar-gantulga" {:deck-limit 0}
+          "trick-shot" {:deck-limit 0}
+          "touch-ups" {:deck-limit 0}
+          "world-tree" {:deck-limit 0}}
+  :subtypes {:current {:deck-limit 0}}
+  :date-start "2025-12-01"
+  :format "standard"
+  :id "standard-ban-list-25-12"
+  :name "Standard Ban List 25.12"}
 
   {:cards {"archived-memories" {:deck-limit 0}
            "bellona" {:deck-limit 0}
