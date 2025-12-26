@@ -17,4 +17,6 @@
  {:id :resource
   :name "Resource"}
  {:id :program
-  :name "Program"})
+  :name "Program"}
+ {:id :rules-insert
+  :name "Rules Insert"})
