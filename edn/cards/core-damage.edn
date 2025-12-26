@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "core-damage"
+ :title "Core Damage"
+ :text "Like net and meat damage, \"core damage\" forces the Runner to trash cards from their grip at random. Unlike other damage, each point of core damage also permanently reduces the Runner's maximum hand size by 1.\n\nIf the Runner ever ends their turn with a negative maximum hand size, they flatline and lose the game, just as if they had suffered more damage than the number of cards in their grip. A maximum hand size of exactly 0 does not cause a flatline.\n\nNote: Older cards write core damage as \"brain damage\". For gameplay purposes, these terms are interchangeable."
+ :stripped-text "Like net and meat damage, \"core damage\" forces the Runner to trash cards from their grip at random. Unlike other damage, each point of core damage also permanently reduces the Runner's maximum hand size by 1.\n\nIf the Runner ever ends their turn with a negative maximum hand size, they flatline and lose the game, just as if they had suffered more damage than the number of cards in their grip. A maximum hand size of exactly 0 does not cause a flatline.\n\nNote: Older cards write core damage as \"brain damage\". For gameplay purposes, these terms are interchangeable."
+ :type :rules-insert
+ :stripped-title "Core Damage"}

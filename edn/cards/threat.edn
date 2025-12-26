@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "threat"
+ :title "Threat"
+ :text "The [b]threat level[/b] is the greatest number of agenda points in any player's score area. For example, if the Runner has 4 agenda points and the Corp has 3 agenda points, the threat level is 4.\n\n[b]Threat abilities[/b] are marked with a new ability flag, \"Threat N →\", and are only active if the threat level is equal to or greater than the given numher N. If the threat level is less than N, the corresponding ability is inactive and cannot be triggered or applied to the game state."
+ :stripped-text "The threat level is the greatest number of agenda points in any player's score area. For example, if the Runner has 4 agenda points and the Corp has 3 agenda points, the threat level is 4.\n\nThreat abilities are marked with a new ability flag, \"Threat N →\", and are only active if the threat level is equal to or greater than the given numher N. If the threat level is less than N, the corresponding ability is inactive and cannot be triggered or applied to the game state."
+ :type :rules-insert
+ :stripped-title "Threat"}

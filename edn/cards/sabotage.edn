@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "sabotage"
+ :title "Sabotage"
+ :text "When you \"Sabotage N\", the Corp must trash a total of N cards from HQ and the top of R&D.\n\nThe Corp decides which cards to trash from HQ, but they only get to choose how many cards to trash from the top of R&D. All of the choices are made first, and then everything is trashed simultaneously. The trashed cards enter Archives facedown, and the Corp may not look at the cards they trashed from R&D until the sabotage effect is fully resolved.\n\nIf there are fewer than N cards in HQ or R&D, the Corp must make their choices in a way that trashes the full N cards. If there are fewer than N cards in HQ and R&D combined, the Corp trashes all of the cards from both zones"
+ :stripped-text "When you \"Sabotage N\", the Corp must trash a total of N cards from HQ and the top of R&D.\n\nThe Corp decides which cards to trash from HQ, but they only get to choose how many cards to trash from the top of R&D. All of the choices are made first, and then everything is trashed simultaneously. The trashed cards enter Archives facedown, and the Corp may not look at the cards they trashed from R&D until the sabotage effect is fully resolved.\n\nIf there are fewer than N cards in HQ or R&D, the Corp must make their choices in a way that trashes the full N cards. If there are fewer than N cards in HQ and R&D combined, the Corp trashes all of the cards from both zones"
+ :type :rules-insert
+ :stripped-title "Sabotage"}

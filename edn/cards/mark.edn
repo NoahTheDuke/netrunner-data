@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "mark"
+ :title "Mark"
+ :text "When an ability instructs you to \"identify your mark\", choose a central server (HQ, R&D or Archives) at random. That server becomes \"your mark\" for the remainder of the turn. A server being your mark doesn't do anything on its own, but cards can make use of it in a variety of ways.\n\nIf you already have a mark this turn and you are instructed to identify your mark again, don't randomize a new mark. The same server remains your mark."
+ :stripped-text "When an ability instructs you to \"identify your mark\", choose a central server (HQ, R&D or Archives) at random. That server becomes \"your mark\" for the remainder of the turn. A server being your mark doesn't do anything on its own, but cards can make use of it in a variety of ways.\n\nIf you already have a mark this turn and you are instructed to identify your mark again, don't randomize a new mark. The same server remains your mark."
+ :type :rules-insert
+ :stripped-title "Mark"}
