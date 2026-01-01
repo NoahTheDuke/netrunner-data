@@ -61,7 +61,7 @@
  {:id "red-sand"
   :name "Red Sand"
   :position 12
-  :rotated false
+  :rotated true
   :size 6}
  {:id "terminal-directive"
   :name "Terminal Directive"
@@ -71,7 +71,7 @@
  {:id "unreleased"
   :name "Unreleased"
   :position 14
-  :rotated true
+  :rotated false
   :size 1}
  {:id "revised-core"
   :name "Revised Core"
@@ -81,7 +81,7 @@
  {:id "kitara"
   :name "Kitara"
   :position 21
-  :rotate true
+  :rotated true
   :size 6}
  {:id "reign-and-reverie"
   :name "Reign and Reverie"
