@@ -12,13 +12,20 @@
   :position 5
   :quantity 3
   :set-id "vantage-point"}
-  {:card-id "superpositional-cyclotron"
-   :code "36027"
-   :flavor "The cyclotron's utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale."
-   :illustrator "Anna Butova"
-   :position 27
-   :quantity 3
-   :set-id "vantage-point"}
+ {:card-id "underdome-irregulars"
+  :code "36016"
+  :flavor "\"Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.\""
+  :illustrator "Mauricio Herrera"
+  :position 16
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "superpositional-cyclotron"
+  :code "36027"
+  :flavor "The cyclotron's utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale."
+  :illustrator "Anna Butova"
+  :position 27
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "flood-the-market"
   :code "36053"
   :flavor "There is a tipping point where an ad becomes so omnipresent, it's subliminal"
