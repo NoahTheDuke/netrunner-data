@@ -2,7 +2,7 @@
   :name "Draft"
   :position 0
   :rotated false
-  :size 2}
+  :size 1}
  {:id "core"
   :name "Core"
   :position 1
@@ -61,18 +61,13 @@
  {:id "red-sand"
   :name "Red Sand"
   :position 12
-  :rotated false
+  :rotated true
   :size 6}
  {:id "terminal-directive"
   :name "Terminal Directive"
   :position 13
   :rotated true
   :size 2}
- {:id "unreleased"
-  :name "Unreleased"
-  :position 14
-  :rotated true
-  :size 1}
  {:id "revised-core"
   :name "Revised Core"
   :position 20
@@ -81,22 +76,22 @@
  {:id "kitara"
   :name "Kitara"
   :position 21
-  :rotated false
+  :rotated true
   :size 6}
  {:id "reign-and-reverie"
   :name "Reign and Reverie"
   :position 22
-  :rotated false
+  :rotated true
   :size 1}
  {:id "magnum-opus"
   :name "Magnum Opus"
   :position 23
-  :rotated false
+  :rotated true
   :size 1}
  {:id "napd-multiplayer"
   :name "NAPD Multiplayer"
   :position 24
-  :rotated false
+  :rotated true
   :size 1}
  {:id "system-core-2019"
   :name "System Core 2019"
@@ -111,7 +106,7 @@
  {:id "magnum-opus-reprint"
   :name "Magnum Opus Reprint"
   :position 28
-  :rotated false
+  :rotated true
   :size 1}
  {:id "salvaged-memories"
   :name "Salvaged Memories"
@@ -126,7 +121,7 @@
  {:id "system-update-2021"
   :name "System Update 2021"
   :position 31
-  :rotated false
+  :rotated true
   :size 1}
  {:id "borealis"
   :name "Borealis"
@@ -141,5 +136,10 @@
  {:id "elevation"
   :name "Elevation"
   :position 34
-  :rotated true
+  :rotated false
+  :size 1}
+ {:id "vantage-point"
+  :name "Vantage Point"
+  :position 35
+  :rotated false
   :size 1}]

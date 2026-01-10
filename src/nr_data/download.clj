@@ -324,7 +324,8 @@
 
         _set-cards (set-cards-handler line-ending raw-set-cards)
 
-        mwls (mwl-handler line-ending download-fn raw-set-cards)
+        ;; don't replace mwls, they are manually edited
+        ;;mwls (mwl-handler line-ending download-fn raw-set-cards)
         ]
 
     (println "Done!")))

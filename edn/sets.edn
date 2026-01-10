@@ -8,16 +8,6 @@
   :position 1
   :set-type :draft
   :size nil}
- {:code "unreleased"
-  :cycle-id "unreleased"
-  :date-release nil
-  :deluxe false
-  :ffg-id nil
-  :id "unreleased"
-  :name "Unreleased"
-  :position 1
-  :set-type :draft
-  :size 2}
  {:code "core"
   :cycle-id "core"
   :date-release "2012-09-06"
@@ -747,4 +737,14 @@
   :name "Elevation"
   :position 1
   :set-type :data-pack
-  :size 82}]
+  :size 82}
+ {:code "vp"
+  :cycle-id "vantage-point"
+  :date-release "2026-03-02"
+  :deluxe false
+  :ffg-id nil
+  :id "vantage-point"
+  :name "Vantage Point"
+  :position 1
+  :set-type :data-pack
+  :size 66}]

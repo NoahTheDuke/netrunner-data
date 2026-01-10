@@ -4,10 +4,10 @@
  :id "guru-davinder"
  :influence-cost 1
  :side :runner
- :stripped-text "Prevent all net and meat damage. Whenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4 credits."
+ :stripped-text "Interrupt -> Whenever you would take net or meat damage, prevent all of that damage. Whenever this resource prevents 1 or more damage, trash it unless you pay 4 credits."
  :stripped-title "Guru Davinder"
  :subtype [:connection]
- :text "Prevent all net and meat damage.\nWhenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4[credit]."
+ :text "[interrupt] → Whenever you would take net or meat damage, prevent all of that damage.\nWhenever this resource prevents 1 or more damage, trash it unless you pay 4[credit]."
  :title "Guru Davinder"
  :type :resource
  :uniqueness true}

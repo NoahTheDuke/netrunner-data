@@ -4,10 +4,10 @@
  :id "plascrete-carapace"
  :influence-cost 0
  :side :runner
- :stripped-text "Place 4 power counters on Plascrete Carapace when it is installed. When there are no power counters left on Plascrete Carapace, trash it. Hosted power counter: Prevent 1 meat damage."
+ :stripped-text "When you install this hardware, load 4 power counters onto it. When it is empty, trash it. Interrupt -> Hosted power counter: Prevent 1 meat damage."
  :stripped-title "Plascrete Carapace"
  :subtype [:gear]
- :text "Place 4 power counters on Plascrete Carapace when it is installed. When there are no power counters left on Plascrete Carapace, trash it.\n<strong>Hosted power counter:</strong> Prevent 1 meat damage."
+ :text "When you install this hardware, load 4 power counters onto it. When it is empty, trash it.\n[interrupt] → <strong>Hosted power counter:</strong> Prevent 1 meat damage."
  :title "Plascrete Carapace"
  :type :hardware
  :uniqueness false}

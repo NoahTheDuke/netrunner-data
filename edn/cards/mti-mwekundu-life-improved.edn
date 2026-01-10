@@ -4,10 +4,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
- :stripped-text "Whenever the Runner approaches a server, you may install 1 piece of ice from HQ in the innermost position protecting that server, ignoring all costs. The Runner moves to that ice and approaches it. If this is not the first time they have approached a piece of ice this run, they may jack out. Use this ability only once per turn."
+ :stripped-text "Once per turn -> When the Runner approaches a server, you may install 1 piece of ice from HQ in the innermost position protecting that server, ignoring all costs. The Runner moves to that ice and approaches it. If this is not the first time they have approached ice this run, they may jack out."
  :stripped-title "Mti Mwekundu: Life Improved"
  :subtype [:division]
- :text "Whenever the Runner approaches a server, you may install 1 piece of ice from HQ in the innermost position protecting that server, ignoring all costs. The Runner moves to that ice and approaches it. If this is not the first time they have approached a piece of ice this run, they may jack out. Use this ability only once per turn."
+ :text "Once per turn → When the Runner approaches a server, you may install 1 piece of ice from HQ in the innermost position protecting that server, ignoring all costs. The Runner moves to that ice and approaches it. If this is not the first time they have approached ice this run, they may jack out."
  :title "Mti Mwekundu: Life Improved"
  :type :identity
  :uniqueness false}

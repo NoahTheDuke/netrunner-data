@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "flood-the-market"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Choose 1 installed card you can advance. Place 1 advancement counter on that card for each remote server that has a card in its root and is protected by ice."
+ :stripped-title "Flood the Market"
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nChoose 1 installed card you can advance. Place 1 advancement counter on that card for each remote server that has a card in its root and is protected by ice."
+ :title "Flood the Market"
+ :type :operation
+ :uniqueness false}

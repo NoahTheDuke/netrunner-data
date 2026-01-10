@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "corsair"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :stripped-text "Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: The barrier you are encountering gets 3 strength for the remainder of this encounter. Spend credits only from stealth cards to use this ability."
+ :stripped-title "Corsair"
+ :subtype [:icebreaker :fracter]
+ :text "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> The <strong>barrier</strong> you are encountering gets −3 strength for the remainder of this encounter. Spend credits only from <strong>stealth</strong> cards to use this ability."
+ :title "Corsair"
+ :type :program
+ :uniqueness false}

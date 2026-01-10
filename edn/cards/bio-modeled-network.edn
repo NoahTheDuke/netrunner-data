@@ -4,10 +4,10 @@
  :id "bio-modeled-network"
  :influence-cost 2
  :side :runner
- :stripped-text "trash: Prevent all but 1 net damage."
+ :stripped-text "Interrupt -> trash: Prevent all but 1 net damage."
  :stripped-title "Bio-Modeled Network"
  :subtype [:virtual]
- :text "[trash]: Prevent all but 1 net damage."
+ :text "[interrupt] → [trash]<strong>:</strong> Prevent all but 1 net damage."
  :title "Bio-Modeled Network"
  :type :resource
  :uniqueness false}

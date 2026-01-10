@@ -5,9 +5,9 @@
  :influence-cost 3
  :memory-cost 1
  :side :runner
- :stripped-text "Whenever you make a successful run on R&D, you may place 1 power counter on Upya. click, 3 hosted power counters: Gain click click. Use this ability only once per turn."
+ :stripped-text "Whenever you make a successful run on R&D, you may place 1 power counter on this program. Once per turn -> click, 3 hosted power counters: Gain click click."
  :stripped-title "Upya"
- :text "Whenever you make a successful run on R&D, you may place 1 power counter on Upya.\n<strong>[click], 3 hosted power counters</strong>: Gain [click][click]. Use this ability only once per turn."
+ :text "Whenever you make a successful run on R&D, you may place 1 power counter on this program.\nOnce per turn → [click], <strong>3 hosted power counters:</strong> Gain [click][click]."
  :title "Upya"
  :type :program
  :uniqueness false}

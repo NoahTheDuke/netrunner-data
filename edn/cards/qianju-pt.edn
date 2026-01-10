@@ -4,10 +4,10 @@
  :id "qianju-pt"
  :influence-cost 0
  :side :runner
- :stripped-text "When your turn begins, you may lose click. If you do, prevent the first tag you would take until your next turn begins."
+ :stripped-text "When your turn begins, you may lose click. If you do, the first time you would take tags from now until your next turn begins, prevent 1 tag."
  :stripped-title "Qianju PT"
  :subtype [:vehicle]
- :text "When your turn begins, you may lose [click]. If you do, prevent the first tag you would take until your next turn begins."
+ :text "When your turn begins, you may lose [click]. If you do, the first time you would take tags from now until your next turn begins, prevent 1 tag."
  :title "Qianju PT"
  :type :hardware
  :uniqueness false}

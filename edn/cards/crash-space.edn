@@ -4,10 +4,10 @@
  :id "crash-space"
  :influence-cost 2
  :side :runner
- :stripped-text "2 recurring credits Use these credits to pay for removing tags. trash: Prevent up to 3 meat damage."
+ :stripped-text "2 recurring credits You can spend hosted credits to take the basic action to remove 1 tag. Interrupt -> trash: Prevent up to 3 meat damage."
  :stripped-title "Crash Space"
  :subtype [:location]
- :text "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage."
+ :text "2[recurring-credit]\nYou can spend hosted credits to take the basic action to remove 1 tag.\n[interrupt] → [trash]<strong>:</strong> Prevent up to 3 meat damage."
  :title "Crash Space"
  :type :resource
  :uniqueness false}
