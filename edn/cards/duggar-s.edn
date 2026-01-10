@@ -3,6 +3,7 @@
  :faction :anarch
  :id "duggar-s"
  :influence-cost 4
+ :original-id "duggars"
  :side :runner
  :stripped-text "click,click,click,click: Draw 10 cards."
  :stripped-title "Duggar's"

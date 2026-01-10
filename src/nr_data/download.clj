@@ -2,9 +2,12 @@
   (:require
    [cheshire.core :as json]
    [clojure.java.io :as io]
+   [clojure.set]
+   [clojure.set :as set]
    [clojure.string :as str]
+   [nr-data.data :as data]
    [nr-data.text :refer [add-stripped-card-text]]
-   [nr-data.utils :refer [cards->map slugify]]
+   [nr-data.utils :refer [cards->map slugify apply-to-faces-too]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
 
@@ -17,18 +20,37 @@
                                        "“" "\""
                                        "”" "\""})))
 
+(defn underscore->hyphen
+  [s]
+  (when s (str/replace s "_" "-")))
+
+(defn remove-nil-values
+  [m]
+  (into {} (remove (fn [[_ v]] (nil? v)) m)))
+
 (defn parse-response
   [body]
   (json/parse-string body true))
 
+(defn attributes-with-id
+  [data]
+  (map (fn [item] (assoc (:attributes item) :id (:id item))) data))
+
+(def large-endpoints
+  "Endpoints that need pagination (>1000 items)"
+  #{"cards" "printings"})
+
 (defn download-nrdb-data
   [path]
-  (let [data (http/get (str "http://www.netrunnerdb.com/api/2.0/public/" path))
+  (let [needs-pagination (some #(str/starts-with? path %) large-endpoints)
+        url (str "https://api-preview.netrunnerdb.com/api/v3/public/" path
+                 (when needs-pagination "?page[size]=2500"))
+        data (http/get url)
         {:keys [status body error]} @data]
     (cond
       error (throw (Exception. (str "Failed to download file " error)))
-      (= 200 status) (:data (parse-response body))
-      :else (throw (Exception. (str "Failed to download file, status " status))))))
+      (= 200 status) (-> body parse-response :data attributes-with-id)
+      :else (throw (Exception. (str "Failed to download file " url ", status " status))))))
 
 (defn read-json-file
   [file-path]
@@ -70,27 +92,37 @@
   [v]
   (case v
     "Core Set" "Core"
+    "core-set" "core"
     "core2" "revised-core"
     "napd" "napd-multiplayer"
     "Revised Core Set" "Revised Core"
+    "revised-core-set" "revised-core"
     "sc19" "system-core-2019"
     v))
 
 (def cycle-fields
   {:name (rename :name convert-cycle)
    :position identity
-   :rotated identity
-   :size identity})
+   :card_set_ids identity})
 
 (defn add-cycle-fields
-  [cy]
-  (assoc cy :id (slugify (:name cy))))
+  [active-standard-cycle-ids cy]
+  (let [cycle-id (slugify (:name cy))
+        size (count (:card_set_ids cy))
+        rotated (if (= "draft" cycle-id)
+                  false
+                  (not (contains? active-standard-cycle-ids cycle-id)))]
+    (-> cy
+        (assoc :id cycle-id
+               :size size
+               :rotated rotated)
+        (dissoc :card_set_ids))))
 
 (def set-fields
-  {:code identity
-   :cycle_code (rename :cycle-id convert-cycle)
+  {:id (rename :id underscore->hyphen)
+   :legacy_code (rename :code)
+   :card_cycle_id (rename :cycle-id (comp convert-cycle underscore->hyphen))
    :date_release (rename :date-release)
-   :ffg_id (rename :ffg-id)
    :name identity
    :position identity
    :size identity})
@@ -119,11 +151,20 @@
     ;; else
     :data-pack))
 
+(defn normalize-id [{:as m, :keys [id]} from-k]
+  ;; jnet converts ' to - in id, but nrdb removes them altogether
+  (let [normalized-id (slugify (get m from-k))]
+    (if (= normalized-id id)
+      m
+      (-> m
+          (assoc :original-id id)
+          (assoc :id normalized-id)))))
+
 (defn add-set-fields
   [s]
   (-> s
-      (assoc :id (slugify (:name s))
-             :deluxe (deluxe-set? s)
+      (normalize-id :name)
+      (assoc :deluxe (deluxe-set? s)
              :set-type (set-type? s))))
 
 (defn convert-subtypes
@@ -134,82 +175,177 @@
          (map keyword)
          (into []))))
 
+(defn id->keyword
+  [id]
+  (when id
+    (-> id underscore->hyphen keyword)))
+
+(defn convert-card-type
+  "Convert card type, normalizing identity types"
+  [type-id]
+  (case type-id
+    ("corp_identity" "runner_identity") :identity
+    (id->keyword type-id)))
+
+(defn parse-int
+  [s]
+  ;; base-link in cards is string, but in faces is string
+  (if (int? s)
+    s
+    (when (and s (string? s))
+      (try (Integer/parseInt s)
+           (catch NumberFormatException _ nil)))))
+
 (def card-fields
   {
-   :advancement_cost (rename :advancement-requirement)
+   :id (rename :id underscore->hyphen)
+   :advancement_requirement (rename :advancement-requirement parse-int)
    :agenda_points (rename :agenda-points)
-   :base_link (rename :base-link)
-   :cost identity
+   :base_link (rename :base-link parse-int)
+   :cost (rename :cost parse-int)
    :deck_limit (rename :deck-limit)
-   :faction_code (rename :faction keyword)
-   :faction_cost (rename :influence-cost)
+   :faction_id (rename :faction id->keyword)
+   :influence_cost (rename :influence-cost)
    :influence_limit (rename :influence-limit)
-   :keywords (rename :subtype convert-subtypes)
+   :display_subtypes (rename :subtype convert-subtypes)
    :memory_cost (rename :memory-cost)
    :minimum_deck_size (rename :minimum-deck-size)
-   :side_code (rename :side keyword)
+   :side_id (rename :side id->keyword)
    :strength identity
    :text identity
-   :title identity
+   :title (rename :title strip-typesetting-chars)
    :trash_cost (rename :trash-cost)
-   :type_code (rename :type keyword)
-   :uniqueness identity
+   :card_type_id (rename :type convert-card-type)
+   :is_unique (rename :uniqueness)
+   :num_extra_faces (rename :num-extra-faces)
+   :faces identity
+   :index identity
    })
+
+(defn normalize-variable-values
+  [card]
+  (cond-> card
+    ;; X-cost cards have nil cost
+    (and (not (contains? card :cost))
+         (contains? #{:operation :event :hardware :resource :program} (:type card)))
+    (assoc :cost nil)
+
+    ;; -1 strength means variable
+    (= -1 (:strength card))
+    (assoc :strength nil)
+
+    ;; Agendas without fixed advancement requirement
+    (and (= :agenda (:type card))
+         (not (contains? card :advancement-requirement)))
+    (assoc :advancement-requirement nil)
+
+    ;; Identities without fixed influence limit
+    (and (= :identity (:type card))
+         (not (contains? card :influence-limit)))
+    (assoc :influence-limit nil)))
+
+(defn strip-extra-faces
+  [card]
+  (apply dissoc card (when (or (nil? (:num-extra-faces card))
+                               (zero? (:num-extra-faces card)))
+                       [:num-extra-faces :faces])))
+
+(defn strip-influence-cost
+  [card]
+  (dissoc card (when (or (and (= :agenda (:type card))
+                              (not (or (= :neutral-corp (:faction card))
+                                       (= :neutral-runner (:faction card)))))
+                         (= :identity (:type card)))
+                 :influence-cost)))
 
 (defn add-card-fields
   [card]
   (-> card
-      (assoc :id (slugify (:title card)))
-      (dissoc (when (or (and (= :agenda (:type card))
-                             (not (or (= :neutral-corp (:faction card))
-                                      (= :neutral-runner (:faction card)))))
-                        (= :identity (:type card)))
-                :influence-cost))))
+      (normalize-id :title)
+      remove-nil-values
+      normalize-variable-values
+      strip-extra-faces
+      strip-influence-cost))
+
+(defn add-set-card-fields
+  [printing]
+  (-> printing
+      remove-nil-values
+      strip-extra-faces))
 
 (def set-card-fields
   {
-   :code identity
+   :id (rename :code)
    :flavor identity
-   :illustrator identity
-   :pack_code (rename :pack-code)
+   :display_illustrators (rename :illustrator)
    :position identity
    :quantity identity
-   :title (rename :card-id slugify)
-   :text identity
+   :title (rename :card-id (comp slugify strip-typesetting-chars))
+   :card_set_name (rename :set-id slugify)
+   :attribution identity
+   :num_extra_faces (rename :num-extra-faces)
+   :faces identity
+   :index identity
+   :copy_quantity (rename :copy-quantity)
    })
 
-(defn add-set-card-fields
-  [_ set-map c]
-  (let [s (get set-map (:pack-code c))]
-    (-> c
-        (dissoc :pack-code :text)
-        (assoc :set-id (:id s)))))
-
 (def mwl-fields
-  {:cards identity
-   :code identity
+  {:code (rename :id)
    :date_start (rename :date-start)
-   :name identity})
+   :format_id (rename :format underscore->hyphen)
+   :name identity
+   :point_limit (rename :point-limit)
+   :verdicts identity})
+
+(defn convert-verdicts
+  [lookup-id verdicts]
+  (let [banned         (for [card-id (:banned verdicts)]
+                         [(lookup-id (underscore->hyphen card-id)) {:deck-limit 0}])
+        restricted     (for [card-id (:restricted verdicts)]
+                         [(lookup-id (underscore->hyphen card-id)) {:is-restricted 1}])
+        universal-fc   (for [[card-id cost] (:universal_faction_cost verdicts)]
+                         [(lookup-id (underscore->hyphen (name card-id))) {:universal-faction-cost cost}])
+        global-penalty (for [card-id (:global_penalty verdicts)]
+                         [(lookup-id (underscore->hyphen card-id)) {:global-penalty 1}])
+        points         (for [[card-id pts] (:points verdicts)]
+                         [(lookup-id (underscore->hyphen (name card-id))) {:points pts}])]
+    (into {} (concat banned restricted universal-fc global-penalty points))))
+
+(defn make-lookup-id [cards]
+  (let [original-ids (->> cards
+                          (map #(when (:original-id %)
+                                  [(:original-id %) (:id %)]))
+                          (into {}))]
+    (fn [id]
+      (get original-ids id id))))
 
 (defn convert-mwl
-  [set-cards-map mwl]
+  [lookup-id mwl]
   (-> mwl
-      (assoc :cards (reduce-kv
-                      (fn [m code penalty]
-                        (let [c (name code)
-                              s (get set-cards-map c)]
-                          (assoc m
-                                 (:card-id s)
-                                 (reduce-kv
-                                   (fn [m_ k_ v_]
-                                     (assoc m_ (-> k_ name slugify keyword) v_))
-                                   {}
-                                   penalty))))
-                      {}
-                      (:cards mwl))
-                 :id (-> mwl :name slugify)
-                 :format (or (:format mwl) "standard"))
-      (dissoc :code)))
+      (assoc :cards (convert-verdicts lookup-id (:verdicts mwl))
+             :id (slugify (:name mwl)))
+      (dissoc :verdicts)
+      remove-nil-values))
+
+(defn merge-mwls
+  [current-mwls api-mwls]
+  (let [api-mwls-ids (set (map :id api-mwls))]
+    (->> (concat current-mwls api-mwls)
+         (group-by :id)
+         (map #(last (second %)))
+         (map #(if (api-mwls-ids (:id %))
+                 %
+                 (assoc % :custom true))))))
+
+(defn mwl-sort-k
+  [{:keys [format date-start]}]
+  (str (condp = format
+         "standard" "0"
+         "throwback" "1"
+         "eternal" "2"
+         "3")
+       "-"
+       date-start))
 
 (defn sort-and-group-set-cards
   [set-cards]
@@ -221,22 +357,35 @@
   "Read NRDB json data. Modify function is mapped to all elements in the data collection."
   ([download-fn m] (fetch-data download-fn m identity))
   ([download-fn {:keys [path fields]} add-fields-function]
-   (->> (download-fn path)
-        (map (partial translate-fields fields))
-        (map add-fields-function))))
+   (let [translate-function (partial translate-fields fields)]
+     (->> (download-fn path)
+          (map (apply-to-faces-too translate-function))
+          (map (apply-to-faces-too add-fields-function))))))
 
 (def tables
-  {:cycle {:path "cycles" :fields cycle-fields}
-   :set {:path "packs" :fields set-fields}
+  {:cycle {:path "card_cycles" :fields cycle-fields}
+   :set {:path "card_sets" :fields set-fields}
    :card {:path "cards" :fields card-fields}
-   :set-card {:path "cards" :fields set-card-fields}
-   :mwl {:path "mwl" :fields mwl-fields}
+   :set-card {:path "printings" :fields set-card-fields}
+   :mwl {:path "restrictions" :fields mwl-fields}
    })
 
+(defn snapshot-handler
+  [download-fn]
+  (print "Downloading and processing snapshots... ")
+  (let [active-cycle-ids (->> (download-fn "snapshots")
+                              (filter #(and (:active %) (= "standard" (:format_id %))))
+                              first
+                              :card_cycle_ids
+                              (map underscore->hyphen)
+                              set)]
+    (println "Done")
+    active-cycle-ids))
+
 (defn cycle-handler
-  [line-ending download-fn]
+  [line-ending download-fn active-cycle-ids]
   (print "Downloading and processing cycles... ")
-  (let [cycles (->> (fetch-data download-fn (:cycle tables) add-cycle-fields)
+  (let [cycles (->> (fetch-data download-fn (:cycle tables) (partial add-cycle-fields active-cycle-ids))
                     (sort-by :position)
                     (into []))
         path (str "edn/cycles.edn")]
@@ -258,26 +407,22 @@
     sets))
 
 (defn card-handler
-  [line-ending download-fn sets]
-  (let [raw-cards (download-fn (-> tables :card :path))
-        raw-cards (mapv #(update % :title strip-typesetting-chars) raw-cards)
-        card-stub (fn [_] raw-cards)
-        cards (->> (fetch-data card-stub (:card tables) add-card-fields)
-                   (add-stripped-card-text)
-                   (cards->map :id))
-        raw-set-cards (fetch-data card-stub
-                                  (:set-card tables)
-                                  (partial add-set-card-fields cards (cards->map sets)))]
+  [line-ending download-fn]
+  (print "Downloading and processing cards... ")
+  (let [cards (->> (fetch-data download-fn (:card tables) add-card-fields)
+                   (add-stripped-card-text))]
     (println "Saving edn/cards")
-    (doseq [[path card] cards
+    (doseq [[path card] (cards->map :id cards)
             :let [path (str "edn/cards/" path ".edn")]]
       (io/make-parents path)
       (spit path (str (zp/zprint-str card) line-ending)))
-    [cards raw-set-cards]))
+    cards))
 
 (defn set-cards-handler
-  [line-ending raw-set-cards]
-  (let [set-cards (sort-and-group-set-cards raw-set-cards)]
+  [line-ending download-fn]
+  (print "Downloading and processing set cards... ")
+  (let [raw-set-cards (fetch-data download-fn (:set-card tables) add-set-card-fields)
+        set-cards (sort-and-group-set-cards raw-set-cards)]
     (println "Saving edn/set-cards")
     (doseq [[path set-card] set-cards
             :let [path (str "edn/set-cards/" path ".edn")]]
@@ -286,16 +431,16 @@
     set-cards))
 
 (defn mwl-handler
-  [line-ending download-fn raw-set-cards]
+  [line-ending download-fn lookup-id]
   (print "Downloading and processing mwls... ")
-  (let [mwls (fetch-data download-fn
-                         (:mwl tables)
-                         (partial convert-mwl
-                                  (cards->map raw-set-cards)))]
-    (let [path (str "edn/mwls.edn")]
-      (io/make-parents path)
-      (println "Saving" path)
-      (spit path (str (zp/zprint-str (into [] mwls)) line-ending)))
+  (let [path "edn/mwls.edn"
+        current-mwls (data/load-edn-from-dir path)
+        mwls (->> (fetch-data download-fn (:mwl tables) (partial convert-mwl lookup-id))
+                  (merge-mwls current-mwls)
+                  (sort-by mwl-sort-k))]
+    (io/make-parents path)
+    (println "Saving" path)
+    (spit path (str (zp/zprint-str (into [] mwls)) line-ending))
     mwls))
 
 (defn download-from-nrdb
@@ -307,25 +452,24 @@
                       (partial read-local-data localpath)
                       download-nrdb-data)
 
-        cycles (cycle-handler line-ending download-fn)
+        active-cycle-ids (snapshot-handler download-fn)
 
-        sets (set-handler line-ending download-fn)
+        _cycles (cycle-handler line-ending download-fn active-cycle-ids)
 
-        _ (print "Downloading and processing cards... ")
-        ;; So this is fucked up, because unlike the old jnet system, we need to keep
-        ;; some of the old fields around for splitting between cards and set-cards.
-        ;; Instead of downloading stuff twice, we can download it once, stub a dl
-        ;; function to return it, and pass that in to fetch-data. ezpz
+        _sets (set-handler line-ending download-fn)
+
         card-download-fn (if use-local
                            (partial read-card-dir localpath)
                            download-nrdb-data)
 
-        [_cards raw-set-cards] (card-handler line-ending card-download-fn sets)
+        cards (card-handler line-ending card-download-fn)
 
-        _set-cards (set-cards-handler line-ending raw-set-cards)
+        _set-cards (set-cards-handler line-ending download-fn)
+
+        _lookup-id (make-lookup-id cards)
 
         ;; don't replace mwls, they are manually edited
-        ;;mwls (mwl-handler line-ending download-fn raw-set-cards)
+        ;;_mwls (mwl-handler line-ending download-fn lookup-id)
         ]
 
     (println "Done!")))

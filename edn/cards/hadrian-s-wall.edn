@@ -3,6 +3,7 @@
  :faction :weyland-consortium
  :id "hadrian-s-wall"
  :influence-cost 3
+ :original-id "hadrians-wall"
  :side :corp
  :strength 7
  :stripped-text "Hadrian's Wall can be advanced and has +1 strength for each advancement token on it. Subroutine End the run. Subroutine End the run."

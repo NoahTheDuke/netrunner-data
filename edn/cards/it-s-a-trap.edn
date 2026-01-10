@@ -3,6 +3,7 @@
  :faction :jinteki
  :id "it-s-a-trap"
  :influence-cost 3
+ :original-id "its-a-trap"
  :side :corp
  :strength 0
  :stripped-text "Whenever this ice is exposed, do 2 net damage. Subroutine The Runner trashes 1 of their installed cards. Trash this ice."

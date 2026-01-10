@@ -3,6 +3,7 @@
  :faction :shaper
  :id "aesop-s-pawnshop"
  :influence-cost 2
+ :original-id "aesops-pawnshop"
  :side :runner
  :stripped-text "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3 credits."
  :stripped-title "Aesop's Pawnshop"

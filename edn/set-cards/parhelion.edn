@@ -192,8 +192,24 @@
   :set-id "parhelion"}
  {:card-id "matryoshka"
   :code "33094"
-  :flavor "She leads and they all follow.\nAlways there to back up her big sister.\nSheʼs a typical middle child, really.\nJust as brave as his sisters.\nSheʼs little—but fierce.\nLook at the little baby, even she helps!"
+  :faces [{:copy-quantity 1
+           :flavor "Always there to back up her big sister."
+           :index 0}
+          {:copy-quantity 1
+           :flavor "Sheʼs a typical middle child, really."
+           :index 1}
+          {:copy-quantity 1
+           :flavor "Just as brave as his sisters."
+           :index 2}
+          {:copy-quantity 1
+           :flavor "Sheʼs little—but fierce."
+           :index 3}
+          {:copy-quantity 1
+           :flavor "Look at the little baby, even she helps!"
+           :index 4}]
+  :flavor "She leads and they all follow."
   :illustrator "Ed Mattinian"
+  :num-extra-faces 5
   :position 94
   :quantity 6
   :set-id "parhelion"}
