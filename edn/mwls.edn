@@ -208,6 +208,7 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
+  :custom true
   :date-start "2018-12-21"
   :format "standard"
   :id "standard-mwl-3-0"
@@ -255,6 +256,7 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
+  :custom true
   :date-start "2019-02-22"
   :format "standard"
   :id "standard-mwl-3-1"
@@ -303,6 +305,7 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
+  :custom true
   :date-start "2019-05-10"
   :format "standard"
   :id "standard-mwl-3-2"
@@ -355,6 +358,7 @@
           "whampoa-reclamation" {:is-restricted 1}
           "zealous-judge" {:is-restricted 1}
           "zer0" {:deck-limit 0}}
+  :custom true
   :date-start "2019-07-19"
   :format "standard"
   :id "standard-mwl-3-3"
@@ -407,6 +411,7 @@
           "whampoa-reclamation" {:is-restricted 1}
           "zealous-judge" {:deck-limit 0}
           "zer0" {:deck-limit 0}}
+  :custom true
   :date-start "2019-09-20"
   :format "standard"
   :id "standard-mwl-3-4"
@@ -455,6 +460,7 @@
           "whampoa-reclamation" {:is-restricted 1}
           "zealous-judge" {:deck-limit 0}
           "zer0" {:deck-limit 0}}
+  :custom true
   :date-start "2019-12-31"
   :format "standard"
   :id "standard-mwl-3-4-b"
@@ -1098,6 +1104,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}}
+  :custom true
   :date-start "2023-03-03"
   :format "standard"
   :id "standard-ban-list-23-03"
@@ -1163,6 +1170,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}}
+  :custom true
   :date-start "2023-08-01"
   :format "standard"
   :id "standard-ban-list-23-08"
@@ -1212,6 +1220,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}}
+  :custom true
   :date-start "2023-09-22"
   :format "standard"
   :id "standard-ban-list-23-09"
@@ -1263,6 +1272,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}}
+  :custom true
   :date-start "2024-03-30"
   :format "standard"
   :id "standard-ban-list-24-03"
@@ -1318,6 +1328,7 @@
           "violet-level-clearance" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}}
+  :custom true
   :date-start "2024-05-30"
   :format "standard"
   :id "standard-ban-list-24-05"
@@ -1374,10 +1385,41 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}
           "world-tree" {:deck-limit 0}}
+  :custom true
   :date-start "2024-09-13"
   :format "standard"
   :id "standard-ban-list-24-09"
   :name "Standard Ban List 24.09"
+  :subtypes {:current {:deck-limit 0}}}
+ {:cards {"archived-memories" {:deck-limit 0}
+          "bellona" {:deck-limit 0}
+          "bukhgalter" {:deck-limit 0}
+          "cayambe-grid" {:deck-limit 0}
+          "cleaver" {:deck-limit 0}
+          "creative-commission" {:deck-limit 0}
+          "cyberdex-sandbox" {:deck-limit 0}
+          "daily-casts" {:deck-limit 0}
+          "dr-vientiane-keeling" {:deck-limit 0}
+          "drago-ivanov" {:deck-limit 0}
+          "dreamnet" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "engram-flush" {:deck-limit 0}
+          "gold-farmer" {:deck-limit 0}
+          "k2cp-turbine" {:deck-limit 0}
+          "luminal-transubstantiation" {:deck-limit 0}
+          "moshing" {:deck-limit 0}
+          "nanisivik-grid" {:deck-limit 0}
+          "nbn-reality-plus" {:deck-limit 0}
+          "project-vacheron" {:deck-limit 0}
+          "rezeki" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "trick-shot" {:deck-limit 0}
+          "world-tree" {:deck-limit 0}}
+  :custom true
+  :date-start "2024-12-12"
+  :format "standard"
+  :id "standard-ban-list-25-04"
+  :name "Standard Ban List 25.04"
   :subtypes {:current {:deck-limit 0}}}
  {:cards {"24-7-news-cycle" {:deck-limit 0}
           "aaron-marron" {:deck-limit 0}
@@ -1433,39 +1475,11 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}
           "world-tree" {:deck-limit 0}}
+  :custom true
   :date-start "2024-12-12"
   :format "standard"
   :id "standard-ban-list-24-12"
   :name "Standard Ban List 24.12"
-  :subtypes {:current {:deck-limit 0}}}
- {:cards {"archived-memories" {:deck-limit 0}
-          "bellona" {:deck-limit 0}
-          "bukhgalter" {:deck-limit 0}
-          "cayambe-grid" {:deck-limit 0}
-          "cleaver" {:deck-limit 0}
-          "creative-commission" {:deck-limit 0}
-          "cyberdex-sandbox" {:deck-limit 0}
-          "daily-casts" {:deck-limit 0}
-          "dr-vientiane-keeling" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "dreamnet" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
-          "engram-flush" {:deck-limit 0}
-          "gold-farmer" {:deck-limit 0}
-          "k2cp-turbine" {:deck-limit 0}
-          "luminal-transubstantiation" {:deck-limit 0}
-          "moshing" {:deck-limit 0}
-          "nanisivik-grid" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "project-vacheron" {:deck-limit 0}
-          "rezeki" {:deck-limit 0}
-          "tributary" {:deck-limit 0}
-          "trick-shot" {:deck-limit 0}
-          "world-tree" {:deck-limit 0}}
-  :date-start "2024-12-12"
-  :format "standard"
-  :id "standard-ban-list-25-04"
-  :name "Standard Ban List 25.04"
   :subtypes {:current {:deck-limit 0}}}
  {:cards {"archived-memories" {:deck-limit 0}
           "bellona" {:deck-limit 0}
@@ -1493,6 +1507,7 @@
           "trick-shot" {:deck-limit 0}
           "tsakhia-bankhar-gantulga" {:deck-limit 0}
           "world-tree" {:deck-limit 0}}
+  :custom true
   :date-start "2025-08-01"
   :format "standard"
   :id "standard-ban-list-25-08"
@@ -1526,6 +1541,7 @@
           "trick-shot" {:deck-limit 0}
           "tsakhia-bankhar-gantulga" {:deck-limit 0}
           "world-tree" {:deck-limit 0}}
+  :custom true
   :date-start "2025-09-18"
   :format "standard"
   :id "standard-ban-list-25-09"
@@ -1561,6 +1577,7 @@
           "trick-shot" {:deck-limit 0}
           "tsakhia-bankhar-gantulga" {:deck-limit 0}
           "world-tree" {:deck-limit 0}}
+  :custom true
   :date-start "2025-12-01"
   :format "standard"
   :id "standard-ban-list-25-12"
@@ -1622,6 +1639,7 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:deck-limit 0}
           "world-tree" {:deck-limit 0}}
+  :custom true
   :date-start "2025-08-01"
   :format "throwback"
   :id "throwback-ban-list-25-08"
@@ -1635,6 +1653,7 @@
           "salvaged-vanadis-armory" {:deck-limit 0}
           "sifr" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}}
+  :custom true
   :date-start "2018-10-28"
   :format "eternal"
   :id "eternal-mwl-1-0"
@@ -1649,6 +1668,7 @@
           "sifr" {:deck-limit 0}
           "temujin-contract" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}}
+  :custom true
   :date-start "2019-02-22"
   :format "eternal"
   :id "eternal-mwl-1-1"
@@ -1664,6 +1684,7 @@
           "sifr" {:deck-limit 0}
           "temujin-contract" {:deck-limit 0}
           "watch-the-world-burn" {:deck-limit 0}}
+  :custom true
   :date-start "2019-05-10"
   :format "eternal"
   :id "eternal-mwl-1-2"
@@ -1714,6 +1735,58 @@
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
           "zer0" {:points 1}}
+  :date-start "2021-07-10"
+  :format "eternal"
+  :id "eternal-points-list-version-1-0"
+  :name "Eternal Points List, Version 1.0"
+  :point-limit 7}
+ {:cards {"24-7-news-cycle" {:points 1}
+          "aaron-marron" {:points 1}
+          "accelerated-diagnostics" {:points 2}
+          "account-siphon" {:points 3}
+          "anoetic-void" {:points 1}
+          "bio-ethics-association" {:points 1}
+          "blackmail" {:points 2}
+          "bloo-moose" {:points 1}
+          "breached-dome" {:points 1}
+          "breaking-news" {:points 1}
+          "caprice-nisei" {:points 1}
+          "cerebral-imaging-infinite-frontiers" {:points 2}
+          "clan-vengeance" {:points 2}
+          "counter-surveillance" {:points 1}
+          "crowdfunding" {:points 2}
+          "data-leak-reversal" {:points 2}
+          "ddos" {:points 2}
+          "deja-vu" {:points 1}
+          "employee-strike" {:points 1}
+          "estelle-moon" {:points 2}
+          "false-echo" {:points 2}
+          "friends-in-high-places" {:points 2}
+          "hyperdriver" {:points 3}
+          "jackson-howard" {:points 2}
+          "jinteki-potential-unleashed" {:points 3}
+          "kakugo" {:points 1}
+          "mars-for-martians" {:points 2}
+          "mti-mwekundu-life-improved" {:points 2}
+          "mumbad-city-hall" {:points 2}
+          "obokata-protocol" {:points 1}
+          "power-shutdown" {:points 2}
+          "rumor-mill" {:points 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "scarcity-of-resources" {:points 1}
+          "sensie-actors-union" {:points 2}
+          "shock" {:points 1}
+          "sifr" {:points 2}
+          "snitch" {:points 1}
+          "spin-doctor" {:points 1}
+          "sting" {:points 1}
+          "tech-trader" {:points 2}
+          "temujin-contract" {:points 3}
+          "vamp" {:points 1}
+          "violet-level-clearance" {:points 1}
+          "whampoa-reclamation" {:points 1}
+          "zer0" {:points 1}}
+  :custom true
   :date-start "2021-07-21"
   :format "eternal"
   :id "eternal-points-1-0"
@@ -1767,6 +1840,7 @@
           "violet-level-clearance" {:points 1}
           "whampoa-reclamation" {:points 1}
           "zer0" {:points 1}}
+  :custom true
   :date-start "2021-08-28"
   :format "eternal"
   :id "eternal-points-2-0"
@@ -1864,7 +1938,7 @@
           "mti-mwekundu-life-improved" {:points 2}
           "mumbad-city-hall" {:points 3}
           "museum-of-history" {:points 2}
-          "mutually-assured-destruction" {:points 1}
+          "mutually-assured-destruction" {:points 2}
           "ob-superheavy-logistics-extract-export-excel" {:points 1}
           "obokata-protocol" {:points 1}
           "project-vacheron" {:points 1}
@@ -1923,7 +1997,7 @@
           "mti-mwekundu-life-improved" {:points 1}
           "mumbad-city-hall" {:points 3}
           "museum-of-history" {:points 2}
-          "mutually-assured-destruction" {:points 1}
+          "mutually-assured-destruction" {:points 2}
           "ob-superheavy-logistics-extract-export-excel" {:points 2}
           "obokata-protocol" {:points 1}
           "project-vacheron" {:points 1}
@@ -2007,7 +2081,7 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:points 1}
           "zer0" {:points 1}}
-  :date-start "2023-03-31"
+  :date-start "2023-12-08"
   :format "eternal"
   :id "eternal-points-list-23-11"
   :name "Eternal Points List 23.11"
@@ -2075,6 +2149,7 @@
           "whampoa-reclamation" {:points 1}
           "world-tree" {:points 1}
           "zer0" {:points 1}}
+  :custom true
   :date-start "2025-04-01"
   :format "eternal"
   :id "eternal-points-list-25-04"
@@ -2145,35 +2220,67 @@
           "watch-the-world-burn" {:deck-limit 0}
           "whampoa-reclamation" {:points 1}
           "zer0" {:points 1}}
+  :custom true
   :date-start "2025-07-17"
   :format "eternal"
   :id "eternal-points-list-25-07"
   :name "Eternal Points List 25.07"
   :point-limit 7}
+ {:cards {"24-7-news-cycle" {:deck-limit 0}
+          "aaron-marron" {:deck-limit 0}
+          "aesop-s-pawnshop" {:is-restricted 1}
+          "bio-ethics-association" {:is-restricted 1}
+          "bloo-moose" {:deck-limit 0}
+          "brain-rewiring" {:is-restricted 1}
+          "bryan-stinson" {:is-restricted 1}
+          "cerebral-imaging-infinite-frontiers" {:deck-limit 0}
+          "clone-suffrage-movement" {:deck-limit 0}
+          "employee-strike" {:is-restricted 1}
+          "estelle-moon" {:deck-limit 0}
+          "faust" {:deck-limit 0}
+          "film-critic" {:is-restricted 1}
+          "friends-in-high-places" {:deck-limit 0}
+          "gang-sign" {:is-restricted 1}
+          "global-food-initiative" {:is-restricted 1}
+          "hunter-seeker" {:is-restricted 1}
+          "hyperdriver" {:deck-limit 0}
+          "inversificator" {:is-restricted 1}
+          "jinteki-potential-unleashed" {:is-restricted 1}
+          "levy-ar-lab-access" {:is-restricted 1}
+          "mad-dash" {:is-restricted 1}
+          "magnum-opus" {:is-restricted 1}
+          "mars-for-martians" {:deck-limit 0}
+          "mother-goddess" {:is-restricted 1}
+          "mumba-temple" {:is-restricted 1}
+          "mumbad-city-hall" {:is-restricted 1}
+          "museum-of-history" {:deck-limit 0}
+          "obokata-protocol" {:is-restricted 1}
+          "rumor-mill" {:is-restricted 1}
+          "salvaged-vanadis-armory" {:deck-limit 0}
+          "sensie-actors-union" {:deck-limit 0}
+          "sifr" {:deck-limit 0}
+          "skorpios-defense-systems-persuasive-power" {:is-restricted 1}
+          "surveyor" {:is-restricted 1}
+          "tapwrm" {:deck-limit 0}
+          "temujin-contract" {:deck-limit 0}
+          "violet-level-clearance" {:is-restricted 1}
+          "whampoa-reclamation" {:is-restricted 1}
+          "zer0" {:deck-limit 0}}
+  :date-start "2018-09-06"
+  :format "snapshot"
+  :id "snapshot-ban-list-1-0"
+  :name "Snapshot Ban List 1.0"}
  {:cards {"drago-ivanov" {:deck-limit 0}
           "endurance" {:deck-limit 0}}
-  :date-start "2024-01-26"
-  :format "startup"
-  :id "startup-ban-list-24-01"
-  :name "Startup Ban List 24.01"}
- {:cards {"drago-ivanov" {:deck-limit 0}
-          "endurance" {:deck-limit 0}}
+  :custom true
   :date-start "2024-01-26"
   :format "startup"
   :id "startup-ban-list-24-01"
   :name "Startup Ban List 24.01"}
  {:cards {"creative-commission" {:deck-limit 0}
-          "drago-ivanov" {:deck-limit 0}
-          "endurance" {:deck-limit 0}
           "pharos" {:deck-limit 0}
           "tributary" {:deck-limit 0}}
-  :date-start "2024-09-21"
-  :format "startup"
-  :id "startup-ban-list-24-09"
-  :name "Startup Ban List 24.09"}
- {:cards {"creative-commission" {:deck-limit 0}
-          "pharos" {:deck-limit 0}
-          "tributary" {:deck-limit 0}}
+  :custom true
   :date-start "2024-09-21"
   :format "startup"
   :id "startup-ban-list-24-09"
@@ -2182,6 +2289,7 @@
           "nbn-reality-plus" {:deck-limit 0}
           "pharos" {:deck-limit 0}
           "tributary" {:deck-limit 0}}
+  :custom true
   :date-start "2025-04-23"
   :format "startup"
   :id "startup-ban-list-25-04"
@@ -2192,6 +2300,7 @@
           "pharos" {:deck-limit 0}
           "s-dobrado" {:deck-limit 0}
           "tributary" {:deck-limit 0}}
+  :custom true
   :date-start "2025-11-03"
   :format "startup"
   :id "startup-ban-list-25-11"

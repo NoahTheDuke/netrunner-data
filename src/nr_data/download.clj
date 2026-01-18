@@ -466,18 +466,13 @@
 
         _set-cards (set-cards-handler line-ending download-fn)
 
-        _lookup-id (make-lookup-id cards)
+        lookup-id (make-lookup-id cards)
 
-        ;; don't replace mwls, they are manually edited
-        ;;_mwls (mwl-handler line-ending download-fn lookup-id)
+        _mwls (mwl-handler line-ending download-fn lookup-id)
         ]
 
     (println "Done!")))
 
 (comment
-  (def current-mwls (data/load-edn-from-dir "edn/mwls.edn"))
-  (def sorted-mwls (sort-by mwl-sort-k current-mwls))
-  (spit "edn/mwls.edn" (str (zp/zprint-str (into [] sorted-mwls)) "\n"))
-
   (download-from-nrdb)
   ,)
