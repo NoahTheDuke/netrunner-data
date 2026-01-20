@@ -68,6 +68,11 @@
   :position 13
   :rotated true
   :size 2}
+ {:id "unreleased"
+  :name "Unreleased"
+  :position 14
+  :rotated true
+  :size 1}
  {:id "revised-core"
   :name "Revised Core"
   :position 20

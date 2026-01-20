@@ -16,6 +16,16 @@
   :position 1
   :set-type :draft
   :size 1}
+ {:code "unreleased"
+  :cycle-id "unreleased"
+  :date-release nil
+  :deluxe false
+  :ffg-id nil
+  :id "unreleased"
+  :name "Unreleased"
+  :position 1
+  :set-type :draft
+  :size 2}
  {:code "wla"
   :cycle-id "genesis"
   :date-release "2012-12-14"
