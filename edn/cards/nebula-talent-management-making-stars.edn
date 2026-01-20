@@ -12,6 +12,7 @@
  :num-extra-faces 1
  :side :corp
  :stripped-text "When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity."
+ :named-faces {"back" "Gemilang Arena: Burning Bright"}
  :stripped-title "Nebula Talent Management: Making Stars"
  :subtype [:division]
  :text "When your action phase ends, if you played an operation this turn, gain 1[credit] and flip this identity."

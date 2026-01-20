@@ -20,6 +20,9 @@
           :subtype [:department]
           :text "When you flip this identity, place 4 advancement counters on 1 installed card that you can advance."
           :title "The Greenhouse: Jinteki Biotech"}]
+ :named-faces {"tank"       "The Tank: Jinteki Biotech"
+               "brewery"    "The Brewery: Jinteki Biotech"
+               "greenhouse" "The Greenhouse: Jinteki Biotech"}
  :faction :jinteki
  :id "jinteki-biotech-life-imagined"
  :influence-limit 15

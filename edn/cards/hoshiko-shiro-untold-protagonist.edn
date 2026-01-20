@@ -9,6 +9,7 @@
           :text "When your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access any cards this turn, flip this identity."
           :title "Hoshiko Shiro: Mahou Shoujo"}]
  :faction :anarch
+ :named-faces {"back" "Hoshiko Shiro: Mahou Shoujo"}
  :id "hoshiko-shiro-untold-protagonist"
  :influence-limit 15
  :minimum-deck-size 45

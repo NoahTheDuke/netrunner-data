@@ -15,6 +15,7 @@
  :stripped-text "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1 credit."
  :stripped-title "Dewi Subrotoputri: Pedagogical Dhalang"
  :subtype [:natural]
+ :named-faces {"back" "Dewi Subrotoputri: Shadow Guide"}
  :text "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1[credit]."
  :title "Dewi Subrotoputri: Pedagogical Dhalang"
  :type :identity
