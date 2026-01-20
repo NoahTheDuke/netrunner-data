@@ -3,6 +3,7 @@
  :faction :jinteki
  :id "an-offer-you-can-t-refuse"
  :influence-cost 3
+ :original-id "an-offer-you-cant-refuse"
  :side :corp
  :stripped-text "Choose a central server. The Runner may run that server. They cannot jack out during that run. If no run is made this way, add this operation to your score area as an agenda worth 1 agenda point."
  :stripped-title "An Offer You Can't Refuse"

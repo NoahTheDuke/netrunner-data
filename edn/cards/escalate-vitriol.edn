@@ -4,10 +4,10 @@
  :faction :nbn
  :id "escalate-vitriol"
  :side :corp
- :stripped-text "click: Gain 1 credit for each tag the Runner has. Use this ability only once per turn."
+ :stripped-text "Once per turn -> click: Gain 1 credit for each tag the Runner has."
  :stripped-title "Escalate Vitriol"
  :subtype [:initiative]
- :text "[click]: Gain 1[credit] for each tag the Runner has. Use this ability only once per turn."
+ :text "Once per turn → [click]<strong>:</strong> Gain 1[credit] for each tag the Runner has."
  :title "Escalate Vitriol"
  :type :agenda
  :uniqueness false}

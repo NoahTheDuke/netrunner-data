@@ -4,9 +4,9 @@
  :id "recon-drone"
  :influence-cost 3
  :side :runner
- :stripped-text "X credits,trash: Prevent X damage from a card currently being accessed."
+ :stripped-text "Interrupt -> X credits, trash: Prevent X damage from a card you are accessing."
  :stripped-title "Recon Drone"
- :text "X[credit],[trash]: Prevent X damage from a card currently being accessed."
+ :text "[interrupt] → <strong>X[credit]</strong>, [trash]<strong>:</strong> Prevent X damage from a card you are accessing."
  :title "Recon Drone"
  :type :hardware
  :uniqueness false}

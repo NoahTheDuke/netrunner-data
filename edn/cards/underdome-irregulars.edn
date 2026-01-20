@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "underdome-irregulars"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "When your action phase ends, if a piece of ice was rezzed this turn, draw 2 cards or remove 1 tag. If no ice was rezzed this turn, trash this resource."
+ :stripped-title "Underdome Irregulars"
+ :subtype [:connection]
+ :text "When your action phase ends, if a piece of ice was rezzed this turn, draw 2 cards or remove 1 tag. If no ice was rezzed this turn, trash this resource."
+ :title "Underdome Irregulars"
+ :type :resource
+ :uniqueness false}

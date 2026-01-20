@@ -1,14 +1,21 @@
 {:deck-limit 1
+ :faces [{:id "earth-station-ascending-to-orbit"
+          :index 0
+          :stripped-text "Limit 1 remote server. As an additional cost to run a remote server, the Runner must pay 6 credits. When the Runner makes a successful run on HQ, flip this identity."
+          :stripped-title "Earth Station: Ascending to Orbit"
+          :subtype [:division]
+          :text "Limit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity."
+          :title "Earth Station: Ascending to Orbit"}]
  :faction :weyland-consortium
  :id "earth-station-sea-headquarters"
  :influence-limit 15
  :minimum-deck-size 45
+ :num-extra-faces 1
  :side :corp
- :stripped-text "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity. Flip side: Limit 1 remote server. As an additional cost to run a remote server, the Runner must pay 6 credits. When the Runner makes a successful run on HQ, flip this identity."
+ :stripped-text "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity."
  :stripped-title "Earth Station: SEA Headquarters"
  :subtype [:division]
- :text "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n<strong>[click]:</strong> Flip this identity.\nFlip side:\nLimit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity."
+ :text "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n<strong>[click]:</strong> Flip this identity."
  :title "Earth Station: SEA Headquarters"
- :named-faces {"back" "Earth Station: Ascending to Orbit"}
  :type :identity
  :uniqueness false}

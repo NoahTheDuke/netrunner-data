@@ -3,6 +3,7 @@
  :faction :haas-bioroid
  :id "eliza-s-toybox"
  :influence-cost 2
+ :original-id "elizas-toybox"
  :side :corp
  :stripped-text "click,click,click: Rez a card, ignoring all costs."
  :stripped-title "Eliza's Toybox"

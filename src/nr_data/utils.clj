@@ -50,3 +50,12 @@
     (->> (:text card)
          (str/lower-case)
          (re-find #"spend.*?\[click].*?\[credit]"))))
+
+(defn update-faces [f card]
+  (if (:faces card)
+    (update card :faces #(mapv f %))
+    card))
+
+(defn apply-to-faces-too [f]
+  (fn [card]
+    (->> card f (update-faces f))))

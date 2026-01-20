@@ -3,6 +3,7 @@
  :deck-limit 1
  :faction :nbn
  :id "tomorrow-s-headline"
+ :original-id "tomorrows-headline"
  :side :corp
  :stripped-text "When this agenda is scored or stolen, give the Runner 1 tag. Limit 1 per deck."
  :stripped-title "Tomorrow's Headline"

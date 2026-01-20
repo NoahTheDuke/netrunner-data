@@ -4,10 +4,10 @@
  :id "doppelganger"
  :influence-cost 2
  :side :runner
- :stripped-text "+1 mu Once per turn, you may immediately make another run when a successful run ends. Limit 1 console per player."
+ :stripped-text "+1 mu Once per turn -> When a successful run ends, you may run any server. Limit 1 console per player."
  :stripped-title "Doppelganger"
  :subtype [:console]
- :text "+1[mu]\nOnce per turn, you may immediately make another run when a successful run ends.\nLimit 1 <strong>console</strong> per player."
+ :text "+1[mu]\nOnce per turn → When a successful run ends, you may run any server.\nLimit 1 <strong>console</strong> per player."
  :title "Doppelgänger"
  :type :hardware
  :uniqueness true}

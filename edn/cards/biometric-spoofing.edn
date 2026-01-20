@@ -4,9 +4,9 @@
  :id "biometric-spoofing"
  :influence-cost 0
  :side :runner
- :stripped-text "trash: Prevent 2 damage."
+ :stripped-text "Interrupt -> trash: Prevent 2 damage."
  :stripped-title "Biometric Spoofing"
- :text "[trash]: Prevent 2 damage."
+ :text "[interrupt] → [trash]<strong>:</strong> Prevent 2 damage."
  :title "Biometric Spoofing"
  :type :resource
  :uniqueness false}

@@ -257,9 +257,9 @@
   :position 37
   :quantity 3
   :set-id "system-gateway"}
- {:card-id "ansel-1-0"
+ {:attribution "Designed by 2018 European Champion Patrick Gower"
+  :card-id "ansel-1-0"
   :code "30038"
-  :flavor "<strong>Designed by 2018 European Champion Patrick Gower</strong>"
   :illustrator "Galen Dara"
   :position 38
   :quantity 3

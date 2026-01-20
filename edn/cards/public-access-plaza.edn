@@ -6,7 +6,6 @@
  :side :corp
  :stripped-text "When your turn begins, gain 1 credit. Threat 2 -> When the Runner trashes this asset (while it is rezzed), give them 1 tag."
  :stripped-title "Public Access Plaza"
- :subtype [:advertisement]
  :text "When your turn begins, gain 1[credit].\nThreat 2 → When the Runner trashes this asset <em>(while it is rezzed)</em>, give them 1 tag."
  :title "Public Access Plaza"
  :trash-cost 2

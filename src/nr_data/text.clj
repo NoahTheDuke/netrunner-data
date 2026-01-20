@@ -2,7 +2,7 @@
   (:require
    [clojure.string :as str]
    [nr-data.data :refer [raw-cards]]
-   [nr-data.utils :refer [normalize-text quantify]]
+   [nr-data.utils :refer [normalize-text quantify apply-to-faces-too]]
    [zprint.core :as zp]))
 
 (defn clean-text
@@ -40,8 +40,8 @@
 
 (defn add-stripped-card-text [cards]
   (->> cards
-       (map add-stripped-text)
-       (map add-stripped-title)))
+       (map (apply-to-faces-too add-stripped-text))
+       (map (apply-to-faces-too add-stripped-title))))
 
 (defn fix-arrows [card]
   (if (:text card)

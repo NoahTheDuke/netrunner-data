@@ -3,6 +3,7 @@
  :faction :anarch
  :id "queen-s-gambit"
  :influence-cost 3
+ :original-id "queens-gambit"
  :side :runner
  :stripped-text "As an additional cost to play this event, spend click. Place up to 3 advancement counters on 1 unrezzed card in the root of a remote server. Gain 2 credits for each counter placed this way. You cannot access that card for the remainder of the turn."
  :stripped-title "Queen's Gambit"

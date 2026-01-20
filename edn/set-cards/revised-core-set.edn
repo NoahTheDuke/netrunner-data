@@ -849,7 +849,7 @@
   :set-id "revised-core-set"}
  {:card-id "melange-mining-corp"
   :code "20127"
-  :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone."
+  :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone"
   :illustrator "Emilio Rodríguez"
   :position 127
   :quantity 2

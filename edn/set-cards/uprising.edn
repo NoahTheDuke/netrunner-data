@@ -1,7 +1,11 @@
 [{:card-id "hoshiko-shiro-untold-protagonist"
   :code "26066"
-  :flavor "Please, let me have this dream.\nI’m going to be my own kind of hero."
+  :faces [{:card-id "hoshiko-shiro-mahou-shoujo"
+           :flavor "I’m going to be my own kind of hero."
+           :index 0}]
+  :flavor "Please, let me have this dream."
   :illustrator "Luminita Pham"
+  :num-extra-faces 1
   :position 66
   :quantity 1
   :set-id "uprising"}
@@ -177,9 +181,9 @@
   :position 91
   :quantity 3
   :set-id "uprising"}
- {:card-id "paule-s-cafe"
+ {:attribution "Designed by 2018 Eternal Champion Oguz Han Asnaz"
+  :card-id "paule-s-cafe"
   :code "26092"
-  :flavor "<strong>Designed by 2018 Eternal Champion Oguz Han Asnaz</strong>"
   :illustrator "Matt Zeilinger"
   :position 92
   :quantity 3
@@ -371,8 +375,12 @@
   :set-id "uprising"}
  {:card-id "earth-station-sea-headquarters"
   :code "26120"
-  :flavor "The First Step…\n…Further Beyond"
+  :faces [{:card-id "earth-station-ascending-to-orbit"
+           :flavor "…Further Beyond"
+           :index 0}]
+  :flavor "The First Step…"
   :illustrator "Kira L. Nguyen"
+  :num-extra-faces 1
   :position 120
   :quantity 1
   :set-id "uprising"}

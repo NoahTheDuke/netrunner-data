@@ -43,9 +43,9 @@
   :position 7
   :quantity 3
   :set-id "23-seconds"}
- {:card-id "deuces-wild"
+ {:attribution "Designed by 2014 World Champion Dan D'Argenio"
+  :card-id "deuces-wild"
   :code "11008"
-  :flavor "<strong>Designed by 2014 World Champion Dan D'Argenio</strong>"
   :illustrator "Marjorie Davis"
   :position 8
   :quantity 3

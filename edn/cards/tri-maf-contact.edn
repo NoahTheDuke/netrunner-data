@@ -4,10 +4,10 @@
  :id "tri-maf-contact"
  :influence-cost 1
  :side :runner
- :stripped-text "You cannot use Tri-maf Contact more than once per turn. click: Gain 2 credits. When Tri-maf Contact is trashed, suffer 3 meat damage."
+ :stripped-text "You cannot use this resource more than once per turn. click: Gain 2 credits. When this resource is trashed, suffer 3 meat damage."
  :stripped-title "Tri-maf Contact"
  :subtype [:connection]
- :text "You cannot use Tri-maf Contact more than once per turn.\n[click]: Gain 2[credit].\nWhen Tri-maf Contact is trashed, suffer 3 meat damage."
+ :text "You cannot use this resource more than once per turn.\n[click]<strong>:</strong> Gain 2[credit].\nWhen this resource is trashed, suffer 3 meat damage."
  :title "Tri-maf Contact"
  :type :resource
  :uniqueness false}

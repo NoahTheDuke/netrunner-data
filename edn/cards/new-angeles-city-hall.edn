@@ -4,10 +4,10 @@
  :id "new-angeles-city-hall"
  :influence-cost 0
  :side :runner
- :stripped-text "2 credits: Avoid 1 tag. Trash New Angeles City Hall when you steal an agenda."
+ :stripped-text "Interrupt -> 2 credits: Prevent 1 tag. When you steal an agenda, trash this resource."
  :stripped-title "New Angeles City Hall"
  :subtype [:location :government]
- :text "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda."
+ :text "[interrupt] → <strong>2[credit]:</strong> Prevent 1 tag.\nWhen you steal an agenda, trash this resource."
  :title "New Angeles City Hall"
  :type :resource
  :uniqueness true}
