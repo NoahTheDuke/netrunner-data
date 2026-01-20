@@ -204,10 +204,7 @@
             :date-release (:date-release s)
             :deck-limit (:deck-limit card)
             :faces (:faces card)
-            :named-faces (->> card :faces
-                              (map (fn [{:keys [index title]}]
-                                     [(str index) title]))
-                              (into {}))
+            :named-faces (:named-faces card nil)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-cost card)
             :format (get card->formats (:id card))
