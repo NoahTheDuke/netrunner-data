@@ -223,9 +223,10 @@
   :position 33
   :quantity 3
   :set-id "midnight-sun"}
- {:card-id "trieste-model-bioroids"
+ {:attribution "Designed by 2019 World Champion Oliver \"Pinsel\" Siccha"
+  :card-id "trieste-model-bioroids"
   :code "33034"
-  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<strong>Designed by 2019 World Champion Oliver \"Pinsel\" Siccha</strong>"
+  :flavor "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision."
   :illustrator "Dimik"
   :position 34
   :quantity 3
@@ -250,9 +251,9 @@
   :position 37
   :quantity 3
   :set-id "midnight-sun"}
- {:card-id "big-deal"
+ {:attribution "Designed by 2018 North American Champion Sam Suied"
+  :card-id "big-deal"
   :code "33038"
-  :flavor "<strong>Designed by 2018 North American Champion Sam Suied</strong>"
   :illustrator "Dimik"
   :position 38
   :quantity 3
@@ -278,9 +279,9 @@
   :position 41
   :quantity 3
   :set-id "midnight-sun"}
- {:card-id "moon-pool"
+ {:attribution "Designed by the Borealis Playtesters"
+  :card-id "moon-pool"
   :code "33042"
-  :flavor "<strong>Designed by the Borealis Playtesters</strong>"
   :illustrator "Olie Boldador"
   :position 42
   :quantity 3
@@ -341,9 +342,10 @@
   :position 50
   :quantity 3
   :set-id "midnight-sun"}
- {:card-id "drago-ivanov"
+ {:attribution "Designed by 2019 European Champion Aaryn \"Drago\" Byrne"
+  :card-id "drago-ivanov"
   :code "33051"
-  :flavor "\"Tell them Drago would like a word.\"\n<strong>Designed by 2019 European Champion Aaryn \"Drago\" Byrne</strong>"
+  :flavor "\"Tell them Drago would like a word.\""
   :illustrator "Dimik"
   :position 51
   :quantity 3
@@ -431,9 +433,9 @@
   :position 63
   :quantity 3
   :set-id "midnight-sun"}
- {:card-id "mutually-assured-destruction"
+ {:attribution "Designed by 2020 Asia-Pacific Champion Sam Keilback"
+  :card-id "mutually-assured-destruction"
   :code "33064"
-  :flavor "<strong>Designed by 2020 Asia-Pacific Champion Eric Keilback</strong>"
   :illustrator "Dimik"
   :position 64
   :quantity 3

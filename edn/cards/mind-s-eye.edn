@@ -3,6 +3,7 @@
  :faction :shaper
  :id "mind-s-eye"
  :influence-cost 3
+ :original-id "minds-eye"
  :side :runner
  :stripped-text "+1 mu Whenever you make a successful run on R&D, you may place 1 power counter on this hardware. click, 3 hosted power counters: Breach R&D. You cannot access cards in the root of R&D during this breach. Limit 1 console per player."
  :stripped-title "Mind's Eye"

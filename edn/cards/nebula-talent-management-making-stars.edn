@@ -1,14 +1,21 @@
 {:deck-limit 1
+ :faces [{:id "gemilang-arena-burning-bright"
+          :index 0
+          :stripped-text "The first time each turn you play an operation, gain click. When the Runner makes a successful run on HQ or R&D, flip this identity."
+          :stripped-title "Gemilang Arena: Burning Bright"
+          :text "The first time each turn you play an operation, gain [click].\nWhen the Runner makes a successful run on HQ or R&D, flip this identity."
+          :title "Gemilang Arena: Burning Bright"}]
  :faction :nbn
  :id "nebula-talent-management-making-stars"
  :influence-limit 15
  :minimum-deck-size 45
+ :num-extra-faces 1
  :side :corp
- :stripped-text "When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity. Flip side: The first time each turn you play an operation, gain click. When the Runner makes a successful run on HQ or R&D, flip this identity."
+ :stripped-text "When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity."
+ :named-faces {"back" "Gemilang Arena: Burning Bright"}
  :stripped-title "Nebula Talent Management: Making Stars"
  :subtype [:division]
- :text "When your action phase ends, if you played an operation this turn, gain 1[credit] and flip this identity.\nFlip side:\nThe first time each turn you play an operation, gain [click].\nWhen the Runner makes a successful run on HQ or R&D, flip this identity."
+ :text "When your action phase ends, if you played an operation this turn, gain 1[credit] and flip this identity."
  :title "Nebula Talent Management: Making Stars"
- :named-faces {"back" "Gemilang Arena: Burning Bright"}
  :type :identity
  :uniqueness false}

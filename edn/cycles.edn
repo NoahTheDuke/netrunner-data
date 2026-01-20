@@ -2,7 +2,7 @@
   :name "Draft"
   :position 0
   :rotated false
-  :size 2}
+  :size 1}
  {:id "core"
   :name "Core"
   :position 1
@@ -96,7 +96,7 @@
  {:id "napd-multiplayer"
   :name "NAPD Multiplayer"
   :position 24
-  :rotated false
+  :rotated true
   :size 1}
  {:id "system-core-2019"
   :name "System Core 2019"
@@ -141,6 +141,11 @@
  {:id "elevation"
   :name "Elevation"
   :position 34
+  :rotated false
+  :size 1}
+ {:id "vantage-point"
+  :name "Vantage Point"
+  :position 35
   :rotated false
   :size 1}
  {:id "rules"

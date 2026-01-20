@@ -4,10 +4,10 @@
  :id "bio-vault"
  :influence-cost 2
  :side :corp
- :stripped-text "Install only in a remote server. Bio Vault can be advanced. trash, 2 hosted advancement tokens: End the run."
+ :stripped-text "Remote server only. You can advance this upgrade. trash, 2 hosted advancement counters: End the run. Use this ability only during a run."
  :stripped-title "Bio Vault"
  :subtype [:off-site]
- :text "Install only in a remote server.\nBio Vault can be advanced.\n[trash], <strong>2 hosted advancement tokens:</strong> End the run."
+ :text "Remote server only.\nYou can advance this upgrade.\n[trash], <strong>2 hosted advancement counters:</strong> End the run. Use this ability only during a run."
  :title "Bio Vault"
  :trash-cost 2
  :type :upgrade

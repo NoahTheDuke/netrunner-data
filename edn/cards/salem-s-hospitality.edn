@@ -3,6 +3,7 @@
  :faction :nbn
  :id "salem-s-hospitality"
  :influence-cost 4
+ :original-id "salems-hospitality"
  :side :corp
  :stripped-text "This operation costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. Choose a card name. The Runner reveals the grip and trashes all cards with the chosen name revealed this way."
  :stripped-title "Salem's Hospitality"

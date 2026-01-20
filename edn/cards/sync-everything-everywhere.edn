@@ -1,13 +1,19 @@
 {:deck-limit 1
+ :faces [{:id ""
+          :index 0
+          :stripped-text "click: Flip this identity. You may pay 2 credits fewer when spending a click to trash a resource (not through a card ability)."
+          :stripped-title nil
+          :text "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."}]
  :faction :nbn
  :id "sync-everything-everywhere"
  :influence-limit 15
  :minimum-deck-size 40
+ :num-extra-faces 1
  :side :corp
- :stripped-text "click: Flip this identity. The Runner pays 1 credit more when spending a click to remove a tag (not through a card ability). Flip side: click: Flip this identity. You may pay 2 credits fewer when spending a click to trash a resource (not through a card ability)."
+ :stripped-text "click: Flip this identity. The Runner pays 1 credit more when spending a click to remove a tag (not through a card ability)."
  :stripped-title "SYNC: Everything, Everywhere"
  :subtype [:division]
- :text "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability).\nFlip side:\n[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."
+ :text "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability)."
  :title "SYNC: Everything, Everywhere"
  :type :identity
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "b-1001"
  :influence-cost 0
  :side :corp
- :stripped-text "Remove 1 tag: End the run. You cannot use this ability during a run on this server."
+ :stripped-text "Remove 1 tag: End the run. Use this ability only during a run against another server."
  :stripped-title "B-1001"
  :subtype [:bioroid :enforcer]
- :text "<strong>Remove 1 tag:</strong> End the run. You cannot use this ability during a run on this server."
+ :text "<strong>Remove 1 tag:</strong> End the run. Use this ability only during a run against another server."
  :title "B-1001"
  :trash-cost 3
  :type :asset

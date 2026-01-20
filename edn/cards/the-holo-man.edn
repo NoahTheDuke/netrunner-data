@@ -4,10 +4,10 @@
  :id "the-holo-man"
  :influence-cost 3
  :side :corp
- :stripped-text "When your turn begins, you may move this upgrade to the root of another server. click, 4 credits: Place 2 advancement counters on a card in the root of or protecting this server. If you have not installed any cards from HQ this turn, instead place 3 advancement counters on that card. Use this ability only once per turn."
+ :stripped-text "When your turn begins, you may move this upgrade to the root of another server. Once per turn -> click, 4 credits: Place 2 advancement counters on 1 card in the root of or protecting this server. If you have not installed any cards from HQ this turn, instead place 3 advancement counters on that card."
  :stripped-title "The Holo Man"
  :subtype [:academic :executive :sysop]
- :text "When your turn begins, you may move this upgrade to the root of another server.\n[click], <strong>4[credit]:</strong> Place 2 advancement counters on a card in the root of or protecting this server. If you have not installed any cards from HQ this turn, instead place 3 advancement counters on that card. Use this ability only once per turn."
+ :text "When your turn begins, you may move this upgrade to the root of another server.\nOnce per turn → [click], <strong>4[credit]:</strong> Place 2 advancement counters on 1 card in the root of or protecting this server. If you have not installed any cards from HQ this turn, instead place 3 advancement counters on that card."
  :title "The Holo Man"
  :trash-cost 2
  :type :upgrade

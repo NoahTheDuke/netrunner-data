@@ -4,9 +4,9 @@
  :id "paparazzi"
  :influence-cost 0
  :side :runner
- :stripped-text "You are tagged. Prevent all meat damage."
+ :stripped-text "You are tagged. Interrupt -> Whenever you would take meat damage, prevent all of that damage."
  :stripped-title "Paparazzi"
- :text "You are tagged.\nPrevent all meat damage."
+ :text "You are tagged.\n[interrupt] → Whenever you would take meat damage, prevent all of that damage."
  :title "Paparazzi"
  :type :resource
  :uniqueness false}

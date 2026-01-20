@@ -136,9 +136,9 @@
   :position 20
   :quantity 1
   :set-id "the-automata-initiative"}
- {:card-id "joy-ride"
+ {:attribution "Designed by 2020 American Continental Champion Jason Ford"
+  :card-id "joy-ride"
   :code "34021"
-  :flavor "<strong>Designed by 2020 American Continental Champion Jason Ford</strong>"
   :illustrator "João Queiroz"
   :position 21
   :quantity 3
@@ -291,9 +291,10 @@
   :position 43
   :quantity 3
   :set-id "the-automata-initiative"}
- {:card-id "tatu-bola"
+ {:attribution "Designed by 2020 Intercontinental Champion Yannick Stucki"
+  :card-id "tatu-bola"
   :code "34044"
-  :flavor "Next!\n<strong>Designed by 2020 Intercontinental Champion Yannick Stucki</strong>"
+  :flavor "Next!"
   :illustrator "Cat Shen"
   :position 44
   :quantity 3

@@ -4,9 +4,9 @@
  :id "mca-austerity-policy"
  :influence-cost 3
  :side :corp
- :stripped-text "click: Place 1 power counter on this asset. When the Runner's next turn begins, they lose click. Use this ability only once per turn. click,trash, 3 hosted power counters: Gain click click clickclick."
+ :stripped-text "Once per turn -> click: Place 1 power counter on this asset. When the Runner's next turn begins, they lose click. click, trash, 3 hosted power counters: Gain click click clickclick."
  :stripped-title "MCA Austerity Policy"
- :text "<strong>[click]:</strong> Place 1 power counter on this asset. When the Runner's next turn begins, they lose [click]. Use this ability only once per turn.\n[click],[trash], <strong>3 hosted power counters:</strong> Gain [click][click][click][click]."
+ :text "Once per turn → [click]<strong>:</strong> Place 1 power counter on this asset. When the Runner's next turn begins, they lose [click].\n[click], [trash], <strong>3 hosted power counters:</strong> Gain [click][click][click][click]."
  :title "MCA Austerity Policy"
  :trash-cost 3
  :type :asset

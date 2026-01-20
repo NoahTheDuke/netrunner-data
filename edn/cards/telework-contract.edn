@@ -4,10 +4,10 @@
  :id "telework-contract"
  :influence-cost 2
  :side :runner
- :stripped-text "When you install this resource, load 9 credits onto it. When it is empty, trash it. click: Take 3 credits from this resource. Use this ability only once per turn."
+ :stripped-text "When you install this resource, load 9 credits onto it. When it is empty, trash it. Once per turn -> click: Take 3 credits from this resource."
  :stripped-title "Telework Contract"
  :subtype [:job]
- :text "When you install this resource, load 9[credit] onto it. When it is empty, trash it.\n[click]<strong>:</strong> Take 3[credit] from this resource. Use this ability only once per turn."
+ :text "When you install this resource, load 9[credit] onto it. When it is empty, trash it.\nOnce per turn → [click]<strong>:</strong> Take 3[credit] from this resource."
  :title "Telework Contract"
  :type :resource
  :uniqueness false}

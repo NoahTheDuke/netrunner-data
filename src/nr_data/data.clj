@@ -203,6 +203,7 @@
             :cycle_code (:cycle_code s)
             :date-release (:date-release s)
             :deck-limit (:deck-limit card)
+            :faces (:faces card)
             :named-faces (:named-faces card nil)
             :faction (:name (get factions (:faction card)))
             :factioncost (:influence-cost card)

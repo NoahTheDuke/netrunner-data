@@ -152,8 +152,12 @@
   :set-id "elevation"}
  {:card-id "dewi-subrotoputri-pedagogical-dhalang"
   :code "35023"
-  :flavor "Who else will teach the stories of good and evil?\nWe can’t leave the corps’ dirty deeds in the shadows."
+  :faces [{:card-id "dewi-subrotoputri-shadow-guide"
+           :flavor "We can’t leave the corps’ dirty deeds in the shadows."
+           :index 0}]
+  :flavor "Who else will teach the stories of good and evil?"
   :illustrator "Zefanya Langkan Maega"
+  :num-extra-faces 1
   :position 23
   :quantity 1
   :set-id "elevation"}
@@ -384,8 +388,12 @@
   :set-id "elevation"}
  {:card-id "nebula-talent-management-making-stars"
   :code "35057"
-  :flavor "Igniting your potential.\nNever stop shining."
+  :faces [{:card-id "gemilang-arena-burning-bright"
+           :flavor "Never stop shining."
+           :index 0}]
+  :flavor "Igniting your potential."
   :illustrator "Emilio Rodríguez"
+  :num-extra-faces 1
   :position 57
   :quantity 1
   :set-id "elevation"}
@@ -518,9 +526,9 @@
   :position 76
   :quantity 3
   :set-id "elevation"}
- {:card-id "key-performance-indicators"
+ {:attribution "Designed by 2023 World Champion William “Sokka” Huang"
+  :card-id "key-performance-indicators"
   :code "35077"
-  :flavor "<strong>Designed by 2023 World Champion William “Sokka” Huang</strong>"
   :illustrator "Wyn Lacabra"
   :position 77
   :quantity 3

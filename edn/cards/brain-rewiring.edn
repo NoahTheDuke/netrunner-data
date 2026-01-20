@@ -4,10 +4,10 @@
  :faction :haas-bioroid
  :id "brain-rewiring"
  :side :corp
- :stripped-text "When you score this agenda, you may pay X credits. If you do, the Runner adds X cards from the grip at random to the bottom of the stack, then draws 1 card."
+ :stripped-text "When you score this agenda, you may spend any number of credits. If you do, the Runner adds that many cards from the grip to the bottom of the stack at random, then draws 1 card."
  :stripped-title "Brain Rewiring"
  :subtype [:security]
- :text "When you score this agenda, you may pay X[credit]. If you do, the Runner adds X cards from the grip at random to the bottom of the stack, then draws 1 card."
+ :text "When you score this agenda, you may spend any number of credits. If you do, the Runner adds that many cards from the grip to the bottom of the stack at random, then draws 1 card."
  :title "Brain Rewiring"
  :type :agenda
  :uniqueness false}

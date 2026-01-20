@@ -74,8 +74,17 @@
   :set-id "the-valley"}
  {:card-id "jinteki-biotech-life-imagined"
   :code "08012"
-  :flavor "The vats in Building C can create-and destroy-life itself.\nThe best and brightest genengineers spends their days in the Tank dreaming up a better world.\nThe Greenhouse was built to enhance natural beauty."
+  :faces [{:card-id "the-brewery-jinteki-biotech"
+           :flavor "The vats in Building C can create-and destroy-life itself."
+           :index 0}
+          {:card-id "the-tank-jinteki-biotech"
+           :flavor "The best and brightest genengineers spends their days in the Tank dreaming up a better world."
+           :index 1}
+          {:card-id "the-greenhouse-jinteki-biotech"
+           :flavor "The Greenhouse was built to enhance natural beauty."
+           :index 2}]
   :illustrator "Emilio Rodríguez"
+  :num-extra-faces 3
   :position 12
   :quantity 3
   :set-id "the-valley"}

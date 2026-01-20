@@ -5,10 +5,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
- :stripped-text "Whenever you breach HQ or R&D during a run, if you did not break any subroutines during that run, you may access 1 additional card. Use this ability only once per turn."
+ :stripped-text "Once per turn -> When you breach HQ or R&D during a run, if you did not break any subroutines during that run, you may access 1 additional card."
  :stripped-title "Mercury: Chrome Libertador"
  :subtype [:bioroid]
- :text "Whenever you breach HQ or R&D during a run, if you did not break any subroutines during that run, you may access 1 additional card. Use this ability only once per turn."
+ :text "Once per turn → When you breach HQ or R&D during a run, if you did not break any subroutines during that run, you may access 1 additional card."
  :title "Mercury: Chrome Libertador"
  :type :identity
  :uniqueness false}

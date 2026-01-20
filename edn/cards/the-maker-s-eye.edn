@@ -3,6 +3,7 @@
  :faction :shaper
  :id "the-maker-s-eye"
  :influence-cost 2
+ :original-id "the-makers-eye"
  :side :runner
  :stripped-text "Run R&D. If successful, access 2 additional cards when you breach R&D."
  :stripped-title "The Maker's Eye"

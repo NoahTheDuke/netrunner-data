@@ -4,6 +4,7 @@
  :id "edward-kim-humanity-s-hammer"
  :influence-limit 15
  :minimum-deck-size 45
+ :original-id "edward-kim-humanitys-hammer"
  :side :runner
  :stripped-text "Trash the first operation you access each turn at no cost."
  :stripped-title "Edward Kim: Humanity's Hammer"

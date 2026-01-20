@@ -3,6 +3,7 @@
  :id "pt-untaian-life-s-building-blocks"
  :influence-limit 15
  :minimum-deck-size 45
+ :original-id "pt-untaian-lifes-building-blocks"
  :side :corp
  :stripped-text "When your discard phase ends, if there are 3 or fewer cards in HQ, you may pay 1 credit to place 1 advancement counter on an unrezzed card you can advance. (You cannot score that card this turn.)"
  :stripped-title "PT Untaian: Life's Building Blocks"

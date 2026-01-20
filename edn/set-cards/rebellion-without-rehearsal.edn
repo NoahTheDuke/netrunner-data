@@ -25,9 +25,9 @@
   :position 69
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
- {:card-id "the-wizard-s-chest"
+ {:attribution "Designed by 2020 World Champion Richard Hall"
+  :card-id "the-wizard-s-chest"
   :code "34070"
-  :flavor "<strong>Designed by 2020 World Champion Richard Hall</strong>"
   :illustrator "Martin de Diego Sádaba"
   :position 70
   :quantity 3
@@ -113,9 +113,9 @@
   :position 82
   :quantity 3
   :set-id "rebellion-without-rehearsal"}
- {:card-id "amelia-earhart"
+ {:attribution "Designed by 2021 American Continental Champion Jonas Wilson"
+  :card-id "amelia-earhart"
   :code "34083"
-  :flavor "<strong>Designed by 2021 American Continental Champion Jonas Wilson</strong>"
   :illustrator "Anthony Hutchings"
   :position 83
   :quantity 3

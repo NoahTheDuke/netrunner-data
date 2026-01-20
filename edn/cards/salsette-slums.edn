@@ -4,10 +4,10 @@
  :id "salsette-slums"
  :influence-cost 2
  :side :runner
- :stripped-text "Access -> Pay the trash cost of the card you are accessing: Remove it from the game. Use this ability only once per turn."
+ :stripped-text "Access, once per turn -> Pay the trash cost of the card you are accessing: Remove that card from the game."
  :stripped-title "Salsette Slums"
  :subtype [:location :seedy]
- :text "Access → <strong>Pay the trash cost of the card you are accessing:</strong> Remove it from the game. Use this ability only once per turn."
+ :text "Access, once per turn → <strong>Pay the trash cost of the card you are accessing:</strong> Remove that card from the game."
  :title "Salsette Slums"
  :type :resource
  :uniqueness false}

@@ -1,6 +1,8 @@
 [{:card-id "sync-everything-everywhere"
   :code "09001"
+  :faces [{:index 0}]
   :illustrator "Maciej Rebisz"
+  :num-extra-faces 1
   :position 1
   :quantity 3
   :set-id "data-and-destiny"}

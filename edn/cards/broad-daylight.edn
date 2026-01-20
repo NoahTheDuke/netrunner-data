@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "broad-daylight"
  :side :corp
- :stripped-text "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have. click, hosted agenda counter: Do 2 meat damage. Use this ability only once per turn."
+ :stripped-text "When you score this agenda, you may take 1 bad publicity. Place 1 agenda counter on this agenda for each bad publicity you have. Once per turn -> click, hosted agenda counter: Do 2 meat damage."
  :stripped-title "Broad Daylight"
  :subtype [:security]
- :text "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have.\n[click], <strong>hosted agenda counter</strong>: Do 2 meat damage. Use this ability only once per turn."
+ :text "When you score this agenda, you may take 1 bad publicity. Place 1 agenda counter on this agenda for each bad publicity you have.\nOnce per turn → [click], <strong>hosted agenda counter:</strong> Do 2 meat damage."
  :title "Broad Daylight"
  :type :agenda
  :uniqueness false}
