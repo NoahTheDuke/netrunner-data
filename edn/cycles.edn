@@ -71,7 +71,7 @@
  {:id "unreleased"
   :name "Unreleased"
   :position 14
-  :rotated true
+  :rotated false
   :size 1}
  {:id "revised-core"
   :name "Revised Core"
@@ -147,4 +147,9 @@
   :name "Vantage Point"
   :position 35
   :rotated false
+  :size 1}
+ {:id "rules"
+  :name "Rules"
+  :position 99
+  :rotated true
   :size 1}]
