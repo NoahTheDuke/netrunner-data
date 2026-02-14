@@ -26,6 +26,11 @@
   :position 27
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "melies-u-only-the-brightest"
+  :code "36036"
+  :position 36
+  :quantity 1
+  :set-id "vantage-point"}
  {:card-id "flood-the-market"
   :code "36053"
   :flavor "There is a tipping point where an ad becomes so omnipresent, it’s subliminal."

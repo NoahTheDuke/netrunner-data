@@ -1,0 +1,16 @@
+{:named-faces {"tenure"      "Tenure Floors: Méliès U"
+               "subsurface"  "Subsurface Labs: Méliès U"
+               "disposal"    "Disposal Grounds: Méliès U"}
+ :faction :jinteki
+ :id "melies-u-only-the-brightest"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :num-extra-faces 3
+ :side :corp
+ :stripped-text "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner's action phase ends, gain 1 credit."
+ :stripped-title "Méliès U: Only the Brightest"
+ :subtype [:division]
+ :text "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner's action phase ends, gain 1 [Credit]."
+ :title "Méliès U: Only the Brightest"
+ :type :identity
+ :uniqueness false}
