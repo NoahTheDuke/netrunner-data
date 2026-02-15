@@ -38,10 +38,30 @@
   :position 36
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "editorial-division-ad-nihilum"
+  :code "36046"
+  :flavor "It never happened"
+  :illustrator "Emilio Rodriquez"
+  :position 46
+  :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "nihilo-agent"
+  :code "36049"
+  :flavor "bject acquir ₰ History dele"
+  :illustrator "Qistina Khalidah"
+  :position 49
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "flood-the-market"
   :code "36053"
   :flavor "There is a tipping point where an ad becomes so omnipresent, it’s subliminal."
   :illustrator "Dimik"
   :position 53
   :quantity 3
-  :set-id "vantage-point"}]
+  :set-id "vantage-point"}
+ {:card-id "vulture-fund"
+  :code "36063"
+  :flavor "“The boss likes to swoop in at just the last second. You should consider yourself lucky.”"
+  :illustrator "Oliver Morit"
+  :position 63
+  :quantity 3}]
