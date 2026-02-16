@@ -26,6 +26,12 @@
   :position 16
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "hiram-0mission-svensson-shadow-of-the-past"
+  :code "36017"
+  :flavor "“Truth runs deeper than power can ever reach.”"
+  :position 17
+  :quantity 1
+  :set-id "vantage-point"}
  {:card-id "synchrocyclotron"
   :code "36027"
   :flavor "The cyclotron’s utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein city tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale."
