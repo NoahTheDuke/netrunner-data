@@ -32,6 +32,13 @@
   :position 17
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "melies-city-luxury-line"
+  :code "36026"
+  :flavor "“Welcome aboard, Moonsilver Class members. Our express stops today are at New Lovell, Heinlein, and Imamura Station.”"
+  :illustrator "Mahardika Wahyu"
+  :quantity 3
+  :position 26
+  :set-id "vantage-point"}
  {:card-id "synchrocyclotron"
   :code "36027"
   :flavor "The cyclotron’s utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein city tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale."
@@ -70,4 +77,9 @@
   :flavor "“The boss likes to swoop in at just the last second. You should consider yourself lucky.”"
   :illustrator "Oliver Morit"
   :position 63
+  :quantity 3}
+ {:card-id "let-them-dream"
+  :code "36036"
+  :illustrator "Ed Mattinian"
+  :position 66
   :quantity 3}]

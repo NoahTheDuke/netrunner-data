@@ -30,9 +30,9 @@
  {:id "startup"
   :name "Startup"
   :sets ["system-gateway"
-         "elevation"]
-  :cycles ["liberation"]
-  :mwl "startup-ban-list-25-11"}
+         "elevation"
+         "vantage-point"]
+  :mwl "startup-ban-list-26-03"}
 
  {:id "eternal"
   :name "Eternal"
