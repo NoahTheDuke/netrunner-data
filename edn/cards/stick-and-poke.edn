@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "stick-and-poke"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "The first time each turn you encounter a piece of ice, it gains “sub: Do 1 net damage. The Runner draws 1 card.”, before its other subroutines, for the remainder of that encounter."
+ :stripped-title "Stick and Poke"
+ :subtype [:companion :virtual]
+ :text "The first time each turn you encounter a piece of ice, it gains “[sub] Do 1 net damage. The Runner draws 1 card.”, before its other subroutines, for the remainder of that encounter."
+ :title "Stick and Poke"
+ :type :resource
+ :uniqueness true}

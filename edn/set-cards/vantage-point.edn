@@ -12,6 +12,13 @@
   :position 5
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "stick-and-poke"
+  :code "36006"
+  :flavor "In the Net, it takes a special effort not to sanitize your equipment. But they manage anyway."
+  :illustrator "Cat Shen"
+  :position 6
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "virtual-intelligence-p-i-you-can-call-me-vic"
   :code "36009"
   :flavor "“I knew from the start this case was gonna be the end of me…”"
