@@ -77,9 +77,11 @@
   :flavor "“The boss likes to swoop in at just the last second. You should consider yourself lucky.”"
   :illustrator "Oliver Morit"
   :position 63
-  :quantity 3}
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "let-them-dream"
-  :code "36036"
+  :code "36066"
   :illustrator "Ed Mattinian"
   :position 66
-  :quantity 3}]
+  :quantity 3
+  :set-id "vantage-point"}]
