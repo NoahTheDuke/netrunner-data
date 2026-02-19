@@ -1,11 +1,12 @@
 [{:id "standard"
   :name "Standard"
   :sets ["system-gateway"
-         "elevation"]
+         "elevation"
+         "vantage-point"]
   :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "standard-ban-list-25-12"}
+  :mwl "standard-ban-list-26-03"}
 
  {:id "throwback"
   :name "Throwback"
@@ -48,7 +49,8 @@
          "magnum-opus"
          "system-core-2019"
          "magnum-opus-reprint"
-         "system-gateway"]
+         "system-gateway"
+         "vantage-point"]
   :cycles ["genesis"
            "spin"
            "lunar"
@@ -60,4 +62,4 @@
            "ashes"
            "borealis"
            "liberation"]
-  :mwl "eternal-points-list-25-07"}]
+  :mwl "eternal-points-list-26-03"}]
