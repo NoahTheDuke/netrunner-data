@@ -65,6 +65,13 @@
   :position 46
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "magistrate-revontulet"
+  :code "36048"
+  :flavor "“I do not take kindly to uninvited guests in my reality. Have you at least brought a gift?”"
+  :illustrator "Grace Zhy"
+  :position 48
+  :quantity 1
+  :set-id "vantage-point"}
  {:card-id "nihilo-agent"
   :code "36049"
   :flavor "bject acquir ₰ History dele"
@@ -84,6 +91,13 @@
   :flavor "“The boss likes to swoop in at just the last second. You should consider yourself lucky.”"
   :illustrator "Oliver Morit"
   :position 63
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "flagship"
+  :code "36064"
+  :flavor "“Gilded lily? You can get one in the gift shop.”"
+  :illustrator "Dimik"
+  :position 64
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "let-them-dream"
