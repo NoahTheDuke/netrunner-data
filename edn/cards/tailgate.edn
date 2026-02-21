@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "tailgate"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "The play cost of this event is lowered by 1 credit for each piece of ice protecting HQ.\nRun HQ. If successful, access 2 additional cards when you breach HQ."
+ :stripped-title "Tailgate"
+ :subtype [:run]
+ :text "The play cost of this event is lowered by 1 [Credit] for each piece of ice protecting HQ.\nRun HQ. If successful, access 2 additional cards when you breach HQ."
+ :title "Tailgate"
+ :type :event
+ :uniqueness false}

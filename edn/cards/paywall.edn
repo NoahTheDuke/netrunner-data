@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "paywall"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :stripped-text "When the Runner encounters this ice, they lose 1 credit.\nsub: End the run unless the Runner pays 1 credit."
+ :stripped-title "Paywall"
+ :subtype [:barrier]
+ :text "When the Runner encounters this ice, they lose 1 [Credit].\n[sub]End the run unless the Runner pays 1 [Credit]"
+ :title "Paywall"
+ :type :ice
+ :uniqueness false}

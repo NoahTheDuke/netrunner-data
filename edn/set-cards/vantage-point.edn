@@ -26,6 +26,20 @@
   :position 9
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "kompromat"
+  :code "36010"
+  :flavor "<em>It's easier to dodge a bullet than an envelope with your name on it.</em>"
+  :illustrator "Scott Uminga"
+  :position 10
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "tailgate"
+  :code "36012"
+  :flavor "<em>In the age of unparalleled digital security, never underestimate the power of human error.</em>"
+  :illustrator "Oliver Morit"
+  :position 12
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "underdome-irregulars"
   :code "36016"
   :flavor "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”"
@@ -65,6 +79,13 @@
   :position 46
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "witch-hunt"
+  :code "36047"
+  :flavor "<em>Of the truth, only ashes remainded. Of his former life, even less.</em>"
+  :illustrator "Alief Rusdiatama (Polar Engine)"
+  :position 47
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "magistrate-revontulet"
   :code "36048"
   :flavor "“I do not take kindly to uninvited guests in my reality. Have you at least brought a gift?”"
@@ -77,6 +98,13 @@
   :flavor "bject acquir ₰ History dele"
   :illustrator "Qistina Khalidah"
   :position 49
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "paywall"
+  :code "36052"
+  :flavor "\"Yeah, I previously worked at a Weyland shop, but the boss had it out for me. Creative differences.\"\n--Isolde Muraro, ice architect"
+  :illustrator "Ed Mattinian"
+  :position 52
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "flood-the-market"
