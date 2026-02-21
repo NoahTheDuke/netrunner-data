@@ -1,0 +1,11 @@
+{:cost 10
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "myoshu"
+ :influence-cost 4
+ :side :corp
+ :stripped-text "Play only if you scored an agenda thi turn that you did not install this turn.\nAdd this operation to your score area as an agenda worth 2 agenda points."
+ :stripped-title "Myōshu"
+ :text "Play only if you scored an agenda thi turn that you did not install this turn.\nAdd this operation to your score area as an agenda worth 2 agenda points"
+ :title "Myōshu"
+ :type :operation}

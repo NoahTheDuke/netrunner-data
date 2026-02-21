@@ -53,6 +53,13 @@
   :position 17
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "stowaway"
+  :code "36024"
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
+  :flavor "Not only does life exist in the Net, it adapts to our presence and thrives."
+  :position 24
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "melies-city-luxury-line"
   :code "36026"
   :flavor "“Welcome aboard, Moonsilver Class members. Our express stops today are at New Lovell, Heinlein, and Imamura Station.”"
@@ -112,6 +119,26 @@
   :flavor "There is a tipping point where an ad becomes so omnipresent, it’s subliminal."
   :illustrator "Dimik"
   :position 53
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "event-horizon"
+  :code "36058"
+  :flavor "Even light cannot escape. What makes you think you can?"
+  :illustrator "Ferenc Patkos"
+  :position 58
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "flywheel"
+  :code "36059"
+  :illustrator "Ed Mattinian"
+  :position 59
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "myoshu"
+  :code "36061"
+  :flavor "There is no victory which is not also beauty."
+  :illustrator "Adam S. Doyle"
+  :position 61
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "vulture-fund"
