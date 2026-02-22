@@ -40,6 +40,13 @@
   :position 12
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "borrowed-goods"
+  :code "36013"
+  :flavor "\"Nice job, kid. Now lose the tail.\""
+  :illustrator "Oliver Morit"
+  :position 13
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "underdome-irregulars"
   :code "36016"
   :flavor "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”"
@@ -52,6 +59,12 @@
   :flavor "“Truth runs deeper than power can ever reach.”"
   :position 17
   :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "beta-build"
+  :code "36019"
+  :position 19
+  :flavor "\"I don't need a forever answer, I need a now answer.\""
+  :quantity 3
   :set-id "vantage-point"}
  {:card-id "stowaway"
   :code "36024"

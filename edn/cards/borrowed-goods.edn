@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "borrowed-goods"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "+1 mu When you install this hardware, if you are not tagged, take 1 tag."
+ :stripped-title "Borrowed Goods"
+ :subtype [:chip]
+ :text "+1[mu]\nWhen you install this hardware, if you are not tagged, take 1 tag."
+ :title "Borrowed Goods"
+ :type :hardware
+ :uniqueness false}

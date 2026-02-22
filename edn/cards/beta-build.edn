@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "beta-build"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "Search your stack for 1 non-virus program. Install it, ignoring all costs. (Shuffle your stack after searching it.) Run any server. When that run ends, if that program has not been uninstalled, add it to the top of your stack."
+ :stripped-title "Beta Build"
+ :subtype [:run]
+ :text "Search your stack for 1 non-<strong>virus</strong> program. Install it, ignoring all costs. <em>(Shuffle your stack after searching it.)</strong>\nRun any server. When that run ends, if that program has not been uninstalled, add it to the top of your stack."
+ :title "Beta Build"
+ :type :event
+ :uniqueness false}
