@@ -47,6 +47,12 @@
   :position 13
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "rotary"
+  :code "36014"
+  :illustrator "Martin de Diego Sadaba"
+  :position 14
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "underdome-irregulars"
   :code "36016"
   :flavor "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”"
@@ -64,6 +70,13 @@
   :code "36019"
   :position 19
   :flavor "\"I don't need a forever answer, I need a now answer.\""
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "touchstone"
+  :code "36021"
+  :position 21
+  :illustrator "Si F Sweetman"
+  :flavor "I know who I am"
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "stowaway"
@@ -91,6 +104,12 @@
   :code "36036"
   :position 36
   :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "knowledge-seeker"
+  :code "36040"
+  :position 40
+  :quantity 3
+  :illustrator "Anthony Hutchings"
   :set-id "vantage-point"}
  {:card-id "editorial-division-ad-nihilum"
   :code "36046"
