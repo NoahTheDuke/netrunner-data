@@ -53,6 +53,13 @@
   :position 14
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "baker"
+  :code "36015"
+  :illustrator "Adam S. Doyle"
+  :position 15
+  :quantity 3
+  :flavor "Time for a key change."
+  :set-id "vantage-point"}
  {:card-id "underdome-irregulars"
   :code "36016"
   :flavor "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”"
@@ -98,6 +105,12 @@
   :flavor "The cyclotron’s utility was discovered after its magnets quenched during load testing, resulting in 1,600 tons of liquid helium venting directly into Heinlein city tenements and an anomalous 13-second local time loss. An apology was issued, funerals were covered, and funding was rerouted to recreate the error at scale."
   :illustrator "Anna Butova"
   :position 27
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "ansel-2-0"
+  :code "36028"
+  :illustrator "Benjamin Giletti"
+  :position 28
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "melies-u-only-the-brightest"
