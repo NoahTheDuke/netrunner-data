@@ -1,6 +1,6 @@
 {:cost 2
  :deck-limit 3
- :faction :haas-bioroid
+ :faction :jinteki
  :id "vicsek"
  :influence-cost 3
  :side :corp
