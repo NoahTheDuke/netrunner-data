@@ -125,6 +125,19 @@
   :position 36
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "esca"
+  :code "36038"
+  :position 38
+  :quantity 3
+  :set-id "vantage-point"
+  :illustrator "Julio Rocha"}
+ {:card-id "ezam"
+  :code "36039"
+  :position 39
+  :quantity 3
+  :set-id "vantage-point"
+  :flavor "A web that only tightens the more you're lost within it"
+  :illustrator "Benjamin Giletti"}
  {:card-id "knowledge-seeker"
   :code "36040"
   :position 40
@@ -137,6 +150,20 @@
   :quantity 3
   :illustrator "Julia Rocha"
   :flavor "BZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+  :set-id "vantage-point"}
+ {:card-id "unleash"
+  :code "36044"
+  :position 44
+  :quantity 3
+  :illustrator "Cat Shen"
+  :flavor "\"Found you.\""
+  :set-id "vantage-point"}
+ {:card-id "the-red-room"
+  :code "36045"
+  :position 45
+  :quantity 3
+  :illustrator "Benjamin Giletti"
+  :flavor "The equipment for asset return and processing is bespoke, and can be set up in less than an hour"
   :set-id "vantage-point"}
  {:card-id "editorial-division-ad-nihilum"
   :code "36046"
