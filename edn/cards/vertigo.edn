@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "vertigo"
+ :influence-cost 2
+ :side :corp
+ :strength 1
+ :stripped-text "When the Runner passes this ice, if they have no clicks remaining, they cannot steal or trash Corp cards for the remainder of this run. Subroutine The Runner loses Click."
+ :stripped-title "Vertigo"
+ :subtype [:code-gate]
+ :text "When the Runner passes this ice, if they have no [Clicks] remaining, they cannot steal or trash Corp cards for the remainder of this run.\n[Subroutine] The Runner loses [Click]."
+ :title "Vertigo"
+ :type :ice
+ :uniqueness false}

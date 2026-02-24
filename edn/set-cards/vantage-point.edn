@@ -113,6 +113,13 @@
   :position 28
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "vertigo"
+  :code "36031"
+  :illustrator "Ed Mattinian"
+  :position 31
+  :quantity 3
+  :flavor "It was only a moment for you; you took no notice"
+  :set-id "vantage-point"}
  {:card-id "melies-u-only-the-brightest"
   :code "36036"
   :position 36
@@ -123,6 +130,13 @@
   :position 40
   :quantity 3
   :illustrator "Anthony Hutchings"
+  :set-id "vantage-point"}
+ {:card-id "vicsek"
+  :code "36042"
+  :position 42
+  :quantity 3
+  :illustrator "Julia Rocha"
+  :flavor "BZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
   :set-id "vantage-point"}
  {:card-id "editorial-division-ad-nihilum"
   :code "36046"
@@ -177,6 +191,12 @@
   :code "36059"
   :illustrator "Ed Mattinian"
   :position 59
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "tocsin"
+  :code "36060"
+  :illustrator "Scott Uminga"
+  :position 60
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "myoshu"
