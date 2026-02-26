@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :shaper
+ :id "methuselah"
+ :influence-cost 2
+ :side :runner
+ :stripped-text "+1 mu Whenever a run begins, you may trash 1 piece of hardware from your grip to place 2 Credits on this hardware. You can spend hosted credits during runs. Limit 1 console per player."
+ :stripped-title "Methuselah"
+ :subtype [:console :stealth]
+ :text "+1 mu\nWhenever a run begins, you may trash 1 piece of hardware from your grip to place 2 [Credits] on this hardware. You can spend hosted credits during runs. Limit 1 console per player."
+ :title "Methuselah"
+ :type :hardware
+ :uniqueness true}
