@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "chain-reaction"
+ :influence-cost 5
+ :side :runner
+ :stripped-text "Play only if you made a successful run on HQ, R&D and Archives this turn. Trash 2 installed Corp cards. The Corp trashes 1 installed Runner card."
+ :stripped-title "Chain Reaction"
+ :text "Play only if you made a successful run on HQ, R&D and Archives this turn. Trash 2 installed Corp cards. The Corp trashes 1 installed Runner card."
+ :title "Chain Reaction"
+ :type :event
+ :uniqueness false}

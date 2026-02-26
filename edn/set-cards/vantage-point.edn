@@ -1,4 +1,11 @@
-[{:card-id "corsair"
+[{:card-id "chain-reaction"
+  :code "36001"
+  :flavor "One stone is a small price to pay for two birds."
+  :illustrator "Matheus Calza"
+  :position 1
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "corsair"
   :code "36004"
   :flavor "There have been many golden ages of piracy, each occurring on stranger and stormier waters."
   :illustrator "Anna Butova"
@@ -12,11 +19,17 @@
   :position 5
   :quantity 3
   :set-id "vantage-point"}
- {:card-id "stick-and-poke"
+ {:card-id "hackerspace"
   :code "36006"
+  :illustrator "Emilio Rodriguez"
+  :position 6
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "stick-and-poke"
+  :code "36008"
   :flavor "In the Net, it takes a special effort not to sanitize your equipment. But they manage anyway."
   :illustrator "Cat Shen"
-  :position 6
+  :position 8
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "virtual-intelligence-p-i-you-can-call-me-vic"
@@ -79,11 +92,24 @@
   :flavor "\"I don't need a forever answer, I need a now answer.\""
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "methuselah"
+  :code "36020"
+  :position 20
+  :quantity 3
+  :illustrator "Marion Ruiz"
+  :set-id "vantage-point"}
  {:card-id "touchstone"
   :code "36021"
   :position 21
   :illustrator "Si F Sweetman"
   :flavor "I know who I am"
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "read-write-share"
+  :code "36022"
+  :position 22
+  :illustrator "Martin de Diego Sadaba"
+  :flavor "Take what you need. Leave what you can."
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "stowaway"
@@ -119,6 +145,19 @@
   :position 31
   :quantity 3
   :flavor "It was only a moment for you; you took no notice"
+  :set-id "vantage-point"}
+ {:card-id "retirement-plan"
+  :code "36034"
+  :flavor "Your terms of service have been extended."
+  :illustrator "Mauricio Herrera"
+  :position 34
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "perfect-recall"
+  :code "36035"
+  :illustrator "Oliver Morit"
+  :position 35
+  :quantity 3
   :set-id "vantage-point"}
  {:card-id "melies-u-only-the-brightest"
   :code "36036"
@@ -193,6 +232,13 @@
   :position 49
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "grubber"
+  :code "36050"
+  :flavor "gimme gimme gimme gimme gimme gimme"
+  :illustrator "Scott Uminga"
+  :position 50
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "paywall"
   :code "36052"
   :flavor "\"Yeah, I previously worked at a Weyland shop, but the boss had it out for me. Creative differences.\"\n--Isolde Muraro, ice architect"
@@ -205,6 +251,13 @@
   :flavor "There is a tipping point where an ad becomes so omnipresent, it’s subliminal."
   :illustrator "Dimik"
   :position 53
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "hype-machine"
+  :code "36055"
+  :flavor "Every season is preview season."
+  :illustrator "Matheus Calza"
+  :position 55
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "event-horizon"

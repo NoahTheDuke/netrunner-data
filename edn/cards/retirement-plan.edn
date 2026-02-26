@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "retirement-plan"
+ :influence-cost 3
+ :side :corp
+ :stripped-text "As an additional cost to play this operation, spend click. Install 1 agenda, asset, or piece of ice from Archives."
+ :stripped-title "Retirement Plan"
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nInstall 1 agenda, asset, or piece of ice from Archives."
+ :title "Retirement Plan"
+ :type :operation
+ :uniqueness false}

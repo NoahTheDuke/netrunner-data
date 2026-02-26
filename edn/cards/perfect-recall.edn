@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "perfect-recall"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "When you rez this upgrade and whenever an agenda is scored or stolen from this server or it's root, place 1 power counter on this upgrade. Hosted power counter: reveal 1 card in HQ. The Runner cannot steal or trash copies of that card for the remainder of this run. Use this ability only during a run."
+ :stripped-title "Perfect Recall"
+ :text "When you rez this upgrade and whenever an agenda is scored or stolen from this server or it's root, place 1 power counter on this upgrade. Hosted power counter: reveal 1 card in HQ. The Runner cannot steal or trash copies of that card for the remainder of this run. Use this ability only during a run."
+ :title "Perfect Recall"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness nil}
