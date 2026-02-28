@@ -4,10 +4,10 @@
  :id "magistrate-revontulet"
  :influence-cost 4
  :side :corp
- :stripped-text "As an additional cost to steal an agenda, the Runner must pay 3 credits.\n\nWhenever you score an agenda, the Runner loses 3 credits."
+ :stripped-text "As an additional cost to steal an agenda, the Runner must pay 3 credits. Whenever you score an agenda, the Runner loses 3 credits."
  :stripped-title "Magistrate Revontulet"
  :subtype [:executive]
- :text "As an additional cost to steal an agenda, the Runner must pay 3 [Credit].\n\nWhenever you score an agenda, the Runner loses 3 [Credit]."
+ :text "As an additional cost to steal an agenda, the Runner must pay 3[credit].\nWhenever you score an agenda, the Runner loses 3[credit]."
  :title "Magistrate Revontulet"
  :trash-cost 3
  :type :asset

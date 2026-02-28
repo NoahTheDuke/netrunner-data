@@ -7,6 +7,7 @@
  :stripped-text "Gain 14 credits and take 1 bad publicity."
  :stripped-title "Vulture Fund"
  :subtype [:transaction :liability]
- :text "Gain 14 [Credit] and take 1 bad publicity."
+ :text "Gain 14[credit] and take 1 bad publicity."
  :title "Vulture Fund"
- :type :operation}
+ :type :operation
+ :uniqueness false}

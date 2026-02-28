@@ -9,4 +9,5 @@
  :subtype [:division]
  :text "The first time each turn you take bad publicity, you may search R&D for 1 non-agenda <strong>black ops</strong>, <strong>gray ops</strong>, or <strong>liability</strong> card and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that card to HQ."
  :title "Editorial Division: Ad Nihilum"
- :type :identity}
+ :type :identity
+ :uniqueness false}

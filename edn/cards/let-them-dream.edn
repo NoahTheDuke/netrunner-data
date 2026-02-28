@@ -5,10 +5,10 @@
  :id "let-them-dream"
  :influence-cost 1
  :side :corp
- :stripped-text "When you score this agenda, you may search HQ, R&D, or Archives for 1 agenda and reveal it. (Shuffle R&D after searching it.) Add that agenda to HQ or the bottom of R&D.\n\nWhile this agenda is in the Runner’s score area, it is worth 1 less agenda point."
+ :stripped-text "When you score this agenda, you may search HQ, R&D, or Archives for 1 agenda and reveal it. (Shuffle R&D after searching it.) Add that agenda to HQ or the bottom of R&D. While this agenda is in the Runners score area, it is worth 1 less agenda point."
  :stripped-title "Let Them Dream"
  :subtype [:initiative]
- :text "When you score this agenda, you may search HQ, R&D, or Archives for 1 agenda and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that agenda to HQ or the bottom of R&D.\n\nWhile this agenda is in the Runner’s score area, it is worth 1 less agenda point."
+ :text "When you score this agenda, you may search HQ, R&D, or Archives for 1 agenda and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that agenda to HQ or the bottom of R&D.\nWhile this agenda is in the Runner’s score area, it is worth 1 less agenda point."
  :title "Let Them Dream"
  :type :agenda
  :uniqueness false}

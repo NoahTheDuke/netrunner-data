@@ -8,7 +8,7 @@
  :stripped-text "Subroutine Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has. Subroutine Give the Runner 1 tag. Trash this ice."
  :stripped-title "Vicsek"
  :subtype [:trap :ap :observer]
- :text "[Subroutine] Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has.\n[Subroutine] Give the Runner 1 tag. Trash this ice."
+ :text "[subroutine] Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has.\n[subroutine] Give the Runner 1 tag. Trash this ice."
  :title "Vicsek"
  :type :ice
  :uniqueness false}

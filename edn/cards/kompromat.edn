@@ -4,10 +4,10 @@
  :id "kompromat"
  :influence-cost 4
  :side :runner
- :stripped-text "Run a server protected by ice. When that run ends, if it was successful, give the Corp 1 bad publicity unless they derez 1 piece of ice protected the attacked server.\nRemove this event from the game."
+ :stripped-text "Run a server protected by ice. When that run ends, if it was successful, give the Corp 1 bad publicity unless they derez 1 piece of ice protecting the attacked server. Remove this event from the game."
  :stripped-title "Kompromat"
  :subtype [:run]
- :text "Run a server protected by ice. When that run ends, if it was successful, give the Corp 1 bad publicity unless they derez 1 piece of ice protected the attacked server.\nRemove this event from the game."
+ :text "Run a server protected by ice. When that run ends, if it was successful, give the Corp 1 bad publicity unless they derez 1 piece of ice protecting the attacked server.\nRemove this event from the game."
  :title "Kompromat"
  :type :event
  :uniqueness false}

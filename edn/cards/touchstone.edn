@@ -1,5 +1,5 @@
-{:cost 1
- :deck-limit 2
+{:cost 2
+ :deck-limit 3
  :faction :shaper
  :id "touchstone"
  :influence-cost 2
@@ -7,7 +7,7 @@
  :stripped-text "The first time each turn you play an event, place 1 credit on this hardware. You can spend hosted credits during runs."
  :stripped-title "Touchstone"
  :subtype [:stealth]
- :text "The first time each turn you play an event, place 1 [Credit] on this hardware.\nYou can spend hosted credits during runs."
+ :text "The first time each turn you play an event, place 1[credit] on this hardware.\nYou can spend hosted credits during runs."
  :title "Touchstone"
  :type :hardware
  :uniqueness true}

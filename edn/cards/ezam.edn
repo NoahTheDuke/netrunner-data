@@ -8,7 +8,7 @@
  :stripped-text "click: Swap this ice with another installed piece of ice. Subroutine Look at the top card of R&D. You may add that card to the bottom of R&D. Subroutine Each piece of ice gets +1 strength for the remainder of this run."
  :stripped-title "ezaM"
  :subtype [:code-gate]
- :text "[Click]: Swap this ice with another installed piece of ice.\nSubroutine Look at the top card of R&D. You may add that card to the bottom of R&D.\n[Subroutine] Each piece of ice gets +1 strength for the remainder of this run."
+ :text "[click]<strong>:</strong> Swap this ice with another installed piece of ice.\n[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Each piece of ice gets +1 strength for the remainder of this run."
  :title "ezaM"
  :type :ice
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 3
  :side :corp
  :strength 0
- :stripped-text "trash: End the run. Use this ability only during a run on this server. Subroutine Trash 1 installed program unless the Runner pays 3 credits. Subroutine end the run unless the Runner opays 3 credits."
+ :stripped-text "trash: End the run. Use this ability only during a run against this server. Subroutine Trash 1 installed program unless the Runner pays 3 credits. Subroutine End the run unless the Runner pays 3 credits."
  :stripped-title "Event Horizon"
  :subtype [:sentry :destroyer]
- :text "[trash]: End the run. Use this ability only during a run on this server.\n[Subroutine] Trash 1 installed program unless the Runner pays 3 [Credits].\n[Subroutine] End the run unless the Runner opays 3 [Credits]."
+ :text "[trash]<strong>:</strong> End the run. Use this ability only during a run against this server.\n[subroutine] Trash 1 installed program unless the Runner pays 3[credit].\n[subroutine] End the run unless the Runner pays 3[credit]."
  :title "Event Horizon"
  :type :ice
  :uniqueness false}

@@ -4,8 +4,9 @@
  :id "myoshu"
  :influence-cost 4
  :side :corp
- :stripped-text "Play only if you scored an agenda thi turn that you did not install this turn.\nAdd this operation to your score area as an agenda worth 2 agenda points."
- :stripped-title "Myōshu"
- :text "Play only if you scored an agenda thi turn that you did not install this turn.\nAdd this operation to your score area as an agenda worth 2 agenda points"
+ :stripped-text "Play only if you scored an agenda this turn that you did not install this turn. Add this operation to your score area as an agenda worth 2 agenda points."
+ :stripped-title "Myoshu"
+ :text "Play only if you scored an agenda this turn that you did not install this turn.\nAdd this operation to your score area as an agenda worth 2 agenda points."
  :title "Myōshu"
- :type :operation}
+ :type :operation
+ :uniqueness false}
