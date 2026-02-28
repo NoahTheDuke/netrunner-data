@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "sacrifice-zone-expansion"
+ :side :corp
+ :stripped-text "Install only faceup. (This agenda is neither rezzed nor unrezzed.)"
+ :stripped-title "Sacrifice Zone Expansion"
+ :subtype [:public :expansion]
+ :text "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>"
+ :title "Sacrifice Zone Expansion"
+ :type :agenda
+ :uniqueness false}

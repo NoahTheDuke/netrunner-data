@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "cultivate"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "Look at the top 5 cards of R&D. Trash 1 of those cards, add 1 of them to HQ, and arrange the rest in any order."
+ :stripped-title "Cultivate"
+ :text "Look at the top 5 cards of R&D. Trash 1 of those cards, add 1 of them to HQ, and arrange the rest in any order."
+ :title "Cultivate"
+ :type :operation
+ :uniqueness false}

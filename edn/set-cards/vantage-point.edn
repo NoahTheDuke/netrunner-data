@@ -35,6 +35,11 @@
   :position 6
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "nurse-hanh"
+  :code "37007"
+  :position 7
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "stick-and-poke"
   :code "36008"
   :flavor "In the Net, it takes a special effort not to sanitize your equipment. But they manage anyway."
@@ -54,6 +59,11 @@
   :flavor "<em>It's easier to dodge a bullet than an envelope with your name on it.</em>"
   :illustrator "Scott Uminga"
   :position 10
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "sell-out"
+  :code "36011"
+  :position 11
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "tailgate"
@@ -220,6 +230,13 @@
   :illustrator "Julia Rocha"
   :flavor "BZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
   :set-id "vantage-point"}
+ {:card-id "cultivate"
+  :code "36043"
+  :position 43
+  :quantity 3
+  :illustrator "Matheus Calze"
+  :flavor "To nurture perfection is to know when, what, and whom to cut"
+  :set-id "vantage-point"}
  {:card-id "unleash"
   :code "36044"
   :position 44
@@ -269,6 +286,13 @@
   :position 50
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "lethe"
+  :code "36051"
+  :position 51
+  :quantity 3
+  :illustrator "Qistina Khalidan"
+  :flavor "Drink deeply and forget."
+  :set-id "vantage-point"}
  {:card-id "paywall"
   :code "36052"
   :flavor "\"Yeah, I previously worked at a Weyland shop, but the boss had it out for me. Creative differences.\"\n--Isolde Muraro, ice architect"
@@ -288,6 +312,11 @@
   :flavor "Every season is preview season."
   :illustrator "Matheus Calza"
   :position 55
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "sacrifice-zone-expansion"
+  :code "36056"
+  :position 56
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "event-horizon"
@@ -315,6 +344,13 @@
   :illustrator "Adam S. Doyle"
   :position 61
   :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "reanimation-protocol"
+  :code "36062"
+  :position 62
+  :quantity 3
+  :illustrator "Ferenc Patkos"
+  :flavor "The only blasphemy is to wallow in deletion"
   :set-id "vantage-point"}
  {:card-id "vulture-fund"
   :code "36063"

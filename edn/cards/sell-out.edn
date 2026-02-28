@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "sell-out"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "As an additional cost to play this event, trash 1 installed resource. Gain 4 credits and draw 2 cards."
+ :stripped-title "Sell Out"
+ :text "As an additional cost to play this event, trash 1 installed resource.\nGain 4 [Credits] and draw 2 cards."
+ :title "Sell Out"
+ :type :event
+ :uniqueness false}
