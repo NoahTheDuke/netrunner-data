@@ -5,6 +5,16 @@
   :position 1
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "take-a-dive"
+  :code "36002"
+  :position 2
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "the-tungsten-tailor"
+  :code "36003"
+  :position 3
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "corsair"
   :code "36004"
   :flavor "There have been many golden ages of piracy, each occurring on stranger and stormier waters."
@@ -86,6 +96,11 @@
   :position 17
   :quantity 1
   :set-id "vantage-point"}
+ {:card-id "aircheck"
+  :code "36018"
+  :position 18
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "beta-build"
   :code "36019"
   :position 19
@@ -139,12 +154,22 @@
   :position 28
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "reverb"
+  :code "36029"
+  :position 29
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "vertigo"
   :code "36031"
   :illustrator "Ed Mattinian"
   :position 31
   :quantity 3
   :flavor "It was only a moment for you; you took no notice"
+  :set-id "vantage-point"}
+ {:card-id "realloc"
+  :code "36033"
+  :position 33
+  :quantity 3
   :set-id "vantage-point"}
  {:card-id "retirement-plan"
   :code "36034"
@@ -163,6 +188,11 @@
   :code "36036"
   :position 36
   :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "lotus-haze"
+  :code "36036"
+  :position 37
+  :quantity 3
   :set-id "vantage-point"}
  {:card-id "esca"
   :code "36038"
