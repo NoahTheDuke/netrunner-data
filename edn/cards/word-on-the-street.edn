@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "word-on-the-street"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "As an additional cost to score an agenda the Corp installed this turn, they must add this resource to their score area as an agenda worth -1 agenda points with \"You cannot forfiet this agenda.\". When the Corp scores an agenda they did not install this turn, trash this resource, gain 4 credits, and draw 1 card."
+ :stripped-title "Word on the Street"
+ :text "As an additional cost to score an agenda the Corp installed this turn, they must add this resource to their score area as an agenda worth -1 agenda points with \"You cannot forfiet this agenda.\".\nWhen the Corp scores an agenda they did not install this turn, trash this resource, gain 4 [Credits], and draw 1 card."
+ :title "Word on the Street"
+ :type :resource
+ :uniqueness true}

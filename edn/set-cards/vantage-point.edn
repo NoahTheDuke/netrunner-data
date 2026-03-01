@@ -137,11 +137,24 @@
   :flavor "Take what you need. Leave what you can."
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "sipa"
+  :code "36023"
+  :position 23
+  :illustrator "Ferenc Patkos"
+  :flavor "Can't let it touch the ground."
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "stowaway"
   :code "36024"
   :illustrator "Elwin \"Jakuza\" Rumplmair"
   :flavor "Not only does life exist in the Net, it adapts to our presence and thrives."
   :position 24
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "word-on-the-street"
+  :code "36025"
+  :illustrator "Marion Ruiz"
+  :position 25
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "melies-city-luxury-line"
@@ -169,12 +182,25 @@
   :position 29
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "sleipnir"
+  :code "36030"
+  :illustrator "Adam S. Doyle"
+  :position 30
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "vertigo"
   :code "36031"
   :illustrator "Ed Mattinian"
   :position 31
   :quantity 3
   :flavor "It was only a moment for you; you took no notice"
+  :set-id "vantage-point"}
+ {:card-id "caveat-emptor"
+  :code "36032"
+  :illustrator "Mauricio Herrera"
+  :position 32
+  :quantity 3
+  :flavor "\"I can tell you're a discerning customer. That's why your're here, after all.\""
   :set-id "vantage-point"}
  {:card-id "realloc"
   :code "36033"
@@ -222,6 +248,12 @@
   :position 40
   :quantity 3
   :illustrator "Anthony Hutchings"
+  :set-id "vantage-point"}
+ {:card-id "lionsmane"
+  :code "36041"
+  :position 41
+  :quantity 3
+  :illustrator "Liiga Smilshkane"
   :set-id "vantage-point"}
  {:card-id "vicsek"
   :code "36042"
@@ -307,6 +339,11 @@
   :position 53
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "scapegoat"
+  :code "36054"
+  :position 54
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "hype-machine"
   :code "36055"
   :flavor "Every season is preview season."
@@ -318,6 +355,13 @@
   :code "36056"
   :position 56
   :quantity 3
+  :illustrator "Si F Sweetman"
+  :set-id "vantage-point"}
+ {:card-id "luana-campos"
+  :code "36057"
+  :position 57
+  :quantity 3
+  :illustrator "Dimik"
   :set-id "vantage-point"}
  {:card-id "event-horizon"
   :code "36058"
@@ -364,6 +408,11 @@
   :flavor "“Gilded lily? You can get one in the gift shop.”"
   :illustrator "Dimik"
   :position 64
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "shackleton-grid"
+  :code "36065"
+  :position 65
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "let-them-dream"

@@ -4,10 +4,10 @@
  :faction :weyland-consortium
  :id "sacrifice-zone-expansion"
  :side :corp
- :stripped-text "Install only faceup. (This agenda is neither rezzed nor unrezzed.)"
+ :stripped-text "Install only faceup. (This agenda is neither rezzed nor unrezzed.) The first time each turn you advance this agenda, gain 3 credits. Once per turn: When the Runner makes a successful run on another server, you may remove 1 hosted advancement counter to do 1 meat damage."
  :stripped-title "Sacrifice Zone Expansion"
  :subtype [:public :expansion]
- :text "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>"
+ :text "Install only faceup. (This agenda is neither rezzed nor unrezzed.)\nThe first time each turn you advance this agenda, gain 3 [Credits].\nOnce per turn → When the Runner makes a successful run on another server, you may remove 1 hosted advancement counter to do 1 meat damage."
  :title "Sacrifice Zone Expansion"
  :type :agenda
  :uniqueness false}
