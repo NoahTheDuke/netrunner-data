@@ -4,10 +4,10 @@
  :id "mobius"
  :influence-cost 1
  :side :runner
- :stripped-text "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4 credits."
+ :stripped-text "Run R&D. If successful, when that run ends, you may run R&D again. If the second run is successful, gain 4 credits."
  :stripped-title "Mobius"
  :subtype [:run]
- :text "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4[credit]."
+ :text "Run R&D. If successful, when that run ends, you may run R&D again. If the second run is successful, gain 4[credit]."
  :title "Möbius"
  :type :event
  :uniqueness false}

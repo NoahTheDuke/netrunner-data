@@ -7,7 +7,7 @@
  :stripped-text "Install and rez 1 piece of ice from Archives, paying a total of 10 credits less. If you rezzed a piece of non-liability ice this way, take 1 bad publicity."
  :stripped-title "Reanimation Protocol"
  :subtype [:liability]
- :text "Install and rez 1 piece of ice from Archives, paying a total of 10 [Credits] less. If you rezzed a piece of non-<strong>liability</strong> ice this way, take 1 bad publicity."
+ :text "Install and rez 1 piece of ice from Archives, paying a total of 10[credit] less. If you rezzed a piece of non-<strong>liability</strong> ice this way, take 1 bad publicity."
  :title "Reanimation Protocol"
  :type :operation
  :uniqueness false}

@@ -4,10 +4,10 @@
  :id "take-a-dive"
  :influence-cost 4
  :side :runner
- :stripped-text "Run HQ or R&D. If successful, and if a subroutine resolved during this run, give the Corp 1 bad publicity. Remove this even from the game."
+ :stripped-text "Run HQ or R&D. If successful, and if a subroutine resolved during this run, give the Corp 1 bad publicity. Remove this event from the game."
  :stripped-title "Take a Dive"
  :subtype [:run]
- :text "Run HQ or R&D. If successful, and if a subroutine resolved during this run, give the Corp 1 bad publicity.\nRemove this even from the game."
+ :text "Run HQ or R&D. If successful, and if a subroutine resolved during this run, give the Corp 1 bad publicity.\nRemove this event from the game."
  :title "Take a Dive"
  :type :event
  :uniqueness false}

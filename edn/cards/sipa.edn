@@ -2,7 +2,7 @@
  :deck-limit 3
  :faction :shaper
  :id "sipa"
- :influence-cost 1
+ :influence-cost 3
  :memory-cost 2
  :side :runner
  :stripped-text "The first time each turn you pass the outermost piece of ice protecting a server after fully breaking it, you may swap it with another installed piece of ice."

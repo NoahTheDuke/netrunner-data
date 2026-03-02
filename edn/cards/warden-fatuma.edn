@@ -4,10 +4,10 @@
  :id "warden-fatuma"
  :influence-cost 2
  :side :corp
- :stripped-text "Each piece of rezzed bioroid ice gains \"Subroutine The Runner loses click, if able.\" before all of its other subroutines."
+ :stripped-text "Each rezzed piece of bioroid ice gains \"Subroutine The Runner loses click.\" before its other subroutines."
  :stripped-title "Warden Fatuma"
  :subtype [:character]
- :text "Each piece of rezzed <strong>bioroid</strong> ice gains \"[subroutine] The Runner loses [click], if able.\" before all of its other subroutines."
+ :text "Each rezzed piece of <strong>bioroid</strong> ice gains \"[subroutine] The Runner loses [click].\" before its other subroutines."
  :title "Warden Fatuma"
  :trash-cost 5
  :type :asset

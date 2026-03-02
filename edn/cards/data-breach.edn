@@ -4,10 +4,10 @@
  :id "data-breach"
  :influence-cost 1
  :side :runner
- :stripped-text "Make a run on R&D. If successful, you may make another run on R&D when this run ends."
+ :stripped-text "Run R&D. If successful, when that run ends, you may run R&D again."
  :stripped-title "Data Breach"
  :subtype [:run]
- :text "Make a run on R&D. If successful, you may make another run on R&D when this run ends."
+ :text "Run R&D. If successful, when that run ends, you may run R&D again."
  :title "Data Breach"
  :type :event
  :uniqueness false}

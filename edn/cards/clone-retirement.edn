@@ -4,10 +4,10 @@
  :faction :jinteki
  :id "clone-retirement"
  :side :corp
- :stripped-text "When you score Clone Retirement, you may remove 1 bad publicity. When the Runner steals Clone Retirement, the Corp takes 1 bad publicity."
+ :stripped-text "When you score this agenda, you may remove 1 bad publicity. When the Runner steals this agenda, take 1 bad publicity."
  :stripped-title "Clone Retirement"
- :subtype [:initiative]
- :text "When you score Clone Retirement, you may remove 1 bad publicity.\nWhen the Runner steals Clone Retirement, the Corp takes 1 bad publicity."
+ :subtype [:initiative :liability]
+ :text "When you score this agenda, you may remove 1 bad publicity.\nWhen the Runner steals this agenda, take 1 bad publicity."
  :title "Clone Retirement"
  :type :agenda
  :uniqueness false}

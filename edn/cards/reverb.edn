@@ -2,13 +2,13 @@
  :deck-limit 3
  :faction :haas-bioroid
  :id "reverb"
- :influence-cost 2
+ :influence-cost 1
  :side :corp
  :strength 2
  :stripped-text "The rez cost of this ice is lowered by 1 credit for each other unrezzed piece of ice. Subroutine End the run. Subroutine End the run."
  :stripped-title "Reverb"
  :subtype [:barrier :harmonic]
- :text "The rez cost of this ice is lowered by 1 [Credits] for each other unrezzed piece of ice.\n[Subroutine] End the run.\n[Subroutine] End the run."
+ :text "The rez cost of this ice is lowered by 1[credit] for each other unrezzed piece of ice.\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Reverb"
  :type :ice
  :uniqueness false}

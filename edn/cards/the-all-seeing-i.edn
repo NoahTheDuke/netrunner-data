@@ -4,9 +4,9 @@
  :id "the-all-seeing-i"
  :influence-cost 1
  :side :corp
- :stripped-text "Play only if the Runner is tagged. Trash all resources. The Runner can remove 1 bad publicity to prevent this."
+ :stripped-text "Play only if the Runner is tagged. Trash all installed resources unless the Runner removes 1 bad publicity."
  :stripped-title "The All-Seeing I"
- :text "Play only if the Runner is tagged.\nTrash all resources. The Runner can remove 1 bad publicity to prevent this."
+ :text "Play only if the Runner is tagged.\nTrash all installed resources unless the Runner removes 1 bad publicity."
  :title "The All-Seeing I"
  :type :operation
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 0
- :stripped-text "Salvage can be advanced only while rezzed and gains Subroutine Trace[2]. If successful, give the Runner 1 tag. for each advancement token on it."
+ :stripped-text "You can advance this ice if it is rezzed. It gains \"Subroutine Trace[2]. If successful, give the Runner 1 tag.\" for each hosted advancement counter."
  :stripped-title "Salvage"
  :subtype [:code-gate :tracer]
- :text "Salvage can be advanced only while rezzed and gains “[subroutine] Trace[2]. If successful, give the Runner 1 tag.” for each advancement token on it."
+ :text "You can advance this ice if it is rezzed. It gains \"[subroutine] Trace[2]. If successful, give the Runner 1 tag.\" for each hosted advancement counter."
  :title "Salvage"
  :type :ice
  :uniqueness false}

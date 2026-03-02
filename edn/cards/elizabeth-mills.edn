@@ -4,10 +4,10 @@
  :id "elizabeth-mills"
  :influence-cost 2
  :side :corp
- :stripped-text "When you rez Elizabeth Mills, remove 1 bad publicity. click, trash: Trash 1 location. Take 1 bad publicity."
+ :stripped-text "When you rez this asset, remove 1 bad publicity. click, trash: Trash 1 installed location resource. Take 1 bad publicity."
  :stripped-title "Elizabeth Mills"
- :subtype [:executive]
- :text "When you rez Elizabeth Mills, remove 1 bad publicity.\n[click], [trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity."
+ :subtype [:executive :liability]
+ :text "When you rez this asset, remove 1 bad publicity.\n[click], [trash]<strong>:</strong> Trash 1 installed <strong>location</strong> resource. Take 1 bad publicity."
  :title "Elizabeth Mills"
  :trash-cost 1
  :type :asset

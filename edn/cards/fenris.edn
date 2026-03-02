@@ -7,7 +7,7 @@
  :strength 2
  :stripped-text "When you rez this ice, take 1 bad publicity. Subroutine Do 1 core damage. Subroutine End the run."
  :stripped-title "Fenris"
- :subtype [:sentry :ap :illicit]
+ :subtype [:sentry :ap :liability]
  :text "When you rez this ice, take 1 bad publicity.\n[subroutine] Do 1 core damage.\n[subroutine] End the run."
  :title "Fenris"
  :type :ice

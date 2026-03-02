@@ -7,7 +7,7 @@
  :stripped-text "As an additional cost to play this operation, spend click. Choose 2 rezzed pieces of ice. For each chosen piece of ice, gain credits equal to its printed rez cost, then derez it."
  :stripped-title "realloc()"
  :subtype [:double]
- :text "As an additional cost to play this operation, spend [Click].\nChoose 2 rezzed pieces of ice. For each chosen piece of ice, gain credits equal to its printed rez cost, then derez it."
+ :text "As an additional cost to play this operation, spend [click].\nChoose 2 rezzed pieces of ice. For each chosen piece of ice, gain credits equal to its printed rez cost, then derez it."
  :title "realloc()"
  :type :operation
  :uniqueness false}

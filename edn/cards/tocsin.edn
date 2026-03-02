@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 5
- :stripped-text "Click, 1 Credit, reveal and trash this ice from HQ: Search R&D for up to 1 barrier and up to 1 sentry and reveal them. Add those cards to HQ. Subroutine the Runner loses 2 credits. Subroutine End the run. Subroutine End the run."
+ :stripped-text "click, 1 credit, reveal and trash this ice from HQ: Search R&D for up to 1 barrier and up to 1 sentry and reveal them. (Shuffle R&D after searching it.) Add those cards to HQ. Subroutine The Runner loses 2 credits. Subroutine End the run. Subroutine End the run."
  :stripped-title "Tocsin"
  :subtype [:code-gate :expendable]
- :text "<strong>[Click], 1 [Credit], reveal and trash this ice from HQ:</strong> Search R&D for up to 1 <strong>barrier</strong> and up to 1 <strong>sentry</strong> and reveal them. Add those cards to HQ.\n[Subroutine] The Runner loses 2 credits.\n[Subroutine] End the run.\n[Subroutine] End the run."
+ :text "[click], <strong>1</strong>[credit], <strong>reveal and trash this ice from HQ:</strong> Search R&D for up to 1 <strong>barrier</strong> and up to 1 <strong>sentry</strong> and reveal them. <em>(Shuffle R&D after searching it.)</em> Add those cards to HQ.\n[subroutine] The Runner loses 2[credit].\n[subroutine] End the run.\n[subroutine] End the run."
  :title "Tocsin"
  :type :ice
  :uniqueness false}
