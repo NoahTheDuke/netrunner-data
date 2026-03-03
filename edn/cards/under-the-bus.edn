@@ -6,7 +6,7 @@
  :side :corp
  :stripped-text "Play only if the Runner accessed a card during their last turn. Trash 1 installed connection resource and take 1 bad publicity."
  :stripped-title "Under the Bus"
- :subtype [:gray-ops :illicit]
+ :subtype [:gray-ops :liability]
  :text "Play only if the Runner accessed a card during their last turn.\nTrash 1 installed <strong>connection</strong> resource and take 1 bad publicity."
  :title "Under the Bus"
  :type :operation

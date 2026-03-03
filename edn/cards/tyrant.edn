@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 4
- :stripped-text "Tyrant can be advanced only while rezzed and gains \"Subroutine End the run.\" for each advancement token on it."
+ :stripped-text "You can advance this ice if it is rezzed. It gains \"Subroutine End the run.\" for each hosted advancement counter."
  :stripped-title "Tyrant"
  :subtype [:barrier]
- :text "Tyrant can be advanced only while rezzed and gains \"[subroutine] End the run.\" for each advancement token on it."
+ :text "You can advance this ice if it is rezzed. It gains \"[subroutine] End the run.\" for each hosted advancement counter."
  :title "Tyrant"
  :type :ice
  :uniqueness false}

@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 3
- :stripped-text "Subroutine The next piece of ice the Runner encounters gains \"Subroutine End the run.\" after all its other subroutines for the remainder of this run."
+ :stripped-text "Subroutine The next piece of ice the Runner encounters during this run gains \"Subroutine End the run.\" after its other subroutines for the remainder of that run."
  :stripped-title "Marker"
  :subtype [:code-gate]
- :text "[subroutine] The next piece of ice the Runner encounters gains \"[subroutine] End the run.\" after all its other subroutines for the remainder of this run."
+ :text "[subroutine] The next piece of ice the Runner encounters during this run gains \"[subroutine] End the run.\" after its other subroutines for the remainder of that run."
  :title "Marker"
  :type :ice
  :uniqueness false}

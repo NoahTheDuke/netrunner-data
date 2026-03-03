@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "witch-hunt"
+ :side :corp
+ :stripped-text "When this agenda is scored or stolen, take 1 bad publicity. When your action phase ends, if you scored this agenda this turn, remove all tags, then give the Runner 3 tags."
+ :stripped-title "Witch Hunt"
+ :subtype [:initiative :liability]
+ :text "When this agenda is scored or stolen, take 1 bad publicity.\nWhen your action phase ends, if you scored this agenda this turn, remove all tags, then give the Runner 3 tags."
+ :title "Witch Hunt"
+ :type :agenda
+ :uniqueness false}

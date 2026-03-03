@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "hackerspace"
+ :influence-cost 1
+ :side :runner
+ :stripped-text "You can install unique ({unique}) companion resources and unique ({unique}) connection resources onto this resource. Each resource installed this way costs 1 credit less to install. While this resource has a hosted companion and a hosted connection, you get +2 maximum hand size."
+ :stripped-title "Hackerspace"
+ :subtype [:location]
+ :text "You can install unique <em>({unique})</em> <strong>companion</strong> resources and unique <em>({unique})</em> <strong>connection</strong> resources onto this resource. Each resource installed this way costs 1[credit] less to install.\nWhile this resource has a hosted <strong>companion</strong> and a hosted <strong>connection</strong>, you get +2 maximum hand size."
+ :title "Hackerspace"
+ :type :resource
+ :uniqueness true}

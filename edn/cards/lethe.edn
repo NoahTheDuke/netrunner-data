@@ -1,0 +1,14 @@
+{:cost 9
+ :deck-limit 3
+ :faction :nbn
+ :id "lethe"
+ :influence-cost 2
+ :side :corp
+ :strength 6
+ :stripped-text "Whenever the Runner bypasses or fully breaks this ice, give them 1 tag. Subroutine You may add 1 card from Archives to the top or bottom of R&D. Subroutine Add 1 installed Runner card to the grip."
+ :stripped-title "Lethe"
+ :subtype [:sentry :observer]
+ :text "Whenever the Runner bypasses or fully breaks this ice, give them 1 tag.\n[subroutine] You may add 1 card from Archives to the top or bottom of R&D.\n[subroutine] Add 1 installed Runner card to the grip."
+ :title "Lethe"
+ :type :ice
+ :uniqueness false}

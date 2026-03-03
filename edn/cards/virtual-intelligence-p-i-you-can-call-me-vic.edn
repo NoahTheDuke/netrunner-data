@@ -1,0 +1,14 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "virtual-intelligence-p-i-you-can-call-me-vic"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :stripped-text "Once per turn -> click, 1 credit: Draw 1 card and remove 1 tag."
+ :stripped-title "Virtual Intelligence, P.I.: \"You Can Call Me Vic\""
+ :subtype [:digital]
+ :text "Once per turn → [click], <strong>1[credit]:</strong> Draw 1 card and remove 1 tag."
+ :title "Virtual Intelligence, P.I.: \"You Can Call Me Vic\""
+ :type :identity
+ :uniqueness false}

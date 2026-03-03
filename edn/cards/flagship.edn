@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "flagship"
+ :influence-cost 2
+ :side :corp
+ :stripped-text "HQ or R&D only. Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Persistent -> During each run against this server, the Runner cannot access more than 1 card other than this upgrade."
+ :stripped-title "Flagship"
+ :subtype [:ritzy]
+ :text "HQ or R&D only.\nRuns against this server cannot be declared successful. <em>(This effect does not cause runs to become unsuccessful.)</em>\nPersistent → During each run against this server, the Runner cannot access more than 1 card other than this upgrade."
+ :title "Flagship"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness true}

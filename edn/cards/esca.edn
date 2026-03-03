@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "esca"
+ :influence-cost 1
+ :side :corp
+ :stripped-text "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, they lose 1 credit. If they are tagged, do 1 net damage."
+ :stripped-title "Esca"
+ :subtype [:ambush]
+ :text "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, they lose 1[credit]. If they are tagged, do 1 net damage."
+ :title "Esca"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

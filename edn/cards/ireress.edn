@@ -5,10 +5,10 @@
  :influence-cost 1
  :side :corp
  :strength 2
- :stripped-text "Ireress gains \"Subroutine The Runner loses 1 credit\" for each bad publicity you have."
+ :stripped-text "This ice gains \"Subroutine The Runner loses 1 credit.\" for each bad publicity you have."
  :stripped-title "Ireress"
  :subtype [:code-gate]
- :text "Ireress gains \"[subroutine] The Runner loses 1[credit]\" for each bad publicity you have."
+ :text "This ice gains \"[subroutine] The Runner loses 1[credit].\" for each bad publicity you have."
  :title "Ireress"
  :type :ice
  :uniqueness false}

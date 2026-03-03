@@ -1,0 +1,14 @@
+{:cost 8
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ansel-2-0"
+ :influence-cost 4
+ :side :corp
+ :strength 5
+ :stripped-text "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed Runner card. Subroutine Remove 1 card in the heap from the game. Subroutine You may install 1 card from HQ or Archives. Subroutine End the run."
+ :stripped-title "Ansel 2.0"
+ :subtype [:sentry :bioroid :destroyer]
+ :text "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] Remove 1 card in the heap from the game.\n[subroutine] You may install 1 card from HQ or Archives.\n[subroutine] End the run."
+ :title "Ansel 2.0"
+ :type :ice
+ :uniqueness false}

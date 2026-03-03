@@ -1,4 +1,25 @@
-[{:card-id "corsair"
+[{:card-id "chain-reaction"
+  :code "36001"
+  :flavor "One stone is a small price to pay for two birds."
+  :illustrator "Matheus Calza"
+  :position 1
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "take-a-dive"
+  :code "36002"
+  :flavor "“The walking flatlined will never know the difference between a cyberwall and a Saisentan. Use that fact!”\n—Cracking Corps for Fun and Profit"
+  :illustrator "Amirul Hhf"
+  :position 2
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "the-tungsten-tailor"
+  :code "36003"
+  :flavor "“I don’t know if the Net is made of atoms or bits or something else altogether. I do know this baby’s sharp enough to poke a hole in whatever the answer is.”\n—Pumpkin-and-Dumplin"
+  :illustrator "Si F Sweetman"
+  :position 3
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "corsair"
   :code "36004"
   :flavor "There have been many golden ages of piracy, each occurring on stranger and stormier waters."
   :illustrator "Anna Butova"
@@ -12,11 +33,147 @@
   :position 5
   :quantity 3
   :set-id "vantage-point"}
+ {:card-id "hackerspace"
+  :code "36006"
+  :flavor "“That’s S4lamander, Maestro, iggy two-fingers, C-Sweet, Johnny N., Tina ‘Kickflips’. And of course, Sir Hacksalot.”"
+  :illustrator "Emilio Rodríguez"
+  :position 6
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "nurse-hanh"
+  :code "36007"
+  :flavor "“I’ll just need your arm for a few moments.”"
+  :illustrator "Alecia Doyley"
+  :position 7
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "stick-and-poke"
+  :code "36008"
+  :flavor "In the Net, it takes a special effort <em>not</em> to sanitize your equipment. But they manage anyway."
+  :illustrator "Cat Shen"
+  :position 8
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "virtual-intelligence-p-i-you-can-call-me-vic"
+  :code "36009"
+  :flavor "“I knew from the start this case was gonna be the end of me…”"
+  :illustrator "Marlon Ruiz"
+  :position 9
+  :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "kompromat"
+  :code "36010"
+  :flavor "It’s easier to dodge a bullet than an envelope with your name on it."
+  :illustrator "Scott Uminga"
+  :position 10
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "sell-out"
+  :code "36011"
+  :flavor "“We’re cooked, maninha. Somebody tipped them off.”"
+  :illustrator "Alecia Doyley"
+  :position 11
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "tailgate"
+  :code "36012"
+  :flavor "In the age of unparalleled digital security, never underestimate the power of human error."
+  :illustrator "Oliver Morit"
+  :position 12
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "borrowed-goods"
+  :code "36013"
+  :flavor "“Nice job, kid. Now lose the tail.”"
+  :illustrator "Oliver Morit"
+  :position 13
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "rotary"
+  :code "36014"
+  :illustrator "Martin de Diego Sádaba"
+  :position 14
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "baker"
+  :code "36015"
+  :flavor "Time for a key change."
+  :illustrator "Adam S. Doyle"
+  :position 15
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "underdome-irregulars"
   :code "36016"
   :flavor "“Got me out of a jam, so I lend it a hand sometimes. Same with most of us: favors, debts, blackmail, whatever. Point is, when Vic calls, you pick up.”"
   :illustrator "Mauricio Herrera"
   :position 16
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "hiram-0mission-svensson-shadow-of-the-past"
+  :code "36017"
+  :flavor "“Truth runs deeper than power can ever reach.”"
+  :illustrator "Marlon Ruiz"
+  :position 17
+  :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "aircheck"
+  :code "36018"
+  :illustrator "Mia Siergiejew"
+  :position 18
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "beta-build"
+  :code "36019"
+  :flavor "“I donʼt need a forever answer, I need a <em>now</em> answer.”"
+  :illustrator "Ferenc Patkós"
+  :position 19
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "methuselah"
+  :code "36020"
+  :illustrator "Marlon Ruiz"
+  :position 20
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "touchstone"
+  :code "36021"
+  :flavor "I know who I am."
+  :illustrator "Si F Sweetman"
+  :position 21
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "read-write-share"
+  :code "36022"
+  :flavor "Take what you need. Leave what you can."
+  :illustrator "Martin de Diego Sádaba"
+  :position 22
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "sipa"
+  :code "36023"
+  :flavor "Can’t let it touch the ground."
+  :illustrator "Ferenc Patkós"
+  :position 23
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "stowaway"
+  :code "36024"
+  :flavor "Not only does life exist in the Net, it adapts to our presence and thrives."
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
+  :position 24
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "word-on-the-street"
+  :code "36025"
+  :illustrator "Marlon Ruiz"
+  :position 25
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "melies-city-luxury-line"
+  :code "36026"
+  :flavor "“Welcome aboard, Moonsilver Class members. Our express stops today are at New Lovell, Heinlein, and Imamura Station.”"
+  :illustrator "Mahardika Wahyu (Polar Engine)"
+  :position 26
   :quantity 3
   :set-id "vantage-point"}
  {:card-id "synchrocyclotron"
@@ -26,10 +183,282 @@
   :position 27
   :quantity 3
   :set-id "vantage-point"}
+ {:attribution "Designed by 2021 World Champion Patrick Gower"
+  :card-id "ansel-2-0"
+  :code "36028"
+  :illustrator "Benjamin Giletti"
+  :position 28
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "reverb"
+  :code "36029"
+  :flavor "Everything in the Net is ultimately just information—light, sound, runners. If you can reflect any, you can reflect all."
+  :illustrator "Elwin \"Jakuza\" Rumplmair"
+  :position 29
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "sleipnir"
+  :code "36030"
+  :flavor "He bade write runes on the shield before the shining goddess,\non Sleipnir’s teeth, and the straps of the sledge."
+  :illustrator "Adam S. Doyle"
+  :position 30
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "vertigo"
+  :code "36031"
+  :flavor "It was only a moment for you; you took no notice."
+  :illustrator "Ed Mattinian"
+  :position 31
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "caveat-emptor"
+  :code "36032"
+  :flavor "“I can tell you’re a discerning customer. That’s why you’re here, after all.”"
+  :illustrator "Mauricio Herrera"
+  :position 32
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "realloc"
+  :code "36033"
+  :flavor "All service will be indefinitely suspended by 11:59 pm tonight. We apologize for any inconvenience."
+  :illustrator "Mia Siergiejew"
+  :position 33
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "retirement-plan"
+  :code "36034"
+  :flavor "Your terms of service have been extended."
+  :illustrator "Mauricio Herrera"
+  :position 34
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "perfect-recall"
+  :code "36035"
+  :illustrator "Oliver Morit"
+  :position 35
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "melies-u-only-the-brightest"
+  :code "36036"
+  :faces [{:card-id "tenure-floors-melies-u"
+           :flavor "Above all else."
+           :index 0}
+          {:card-id "subsurface-labs-melies-u"
+           :flavor "Beneath any notice."
+           :index 1}
+          {:card-id "disposal-grounds-melies-u"
+           :flavor "Off the record."
+           :index 2}]
+  :illustrator "Kira L. Nguyen"
+  :num-extra-faces 3
+  :position 36
+  :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "lotus-haze"
+  :code "36037"
+  :flavor "“Warn you? Useless. Once they make the biofeedback stick, all you see is what they want you to see.”\n—Witch_Of_The_Woods"
+  :illustrator "Anna Butova"
+  :position 37
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "esca"
+  :code "36038"
+  :flavor "“touch it for all I care! just don’t post a sob story if you get bit”\n—luc3ne, in the Rig Kids ‘new-runners’ channel"
+  :illustrator "Júlio Rocha"
+  :position 38
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "ezam"
+  :code "36039"
+  :flavor "A web that only tightens the more you’re lost within it."
+  :illustrator "Benjamin Giletti"
+  :position 39
+  :quantity 3
+  :set-id "vantage-point"}
+ {:attribution "Designed by 2021 Asia-Pacific Champion William “Sokka” Huang"
+  :card-id "knowledge-seeker"
+  :code "36040"
+  :illustrator "Anthony Hutchings"
+  :position 40
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "lionsmane"
+  :code "36041"
+  :flavor "”Step closer,” you dream you hear. “Feel my embrace.”"
+  :illustrator "Liiga Smilshkalne"
+  :position 41
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "vicsek"
+  :code "36042"
+  :flavor "BZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+  :illustrator "Júlio Rocha"
+  :position 42
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "cultivate"
+  :code "36043"
+  :flavor "To nurture perfection is to know when, what, and whom to cut."
+  :illustrator "Matheus Calza"
+  :position 43
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "unleash"
+  :code "36044"
+  :flavor "“Found you.”"
+  :illustrator "Cat Shen"
+  :position 44
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "the-red-room"
+  :code "36045"
+  :flavor "The equipment for asset return and processing is bespoke, and can be set up in less than an hour."
+  :illustrator "Benjamin Giletti"
+  :position 45
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "editorial-division-ad-nihilum"
+  :code "36046"
+  :flavor "It never happened."
+  :illustrator "Emilio Rodríguez"
+  :position 46
+  :quantity 1
+  :set-id "vantage-point"}
+ {:card-id "witch-hunt"
+  :code "36047"
+  :flavor "Of the truth, only ashes remained. Of his former life, even less."
+  :illustrator "Alief Rusdiatama (Polar Engine)"
+  :position 47
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "magistrate-revontulet"
+  :code "36048"
+  :flavor "“I do not take kindly to uninvited guests in my reality. Have you at least brought a gift?”"
+  :illustrator "Grace Zhu"
+  :position 48
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "nihilo-agent"
+  :code "36049"
+  :flavor "–ect acquir– ₰ –istory dele–"
+  :illustrator "Qistina Khalidah"
+  :position 49
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "grubber"
+  :code "36050"
+  :flavor "gimme gimme gimme gimme gimme gimme"
+  :illustrator "Scott Uminga"
+  :position 50
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "lethe"
+  :code "36051"
+  :flavor "Drink deeply and forget."
+  :illustrator "Qistina Khalidah"
+  :position 51
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "paywall"
+  :code "36052"
+  :flavor "“Yeah, I previously worked at a Weyland shop, but the boss had it out for me. Creative differences.”\n—Isolde Muraro, ice architect"
+  :illustrator "Ed Mattinian"
+  :position 52
+  :quantity 3
+  :set-id "vantage-point"}
  {:card-id "flood-the-market"
   :code "36053"
   :flavor "There is a tipping point where an ad becomes so omnipresent, it’s subliminal."
   :illustrator "Dimik"
   :position 53
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "scapegoat"
+  :code "36054"
+  :flavor "She’d play the part of the dangerous criminal for now; that was the deal. She was too useful to put away for good. Even Lunar Customs could use a smuggler of her skills now and then."
+  :illustrator "Olie Boldador"
+  :position 54
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "hype-machine"
+  :code "36055"
+  :flavor "Every season is preview season."
+  :illustrator "Matheus Calza"
+  :position 55
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "sacrifice-zone-expansion"
+  :code "36056"
+  :illustrator "Si F Sweetman"
+  :position 56
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "luana-campos"
+  :code "36057"
+  :flavor "“May our new headquarters live twice as long as the noble kapok tree that stood where I now stand!”"
+  :illustrator "Dimik"
+  :position 57
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "event-horizon"
+  :code "36058"
+  :flavor "Even light cannot escape. What makes you think <em>you</em> can?"
+  :illustrator "Ferenc Patkós"
+  :position 58
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "flywheel"
+  :code "36059"
+  :flavor "“The metakinetic energy of an incursion is an asset. Direct the invader’s movement into a dynamic system, and you may be surprised how much the cluster can extract from it.”\n—Moira Virtue, Ice Engineering, MU (formerly of KKU)"
+  :illustrator "Ed Mattinian"
+  :position 59
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "tocsin"
+  :code "36060"
+  :flavor "No one can hear the clamor of the bells and not be alarmed. Least of all the intruder."
+  :illustrator "Scott Uminga"
+  :position 60
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "myoshu"
+  :code "36061"
+  :flavor "There is no victory which is not also beauty."
+  :illustrator "Adam S. Doyle"
+  :position 61
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "reanimation-protocol"
+  :code "36062"
+  :flavor "The only blasphemy is to wallow in deletion."
+  :illustrator "Ferenc Patkós"
+  :position 62
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "vulture-fund"
+  :code "36063"
+  :flavor "“The boss likes to swoop in at just the last second. You should consider yourself lucky.”"
+  :illustrator "Oliver Morit"
+  :position 63
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "flagship"
+  :code "36064"
+  :flavor "“Gilded lily? Yeah, you can get one in the gift shop.”"
+  :illustrator "Dimik"
+  :position 64
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "shackleton-grid"
+  :code "36065"
+  :flavor "You’re on your own."
+  :illustrator "Emilio Rodríguez"
+  :position 65
+  :quantity 3
+  :set-id "vantage-point"}
+ {:card-id "let-them-dream"
+  :code "36066"
+  :illustrator "Ed Mattinian"
+  :position 66
   :quantity 3
   :set-id "vantage-point"}]

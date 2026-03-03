@@ -4,9 +4,9 @@
  :id "expose"
  :influence-cost 2
  :side :corp
- :stripped-text "Expose can be advanced. trash: Remove 1 bad publicity for each advancement token on Expose."
+ :stripped-text "You can advance this asset. trash: Remove 1 bad publicity for each hosted advancement counter."
  :stripped-title "Expose"
- :text "Exposé can be advanced.\n[trash]: Remove 1 bad publicity for each advancement token on Exposé."
+ :text "You can advance this asset.\n[trash]<strong>:</strong> Remove 1 bad publicity for each hosted advancement counter."
  :title "Exposé"
  :trash-cost 2
  :type :asset

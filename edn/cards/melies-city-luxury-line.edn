@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "melies-city-luxury-line"
+ :side :corp
+ :stripped-text "As an additional cost to steal this agenda, the Runner must spend click. When you score this agenda, gain click."
+ :stripped-title "Melies City Luxury Line"
+ :subtype [:expansion]
+ :text "As an additional cost to steal this agenda, the Runner must spend [click].\nWhen you score this agenda, gain [click]."
+ :title "Méliès City Luxury Line"
+ :type :agenda
+ :uniqueness false}

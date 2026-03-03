@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "lotus-haze"
+ :side :corp
+ :stripped-text "When you score this agenda, place 3 agenda counters on it. Hosted agenda counter: Move 1 rezzed upgrade to the root of another server."
+ :stripped-title "Lotus Haze"
+ :subtype [:security]
+ :text "When you score this agenda, place 3 agenda counters on it.\n<strong>Hosted agenda counter:</strong> Move 1 rezzed upgrade to the root of another server."
+ :title "Lotus Haze"
+ :type :agenda
+ :uniqueness false}

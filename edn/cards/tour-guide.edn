@@ -5,10 +5,10 @@
  :influence-cost 2
  :side :corp
  :strength 0
- :stripped-text "Tour Guide gains \"Subroutine End the run.\" for each rezzed asset you have."
+ :stripped-text "This ice gains \"Subroutine End the run.\" for each rezzed asset."
  :stripped-title "Tour Guide"
  :subtype [:sentry]
- :text "Tour Guide gains \"[subroutine] End the run.\" for each rezzed asset you have."
+ :text "This ice gains \"[subroutine] End the run.\" for each rezzed asset."
  :title "Tour Guide"
  :type :ice
  :uniqueness false}

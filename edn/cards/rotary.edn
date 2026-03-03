@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "rotary"
+ :influence-cost 3
+ :side :runner
+ :stripped-text "+1 mu Whenever you breach HQ or R&D, you may take 1 tag to access 1 additional card. click, 2 credits: Trash this hardware. Only the Corp can use this ability, and only if the Runner is tagged. Limit 1 console per player."
+ :stripped-title "Rotary"
+ :subtype [:console]
+ :text "+1[mu]\nWhenever you breach HQ or R&D, you may take 1 tag to access 1 additional card.\n[click], <strong>2[credit]:</strong> Trash this hardware. Only the Corp can use this ability, and only if the Runner is tagged.\nLimit 1 <strong>console</strong> per player."
+ :title "Rotary"
+ :type :hardware
+ :uniqueness true}

@@ -116,6 +116,8 @@
   :name "Job"}
  {:id :killer
   :name "Killer"}
+ {:id :liability
+  :name "Liability"}
  {:id :link
   :name "Link"}
  {:id :location

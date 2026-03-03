@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "stowaway"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :stripped-text "Install only on a piece of ice. Whenever you make a successful run on this server, gain 2 credits."
+ :stripped-title "Stowaway"
+ :subtype [:trojan]
+ :text "Install only on a piece of ice.\nWhenever you make a successful run on this server, gain 2[credit]."
+ :title "Stowaway"
+ :type :program
+ :uniqueness false}

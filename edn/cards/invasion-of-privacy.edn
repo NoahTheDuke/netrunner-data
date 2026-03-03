@@ -6,7 +6,7 @@
  :side :corp
  :stripped-text "As an additional cost to play this operation, spend click. Trace[2]. If successful, reveal the grip. Trash up to X resources and/or events revealed this way, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity."
  :stripped-title "Invasion of Privacy"
- :subtype [:double :gray-ops]
+ :subtype [:double :gray-ops :liability]
  :text "As an additional cost to play this operation, spend [click].\nTrace[2]. If successful, reveal the grip. Trash up to X resources and/or events revealed this way, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity."
  :title "Invasion of Privacy"
  :type :operation

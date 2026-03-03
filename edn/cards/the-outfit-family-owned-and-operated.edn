@@ -4,10 +4,10 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :corp
- :stripped-text "Gain 3 credits whenever you take at least 1 bad publicity."
+ :stripped-text "Whenever you take 1 or more bad publicity, gain 3 credits."
  :stripped-title "The Outfit: Family Owned and Operated"
  :subtype [:subsidiary]
- :text "Gain 3[credit] whenever you take at least 1 bad publicity."
+ :text "Whenever you take 1 or more bad publicity, gain 3[credit]."
  :title "The Outfit: Family Owned and Operated"
  :type :identity
  :uniqueness false}

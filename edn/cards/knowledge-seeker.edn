@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :jinteki
+ :id "knowledge-seeker"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :stripped-text "Whenever an encounter with this ice ends, if it has 3 or more hosted virus counters, purge virus counters and derez this ice. Subroutine Place 1 virus counter on this ice. Subroutine Look at the top 4 cards of R&D and arrange them in any order. Subroutine End the run."
+ :stripped-title "Knowledge Seeker"
+ :subtype [:code-gate]
+ :text "Whenever an encounter with this ice ends, if it has 3 or more hosted virus counters, purge virus counters and derez this ice.\n[subroutine] Place 1 virus counter on this ice.\n[subroutine] Look at the top 4 cards of R&D and arrange them in any order.\n[subroutine] End the run."
+ :title "Knowledge Seeker"
+ :type :ice
+ :uniqueness false}

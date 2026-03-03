@@ -4,10 +4,10 @@
  :id "net-mercur"
  :influence-cost 3
  :side :runner
- :stripped-text "The first time you spend at least 1 credit from a stealth card each run, place 1 credit on Net Mercur or draw 1 card. Use credits on Net Mercur for anything."
+ :stripped-text "The first time you spend credits from a stealth card during each run, place 1 credit on this resource or draw 1 card. You can spend hosted credits for anything."
  :stripped-title "Net Mercur"
- :subtype [:virtual :stealth]
- :text "The first time you spend at least 1[credit] from a <strong>stealth</strong> card each run, place 1[credit] on Net Mercur or draw 1 card.\nUse credits on Net Mercur for anything."
+ :subtype [:stealth :virtual]
+ :text "The first time you spend credits from a <strong>stealth</strong> card during each run, place 1[credit] on this resource or draw 1 card.\nYou can spend hosted credits for anything."
  :title "Net Mercur"
  :type :resource
  :uniqueness true}
