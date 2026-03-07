@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "charge"
+ :title "Charge"
+ :text "To \"charge\" a card, if it has at least 1 power counter on it, simply place 1 more power counter on it.\n\nMost charge effects let you charge any of your installed cards. You can choose any card with a power counter as the target for these effects. You can never charge a card that does not have any hosted power counters."
+ :stripped-text "To \"charge\" a card, if it has at least 1 power counter on it, simply place 1 more power counter on it.\n\nMost charge effects let you charge any of your installed cards. You can choose any card with a power counter as the target for these effects. You can never charge a card that does not have any hosted power counters."
+ :type :rules-insert
+ :stripped-title "Charge"}

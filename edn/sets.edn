@@ -684,4 +684,14 @@
   :name "Vantage Point"
   :position 1
   :set-type :data-pack
-  :size 66}]
+  :size 66}
+ {:code "rules"
+  :cycle-id "rules"
+  :date-release "2025-04-24"
+  :deluxe false
+  :ffg-id nil
+  :id "rules"
+  :name "Rules"
+  :position 1
+  :set-type :rules
+  :size 9}]
