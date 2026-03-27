@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "agenda-points"
+ :title "Agenda Points"
+ :text "Corp decks contain the agendas that define victory for both players. The agendas in a Corp deck must add up to a specific number of agenda points based on how many cards are in the deck:\n\nDeck Size\tAgenda Points Required\n30 - 34\t 14-15\n\n35 - 39\t 16-17\n\n40 - 44\t 18-19\n\n45 - 49\t 20-21\n\n50 - 44\t 22-23\n\nDecks with over 54 cards require 2 extra points for every 5 cards added."
+ :stripped-text "Corp decks contain the agendas that define victory for both players. The agendas in a Corp deck must add up to a specific number of agenda points based on how many cards are in the deck:\n\nDeck Size\tAgenda Points Required\n30 - 34\t 14-15\n\n35 - 39\t 16-17\n\n40 - 44\t 18-19\n\n45 - 49\t 20-21\n\n50 - 44\t 22-23\n\nDecks with over 54 cards require 2 extra points for every 5 cards added."
+ :type :rules-insert
+ :stripped-title "Agenda Points"}

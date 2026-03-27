@@ -1,0 +1,7 @@
+{:side :rules-insert
+ :id "corp-turn"
+ :title "Corp Turn"
+ :text ""
+ :stripped-text ""
+ :type :rules-insert
+ :stripped-title "Corp Turn"}
