@@ -6,7 +6,7 @@
   :cycles ["ashes"
            "borealis"
            "liberation"]
-  :mwl "standard-ban-list-26-03"}
+  :mwl "standard-ban-list-26-05"}
 
  {:id "throwback"
   :name "Throwback"
@@ -33,7 +33,7 @@
   :sets ["system-gateway"
          "elevation"
          "vantage-point"]
-  :mwl "startup-ban-list-26-03"}
+  :mwl "startup-ban-list-26-05"}
 
  {:id "eternal"
   :name "Eternal"
