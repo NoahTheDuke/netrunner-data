@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "haas_bioroid",
+  "id": "vertigo",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "When the Runner passes this ice, if they have no click remaining, they cannot steal or trash Corp cards for the remainder of this run. Subroutine The Runner loses click.",
+  "stripped_title": "Vertigo",
+  "subtypes": ["code_gate"],
+  "text": "When the Runner passes this ice, if they have no [click] remaining, they cannot steal or trash Corp cards for the remainder of this run.\n[subroutine] The Runner loses [click].",
+  "title": "Vertigo"
+}

@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "grubber",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "When you rez this ice, if it is protecting a central server, take 1 bad publicity. Subroutine End the run unless the Runner pays 3 credits. Subroutine End the run unless the Runner pays 3 credits.",
+  "stripped_title": "Grubber",
+  "subtypes": ["barrier", "liability"],
+  "text": "When you rez this ice, if it is protecting a central server, take 1 bad publicity.\n[subroutine] End the run unless the Runner pays 3[credit].\n[subroutine] End the run unless the Runner pays 3[credit].",
+  "title": "Grubber"
+}

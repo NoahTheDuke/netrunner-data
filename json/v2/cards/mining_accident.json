@@ -1,0 +1,15 @@
+{
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "anarch",
+  "id": "mining_accident",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Play only if you made a successful run on a central server this turn. Give the Corp 1 bad publicity unless they pay 5 credits. Remove this event from the game.",
+  "stripped_title": "Mining Accident",
+  "text": "Play only if you made a successful run on a central server this turn.\nGive the Corp 1 bad publicity unless they pay 5[credit].\nRemove this event from the game.",
+  "title": "Mining Accident"
+}

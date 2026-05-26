@@ -1,14 +1,53 @@
 {
-  "name": "json-data",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@project-nisei/netrunner-cards-json",
+  "version": "1.0.2",
+  "type": "module",
+  "description": "Card data for the Android: Netrunner card game.",
+  "repository": "https://github.com/NetrunnerDB/netrunner-cards-json",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "format": "prettier --no-color --write '{{**,.}/*.json,.*.json,*.json}'",
+    "format-check": "prettier --no-color --check '{{**,.}/*.json,.*.json,*.json}'",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "prepare": "husky",
+    "test": "tsc && vitest run",
+    "update-locales": "tsc && node dist/update-locales.js",
+    "watch": "vitest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.13.1"
+    "ajv": "^8",
+    "command-line-args": "^6",
+    "lodash": "^4",
+    "prettier": "^3",
+    "sync-fetch": "0.6"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@eslint/js": "^10",
+    "@tsconfig/recommended": "^1",
+    "@types/lodash": "^4",
+    "@types/node": "^25",
+    "@typescript-eslint/eslint-plugin": "^8",
+    "@typescript-eslint/parser": "^8",
+    "eslint": "^10",
+    "husky": "^9",
+    "lint-staged": "^17",
+    "prettier": "^3",
+    "prettier-plugin-sort-json": "^4",
+    "text-diff": "^1",
+    "typescript": "^6",
+    "vitest": "^4.1.6"
+  },
+  "lint-staged": {
+    "{{**,.}/*.json,.*.json,*.json}": "prettier --write"
+  },
+  "prettier": {
+    "jsonRecursiveSort": true,
+    "plugins": [
+      "prettier-plugin-sort-json"
+    ]
   }
 }

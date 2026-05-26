@@ -1,0 +1,18 @@
+{
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "haas_bioroid",
+  "id": "melies_city_luxury_line",
+  "is_unique": false,
+  "pronunciation_approx": "mel-YES",
+  "pronunciation_ipa": "melˈjɛs",
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to steal this agenda, the Runner must spend click. When you score this agenda, gain click.",
+  "stripped_title": "Melies City Luxury Line",
+  "subtypes": ["expansion"],
+  "text": "As an additional cost to steal this agenda, the Runner must spend [click].\nWhen you score this agenda, gain [click].",
+  "title": "Méliès City Luxury Line"
+}

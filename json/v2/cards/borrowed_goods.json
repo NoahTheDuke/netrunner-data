@@ -1,0 +1,16 @@
+{
+  "card_type_id": "hardware",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "borrowed_goods",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "+1 mu When you install this hardware, if you are not tagged, take 1 tag.",
+  "stripped_title": "Borrowed Goods",
+  "subtypes": ["chip"],
+  "text": "+1[mu]\nWhen you install this hardware, if you are not tagged, take 1 tag.",
+  "title": "Borrowed Goods"
+}

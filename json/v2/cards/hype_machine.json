@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 6,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "hype_machine",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "As long as an agenda was scored or stolen this turn, the rez cost of this upgrade is lowered by 6 credits. trash: Place 1 advancement counter on a card you can advance in the root of this server.",
+  "stripped_title": "Hype Machine",
+  "subtypes": ["advertisement"],
+  "text": "As long as an agenda was scored or stolen this turn, the rez cost of this upgrade is lowered by 6[credit].\n[trash]<strong>:</strong> Place 1 advancement counter on a card you can advance in the root of this server.",
+  "title": "Hype Machine",
+  "trash_cost": 2
+}

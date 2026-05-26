@@ -1,0 +1,16 @@
+{
+  "advancement_requirement": 3,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "quantum_predictive_model",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "While the Runner is accessing this agenda in R&D, they must reveal it. When the Runner accesses this agenda while they are tagged, add it to your score area.",
+  "stripped_title": "Quantum Predictive Model",
+  "subtypes": ["security"],
+  "text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda while they are tagged, add it to your score area.",
+  "title": "Quantum Predictive Model"
+}

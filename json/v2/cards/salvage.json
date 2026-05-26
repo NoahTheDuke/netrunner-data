@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "salvage",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 0,
+  "stripped_text": "You can advance this ice if it is rezzed. It gains \"Subroutine Trace[2]. If successful, give the Runner 1 tag.\" for each hosted advancement counter.",
+  "stripped_title": "Salvage",
+  "subtypes": ["code_gate", "tracer"],
+  "text": "You can advance this ice if it is rezzed. It gains \"[subroutine] Trace[2]. If successful, give the Runner 1 tag.\" for each hosted advancement counter.",
+  "title": "Salvage"
+}

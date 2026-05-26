@@ -1,0 +1,65 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_types_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": false,
+    "allOf": [
+      {
+        "oneOf": [
+          {
+            "properties": {
+              "id": {
+                "enum": [
+                  "agenda",
+                  "asset",
+                  "corp_identity",
+                  "ice",
+                  "operation",
+                  "upgrade"
+                ]
+              },
+              "side_id": {
+                "const": "corp"
+              }
+            }
+          },
+          {
+            "properties": {
+              "id": {
+                "enum": [
+                  "event",
+                  "hardware",
+                  "program",
+                  "resource",
+                  "runner_identity"
+                ]
+              },
+              "side_id": {
+                "const": "runner"
+              }
+            }
+          }
+        ],
+        "title": "Type ids must be valid for the side.",
+        "type": "object"
+      }
+    ],
+    "properties": {
+      "id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "side_id": {
+        "enum": ["corp", "runner"],
+        "type": "string"
+      }
+    },
+    "required": ["id", "name", "side_id"],
+    "type": "object"
+  },
+  "type": "array"
+}

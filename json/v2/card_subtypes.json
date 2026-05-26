@@ -1,0 +1,426 @@
+[
+  {
+    "id": "academic",
+    "name": "Academic"
+  },
+  {
+    "id": "ai",
+    "name": "AI"
+  },
+  {
+    "id": "ap",
+    "name": "AP"
+  },
+  {
+    "id": "advertisement",
+    "name": "Advertisement"
+  },
+  {
+    "id": "alliance",
+    "name": "Alliance"
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush"
+  },
+  {
+    "id": "barrier",
+    "name": "Barrier"
+  },
+  {
+    "id": "beanstalk",
+    "name": "Beanstalk"
+  },
+  {
+    "id": "bioroid",
+    "name": "Bioroid"
+  },
+  {
+    "id": "black_ops",
+    "name": "Black Ops"
+  },
+  {
+    "id": "bomb",
+    "name": "Bomb"
+  },
+  {
+    "id": "caissa",
+    "name": "Caïssa"
+  },
+  {
+    "id": "cast",
+    "name": "Cast"
+  },
+  {
+    "id": "character",
+    "name": "Character"
+  },
+  {
+    "id": "chip",
+    "name": "Chip"
+  },
+  {
+    "id": "clan",
+    "name": "Clan"
+  },
+  {
+    "id": "clone",
+    "name": "Clone"
+  },
+  {
+    "id": "cloud",
+    "name": "Cloud"
+  },
+  {
+    "id": "code_gate",
+    "name": "Code Gate"
+  },
+  {
+    "id": "companion",
+    "name": "Companion"
+  },
+  {
+    "id": "condition",
+    "name": "Condition"
+  },
+  {
+    "id": "connection",
+    "name": "Connection"
+  },
+  {
+    "id": "console",
+    "name": "Console"
+  },
+  {
+    "id": "consumer_grade",
+    "name": "Consumer-grade"
+  },
+  {
+    "id": "corp",
+    "name": "Corp"
+  },
+  {
+    "id": "corporation",
+    "name": "Corporation"
+  },
+  {
+    "id": "current",
+    "name": "Current"
+  },
+  {
+    "id": "cybernetic",
+    "name": "Cybernetic"
+  },
+  {
+    "id": "cyborg",
+    "name": "Cyborg"
+  },
+  {
+    "id": "daemon",
+    "name": "Daemon"
+  },
+  {
+    "id": "decoder",
+    "name": "Decoder"
+  },
+  {
+    "id": "deep_net",
+    "name": "Deep Net"
+  },
+  {
+    "id": "deflector",
+    "name": "Deflector"
+  },
+  {
+    "id": "department",
+    "name": "Department"
+  },
+  {
+    "id": "destroyer",
+    "name": "Destroyer"
+  },
+  {
+    "id": "deva",
+    "name": "Deva"
+  },
+  {
+    "id": "digital",
+    "name": "Digital"
+  },
+  {
+    "id": "directive",
+    "name": "Directive"
+  },
+  {
+    "id": "division",
+    "name": "Division"
+  },
+  {
+    "id": "double",
+    "name": "Double"
+  },
+  {
+    "id": "enforcer",
+    "name": "Enforcer"
+  },
+  {
+    "id": "executive",
+    "name": "Executive"
+  },
+  {
+    "id": "expansion",
+    "name": "Expansion"
+  },
+  {
+    "id": "expendable",
+    "name": "Expendable"
+  },
+  {
+    "id": "facility",
+    "name": "Facility"
+  },
+  {
+    "id": "fracter",
+    "name": "Fracter"
+  },
+  {
+    "id": "g_mod",
+    "name": "G-mod"
+  },
+  {
+    "id": "gear",
+    "name": "Gear"
+  },
+  {
+    "id": "genetics",
+    "name": "Genetics"
+  },
+  {
+    "id": "government",
+    "name": "Government"
+  },
+  {
+    "id": "grail",
+    "name": "Grail"
+  },
+  {
+    "id": "gray_ops",
+    "name": "Gray Ops"
+  },
+  {
+    "id": "harmonic",
+    "name": "Harmonic"
+  },
+  {
+    "id": "hostile",
+    "name": "Hostile"
+  },
+  {
+    "id": "icebreaker",
+    "name": "Icebreaker"
+  },
+  {
+    "id": "industrial",
+    "name": "Industrial"
+  },
+  {
+    "id": "initiative",
+    "name": "Initiative"
+  },
+  {
+    "id": "job",
+    "name": "Job"
+  },
+  {
+    "id": "killer",
+    "name": "Killer"
+  },
+  {
+    "id": "liability",
+    "name": "Liability"
+  },
+  {
+    "id": "link",
+    "name": "Link"
+  },
+  {
+    "id": "location",
+    "name": "Location"
+  },
+  {
+    "id": "lockdown",
+    "name": "Lockdown"
+  },
+  {
+    "id": "mandate",
+    "name": "Mandate"
+  },
+  {
+    "id": "megacorp",
+    "name": "Megacorp"
+  },
+  {
+    "id": "mod",
+    "name": "Mod"
+  },
+  {
+    "id": "morph",
+    "name": "Morph"
+  },
+  {
+    "id": "mythic",
+    "name": "Mythic"
+  },
+  {
+    "id": "next",
+    "name": "NEXT"
+  },
+  {
+    "id": "natural",
+    "name": "Natural"
+  },
+  {
+    "id": "observer",
+    "name": "Observer"
+  },
+  {
+    "id": "off_site",
+    "name": "Off-site"
+  },
+  {
+    "id": "orgcrime",
+    "name": "Orgcrime"
+  },
+  {
+    "id": "police_department",
+    "name": "Police Department"
+  },
+  {
+    "id": "political",
+    "name": "Political"
+  },
+  {
+    "id": "priority",
+    "name": "Priority"
+  },
+  {
+    "id": "psi",
+    "name": "Psi"
+  },
+  {
+    "id": "public",
+    "name": "Public"
+  },
+  {
+    "id": "region",
+    "name": "Region"
+  },
+  {
+    "id": "remote",
+    "name": "Remote"
+  },
+  {
+    "id": "reprisal",
+    "name": "Reprisal"
+  },
+  {
+    "id": "research",
+    "name": "Research"
+  },
+  {
+    "id": "ritzy",
+    "name": "Ritzy"
+  },
+  {
+    "id": "run",
+    "name": "Run"
+  },
+  {
+    "id": "sabotage",
+    "name": "Sabotage"
+  },
+  {
+    "id": "security",
+    "name": "Security"
+  },
+  {
+    "id": "security_protocol",
+    "name": "Security Protocol"
+  },
+  {
+    "id": "seedy",
+    "name": "Seedy"
+  },
+  {
+    "id": "sensie",
+    "name": "Sensie"
+  },
+  {
+    "id": "sentry",
+    "name": "Sentry"
+  },
+  {
+    "id": "source",
+    "name": "Source"
+  },
+  {
+    "id": "stealth",
+    "name": "Stealth"
+  },
+  {
+    "id": "subsidiary",
+    "name": "Subsidiary"
+  },
+  {
+    "id": "sysop",
+    "name": "Sysop"
+  },
+  {
+    "id": "terminal",
+    "name": "Terminal"
+  },
+  {
+    "id": "tracer",
+    "name": "Tracer"
+  },
+  {
+    "id": "transaction",
+    "name": "Transaction"
+  },
+  {
+    "id": "trap",
+    "name": "Trap"
+  },
+  {
+    "id": "triple",
+    "name": "Triple"
+  },
+  {
+    "id": "trojan",
+    "name": "Trojan"
+  },
+  {
+    "id": "unorthodox",
+    "name": "Unorthodox"
+  },
+  {
+    "id": "unsubstantiated",
+    "name": "Unsubstantiated"
+  },
+  {
+    "id": "vehicle",
+    "name": "Vehicle"
+  },
+  {
+    "id": "virtual",
+    "name": "Virtual"
+  },
+  {
+    "id": "virus",
+    "name": "Virus"
+  },
+  {
+    "id": "weapon",
+    "name": "Weapon"
+  }
+]

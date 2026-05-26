@@ -1,0 +1,15 @@
+{
+  "advancement_requirement": 2,
+  "agenda_points": 0,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "domestic_sleepers",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "click,click,click: Place 1 agenda counter on Domestic Sleepers. Domestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.",
+  "stripped_title": "Domestic Sleepers",
+  "text": "[click],[click],[click]: Place 1 agenda counter on Domestic Sleepers.\nDomestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.",
+  "title": "Domestic Sleepers"
+}

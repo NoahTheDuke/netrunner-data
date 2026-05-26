@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 7,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "thoth",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "strength": 6,
+  "stripped_text": "When the Runner encounters this ice, give them 1 tag. Subroutine Trace[4]. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace[4]. If successful, the Runner loses 1 credit for each tag they have.",
+  "stripped_title": "Thoth",
+  "subtypes": ["sentry", "tracer"],
+  "text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] Trace[4]. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] Trace[4]. If successful, the Runner loses 1[credit] for each tag they have.",
+  "title": "Thoth"
+}

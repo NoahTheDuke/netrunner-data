@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "masvingo",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "You can advance this ice. When you rez this ice, place 1 advancement counter on it. This ice gains \"Subroutine End the run.\" for each hosted advancement counter.",
+  "stripped_title": "Masvingo",
+  "subtypes": ["barrier"],
+  "text": "You can advance this ice.\nWhen you rez this ice, place 1 advancement counter on it.\nThis ice gains \"[subroutine] End the run.\" for each hosted advancement counter.",
+  "title": "Masvingo"
+}

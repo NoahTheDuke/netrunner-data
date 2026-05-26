@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "baker",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Once per turn -> click: Run Archives. When you would approach Archives (after passing all ice), you may pay 1 credit to instead change the attacked server to HQ or R&D and approach that server. Spend credits only from stealth cards to pay this cost.",
+  "stripped_title": "Baker",
+  "text": "Once per turn → [click]<strong>:</strong> Run Archives. When you would approach Archives <em>(after passing all ice)</em>, you may pay 1[credit] to instead change the attacked server to HQ or R&D and approach that server. Spend credits only from <strong>stealth</strong> cards to pay this cost.",
+  "title": "Baker"
+}

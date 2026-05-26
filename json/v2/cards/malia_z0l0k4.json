@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "malia_z0l0k4",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "When you rez this asset, choose 1 installed non-virtual resource. The chosen resource loses its printed abilities.",
+  "stripped_title": "Malia Z0L0K4",
+  "subtypes": ["bioroid"],
+  "text": "When you rez this asset, choose 1 installed non-<strong>virtual</strong> resource.\nThe chosen resource loses its printed abilities.",
+  "title": "Malia Z0L0K4",
+  "trash_cost": 3
+}

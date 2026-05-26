@@ -1,0 +1,18 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "chrysalis",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. Subroutine Do 2 net damage.",
+  "stripped_title": "Chrysalis",
+  "subtypes": ["sentry", "ap"],
+  "text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Do 2 net damage.",
+  "title": "Chrysalis",
+  "trash_cost": 1
+}

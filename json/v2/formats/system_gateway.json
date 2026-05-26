@@ -1,0 +1,12 @@
+{
+  "id": "system_gateway",
+  "name": "System Gateway",
+  "snapshots": [
+    {
+      "active": true,
+      "card_pool_id": "system_gateway",
+      "date_start": "2021-04-09",
+      "id": "system_gateway_0"
+    }
+  ]
+}

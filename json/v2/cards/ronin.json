@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "ronin",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "You can advance this asset. click, trash: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
+  "stripped_title": "Ronin",
+  "subtypes": ["hostile"],
+  "text": "You can advance this asset.\n[click], [trash]<strong>:</strong> Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
+  "title": "Ronin",
+  "trash_cost": 2
+}

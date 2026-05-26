@@ -1,0 +1,18 @@
+{
+  "attribution": "Designed by 2021 World Champion Patrick Gower",
+  "card_type_id": "ice",
+  "cost": 8,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "haas_bioroid",
+  "id": "ansel_2_0",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed Runner card. Subroutine Remove 1 card in the heap from the game. Subroutine You may install 1 card from HQ or Archives. Subroutine End the run.",
+  "stripped_title": "Ansel 2.0",
+  "subtypes": ["sentry", "bioroid", "destroyer"],
+  "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] Remove 1 card in the heap from the game.\n[subroutine] You may install 1 card from HQ or Archives.\n[subroutine] End the run.",
+  "title": "Ansel 2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "date_start": "2016-02-01",
+  "format_id": "standard",
+  "global_penalty": {
+    "1": [
+      "architect",
+      "astroscript_pilot_program",
+      "cerberus_lady_h1",
+      "clone_chip",
+      "desperado",
+      "eli_1_0",
+      "napd_contract",
+      "parasite",
+      "prepaid_voicepad",
+      "sansan_city_grid",
+      "yog_0"
+    ]
+  },
+  "id": "napd_mwl_1_0",
+  "name": "NAPD MWL 1.0"
+}

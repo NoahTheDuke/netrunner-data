@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "akshara_sareen",
+  "influence_cost": 0,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Each player gets +1 allotted click for each of their turns.",
+  "stripped_title": "Akshara Sareen",
+  "subtypes": ["connection"],
+  "text": "Each player gets +1 allotted [click] for each of their turns.",
+  "title": "Akshara Sareen"
+}

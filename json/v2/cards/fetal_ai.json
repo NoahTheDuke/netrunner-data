@@ -1,0 +1,16 @@
+{
+  "advancement_requirement": 5,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "fetal_ai",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "While the Runner is accessing this agenda in R&D, they must reveal it. When the Runner accesses this agenda anywhere except in Archives, do 2 net damage. As an additional cost to steal this agenda, the Runner must pay 2 credits.",
+  "stripped_title": "Fetal AI",
+  "subtypes": ["ambush"],
+  "text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda anywhere except in Archives, do 2 net damage.\nAs an additional cost to steal this agenda, the Runner must pay 2[credit].",
+  "title": "Fetal AI"
+}

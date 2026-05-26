@@ -1,0 +1,15 @@
+{
+  "card_type_id": "operation",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "biotic_labor",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Gain click click.",
+  "stripped_title": "Biotic Labor",
+  "text": "Gain [click][click].",
+  "title": "Biotic Labor"
+}

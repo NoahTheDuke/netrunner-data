@@ -1,0 +1,19 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "jinteki",
+  "id": "vicsek",
+  "influence_cost": 3,
+  "is_unique": false,
+  "pronunciation_approx": "VI-chek",
+  "pronunciation_ipa": "ˈvit͡ʃɛk",
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has. Subroutine Give the Runner 1 tag. Trash this ice.",
+  "stripped_title": "Vicsek",
+  "subtypes": ["trap", "ap", "observer"],
+  "text": "[subroutine] Do X net damage and give the Runner X tags. X is equal to the number of tags the Runner has.\n[subroutine] Give the Runner 1 tag. Trash this ice.",
+  "title": "Vicsek"
+}

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "expose",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "You can advance this asset. trash: Remove 1 bad publicity for each hosted advancement counter.",
+  "stripped_title": "Expose",
+  "text": "You can advance this asset.\n[trash]<strong>:</strong> Remove 1 bad publicity for each hosted advancement counter.",
+  "title": "Exposé",
+  "trash_cost": 2
+}

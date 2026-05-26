@@ -1,0 +1,16 @@
+{
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "casting_call",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Install 1 agenda from HQ faceup and host this operation on that agenda as a condition counter with \"Whenever the Runner accesses host agenda, they take 2 tags.\"",
+  "stripped_title": "Casting Call",
+  "subtypes": ["condition"],
+  "text": "Install 1 agenda from HQ faceup and host this operation on that agenda as a condition counter with \"Whenever the Runner accesses host agenda, they take 2 tags.\"",
+  "title": "Casting Call"
+}

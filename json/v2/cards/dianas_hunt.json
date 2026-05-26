@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "dianas_hunt",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run any server. Whenever you encounter a piece of ice during that run, you may install 1 program from your grip, ignoring all costs. When that run ends, trash all programs installed this way.",
+  "stripped_title": "Diana's Hunt",
+  "subtypes": ["run"],
+  "text": "Run any server. Whenever you encounter a piece of ice during that run, you may install 1 program from your grip, ignoring all costs. When that run ends, trash all programs installed this way.",
+  "title": "Diana's Hunt"
+}

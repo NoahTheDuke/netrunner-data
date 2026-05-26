@@ -1,0 +1,16 @@
+{
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "geothermal_fracking",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, place 2 agenda counters on it. click, hosted agenda counter: Gain 7 credits and take 1 bad publicity.",
+  "stripped_title": "Geothermal Fracking",
+  "subtypes": ["expansion", "liability"],
+  "text": "When you score this agenda, place 2 agenda counters on it.\n[click], <strong>hosted agenda counter:</strong> Gain 7[credit] and take 1 bad publicity.",
+  "title": "Geothermal Fracking"
+}

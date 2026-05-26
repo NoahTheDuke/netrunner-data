@@ -1,0 +1,820 @@
+[
+  {
+    "card_id": "quetzal_free_spirit",
+    "card_set_id": "system_update_2021",
+    "flavor": "The hue of your soul, the voice of your spirit, the shape of your flesh are yours to decide. Be free.",
+    "id": "31001",
+    "illustrator": "Benjamin Giletti",
+    "position": 1,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "reina_roja_freedom_fighter",
+    "card_set_id": "system_update_2021",
+    "flavor": "I’m through with games.",
+    "id": "31002",
+    "illustrator": "Benjamin Giletti",
+    "position": 2,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "en_passant",
+    "card_set_id": "system_update_2021",
+    "flavor": "“If you’re not in position to press the advantage, you’ll never gain the upper hand.”\n—The Playbook",
+    "id": "31003",
+    "illustrator": "Seojun Park",
+    "position": 3,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "retrieval_run",
+    "card_set_id": "system_update_2021",
+    "flavor": "Someone’s trash is another’s treasure.",
+    "id": "31004",
+    "illustrator": "Zoe Cohen",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "clot",
+    "card_set_id": "system_update_2021",
+    "flavor": "Surprising, how a single blocked datafeed brings the system to its knees.",
+    "id": "31005",
+    "illustrator": "Zoe Cohen",
+    "position": 5,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "corroder",
+    "card_set_id": "system_update_2021",
+    "flavor": "“Oh, holy Rust,\nTurn foundation into dust.\nOh, sacred Flood,\nWash away what we have become.”\n—Rent Strike",
+    "id": "31006",
+    "illustrator": "Zoe Cohen",
+    "position": 6,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "imp",
+    "card_set_id": "system_update_2021",
+    "flavor": "Just don’t let it bounce back up the feed to <strong>your</strong> rig.",
+    "id": "31007",
+    "illustrator": "Krembler",
+    "position": 7,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "mimic",
+    "card_set_id": "system_update_2021",
+    "flavor": "What is another mask to those we already wear?",
+    "id": "31008",
+    "illustrator": "Patrick B.",
+    "position": 8,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ice_carver",
+    "card_set_id": "system_update_2021",
+    "flavor": "At the code level, all ice manifests via a small number of common protocols. Security managers are kept awake by nightmares of a disgruntled sysop walking out the door with the core infosec library.",
+    "id": "31009",
+    "illustrator": "Krembler",
+    "position": 9,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "liberated_account",
+    "card_set_id": "system_update_2021",
+    "flavor": "Money is like gravity, it accretes.\nJustice is like resisting gravity, it takes <strong>force</strong>.",
+    "id": "31010",
+    "illustrator": "Zoe Cohen",
+    "position": 10,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "scrubber",
+    "card_set_id": "system_update_2021",
+    "flavor": "Destruction is forever.",
+    "id": "31011",
+    "illustrator": "Krembler & Zoe Cohen",
+    "position": 11,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "xanadu",
+    "card_set_id": "system_update_2021",
+    "flavor": "Nobles born foolish cared not for their state\nI was left alone weeping\n—Toghon Temur",
+    "id": "31012",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ken_express_tenma_disappeared_clone",
+    "card_set_id": "system_update_2021",
+    "flavor": "Live in the fast lane.",
+    "id": "31013",
+    "illustrator": "Benjamin Giletti",
+    "position": 13,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "steve_cambridge_master_grifter",
+    "card_set_id": "system_update_2021",
+    "flavor": "Yeah. I’m thinking I’m back.",
+    "id": "31014",
+    "illustrator": "Benjamin Giletti",
+    "position": 14,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "career_fair",
+    "card_set_id": "system_update_2021",
+    "flavor": "“I see great opportunities ahead for you.”",
+    "id": "31015",
+    "illustrator": "Zoe Cohen",
+    "position": 15,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "emergency_shutdown",
+    "card_set_id": "system_update_2021",
+    "flavor": "“Did you order the defrag?”\n“…I thought you did?”",
+    "id": "31016",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "forged_activation_orders",
+    "card_set_id": "system_update_2021",
+    "flavor": "“Electronic warfare, like all warfare, is based on deception.”\n—The Playbook",
+    "id": "31017",
+    "illustrator": "Seojun Park",
+    "position": 17,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "inside_job",
+    "card_set_id": "system_update_2021",
+    "flavor": "“I’m not an actor, but I <strong>am</strong> a professional.”\n—Gabriel Santiago",
+    "id": "31018",
+    "illustrator": "Benjamin Giletti",
+    "position": 18,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "legwork",
+    "card_set_id": "system_update_2021",
+    "flavor": "Go outside. Work with your hands. It’ll do you good.",
+    "id": "31019",
+    "illustrator": "Zoe Cohen",
+    "position": 19,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "networking",
+    "card_set_id": "system_update_2021",
+    "flavor": "It’s not what you know. It’s who you know.",
+    "id": "31020",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 20,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "abagnale",
+    "card_set_id": "system_update_2021",
+    "flavor": "Slippier than a buttered escargot.",
+    "id": "31021",
+    "illustrator": "Zoe Cohen",
+    "position": 21,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "femme_fatale",
+    "card_set_id": "system_update_2021",
+    "flavor": "Her touch is as cold as her heart.",
+    "id": "31022",
+    "illustrator": "Krembler",
+    "position": 22,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "sneakdoor_beta",
+    "card_set_id": "system_update_2021",
+    "flavor": "There is no such thing as truly disconnected from the Net.",
+    "id": "31023",
+    "illustrator": "Atomikrin",
+    "position": 23,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "security_testing",
+    "card_set_id": "system_update_2021",
+    "flavor": "They pay you for the practice run, then you do it again for the real reward.",
+    "id": "31024",
+    "illustrator": "Krembler",
+    "position": 24,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ayla_bios_rahim_simulant_specialist",
+    "card_set_id": "system_update_2021",
+    "id": "31025",
+    "illustrator": "Benjamin Giletti",
+    "position": 25,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "rielle_kit_peddler_transhuman",
+    "card_set_id": "system_update_2021",
+    "flavor": "My thoughts open; unbound within, unblocked without.",
+    "id": "31026",
+    "illustrator": "Benjamin Giletti",
+    "position": 26,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "diesel",
+    "card_set_id": "system_update_2021",
+    "flavor": "No Diesel? No fire!",
+    "id": "31027",
+    "illustrator": "Krembler",
+    "position": 27,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "test_run",
+    "card_set_id": "system_update_2021",
+    "flavor": "No code survives contact with the user.",
+    "id": "31028",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 28,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "the_makers_eye",
+    "card_set_id": "system_update_2021",
+    "flavor": "The incoming datafeed is blunted, rendered into a soft lie our brains can understand. Seeing the Reality beyond takes dedication and practice.",
+    "id": "31029",
+    "illustrator": "N. Hopkins",
+    "position": 29,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "atman",
+    "card_set_id": "system_update_2021",
+    "flavor": "I do not run with my tools. I run with my heart.",
+    "id": "31030",
+    "illustrator": "Atomikrin",
+    "position": 30,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "chameleon",
+    "card_set_id": "system_update_2021",
+    "flavor": "I saved it to my desktop once; couldn’t find the thing for a week!",
+    "id": "31031",
+    "illustrator": "Krembler",
+    "position": 31,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "egret",
+    "card_set_id": "system_update_2021",
+    "flavor": "“Pallas Athena sent a heron gliding down the night. They could not see it passing, but they heard its cry.”\n—The Iliad",
+    "id": "31032",
+    "illustrator": "N. Hopkins",
+    "position": 32,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "gordian_blade",
+    "card_set_id": "system_update_2021",
+    "flavor": "A thousand puzzles with a single solution.",
+    "id": "31033",
+    "illustrator": "Zoe Cohen",
+    "position": 33,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "paricia",
+    "card_set_id": "system_update_2021",
+    "flavor": "A rising tide drowns all servers.",
+    "id": "31034",
+    "illustrator": "Zoe Cohen",
+    "position": 34,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "aesops_pawnshop",
+    "card_set_id": "system_update_2021",
+    "flavor": "If you have something to sell, Aesop is interested in buying. The only detail he won’t ask is where you got it.",
+    "id": "31035",
+    "illustrator": "Krembler & Alexis Spicer",
+    "position": 35,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "professional_contacts",
+    "card_set_id": "system_update_2021",
+    "flavor": "You can hack a social network, but hard work, collaboration, and a sympathetic ear gets you there faster.",
+    "id": "31036",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 36,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "dirty_laundry",
+    "card_set_id": "system_update_2021",
+    "flavor": "I thought I’d feel bad about this. I don’t.",
+    "id": "31037",
+    "illustrator": "Chelsea Geter",
+    "position": 37,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "prepaid_voicepad",
+    "card_set_id": "system_update_2021",
+    "flavor": "They were off the market for years, till the Beanstalk Crisis made redundancy fashionable again.",
+    "id": "31038",
+    "illustrator": "Zoe Cohen & Alexis Spicer",
+    "position": 38,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "earthrise_hotel",
+    "card_set_id": "system_update_2021",
+    "flavor": "The best view in the system. Priced accordingly.",
+    "id": "31039",
+    "illustrator": "Zoe Cohen",
+    "position": 39,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "haas_bioroid_architects_of_tomorrow",
+    "card_set_id": "system_update_2021",
+    "flavor": "Service is Guaranteed.",
+    "id": "31040",
+    "illustrator": "Kira L. Nguyen",
+    "position": 40,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "project_vitruvius",
+    "card_set_id": "system_update_2021",
+    "flavor": "Perfection of form.",
+    "id": "31041",
+    "illustrator": "Krembler",
+    "position": 41,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "marilyn_campaign",
+    "card_set_id": "system_update_2021",
+    "flavor": "They only get one childhood. Make it count.",
+    "id": "31042",
+    "illustrator": "Dimik",
+    "position": 42,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "eli_1_0",
+    "card_set_id": "system_update_2021",
+    "flavor": "Hello again! Back for another game?",
+    "id": "31043",
+    "illustrator": "Krembler",
+    "position": 43,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "magnet",
+    "card_set_id": "system_update_2021",
+    "flavor": "A triumph of bioroid-driven iterative design. A pity no one understands how it works…",
+    "id": "31044",
+    "illustrator": "Zoe Cohen",
+    "position": 44,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ravana_1_0",
+    "card_set_id": "system_update_2021",
+    "flavor": "I roar with a thousand voices, wield a thousand weapons, remember a thousand lives.",
+    "id": "31045",
+    "illustrator": "Krembler",
+    "position": 45,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "rototurret",
+    "card_set_id": "system_update_2021",
+    "flavor": "Click!",
+    "id": "31046",
+    "illustrator": "Zoe Cohen",
+    "position": 46,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "archived_memories",
+    "card_set_id": "system_update_2021",
+    "flavor": "It’s not sleep. Sleep is dreams, activity, change. These are still, cold, dead.",
+    "id": "31047",
+    "illustrator": "N. Hopkins",
+    "position": 47,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "biotic_labor",
+    "card_set_id": "system_update_2021",
+    "flavor": "Sometimes we at Haas-Bioroid are asked how well bioroids interface socially with human workforces. Thanks to our tireless efforts, we believe this will not be a problem in the long term.",
+    "id": "31048",
+    "illustrator": "Olie Boldador",
+    "position": 48,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "corporate_troubleshooter",
+    "card_set_id": "system_update_2021",
+    "flavor": "Problem solved.",
+    "id": "31049",
+    "illustrator": "NtscapeNavigator",
+    "position": 49,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "jinteki_personal_evolution",
+    "card_set_id": "system_update_2021",
+    "flavor": "The Essence of You.",
+    "id": "31050",
+    "illustrator": "Kira L. Nguyen",
+    "position": 50,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "house_of_knives",
+    "card_set_id": "system_update_2021",
+    "flavor": "The payment for entry is a mere drop of blood.",
+    "id": "31051",
+    "illustrator": "Zoe Cohen",
+    "position": 51,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nisei_mk_ii",
+    "card_set_id": "system_update_2021",
+    "flavor": "We could stop disasters before they happen, murderers before they act. Surely that’s worth an android’s sanity?",
+    "id": "31052",
+    "illustrator": "Dimik",
+    "position": 52,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ronin",
+    "card_set_id": "system_update_2021",
+    "flavor": "I cannot stay. There is something I must do.",
+    "id": "31053",
+    "illustrator": "N. Hopkins",
+    "position": 53,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "snare",
+    "card_set_id": "system_update_2021",
+    "flavor": "A little room, full of surprises.",
+    "id": "31054",
+    "illustrator": "NtscapeNavigator",
+    "position": 54,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "lotus_field",
+    "card_set_id": "system_update_2021",
+    "flavor": "As the white light blazed around her, she became still. It was too beautiful. Too perfect.",
+    "id": "31055",
+    "illustrator": "Krembler",
+    "position": 55,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "swordsman",
+    "card_set_id": "system_update_2021",
+    "flavor": "The pain of its first cutting art is a test. Bleed human-red and the second attack is stilled.",
+    "id": "31056",
+    "illustrator": "Krembler",
+    "position": 56,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "celebrity_gift",
+    "card_set_id": "system_update_2021",
+    "flavor": "We knew we’d found this season’s must-have when all twenty of the A-tier influencers refused to return the teacup alpacas.",
+    "id": "31057",
+    "illustrator": "N. Hopkins",
+    "position": 57,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "trick_of_light",
+    "card_set_id": "system_update_2021",
+    "flavor": "Are you watching closely?",
+    "id": "31058",
+    "illustrator": "N. Hopkins",
+    "position": 58,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hokusai_grid",
+    "card_set_id": "system_update_2021",
+    "flavor": "Director Kase hung landscapes of the Hokusai facility behind their desk. The implication was wonderful for concentrating the minds of the staff.",
+    "id": "31059",
+    "illustrator": "Zoe Cohen",
+    "position": 59,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "near_earth_hub_broadcast_center",
+    "card_set_id": "system_update_2021",
+    "flavor": "Every Hour, Every Minute, Every Second.",
+    "id": "31060",
+    "illustrator": "Kira L. Nguyen",
+    "position": 60,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "license_acquisition",
+    "card_set_id": "system_update_2021",
+    "flavor": "Alright everyone! The rights go live in exactly fourteen days. I want merch, I want tie-ins, I want sequels! Let’s go!",
+    "id": "31061",
+    "illustrator": "Zoe Cohen",
+    "position": 61,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "project_beale",
+    "card_set_id": "system_update_2021",
+    "flavor": "Everything is data.",
+    "id": "31062",
+    "illustrator": "Zoe Cohen",
+    "position": 62,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "daily_business_show",
+    "card_set_id": "system_update_2021",
+    "flavor": "Lead the market, never follow it.",
+    "id": "31063",
+    "illustrator": "David Lei",
+    "position": 63,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "reversed_accounts",
+    "card_set_id": "system_update_2021",
+    "flavor": "Corporations can file chargebacks too.",
+    "id": "31064",
+    "illustrator": "Philippe Laroche",
+    "position": 64,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "pop_up_window",
+    "card_set_id": "system_update_2021",
+    "flavor": "A moment of your time? A moment of your time? A moment of your—",
+    "id": "31065",
+    "illustrator": "Alexis Spicer",
+    "position": 65,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "tollbooth",
+    "card_set_id": "system_update_2021",
+    "flavor": "The original Net pathways were free and open. An unacceptable state of affairs.",
+    "id": "31066",
+    "illustrator": "N. Hopkins",
+    "position": 66,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "wraparound",
+    "card_set_id": "system_update_2021",
+    "flavor": "Space bent back. Folds on folds.\nEndlessly wide. Paper deep.",
+    "id": "31067",
+    "illustrator": "Kevin Tame",
+    "position": 67,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "psychographics",
+    "card_set_id": "system_update_2021",
+    "flavor": "They know more about you than you do.",
+    "id": "31068",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 68,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "sansan_city_grid",
+    "card_set_id": "system_update_2021",
+    "flavor": "The Coast is open for business.",
+    "id": "31069",
+    "illustrator": "Nedliv Audiovisuell",
+    "position": 69,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "weyland_consortium_building_a_better_world",
+    "card_set_id": "system_update_2021",
+    "flavor": "Above the Competition.",
+    "id": "31070",
+    "illustrator": "Kira L. Nguyen",
+    "position": 70,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hostile_takeover",
+    "card_set_id": "system_update_2021",
+    "flavor": "Sometimes the small fry need a little convincing to put profit over principle.",
+    "id": "31071",
+    "illustrator": "NtscapeNavigator & Matt Burton",
+    "position": 71,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "oaktown_renovation",
+    "card_set_id": "system_update_2021",
+    "flavor": "There’s only one season in Oaktown: construction.",
+    "id": "31072",
+    "illustrator": "Kira L. Nguyen",
+    "position": 72,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "project_atlas",
+    "card_set_id": "system_update_2021",
+    "flavor": "Next stop: infinity.",
+    "id": "31073",
+    "illustrator": "Zoe Cohen",
+    "position": 73,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "corporate_town",
+    "card_set_id": "system_update_2021",
+    "flavor": "It’s amazing what people will endure for job security.",
+    "id": "31074",
+    "illustrator": "Seojun Park",
+    "position": 74,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "archer",
+    "card_set_id": "system_update_2021",
+    "flavor": "Target Acquired.",
+    "id": "31075",
+    "illustrator": "NtscapeNavigator",
+    "position": 75,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hortum",
+    "card_set_id": "system_update_2021",
+    "id": "31076",
+    "illustrator": "N. Hopkins",
+    "position": 76,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ice_wall",
+    "card_set_id": "system_update_2021",
+    "flavor": "Each time I came back, it was bigger. And colder.",
+    "id": "31077",
+    "illustrator": "Zoe Cohen",
+    "position": 77,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "punitive_counterstrike",
+    "card_set_id": "system_update_2021",
+    "flavor": "“Don’t think we don’t care. We are <strong>very</strong> upset.”",
+    "id": "31078",
+    "illustrator": "Zoe Cohen",
+    "position": 78,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "crisium_grid",
+    "card_set_id": "system_update_2021",
+    "flavor": "The Promontorium Agarum shipyards work on a scale that would be impossible in Earthgrav.",
+    "id": "31079",
+    "illustrator": "NtscapeNavigator",
+    "position": 79,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "pad_campaign",
+    "card_set_id": "system_update_2021",
+    "flavor": "Everyone bought the newest PAD. Retro styling is in!",
+    "id": "31080",
+    "illustrator": "Zoe Cohen",
+    "position": 80,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "enigma",
+    "card_set_id": "system_update_2021",
+    "flavor": "No runner sees the same thing. Some say it’s a beast, others a man. But they all agree that it smells blue, and tastes like eternity.",
+    "id": "31081",
+    "illustrator": "Benjamin Giletti",
+    "position": 81,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "subliminal_messaging",
+    "card_set_id": "system_update_2021",
+    "flavor": "You don’t notice, but their profits do.",
+    "id": "31082",
+    "illustrator": "Seojun Park",
+    "position": 82,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  }
+]

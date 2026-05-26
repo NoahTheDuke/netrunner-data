@@ -1,0 +1,16 @@
+{
+  "card_type_id": "hardware",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "methuselah",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+1 mu Whenever a run begins, you may trash 1 piece of hardware from your grip to place 2 credits on this hardware. You can spend hosted credits during runs. Limit 1 console per player.",
+  "stripped_title": "Methuselah",
+  "subtypes": ["console", "stealth"],
+  "text": "+1[mu]\nWhenever a run begins, you may trash 1 piece of hardware from your grip to place 2[credit] on this hardware.\nYou can spend hosted credits during runs.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Methuselah"
+}

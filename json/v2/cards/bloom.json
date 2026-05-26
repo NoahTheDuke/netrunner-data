@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "bloom",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine You may install 1 piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
+  "stripped_title": "Bloom",
+  "subtypes": ["code_gate", "observer"],
+  "text": "[subroutine] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
+  "title": "Bloom"
+}

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "oracle_may",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "You cannot use this resource more than once per turn. click: Choose a card type. Reveal the top card of your stack. If that card has the chosen type, draw it and gain 2[credit]. Otherwise, trash it.",
+  "stripped_title": "Oracle May",
+  "subtypes": ["connection"],
+  "text": "You cannot use this resource more than once per turn.\n[click]<strong>:</strong> Choose a card type. Reveal the top card of your stack. If that card has the chosen type, draw it and gain 2[credit]. Otherwise, trash it.",
+  "title": "Oracle May"
+}

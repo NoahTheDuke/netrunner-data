@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "data_raven",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "When the Runner encounters this ice, they must take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace[3]. If successful, place 1 power counter on this ice.",
+  "stripped_title": "Data Raven",
+  "subtypes": ["sentry", "tracer", "observer"],
+  "text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] Trace[3]. If successful, place 1 power counter on this ice.",
+  "title": "Data Raven"
+}

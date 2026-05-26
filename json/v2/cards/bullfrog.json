@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "bullfrog",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Subroutine You and the Runner secretly spend 0 credits, 1 credit or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits and this ice is installed, move this ice to the outermost position protecting another server. (The run continues from this new position.)",
+  "stripped_title": "Bullfrog",
+  "subtypes": ["code_gate", "deflector", "psi"],
+  "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits and this ice is installed, move this ice to the outermost position protecting another server. <em>(The run continues from this new position.)</em>",
+  "title": "Bullfrog"
+}

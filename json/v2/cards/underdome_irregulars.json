@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "underdome_irregulars",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "When your action phase ends, if a piece of ice was rezzed this turn, draw 2 cards or remove 1 tag. If no ice was rezzed this turn, trash this resource.",
+  "stripped_title": "Underdome Irregulars",
+  "subtypes": ["connection"],
+  "text": "When your action phase ends, if a piece of ice was rezzed this turn, draw 2 cards or remove 1 tag. If no ice was rezzed this turn, trash this resource.",
+  "title": "Underdome Irregulars"
+}

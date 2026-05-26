@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "refractor",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 2,
+  "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +3 strength. Spend credits only from stealth cards to use this ability.",
+  "stripped_title": "Refractor",
+  "subtypes": ["icebreaker", "decoder"],
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Spend credits only from <strong>stealth</strong> cards to use this ability.",
+  "title": "Refractor"
+}

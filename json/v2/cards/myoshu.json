@@ -1,0 +1,17 @@
+{
+  "card_type_id": "operation",
+  "cost": 10,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "weyland_consortium",
+  "id": "myoshu",
+  "influence_cost": 4,
+  "is_unique": false,
+  "pronunciation_approx": "M(i)YO-shu",
+  "pronunciation_ipa": "ˈmʲoː.ɕɯ",
+  "side_id": "corp",
+  "stripped_text": "Play only if you scored an agenda this turn that you did not install this turn. Add this operation to your score area as an agenda worth 2 agenda points.",
+  "stripped_title": "Myoshu",
+  "text": "Play only if you scored an agenda this turn that you did not install this turn.\nAdd this operation to your score area as an agenda worth 2 agenda points.",
+  "title": "Myōshu"
+}

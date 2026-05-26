@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "llds_energy_regulator",
+  "influence_cost": 1,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Interrupt -> 3[credit] or trash: Prevent a player from trashing 1 installed piece of hardware.",
+  "stripped_title": "LLDS Energy Regulator",
+  "text": "[interrupt] → <strong>3[credit]</strong> or [trash]<strong>:</strong> Prevent a player from trashing 1 installed piece of hardware.",
+  "title": "LLDS Energy Regulator"
+}

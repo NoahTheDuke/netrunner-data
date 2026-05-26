@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "afterimage",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 2,
+  "stripped_text": "Once per turn -> When you encounter a sentry, you may pay 2 credits to bypass it. Spend credits only from stealth cards to use this ability. Interface -> 1 credit: Break up to 2 sentry subroutines. 1 credit: +2 strength. Spend credits only from stealth cards to use this ability.",
+  "stripped_title": "Afterimage",
+  "subtypes": ["icebreaker", "killer"],
+  "text": "Once per turn → When you encounter a <strong>sentry</strong>, you may pay 2[credit] to bypass it. Spend credits only from <strong>stealth</strong> cards to use this ability.\nInterface → <strong>1[credit]:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n<strong>1[credit]:</strong> +2 strength. Spend credits only from <strong>stealth</strong> cards to use this ability.",
+  "title": "Afterimage"
+}

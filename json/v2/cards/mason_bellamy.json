@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "mason_bellamy",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose click.",
+  "stripped_title": "Mason Bellamy",
+  "subtypes": ["sysop"],
+  "text": "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose [click].",
+  "title": "Mason Bellamy",
+  "trash_cost": 3
+}

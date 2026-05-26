@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "sand_storm",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Subroutine If this ice is installed, move it to the outermost position protecting another server. (The run continues from this new position.) Trash this ice.",
+  "stripped_title": "Sand Storm",
+  "subtypes": ["trap", "deflector"],
+  "text": "[subroutine] If this ice is installed, move it to the outermost position protecting another server. <em>(The run continues from this new position.)</em> Trash this ice.",
+  "title": "Sand Storm"
+}

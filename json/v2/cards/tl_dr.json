@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "tl_dr",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Subroutine The next time the Runner encounters a piece of ice during this run, that ice gains a second copy of each of its subroutines (after the original subroutine) for the remainder of that encounter.",
+  "stripped_title": "TL;DR",
+  "subtypes": ["code_gate"],
+  "text": "[subroutine] The next time the Runner encounters a piece of ice during this run, that ice gains a second copy of each of its subroutines <em>(after the original subroutine)</em> for the remainder of that encounter.",
+  "title": "TL;DR"
+}

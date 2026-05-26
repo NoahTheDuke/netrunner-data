@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "laamb",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 2,
+  "side_id": "runner",
+  "strength": 2,
+  "stripped_text": "Once per turn -> When you encounter a piece of ice, you may pay 2[credit]. If you do, it gains barrier for the remainder of that encounter. Interface -> 2[credit]: Break any number of barrier subroutines. 3[credit]: +6 strength.",
+  "stripped_title": "Laamb",
+  "subtypes": ["icebreaker", "fracter"],
+  "text": "Once per turn → When you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>barrier</strong> for the remainder of that encounter.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>3[credit]:</strong> +6 strength.",
+  "title": "Laamb"
+}

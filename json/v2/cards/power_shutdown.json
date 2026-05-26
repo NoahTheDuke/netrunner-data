@@ -1,0 +1,16 @@
+{
+  "card_type_id": "operation",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "power_shutdown",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if the Runner made a run during their last turn. Trash any number of cards from the top of R&D. The Runner trashes an installed program or piece of hardware with an install cost equal to or less than the number of cards you trashed this way.",
+  "stripped_title": "Power Shutdown",
+  "subtypes": ["gray_ops"],
+  "text": "Play only if the Runner made a run during their last turn.\nTrash any number of cards from the top of R&D. The Runner trashes an installed program or piece of hardware with an install cost equal to or less than the number of cards you trashed this way.",
+  "title": "Power Shutdown"
+}

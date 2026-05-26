@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "temple_of_the_liberated_mind",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "click: Place 1 power counter on this resource. Once per turn -> Hosted power counter: Gain click. Use this ability only during your turn.",
+  "stripped_title": "Temple of the Liberated Mind",
+  "subtypes": ["location", "ritzy"],
+  "text": "[click]<strong>:</strong> Place 1 power counter on this resource.\nOnce per turn → <strong>Hosted power counter:</strong> Gain [click]. Use this ability only during your turn.",
+  "title": "Temple of the Liberated Mind"
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "card_id": "run_amok",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"While there have been other anti-corporation movements before, like the Maroon Wave, this new one is different. It's organized.\" -Ramesh Gupta, One World Economy",
+    "id": "10001",
+    "illustrator": "RC Torres",
+    "position": 1,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "ramujan_reliant_550_bmi",
+    "card_set_id": "kala_ghoda",
+    "id": "10002",
+    "illustrator": "Kate Laird",
+    "position": 2,
+    "quantity": 6,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "street_magic",
+    "card_set_id": "kala_ghoda",
+    "flavor": "The greatest trick is not the trick itself, but in making someone believe that it is no trick at all. To your average sysop, it's magic. To your average runner, it's a closely held trade secret.",
+    "id": "10003",
+    "illustrator": "Shawn Ye Zhongyi",
+    "position": 3,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "high_stakes_job",
+    "card_set_id": "kala_ghoda",
+    "id": "10004",
+    "illustrator": "Adam S. Doyle",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "mongoose",
+    "card_set_id": "kala_ghoda",
+    "flavor": "It is the hardest thing in the world to frighten a mongoose, because he is eaten up from nose to tail with curiosity. The motto of all the mongoose family is \"Run and find out\". -Rudyard Kipling, Rikki-Tikki-Tavi",
+    "id": "10005",
+    "illustrator": "Hannah Christenson",
+    "position": 5,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "jesminder_sareen_girl_behind_the_curtain",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"Mirrormode on.\"",
+    "id": "10006",
+    "illustrator": "Adam Schumpert",
+    "position": 6,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "maya",
+    "card_set_id": "kala_ghoda",
+    "id": "10007",
+    "illustrator": "Adam Schumpert",
+    "position": 7,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "panchatantra",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"The basics should be like the stories you learned as a child—unconscious, never forgotten, and suddenly relevant at the most random times.\" -g00ru",
+    "id": "10008",
+    "illustrator": "Hannah Christenson",
+    "position": 8,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "artist_colony",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"We can forgive a man for making a useful thing as long as he does not admire it. The only excuse for making a useless thing is that one admires it intensely.\" -Oscar Wilde",
+    "id": "10009",
+    "illustrator": "Johan Törnlund",
+    "position": 9,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "chatterjee_university",
+    "card_set_id": "kala_ghoda",
+    "flavor": "Legions of software engineers have been manufactured within its halls.",
+    "id": "10010",
+    "illustrator": "Johan Törnlund",
+    "position": 10,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "advanced_concept_hopper",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"I don't want a hopper. I've never even owned one. But every time I jack in, that same damn ad loads.\" -2xTiger",
+    "id": "10011",
+    "illustrator": "BalanceSheet",
+    "position": 11,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "vikram_1_0",
+    "card_set_id": "kala_ghoda",
+    "id": "10012",
+    "illustrator": "Donald Crank",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "heritage_committee",
+    "card_set_id": "kala_ghoda",
+    "flavor": "It is only by respecting the past that we can build a better future.",
+    "id": "10013",
+    "illustrator": "Anastasia Ovchinnikova",
+    "position": 13,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "mumbad_city_grid",
+    "card_set_id": "kala_ghoda",
+    "id": "10014",
+    "illustrator": "Zach Graves",
+    "position": 14,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "kala_ghoda_real_tv",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"A new property has two, maybe three hours. If it doesn't sell, cut it and move on.\"",
+    "id": "10015",
+    "illustrator": "Stéphane Gantiez",
+    "position": 15,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "interrupt_0",
+    "card_set_id": "kala_ghoda",
+    "id": "10016",
+    "illustrator": "Adam S. Doyle",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "dedication_ceremony",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"Never cut the ribbon until you have something to show off.\" -Eta Shah, VP Global Expansion",
+    "id": "10017",
+    "illustrator": "Odera Igbokwe",
+    "position": 17,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "mumba_temple",
+    "card_set_id": "kala_ghoda",
+    "flavor": "Those who are the wisest know the least.",
+    "id": "10018",
+    "illustrator": "Yog Joshi",
+    "position": 18,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "museum_of_history",
+    "card_set_id": "kala_ghoda",
+    "flavor": "\"And here we see the Polar Bear, once the largest land carnivore on Earth.\"",
+    "id": "10019",
+    "illustrator": "Sander Mosk",
+    "position": 19,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  }
+]

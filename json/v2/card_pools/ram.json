@@ -1,0 +1,170 @@
+[
+  {
+    "card_set_ids": [
+      "business_first",
+      "chrome_city",
+      "core_set",
+      "daedalus_complex",
+      "double_time",
+      "downfall",
+      "escalation",
+      "humanitys_shadow",
+      "mala_tempora",
+      "martial_law",
+      "quorum",
+      "system_gateway",
+      "up_and_over",
+      "upstalk"
+    ],
+    "format_id": "ram",
+    "id": "ram_0",
+    "name": "RAM 0"
+  },
+  {
+    "card_set_ids": [
+      "creation_and_control",
+      "daedalus_complex",
+      "down_the_white_nile",
+      "downfall",
+      "earths_scion",
+      "escalation",
+      "fear_and_loathing",
+      "honor_and_profit",
+      "kampala_ascendent",
+      "martial_law",
+      "quorum",
+      "up_and_over",
+      "what_lies_ahead",
+      "whispers_in_nalubaale"
+    ],
+    "format_id": "ram",
+    "id": "ram_1",
+    "name": "RAM 1"
+  },
+  {
+    "card_set_ids": [
+      "all_that_remains",
+      "blood_and_water",
+      "breaker_bay",
+      "chrome_city",
+      "core_set",
+      "humanitys_shadow",
+      "intervention",
+      "opening_moves",
+      "revised_core_set",
+      "the_devil_and_the_dragon",
+      "the_underway",
+      "the_universe_of_tomorrow",
+      "trace_amount",
+      "uprising"
+    ],
+    "format_id": "ram",
+    "id": "ram_2",
+    "name": "RAM 2"
+  },
+  {
+    "card_set_ids": [
+      "a_study_in_static",
+      "business_first",
+      "creation_and_control",
+      "crimson_dust",
+      "fear_the_masses",
+      "first_contact",
+      "mala_tempora",
+      "old_hollywood",
+      "quorum",
+      "reign_and_reverie",
+      "sovereign_sight",
+      "the_liberated_mind",
+      "true_colors",
+      "upstalk"
+    ],
+    "format_id": "ram",
+    "id": "ram_3",
+    "name": "RAM 3"
+  },
+  {
+    "card_set_ids": [
+      "blood_and_water",
+      "council_of_the_crest",
+      "cyber_exodus",
+      "daedalus_complex",
+      "data_and_destiny",
+      "fear_and_loathing",
+      "honor_and_profit",
+      "kala_ghoda",
+      "magnum_opus_reprint",
+      "martial_law",
+      "salvaged_memories",
+      "second_thoughts",
+      "the_valley",
+      "up_and_over"
+    ],
+    "format_id": "ram",
+    "id": "ram_4",
+    "name": "RAM 4"
+  },
+  {
+    "card_set_ids": [
+      "23_seconds",
+      "all_that_remains",
+      "core_set",
+      "future_proof",
+      "mala_tempora",
+      "old_hollywood",
+      "reign_and_reverie",
+      "salsette_island",
+      "station_one",
+      "the_devil_and_the_dragon",
+      "the_source",
+      "the_underway",
+      "upstalk",
+      "what_lies_ahead"
+    ],
+    "format_id": "ram",
+    "id": "ram_5",
+    "name": "RAM 5"
+  },
+  {
+    "card_set_ids": [
+      "chrome_city",
+      "data_and_destiny",
+      "double_time",
+      "earths_scion",
+      "fear_and_loathing",
+      "intervention",
+      "kala_ghoda",
+      "quorum",
+      "salvaged_memories",
+      "second_thoughts",
+      "sovereign_sight",
+      "system_gateway",
+      "up_and_over",
+      "whispers_in_nalubaale"
+    ],
+    "format_id": "ram",
+    "id": "ram_6",
+    "name": "RAM 6"
+  },
+  {
+    "card_set_ids": [
+      "all_that_remains",
+      "creation_and_control",
+      "daedalus_complex",
+      "fear_the_masses",
+      "magnum_opus_reprint",
+      "opening_moves",
+      "quorum",
+      "revised_core_set",
+      "salsette_island",
+      "salvaged_memories",
+      "the_devil_and_the_dragon",
+      "the_liberated_mind",
+      "up_and_over",
+      "upstalk"
+    ],
+    "format_id": "ram",
+    "id": "ram_7",
+    "name": "RAM 7"
+  }
+]

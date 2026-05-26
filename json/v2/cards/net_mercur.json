@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "net_mercur",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "The first time you spend credits from a stealth card during each run, place 1 credit on this resource or draw 1 card. You can spend hosted credits for anything.",
+  "stripped_title": "Net Mercur",
+  "subtypes": ["stealth", "virtual"],
+  "text": "The first time you spend credits from a <strong>stealth</strong> card during each run, place 1[credit] on this resource or draw 1 card.\nYou can spend hosted credits for anything.",
+  "title": "Net Mercur"
+}

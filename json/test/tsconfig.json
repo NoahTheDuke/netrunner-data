@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "isolatedModules": false,
+    "strictPropertyInitialization": false,
+    "typeRoots": ["../node_modules/@types"]
+  },
+  "exclude": ["../node_modules"],
+  "extends": "../tsconfig.json",
+  "include": ["./**/*.ts"]
+}

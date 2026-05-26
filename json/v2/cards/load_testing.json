@@ -1,0 +1,15 @@
+{
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "load_testing",
+  "influence_cost": 5,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When the Runner's next turn begins, they lose click.",
+  "stripped_title": "Load Testing",
+  "text": "When the Runner's next turn begins, they lose [click].",
+  "title": "Load Testing"
+}

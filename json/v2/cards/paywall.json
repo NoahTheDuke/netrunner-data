@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "paywall",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "When the Runner encounters this ice, they lose 1 credit. Subroutine End the run unless the Runner pays 1 credit.",
+  "stripped_title": "Paywall",
+  "subtypes": ["barrier"],
+  "text": "When the Runner encounters this ice, they lose 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit].",
+  "title": "Paywall"
+}

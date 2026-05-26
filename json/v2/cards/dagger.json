@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "dagger",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 0,
+  "stripped_text": "Interface -> 1 credit: Break 1 sentry subroutine. 1 credit: +5 strength. Spend credits only from stealth cards to use this ability.",
+  "stripped_title": "Dagger",
+  "subtypes": ["icebreaker", "killer"],
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +5 strength. Spend credits only from <strong>stealth</strong> cards to use this ability.",
+  "title": "Dagger"
+}

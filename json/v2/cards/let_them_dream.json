@@ -1,0 +1,17 @@
+{
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "neutral_corp",
+  "id": "let_them_dream",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, you may search HQ, R&D, or Archives for 1 agenda and reveal it. (Shuffle R&D after searching it.) Add that agenda to HQ or the bottom of R&D. While this agenda is in the Runner's score area, it is worth 1 less agenda point.",
+  "stripped_title": "Let Them Dream",
+  "subtypes": ["initiative"],
+  "text": "When you score this agenda, you may search HQ, R&D, or Archives for 1 agenda and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that agenda to HQ or the bottom of R&D.\nWhile this agenda is in the Runner’s score area, it is worth 1 less agenda point.",
+  "title": "Let Them Dream"
+}

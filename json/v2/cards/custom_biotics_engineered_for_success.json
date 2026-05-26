@@ -1,0 +1,16 @@
+{
+  "card_type_id": "corp_identity",
+  "deck_limit": 1,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "custom_biotics_engineered_for_success",
+  "influence_limit": 22,
+  "is_unique": false,
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "You cannot include Jinteki cards in this deck.",
+  "stripped_title": "Custom Biotics: Engineered for Success",
+  "subtypes": ["division"],
+  "text": "You cannot include Jinteki cards in this deck.",
+  "title": "Custom Biotics: Engineered for Success"
+}

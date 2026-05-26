@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "anarch",
+  "id": "lampades",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "When you install this program, place 3 power counters on it. Access -> Hosted power counter, pay the printed rez or play cost of the card you are accessing: Trash that card. Spend credits only from stealth cards to use this ability.",
+  "stripped_title": "Lampades",
+  "text": "When you install this program, place 3 power counters on it.\nAccess → <strong>Hosted power counter</strong>, <strong>pay the printed rez or play cost of the card you are accessing:</strong> Trash that card. Spend credits only from <strong>stealth</strong> cards to use this ability.",
+  "title": "Lampades"
+}

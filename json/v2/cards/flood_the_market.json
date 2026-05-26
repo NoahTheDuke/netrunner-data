@@ -1,0 +1,16 @@
+{
+  "card_type_id": "operation",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "flood_the_market",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to play this operation, spend click. Choose 1 installed card you can advance. Place 1 advancement counter on that card for each remote server that has a card in its root and is protected by ice.",
+  "stripped_title": "Flood the Market",
+  "subtypes": ["double"],
+  "text": "As an additional cost to play this operation, spend [click].\nChoose 1 installed card you can advance. Place 1 advancement counter on that card for each remote server that has a card in its root and is protected by ice.",
+  "title": "Flood the Market"
+}

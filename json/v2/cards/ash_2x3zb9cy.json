@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "ash_2x3zb9cy",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+  "stripped_title": "Ash 2X3ZB9CY",
+  "subtypes": ["bioroid"],
+  "text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+  "title": "Ash 2X3ZB9CY",
+  "trash_cost": 3
+}

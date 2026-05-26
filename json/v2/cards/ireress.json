@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "ireress",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "This ice gains \"Subroutine The Runner loses 1 credit.\" for each bad publicity you have.",
+  "stripped_title": "Ireress",
+  "subtypes": ["code_gate"],
+  "text": "This ice gains \"[subroutine] The Runner loses 1[credit].\" for each bad publicity you have.",
+  "title": "Ireress"
+}

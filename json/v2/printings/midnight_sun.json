@@ -1,0 +1,641 @@
+[
+  {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "card_set_id": "midnight_sun",
+    "flavor": "Waiting is useless. The crisis is here; pick a side.",
+    "id": "33001",
+    "illustrator": "Benjamin Giletti",
+    "position": 1,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "chastushka",
+    "card_set_id": "midnight_sun",
+    "flavor": "We're all alike down here\nAndroids are friends we salute\nGive us all a f***ing break\nOl' Jack is the s*** on my boot.",
+    "id": "33002",
+    "illustrator": "Adam S. Doyle",
+    "position": 2,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "running_hot",
+    "card_set_id": "midnight_sun",
+    "flavor": "We can change the world, if we're willing to be changed in return.",
+    "id": "33003",
+    "illustrator": "Elizaveta Sokolova",
+    "position": 3,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "steelskin_scarring",
+    "card_set_id": "midnight_sun",
+    "flavor": "Reactive implants reclaim the memories of our fallen comrades. Their sacrifice is our shield.",
+    "id": "33004",
+    "illustrator": "Elliott Birt",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ghosttongue",
+    "card_set_id": "midnight_sun",
+    "flavor": "Arming the resistance with disarming charm.",
+    "id": "33005",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 5,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "marrow",
+    "card_set_id": "midnight_sun",
+    "id": "33006",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 6,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "begemot",
+    "card_set_id": "midnight_sun",
+    "flavor": "He didn't speak, but I knew exactly what he wanted, and what I had to do.",
+    "id": "33007",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 7,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "avgustina_ivanovskaya",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Sometimes being a union rep calls for action even more... direct.\"",
+    "id": "33008",
+    "illustrator": "Dave Lee",
+    "position": 8,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "light_the_fire",
+    "card_set_id": "midnight_sun",
+    "flavor": "A single spark is all that it takes to destroy billions of credits... or to burn away the rot that ravages our world.",
+    "id": "33009",
+    "illustrator": "Olie Boldador",
+    "position": 9,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "the_twinning",
+    "card_set_id": "midnight_sun",
+    "flavor": "All is folding back, ever back; together as one.",
+    "id": "33010",
+    "illustrator": "Adam S. Doyle",
+    "position": 10,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
+    "card_set_id": "midnight_sun",
+    "flavor": "Flaws hold both beauty and opportunity.",
+    "id": "33011",
+    "illustrator": "Benjamin Giletti",
+    "position": 11,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "carpe_diem",
+    "card_set_id": "midnight_sun",
+    "flavor": "The best moment to listen is when others are listening to you.",
+    "id": "33012",
+    "illustrator": "Benjamin Giletti",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "pinhole_threading",
+    "card_set_id": "midnight_sun",
+    "flavor": "Neneciğim would be proud.",
+    "id": "33013",
+    "illustrator": "Bruno Balixa",
+    "position": 13,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "pan_weave",
+    "card_set_id": "midnight_sun",
+    "flavor": "Skimming credits with the slightest touch.",
+    "id": "33014",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 14,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "virtuoso",
+    "card_set_id": "midnight_sun",
+    "id": "33015",
+    "illustrator": "Zoe Cohen",
+    "position": 15,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "cats_cradle",
+    "card_set_id": "midnight_sun",
+    "flavor": "I can show you a carpet, a fish, a magical tale...",
+    "id": "33016",
+    "illustrator": "Bruno Balixa",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "cezve",
+    "card_set_id": "midnight_sun",
+    "flavor": "The feel of flour-fine coffee, the scent of caramelizing sugar, the gentle heat of the flame. A ritual I never forget.",
+    "id": "33017",
+    "illustrator": "Bruno Balixa",
+    "position": 17,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "revolver",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Aim with your eye. Shoot with your mind. Break with your soul.\"\n–Sundog",
+    "id": "33018",
+    "illustrator": "Bruno Balixa",
+    "position": 18,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "backstitching",
+    "card_set_id": "midnight_sun",
+    "flavor": "One step back. Take cover. Two steps forward. Repeat, then secure well.",
+    "id": "33019",
+    "illustrator": "Adam S. Doyle",
+    "position": 19,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "no_free_lunch",
+    "card_set_id": "midnight_sun",
+    "flavor": "If there's anything to be learned from our android cousins, it's that there's no shortcut to perfection. Consider all your options.",
+    "id": "33020",
+    "illustrator": "Bruno Balixa",
+    "position": 20,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "captain_padma_isbister_intrepid_explorer",
+    "card_set_id": "midnight_sun",
+    "flavor": "The sea is everything; its breath must remain pure and healthy.",
+    "id": "33021",
+    "illustrator": "Benjamin Giletti",
+    "position": 21,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "deep_dive",
+    "card_set_id": "midnight_sun",
+    "id": "33022",
+    "illustrator": "Cat Shen",
+    "position": 22,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "into_the_depths",
+    "card_set_id": "midnight_sun",
+    "id": "33023",
+    "illustrator": "Kira L. Nguyen",
+    "position": 23,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "rigging_up",
+    "card_set_id": "midnight_sun",
+    "flavor": "Edie doesn't mind the noise. She's happy just being nearby.",
+    "id": "33024",
+    "illustrator": "Benjamin Giletti",
+    "position": 24,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "endurance",
+    "card_set_id": "midnight_sun",
+    "id": "33025",
+    "illustrator": "Anna Butova",
+    "position": 25,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hyperbaric",
+    "card_set_id": "midnight_sun",
+    "id": "33026",
+    "illustrator": "Cat Shen",
+    "position": 26,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "propeller",
+    "card_set_id": "midnight_sun",
+    "flavor": "Within netspace, tangible space can be manipulated as desired, and fluid dynamics rarely factors into ice development.",
+    "id": "33027",
+    "illustrator": "Cat Shen",
+    "position": 27,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "daeg_first_net_cat",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"That's him at the front, then there's Scout, Jonesy, Parker, Buča, Squee, Boots... you get the idea.\"",
+    "id": "33028",
+    "illustrator": "Cat Shen",
+    "position": 28,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "environmental_testing",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Why are we here? No one else is going to do independent testing, that's why.\"\n–Padma Isbister",
+    "id": "33029",
+    "illustrator": "Anna Butova",
+    "position": 29,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "stoneship_chart_room",
+    "card_set_id": "midnight_sun",
+    "flavor": "Every ship is a home, and every home needs a heart.",
+    "id": "33030",
+    "illustrator": "Elizaveta Sokolova",
+    "position": 30,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "elivagar_bifurcation",
+    "card_set_id": "midnight_sun",
+    "flavor": "Ancient paradoxes are children's stories to the greatest minds ever designed.",
+    "id": "33031",
+    "illustrator": "Scott Uminga",
+    "position": 31,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "midnight_3_arcology",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"The Midnight-3 glows with an inviting warmth that belies the broken promise within. All that awaits you there is a life of indentured servitude.\"\n–Sundog",
+    "id": "33032",
+    "illustrator": "Emilio Rodríguez",
+    "position": 32,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "refuge_campaign",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"The promise of a new home, safe work and friendly neighbors will draw in tens of thousands of eco-refugees, no matter which corner of the world they are from.\"\n–Thule employee handbook",
+    "id": "33033",
+    "illustrator": "Kira L. Nguyen",
+    "position": 33,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "trieste_model_bioroids",
+    "card_set_id": "midnight_sun",
+    "flavor": "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.",
+    "id": "33034",
+    "illustrator": "Dimik",
+    "position": 34,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "echo",
+    "card_set_id": "midnight_sun",
+    "flavor": "End the run. End the run. End the run. End the run.",
+    "id": "33035",
+    "illustrator": "Jakuza",
+    "position": 35,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hakarl_1_0",
+    "card_set_id": "midnight_sun",
+    "id": "33036",
+    "illustrator": "Jakuza",
+    "position": 36,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "wave",
+    "card_set_id": "midnight_sun",
+    "flavor": "With networks, growth is exponential.",
+    "id": "33037",
+    "illustrator": "Jakuza",
+    "position": 37,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "big_deal",
+    "card_set_id": "midnight_sun",
+    "id": "33038",
+    "illustrator": "Dimik",
+    "position": 38,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "blood_in_the_water",
+    "card_set_id": "midnight_sun",
+    "flavor": "Some tests require <strong>specific</strong> conditions.",
+    "id": "33039",
+    "illustrator": "Scott Uminga",
+    "position": 39,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "regenesis",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Esteemed guests, by the end of this demonstration you will see that extinction is now only a temporary state of affairs.\"\n–Vientiane Keeling",
+    "id": "33040",
+    "illustrator": "Anthony Hutchings",
+    "position": 40,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "bladderwort",
+    "card_set_id": "midnight_sun",
+    "flavor": "Prey and seawater sucked in, all in the space of a millisecond.",
+    "id": "33041",
+    "illustrator": "Jack Reeves",
+    "position": 41,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "moon_pool",
+    "card_set_id": "midnight_sun",
+    "id": "33042",
+    "illustrator": "Olie Boldador",
+    "position": 42,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "anemone",
+    "card_set_id": "midnight_sun",
+    "flavor": "Ethereal beauty laced with the most elegant venom.",
+    "id": "33043",
+    "illustrator": "Jack Reeves",
+    "position": 43,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "bathynomus",
+    "card_set_id": "midnight_sun",
+    "flavor": "Digital refuse is their food, and you should never come between an animal and its food.",
+    "id": "33044",
+    "illustrator": "Jack Reeves",
+    "position": 44,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ivik",
+    "card_set_id": "midnight_sun",
+    "flavor": "Keep off the grass.",
+    "id": "33045",
+    "illustrator": "Jack Reeves",
+    "position": 45,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "mitosis",
+    "card_set_id": "midnight_sun",
+    "flavor": "One becomes many.",
+    "id": "33046",
+    "illustrator": "Emilio Rodríguez",
+    "position": 46,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "mavirus",
+    "card_set_id": "midnight_sun",
+    "flavor": "Viruses, runners; all are food to them.",
+    "id": "33047",
+    "illustrator": "Jack Reeves",
+    "position": 47,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "pravdivost_consulting_political_solutions",
+    "card_set_id": "midnight_sun",
+    "flavor": "Political news, fit for public consumption.",
+    "id": "33048",
+    "illustrator": "Emilio Rodríguez",
+    "position": 48,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "artificial_cryptocrash",
+    "card_set_id": "midnight_sun",
+    "flavor": "The line goes up... until we don't need it to anymore.",
+    "id": "33049",
+    "illustrator": "Wyn Lacabra",
+    "position": 49,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "chekist_scion",
+    "card_set_id": "midnight_sun",
+    "flavor": "The only thing that changes is the uniform.",
+    "id": "33050",
+    "illustrator": "Dimik",
+    "position": 50,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "drago_ivanov",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Tell them Drago would like a word.\"",
+    "id": "33051",
+    "illustrator": "Dimik",
+    "position": 51,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ubiquitous_vig",
+    "card_set_id": "midnight_sun",
+    "flavor": "They say they'll only take a handful, but oh what big hands they have!",
+    "id": "33052",
+    "illustrator": "Adam S. Doyle",
+    "position": 52,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "mestnichestvo",
+    "card_set_id": "midnight_sun",
+    "flavor": "Names of old carry little weight today, their legacies broken and swept away. Now, we are the rulers of truth.",
+    "id": "33053",
+    "illustrator": "BalanceSheet",
+    "position": 53,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "vasilisa",
+    "card_set_id": "midnight_sun",
+    "flavor": "No task the witch set would ever be too great, for Vasilisa had her mother's blessing.",
+    "id": "33054",
+    "illustrator": "BalanceSheet",
+    "position": 54,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "backroom_machinations",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Recording devices at the door, please!\"",
+    "id": "33055",
+    "illustrator": "Olie Boldador",
+    "position": 55,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "vladisibirsk_city_grid",
+    "card_set_id": "midnight_sun",
+    "flavor": "Straddling the banks of the Ob River, this metropolis contains hope for a better tomorrow.",
+    "id": "33056",
+    "illustrator": "Kira L. Nguyen",
+    "position": 56,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "card_set_id": "midnight_sun",
+    "flavor": "Take all that is offered, and more.",
+    "id": "33057",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 57,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "azef_protocol",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\"\n–Yakov Avdakov",
+    "id": "33058",
+    "illustrator": "Benjamin Giletti",
+    "position": 58,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "svyatogor_excavator",
+    "card_set_id": "midnight_sun",
+    "flavor": "It doesn't matter how long you've owned the land, you'd better hope there's nothing valuable beneath.",
+    "id": "33059",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 59,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "envelopment",
+    "card_set_id": "midnight_sun",
+    "id": "33060",
+    "illustrator": "Scott Uminga",
+    "position": 60,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "maskirovka",
+    "card_set_id": "midnight_sun",
+    "flavor": "Confound the runner so that they cannot see our true intent.",
+    "id": "33061",
+    "illustrator": "Scott Uminga",
+    "position": 61,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "stavka",
+    "card_set_id": "midnight_sun",
+    "flavor": "Centuries of military tactics compressed into a single entity.",
+    "id": "33062",
+    "illustrator": "Scott Uminga",
+    "position": 62,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "extract",
+    "card_set_id": "midnight_sun",
+    "flavor": "Leave nothing of value behind.",
+    "id": "33063",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 63,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "mutually_assured_destruction",
+    "card_set_id": "midnight_sun",
+    "id": "33064",
+    "illustrator": "Dimik",
+    "position": 64,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "trust_operation",
+    "card_set_id": "midnight_sun",
+    "flavor": "Identify. Contact. Entrap. Counterintelligence never changes.",
+    "id": "33065",
+    "illustrator": "Olie Boldador",
+    "position": 65,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  }
+]

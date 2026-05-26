@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "bazaar",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
+  "stripped_title": "Bazaar",
+  "subtypes": ["location", "ritzy"],
+  "text": "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
+  "title": "Bazaar"
+}

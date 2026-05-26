@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "kompromat",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run a server protected by ice. When that run ends, if it was successful, give the Corp 1 bad publicity unless they derez 1 piece of ice protecting the attacked server. Remove this event from the game.",
+  "stripped_title": "Kompromat",
+  "subtypes": ["run"],
+  "text": "Run a server protected by ice. When that run ends, if it was successful, give the Corp 1 bad publicity unless they derez 1 piece of ice protecting the attacked server.\nRemove this event from the game.",
+  "title": "Kompromat"
+}

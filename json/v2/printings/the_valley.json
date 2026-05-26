@@ -1,0 +1,207 @@
+[
+  {
+    "card_id": "clot",
+    "card_set_id": "the_valley",
+    "id": "08001",
+    "illustrator": "Adam S. Doyle",
+    "position": 1,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "paige_piper",
+    "card_set_id": "the_valley",
+    "flavor": "\"The Valley is littered with good ideas. You need the discipline to execute if you want to stay in my incubator.\"",
+    "id": "08002",
+    "illustrator": "Wenjuinn Png",
+    "position": 2,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "adjusted_chronotype",
+    "card_set_id": "the_valley",
+    "flavor": "Turns a night owl into an early bird!",
+    "id": "08003",
+    "illustrator": "Crystal Ben",
+    "position": 3,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "spike",
+    "card_set_id": "the_valley",
+    "id": "08004",
+    "illustrator": "Ed Mattinian",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "enhanced_vision",
+    "card_set_id": "the_valley",
+    "flavor": "Watch out fellas, this little lady's on the prowl!",
+    "id": "08005",
+    "illustrator": "Diana Martinez",
+    "position": 5,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "gene_conditioning_shoppe",
+    "card_set_id": "the_valley",
+    "flavor": "\"These g-mods haven't hit the consumer market yet, but I can hook you up.\"",
+    "id": "08006",
+    "illustrator": "James Ives",
+    "position": 6,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "synthetic_blood",
+    "card_set_id": "the_valley",
+    "flavor": "Your heart deserves the best.",
+    "id": "08007",
+    "illustrator": "Ismael Bergara",
+    "position": 7,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "traffic_jam",
+    "card_set_id": "the_valley",
+    "id": "08008",
+    "illustrator": "BalanceSheet",
+    "position": 8,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "symmetrical_visage",
+    "card_set_id": "the_valley",
+    "flavor": "Born for success!",
+    "id": "08009",
+    "illustrator": "Tim Durning",
+    "position": 9,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "brain_taping_warehouse",
+    "card_set_id": "the_valley",
+    "flavor": "In the vast universe of memories, consciousness slumbers...",
+    "id": "08010",
+    "illustrator": "Maciej Rebisz",
+    "position": 10,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "next_gold",
+    "card_set_id": "the_valley",
+    "flavor": "\"God in Heinlein. What's next, NEXT Platinum?\" -John Masanori",
+    "id": "08011",
+    "illustrator": "Ed Mattinian",
+    "position": 11,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "jinteki_biotech_life_imagined",
+    "card_set_id": "the_valley",
+    "faces": [
+      {
+        "flavor": "The vats in Building C can create-and destroy-life itself."
+      },
+      {
+        "flavor": "The best and brightest genengineers spends their days in the Tank dreaming up a better world."
+      },
+      {
+        "flavor": "The Greenhouse was built to enhance natural beauty."
+      }
+    ],
+    "id": "08012",
+    "illustrator": "Emilio Rodríguez",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "genetic_resequencing",
+    "card_set_id": "the_valley",
+    "flavor": "\"The best part of our work is that nothing is ever wasted. A gene that is useful once will surely be useful again.\" -Wong Ya Ching",
+    "id": "08013",
+    "illustrator": "Rovina Cai",
+    "position": 13,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "cortex_lock",
+    "card_set_id": "the_valley",
+    "flavor": "The more power a spike process can use, the harder it can hit. The really clever ones borrow the runner's own memory to iterate locally.",
+    "id": "08014",
+    "illustrator": "Tadas Sidlauskas",
+    "position": 14,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "valley_grid",
+    "card_set_id": "the_valley",
+    "id": "08015",
+    "illustrator": "Simon Weaner",
+    "position": 15,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "bandwidth",
+    "card_set_id": "the_valley",
+    "flavor": "\"It tracks you and logs you. If you get in you can just delete the log. But first you have to get in.\" -Gabriel Santiago",
+    "id": "08016",
+    "illustrator": "Seage",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "predictive_algorithm",
+    "card_set_id": "the_valley",
+    "id": "08017",
+    "illustrator": "Ethan Patrick Harris",
+    "position": 17,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "capital_investors",
+    "card_set_id": "the_valley",
+    "flavor": "Give a man money, and he is rich for a day. Teach a man how to invest, and he is rich for life.",
+    "id": "08018",
+    "illustrator": "Lili Ibrahim",
+    "position": 18,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "negotiator",
+    "card_set_id": "the_valley",
+    "flavor": "\"Negotiation is an art, so never negotiate when you can intimidate instead.\" -Thiago Reyes, VP Strategic Operations",
+    "id": "08019",
+    "illustrator": "Andreas Zafiratos",
+    "position": 19,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "tech_startup",
+    "card_set_id": "the_valley",
+    "flavor": "\"Don't worry. If this one fails, we can start a new one tomorrow.\"",
+    "id": "08020",
+    "illustrator": "Del Borovic",
+    "position": 20,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  }
+]

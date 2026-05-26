@@ -1,0 +1,18 @@
+{
+  "base_link": 0,
+  "card_type_id": "runner_identity",
+  "deck_limit": 1,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "the_masque_cyber_general",
+  "influence_limit": null,
+  "is_unique": false,
+  "minimum_deck_size": 30,
+  "mu_limit": 4,
+  "side_id": "runner",
+  "stripped_text": "Draft format only.",
+  "stripped_title": "The Masque: Cyber General",
+  "subtypes": ["natural"],
+  "text": "Draft format only.",
+  "title": "The Masque: Cyber General"
+}

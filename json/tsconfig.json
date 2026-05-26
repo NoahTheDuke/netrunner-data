@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "incremental": true,
+    "lib": ["ES2022"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "removeComments": true,
+    "rootDir": "src",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "target": "ESNext",
+    "typeRoots": ["node_modules/@types", "src/types"],
+    "types": ["node"]
+  },
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "include": ["src/**/*"]
+}

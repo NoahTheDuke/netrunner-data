@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "anarch",
+  "id": "stimhack",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.",
+  "stripped_title": "Stimhack",
+  "subtypes": ["run"],
+  "text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.",
+  "title": "Stimhack"
+}

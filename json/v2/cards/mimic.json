@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "anarch",
+  "id": "mimic",
+  "influence_cost": 1,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 3,
+  "stripped_text": "Interface -> 1 credit: Break 1 sentry subroutine.",
+  "stripped_title": "Mimic",
+  "subtypes": ["icebreaker", "killer"],
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.",
+  "title": "Mimic"
+}

@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "komainu",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "When the Runner encounters this ice, it gains X \"Subroutine Do 1 net damage.\" subroutines for the remainder of this run. X is equal to the number of cards in the grip.",
+  "stripped_title": "Komainu",
+  "subtypes": ["sentry", "ap"],
+  "text": "When the Runner encounters this ice, it gains X \"[subroutine] Do 1 net damage.\" subroutines for the remainder of this run. X is equal to the number of cards in the grip.",
+  "title": "Komainu"
+}

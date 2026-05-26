@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "howler",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 0,
+  "stripped_text": "Subroutine You may install and rez 1 piece of bioroid ice from HQ or Archives directly inward from this ice, ignoring all costs. When this run ends, if you installed a piece of ice this way, trash this ice and derez the ice you installed.",
+  "stripped_title": "Howler",
+  "subtypes": ["trap"],
+  "text": "[subroutine] You may install and rez 1 piece of <strong>bioroid</strong> ice from HQ or Archives directly inward from this ice, ignoring all costs. When this run ends, if you installed a piece of ice this way, trash this ice and derez the ice you installed.",
+  "title": "Howler"
+}

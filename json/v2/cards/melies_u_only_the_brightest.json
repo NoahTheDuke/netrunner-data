@@ -1,0 +1,43 @@
+{
+  "card_type_id": "corp_identity",
+  "deck_limit": 1,
+  "designed_by": "null_signal_games",
+  "faces": [
+    {
+      "stripped_text": "When you flip this identity to this side during a run on HQ, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runner's discard phase ends, flip this identity.",
+      "stripped_title": "Tenure Floors: Melies U",
+      "subtypes": ["department"],
+      "text": "When you flip this identity to this side during a run on HQ, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity.",
+      "title": "Tenure Floors: Méliès U"
+    },
+    {
+      "stripped_text": "When you flip this identity to this side during a run on R&D, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runner's discard phase ends, flip this identity.",
+      "stripped_title": "Subsurface Labs: Melies U",
+      "subtypes": ["department"],
+      "text": "When you flip this identity to this side during a run on R&D, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity.",
+      "title": "Subsurface Labs: Méliès U"
+    },
+    {
+      "stripped_text": "When you flip this identity to this side during a run on Archives, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runner's discard phase ends, flip this identity.",
+      "stripped_title": "Disposal Grounds: Melies U",
+      "subtypes": ["department"],
+      "text": "When you flip this identity to this side during a run on Archives, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity.",
+      "title": "Disposal Grounds: Méliès U"
+    }
+  ],
+  "faction_id": "jinteki",
+  "id": "melies_u_only_the_brightest",
+  "influence_limit": 15,
+  "is_unique": false,
+  "layout_id": "facade",
+  "minimum_deck_size": 45,
+  "narrative_text": "Luna bears the scars of its past, and Méliès City was one among many. But this old grave became a megacorp opportunity: Jinteki credits rebuilt Méliès’s cracked domes, turning the ruins into the fastest-growing settlement on Lunar soil, and the perfect host to its new academic venture.\nIt’s not just a matter of shaping new graduates into Jinteki hires, or the achievement of building the largest biosupport surface dome on Luna. It also allows reclaiming underground spaces for live clone research, keeping it carefully hidden from regulators and ethics boards alike.",
+  "pronunciation_approx": "mel-YES",
+  "pronunciation_ipa": "melˈjɛs",
+  "side_id": "corp",
+  "stripped_text": "When your discard phase ends, secretly set your identity to any copy of Melies U: Only the Brightest. When the Runner makes a successful run on a central server, flip this identity. When the Runner's action phase ends, gain 1 credit.",
+  "stripped_title": "Melies U: Only the Brightest",
+  "subtypes": ["division"],
+  "text": "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner’s action phase ends, gain 1[credit].",
+  "title": "Méliès U: Only the Brightest"
+}

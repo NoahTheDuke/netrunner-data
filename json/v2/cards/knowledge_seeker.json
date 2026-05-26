@@ -1,0 +1,18 @@
+{
+  "attribution": "Designed by 2021 Asia-Pacific Champion William “Sokka” Huang",
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "jinteki",
+  "id": "knowledge_seeker",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Whenever an encounter with this ice ends, if it has 3 or more hosted virus counters, purge virus counters and derez this ice. Subroutine Place 1 virus counter on this ice. Subroutine Look at the top 4 cards of R&D and arrange them in any order. Subroutine End the run.",
+  "stripped_title": "Knowledge Seeker",
+  "subtypes": ["code_gate"],
+  "text": "Whenever an encounter with this ice ends, if it has 3 or more hosted virus counters, purge virus counters and derez this ice.\n[subroutine] Place 1 virus counter on this ice.\n[subroutine] Look at the top 4 cards of R&D and arrange them in any order.\n[subroutine] End the run.",
+  "title": "Knowledge Seeker"
+}

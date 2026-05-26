@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "stowaway",
+  "influence_cost": 1,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Install only on a piece of ice. Whenever you make a successful run on this server, gain 2 credits.",
+  "stripped_title": "Stowaway",
+  "subtypes": ["trojan"],
+  "text": "Install only on a piece of ice.\nWhenever you make a successful run on this server, gain 2[credit].",
+  "title": "Stowaway"
+}

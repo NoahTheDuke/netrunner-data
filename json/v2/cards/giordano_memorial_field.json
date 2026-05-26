@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "giordano_memorial_field",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever the Runner makes a successful run on this server, end the run unless they pay 2 credits for each agenda in their score area.",
+  "stripped_title": "Giordano Memorial Field",
+  "subtypes": ["facility"],
+  "text": "Whenever the Runner makes a successful run on this server, end the run unless they pay 2[credit] for each agenda in their score area.",
+  "title": "Giordano Memorial Field",
+  "trash_cost": 3
+}

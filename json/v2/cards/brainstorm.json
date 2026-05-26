@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 9,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "brainstorm",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "When the Runner encounters this ice, it gains X \"Subroutine Do 1 core damage.\" subroutines for the remainder of this run. X is equal to the number of cards in the grip.",
+  "stripped_title": "Brainstorm",
+  "subtypes": ["sentry", "ap"],
+  "text": "When the Runner encounters this ice, it gains X \"[subroutine] Do 1 core damage.\" subroutines for the remainder of this run. X is equal to the number of cards in the grip.",
+  "title": "Brainstorm"
+}

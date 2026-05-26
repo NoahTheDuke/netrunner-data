@@ -1,0 +1,61 @@
+{
+  "banned": ["salvaged_vanadis_armory"],
+  "date_start": "2021-07-10",
+  "format_id": "eternal",
+  "id": "eternal_points_list_1_0",
+  "name": "Eternal Points List, Version 1.0",
+  "point_limit": 7,
+  "points": {
+    "1": [
+      "24_7_news_cycle",
+      "aaron_marron",
+      "anoetic_void",
+      "bio_ethics_association",
+      "bloo_moose",
+      "breached_dome",
+      "breaking_news",
+      "caprice_nisei",
+      "counter_surveillance",
+      "deja_vu",
+      "employee_strike",
+      "kakugo",
+      "obokata_protocol",
+      "rumor_mill",
+      "scarcity_of_resources",
+      "shock",
+      "snitch",
+      "spin_doctor",
+      "sting",
+      "vamp",
+      "violet_level_clearance",
+      "whampoa_reclamation",
+      "zer0"
+    ],
+    "2": [
+      "accelerated_diagnostics",
+      "blackmail",
+      "cerebral_imaging_infinite_frontiers",
+      "clan_vengeance",
+      "crowdfunding",
+      "data_leak_reversal",
+      "ddos",
+      "estelle_moon",
+      "false_echo",
+      "friends_in_high_places",
+      "jackson_howard",
+      "mars_for_martians",
+      "mti_mwekundu_life_improved",
+      "mumbad_city_hall",
+      "power_shutdown",
+      "sensie_actors_union",
+      "sifr",
+      "tech_trader"
+    ],
+    "3": [
+      "account_siphon",
+      "hyperdriver",
+      "jinteki_potential_unleashed",
+      "temujin_contract"
+    ]
+  }
+}

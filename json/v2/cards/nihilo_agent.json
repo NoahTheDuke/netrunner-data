@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "nihilo_agent",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you rez this asset, load 3 power counters onto it. When it is empty, trash it. When your turn begins, remove 1 tag and 1 bad publicity. When your discard phase ends, give the Runner 1 tag, take 1 bad publicity, and remove 1 hosted power counter.",
+  "stripped_title": "Nihilo Agent",
+  "subtypes": ["enforcer", "liability"],
+  "text": "When you rez this asset, load 3 power counters onto it. When it is empty, trash it.\nWhen your turn begins, remove 1 tag and 1 bad publicity.\nWhen your discard phase ends, give the Runner 1 tag, take 1 bad publicity, and remove 1 hosted power counter.",
+  "title": "Nihilo Agent",
+  "trash_cost": 3
+}

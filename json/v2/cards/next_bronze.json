@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "next_bronze",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 0,
+  "stripped_text": "NEXT Bronze has +1 strength for each rezzed piece of NEXT ice. Subroutine End the run.",
+  "stripped_title": "NEXT Bronze",
+  "subtypes": ["code_gate", "next"],
+  "text": "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run.",
+  "title": "NEXT Bronze"
+}

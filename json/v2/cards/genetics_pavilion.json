@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "genetics_pavilion",
+  "influence_cost": 5,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "The Runner cannot draw more than 2 cards during each of their turns.",
+  "stripped_title": "Genetics Pavilion",
+  "subtypes": ["facility", "ritzy"],
+  "text": "The Runner cannot draw more than 2 cards during each of their turns.",
+  "title": "Genetics Pavilion",
+  "trash_cost": 5
+}

@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 7,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_corp",
+  "id": "assassin",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Subroutine Trace[5]. If successful, do 3 net damage. Subroutine Trace[4]. If successful, trash 1 program.",
+  "stripped_title": "Assassin",
+  "subtypes": ["sentry", "destroyer", "ap", "tracer"],
+  "text": "[subroutine] Trace[5]. If successful, do 3 net damage.\n[subroutine] Trace[4]. If successful, trash 1 program.",
+  "title": "Assassin"
+}

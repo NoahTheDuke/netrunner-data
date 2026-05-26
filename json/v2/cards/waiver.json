@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "waiver",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Subroutine Trace[5]. If successful, the Runner reveals the grip. Trash each card revealed this way with a play or install cost of X or less. X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
+  "stripped_title": "Waiver",
+  "subtypes": ["code_gate", "tracer"],
+  "text": "[subroutine] Trace[5]. If successful, the Runner reveals the grip. Trash each card revealed this way with a play or install cost of X or less. X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
+  "title": "Waiver"
+}

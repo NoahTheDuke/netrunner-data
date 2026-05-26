@@ -1,0 +1,59 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_sets_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": false,
+    "properties": {
+      "card_cycle_id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "card_set_type_id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "date_release": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "legacy_code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "position": {
+        "minimum": 1,
+        "type": "integer"
+      },
+      "released_by": {
+        "enum": ["fantasy_flight_games", "null_signal_games"],
+        "minLength": 1,
+        "type": "string"
+      },
+      "size": {
+        "minimum": 1,
+        "type": "integer"
+      }
+    },
+    "required": [
+      "card_cycle_id",
+      "card_set_type_id",
+      "date_release",
+      "id",
+      "legacy_code",
+      "name",
+      "position",
+      "released_by",
+      "size"
+    ],
+    "type": "object"
+  },
+  "type": "array"
+}

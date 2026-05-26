@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_corp",
+  "id": "weir",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine The Runner loses click. Subroutine The Runner trashes 1 card from their grip.",
+  "stripped_title": "Weir",
+  "subtypes": ["code_gate"],
+  "text": "[subroutine] The Runner loses [click].\n[subroutine] The Runner trashes 1 card from their grip.",
+  "title": "Weir"
+}

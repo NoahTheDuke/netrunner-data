@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "mad_dash",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run any server. When that run ends, if you stole an agenda during that run, add this event to your score area as an agenda worth 1 agenda point. Otherwise, suffer 1 meat damage.",
+  "stripped_title": "Mad Dash",
+  "subtypes": ["run"],
+  "text": "Run any server. When that run ends, if you stole an agenda during that run, add this event to your score area as an agenda worth 1 agenda point. Otherwise, suffer 1 meat damage.",
+  "title": "Mad Dash"
+}

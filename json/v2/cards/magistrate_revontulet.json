@@ -1,0 +1,19 @@
+{
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "magistrate_revontulet",
+  "influence_cost": 4,
+  "is_unique": true,
+  "pronunciation_approx": "RE-von-TOO-let",
+  "pronunciation_ipa": "ˈre.ʋonˌtu.let",
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to steal an agenda, the Runner must pay 3 credits. Whenever you score an agenda, the Runner loses 3 credits.",
+  "stripped_title": "Magistrate Revontulet",
+  "subtypes": ["executive"],
+  "text": "As an additional cost to steal an agenda, the Runner must pay 3[credit].\nWhenever you score an agenda, the Runner loses 3[credit].",
+  "title": "Magistrate Revontulet",
+  "trash_cost": 3
+}

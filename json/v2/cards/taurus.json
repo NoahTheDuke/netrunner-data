@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "taurus",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Subroutine Trace[2]. If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware.",
+  "stripped_title": "Taurus",
+  "subtypes": ["sentry", "tracer"],
+  "text": "[subroutine] Trace[2]. If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware.",
+  "title": "Taurus"
+}

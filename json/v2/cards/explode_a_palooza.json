@@ -1,0 +1,16 @@
+{
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "explode_a_palooza",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "While the Runner is accessing this agenda in R&D, they must reveal it. When the Runner accesses this agenda, you may gain 5 credits.",
+  "stripped_title": "Explode-a-palooza",
+  "subtypes": ["sensie"],
+  "text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda, you may gain 5[credit].",
+  "title": "Explode-a-palooza"
+}

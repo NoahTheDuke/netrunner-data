@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "haas_bioroid",
+  "id": "director_haas",
+  "influence_cost": 5,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "You get +1 allotted click for each of your turns. When this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
+  "stripped_title": "Director Haas",
+  "subtypes": ["executive"],
+  "text": "You get +1 allotted [click] for each of your turns.\nWhen this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
+  "title": "Director Haas",
+  "trash_cost": 5
+}

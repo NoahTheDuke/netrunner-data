@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "illegal_arms_factory",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, gain 1 credit and draw 1 card. When the Runner trashes this asset (while it is rezzed), take 1 bad publicity.",
+  "stripped_title": "Illegal Arms Factory",
+  "subtypes": ["facility", "liability"],
+  "text": "When your turn begins, gain 1[credit] and draw 1 card.\nWhen the Runner trashes this asset <em>(while it is rezzed)</em>, take 1 bad publicity.",
+  "title": "Illegal Arms Factory",
+  "trash_cost": 6
+}

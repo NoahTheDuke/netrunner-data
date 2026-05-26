@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "penrose",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 2,
+  "stripped_text": "Interface -> 1 credit: Break 1 barrier subroutine. Use this ability only if this program was installed this turn. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +3 strength. Spend credits only from stealth cards to use this ability.",
+  "stripped_title": "Penrose",
+  "subtypes": ["icebreaker", "decoder", "fracter"],
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine. Use this ability only if this program was installed this turn.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Spend credits only from <strong>stealth</strong> cards to use this ability.",
+  "title": "Penrose"
+}

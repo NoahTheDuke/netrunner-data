@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "jinteki",
+  "id": "marker",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine The next piece of ice the Runner encounters during this run gains \"Subroutine End the run.\" after its other subroutines for the remainder of that run.",
+  "stripped_title": "Marker",
+  "subtypes": ["code_gate"],
+  "text": "[subroutine] The next piece of ice the Runner encounters during this run gains \"[subroutine] End the run.\" after its other subroutines for the remainder of that run.",
+  "title": "Marker"
+}

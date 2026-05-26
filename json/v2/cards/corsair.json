@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "anarch",
+  "id": "corsair",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 0,
+  "stripped_text": "Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: The barrier you are encountering gets -3 strength for the remainder of this encounter. Spend credits only from stealth cards to use this ability.",
+  "stripped_title": "Corsair",
+  "subtypes": ["icebreaker", "fracter"],
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> The <strong>barrier</strong> you are encountering gets −3 strength for the remainder of this encounter. Spend credits only from <strong>stealth</strong> cards to use this ability.",
+  "title": "Corsair"
+}

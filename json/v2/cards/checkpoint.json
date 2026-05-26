@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "checkpoint",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 7,
+  "stripped_text": "When you rez this ice, take 1 bad publicity. Subroutine Trace[5]. If successful, do 3 meat damage when this run becomes successful.",
+  "stripped_title": "Checkpoint",
+  "subtypes": ["code_gate", "tracer", "liability"],
+  "text": "When you rez this ice, take 1 bad publicity.\n[subroutine] Trace[5]. If successful, do 3 meat damage when this run becomes successful.",
+  "title": "Checkpoint"
+}

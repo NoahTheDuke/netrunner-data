@@ -1,0 +1,37 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/type_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": false,
+    "properties": {
+      "code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "is_subtype": {
+        "type": "boolean"
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "position": {
+        "type": "integer"
+      },
+      "side_code": {
+        "oneOf": [
+          {
+            "minLength": 1,
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      }
+    },
+    "required": ["code", "name", "side_code"],
+    "type": "object"
+  },
+  "type": "array"
+}

@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "anarch",
+  "id": "rook",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2. click: Host this program on a piece of ice that is not hosting a Caissa program. If this program is hosted on ice, its click ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. (Count positions from the innermost ice.)",
+  "stripped_title": "Rook",
+  "subtypes": ["caissa", "trojan"],
+  "text": "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2.\n[click]: Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> program.\nIf this program is hosted on ice, its [click] ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. <em>(Count positions from the innermost ice.)</em>",
+  "title": "Rook"
+}

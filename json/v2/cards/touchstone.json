@@ -1,0 +1,16 @@
+{
+  "card_type_id": "hardware",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "touchstone",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "The first time each turn you play an event, place 1 credit on this hardware. You can spend hosted credits during runs.",
+  "stripped_title": "Touchstone",
+  "subtypes": ["stealth"],
+  "text": "The first time each turn you play an event, place 1[credit] on this hardware.\nYou can spend hosted credits during runs.",
+  "title": "Touchstone"
+}

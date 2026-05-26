@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "tailgate",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "The play cost of this event is lowered by 1 credit for each piece of ice protecting HQ. Run HQ. If successful, access 2 additional cards when you breach HQ.",
+  "stripped_title": "Tailgate",
+  "subtypes": ["run"],
+  "text": "The play cost of this event is lowered by 1[credit] for each piece of ice protecting HQ.\nRun HQ. If successful, access 2 additional cards when you breach HQ.",
+  "title": "Tailgate"
+}

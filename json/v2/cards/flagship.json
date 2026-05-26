@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "weyland_consortium",
+  "id": "flagship",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "HQ or R&D only. Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Persistent -> During each run against this server, the Runner cannot access more than 1 card other than this upgrade.",
+  "stripped_title": "Flagship",
+  "subtypes": ["ritzy"],
+  "text": "HQ or R&D only.\nRuns against this server cannot be declared successful. <em>(This effect does not cause runs to become unsuccessful.)</em>\nPersistent → During each run against this server, the Runner cannot access more than 1 card other than this upgrade.",
+  "title": "Flagship",
+  "trash_cost": 4
+}

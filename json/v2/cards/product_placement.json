@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "product_placement",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade anywhere except in Archives, gain 2 credits.",
+  "stripped_title": "Product Placement",
+  "subtypes": ["advertisement"],
+  "text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, gain 2[credit].",
+  "title": "Product Placement",
+  "trash_cost": 2
+}

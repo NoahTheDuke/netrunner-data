@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_corp",
+  "id": "macrophage",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 7,
+  "stripped_text": "Subroutine Trace[4]. If successful, purge virus counters. Subroutine Trace[3]. If successful, trash 1 virus. Subroutine Trace[2]. If successful, remove a virus in the heap from the game. Subroutine Trace[1]. If successful, end the run.",
+  "stripped_title": "Macrophage",
+  "subtypes": ["code_gate", "tracer"],
+  "text": "[subroutine] Trace[4]. If successful, purge virus counters.\n[subroutine] Trace[3]. If successful, trash 1 <strong>virus</strong>.\n[subroutine] Trace[2]. If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] Trace[1]. If successful, end the run.",
+  "title": "Macrophage"
+}

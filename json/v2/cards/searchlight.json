@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "searchlight",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight. Subroutine Trace[X]. If successful, give the Runner 1 tag. Subroutine Trace[X]. If successful, give the Runner 1 tag.",
+  "stripped_title": "Searchlight",
+  "subtypes": ["sentry", "tracer", "observer"],
+  "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]Trace[X]. If successful, give the Runner 1 tag.\n[subroutine]Trace[X]. If successful, give the Runner 1 tag.",
+  "title": "Searchlight"
+}

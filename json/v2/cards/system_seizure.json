@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "system_seizure",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "This event is not trashed until another current is played or an agenda is scored. Interrupt -> The first time each turn you would increase the strength of an icebreaker, for the remainder of the run that icebreaker gains \"Abilities that increase this program's strength last for the remainder of the run (instead of any shorter duration).\"",
+  "stripped_title": "System Seizure",
+  "subtypes": ["current"],
+  "text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] → The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run <em>(instead of any shorter duration)</em>.\"",
+  "title": "System Seizure"
+}

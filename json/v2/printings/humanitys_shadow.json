@@ -1,0 +1,200 @@
+[
+  {
+    "card_id": "surge",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "You must yell \"surge\" to get the full effect.",
+    "id": "02081",
+    "illustrator": "Andrew Mar",
+    "position": 81,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "xanadu",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge",
+    "id": "02082",
+    "illustrator": "Andrew Mar",
+    "position": 82,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "andromeda_dispossessed_ristie",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "\"I run with the best.\"",
+    "id": "02083",
+    "illustrator": "Matt Zeilinger",
+    "position": 83,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "networking",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "She preferred to do business in a club. Something about the lights and dancers clouded the judgment of the corporate simpletons she met there.",
+    "id": "02084",
+    "illustrator": "Gong Studios",
+    "position": 84,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "hq_interface",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments.",
+    "id": "02085",
+    "illustrator": "Robert Chew",
+    "position": 85,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "pheromones",
+    "card_set_id": "humanitys_shadow",
+    "id": "02086",
+    "illustrator": "Ed Mattinian",
+    "position": 86,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "quality_time",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "She at her P.A.D. I at my rig. Low lights. Smooth jazz. Love blooms.",
+    "id": "02087",
+    "illustrator": "Erfan Fajar",
+    "position": 87,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "replicator",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "Do you really need another one?",
+    "id": "02088",
+    "illustrator": "Mike Nesbitt",
+    "position": 88,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "creeper",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "\"The itsy bitsy spider went up the data spout…\"\n-Chaos Theory",
+    "id": "02089",
+    "illustrator": "JuanManuel Tumburus",
+    "position": 89,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "kraken",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "Early permutations of the kraken proved to be insatiable, ice-devouring marauders. Not much has changed.",
+    "id": "02090",
+    "illustrator": "Liiga Smilshkalne",
+    "position": 90,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "kati_jones",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "\"You aren't the only type of runner in New Angeles.\"",
+    "id": "02091",
+    "illustrator": "Matt Zeilinger",
+    "position": 91,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "eve_campaign",
+    "card_set_id": "humanitys_shadow",
+    "id": "02092",
+    "illustrator": "Sara K. Diesel",
+    "position": 92,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "rework",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "Also known as \"development hell.\"",
+    "id": "02093",
+    "illustrator": "Adam S. Doyle",
+    "position": 93,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "whirlpool",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "\"This ice sucks.\" -g00ru",
+    "id": "02094",
+    "illustrator": "Adam S. Doyle",
+    "position": 94,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "hokusai_grid",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki.",
+    "id": "02095",
+    "illustrator": "Emilio Rodríguez",
+    "position": 95,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "data_hound",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "Sniff.",
+    "id": "02096",
+    "illustrator": "Adam S. Doyle",
+    "position": 96,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "bernice_mai",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "Keeping tabs on the world, one screen at a time.",
+    "id": "02097",
+    "illustrator": "Erfan Fajar",
+    "position": 97,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "salvage",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "You're not in Kansas anymore.",
+    "id": "02098",
+    "illustrator": "Ed Mattinian",
+    "position": 98,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "simone_diego",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "\"A job done once is a job done right.\"",
+    "id": "02099",
+    "illustrator": "Matt Zeilinger",
+    "position": 99,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "foxfire",
+    "card_set_id": "humanitys_shadow",
+    "flavor": "\"It's kind of like an anagram.\" -designer Phoenix",
+    "id": "02100",
+    "illustrator": "Jen Zee",
+    "position": 100,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  }
+]

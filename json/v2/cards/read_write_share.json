@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "read_write_share",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 2,
+  "side_id": "runner",
+  "stripped_text": "Limit 4 hosted cards. When you install this program and when your turn begins, you may host 1 card from your grip facedown on this program to draw 1 card. trash: Shuffle all hosted cards into your stack.",
+  "stripped_title": "Read-Write Share",
+  "text": "Limit 4 hosted cards.\nWhen you install this program and when your turn begins, you may host 1 card from your grip facedown on this program to draw 1 card.\n[trash]<strong>:</strong> Shuffle all hosted cards into your stack.",
+  "title": "Read-Write Share"
+}

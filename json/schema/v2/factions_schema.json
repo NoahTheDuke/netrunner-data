@@ -1,0 +1,78 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/factions_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "items": {
+    "additionalProperties": false,
+    "allOf": [
+      {
+        "oneOf": [
+          {
+            "properties": {
+              "id": {
+                "enum": [
+                  "haas_bioroid",
+                  "jinteki",
+                  "nbn",
+                  "neutral_corp",
+                  "weyland_consortium"
+                ]
+              },
+              "side_id": {
+                "const": "corp"
+              }
+            }
+          },
+          {
+            "properties": {
+              "id": {
+                "enum": [
+                  "adam",
+                  "anarch",
+                  "apex",
+                  "criminal",
+                  "neutral_runner",
+                  "shaper",
+                  "sunny_lebeau"
+                ]
+              },
+              "side_id": {
+                "const": "runner"
+              }
+            }
+          }
+        ],
+        "title": "Faction ids must be valid for the side.",
+        "type": "object"
+      }
+    ],
+    "properties": {
+      "color": {
+        "description": "Faction color in hex triplet format. This can be used to display faction-specific information in the appropriate color on an HTML webpage.",
+        "maxLength": 6,
+        "minLength": 6,
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "is_mini": {
+        "type": "boolean"
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "side_id": {
+        "minLength": 1,
+        "type": "string"
+      }
+    },
+    "required": ["id", "name"],
+    "type": "object"
+  },
+  "type": "array"
+}

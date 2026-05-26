@@ -1,0 +1,69 @@
+{
+  "banned": [
+    "accelerated_diagnostics",
+    "hired_help",
+    "salvaged_vanadis_armory",
+    "watch_the_world_burn"
+  ],
+  "date_start": "2021-11-12",
+  "format_id": "eternal",
+  "id": "eternal_points_list_21_11",
+  "name": "Eternal Points List 21.11",
+  "point_limit": 7,
+  "points": {
+    "1": [
+      "24_7_news_cycle",
+      "aaron_marron",
+      "anoetic_void",
+      "aumakua",
+      "bloo_moose",
+      "breached_dome",
+      "breaking_news",
+      "caprice_nisei",
+      "counter_surveillance",
+      "deja_vu",
+      "film_critic",
+      "hacktivist_meeting",
+      "kakugo",
+      "museum_of_history",
+      "obokata_protocol",
+      "project_vacheron",
+      "shock",
+      "snitch",
+      "spin_doctor",
+      "sting",
+      "violet_level_clearance",
+      "whampoa_reclamation",
+      "zer0"
+    ],
+    "2": [
+      "bio_ethics_association",
+      "blackmail",
+      "cerebral_imaging_infinite_frontiers",
+      "clan_vengeance",
+      "crowdfunding",
+      "data_leak_reversal",
+      "ddos",
+      "employee_strike",
+      "false_echo",
+      "friends_in_high_places",
+      "industrial_genomics_growing_solutions",
+      "jackson_howard",
+      "mars_for_martians",
+      "mti_mwekundu_life_improved",
+      "scarcity_of_resources",
+      "sensie_actors_union",
+      "sifr",
+      "tech_trader"
+    ],
+    "3": [
+      "account_siphon",
+      "estelle_moon",
+      "hyperdriver",
+      "jinteki_potential_unleashed",
+      "mumbad_city_hall",
+      "rumor_mill",
+      "temujin_contract"
+    ]
+  }
+}

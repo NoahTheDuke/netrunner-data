@@ -1,0 +1,16 @@
+{
+  "card_type_id": "hardware",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "anarch",
+  "id": "spinal_modem",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+1 mu, 2 recurring credits You can spend hosted credits to use icebreakers. Whenever there is a successful trace during a run, suffer 1 core damage. Limit 1 console per player.",
+  "stripped_title": "Spinal Modem",
+  "subtypes": ["console"],
+  "text": "+1[mu], 2[recurring-credit]\nYou can spend hosted credits to use <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 core damage.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Spinal Modem"
+}

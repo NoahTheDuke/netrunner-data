@@ -1,0 +1,651 @@
+[
+  {
+    "card_id": "finality",
+    "card_set_id": "parhelion",
+    "flavor": "\"My guilt is never to be doubted.\"",
+    "id": "33066",
+    "illustrator": "Ferenc Patkós",
+    "position": 66,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "katorga_breakout",
+    "card_set_id": "parhelion",
+    "flavor": "\"I promised I would come back for you, no matter the cost.\"\n—Esâ Afontov",
+    "id": "33067",
+    "illustrator": "Olie Boldador",
+    "position": 67,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "raindrops_cut_stone",
+    "card_set_id": "parhelion",
+    "flavor": "With every step closer to their prize, Bankhar felt the ice slicing white-hot through their synapses. It was worth it.",
+    "id": "33068",
+    "illustrator": "Scott Uminga",
+    "position": 68,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "time_bomb",
+    "card_set_id": "parhelion",
+    "id": "33069",
+    "illustrator": "Anna Butova",
+    "position": 69,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "abaasy",
+    "card_set_id": "parhelion",
+    "flavor": "Every piece of ice I see, I see Abaasy.",
+    "id": "33070",
+    "illustrator": "Bruno Balixa",
+    "position": 70,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hush",
+    "card_set_id": "parhelion",
+    "flavor": "Quiet. I need to focus.",
+    "id": "33071",
+    "illustrator": "Scott Uminga",
+    "position": 71,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nga",
+    "card_set_id": "parhelion",
+    "flavor": "Relinquish your foolish notions of control.",
+    "id": "33072",
+    "illustrator": "Bruno Balixa",
+    "position": 72,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "num",
+    "card_set_id": "parhelion",
+    "flavor": "I give you understanding, that you might control that which would threaten you.",
+    "id": "33073",
+    "illustrator": "Bruno Balixa",
+    "position": 73,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "tsakhia_bankhar_gantulga",
+    "card_set_id": "parhelion",
+    "flavor": "\"With these two by my side, Iʼve sworn never to fail. I can bear any pain so long as it has meaning.\"",
+    "id": "33074",
+    "illustrator": "Dimik",
+    "position": 74,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "concerto",
+    "card_set_id": "parhelion",
+    "flavor": "\"Roslavetsʼ Concerto No. 2. Breakneck, brilliant, enchanting. The perfect finale for Virtuoso.\"",
+    "id": "33075",
+    "illustrator": "Olie Boldador",
+    "position": 75,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "reprise",
+    "card_set_id": "parhelion",
+    "flavor": "\"I may bow like Iʼve accomplished the impossible, but the truth is itʼs not that hard.\"\n",
+    "id": "33076",
+    "illustrator": "Ferenc Patkós",
+    "position": 76,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "poison_vial",
+    "card_set_id": "parhelion",
+    "flavor": "The poison cuts deeper than the blade.",
+    "id": "33077",
+    "illustrator": "Ed Mattinian",
+    "position": 77,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "wake_implant_v2a_jrj",
+    "card_set_id": "parhelion",
+    "id": "33078",
+    "illustrator": "Zefanya Langkan Maega",
+    "position": 78,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "zenit_chip_jz_2mj",
+    "card_set_id": "parhelion",
+    "flavor": "\"Zenit implants help you focus on the important things.\"\n—Ampère holo-billboard",
+    "id": "33079",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 79,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "tremolo",
+    "card_set_id": "parhelion",
+    "flavor": "A repeated note, the alternation of fingers, the rhythm of stitches... the resulting intensity is always the same.",
+    "id": "33080",
+    "illustrator": "Bruno Balixa",
+    "position": 80,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "tunnel_vision",
+    "card_set_id": "parhelion",
+    "flavor": "\"How could I pick a favorite? Theyʼre all good dogs.\"\n—Nyusha \"Sable\" Sintashta",
+    "id": "33081",
+    "illustrator": "Anthony Hutchings",
+    "position": 81,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "asmund_pudlat",
+    "card_set_id": "parhelion",
+    "id": "33082",
+    "illustrator": "Marlon Ruiz",
+    "position": 82,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "info_bounty",
+    "card_set_id": "parhelion",
+    "flavor": "It was a relief, really, deciding on that one place in the world to definitely never visit again.",
+    "id": "33083",
+    "illustrator": "Elliott Birt",
+    "position": 83,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "spark_of_inspiration",
+    "card_set_id": "parhelion",
+    "flavor": "\"The best ideas float to the top, if you give them time.\"\n—Ar<h1m3d3s  JAR",
+    "id": "33084",
+    "illustrator": "Oliver Morit",
+    "position": 84,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hippocampic_mechanocytes",
+    "card_set_id": "parhelion",
+    "flavor": "To outsiders, it is ironic that no one in Ampère can remember who invented these little fellows. Within the company, this is considered normal.",
+    "id": "33085",
+    "illustrator": "Ed Mattinian",
+    "position": 85,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "basilar_synthgland_2kvj",
+    "card_set_id": "parhelion",
+    "flavor": "It isnʼt as enjoyable as coffee, but the effects are magnitudes stronger.",
+    "id": "33086",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 86,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "flux_capacitor",
+    "card_set_id": "parhelion",
+    "flavor": "\"Are you telling me itʼs pronounced ʼgigawattsʼ?\"\n—Captain Padma Isbister",
+    "id": "33087",
+    "illustrator": "Ed Mattinian",
+    "position": 87,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nanuq",
+    "card_set_id": "parhelion",
+    "flavor": "Nanuq never leaves, but instead waits, invisible, for the next hunt.",
+    "id": "33088",
+    "illustrator": "Adam S. Doyle",
+    "position": 88,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "orca",
+    "card_set_id": "parhelion",
+    "id": "33089",
+    "illustrator": "Jakuza",
+    "position": 89,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "k2cp_turbine",
+    "card_set_id": "parhelion",
+    "flavor": "Every rig needs a power source. How about one with blades moving at Mach 2?",
+    "id": "33090",
+    "illustrator": "Ed Mattinian",
+    "position": 90,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "world_tree",
+    "card_set_id": "parhelion",
+    "flavor": "Few constructs reach the Deep Net, but these old trees have stretched their roots further than once thought possible.",
+    "id": "33091",
+    "illustrator": "Liiga Smilshkalne",
+    "position": 91,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "dr_nuka_vrolyck",
+    "card_set_id": "parhelion",
+    "flavor": "\"There is another world under the waves, vanishing as we speak. I want to map it before itʼs gone.\"",
+    "id": "33092",
+    "illustrator": "Dave Lee",
+    "position": 92,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nova_initiumia_catalyst_impetus",
+    "card_set_id": "parhelion",
+    "flavor": "I found my twin hidden away on Luna. Now we will never be apart.",
+    "id": "33093",
+    "illustrator": "Ferenc Patkós",
+    "position": 93,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "matryoshka",
+    "card_set_id": "parhelion",
+    "copy_quantity": 1,
+    "faces": [
+      {
+        "copy_quantity": 1,
+        "flavor": "Always there to back up her big sister."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Sheʼs a typical middle child, really."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Just as brave as his sisters."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Sheʼs little—but fierce."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Look at the little baby, even she helps!"
+      }
+    ],
+    "flavor": "She leads and they all follow.",
+    "id": "33094",
+    "illustrator": "Ed Mattinian",
+    "layout_id": "copy",
+    "position": 94,
+    "quantity": 6,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "thule_subsea_safety_below",
+    "card_set_id": "parhelion",
+    "flavor": "Join us. Safe, away from the crisis.",
+    "id": "33095",
+    "illustrator": "Kira L. Nguyen",
+    "position": 95,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ontological_dependence",
+    "card_set_id": "parhelion",
+    "flavor": "Bend the minds of those below you such that they will always need you, and loyalty is assured forever.",
+    "id": "33096",
+    "illustrator": "Oliver Morit",
+    "position": 96,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nightmare_archive",
+    "card_set_id": "parhelion",
+    "flavor": "Everyone remembers the first tape they archive.",
+    "id": "33097",
+    "illustrator": "Kira L. Nguyen",
+    "position": 97,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "bloop",
+    "card_set_id": "parhelion",
+    "flavor": "As one, every monitoring device on the ship reverberated, emitting a noise so primordial, so titanic, it shook Padma to her core.\nDaeg hissed.",
+    "id": "33098",
+    "illustrator": "Jakuza",
+    "position": 98,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "pulse",
+    "card_set_id": "parhelion",
+    "flavor": "The sound welled up from the deep: throbbing, thumping, growing with every passing beat of their hearts.",
+    "id": "33099",
+    "illustrator": "Jakuza",
+    "position": 99,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "distributed_tracing",
+    "card_set_id": "parhelion",
+    "flavor": "Sometimes, they want you to know that they know.",
+    "id": "33100",
+    "illustrator": "Kira L. Nguyen",
+    "position": 100,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hypoxia",
+    "card_set_id": "parhelion",
+    "flavor": "You think thatʼs air youʼre breathing now?",
+    "id": "33101",
+    "illustrator": "Ed Mattinian",
+    "position": 101,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "djupstad_grid",
+    "card_set_id": "parhelion",
+    "flavor": "\"Itʼs technically above our pay grade, but we know where our weapons come from. In Djupstad they wait, deep in thought, until we call upon them.\"\n—Aron Hendrik",
+    "id": "33102",
+    "illustrator": "Kira L. Nguyen",
+    "position": 102,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "mr_hendrik",
+    "card_set_id": "parhelion",
+    "flavor": "Few employees know he exists. Even fewer know he is actually <em>three</em>.",
+    "id": "33103",
+    "illustrator": "Ferenc Patkós",
+    "position": 103,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "issuaq_adaptics_sustaining_diversity",
+    "card_set_id": "parhelion",
+    "flavor": "Bringing Mother Nature up to speed.",
+    "id": "33104",
+    "illustrator": "Emilio Rodríguez",
+    "position": 104,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hybrid_release",
+    "card_set_id": "parhelion",
+    "flavor": "\"By disabling their bodiesʼ ability to create a variety of necessary enzymes, weʼve ensured their loyalty to us. If they donʼt return for supplements every month, they die; simple as that.\"\n—Dr. Vientiane Keeling",
+    "id": "33105",
+    "illustrator": "Marlon Ruiz",
+    "position": 105,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "dr_vientiane_keeling",
+    "card_set_id": "parhelion",
+    "flavor": "Her numbers never lie, but she doesnʼt write the words that accompany them.",
+    "id": "33106",
+    "illustrator": "Dimik",
+    "position": 106,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "reaper_function",
+    "card_set_id": "parhelion",
+    "flavor": "There is an elegance to its blade and stride, but with it comes a screaming whirlwind.",
+    "id": "33107",
+    "illustrator": "Adam S. Doyle",
+    "position": 107,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hafrun",
+    "card_set_id": "parhelion",
+    "flavor": "Hafrún has lived through generations of changes in the Net, and now there are whispers that something from the deep is making it anxious.",
+    "id": "33108",
+    "illustrator": "Jack Reeves",
+    "position": 108,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "vampyronassa",
+    "card_set_id": "parhelion",
+    "flavor": "\"Matt, thereʼs something big heading your way. Matt, are you hearing me? Matt? Oh no.\"\n—Moth",
+    "id": "33109",
+    "illustrator": "Ed Mattinian",
+    "position": 109,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "simulation_reset",
+    "card_set_id": "parhelion",
+    "flavor": "\"The worst part about failed experiments? The queue for the incinerator.\"\n—Overheard in the Issuaq Adaptics cafeteria.",
+    "id": "33110",
+    "illustrator": "Anthony Hutchings",
+    "position": 110,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nanisivik_grid",
+    "card_set_id": "parhelion",
+    "flavor": "Here, at the edge of the habitable world, they extract the future from the bones of the past.",
+    "id": "33111",
+    "illustrator": "Emilio Rodríguez",
+    "position": 111,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "freedom_of_information",
+    "card_set_id": "parhelion",
+    "flavor": "\"An FOI request? No problem! Please fill out all details. Youʼd like to make an anonymous request? Iʼm sorry: absolutely not.\"",
+    "id": "33112",
+    "illustrator": "Zefanya Langkan Maega",
+    "position": 112,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "post_truth_dividend",
+    "card_set_id": "parhelion",
+    "flavor": "\"Hey kiddo, remember what Daddy says about lying?\"\n\"ʼOnly when you can get away with it!ʼ\"",
+    "id": "33113",
+    "illustrator": "Wyn Lacabra",
+    "position": 113,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "gaslight",
+    "card_set_id": "parhelion",
+    "flavor": "Donʼt you remember?",
+    "id": "33114",
+    "illustrator": "Olie Boldador",
+    "position": 114,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "vera_ivanovna_shuyskaya",
+    "card_set_id": "parhelion",
+    "flavor": "\"People donʼt think in facts, they think in stories. We just tidy up that information to hasten the process.\"",
+    "id": "33115",
+    "illustrator": "Mauricio Herrera",
+    "position": 115,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "klevetnik",
+    "card_set_id": "parhelion",
+    "flavor": "SCANNING... ASSEMBLING INSULT!",
+    "id": "33116",
+    "illustrator": "Bruno Balixa",
+    "position": 116,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "unsmiling_tsarevna",
+    "card_set_id": "parhelion",
+    "id": "33117",
+    "illustrator": "BalanceSheet",
+    "position": 117,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "nonequivalent_exchange",
+    "card_set_id": "parhelion",
+    "flavor": "\"Oh, the text on these is endless. Just tap accept and you can read it later if you want.\"",
+    "id": "33118",
+    "illustrator": "Dimik",
+    "position": 118,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "shipment_from_vladisibirsk",
+    "card_set_id": "parhelion",
+    "flavor": "\"Donʼt look at the crates.\"",
+    "id": "33119",
+    "illustrator": "Ferenc Patkós",
+    "position": 119,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "regulatory_capture",
+    "card_set_id": "parhelion",
+    "flavor": "This was a criminal offense. Now itʼs an option for business.",
+    "id": "33120",
+    "illustrator": "Wyn Lacabra",
+    "position": 120,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "kimberlite_field",
+    "card_set_id": "parhelion",
+    "flavor": "\"Weylandʼs synthetic diamonds cost less than naturals... so what are they really digging for here?\"\n—Captain Padma Isbister",
+    "id": "33121",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 121,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "hostile_architecture",
+    "card_set_id": "parhelion",
+    "flavor": "When implemented at this sort of scale, these practices can keep away far more than a few unwanted citizens.",
+    "id": "33122",
+    "illustrator": "Dimik",
+    "position": 122,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "superdeep_borehole",
+    "card_set_id": "parhelion",
+    "flavor": "\"They just keep drilling down, no matter what...\"\n—Valentina Ferreira",
+    "id": "33123",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 123,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "anvil",
+    "card_set_id": "parhelion",
+    "flavor": "Waiting for the next blow to land.",
+    "id": "33124",
+    "illustrator": "Scott Uminga",
+    "position": 124,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "end_of_the_line",
+    "card_set_id": "parhelion",
+    "flavor": "Under northern skies Sundog had lived all his life, and under them he would die.",
+    "id": "33125",
+    "illustrator": "Olie Boldador",
+    "position": 125,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "yakov_erikovich_avdakov",
+    "card_set_id": "parhelion",
+    "flavor": "They say the Butcher of Siberia keeps the best cuts for himself.",
+    "id": "33126",
+    "illustrator": "Dave Lee",
+    "position": 126,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "zato_city_grid",
+    "card_set_id": "parhelion",
+    "flavor": "Getting in is hard. Getting out requires a death certificate.",
+    "id": "33127",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 127,
+    "quantity": 3,
+    "released_by": "null_signal_games"
+  },
+  {
+    "card_id": "ampere_cybernetics_for_anyone",
+    "card_set_id": "parhelion",
+    "flavor": "Affordable, Effective, and Uncompromising.",
+    "id": "33128",
+    "illustrator": "Emilio Rodríguez",
+    "position": 128,
+    "quantity": 1,
+    "released_by": "null_signal_games"
+  }
+]

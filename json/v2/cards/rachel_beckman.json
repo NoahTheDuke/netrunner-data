@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 8,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "rachel_beckman",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "You get +1 allotted click for each of your turns. If you are tagged, trash this resource.",
+  "stripped_title": "Rachel Beckman",
+  "subtypes": ["connection"],
+  "text": "You get +1 allotted [click] for each of your turns.\nIf you are tagged, trash this resource.",
+  "title": "Rachel Beckman"
+}

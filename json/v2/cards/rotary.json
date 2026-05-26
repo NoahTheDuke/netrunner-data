@@ -1,0 +1,16 @@
+{
+  "card_type_id": "hardware",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "rotary",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+1 mu Whenever you breach HQ or R&D, you may take 1 tag to access 1 additional card. click, 2 credits: Trash this hardware. Only the Corp can use this ability, and only if the Runner is tagged. Limit 1 console per player.",
+  "stripped_title": "Rotary",
+  "subtypes": ["console"],
+  "text": "+1[mu]\nWhenever you breach HQ or R&D, you may take 1 tag to access 1 additional card.\n[click], <strong>2[credit]:</strong> Trash this hardware. Only the Corp can use this ability, and only if the Runner is tagged.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Rotary"
+}

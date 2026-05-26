@@ -1,0 +1,15 @@
+{
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "shaper",
+  "id": "the_price_of_freedom",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "As an additional cost to play this event, trash 1 installed connection resource. The Corp cannot advance cards during their next turn. Remove this event from the game.",
+  "stripped_title": "The Price of Freedom",
+  "text": "As an additional cost to play this event, trash 1 installed <strong>connection</strong> resource.\nThe Corp cannot advance cards during their next turn.\nRemove this event from the game.",
+  "title": "The Price of Freedom"
+}

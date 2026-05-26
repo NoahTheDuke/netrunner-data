@@ -1,0 +1,32 @@
+{
+  "date_start": "2017-04-12",
+  "format_id": "standard",
+  "id": "napd_mwl_1_2",
+  "name": "NAPD MWL 1.2",
+  "universal_faction_cost": {
+    "1": [
+      "architect",
+      "bio_ethics_association",
+      "breaking_news",
+      "cerberus_lady_h1",
+      "clone_chip",
+      "d4v1d",
+      "mumba_temple",
+      "mumbad_city_hall",
+      "napd_contract",
+      "parasite",
+      "sansan_city_grid",
+      "temujin_contract",
+      "wyldside",
+      "yog_0"
+    ],
+    "3": [
+      "blackmail",
+      "ddos",
+      "faust",
+      "rumor_mill",
+      "sensie_actors_union",
+      "sifr"
+    ]
+  }
+}

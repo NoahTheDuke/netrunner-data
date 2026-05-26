@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 7,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "tyrant",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "You can advance this ice if it is rezzed. It gains \"Subroutine End the run.\" for each hosted advancement counter.",
+  "stripped_title": "Tyrant",
+  "subtypes": ["barrier"],
+  "text": "You can advance this ice if it is rezzed. It gains \"[subroutine] End the run.\" for each hosted advancement counter.",
+  "title": "Tyrant"
+}

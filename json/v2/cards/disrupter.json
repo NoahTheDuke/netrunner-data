@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "anarch",
+  "id": "disrupter",
+  "influence_cost": 1,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Interrupt -> trash: Reduce the base trace strength of a trace to 0.",
+  "stripped_title": "Disrupter",
+  "text": "[interrupt] → [trash]: Reduce the base trace strength of a trace to 0.",
+  "title": "Disrupter"
+}

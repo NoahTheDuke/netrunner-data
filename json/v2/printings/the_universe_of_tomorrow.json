@@ -1,0 +1,196 @@
+[
+  {
+    "card_id": "power_to_the_people",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "As the sun sank towards the horizon, the glittering lights of the expo remained dark. But the shanty city bloomed to life.",
+    "id": "08101",
+    "illustrator": "Maciej Rebisz",
+    "position": 101,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "surfer",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "Cowabunga, dude!",
+    "id": "08102",
+    "illustrator": "Victor Garcia",
+    "position": 102,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "ddos",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "\"First, you get a horde of zombies. Then you do whatever you want, 'cuz you have a horde of zombies.\" -Ji \"Noise\" Reilly",
+    "id": "08103",
+    "illustrator": "Adam S. Doyle",
+    "position": 103,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "laramy_fisk_savvy_investor",
+    "card_set_id": "the_universe_of_tomorrow",
+    "id": "08104",
+    "illustrator": "Matt Zeilinger",
+    "position": 104,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "fisk_investment_seminar",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "\"The secret to investing is networking.\" -Laramy Fisk",
+    "id": "08105",
+    "illustrator": "Bruno Balixa",
+    "position": 105,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "bookmark",
+    "card_set_id": "the_universe_of_tomorrow",
+    "id": "08106",
+    "illustrator": "Bruno Balixa",
+    "position": 106,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "davinci",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "\"Our life is made by the death of others.\" -Leonardo Da Vinci",
+    "id": "08107",
+    "illustrator": "Alexandr Elichev",
+    "position": 107,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "wireless_net_pavilion",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "Almost a zettabyte of data flows each minute through one of the many net pavilions scattered around the expo.",
+    "id": "08108",
+    "illustrator": "BalanceSheet",
+    "position": 108,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "cybernetics_court",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "The Cybernetics Court has seven floors of attractions. The plasteel used to construct it was even more expensive than the thousands of cybernetic implants displayed inside.",
+    "id": "08109",
+    "illustrator": "Andreas Zafiratos",
+    "position": 109,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "team_sponsorship",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "The SanSan Outlaws have a close relationship with Haas-Bioroid's sports engineering division, SHIFT.",
+    "id": "08110",
+    "illustrator": "Mike Nesbitt",
+    "position": 110,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "chronos_protocol_selective_mind_mapping",
+    "card_set_id": "the_universe_of_tomorrow",
+    "id": "08111",
+    "illustrator": "Emilio Rodríguez",
+    "position": 111,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "ancestral_imager",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "The more people submit their DNA and family history to the program, the more accurate it becomes.",
+    "id": "08112",
+    "illustrator": "Alexandr Elichev",
+    "position": 112,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "genetics_pavilion",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "The Genetics Pavilion was designed by renowned architect Meru Mati II. It was built without the aid of bioroids, instead relying on human and clone labor.",
+    "id": "08113",
+    "illustrator": "Greg Semkow",
+    "position": 113,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "franchise_city",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "There are over 20,000 brands represented in Franchise City, all of them owned by fewer than 100 corps.",
+    "id": "08114",
+    "illustrator": "Maciej Rebisz",
+    "position": 114,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "product_placement",
+    "card_set_id": "the_universe_of_tomorrow",
+    "id": "08115",
+    "illustrator": "Matt Zeilinger",
+    "position": 115,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "worlds_plaza",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "The holosculpture depicts the three inhabited worlds. The square can hold almost 1% of their total population.",
+    "id": "08116",
+    "illustrator": "Maciej Rebisz",
+    "position": 116,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "public_support",
+    "card_set_id": "the_universe_of_tomorrow",
+    "id": "08117",
+    "illustrator": "Wenjuinn Png",
+    "position": 117,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "tour_guide",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "\"Hello, and welcome to the Universe of Tomorrow! You could live for five-hundred years and not see all of the attractions I can tell you about.\"",
+    "id": "08118",
+    "illustrator": "Ismael Bergara",
+    "position": 118,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "expo_grid",
+    "card_set_id": "the_universe_of_tomorrow",
+    "flavor": "The expo was built in the East California desert: a temporary city constructed for the advancement of humanity.",
+    "id": "08119",
+    "illustrator": "Maciej Rebisz",
+    "position": 119,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "the_future_is_now",
+    "card_set_id": "the_universe_of_tomorrow",
+    "id": "08120",
+    "illustrator": "Tim Durning",
+    "position": 120,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  }
+]

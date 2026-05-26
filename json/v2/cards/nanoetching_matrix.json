@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "haas_bioroid",
+  "id": "nanoetching_matrix",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Once per turn -> click: Gain 2 credits. When the Runner trashes this asset, you may gain 2 credits.",
+  "stripped_title": "Nanoetching Matrix",
+  "subtypes": ["industrial"],
+  "text": "Once per turn → [click]<strong>:</strong> Gain 2[credit].\nWhen the Runner trashes this asset, you may gain 2[credit].",
+  "title": "Nanoetching Matrix",
+  "trash_cost": 3
+}

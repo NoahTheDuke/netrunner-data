@@ -1,0 +1,17 @@
+{
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_corp",
+  "id": "napd_contract",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "This agenda gets +1 advancement requirement for each bad publicity you have. As an additional cost to steal this agenda, the Runner must pay 4 credits.",
+  "stripped_title": "NAPD Contract",
+  "subtypes": ["security"],
+  "text": "This agenda gets +1 advancement requirement for each bad publicity you have.\nAs an additional cost to steal this agenda, the Runner must pay 4[credit].",
+  "title": "NAPD Contract"
+}

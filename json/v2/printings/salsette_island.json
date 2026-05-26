@@ -1,0 +1,186 @@
+[
+  {
+    "card_id": "making_an_entrance",
+    "card_set_id": "salsette_island",
+    "flavor": "Sometimes in an instant you realize who your friends really are.",
+    "id": "10058",
+    "illustrator": "Kate Laird",
+    "position": 58,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "salsette_slums",
+    "card_set_id": "salsette_island",
+    "flavor": "\"Underestimate those people at your own peril.\" -Akshara Sareen",
+    "id": "10059",
+    "illustrator": "Amit Dutta",
+    "position": 59,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "exclusive_party",
+    "card_set_id": "salsette_island",
+    "flavor": "The more parties she attended, the more they trusted her. The more they trusted her, the more entertaining her scams became.",
+    "id": "10060",
+    "illustrator": "Caroline Gariba",
+    "position": 60,
+    "quantity": 6,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "vamadeva",
+    "card_set_id": "salsette_island",
+    "flavor": "The Preserver.",
+    "id": "10061",
+    "illustrator": "Liiga Smilshkalne",
+    "position": 61,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "brahman",
+    "card_set_id": "salsette_island",
+    "id": "10062",
+    "illustrator": "Andreas Zafiratos",
+    "position": 62,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "patron",
+    "card_set_id": "salsette_island",
+    "flavor": "\"Anyone who can afford dwarf elephants can afford to be my friend.\" -Fake-ir",
+    "id": "10063",
+    "illustrator": "Antonio De Luca",
+    "position": 63,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "sports_hopper",
+    "card_set_id": "salsette_island",
+    "flavor": "\"Check out my new ride.\" -2xTiger",
+    "id": "10064",
+    "illustrator": "BalanceSheet",
+    "position": 64,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "bazaar",
+    "card_set_id": "salsette_island",
+    "flavor": "In these days of digital full-sim browsing and widely available nano-assembly, it takes a special kind of crazy person to go shopping in meatspace. There are millions of them.",
+    "id": "10065",
+    "illustrator": "James Ives",
+    "position": 65,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "personality_profiles",
+    "card_set_id": "salsette_island",
+    "id": "10066",
+    "illustrator": "Sander Mosk",
+    "position": 66,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "jeeves_model_bioroids",
+    "card_set_id": "salsette_island",
+    "flavor": "\"Very good, sir.\"",
+    "id": "10067",
+    "illustrator": "Stéphane Gantiez",
+    "position": 67,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "raman_rai",
+    "card_set_id": "salsette_island",
+    "id": "10068",
+    "illustrator": "Kate Laird",
+    "position": 68,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "upayoga",
+    "card_set_id": "salsette_island",
+    "flavor": "\"Connect two truths. Connect two programs. All is one.\"",
+    "id": "10069",
+    "illustrator": "Adam S. Doyle",
+    "position": 69,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "aryabhata_tech",
+    "card_set_id": "salsette_island",
+    "flavor": "\"As the world shrinks, communications becomes the most essential technology.\" -Ramesh Gupta, One World Economy",
+    "id": "10070",
+    "illustrator": "Yog Joshi",
+    "position": 70,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "salems_hospitality",
+    "card_set_id": "salsette_island",
+    "id": "10071",
+    "illustrator": "Samuel Leung",
+    "position": 71,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "executive_search_firm",
+    "card_set_id": "salsette_island",
+    "id": "10072",
+    "illustrator": "Diana Martinez",
+    "position": 72,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "indian_union_stock_exchange",
+    "card_set_id": "salsette_island",
+    "flavor": "\"Wealth wisely invested is wealth earned.\" -The New Gospel of Wealth",
+    "id": "10073",
+    "illustrator": "Yog Joshi",
+    "position": 73,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "cobra",
+    "card_set_id": "salsette_island",
+    "flavor": "The naja naja is the king of all serpents.",
+    "id": "10074",
+    "illustrator": "Liiga Smilshkalne",
+    "position": 74,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "localized_product_line",
+    "card_set_id": "salsette_island",
+    "flavor": "It's the exact same coffee, but the price sure is different.",
+    "id": "10075",
+    "illustrator": "Tim Durning",
+    "position": 75,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "mumbad_virtual_tour",
+    "card_set_id": "salsette_island",
+    "id": "10076",
+    "illustrator": "Adam S. Doyle",
+    "position": 76,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "operation",
+  "cost": 7,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "weyland_consortium",
+  "id": "vulture_fund",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Gain 14 credits and take 1 bad publicity.",
+  "stripped_title": "Vulture Fund",
+  "subtypes": ["transaction", "liability"],
+  "text": "Gain 14[credit] and take 1 bad publicity.",
+  "title": "Vulture Fund"
+}

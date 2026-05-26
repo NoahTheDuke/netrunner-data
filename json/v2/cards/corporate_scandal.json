@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "neutral_runner",
+  "id": "corporate_scandal",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "This event is not trashed until another current is played or an agenda is scored. The Corp is considered to have 1 additional bad publicity (even if they had no bad publicity).",
+  "stripped_title": "Corporate Scandal",
+  "subtypes": ["current"],
+  "text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp is considered to have 1 additional bad publicity <em>(even if they had no bad publicity)</em>.",
+  "title": "Corporate Scandal"
+}

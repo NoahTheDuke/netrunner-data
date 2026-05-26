@@ -1,0 +1,16 @@
+{
+  "card_type_id": "corp_identity",
+  "deck_limit": 1,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "the_outfit_family_owned_and_operated",
+  "influence_limit": 15,
+  "is_unique": false,
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "Whenever you take 1 or more bad publicity, gain 3 credits.",
+  "stripped_title": "The Outfit: Family Owned and Operated",
+  "subtypes": ["subsidiary"],
+  "text": "Whenever you take 1 or more bad publicity, gain 3[credit].",
+  "title": "The Outfit: Family Owned and Operated"
+}

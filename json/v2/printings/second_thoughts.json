@@ -1,0 +1,197 @@
+[
+  {
+    "card_id": "bishop",
+    "card_set_id": "second_thoughts",
+    "id": "04021",
+    "illustrator": "Adam S. Doyle",
+    "position": 21,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "scheherazade",
+    "card_set_id": "second_thoughts",
+    "flavor": "Installing 1001 programs puts you in the hacker hall of fame, or would if such an institution actually existed.",
+    "id": "04022",
+    "illustrator": "Tim Durning",
+    "position": 22,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "hard_at_work",
+    "card_set_id": "second_thoughts",
+    "flavor": "Noise decided to go back to school. He applied for research grants at fifteen of the most prestigious universities. Then he hacked in and approved his applications. Breakfast time.",
+    "id": "04023",
+    "illustrator": "Matt Zeilinger",
+    "position": 23,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "recon",
+    "card_set_id": "second_thoughts",
+    "flavor": "Just like in the real world, sometimes it is best to send in the clone to do the dirty work.",
+    "id": "04024",
+    "illustrator": "Irys Ching",
+    "position": 24,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "copycat",
+    "card_set_id": "second_thoughts",
+    "flavor": "The copycat function should be used with extreme caution, or you might end up on the wrong side of cyberspace.",
+    "id": "04025",
+    "illustrator": "Gong Studios",
+    "position": 25,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "leviathan",
+    "card_set_id": "second_thoughts",
+    "flavor": "It's efficient as all hell, for certain very large values of \"efficient\". The whale avatar is either a nice touch or a tragic misapplication of programmer man-hour, depending on who you ask. -BT's Guide to Icebreaking",
+    "id": "04026",
+    "illustrator": "Teuku Muharra",
+    "position": 26,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "eureka",
+    "card_set_id": "second_thoughts",
+    "flavor": "\"I've got a surprise for you.\"",
+    "id": "04027",
+    "illustrator": "Del Borovic",
+    "position": 27,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "record_reconstructor",
+    "card_set_id": "second_thoughts",
+    "flavor": "\"Why is data deleted? Maybe they don't want it to be found. Or maybe it's just useless. The useless data is the kind you want.\" -The Professor",
+    "id": "04028",
+    "illustrator": "Lucas Durham",
+    "position": 28,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "prepaid_voicepad",
+    "card_set_id": "second_thoughts",
+    "flavor": "A VoicePAD is a personal access device with most of its functions ripped out. Just about all it's good for is making voice-calls and managing your contacts. The only reason to even have one is for its anonymity, which for a certain kind of person is all the reason one needs.",
+    "id": "04029",
+    "illustrator": "Mike Nesbitt",
+    "position": 29,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "wotan",
+    "card_set_id": "second_thoughts",
+    "id": "04030",
+    "illustrator": "Christina Davis",
+    "position": 30,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "hellion_alpha_test",
+    "card_set_id": "second_thoughts",
+    "id": "04031",
+    "illustrator": "Isuardi Therianto",
+    "position": 31,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "clone_retirement",
+    "card_set_id": "second_thoughts",
+    "flavor": "\"They call it 'retirement'. I call it 'euthanasia'.\" -Ken \"Express\" Tenma",
+    "id": "04032",
+    "illustrator": "Gong Studios",
+    "position": 32,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "swordsman",
+    "card_set_id": "second_thoughts",
+    "flavor": "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail.",
+    "id": "04033",
+    "illustrator": "Adam S. Doyle",
+    "position": 33,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "shipment_from_sansan",
+    "card_set_id": "second_thoughts",
+    "flavor": "He signed for it, hand shaking in anticipation.",
+    "id": "04034",
+    "illustrator": "Agri Karuniawan",
+    "position": 34,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "muckraker",
+    "card_set_id": "second_thoughts",
+    "id": "04035",
+    "illustrator": "Ed Mattinian",
+    "position": 35,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "the_cleaners",
+    "card_set_id": "second_thoughts",
+    "flavor": "\"I use bioroids because I can wipe their memories or just blow their brains out when the job is done. No witnesses means no witnesses.\"",
+    "id": "04036",
+    "illustrator": "Gong Studios",
+    "position": 36,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "elizabeth_mills",
+    "card_set_id": "second_thoughts",
+    "flavor": "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\"",
+    "id": "04037",
+    "illustrator": "Del Borovic",
+    "position": 37,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "off_the_grid",
+    "card_set_id": "second_thoughts",
+    "id": "04038",
+    "illustrator": "Zefanya Langkan Maega",
+    "position": 38,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "profiteering",
+    "card_set_id": "second_thoughts",
+    "flavor": "It was surprisingly easy to make creds…if you didn't care about how you made them.",
+    "id": "04039",
+    "illustrator": "JuanManuel Tumburus",
+    "position": 39,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "restructure",
+    "card_set_id": "second_thoughts",
+    "flavor": "There are many names for those in the Administration Department. But if you like your job, you just refer to them as \"sir\" and \"ma'am\".",
+    "id": "04040",
+    "illustrator": "Isuardi Therianto",
+    "position": 40,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  }
+]

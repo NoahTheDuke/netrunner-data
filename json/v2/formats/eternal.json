@@ -1,0 +1,60 @@
+{
+  "id": "eternal",
+  "name": "Eternal",
+  "snapshots": [
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2017-10-01",
+      "id": "eternal_0"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2021-07-10",
+      "id": "eternal_1",
+      "restriction_id": "eternal_points_list_1_0"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2021-11-12",
+      "id": "eternal_2",
+      "restriction_id": "eternal_points_list_21_11"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2022-09-26",
+      "id": "eternal_3",
+      "restriction_id": "eternal_points_list_22_09"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2023-03-31",
+      "id": "eternal_4",
+      "restriction_id": "eternal_points_list_23_03"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2023-12-08",
+      "id": "eternal_5",
+      "restriction_id": "eternal_points_list_23_11"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2025-04-04",
+      "id": "eternal_6",
+      "restriction_id": "eternal_points_list_25_04"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2025-07-31",
+      "id": "eternal_7",
+      "restriction_id": "eternal_points_list_25_07"
+    },
+    {
+      "active": true,
+      "card_pool_id": "eternal",
+      "date_start": "2026-03-02",
+      "id": "eternal_8",
+      "restriction_id": "eternal_points_list_26_03"
+    }
+  ]
+}

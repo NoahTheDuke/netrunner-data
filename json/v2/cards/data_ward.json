@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 6,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "nbn",
+  "id": "data_ward",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 8,
+  "stripped_text": "When the Runner encounters this ice, they take 1 tag unless they pay 3 credits. Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged.",
+  "stripped_title": "Data Ward",
+  "subtypes": ["barrier"],
+  "text": "When the Runner encounters this ice, they take 1 tag unless they pay 3[credit].\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.",
+  "title": "Data Ward"
+}

@@ -1,0 +1,18 @@
+{
+  "attribution": "Designed by 2016 World Champion Chris Dyer",
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faction_id": "weyland_consortium",
+  "id": "border_control",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "trash: End the run. Use this ability only during a run on this server. Subroutine Gain 1 credit for each piece of ice protecting this server. Subroutine End the run.",
+  "stripped_title": "Border Control",
+  "subtypes": ["barrier"],
+  "text": "[trash]: End the run. Use this ability only during a run on this server.\n[subroutine] Gain 1[credit] for each piece of ice protecting this server.\n[subroutine] End the run.",
+  "title": "Border Control"
+}

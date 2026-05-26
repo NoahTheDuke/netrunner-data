@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 0,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "anarch",
+  "id": "stick_and_poke",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "The first time each turn you encounter a piece of ice, it gains \"Subroutine Do 1 net damage. The Runner draws 1 card.\", before its other subroutines, for the remainder of that encounter.",
+  "stripped_title": "Stick and Poke",
+  "subtypes": ["companion", "virtual"],
+  "text": "The first time each turn you encounter a piece of ice, it gains “[subroutine] Do 1 net damage. The Runner draws 1 card.”, before its other subroutines, for the remainder of that encounter.",
+  "title": "Stick and Poke"
+}
