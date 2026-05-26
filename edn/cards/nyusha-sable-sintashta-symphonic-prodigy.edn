@@ -5,7 +5,7 @@
  :influence-limit 15
  :minimum-deck-size 45
  :side :runner
- :stripped-text "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, gain click."
+ :stripped-text "When your turn begins, identify your mark. (If you don't have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, gain click."
  :stripped-title "Nyusha \"Sable\" Sintashta: Symphonic Prodigy"
  :subtype [:g-mod]
  :text "When your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn you make a successful run on your mark, gain [click]."

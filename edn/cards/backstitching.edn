@@ -4,7 +4,7 @@
  :id "backstitching"
  :influence-cost 2
  :side :runner
- :stripped-text "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Whenever you encounter a piece of ice during a run on your mark, you may trash this resource to bypass that ice."
+ :stripped-text "When your turn begins, identify your mark. (If you don't have a mark, a random central server becomes your mark for this turn.) Whenever you encounter a piece of ice during a run on your mark, you may trash this resource to bypass that ice."
  :stripped-title "Backstitching"
  :subtype [:virtual]
  :text "When your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nWhenever you encounter a piece of ice during a run on your mark, you may trash this resource to bypass that ice."

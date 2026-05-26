@@ -7,18 +7,9 @@
    [clojure.string :as str]
    [nr-data.data :as data]
    [nr-data.text :refer [add-stripped-card-text]]
-   [nr-data.utils :refer [cards->map slugify apply-to-faces-too map-kv]]
+   [nr-data.utils :refer [cards->map slugify apply-to-faces-too strip-typesetting-chars]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
-
-(defn strip-typesetting-chars
-  ;; strip out any typesetting characters from card titles
-  [target-str]
-  (when target-str
-    (str/replace target-str #"[ʼ’“”]" {"’" "'"
-                                       "ʼ" "'"
-                                       "“" "\""
-                                       "”" "\""})))
 
 (defn underscore->hyphen
   [s]
@@ -261,10 +252,10 @@
   [card]
   (if-let [mapping (named-face-mapping (:id card))]
     (let [faces-by-index (into {} (map (juxt :index identity)) (:faces card))
-          named-faces (map-kv #(if (number? %)
-                                 (:title (faces-by-index %))
-                                 %)
-                              mapping)]
+          named-faces (update-vals mapping
+                                   #(if (number? %)
+                                      (:title (faces-by-index %))
+                                      %))]
       (assoc card :named-faces named-faces))
     card))
 

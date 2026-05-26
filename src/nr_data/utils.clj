@@ -2,9 +2,6 @@
   (:require
    [clojure.string :as str]))
 
-(defn map-kv [f coll]
-  (reduce-kv (fn [m k v] (assoc m k (f v))) (empty coll) coll))
-
 (defmacro vals->vec
   ([coll]
    `(into [] (vals ~coll)))
@@ -16,10 +13,20 @@
   ([kw cards]
    (into {} (map (juxt kw identity) cards))))
 
+(defn strip-typesetting-chars
+  ;; strip out any typesetting characters from card titles
+  [target-str]
+  (when target-str
+    (str/replace target-str #"[ʼ’“”]" {"’" "'"
+                                       "ʼ" "'"
+                                       "“" "\""
+                                       "”" "\""})))
+
 (defn normalize-text [s]
   (some-> (not-empty s)
           (name)
           (java.text.Normalizer/normalize java.text.Normalizer$Form/NFD)
+          (strip-typesetting-chars)
           (str/replace #"[\P{ASCII}]+" "")
           (str/trim)))
 

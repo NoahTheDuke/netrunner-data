@@ -1,6 +1,6 @@
 {:paths ["src" "resources"]
  :deps {
-        org.clojure/clojure {:mvn/version "1.10.2"}
+        org.clojure/clojure {:mvn/version "1.12.5"}
         zprint/zprint {:mvn/version "1.1.1"}
         cheshire/cheshire {:mvn/version "5.10.0"}
         semantic-csv/semantic-csv {:mvn/version "0.2.1-alpha1"}

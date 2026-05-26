@@ -4,7 +4,7 @@
  :faction :jinteki
  :id "sting"
  :side :corp
- :stripped-text "When a player scores or steals this agenda, do X net damage. X is equal to 1 plus the number of copies of Sting! in the other players score area."
+ :stripped-text "When a player scores or steals this agenda, do X net damage. X is equal to 1 plus the number of copies of Sting! in the other player's score area."
  :stripped-title "Sting!"
  :subtype [:ambush]
  :text "When a player scores or steals this agenda, do X net damage. X is equal to 1 plus the number of copies of Sting! in the other playerʼs score area."
