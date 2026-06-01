@@ -4,7 +4,7 @@
  :id "info-bounty"
  :influence-cost 2
  :side :runner
- :stripped-text "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn a run on your mark ends, gain 2 credits if you breached that server during that run."
+ :stripped-text "When your turn begins, identify your mark. (If you don't have a mark, a random central server becomes your mark for this turn.) The first time each turn a run on your mark ends, gain 2 credits if you breached that server during that run."
  :stripped-title "Info Bounty"
  :subtype [:job]
  :text "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn a run on your mark ends, gain 2[credit] if you breached that server during that run."

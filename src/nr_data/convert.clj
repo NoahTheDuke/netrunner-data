@@ -5,7 +5,7 @@
    [clojure.stacktrace :as st]
    [clojure.string :as str]
    [nr-data.text :refer [add-stripped-card-text]]
-   [nr-data.utils :refer [cards->map slugify map-kv]]
+   [nr-data.utils :refer [cards->map slugify]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
 
@@ -40,7 +40,7 @@
                      (str/includes? % "/pack/")
                      (str/ends-with? % ".json")))
        (group-by #(nth (str/split (.getName %) #"\.") 1))
-       (map-kv #(into [] (flatten (map read-json-file %))))))
+       ((fn [x] (update-vals x #(into [] (flatten (map read-json-file %))))))))
 
 (defn translate-fields
   "Modify NRDB json data to our schema"
