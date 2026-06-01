@@ -1,457 +1,457 @@
 [
   {
-    "code": "33001",
+    "code": "26001",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Esâ Afontov : Écorévolté·e"
+    "title": "Isolement"
   },
   {
-    "code": "33002",
+    "code": "26002",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Chastushka"
+    "title": "Démolisseur"
   },
   {
-    "code": "33003",
+    "code": "26003",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Surchauffer"
+    "title": "Burin"
   },
   {
-    "code": "33004",
+    "code": "26004",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Scarification Dermacier"
+    "title": "Porte Stellaire"
   },
   {
-    "code": "33005",
+    "code": "26005",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Langue Spectrale"
+    "title": "Utae"
   },
   {
-    "code": "33006",
+    "code": "26006",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Moelle"
+    "title": "Confrontation Décisive"
   },
   {
-    "code": "33007",
+    "code": "26007",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Behemoth"
+    "title": "Fueno l'Escrimeur"
   },
   {
-    "code": "33008",
+    "code": "26008",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Avgustina Ivanovskaya"
+    "title": "Le Nihiliste"
   },
   {
-    "code": "33009",
+    "code": "26009",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Mettre le feu !"
+    "title": "Taka le Rusé"
   },
   {
-    "code": "33010",
+    "code": "26010",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Le Jumelage"
+    "title": "Az McCaffrey : Prodige Mécanique"
   },
   {
-    "code": "33011",
+    "code": "26011",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Nyusha « Sable » Sintashta : Prodige symphonique"
+    "title": "Toujours Avoir un Plan B"
   },
   {
-    "code": "33012",
+    "code": "26012",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Carpe Diem"
+    "title": "Myrtille !™ Diesel"
   },
   {
-    "code": "33013",
+    "code": "26013",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Passer par le Chas"
+    "title": "Interrupteur"
   },
   {
-    "code": "33014",
+    "code": "26014",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Tissage Subdermal Réseau"
+    "title": "Porte Bonheur"
   },
   {
-    "code": "33015",
+    "code": "26015",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Virtuose"
+    "title": "Chef d'Oeuvre (v37)"
   },
   {
-    "code": "33016",
+    "code": "26016",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Berceau du Chat"
+    "title": "Bukhgalter"
   },
   {
-    "code": "33017",
+    "code": "26017",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Cezve"
+    "title": "« Baklan » Bochkin"
   },
   {
-    "code": "33018",
+    "code": "26018",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Revolver"
+    "title": "La Grande Classe"
   },
   {
-    "code": "33019",
+    "code": "26019",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Point Arrière"
+    "title": "Lat : Freelance Éthique"
   },
   {
-    "code": "33020",
+    "code": "26020",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "On Ne Déjeune Pas à l’Œil"
+    "title": "Sur ma Lancée"
   },
   {
-    "code": "33021",
+    "code": "26021",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Capitaine Padma Isbister : Exploratrice intrépide"
+    "title": "Khusyuk"
   },
   {
-    "code": "33022",
+    "code": "26022",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Plongée en Profondeur"
+    "title": "Démarchage"
   },
   {
-    "code": "33023",
+    "code": "26023",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Dans les Abysses"
+    "title": "Supercorridor"
   },
   {
-    "code": "33024",
+    "code": "26024",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "S'équiper"
+    "title": "Gauss"
   },
   {
-    "code": "33025",
+    "code": "26025",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "{i}Endurance{/i}"
+    "title": "Pelangi"
   },
   {
-    "code": "33026",
+    "code": "26026",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Hyperbare"
+    "title": "Rezeki"
   },
   {
-    "code": "33027",
+    "code": "26027",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Propulseur"
+    "title": "L'Artiste"
   },
   {
-    "code": "33028",
+    "code": "26028",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Daeg, Premier Chat du Réseau"
+    "title": "Accès Direct"
   },
   {
-    "code": "33029",
+    "code": "26029",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Test Environnemental"
+    "title": "Rejig"
   },
   {
-    "code": "33030",
+    "code": "26030",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Chambre des Cartes"
+    "title": "Lanceur d'Alerte"
   },
   {
-    "code": "33031",
+    "code": "26031",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Bifurcation Élivágar"
+    "title": "MirrorMorph : Itération Perpétuelle"
   },
   {
-    "code": "33032",
+    "code": "26032",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Arcologie Minuit-3"
+    "title": "Test de Déploiement d'Architecte"
   },
   {
-    "code": "33033",
+    "code": "26033",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Campagne Refuge"
+    "title": "Calvin B4L3Y"
   },
   {
-    "code": "33034",
+    "code": "26034",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Bioroïdes Modèle Trieste"
+    "title": "Matrice de Nanogravure"
   },
   {
-    "code": "33035",
+    "code": "26035",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Écho"
+    "title": "Hagen"
   },
   {
-    "code": "33036",
+    "code": "26036",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Hákarl 1.0"
+    "title": "Totalement Opérationnel"
   },
   {
-    "code": "33037",
+    "code": "26037",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Vague"
+    "title": "Accès au Niveau Rouge"
   },
   {
-    "code": "33038",
+    "code": "26038",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Gros Contrat"
+    "title": "Serveur en Site Froid"
   },
   {
-    "code": "33039",
+    "code": "26039",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Du Sang dans l'Eau"
+    "title": "Institut Hyoubu : La Clarté Absolue"
   },
   {
-    "code": "33040",
+    "code": "26040",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Régenèse"
+    "title": "Projet Yagi-Uda"
   },
   {
-    "code": "33041",
+    "code": "26041",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Utriculaire"
+    "title": "Piqûre !"
   },
   {
-    "code": "33042",
+    "code": "26042",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Bassin Lunaire"
+    "title": "Portail de Santé Publique"
   },
   {
-    "code": "33043",
+    "code": "26043",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Anémone"
+    "title": "Résonateur Storgotique"
   },
   {
-    "code": "33044",
+    "code": "26044",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Bathynomus"
+    "title": "Saisentan"
   },
   {
-    "code": "33045",
+    "code": "26045",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Ivik"
+    "title": "Image Intégrale"
   },
   {
-    "code": "33046",
+    "code": "26046",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Mitose"
+    "title": "Letheia Nisei"
   },
   {
-    "code": "33047",
+    "code": "26047",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Mavirus"
+    "title": "Édition Remaniée"
   },
   {
-    "code": "33048",
+    "code": "26048",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Pravdivost Conseil : Solutions Politiques"
+    "title": "Quête Journalière"
   },
   {
-    "code": "33049",
+    "code": "26049",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Cryptocrash Artificiel"
+    "title": "Abonnement Multi-Niveaux"
   },
   {
-    "code": "33050",
+    "code": "26050",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Rejeton Tchèquiste"
+    "title": "Félicitations !"
   },
   {
-    "code": "33051",
+    "code": "26051",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Drago Ivanov"
+    "title": "Paquet Surprise"
   },
   {
-    "code": "33052",
+    "code": "26052",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Comissions Omniprésentes"
+    "title": "Panel Consommateurs"
   },
   {
-    "code": "33053",
+    "code": "26053",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Mestnishestvo"
+    "title": "Game Over"
   },
   {
-    "code": "33054",
+    "code": "26054",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Vasilisa"
+    "title": "Meilleures Probabilités"
   },
   {
-    "code": "33055",
+    "code": "26055",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Complots d'Arrière-Boutique"
+    "title": "Fond d'Investissement Privé"
   },
   {
-    "code": "33056",
+    "code": "26056",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Grille de Vladisibirsk"
+    "title": "Déploiement de Drones SDS"
   },
   {
-    "code": "33057",
+    "code": "26057",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Logistique Superlourde de l'Ob : Extrayez. Exportez. Excellez."
+    "title": "Escouade de Réparation"
   },
   {
-    "code": "33058",
+    "code": "26058",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Protocole Azef"
+    "title": "Afshar"
   },
   {
-    "code": "33059",
+    "code": "26059",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Excavateur Svyatogor"
+    "title": "Grès"
   },
   {
-    "code": "33060",
+    "code": "26060",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Enveloppement"
+    "title": "Trébuchet"
   },
   {
-    "code": "33061",
+    "code": "26061",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Maskirovka"
+    "title": "Protéger et Sécuriser"
   },
   {
-    "code": "33062",
+    "code": "26062",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Stravka"
+    "title": "Restriction des Services"
   },
   {
-    "code": "33063",
+    "code": "26063",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Extraction"
+    "title": "Audit de Vulnérabilité"
   },
   {
-    "code": "33064",
+    "code": "26064",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Destruction Mutuelle Assurée"
+    "title": "Campagne RSE"
   },
   {
-    "code": "33065",
+    "code": "26065",
     "flavor": null,
     "keywords": null,
     "text": null,
-    "title": "Opération de Confiance"
+    "title": "Givre"
   }
 ]
