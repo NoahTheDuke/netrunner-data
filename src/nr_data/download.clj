@@ -352,15 +352,17 @@
       (dissoc :verdicts)
       remove-nil-values))
 
-(defn merge-mwls
-  [current-mwls api-mwls]
-  (let [api-mwls-ids (set (map :id api-mwls))]
-    (->> (concat current-mwls api-mwls)
-         (group-by :id)
-         (map #(last (second %)))
-         (map #(if (api-mwls-ids (:id %))
-                 %
-                 (assoc % :custom true))))))
+(defn merge-custom
+  "Merge freshly downloaded api entries with the current edn entries, keyed by
+   :id. API entries win on conflict and keep their order; entries present only
+   in the current data are preserved and marked :custom true (e.g. manually
+   added cycles, sets, mwls)."
+  [current api]
+  (let [api-ids (set (map :id api))
+        custom (->> current
+                    (remove #(api-ids (:id %)))
+                    (map #(assoc % :custom true)))]
+    (concat api custom)))
 
 (defn mwl-sort-k
   [{:keys [format date-start]}]
@@ -410,10 +412,12 @@
 (defn cycle-handler
   [line-ending download-fn active-cycle-ids]
   (print "Downloading and processing cycles... ")
-  (let [cycles (->> (fetch-data download-fn (:cycle tables) (partial add-cycle-fields active-cycle-ids))
+  (let [path "edn/cycles.edn"
+        current (data/load-edn-from-dir path)
+        cycles (->> (fetch-data download-fn (:cycle tables) (partial add-cycle-fields active-cycle-ids))
+                    (merge-custom current)
                     (sort-by :position)
-                    (into []))
-        path (str "edn/cycles.edn")]
+                    (into []))]
     (io/make-parents path)
     (println "Saving" path)
     (spit path (str (zp/zprint-str cycles) line-ending))
@@ -422,10 +426,12 @@
 (defn set-handler
   [line-ending download-fn]
   (print "Downloading and processing sets... ")
-  (let [sets (->> (fetch-data download-fn (:set tables) add-set-fields)
+  (let [path "edn/sets.edn"
+        current (data/load-edn-from-dir path)
+        sets (->> (fetch-data download-fn (:set tables) add-set-fields)
+                  (merge-custom current)
                   (sort-by :date-release)
-                  (into []))
-        path (str "edn/sets.edn")]
+                  (into []))]
     (io/make-parents path)
     (println "Saving" path)
     (spit path (str (zp/zprint-str sets) line-ending))
@@ -461,7 +467,7 @@
   (let [path "edn/mwls.edn"
         current-mwls (data/load-edn-from-dir path)
         mwls (->> (fetch-data download-fn (:mwl tables) (partial convert-mwl lookup-id))
-                  (merge-mwls current-mwls)
+                  (merge-custom current-mwls)
                   (sort-by mwl-sort-k))]
     (io/make-parents path)
     (println "Saving" path)
