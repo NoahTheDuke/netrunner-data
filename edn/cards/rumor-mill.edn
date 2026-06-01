@@ -4,7 +4,7 @@
  :id "rumor-mill"
  :influence-cost 2
  :side :runner
- :stripped-text "This card is not trashed until another current is played or an agenda is scored. Each unique () non-region asset and upgrade loses its printed abilities."
+ :stripped-text "This card is not trashed until another current is played or an agenda is scored. Each unique ({unique}) non-region asset and upgrade loses its printed abilities."
  :stripped-title "Rumor Mill"
  :subtype [:current]
  :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nEach unique (♦) non-<strong>region</strong> asset and upgrade loses its printed abilities."

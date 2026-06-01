@@ -1,4 +1,15 @@
-[{:code "core"
+[{:code "unreleased"
+  :custom true
+  :cycle-id "unreleased"
+  :date-release nil
+  :deluxe false
+  :ffg-id nil
+  :id "unreleased"
+  :name "Unreleased"
+  :position 1
+  :set-type :draft
+  :size 2}
+ {:code "core"
   :cycle-id "core"
   :date-release "2012-09-06"
   :deluxe true
@@ -16,16 +27,6 @@
   :position 1
   :set-type :draft
   :size 1}
- {:code "unreleased"
-  :cycle-id "unreleased"
-  :date-release nil
-  :deluxe false
-  :ffg-id nil
-  :id "unreleased"
-  :name "Unreleased"
-  :position 1
-  :set-type :draft
-  :size 2}
  {:code "wla"
   :cycle-id "genesis"
   :date-release "2012-12-14"
@@ -676,16 +677,8 @@
   :position 1
   :set-type :data-pack
   :size 82}
- {:code "vp"
-  :cycle-id "vantage-point"
-  :date-release "2026-03-02"
-  :deluxe false
-  :id "vantage-point"
-  :name "Vantage Point"
-  :position 1
-  :set-type :data-pack
-  :size 66}
  {:code "rules"
+  :custom true
   :cycle-id "rules"
   :date-release "2025-04-24"
   :deluxe false
@@ -694,4 +687,13 @@
   :name "Rules"
   :position 1
   :set-type :rules
-  :size 9}]
+  :size 9}
+ {:code "vp"
+  :cycle-id "vantage-point"
+  :date-release "2026-03-02"
+  :deluxe false
+  :id "vantage-point"
+  :name "Vantage Point"
+  :position 1
+  :set-type :data-pack
+  :size 66}]

@@ -3,6 +3,7 @@
           :index 0
           :stripped-text "click: Flip this identity. You may pay 2 credits fewer when spending a click to trash a resource (not through a card ability)."
           :stripped-title nil
+          :subtype [:division]
           :text "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."}]
  :faction :nbn
  :id "sync-everything-everywhere"

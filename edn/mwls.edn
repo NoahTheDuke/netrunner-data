@@ -2356,8 +2356,8 @@
           "scarcity-of-resources" {:points 2}
           "sensie-actors-union" {:points 2}
           "shock" {:points 1}
-          "skorpios-defense-systems-persuasive-power" {:points 2}
           "sifr" {:points 2}
+          "skorpios-defense-systems-persuasive-power" {:points 2}
           "snitch" {:points 1}
           "spin-doctor" {:points 1}
           "temujin-contract" {:points 3}
@@ -2433,6 +2433,17 @@
   :format "startup"
   :id "startup-ban-list-24-09"
   :name "Startup Ban List 24.09"}
+ {:agenda-3-point-limit 3
+  :cards {"cleaver" {:deck-limit 0}
+          "let-them-dream" {:deck-limit 0}
+          "mercia-b4ll4rd" {:deck-limit 0}
+          "nbn-reality-plus" {:deck-limit 0}
+          "seamless-launch" {:deck-limit 0}}
+  :custom true
+  :date-start "2025-03-02"
+  :format "startup"
+  :id "startup-ban-list-26-03"
+  :name "Startup Ban List 26.03"}
  {:cards {"cleaver" {:deck-limit 0}
           "nbn-reality-plus" {:deck-limit 0}
           "pharos" {:deck-limit 0}
@@ -2453,24 +2464,13 @@
   :format "startup"
   :id "startup-ban-list-25-11"
   :name "Startup Ban List 25.11"}
- {:cards {"cleaver" {:deck-limit 0}
-          "let-them-dream" {:deck-limit 0}
-          "mercia-b4ll4rd" {:deck-limit 0}
-          "nbn-reality-plus" {:deck-limit 0}
-          "seamless-launch" {:deck-limit 0}}
-  :agenda-3-point-limit 3
-  :custom true
-  :date-start "2025-03-02"
-  :format "startup"
-  :id "startup-ban-list-26-03"
-  :name "Startup Ban List 26.03"}
- {:cards {"cleaver" {:deck-limit 0}
+ {:agenda-3-point-limit 3
+  :cards {"cleaver" {:deck-limit 0}
           "let-them-dream" {:deck-limit 0}
           "mercia-b4ll4rd" {:deck-limit 0}
           "nbn-reality-plus" {:deck-limit 0}
           "offworld-office" {:deck-limit 0}
           "seamless-launch" {:deck-limit 0}}
-  :agenda-3-point-limit 3
   :custom true
   :date-start "2026-05-01"
   :format "startup"

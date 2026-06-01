@@ -4,18 +4,19 @@
           :index 0
           :stripped-text "Whenever you make a successful run, if you have at least 1 unused [mu], you may flip this identity and draw 1 card."
           :stripped-title "Dewi Subrotoputri: Shadow Guide"
+          :subtype [:natural]
           :text "Whenever you make a successful run, if you have at least 1 unused [mu], you may flip this identity and draw 1 card."
           :title "Dewi Subrotoputri: Shadow Guide"}]
  :faction :shaper
  :id "dewi-subrotoputri-pedagogical-dhalang"
  :influence-limit 15
  :minimum-deck-size 45
+ :named-faces {"back" "Dewi Subrotoputri: Shadow Guide"}
  :num-extra-faces 1
  :side :runner
  :stripped-text "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1 credit."
  :stripped-title "Dewi Subrotoputri: Pedagogical Dhalang"
  :subtype [:natural]
- :named-faces {"back" "Dewi Subrotoputri: Shadow Guide"}
  :text "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1[credit]."
  :title "Dewi Subrotoputri: Pedagogical Dhalang"
  :type :identity
