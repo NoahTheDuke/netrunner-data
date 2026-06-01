@@ -14,6 +14,7 @@
           (str/replace #"\n" " ")
           (str/replace "–" "-")
           (str/replace "→" "->")
+          (str/replace "♦" "{unique}")
           (str/replace #"\[click\]\[click\]\[click\]" "click click click")
           (str/replace #"\[click\]\[click\]" "click click")
           (str/replace #"\[click\]" "click")
