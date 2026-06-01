@@ -7,7 +7,7 @@
    [clojure.string :as str]
    [nr-data.data :as data]
    [nr-data.text :refer [add-stripped-card-text]]
-   [nr-data.utils :refer [cards->map slugify apply-to-faces-too]]
+   [nr-data.utils :refer [cards->map slugify apply-to-faces-too map-kv]]
    [org.httpkit.client :as http]
    [zprint.core :as zp]))
 
@@ -244,6 +244,30 @@
          (not (contains? card :influence-limit)))
     (assoc :influence-limit nil)))
 
+(def named-face-mapping
+  "Maps a card-id to its :named-faces map. jnet uses :named-faces to label the
+   alternate sides of a flip identity, but NRDB does not provide these keys anymore.
+   Each value is either a face index (pull the title from that face) or a
+   literal string (used as-is, for cards whose alternate side has no faces entry like
+   cyber-bureau)."
+  {"dewi-subrotoputri-pedagogical-dhalang" {"back" 0}
+   "hoshiko-shiro-untold-protagonist" {"back" 0}
+   "nebula-talent-management-making-stars" {"back" 0}
+   "jinteki-biotech-life-imagined" {"brewery" 0, "tank" 1, "greenhouse" 2}
+   "melies-u-only-the-brightest" {"tenure" 0, "subsurface" 1, "disposal" 2}
+   "cyber-bureau-keeping-the-peace" {"back" "Detective's Bureau: Upholding the Law"}})
+
+(defn add-named-faces
+  [card]
+  (if-let [mapping (named-face-mapping (:id card))]
+    (let [faces-by-index (into {} (map (juxt :index identity)) (:faces card))
+          named-faces (map-kv #(if (number? %)
+                                 (:title (faces-by-index %))
+                                 %)
+                              mapping)]
+      (assoc card :named-faces named-faces))
+    card))
+
 (defn strip-extra-faces
   [card]
   (apply dissoc card (when (or (nil? (:num-extra-faces card))
@@ -264,6 +288,7 @@
       (normalize-id :title)
       remove-nil-values
       normalize-variable-values
+      add-named-faces
       strip-extra-faces
       strip-influence-cost))
 
