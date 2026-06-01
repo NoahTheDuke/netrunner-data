@@ -14,6 +14,7 @@
           (str/replace #"\n" " ")
           (str/replace "–" "-")
           (str/replace "→" "->")
+          (str/replace "♦" "{unique}")
           (str/replace #"\[click\]\[click\]\[click\]" "click click click")
           (str/replace #"\[click\]\[click\]" "click click")
           (str/replace #"\[click\]" "click")
@@ -26,7 +27,8 @@
           (str/replace #"\[trash]" "trash")
           (str/replace #"\[interrupt]" "Interrupt")
           (str/replace #"\[(anarch|criminal|shaper)]" "$1")
-          (str/replace #"\[(haas-bioroid|jinteki|nbn|weyland-consortium)]" "$1")))
+          (str/replace #"\[(haas-bioroid|jinteki|nbn|weyland-consortium)]" "$1")
+          (str/replace #" {2,}" " ")))
 
 (defn add-stripped-text [card]
   (if-let [plain-text (normalize-text (clean-text card))]

@@ -1,16 +1,38 @@
-{:named-faces {"tenure"      "Tenure Floors: Méliès U"
-               "subsurface"  "Subsurface Labs: Méliès U"
-               "disposal"    "Disposal Grounds: Méliès U"}
+{:deck-limit 1
+ :faces [{:id "tenure-floors-melies-u"
+          :index 0
+          :stripped-text "When you flip this identity to this side during a run on HQ, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runners discard phase ends, flip this identity."
+          :stripped-title "Tenure Floors: Melies U"
+          :subtype [:department]
+          :text "When you flip this identity to this side during a run on HQ, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity."
+          :title "Tenure Floors: Méliès U"}
+         {:id "subsurface-labs-melies-u"
+          :index 1
+          :stripped-text "When you flip this identity to this side during a run on R&D, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runners discard phase ends, flip this identity."
+          :stripped-title "Subsurface Labs: Melies U"
+          :subtype [:department]
+          :text "When you flip this identity to this side during a run on R&D, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity."
+          :title "Subsurface Labs: Méliès U"}
+         {:id "disposal-grounds-melies-u"
+          :index 2
+          :stripped-text "When you flip this identity to this side during a run on Archives, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ. When the Runners discard phase ends, flip this identity."
+          :stripped-title "Disposal Grounds: Melies U"
+          :subtype [:department]
+          :text "When you flip this identity to this side during a run on Archives, look at the top card of R&D. You may trash that card. If you do, add 1 card from Archives to HQ.\nWhen the Runner’s discard phase ends, flip this identity."
+          :title "Disposal Grounds: Méliès U"}]
  :faction :jinteki
  :id "melies-u-only-the-brightest"
  :influence-limit 15
  :minimum-deck-size 45
+ :named-faces {"disposal" "Disposal Grounds: Méliès U"
+               "subsurface" "Subsurface Labs: Méliès U"
+               "tenure" "Tenure Floors: Méliès U"}
  :num-extra-faces 3
  :side :corp
- :stripped-text "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner's action phase ends, gain 1 credit."
- :stripped-title "Méliès U: Only the Brightest"
+ :stripped-text "When your discard phase ends, secretly set your identity to any copy of Melies U: Only the Brightest. When the Runner makes a successful run on a central server, flip this identity. When the Runners action phase ends, gain 1 credit."
+ :stripped-title "Melies U: Only the Brightest"
  :subtype [:division]
- :text "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner's action phase ends, gain 1 [Credit]."
+ :text "When your discard phase ends, secretly set your identity to any copy of Méliès U: Only the Brightest.\nWhen the Runner makes a successful run on a central server, flip this identity.\nWhen the Runner’s action phase ends, gain 1[credit]."
  :title "Méliès U: Only the Brightest"
  :type :identity
  :uniqueness false}

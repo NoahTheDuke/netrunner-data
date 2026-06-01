@@ -68,7 +68,8 @@
   :position 13
   :rotated true
   :size 2}
- {:id "unreleased"
+ {:custom true
+  :id "unreleased"
   :name "Unreleased"
   :position 14
   :rotated false
@@ -148,7 +149,8 @@
   :position 35
   :rotated false
   :size 1}
- {:id "rules"
+ {:custom true
+  :id "rules"
   :name "Rules"
   :position 99
   :rotated true

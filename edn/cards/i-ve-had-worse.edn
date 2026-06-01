@@ -3,6 +3,7 @@
  :faction :anarch
  :id "i-ve-had-worse"
  :influence-cost 2
+ :original-id "ive-had-worse"
  :side :runner
  :stripped-text "Draw 3 cards. Whenever I've Had Worse is trashed by taking net or meat damage, draw 3 cards."
  :stripped-title "I've Had Worse"

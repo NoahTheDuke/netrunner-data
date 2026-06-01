@@ -4,6 +4,7 @@
  :id "na-not-k"
  :influence-cost 1
  :memory-cost 1
+ :original-id "nanotk"
  :side :runner
  :strength 1
  :stripped-text "During runs, this program gets +1 strength for each piece of ice protecting the attacked server. Interface -> 1 credit: Break 1 sentry subroutine. 3 credits: +2 strength."

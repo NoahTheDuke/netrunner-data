@@ -20,13 +20,13 @@
           :subtype [:department]
           :text "When you flip this identity, place 4 advancement counters on 1 installed card that you can advance."
           :title "The Greenhouse: Jinteki Biotech"}]
- :named-faces {"tank"       "The Tank: Jinteki Biotech"
-               "brewery"    "The Brewery: Jinteki Biotech"
-               "greenhouse" "The Greenhouse: Jinteki Biotech"}
  :faction :jinteki
  :id "jinteki-biotech-life-imagined"
  :influence-limit 15
  :minimum-deck-size 45
+ :named-faces {"brewery" "The Brewery: Jinteki Biotech"
+               "greenhouse" "The Greenhouse: Jinteki Biotech"
+               "tank" "The Tank: Jinteki Biotech"}
  :num-extra-faces 3
  :side :corp
  :stripped-text "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity."
