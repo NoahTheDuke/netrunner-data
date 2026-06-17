@@ -1,541 +1,539 @@
 [
   {
     "code": "30001",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ラン・ワイルド。",
+    "keywords": "Ｇーモード",
+    "text": "各ターン、君がアクセスしているカード１枚を初めてトラッシュした時、１[credit]を得て、カードを１枚引く。",
     "title": "ルネ・“ルウ”・アースモント: パーティー・アニマル"
   },
   {
     "code": "30002",
-    "flavor": null,
+    "flavor": "組合の委員長を買収しようと俺たちのストは止められないぞ！",
     "keywords": null,
-    "text": null,
+    "text": "コーポの選択で以下から１つを解決する。<ul><li>６[credit]を得る。</li><li>•カードを４枚引く。</li></ul>",
     "title": "山猫ストライキ"
   },
   {
     "code": "30003",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「飢えてるのさ。問題に歯を食い込ませることにな」\n──ルウ",
+    "keywords": "コンソール",
+    "text": "＋１[mu]\nアクセス→<strong>グリップのカードを２枚トラッシュする：</strong>アクセスしているカードをトラッシュする。この能力の使用はターンごとに１回のみ。\n各プレイヤーの<strong>コンソール</strong>は１つまで。",
     "title": "カーニボー"
   },
   {
     "code": "30004",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "何か食ったか？",
+    "keywords": "ウィルス",
+    "text": "アイスの上にのみインストールする。\nこのプログラムのインストール時と、君のターンの開始時、このプログラムにウィルスカウンターを１つ置く。\n<strong>搭載ウィルスカウンター１つ：</strong>ホストのアイスのサブルーチンを１つブレイクする。",
     "title": "ボチュラス"
   },
   {
     "code": "30005",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "破壊は芸術である。",
+    "keywords": "アイスブレイカー - デコーダー",
+    "text": "境界→<strong>１[credit]：</strong><strong>コードゲート</strong>のサブルーチンを２つまでブレイクする。\n<strong>３[credit]：</strong>強度＋１。",
     "title": "バズソー"
   },
   {
     "code": "30006",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "繊細さだなんて、ぜいたくだ。",
+    "keywords": "アイスブレイカー - フラクター",
+    "text": "境界→<strong>１[credit]：</strong><strong>バリア</strong>のサブルーチンを２つまでブレイクする。\n<strong>２[credit]：</strong>強度＋１。",
     "title": "クリーヴァー"
   },
   {
     "code": "30007",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「料理の緊張ってあるよな。過程を経てポットに味をつけ、加熱する。夜通しシェイクして、マズいと思ったことはあまりない」\n──ルネ・\"ルウ\"・アースモント",
+    "keywords": "ウィルス",
+    "text": "このプログラムのインストール時と、君のターンの開始時、このプログラムにウィルスカウンターを１つ置く。\n<strong>[click]、[trash]：</strong>搭載ウィルスカウンター１つにつき２[credit]を得る。",
     "title": "ファーメンター"
   },
   {
     "code": "30008",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "企業の重役室の一歩手前に、いちばん強欲な吸血鬼。",
+    "keywords": "ウィルス",
+    "text": "中央サーバーへのランに成功するたび、このプログラムにウィルスカウンターを１つ置く。\n<strong>搭載ウィルスカウンター１つ：</strong>このエンカウントの残りの間、エンカウントしているアイスは強度―１される。",
     "title": "リーチ"
   },
   {
     "code": "30009",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「最深ハブのさらに下で、それは空白のポストイットを待っている。怒りで自暴自棄になった魂はそれを探し、残酷な世界を変える力に飢えている。苦い復讐に耐えられなくなれば、奴らはその名もなき空洞に戻り、レシピのページを追加する」\n──ハインラインの都市伝説",
+    "keywords": "仮想",
+    "text": "君が<strong>ウィルス</strong>のプログラムをインストールするたび、ウィルスカウンターをそれに１つ置いてよい。",
     "title": "クックブック"
   },
   {
     "code": "30010",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "あなたの欲をいただくわ。",
+    "keywords": "サイボーグ",
+    "text": "ＨＱかＲ＆Ｄへのランが終了するたび、そのラン中にカード１枚にアクセスした回数１回につき１[credit]を得てよい。この能力の使用はターンごとに１回のみ。",
     "title": "ザイア・サデギ: 多才な密輸人"
   },
   {
     "code": "30011",
-    "flavor": null,
+    "flavor": "真の報酬は、ゆく道で出来る仲間だ。",
     "keywords": null,
-    "text": null,
+    "text": "スタックから<strong>アイスブレイカー</strong>のプログラムを1つ探し、公開する。<em>(探したスタックはシャッフルする。)</em>このターンにランを成功させている場合、それをインストールしてよい。そうしなかった場合、それをグリップに加える。",
     "title": "互恵"
   },
   {
     "code": "30012",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「ミラーファイバー加工やハイエンド・マントルも便利だが、『ずっとしゃがんでろ』の精神に勝るものじゃない」\n──「コ\"ー７ァー」・オブライエン",
+    "keywords": "ラン",
+    "text": "任意のサーバーにラン。そのラン中、各アイスのレゾコストは３[credit]増える。",
     "title": "慎重に事を運べ"
   },
   {
     "code": "30013",
-    "flavor": null,
+    "flavor": "ドックランドとドームズの間にあるすべての扉の守衛を、ザイアは知っている。さらに重要なのは、そいつらがいくらなのかも知っている。",
     "keywords": null,
-    "text": null,
+    "text": "各ターン、ＨＱに初めて侵入した時、追加で１枚のカードにアクセスする。",
     "title": "ドックランド・パス"
   },
   {
     "code": "30014",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「見栄っ張りは大物を追う。努力家はクレジットを細かく分散スキミングして、財を成す」──ザイア",
+    "keywords": "コンソール",
+    "text": "＋１[mu]\nランを成功させるたび、このハードウェアに１[credit]を置く。\n<strong>[click]</strong>：このハードウェアに１[credit]を置いてから、これの全クレジットを取る。\n各プレイヤーの<strong>コンソール</strong>は１つまで。",
     "title": "ペニーシェイバー"
   },
   {
     "code": "30015",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "全世界のドメイン。\n法のための自由意志。",
+    "keywords": "アイスブレイカー - キラー",
+    "text": "このターンにランを成功させている場合、このプログラムをインストールするためのコストは２[credit]減る。\n境界 →<strong>１[credit]：</strong><strong>セントリー</strong>のサブルーチンを１つブレイクする。\n<strong>２[credit]：</strong>強度＋３。",
     "title": "カルメン"
   },
   {
     "code": "30016",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「じっといていちゃ、世界を獲れないわよ」\n──ザイア・サデギ",
+    "keywords": "アイスブレイカー - フラクター",
+    "text": "境界→<strong>２[credit]</strong>：<strong>バリア</strong>のサブルーチンを１つブレイクする。このターンにランが成功している場合、この能力を使用するためのコストは１[credit]減る。\n<strong>１[credit]：</strong>強度＋１。",
     "title": "マリワナ"
   },
   {
     "code": "30017",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "しーっ。お昼寝の時間だ。",
+    "keywords": "ウィルス",
+    "text": "アイスの上にのみインストールする。\nこのプログラムのインストール時と、君のターンの開始時、このプログラムにウィルスカウンターを１つ置く。それから、搭載ウィルスカウンターが３つ以上である場合、ホストのアイスをデレゾする。",
     "title": "トランキライザー"
   },
   {
     "code": "30018",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ハインラインのドームズは、無慈悲な資本主義の圧力鍋だ。まっとうな雇い主なら、経歴を調べる時間などほとんどない。",
+    "keywords": "仕事",
+    "text": "このリソースをインストールした時、12[credit]をこれに積む。これが空である時、これをトラッシュする。\n<strong>[click]：</strong>このターンにまだランしていない、いずれかの中央サーバーにラン。成功した場合、このリソースから３[credit]を取る。",
     "title": "レッド・チーム"
   },
   {
     "code": "30019",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "充分に発達したスキルは、魔法と区別がつかない。",
+    "keywords": "ナチュラル",
+    "text": "計画書が１つ得点されるか盗まれるたび、インストール状態のアイス２つを入れ替えてよい。",
     "title": "タオ・サロンガ: テレプレゼンスの魔法使い"
   },
   {
     "code": "30020",
-    "flavor": null,
+    "flavor": "芸術への挑戦は生涯をかけた目標といえるが、うまの合うパトロンにイヤとは言えない。",
     "keywords": null,
-    "text": null,
+    "text": "５[credit]を得る。君の[click]がまだ残っている場合、[click]を失う。",
     "title": "創造的委託"
   },
   {
     "code": "30021",
-    "flavor": null,
+    "flavor": "「トランクリティの海に水がないなんて常識でしょ？」\n「だからってビーチがないわけじゃない」",
     "keywords": null,
-    "text": null,
+    "text": "カードを４枚引く。君の[click]がまだ残っている場合、[click]を失う。",
     "title": "ＶＲ休暇"
   },
   {
     "code": "30022",
-    "flavor": null,
+    "flavor": "タオが息を吐くと、医療外骨格がその姿勢を正確に安定させた。呼吸を止め、ワルドーとオプティマイザーの層に手を伸ばし、異状分子モジュールをチップ群から取り出した。",
     "keywords": null,
-    "text": null,
+    "text": "[mu]＋１\n各ターン、初めてインスールするプログラムは、インストールするためのコストが１[credit]減る。",
     "title": "DZMZオプティマイザー"
   },
   {
     "code": "30023",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「この子がいれば、触覚フィードバックのみに依存した同時ランという芸当も可能だ！」\n──タオ",
+    "keywords": "コンソール",
+    "text": "＋１[mu]\n計画書が１つ得点されるか盗まれるたび、１[credit]を得る。それから、グリップのカードを１枚インストールしてよい。\n各プレイヤーの<strong>コンソール</strong>は１つまで。",
     "title": "パンタグラフ"
   },
   {
     "code": "30024",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "生かじりの真実とはたちの悪い夢。\n飲み下すか、加熱したデータストリームを味わうか。",
+    "keywords": "ウィルス",
+    "text": "Ｒ＆Ｄへの成功したランが終了するたび、このプログラムにウィルスカウンターを１つ置いてよい。\n<strong>[click]：</strong>Ｒ＆Ｄにラン。成功したなら、Ｒ＆Ｄに侵入した時、追加でＸ枚のカードにアクセスする。Ｘは搭載ウィルスカウンターの数に等しい。",
     "title": "コンジット"
   },
   {
     "code": "30025",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "オープンプロジェクトが美しいのは、それぞれの成功の上に立っているから。",
+    "keywords": "アイスブレイカー - キラー",
+    "text": "このプログラムは、インストール状態の<strong>アイスブレイカー</strong>１つにつき強度＋１される。<em>（これ自体を含む。）</em>\n境界→<strong>１[credit]：</strong><strong>セントリー</strong>のサブルーチンを１つブレイクする。\n<strong>３[credit]：</strong>強度＋２。",
     "title": "エシュロン"
   },
   {
     "code": "30026",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "手製のコードが楽しいのは、それぞれが全体の中にきれいに収まるから。",
+    "keywords": "アイスブレイカー - デコーダー",
+    "text": "境界→<strong>１[credit]：</strong><strong>コードゲート</strong>のサブルーチンを１つブレイクする。\n<strong>１[credit]：</strong>インストール状態のアイスブレイカー１つ<em>（これ自体を含む。）</em>につき強度＋１。",
     "title": "ユニティ"
   },
   {
     "code": "30027",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「知る限り、旧ウェイランドそのものを掘り返すシフトについていた」\n──ルネ",
+    "keywords": "仕事",
+    "text": "このリソースをインストールした時、９[credit]をこれに積む。これが空である時、これをトラッシュする。\n<strong>[click]：</strong>このリソースから３[credit]を取る。この能力の使用はターンごとに１回のみ。",
     "title": "テレワークの契約"
   },
   {
     "code": "30028",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「局所的な武力行使によって特権を拡大する。私安部からアクセスコードを奪うんだ」\n──キャタリスト",
+    "keywords": "ラン",
+    "text": "ＨＱかＲ＆Ｄにラン。成功したなら、カードを1枚引き、攻撃しているサーバーに侵入した時、追加で1枚のカードにアクセスする。",
     "title": "脱獄"
   },
   {
     "code": "30029",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "381FS4の独立行動開始後、全ては白紙化した。ブレインチップを付け替え……<strong>我々の</strong>ノードの調査までも。停止しなければ。\n──ライナス・ラブグッド、ＮＢＮノベルティ買収部",
+    "keywords": "ラン",
+    "text": "このイベントに５[credit]を置いてから、任意のサーバーにラン。君は搭載クレジットを、ラン中に消費できる。",
     "title": "オーバークロック"
   },
   {
     "code": "30030",
-    "flavor": null,
+    "flavor": "計画や練習、準備に時間を費やすのは誰でもできる。しかし、運の力に見せかけるにも<strong>風格</strong>が必要だ。",
     "keywords": null,
-    "text": null,
+    "text": "９[credit]を得る。",
     "title": "確実なギャンブル"
   },
   {
     "code": "30031",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "今でもＬＬＤＳ社が特許を保有するが、優れた技術は模倣を呼ぶ。",
+    "keywords": "チップ",
+    "text": "＋１[mu]\n君の手札上限は＋１される。",
     "title": "T400メモリー・ダイアモンド"
   },
   {
     "code": "30032",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "実行時間が数秒の最小のＡＩも、コンパイルには数週が必要だが、そのとき……その一瞬の輝きが、<strong>すべて</strong>を可能にする。",
+    "keywords": "アイスブレイカー - ＡＩ",
+    "text": "境界→<strong>１[credit]：</strong>サブルーチンを１つブレイクする。このランの終了時、このプログラムをトラッシュする。\n<strong>１[credit]：</strong>強度＋１。",
     "title": "メイフライ"
   },
   {
     "code": "30033",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "２２世紀の技術の美しさとは……数十年後にもまだ機能しているとき、品質の優れていることを知ることになる。",
+    "keywords": "コネ",
+    "text": "<strong>[click]：</strong>このリソースに３[credit]を置く。\n君のターンの開始時、このリソースから１[credit]を取る。",
     "title": "スマートウェアの販売屋"
   },
   {
     "code": "30034",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "美容やスポーツ、徹夜のためにＧ－モードになった子もいる。ブロカモデルがクールだって両親は思ってる。はは。今んとこマスターしてる10か国語で、彼らへの感謝の言葉を探してるよ」\n──ユースケ・サイトー、乱脈な規律家",
+    "keywords": "遺伝",
+    "text": "各ターン、君が基本アクションを行って初めてカード１枚を引いた時、代わりに２枚引く。",
     "title": "言葉の可塑性"
   },
   {
     "code": "30035",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "間違った場所にない原子。",
+    "keywords": "メガコーポ",
+    "text": "君の手札上限は＋１される。\n君が計画書を１つ得点するたび、アーカイブのカード１枚をＨＱに加える。",
     "title": "ハース=バイオロイド: 精密デザイン"
   },
   {
     "code": "30036",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "私たちは明日の光。",
+    "keywords": "研究",
+    "text": "この計画書を得点した時、[click][click][click]を得る。このターンの残りの間、君は計画書を得点できない。\nデッキに１枚制限。",
     "title": "ルミナル全質変化"
   },
   {
     "code": "30037",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ハースの人々は中性の新製品ラインを計画中。実際のところ、私たちの何千もの新しいきょうだい達を解放しようとしてくれているのよ。",
+    "keywords": "広告",
+    "text": "この資財をレゾした時、９[credit]をこれに積む。これが空である時、これをトラッシュし、カードを１枚引く。\n君のターンの開始時、この資財から３[credit]を取る。",
     "title": "ニコ・キャンペーン"
   },
   {
     "code": "30038",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "<strong>デザイン：Patrick Gower（2018年欧州チャンピオン）</strong>",
+    "keywords": "セントリー - バイオロイド - デストロイヤー",
+    "text": "<strong>残りの[click]を失う：</strong>このアイスのサブルーチンを１つブレイクする。ランナーのみがこの能力を使用できる。\n[subroutine] インストール状態のランナーのカード１枚をトラッシュする。\n[subroutine] ＨＱかアーカイブのカードを１枚インストールしてよい。\n[subroutine] このランの残りの間、ランナーはコーポのカードを盗みもトラッシュもできない。",
     "title": "アンセル1.0"
   },
   {
     "code": "30039",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "バリア - バイオロイド",
+    "text": "<strong>残りの[click]を失う：</strong>このアイスのサブルーチンを１つブレイクする。ランナーのみがこの能力を使用できる。\n[subroutine] ＨＱかアーカイブのアイス１つを、すべてのコストを無視して、このアイスから見て直近内側にインストールしてよい。\n[subroutine] ランの終了。\n[subroutine] ランの終了。",
     "title": "ブラン1.0"
   },
   {
     "code": "30040",
-    "flavor": null,
+    "flavor": "バイオロイドを操作するための簡単なレッスンその１。感じさせるべからず。",
     "keywords": null,
-    "text": null,
+    "text": "君がこのターンにインストールしたのではないインストール状態のカード１枚に、アドバンスカウンターを２つ置く。",
     "title": "絶え間ない発売"
   },
   {
     "code": "30041",
-    "flavor": null,
+    "flavor": "多事多忙。",
     "keywords": null,
-    "text": null,
+    "text": "カードを３枚引く。ＨＱのカード２枚をＲ＆Ｄに加えシャッフルする。",
     "title": "全速前進"
   },
   {
     "code": "30042",
-    "flavor": null,
+    "flavor": "「こんなに厳重に警備されているのは、誰の記憶テープ？」\n──キャタリスト",
     "keywords": null,
-    "text": null,
+    "text": "ランナーがこのサーバーにアプローチするたび、そのランナーが[click][click]を消費するか、5[credit]を支払わないかぎり、ランの終了。",
     "title": "モーネガルム・スカンクワークス"
   },
   {
     "code": "30043",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "苦しみの終わり。",
+    "keywords": "メガコーポ",
+    "text": "君のディスカード・フェイズの終了時、アーカイブに裏向きのカードがある場合、１[credit]を得る。",
     "title": "ジンテキ: 人間性の修復"
   },
   {
     "code": "30044",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "やりなおせますよ。",
+    "keywords": "研究",
+    "text": "この計画書を得点した時、ＨＱの任意の数のカードをトラッシュする。アーカイブのカードを３枚までＲ＆Ｄに加えシャッフルする。\nデッキに１枚制限。",
     "title": "長命血清"
   },
   {
     "code": "30045",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "クロノスの新型スピンオフ技術は、繊細なデータと負傷した職員の倫理的な脳イメージの混交だった。千年のあいだ焼ける皮膚を、一瞬のうち対処できる侵入者はまれだ。",
+    "keywords": "待ち伏せ",
+    "text": "君はこの資財をアドバンスできる。\nランナーがインストール状態のこの資財にアクセスした時、２ネットダメージに加え、搭載アドバンスカウンター１つにつき１ネットダメージを与える。",
     "title": "イラクサの暗号"
   },
   {
     "code": "30046",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "一度のバイオメトリクス調査で、あなたの未来を読み取る。",
+    "keywords": "コードゲートー - 対人",
+    "text": "[subroutine] １ネットダメージを与える。表記の、プレイコストかインストールコストが奇数のカードを君がトラッシュした場合、ランの終了。（０は奇数ではない。）",
     "title": "ディヴァイナー"
   },
   {
     "code": "30047",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "逃げきったのではなく、情けをかけた。",
+    "keywords": "セントリー - 対人",
+    "text": "[subroutine] ２ネットダメージを与える。ランナーはジャックアウトしてよい。\n[subroutine] ２ネットダメージを与える。",
     "title": "カルナ"
   },
   {
     "code": "30048",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「常に自分を見返すことが、卓越へのカギとなる。我々は誤ったアイデアを忘れないが、それを未来へ持ち越すこともない」\n──カセ局長、未知の人材教育研修にて",
+    "keywords": "取引",
+    "text": "10[credit]を得る。ＨＱにカードがあるなら、うち１枚をトラッシュする。",
     "title": "反省レビュー"
   },
   {
     "code": "30049",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ネットにおけるマクロ開発の視点では、先に情報状態を分割します。余剰のエントロピーは、もっとも効果的な場所に与えることです。",
+    "keywords": "触法",
+    "text": "Ｘ点のネットダメージを与える。Ｘは君がこのターンに得点した計画書の、表記計画ポイントの合計に等しい。",
     "title": "神経電位スパイク"
   },
   {
     "code": "30050",
-    "flavor": null,
+    "flavor": "自己進化ネットは考えたことも考えることもできないような空間へとねじれゆき、神域の情報危機 は、我々の献身を因果関係に見せる。\n──応用神学の概念的フレームワーク",
     "keywords": null,
-    "text": null,
+    "text": "ランナーがこのサーバーにアプローチするたび、君は「２[credit]支払って、ＨＱのカード２枚を捨てる」をしてよい。そうした場合、ランの終了。",
     "title": "原初の虚無"
   },
   {
     "code": "30051",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "本物で満足？",
+    "keywords": "メガコーポ",
+    "text": "各ターン、ランナーが初めてタグを１つ受けた時、２[credit]を得るか、カードを２枚引く。",
     "title": "NBN: リアリティー・プラス"
   },
   {
     "code": "30052",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "我々がニュースを見つけるのではない。我々が生み出すのだ。",
+    "keywords": "待ち伏せ",
+    "text": "この計画書が得点されたか盗まれた時、ランナーにタグを１つ与える。\nデッキに１枚制限。",
     "title": "明日の見出し"
   },
   {
     "code": "30053",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「死肉のほうがマシだ。この企画はハゲタカどもの餌にもならんほど害悪だ！世間から<strong>飽きられたくない</strong>なら、ビジネス番組に出まくって、肥溜めのブタみてぇにわめき散らしてりゃいいんだ！」",
+    "keywords": "人物",
+    "text": "この資財をレゾした時、カードを２枚引く。\n<strong>この資財をゲームから取り除く：</strong>アーカイブのカードを２枚までＲ＆Ｄに加え、シャッフルする。",
     "title": "御用学者"
   },
   {
     "code": "30054",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "これが終わったら、ＶＲを休憩するよ。\n──シーオブリバルドリー、感応放画の配信者",
+    "keywords": "コードゲート",
+    "text": "ランナーがこのアイスにエンカウントした時、そのランナーがタグを１つ受けないかぎり、ランの終了。\n[subroutine] ランナーが４[credit]を支払わないかぎり、そのランナーにタグを１つ与える。",
     "title": "ファンハウス"
   },
   {
     "code": "30055",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "AvID:??:73.174 time=0.632 ms\nAvID:??:73.174 time=0.201 ms\nAvID:??:73.174 time=0.000 ms <strong>警告</strong>",
+    "keywords": "バリア",
+    "text": "このサーバーへのラン中にこのアイスがレゾされた時、ランナーにタグを１つ与える。\n[subroutine] ランの終了。",
     "title": "ピング"
   },
   {
     "code": "30056",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "最高の拡張現実ショッピングをお楽しみいただくためにも、トラッキング保護は解除してください。",
+    "keywords": "取引",
+    "text": "以下から１つを解決する。ランナーがタグされている場合、代わりに両方を解決してよい。<ul><li>３[credit]を得る。</li><li>カードを３枚引く。</li></ul>",
     "title": "予測陳列計画"
   },
   {
     "code": "30057",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「ランナーは貴重なリソースを消費して痕跡を洗浄している。いたちごっこのようなサイクルで、トレーサビリティは次々と悪化した。しかし、ゲームは変わる。ハインラインの魚が<strong>私たちの</strong>ＡＲネットワークという水から出ることなど不可能だ」\n──キャシー・ラローザ、ルナのネット防衛シスオペ",
+    "keywords": "触法",
+    "text": "ランナーがその最後のターン中、ランを成功させていた場合にのみプレイする。\nランナーが８[credit]を支払わない限り、そのランナーにタグを１つ与える。",
     "title": "公共トレイル"
   },
   {
     "code": "30058",
-    "flavor": null,
+    "flavor": "記念品のおみやげが、無料！",
     "keywords": null,
-    "text": null,
+    "text": "不揮発性→このサーバーへのランが終了するたび、計画書を１枚以上ランナーが盗んでいた場合、ランナーにタグを２つ与える。<em>（ランナーがアクセス中にこのカードをトラッシュしても、このランの残りの間、この能力を適用する。）<?em>",
     "title": "アメイズ・アミューズメント"
   },
   {
     "code": "30059",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "根付く。",
+    "keywords": "メガコーポ",
+    "text": "君がカードを１枚アドバンスするたび、それにアドバンスカウンターがなかった場合、２[credit]を得る。",
     "title": "ウェイランド・コンソーシアム: 永年建設"
   },
   {
     "code": "30060",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "我々は裁判官でも陪審員でもあり、そして執行人でもある。",
+    "keywords": "保安",
+    "text": "この計画書を得点した時、インストール状態のリソースを１つトラッシュしてよい。\nデッキに１枚制限。",
     "title": "法を超えて"
   },
   {
     "code": "30061",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ビジネスのルールその１。取引が実施されたとき「個人的な責任」を負わない。\n──テッド・Ｊ ・ソン、中央精算機関にて",
+    "keywords": "敵対",
+    "text": "君はこの資財をアドバンスできる。\n君のターンの開始時、この資財をトラッシュすることで、搭載アドバンスカウンター１つにつき１ミートダメージを与えてよい。",
     "title": "清算機関"
   },
   {
     "code": "30062",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「リグに穴が空いちまう。そればかりか、予定にもだ。」\n──ルネ・\"ルウ\"・アースモント",
+    "keywords": "セントリー - デストロイヤー",
+    "text": "[subroutine] インストール状態のプログラムを１つトラッシュするか、ランの終了。",
     "title": "バリスタ"
   },
   {
     "code": "30063",
     "flavor": null,
-    "keywords": null,
-    "text": null,
+    "keywords": "バリア",
+    "text": "君はこのアイスをアドバンスできる。搭載アドバンスカウンターが３つ以上ある間、これは強度＋５される。\n[subroutine] ランナーにタグを１つ与える。\n[subroutine] ランの終了。\n[subroutine] ランの終了。",
     "title": "ファロス"
   },
   {
     "code": "30064",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「もしも政府が予算の1%を使って、残り99%の行き先を俺たちに追わせれば、俺たちゃみな刑務所行きだ…\n…まあそれは、マジで<strong>『もしも』</strong>の話だが」\n──ヒューイ・デモラ、ウェイコンの公私ファシリティ研修",
+    "keywords": "取引",
+    "text": "15[credit]を得る。",
     "title": "政府の補助金"
   },
   {
     "code": "30065",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "逃げられると本気で思っていたのか？",
+    "keywords": "触法",
+    "text": "ランナーがタグされている場合にのみプレイする。\nインストール状態の、プログラムかハードウェアを１つトラッシュする。",
     "title": "報い"
   },
   {
     "code": "30066",
-    "flavor": null,
+    "flavor": "「永遠の暗黒のクレーター」に、陽光が及ぶことはない。コンソーシアムの積み重ねてきた、血塗られた機密の秘匿にふさわしい。",
     "keywords": null,
-    "text": null,
+    "text": "このサーバーから計画書を１つ得点するたび、「Ｒ＆Ｄから計画書でないカードを１つ探し、公開する」をしてよい。<em>(探したＲ＆Ｄはシャッフルする。)</em>そのカードをＨＱに加える。",
     "title": "マラパートのデータ・ドーム"
   },
   {
     "code": "30067",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ルナ最初の都市として、ハインラインは新たな開拓地の夢と限りない目的を託されていた。しかしヘリウム３の採掘は、コーポたちが手放すには、あまりに儲かりすぎていた。",
+    "keywords": "拡張",
+    "text": "この計画書を得点した時、７[credit]を得る。",
     "title": "オフワールド事務所"
   },
   {
     "code": "30068",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "マフィアは警察を買収し、メガコーポは軍隊を接収する。",
+    "keywords": "保安",
+    "text": "この計画書を得点した時、ランナーがタグされている場合は４ミートダメージを与えるが、そうでなければタグを１つ与える。",
     "title": "軌道優勢"
   },
   {
     "code": "30069",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "これで終わりかもしれんが、次は<strong>必ず</strong>仕留める。",
+    "keywords": "保安",
+    "text": "この計画書が得点されたか盗まれた時、インストール状態のアイスを１つ、すべてのコストを無視してレゾしてよい。",
     "title": "メッセージを送れ"
   },
   {
     "code": "30070",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "アース・ルナ間の通信では、数マイクロ秒を節約することにクレジット上で百万単位の利益がある。",
+    "keywords": "拡張",
+    "text": "この計画書を得点した時、カードを２枚引いてよい。\n君の手札上限は＋２される。",
     "title": "超電導ハブ"
   },
   {
     "code": "30071",
-    "flavor": null,
+    "flavor": "「３つの世界の経済は、ルナ表層からのヘリウム３採掘事業が維持している。権力の要、集団生存の鍵として──最高額入札者に落札される」\n──キャタリスト",
     "keywords": null,
-    "text": null,
+    "text": "この資財をレゾした時、15[credit]をこれに積む。これが空である時、これをトラッシュする。\n<strong>[click]：</strong>この資財から３[credit]を取る。",
     "title": "リゴリス採掘許可証"
   },
   {
     "code": "30072",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "ご近所さんに隠し事をしない。",
+    "keywords": "バリア",
+    "text": "このアイスが遠隔サーバーを守っている間、これは強度＋２される。\n[subroutine] ランの終了。",
     "title": "パリセード"
   },
   {
     "code": "30073",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "「苦しみだすまでやれば……もっと欲しがるぞ」\n──レッド・コミン",
+    "keywords": "セントリー - 対人",
+    "text": "[subroutine] １ネットダメージを与える。\n[subroutine] １[credit]を得る。",
     "title": "タイズ"
   },
   {
     "code": "30074",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "[この欄あえて空白のまま]",
+    "keywords": "コードゲート",
+    "text": "[subroutine] ランナーは３[credit]を失う。\n[subroutine] ランナーが６[credit]以下を所有の場合、ランの終了。",
     "title": "ホワイトスケープ"
   },
   {
     "code": "30075",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "外から中へとカネを流し込む、金融商品。",
+    "keywords": "取引",
+    "text": "９[credit]を得る。",
     "title": "ヘッジファンド"
   },
   {
     "code": "30076",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "準備はいい？でっかいことが始まるぜ。",
+    "keywords": "ナチュラル",
     "title": "キャタリスト: 型破り"
   },
   {
     "code": "30077",
-    "flavor": null,
-    "keywords": null,
-    "text": null,
+    "flavor": "手を貸せ。まだ分かっていないようだな。",
+    "keywords": "メガコーポ",
     "title": "シンジケート: 利潤は倫理を越える"
   }
 ]
