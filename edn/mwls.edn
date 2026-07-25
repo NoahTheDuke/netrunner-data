@@ -1659,6 +1659,45 @@
   :name "Standard Ban List 26.05"
   :subtypes {:current {:deck-limit 0}}}
  {:cards {"archived-memories" {:deck-limit 0}
+          "ashen-epilogue" {:deck-limit 0}
+          "bellona" {:deck-limit 0}
+          "bukhgalter" {:deck-limit 0}
+          "cayambe-grid" {:deck-limit 0}
+          "cleaver" {:deck-limit 0}
+          "cyberdex-sandbox" {:deck-limit 0}
+          "cybersand-harvester" {:deck-limit 0}
+          "dr-vientiane-keeling" {:deck-limit 0}
+          "drago-ivanov" {:deck-limit 0}
+          "endurance" {:deck-limit 0}
+          "engram-flush" {:deck-limit 0}
+          "extract" {:deck-limit 0}
+          "false-lead" {:deck-limit 0}
+          "gold-farmer" {:deck-limit 0}
+          "hoshiko-shiro-untold-protagonist" {:deck-limit 0}
+          "k2cp-turbine" {:deck-limit 0}
+          "luminal-transubstantiation" {:deck-limit 0}
+          "matryoshka" {:deck-limit 0}
+          "melies-u-only-the-brightest" {:deck-limit 0}
+          "moshing" {:deck-limit 0}
+          "nanisivik-grid" {:deck-limit 0}
+          "nyusha-sable-sintashta-symphonic-prodigy" {:deck-limit 0}
+          "offworld-office" {:deck-limit 0}
+          "project-vacheron" {:deck-limit 0}
+          "red-level-clearance" {:deck-limit 0}
+          "rezeki" {:deck-limit 0}
+          "sting" {:deck-limit 0}
+          "touch-ups" {:deck-limit 0}
+          "tributary" {:deck-limit 0}
+          "trick-shot" {:deck-limit 0}
+          "tsakhia-bankhar-gantulga" {:deck-limit 0}
+          "world-tree" {:deck-limit 0}}
+  :custom true
+  :date-start "2026-07-29"
+  :format "standard"
+  :id "standard-ban-list-26-07"
+  :name "Standard Ban List 26.07"
+  :subtypes {:current {:deck-limit 0}}}
+ {:cards {"archived-memories" {:deck-limit 0}
           "bellona" {:deck-limit 0}
           "bloo-moose" {:deck-limit 0}
           "breached-dome" {:deck-limit 0}
