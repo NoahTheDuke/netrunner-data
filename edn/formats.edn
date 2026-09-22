@@ -33,7 +33,7 @@
   :sets ["system-gateway"
          "elevation"
          "vantage-point"]
-  :mwl "startup-ban-list-26-05"}
+  :mwl "startup-ban-list-26-09"}
 
  {:id "eternal"
   :name "Eternal"
