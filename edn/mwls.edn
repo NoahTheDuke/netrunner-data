@@ -2514,4 +2514,15 @@
   :date-start "2026-05-01"
   :format "startup"
   :id "startup-ban-list-26-05"
-  :name "Startup Ban List 26.05"}]
+  :name "Startup Ban List 26.05"}
+ {:agenda-3-point-limit 3
+  :cards {"cleaver" {:deck-limit 0}
+          "let-them-dream" {:deck-limit 0}
+          "mercia-b4ll4rd" {:deck-limit 0}
+          "offworld-office" {:deck-limit 0}
+          "seamless-launch" {:deck-limit 0}}
+  :custom true
+  :date-start "2026-09-21"
+  :format "startup"
+  :id "startup-ban-list-26-09"
+  :name "Startup Ban List 26.09"}]
